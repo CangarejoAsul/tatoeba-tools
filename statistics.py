@@ -27,8 +27,8 @@ def cleanupforsorting(word):
   word = sub(r"[ùúûũü]", "u", word)
   return word
 
-def loadlanguages():
-  print("Reading languages...")
+def loadlanguageset():
+  print("Loading language set...")
   read = open("temporary/languages.txt", "r", encoding = "utf-8")
   languages = []
   for line in read:
@@ -37,8 +37,18 @@ def loadlanguages():
   read.close()
   return languages
 
+def loadlanguagemap():
+  print("Loading language map...")
+  read = open("sentences_detailed.csv", "r", encoding = "utf-8")
+  language = {}
+  for line in read:
+    fields = findall(r"[^\t\n]+", line)
+    language[fields[0]] = fields[1]
+  read.close()
+  return language
+
 def getwords(text):
-  return findall(r"[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹][\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹·',:.-]*[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹]|[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹]", text)
+  return findall(r"[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹-][\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹·',:.-]*[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹-]|[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹]", text)
 
 def getwordsinlanguage(janome, kkma, language, text):
   text = cleanupforsplitting(text)
@@ -69,44 +79,48 @@ def loadspellchecker(language):
     file.close()
     return lambda word: all(fragment in dictionary for fragment in findall(r"\w+", word.lower()))
 
-def partitionsentences():
-  print("Partitioning sentences...")
-  read = open("sentences_detailed.csv", "r", encoding = "utf-8")
-  if not isdir("temporary"): 
-    makedirs("temporary")
-  if not isdir("temporary/sentences"): 
-    makedirs("temporary/sentences")
-  writes = {}
+def writelanguageset():
+  print("Reading language set...")
   frequency = {}
-  languageof = {}
+  read = open("sentences_detailed.csv", "r", encoding = "utf-8")
   for line in read:
     fields = findall(r"[^\t\n]+", line)
-    if fields[1] != "\\N":
-      if fields[1] not in writes:
-        writes[fields[1]] = open("temporary/sentences/" + fields[1] + ".txt", "w", encoding = "utf-8")
-      print(line, end = "", file = writes[fields[1]])
     if fields[1] not in frequency:
       frequency[fields[1]] = 0
     frequency[fields[1]] += 1
-    languageof[fields[0]] = fields[1]
   read.close()
-  for idiom in writes:
-    writes[idiom].close()
   
-  print("Writing languages...")
+  print("Writing language set...")
   languages = list(frequency.keys())
   languages.sort(key = lambda language: frequency[language], reverse = True)
+  if not isdir("temporary"): 
+    makedirs("temporary")
   write = open("temporary/languages.txt", "w", encoding = "utf-8")
   for language in languages:
     print(language, frequency[language], sep = "\t", file = write)
   write.close()
-  
-  return languageof
 
-def partitionlinks(languageof):
-  print("\nPartitioning links...")
+def partitionsentences():
+  print("Partitioning sentences...")
+  if not isdir("temporary/sentences"): 
+    makedirs("temporary/sentences")
+  write = {}
+  read = open("sentences_detailed.csv", "r", encoding = "utf-8")
+  for line in read:
+    fields = findall(r"[^\t\n]+", line)
+    if fields[1] != "\\N":
+      if fields[1] not in write:
+        write[fields[1]] = open("temporary/sentences/" + fields[1] + ".txt", "w", encoding = "utf-8")
+      print(line, end = "", file = write[fields[1]])
+  read.close()
+  for idiom in write:
+    write[idiom].close()
 
-  languages = loadlanguages()
+def partitionlinks():
+  print("Partitioning links...")
+
+  languages = loadlanguageset()
+  languageof = loadlanguagemap()
 
   print("Writing links...")
   read = open("links.csv", "r", encoding = "utf-8")
@@ -125,10 +139,11 @@ def partitionlinks(languageof):
     if language != "\\N":
       write[language].close()
 
-def subpartitionlinks(languageof):
-  print("\nSubpartitioning links...")
+def subpartitionlinks():
+  print("Subpartitioning links...")
 
-  languages = loadlanguages()
+  languages = loadlanguageset()
+  languageof = loadlanguagemap()
 
   for idiom in languages:
     if idiom != "\\N":
@@ -150,9 +165,9 @@ def subpartitionlinks(languageof):
           writes[tongue].close()
 
 def countcharacters():
-  print("\nCounting characters...")
+  print("Counting characters...")
 
-  languages = loadlanguages()
+  languages = loadlanguageset()
 
   if not isdir("characters"):
     makedirs("characters")
@@ -183,9 +198,9 @@ def countcharacters():
       write.close()
 
 def countwords():
-  print("\nCounting frequency of words...")
+  print("Counting frequency of words...")
 
-  languages = loadlanguages()
+  languages = loadlanguageset()
 
   janome = Tokenizer(wakati = True)
   kkma = Kkma()
@@ -243,9 +258,9 @@ def countwords():
       write.close()
 
 def counttranslations():
-  print("\nCounting translations...")
+  print("Counting translations...")
 
-  languages = loadlanguages()
+  languages = loadlanguageset()
 
   janome = Tokenizer(wakati = True)
   kkma = Kkma()
@@ -306,9 +321,9 @@ def counttranslations():
           write.close()
 
 def selectsentences():
-  print("\nSelecting sentences...")
+  print("Selecting sentences...")
 
-  languages = loadlanguages()
+  languages = loadlanguageset()
 
   janome = Tokenizer(wakati = True)
   kkma = Kkma()
@@ -461,10 +476,10 @@ def breaksrulesofstraightquotationmarks(text):
   return messages
 
 def analyzepunctuation():
-  print("\nAnalyzing punctuation...")
+  print("Analyzing punctuation...")
   if not isdir("problematic"):
     makedirs("problematic")
-  for language in ("cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "glg", "hun", "ita", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "spa", "swe", "tok", "tur", "vie"):
+  for language in ("cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "glg", "hun", "ita", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "slk", "spa", "swe", "tok", "tur", "vie"):
     print("Writing sentences (" + language + ")...")
     read = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
     write = open("problematic/problematic-" + language + ".txt", "w", encoding = "utf-8")
@@ -517,6 +532,9 @@ def analyzepunctuation():
       # if findall(r"""--|(\s|^)-(\s|$)""", fields[2]):
       #   print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
+      # if findall(r"""\d-\d""", fields[2]):
+      #   print("En dash: possible homoglyph", line, sep = "\t", end = "", file = write)
+
       if language in ("fra",) and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
       if language not in ("fra",) and findall(r"""\s[!]""", fields[2], flags = I):
@@ -548,7 +566,7 @@ def analyzepunctuation():
       if language in ("fra", "vie"):
         for message in breaksrulesoffrenchguillemets(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("ces", "dan", "deu", "hun", "pol"):
+      if language in ("ces", "dan", "deu", "hun", "pol", "slk"):
         for message in breaksrulesofsymmetricwrappingmarks("Guillemets", r"»", r"«", fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
       if language in ("cat", "epo", "est", "glg", "ita", "nob", "por", "ron", "spa", "tur"):
@@ -602,7 +620,7 @@ def analyzepunctuation():
       if language in ("hun", "pol", "ron"):
         for message in breaksrulesofpolishquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("ces", "deu", "est", "lit"):
+      if language in ("ces", "deu", "est", "lit", "slk"):
         for message in breaksrulesofgermanquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
       if language in ("cat", "dan", "eng", "epo", "fra", "glg", "ita", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
@@ -625,11 +643,20 @@ def analyzepunctuation():
     read.close()
     write.close()
 
-languageof = partitionsentences()
-partitionlinks(languageof)
-subpartitionlinks(languageof)
+writelanguageset()
+print("")
+partitionsentences()
+print("")
+partitionlinks()
+print("")
+subpartitionlinks()
+print("")
 countcharacters()
+print("")
 countwords()
+print("")
 counttranslations()
+print("")
 selectsentences()
+print("")
 analyzepunctuation()
