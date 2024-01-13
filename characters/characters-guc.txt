@@ -1,47 +1,47 @@
-32	0x20	 	1551	10581943	guc	Nnokoshi eekai sheewanüi.	\N	2021-12-25 21:28:39	2021-12-26 05:38:51
-33	0x21	!	21	10581913	guc	¡Pünaajaa sü'wanajaayakalü!	\N	2021-12-25 21:16:48	2021-12-26 05:39:35
-39	0x27	'	673	10581723	guc	Ni'rüin wanee shiolojo wayuu Tom.	\N	2021-12-25 20:16:11	2021-12-26 05:43:43
-44	0x2c	,	26	10582351	guc	Joo, nnojolü mojuin paa'in.	\N	2021-12-26 00:15:57	2021-12-26 05:27:53
-46	0x2e	.	881	10582399	guc	Awatüsü etkai chira.	\N	2021-12-26 00:34:04	2021-12-26 05:26:49
-63	0x3f	?	6	10581099	guc	¿Eeshi süpüla tekeroluin?	\N	2021-12-25 16:59:40	2021-12-26 05:56:10
+32	0x20	 	1551	10582232	guc	Mache'e pia süchiirua, süka anakaralu'u.	\N	2021-12-25 23:18:05	2021-12-26 05:31:43
+33	0x21	!	21	10582536	guc	¡Makata pia sulu'u pe'ejena!	\N	2021-12-26 01:55:33	2021-12-26 05:21:24
+39	0x27	'	673	10582378	guc	Niirakaa amüinchi Tom wanee kookooche'e.	\N	2021-12-26 00:25:44	2021-12-26 05:27:19
+44	0x2c	,	26	10581204	guc	Süka anakaralu'u, püikalaa.	\N	2021-12-25 17:33:10	2021-12-26 05:54:16
+46	0x2e	.	881	10582391	guc	Ta'wayuuse Mariia.	\N	2021-12-26 00:30:36	2021-12-26 05:27:01
+63	0x3f	?	6	10039501	guc	¿Jamaka shia?	rafanegrette	2021-05-15 18:08:05	2021-05-15 18:08:18
 65	0x41	A	149	10582468	guc	A'yalajasha'anashi Tom.	\N	2021-12-26 01:12:21	2021-12-26 05:24:24
-67	0x43	C	13	10582041	guc	Cho'ujaasü nneerü.	\N	2021-12-25 22:07:43	2021-12-26 05:36:12
-69	0x45	E	66	10582303	guc	Eejachi'a Tom sünainpünaa.	\N	2021-12-25 23:55:01	2021-12-26 05:29:30
+67	0x43	C	13	10582520	guc	Choujaasü wanee e'jetuu nümüin Tomas.	\N	2021-12-26 01:43:41	2021-12-26 05:22:07
+69	0x45	E	66	10582622	guc	E'irajüshi Tom jiettaachon.	\N	2021-12-26 02:45:01	2021-12-26 05:18:01
 73	0x49	I	4	10582090	guc	Ishisü limuunakalüirua.	\N	2021-12-25 22:34:14	2021-12-26 05:34:53
-74	0x4a	J	39	10582592	guc	Ja'yasü kashikalü.	\N	2021-12-26 02:25:29	2021-12-26 05:19:28
-75	0x4b	K	71	10581313	guc	Kamalainshi sümüin shiakaa.	\N	2021-12-25 18:04:31	2021-12-26 05:52:19
+74	0x4a	J	39	10582351	guc	Joo, nnojolü mojuin paa'in.	\N	2021-12-26 00:15:57	2021-12-26 05:27:53
+75	0x4b	K	71	10581210	guc	Kayorolotsha'ana shiakalü.	\N	2021-12-25 17:34:34	2021-12-26 05:54:11
 76	0x4c	L	3	10582271	guc	Laülaa Tom.	\N	2021-12-25 23:38:17	2021-12-26 05:30:33
-77	0x4d	M	129	10581373	guc	Miyo'ushaana ma'ain tüü.	\N	2021-12-25 18:29:35	2021-12-26 05:50:34
-78	0x4e	N	121	10581362	guc	Nujuupajaain Tom Maari.	\N	2021-12-25 18:24:01	2021-12-26 05:50:51
-79	0x4f	O	35	10582538	guc	O'unushi Tomas Woosütonjee.	\N	2021-12-26 01:56:57	2021-12-26 05:21:22
-80	0x50	P	134	10581631	guc	Paanajapa, süka anakaralu'u.	\N	2021-12-25 19:48:19	2021-12-26 05:45:28
-82	0x52	R	2	10581729	guc	Ruusairua nayakana.	\N	2021-12-25 20:18:16	2021-12-26 05:43:34
-83	0x53	S	69	10582317	guc	Sirumatalü palaakalü.	\N	2021-12-26 00:02:42	2021-12-26 05:29:02
-84	0x54	T	291	10039502	guc	Apooliraashi Tom.	rafanegrette	2021-05-15 18:08:11	2021-05-15 18:09:18
+77	0x4d	M	129	10582104	guc	Makateena waya ye'eyaa.	\N	2021-12-25 22:40:30	2021-12-26 05:34:28
+78	0x4e	N	121	10581158	guc	Nnojolü Püküjüin pa'alain.	\N	2021-12-25 17:15:44	2021-12-26 05:55:19
+79	0x4f	O	35	10582190	guc	Oonooshi Tom tamaa.	\N	2021-12-25 23:04:10	2021-12-26 05:32:36
+80	0x50	P	134	10581995	guc	Pansaakuawa'ipalii.	\N	2021-12-25 21:45:23	2021-12-26 05:37:32
+82	0x52	R	2	10581731	guc	Ruusairua shiakanairua.	\N	2021-12-25 20:18:58	2021-12-26 05:43:32
+83	0x53	S	69	10582418	guc	Süka anakaralu'u, jünaata tüü.	\N	2021-12-26 00:44:31	2021-12-26 05:26:14
+84	0x54	T	291	10582250	guc	Tom nüpütüin Maari.	\N	2021-12-25 23:29:15	2021-12-26 05:31:05
 85	0x55	U	1	10581549	guc	Un'utai Maari Tom.	\N	2021-12-25 19:19:44	2021-12-26 05:47:09
-87	0x57	W	65	10581420	guc	Wanee aawalawaa türa.	\N	2021-12-25 18:51:54	2021-12-26 05:49:10
-89	0x59	Y	4	10582706	guc	Yootushiin.	\N	2021-12-26 03:26:09	2021-12-26 05:15:34
+87	0x57	W	65	10581807	guc	¡Wuinsitchi Tom!	\N	2021-12-25 20:39:52	2021-12-26 05:41:55
+89	0x59	Y	4	10582431	guc	Yaawasü süka'lia.	\N	2021-12-26 00:52:11	2021-12-26 05:25:43
 90	0x5a	Z	1	11598897	guc	Ziri eisalaashi Tomas.	Amastan	2023-03-16 08:29:28	2023-03-16 08:29:37
-97	0x61	a	3772	10581356	guc	Shia takuwa'ipajatü tüü.	\N	2021-12-25 18:21:56	2021-12-26 05:50:59
-99	0x63	c	125	10581252	guc	Anachonsü ma'ain shiakalü.	\N	2021-12-25 17:45:01	2021-12-26 05:53:32
-101	0x65	e	863	10581185	guc	Wane'ewalüinjatü namüin naa'innajatükalü.	\N	2021-12-25 17:26:54	2021-12-26 05:54:38
-104	0x68	h	542	10582004	guc	Müshi ji'maaikai Tom.	\N	2021-12-25 21:47:28	2021-12-26 05:37:24
-105	0x69	i	1657	10581119	guc	Outushi etkai.	\N	2021-12-25 17:04:36	2021-12-26 05:55:52
-106	0x6a	j	463	10582149	guc	Ekirajaashii waya püransee.	\N	2021-12-25 22:53:02	2021-12-26 05:33:37
-107	0x6b	k	513	10582306	guc	Makata pia sünain ekaa.	\N	2021-12-25 23:57:08	2021-12-26 05:29:23
-108	0x6c	l	580	10581876	guc	Asirajüshii waya piamale'e.	\N	2021-12-25 21:02:10	2021-12-26 05:40:28
-109	0x6d	m	597	10582540	guc	Tomas wanee wayuu kanain aa'inchi waneejatükuwa'ipalüin.	\N	2021-12-26 01:58:20	2021-12-26 05:21:16
-110	0x6e	n	1139	10582364	guc	Anale'e ma'ain tüú.	\N	2021-12-26 00:19:27	2021-12-26 05:27:41
-111	0x6f	o	780	10582623	guc	E'irajüshi Tom jiettaakuwa'ipaachon.	\N	2021-12-26 02:45:43	2021-12-26 05:17:59
-112	0x70	p	332	10581356	guc	Shia takuwa'ipajatü tüü.	\N	2021-12-25 18:21:56	2021-12-26 05:50:59
-114	0x72	r	379	10581386	guc	Pi'yata te'eraiwa türa.	\N	2021-12-25 18:34:28	2021-12-26 05:50:16
-115	0x73	s	863	10582546	guc	Aapünüsü tamüin muusa so'opünaa unaalü.	\N	2021-12-26 02:02:31	2021-12-26 05:21:00
-116	0x74	t	612	10582696	guc	Pa'atapaja wanee sekunta.	\N	2021-12-26 03:21:57	2021-12-26 05:15:50
-117	0x75	u	807	10582181	guc	A'yataapu'ushi Tom.	\N	2021-12-25 23:02:05	2021-12-26 05:32:43
+97	0x61	a	3772	10581996	guc	Pawalaawashii.	\N	2021-12-25 21:46:05	2021-12-26 05:37:30
+99	0x63	c	125	10582319	guc	Müshi jashichikai Tom.	\N	2021-12-26 00:04:06	2021-12-26 05:28:57
+101	0x65	e	863	10582311	guc	Washawale'ereenan.	\N	2021-12-25 23:59:13	2021-12-26 05:29:15
+104	0x68	h	542	10582607	guc	Choujaasü Maari nümüin Tom.	\N	2021-12-26 02:37:21	2021-12-26 05:18:31
+105	0x69	i	1657	10582614	guc	Naapa ekiirü Tom sümüin Maari.	\N	2021-12-26 02:40:50	2021-12-26 05:18:17
+106	0x6a	j	463	10582191	guc	Nnojolü poonooin nümaa Tom.	\N	2021-12-25 23:04:51	2021-12-26 05:32:33
+107	0x6b	k	513	10581881	guc	Wanee nneerü mapüleekuwa'ipalü.	\N	2021-12-25 21:04:15	2021-12-26 05:40:21
+108	0x6c	l	580	10581117	guc	Karalo'utakalü tüü taajüin.	\N	2021-12-25 17:03:54	2021-12-26 05:55:56
+109	0x6d	m	597	10582235	guc	Eesü wanee ama nüma'ana Tom.	\N	2021-12-25 23:20:53	2021-12-26 05:31:37
+110	0x6e	n	1139	10581182	guc	Otchejawaakalü saa'inrüin wayuu.	\N	2021-12-25 17:26:12	2021-12-26 05:54:40
+111	0x6f	o	780	10581370	guc	Keemashi Tom.	\N	2021-12-25 18:26:48	2021-12-26 05:50:42
+112	0x70	p	332	10581332	guc	Alütsü süpüla aipirua oora.	\N	2021-12-25 18:11:29	2021-12-26 05:51:37
+114	0x72	r	379	10581833	guc	Arottaajuushi Tom.	\N	2021-12-25 20:46:08	2021-12-26 05:41:30
+115	0x73	s	863	10582699	guc	A'atapajüshiin.	\N	2021-12-26 03:23:21	2021-12-26 05:15:44
+116	0x74	t	612	10582060	guc	Kasaatchi Tom.	\N	2021-12-25 22:23:46	2021-12-26 05:35:33
+117	0x75	u	807	10582052	guc	O'unushi Tom wachiirua.	\N	2021-12-25 22:18:54	2021-12-26 05:35:51
 119	0x77	w	355	10582712	guc	Ma'awapu'ushi Tom.	\N	2021-12-26 03:29:38	2021-12-26 05:15:20
-121	0x79	y	263	10581773	guc	Naa'injain napushua'ayan.	\N	2021-12-25 20:32:12	2021-12-26 05:42:24
-161	0xa1	¡	22	9974603	guc	¡Puwataa!	rafanegrette	2021-04-20 22:37:43	2021-04-21 22:29:33
-191	0xbf	¿	6	10039501	guc	¿Jamaka shia?	rafanegrette	2021-05-15 18:08:05	2021-05-15 18:08:18
+121	0x79	y	263	10581779	guc	Wanee a'yatawaa yarüttüsü.	\N	2021-12-25 20:34:17	2021-12-26 05:42:16
+161	0xa1	¡	22	10581913	guc	¡Pünaajaa sü'wanajaayakalü!	\N	2021-12-25 21:16:48	2021-12-26 05:39:35
+191	0xbf	¿	6	10581190	guc	¿Eeshi süpüla to'unui joolu'ukale'e?	\N	2021-12-25 17:28:17	2021-12-26 05:54:32
 241	0xf1	ñ	2	10582485	guc	Shia tasüinñee tüü.	\N	2021-12-26 01:23:30	2021-12-26 05:23:21
 250	0xfa	ú	1	10582364	guc	Anale'e ma'ain tüú.	\N	2021-12-26 00:19:27	2021-12-26 05:27:41
-252	0xfc	ü	1175	10581256	guc	Eeshi süpüla totchejaain sümaa.	\N	2021-12-25 17:47:06	2021-12-26 05:53:24
+252	0xfc	ü	1175	10582283	guc	¿Eesü süpüla temeriijain tanain?	\N	2021-12-25 23:43:52	2021-12-26 05:30:13

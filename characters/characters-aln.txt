@@ -1,43 +1,43 @@
-32	0x20	 	80	6984034	aln	Tomi e Maria nuk jon kôn aty.	aln	2018-07-09 13:25:26	2018-07-09 13:54:05
+32	0x20	 	80	6983495	aln	Mue m'ka hup nji libër.	aln	2018-07-08 20:28:57	2018-07-08 20:29:00
 33	0x21	!	2	6983492	aln	Ajo âsht e bukur!	aln	2018-07-08 20:28:00	2018-07-08 20:28:03
-39	0x27	'	9	6983531	aln	T'lutna.	aln	2018-07-08 20:45:27	2018-07-08 20:55:14
+39	0x27	'	9	6983511	aln	A je kôn najher n'Shqipní?	aln	2018-07-08 20:34:32	2018-07-08 20:35:18
 46	0x2e	.	17	6983532	aln	T'due.	aln	2018-07-08 20:45:50	2018-07-08 20:55:09
-63	0x3f	?	11	6984026	aln	A âsht kjo shpija e Tomit?	aln	2018-07-09 13:22:08	2018-07-09 13:54:15
-65	0x41	A	5	6983529	aln	A folni shqip?	aln	2018-07-08 20:44:22	2018-07-08 20:55:18
+63	0x3f	?	11	6983461	aln	Qysh je?	aln	2018-07-08 20:04:56	2018-07-08 20:05:34
+65	0x41	A	5	6983521	aln	Ajo fol edhe frangjisht.	aln	2018-07-08 20:39:00	2018-07-08 20:39:41
 69	0x45	E	1	6983513	aln	E kam pas ândërr me t'pa.	aln	2018-07-08 20:36:18	2018-07-08 20:37:14
 70	0x46	F	1	6984041	aln	Flamuri jôn âsht kuq e zi.	aln	2018-07-09 13:27:47	2018-07-09 13:53:58
 71	0x47	G	1	6984023	aln	Gjuha shqipe âsht fort e bukur.	aln	2018-07-09 13:21:28	2018-07-09 13:54:18
-75	0x4b	K	4	6984018	aln	Kur jom kôn i ri...	aln	2018-07-09 13:20:12	2018-07-09 13:54:33
+75	0x4b	K	4	6983528	aln	Ku je kôn?	aln	2018-07-08 20:42:22	2018-07-08 20:54:57
 77	0x4d	M	3	6983495	aln	Mue m'ka hup nji libër.	aln	2018-07-08 20:28:57	2018-07-08 20:29:00
 78	0x4e	N	1	6983525	aln	Nashta.	aln	2018-07-08 20:40:50	2018-07-08 20:43:01
 80	0x50	P	1	6983517	aln	Po m'dhemb kryt.	aln	2018-07-08 20:37:44	2018-07-08 20:37:51
-81	0x51	Q	7	6983461	aln	Qysh je?	aln	2018-07-08 20:04:56	2018-07-08 20:05:34
+81	0x51	Q	7	6983462	aln	Qysh jeni?	aln	2018-07-08 20:05:13	2018-07-08 20:10:58
 83	0x53	S	3	6984038	aln	Shpija e prindve tu âsht shum larg!	aln	2018-07-09 13:26:51	2018-07-09 13:26:55
-84	0x54	T	5	6983532	aln	T'due.	aln	2018-07-08 20:45:50	2018-07-08 20:55:09
+84	0x54	T	5	6984034	aln	Tomi e Maria nuk jon kôn aty.	aln	2018-07-09 13:25:26	2018-07-09 13:54:05
 97	0x61	a	27	6983513	aln	E kam pas ândërr me t'pa.	aln	2018-07-08 20:36:18	2018-07-08 20:37:14
-98	0x62	b	5	6983492	aln	Ajo âsht e bukur!	aln	2018-07-08 20:28:00	2018-07-08 20:28:03
-100	0x64	d	6	6983517	aln	Po m'dhemb kryt.	aln	2018-07-08 20:37:44	2018-07-08 20:37:51
-101	0x65	e	27	6983500	aln	Qysh je kôn?	aln	2018-07-08 20:29:48	2018-07-08 20:35:12
+98	0x62	b	5	6983495	aln	Mue m'ka hup nji libër.	aln	2018-07-08 20:28:57	2018-07-08 20:29:00
+100	0x64	d	6	6983513	aln	E kam pas ândërr me t'pa.	aln	2018-07-08 20:36:18	2018-07-08 20:37:14
+101	0x65	e	27	6984029	aln	Maria i ka te tân librat.	aln	2018-07-09 13:22:50	2018-07-09 13:54:09
 102	0x66	f	5	6983521	aln	Ajo fol edhe frangjisht.	aln	2018-07-08 20:39:00	2018-07-08 20:39:41
-103	0x67	g	3	6983457	aln	Tungjatjeta.	aln	2018-07-08 20:03:56	2018-07-08 20:24:24
-104	0x68	h	28	6984020	aln	Qysh t'thush ti.	aln	2018-07-09 13:20:42	2018-07-09 13:54:26
-105	0x69	i	25	6983521	aln	Ajo fol edhe frangjisht.	aln	2018-07-08 20:39:00	2018-07-08 20:39:41
-106	0x6a	j	20	6983523	aln	Kur je kôn për herë t'fundit n'Kosovë?	aln	2018-07-08 20:40:07	2018-07-08 20:40:51
-107	0x6b	k	16	6984029	aln	Maria i ka te tân librat.	aln	2018-07-09 13:22:50	2018-07-09 13:54:09
-108	0x6c	l	7	6983521	aln	Ajo fol edhe frangjisht.	aln	2018-07-08 20:39:00	2018-07-08 20:39:41
-109	0x6d	m	12	6984038	aln	Shpija e prindve tu âsht shum larg!	aln	2018-07-09 13:26:51	2018-07-09 13:26:55
-110	0x6e	n	26	6983529	aln	A folni shqip?	aln	2018-07-08 20:44:22	2018-07-08 20:55:18
-111	0x6f	o	14	6983492	aln	Ajo âsht e bukur!	aln	2018-07-08 20:28:00	2018-07-08 20:28:03
-112	0x70	p	10	6984038	aln	Shpija e prindve tu âsht shum larg!	aln	2018-07-09 13:26:51	2018-07-09 13:26:55
-113	0x71	q	4	6983511	aln	A je kôn najher n'Shqipní?	aln	2018-07-08 20:34:32	2018-07-08 20:35:18
-114	0x72	r	23	6983513	aln	E kam pas ândërr me t'pa.	aln	2018-07-08 20:36:18	2018-07-08 20:37:14
-115	0x73	s	22	6983515	aln	Qysh e ki emnin?	aln	2018-07-08 20:37:12	2018-07-08 20:37:47
-116	0x74	t	25	6983525	aln	Nashta.	aln	2018-07-08 20:40:50	2018-07-08 20:43:01
-117	0x75	u	20	6983495	aln	Mue m'ka hup nji libër.	aln	2018-07-08 20:28:57	2018-07-08 20:29:00
-118	0x76	v	2	6983523	aln	Kur je kôn për herë t'fundit n'Kosovë?	aln	2018-07-08 20:40:07	2018-07-08 20:40:51
-121	0x79	y	8	6983461	aln	Qysh je?	aln	2018-07-08 20:04:56	2018-07-08 20:05:34
+103	0x67	g	3	6983521	aln	Ajo fol edhe frangjisht.	aln	2018-07-08 20:39:00	2018-07-08 20:39:41
+104	0x68	h	28	6983526	aln	Qysh?	aln	2018-07-08 20:41:08	2018-07-08 20:41:16
+105	0x69	i	25	6983515	aln	Qysh e ki emnin?	aln	2018-07-08 20:37:12	2018-07-08 20:37:47
+106	0x6a	j	20	6983500	aln	Qysh je kôn?	aln	2018-07-08 20:29:48	2018-07-08 20:35:12
+107	0x6b	k	16	6983513	aln	E kam pas ândërr me t'pa.	aln	2018-07-08 20:36:18	2018-07-08 20:37:14
+108	0x6c	l	7	6984029	aln	Maria i ka te tân librat.	aln	2018-07-09 13:22:50	2018-07-09 13:54:09
+109	0x6d	m	12	6984034	aln	Tomi e Maria nuk jon kôn aty.	aln	2018-07-09 13:25:26	2018-07-09 13:54:05
+110	0x6e	n	26	6983523	aln	Kur je kôn për herë t'fundit n'Kosovë?	aln	2018-07-08 20:40:07	2018-07-08 20:40:51
+111	0x6f	o	14	6983529	aln	A folni shqip?	aln	2018-07-08 20:44:22	2018-07-08 20:55:18
+112	0x70	p	10	6983523	aln	Kur je kôn për herë t'fundit n'Kosovë?	aln	2018-07-08 20:40:07	2018-07-08 20:40:51
+113	0x71	q	4	6984023	aln	Gjuha shqipe âsht fort e bukur.	aln	2018-07-09 13:21:28	2018-07-09 13:54:18
+114	0x72	r	23	6983521	aln	Ajo fol edhe frangjisht.	aln	2018-07-08 20:39:00	2018-07-08 20:39:41
+115	0x73	s	22	6983491	aln	Sa âsht ora?	aln	2018-07-08 20:27:19	2018-07-08 20:35:02
+116	0x74	t	25	6984029	aln	Maria i ka te tân librat.	aln	2018-07-09 13:22:50	2018-07-09 13:54:09
+117	0x75	u	20	6984041	aln	Flamuri jôn âsht kuq e zi.	aln	2018-07-09 13:27:47	2018-07-09 13:53:58
+118	0x76	v	2	6984038	aln	Shpija e prindve tu âsht shum larg!	aln	2018-07-09 13:26:51	2018-07-09 13:26:55
+121	0x79	y	8	6983526	aln	Qysh?	aln	2018-07-08 20:41:08	2018-07-08 20:41:16
 122	0x7a	z	1	6984041	aln	Flamuri jôn âsht kuq e zi.	aln	2018-07-09 13:27:47	2018-07-09 13:53:58
-226	0xe2	â	8	6984023	aln	Gjuha shqipe âsht fort e bukur.	aln	2018-07-09 13:21:28	2018-07-09 13:54:18
+226	0xe2	â	8	6984038	aln	Shpija e prindve tu âsht shum larg!	aln	2018-07-09 13:26:51	2018-07-09 13:26:55
 235	0xeb	ë	5	6983523	aln	Kur je kôn për herë t'fundit n'Kosovë?	aln	2018-07-08 20:40:07	2018-07-08 20:40:51
-237	0xed	í	2	6983527	aln	Qe sa mrrína.	aln	2018-07-08 20:41:50	2018-07-08 20:55:25
-244	0xf4	ô	7	6984034	aln	Tomi e Maria nuk jon kôn aty.	aln	2018-07-09 13:25:26	2018-07-09 13:54:05
+237	0xed	í	2	6983511	aln	A je kôn najher n'Shqipní?	aln	2018-07-08 20:34:32	2018-07-08 20:35:18
+244	0xf4	ô	7	6984018	aln	Kur jom kôn i ri...	aln	2018-07-09 13:20:12	2018-07-09 13:54:33

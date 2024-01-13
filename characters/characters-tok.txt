@@ -1,73 +1,73 @@
-32	0x20	 	479167	4825100	tok	jan ali li tawa weka tan mi mute.	carlosalberto	2016-01-11 14:35:16	2016-01-11 14:35:16
-33	0x21	!	2109	7121837	tok	ni li sike pi akesi ike suli!	list	2018-09-04 13:27:14	2018-09-04 13:27:14
-34	0x22	"	1711	11122630	tok	"jan pi pana moku li toki ala toki lon toki Kanse?" "ala. ona li toki lon toki Elena."	carlosalberto	2022-09-17 14:14:57	2022-09-17 14:14:57
+32	0x20	 	479816	8182684	tok	sina ken ala ken toki lon tenpo pi suli mute?	Tepan	2019-09-12 13:50:18	2022-09-18 08:00:51
+33	0x21	!	2115	8027656	tok	ona li ike mute!	list	2019-07-06 09:32:25	2019-07-06 09:32:25
+34	0x22	"	1711	11042629	tok	"wile ala la ale li lon anu seme?" "ala a!"	carlosalberto	2022-08-04 13:36:07	2022-08-04 13:36:07
 38	0x26	&	1	6628835	tok	kon pi sitelen "&" li sama kon pi nimi "en".	Tepan	2018-01-24 14:10:30	2022-09-17 20:42:05
-39	0x27	'	12	9983231	tok	toki ni li seme lon toki Losupan: "toki ni li seme lon toki Losupan: 'mi moku e kili.'"	soweli_nata	2021-04-24 17:16:50	2021-04-24 17:16:50
-40	0x28	(	3	10795350	tok	mi sona ala e ni: ni li olin ala olin. (kin la, jan seme li sona e ni: olin li seme?) taso, mi sona wawa e ni: mi wile lon poka sina.	hecko	2022-04-30 14:23:06	2022-04-30 14:23:06
-41	0x29	)	3	12059011	tok	kepeken nena la jan Mewi li moku e linja mute pi ko walo nasa tan ni: ona li wile weka sona e ni: tenpo ni la jan Ton (jan olin ona) li pakala e olin ona.	nlw	2023-09-16 23:22:27	2023-09-22 16:50:46
+39	0x27	'	12	10984133	tok	"jan Ton o, nasin seme la sina toki ante e nimi suli pi lipu 'The Thousand and One Nights' kepeken toki pona?" "ken la 'tenpo pimeja ale suli en tenpo pimeja wan'."	carlosalberto	2022-07-12 10:05:20	2022-07-12 10:05:20
+40	0x28	(	3	12059011	tok	kepeken nena la jan Mewi li moku e linja mute pi ko walo nasa tan ni: ona li wile weka sona e ni: tenpo ni la jan Ton (jan olin ona) li pakala e olin ona.	nlw	2023-09-16 23:22:27	2023-09-22 16:50:46
+41	0x29	)	3	10795350	tok	mi sona ala e ni: ni li olin ala olin. (kin la, jan seme li sona e ni: olin li seme?) taso, mi sona wawa e ni: mi wile lon poka sina.	hecko	2022-04-30 14:23:06	2022-04-30 14:23:06
 43	0x2b	+	1	6489247	tok	nanpa pi toki ilo tan ma Italija li +39.	list	2017-11-30 12:38:21	2017-11-30 12:38:21
-44	0x2c	,	3099	4794119	tok	sina lukin e ijo, la sina sona e ona.	carlosalberto	2015-12-27 10:44:21	2015-12-27 10:44:21
-45	0x2d	-	181	8987066	tok	nimi Pilin-Pi-Lon-Li-Pona li kama la jan mute li sona e ni: ona mute sama li jo ala e ona.	list	2020-08-21 10:33:57	2020-08-21 10:34:52
-46	0x2e	.	48451	6369625	tok	ona mije li kama jo e lipu ni lon esun ni.	list	2017-10-07 13:22:27	2020-02-08 12:56:19
+44	0x2c	,	3103	9727154	tok	jan Ton li kama tan ala tawa awen ona, sama jan utala pi selo kiwen suno.	hecko	2021-02-05 18:31:41	2021-02-05 18:31:41
+45	0x2d	-	181	6477123	tok	sina wile ala wile e wan suwi pi sike pan en telo pimeja seli? - ni li ike ala.	list	2017-11-21 13:56:34	2017-11-21 13:56:34
+46	0x2e	.	48522	9163486	tok	mi kama jo e pipi pi pona lukin.	jan_Ne	2020-10-19 14:00:53	2020-10-19 14:00:53
 47	0x2f	/	2	10992941	tok	jan li wile kalama e kalama /Ʈ/ la ona li wile tawa e linja uta ona tawa monsi.	GiggyMantis	2022-07-15 16:19:15	2022-07-17 18:48:51
-48	0x30	0	26	12180720	tok	jan 1000000 li lon ma Nusilan.	Ultronimation	2023-11-27 07:14:04	2023-11-27 07:15:26
-49	0x31	1	16	6944782	tok	tenpo pini la ona li jan pi tenpo sike 18 kin.	list	2018-06-14 11:52:21	2020-02-08 15:22:31
-50	0x32	2	10	10089552	tok	tenpo sike nanpa 2020 li tenpo sike ike.	Raizin	2021-06-07 02:40:28	2021-06-07 02:40:28
-51	0x33	3	7	11005344	tok	nimi 123 li lon toki pona. nimi ni li kama tan ma mute.	carlosalberto	2022-07-19 11:06:19	2022-07-19 13:35:27
-52	0x34	4	9	10359182	tok	lipu ni li kepeken nasin lawa CC BY 4.0.	Raizin	2021-10-12 20:55:48	2021-10-12 20:55:48
+48	0x30	0	26	10359182	tok	lipu ni li kepeken nasin lawa CC BY 4.0.	Raizin	2021-10-12 20:55:48	2021-10-12 20:55:48
+49	0x31	1	16	11005389	tok	mi kama lon ale lon sike suno nanpa 1933.	carlosalberto	2022-07-19 11:39:39	2022-07-19 11:39:48
+50	0x32	2	10	4968141	tok	tenpo suno la tenpo suli 24 taso lon ilo tenpo li lon.	carlosalberto	2016-03-11 14:13:37	2016-03-11 14:13:37
+51	0x33	3	7	11535361	tok	tan tenpo pini la, tenpo sike 30 li kama.	CubeAlgs101	2023-02-13 23:51:42	2023-02-13 23:51:42
+52	0x34	4	9	10359181	tok	pali ni li kepeken nasin lawa CC BY 4.0.	Raizin	2021-10-12 20:54:48	2021-10-12 20:54:48
 53	0x35	5	6	12059631	tok	tenpo sike 65 la, ona li wile pini e pali.	nlw	2023-09-17 09:21:37	2023-09-17 09:21:37
-54	0x36	6	4	8330592	tok	jan Ton li tenpo suli 65 la ona li kama moli.	list	2019-11-18 12:11:32	2019-11-18 12:11:32
-55	0x37	7	12	11232719	tok	mi pana e linja nimi pi mute 777 lon toki Elena tawa lipu Tatowepa.	carlosalberto	2022-11-06 15:23:48	2022-11-06 15:23:48
-56	0x38	8	6	11577667	tok	nanpa pi ilo toki mi li 2468.	Biderl	2023-03-05 12:31:01	2023-03-05 12:31:01
-57	0x39	9	7	11005389	tok	mi kama lon ale lon sike suno nanpa 1933.	carlosalberto	2022-07-19 11:39:39	2022-07-19 11:39:48
-58	0x3a	:	7709	6897125	tok	toki sina wile lukin pali e ni: kama sona lili pi toki Kanse.	list	2018-05-18 14:02:55	2018-05-18 14:02:55
-59	0x3b	;	11	9141219	tok	musi pi mije lawa ma la mije lawa li ken tawa monsi pi tomo wawa lon ni taso: tenpo pini ale la mije lawa en tomo wawa li tawa ala; insa pi ona tu la ma taso ni li lon: kulupu utala ante li lawa ala e ona; mije lawa li lon ala utala li lon ala utala lon monsi pi tomo wawa.	Tepan	2020-10-13 12:36:28	2021-07-19 20:09:57
-63	0x3f	?	10479	10020814	tok	sina kama jo e lipu pi mute seme lon esun?	Tepan	2021-05-10 12:44:52	2021-05-10 12:44:52
-65	0x41	A	309	12008304	tok	jan Akula li monsuta.	soweli_Wasona	2023-08-21 20:07:18	2023-08-21 21:45:06
-66	0x42	B	5	12180594	tok	mi pilin ala e ni: mi mute li wile e tawa ma Boson li pini lon pimeja	Ultronimation	2023-11-27 05:01:59	2023-11-27 05:01:59
+54	0x36	6	4	12059631	tok	tenpo sike 65 la, ona li wile pini e pali.	nlw	2023-09-17 09:21:37	2023-09-17 09:21:37
+55	0x37	7	12	5912763	tok	mi kama sona e toki Tosi kepeken lipu toki pi sin ala. tenpo sike nanpa 1970 la ona li kama lon.	jan_Keto	2017-03-03 03:46:23	\N
+56	0x38	8	6	8900462	tok	luka tu wan en luka luka la ni li nanpa 18.	list	2020-07-08 11:43:06	2020-07-08 11:43:06
+57	0x39	9	7	1725422	tok	nanpa pi ilo toki mi li 789.	soweli_Elepanto	2012-07-25 16:13:52	2012-07-25 16:13:52
+58	0x3a	:	7716	11011840	tok	kiki lili li lon palisa luka pi jan Ton. ni la ona li toki e ni tawa jan Mewi: ona o pana e pona o weka e kiki ni lon poka ona.	hecko	2022-07-21 18:24:33	2022-07-22 17:21:36
+59	0x3b	;	11	642613	tok	sina pilin e ni: jan li pona unpa. taso tenpo pini la mi kama sona e jan li pilin e ni: jan en kulupu jan ali li ike li wile ala e ni: jan ante li ken e ike ona; jan li pana e ike tawa jan kepeken nasin mute tan ni.	bojnin	2010-12-01 12:32:14	2011-02-07 12:52:33
+63	0x3f	?	10498	1458519	tok	seme li kasi kule ni?	janMiso	2012-02-27 06:31:05	2019-04-15 18:32:20
+65	0x41	A	309	6669120	tok	ma tomo Alen li lon nasin telo Koke.	list	2018-02-02 14:34:32	2018-02-02 14:34:32
+66	0x42	B	5	10359181	tok	pali ni li kepeken nasin lawa CC BY 4.0.	Raizin	2021-10-12 20:54:48	2021-10-12 20:54:48
 67	0x43	C	8	10359182	tok	lipu ni li kepeken nasin lawa CC BY 4.0.	Raizin	2021-10-12 20:55:48	2021-10-12 20:55:48
-69	0x45	E	492	11593626	tok	tenpo ala la mi kama sona e toki Epelanto.	shekitten	2023-03-13 21:24:44	2023-03-13 21:24:44
+69	0x45	E	492	9108968	tok	o pana e linja nimi ni lon toki Epelanto!	Tepan	2020-10-05 15:56:10	2020-10-30 15:03:23
 70	0x46	F	1	11275397	tok	mi tawa sewi pi nena Fusi lon tenpo tu.	hecko	2022-11-28 20:33:53	2022-11-28 20:33:53
 72	0x48	H	1	6589594	tok	kon pi nimi Inli "WHO" li seme?	Tepan	2018-01-04 16:12:15	2022-09-18 08:45:59
-73	0x49	I	526	10752544	tok	jan li toki kepeken toki Inli li toki kepeken toki Kanse lon ma Kanata.	carlosalberto	2022-04-04 03:43:54	2022-04-04 03:43:54
-74	0x4a	J	197	10276196	tok	jan Jani en jan Kula li wan taso lon tenpo ala.	secnyt	2021-09-03 21:46:06	2022-03-21 15:42:39
-75	0x4b	K	1004	11012199	tok	jan Ton li sona lili taso e toki Kanse.	carlosalberto	2022-07-22 00:06:42	2022-07-22 00:06:42
-76	0x4c	L	477	6630096	tok	o pana e pona tawa toki Losupan.	Tepan	2018-01-25 15:06:44	2022-08-08 11:36:29
-77	0x4d	M	2555	7036356	tok	jan Mali li wile sona mute e ijo tan jan Ton la ona li toki ike tawa jan Ton.	list	2018-08-01 10:50:07	2018-08-01 10:50:07
-78	0x4e	N	263	4899908	tok	ma tomo Nujoka li ma tomo suli.	ToinhoAlam	2016-02-09 20:56:16	2016-02-09 20:56:16
-79	0x4f	O	143	11028089	tok	jan Ton li toki e ni tawa mi: ona li lon ala ma Oselija.	carlosalberto	2022-07-27 09:49:09	2022-07-27 09:49:09
-80	0x50	P	953	4734305	tok	jan Pilu li pini e moku pi kon nasa seli.	carlosalberto	2015-11-29 13:40:52	2015-11-29 13:40:52
-83	0x53	S	877	7823910	tok	jan Julana li toki e ni tawa mi: sina kama tan ma tomo Sapolo.	Goatstein	2019-03-24 22:27:08	2019-03-24 22:27:08
-84	0x54	T	8373	8085046	tok	jan Ton li lukin e lipu sewi.	Goatstein	2019-07-31 21:49:43	2019-07-31 21:49:43
-85	0x55	U	30	3357638	tok	jan pi sona sin o wile ala utala o pona e jan pakala o lon e ken jan pi kulupu UN!	soweli_Elepanto	2014-07-03 22:42:02	2014-07-03 22:42:02
+73	0x49	I	530	11151762	tok	mi wile ala tawa ma Italija.	soweli_Elepanto	2022-10-01 12:37:07	2022-10-01 12:37:07
+74	0x4a	J	198	6328030	tok	jan Ton li wile pana e nimi Jokan tawa mije lili ona.	soweli_Elepanto	2017-09-26 10:33:15	2017-09-26 10:33:15
+75	0x4b	K	1004	4819892	tok	musi pi nimi Kanawalo li pona ala pona tawa jan Pasila ali? ala.	carlosalberto	2016-01-09 11:39:26	2020-10-18 13:03:54
+76	0x4c	L	477	4548104	tok	mi mute li kama awen lon ma tomo Loma.	carlosalberto	2015-09-23 15:18:02	2015-09-23 15:18:02
+77	0x4d	M	2556	7423405	tok	ona li nasa mute tawa jan Mali la jan Mali li tawa weka.	list	2018-11-06 12:42:36	2020-02-08 14:33:55
+78	0x4e	N	263	7260774	tok	jan li pali e tomo Nowantan tan wile pi jan lawa seme?	soweli_Elepanto	2018-10-06 16:24:01	2020-12-31 11:49:28
+79	0x4f	O	144	9409537	tok	open la jan Ton li lon e ma tomo Pasen e ma Oselija.	shekitten	2020-11-30 11:29:54	2020-11-30 11:29:54
+80	0x50	P	953	4566511	tok	ma tomo Pasen li ante.	carlosalberto	2015-09-29 11:22:36	2015-09-29 11:22:36
+83	0x53	S	880	9642838	tok	jan Sami li wile lukin e ona.	hecko	2021-01-13 19:11:42	2021-01-13 19:11:42
+84	0x54	T	8387	7792413	tok	jan Ton li tu li pana e pan suwi tawa meli sama ona.	Goatstein	2019-02-28 20:23:31	2019-03-03 18:46:08
+85	0x55	U	30	4809781	tok	ma tomo lawa pi ma Monko li ma tomo Ulanpata.	carlosalberto	2016-01-04 12:42:01	2022-03-14 11:48:03
 86	0x56	V	1	12253760	tok	jan Vera li ken lape ala.	JameezTranslates	2024-01-06 03:06:36	2024-01-06 03:06:36
-87	0x57	W	120	659299	tok	mi toki ala lon toki Wensa.	Vortarulo	2010-12-10 10:14:29	2020-11-29 13:35:44
-89	0x59	Y	4	10359181	tok	pali ni li kepeken nasin lawa CC BY 4.0.	Raizin	2021-10-12 20:54:48	2021-10-12 20:54:48
+87	0x57	W	120	4755616	tok	ona li kalama pona mute e ilo musi Wijolin.	carlosalberto	2015-12-10 01:30:52	2015-12-10 01:30:52
+89	0x59	Y	4	10359157	tok	jan li ken kepeken lipu ni kepeken nasin CC BY 4.0.	Raizin	2021-10-12 20:37:49	2021-10-12 20:37:49
 94	0x5e	^	1	11364674	tok	"x^2" li sama "-1" la, "x" li nanpa lon ala; sitelen "x" li "sqrt(-1)" anu "i"; nimi "x" li "wan pi lon ala."	purehearted	2022-12-23 20:09:19	2022-12-23 22:14:31
-97	0x61	a	276394	6892603	tok	tenpo ale lon tenpo lete la ko sewi lete li kama anpa lon ni.	list	2018-05-15 13:29:38	2018-05-15 13:29:38
+97	0x61	a	276835	2327881	tok	utala li wan e jan Mewika mute.	soweli_Elepanto	2013-03-21 23:44:24	2013-03-21 23:44:24
 98	0x62	b	1	10280504	tok	tenpo ni la jan lili mi li lon ma Kabylie.	secnyt	2021-09-06 00:59:40	2021-09-06 00:59:40
 99	0x63	c	7	7784767	tok	toki Inlia la nimi "Micro" li selo lili pi nimi "Microcomputer".	Goatstein	2019-02-21 22:52:16	2021-02-12 13:23:46
-100	0x64	d	7	11316047	tok	They like eating cold carrots.	lasolaco	2022-12-10 22:03:15	2022-12-10 22:03:28
-101	0x65	e	146445	10992921	tok	tenpo kama la o alasa isipin e toki pi weka apeja pi pona mute.	GiggyMantis	2022-07-15 16:08:41	2022-07-17 20:30:44
+100	0x64	d	7	9962743	tok	musi pi jan lawa ma la insa pi supa musi li jo e suli mute. musi sina li jo e insa wawa, la sina pali pona e utala e awen. insa musi li jo e ma e4 e ma e5 e ma d4 e ma d5.	carlosalberto	2021-04-16 14:16:07	2021-04-19 22:18:45
+101	0x65	e	146669	4882663	tok	sina wile moku e ijo anu seme?	carlosalberto	2016-02-03 14:06:16	2016-02-03 14:06:16
 103	0x67	g	4	10984133	tok	"jan Ton o, nasin seme la sina toki ante e nimi suli pi lipu 'The Thousand and One Nights' kepeken toki pona?" "ken la 'tenpo pimeja ale suli en tenpo pimeja wan'."	carlosalberto	2022-07-12 10:05:20	2022-07-12 10:05:20
-104	0x68	h	4	11316047	tok	They like eating cold carrots.	lasolaco	2022-12-10 22:03:15	2022-12-10 22:03:28
-105	0x69	i	238842	7222666	tok	pini pi tenpo lili la soweli tomo li lon poka nasin. tawa lukin la ona li pilin ike.	Tepan	2018-09-28 09:16:04	2022-09-17 15:50:59
-106	0x6a	j	37666	11006240	tok	jan Ton li wile awen lon ma Oselija lon tenpo suli. taso, ona li ken awen lon tenpo lili taso.	hecko	2022-07-19 20:50:48	2022-07-19 20:50:48
-107	0x6b	k	68328	9817685	tok	pana pi ken ale li pakala e kulupu pi pana ken.	hecko	2021-03-02 12:44:39	2021-03-02 12:44:39
-108	0x6c	l	171023	6959135	tok	tenpo ala la mi jo e wile ni: monsi mi li anpa lon poka pi lupa telo.	Tepan	2018-06-23 13:10:18	2022-09-17 15:53:57
-109	0x6d	m	89243	11451165	tok	jan li ken awen la ona li kama nanpa wan lon tenpo ale.	carlosalberto	2023-01-10 18:57:05	2023-01-10 19:37:24
-110	0x6e	n	204914	11293137	tok	kulupu pi jan nasa li pini ala.	carlosalberto	2022-12-04 13:55:40	2022-12-04 13:55:40
-111	0x6f	o	133510	11042915	tok	sina sona ala sona e ni: jan Ton li lon ala lon ni tan seme?	carlosalberto	2022-08-04 16:06:24	2022-08-04 16:06:24
-112	0x70	p	73534	9102364	tok	kulupu mi pi tomo sona la meli li lon ala.	Tepan	2020-10-04 11:14:36	2020-10-04 11:14:36
+104	0x68	h	4	10984133	tok	"jan Ton o, nasin seme la sina toki ante e nimi suli pi lipu 'The Thousand and One Nights' kepeken toki pona?" "ken la 'tenpo pimeja ale suli en tenpo pimeja wan'."	carlosalberto	2022-07-12 10:05:20	2022-07-12 10:05:20
+105	0x69	i	239146	11011767	tok	toki Epelanto li suli mute e nasin lukin mi.	carlosalberto	2022-07-21 17:56:40	2022-07-21 17:56:40
+106	0x6a	j	37721	7951815	tok	o linja e mi lon ilo toki pi mije Mije.	Tepan	2019-06-01 13:35:25	2022-09-18 11:54:43
+107	0x6b	k	68425	6670222	tok	mi kama pona e mani mute.	thegui	2018-02-03 07:36:55	2018-02-03 07:36:55
+108	0x6c	l	171249	7410975	tok	jan Ton li wile e ni: jan li lukin e ijo pi jan Ton.	list	2018-11-03 11:41:55	2018-11-03 11:41:55
+109	0x6d	m	89375	9183558	tok	sina lukin ala e ni anu seme: mi lape?	Tepan	2020-10-24 09:18:16	2020-10-24 09:18:16
+110	0x6e	n	205208	7957052	tok	tenpo ni li pona ala pona tawa sina? o toki e ni tawa mi lon tenpo lili.	Tepan	2019-06-04 10:45:34	2022-09-18 12:38:00
+111	0x6f	o	133683	7785362	tok	o toki tawa mi kepeken ilo toki lon insa pi tenpo suli nanpa luka tu.	Tepan	2019-02-22 15:41:49	2022-09-18 08:06:41
+112	0x70	p	73625	8198997	tok	tenpo monsi pi mute ike la tan seme la sina kama tawa mi lon tenpo pimeja?	list	2019-09-20 13:04:35	2019-09-20 13:04:35
 113	0x71	q	1	11364674	tok	"x^2" li sama "-1" la, "x" li nanpa lon ala; sitelen "x" li "sqrt(-1)" anu "i"; nimi "x" li "wan pi lon ala."	purehearted	2022-12-23 20:09:19	2022-12-23 22:14:31
-114	0x72	r	12	12062711	tok	jan lawa pi kulupu musi mi li tan ma Lomani. ona li jan Antenor.	carlosalberto	2023-09-18 19:28:21	2023-09-18 19:28:21
-115	0x73	s	72467	6947944	tok	mani seme la ni li lon?	list	2018-06-16 17:15:46	2018-06-16 17:15:46
-116	0x74	t	74913	6702636	tok	tenpo pi mi jan lili la jan li ken tawa telo lon nasin telo.	list	2018-02-21 11:59:23	2018-02-21 11:59:23
-117	0x75	u	46412	4843699	tok	ma mi li sinpin lukin pi kon sina.	Tepan	2016-01-19 14:08:09	2020-10-02 10:11:43
+114	0x72	r	12	12253805	tok	jan Tom en jan Mary li awen lon ma ante.	JameezTranslates	2024-01-06 03:49:14	2024-01-06 03:49:14
+115	0x73	s	72574	6682231	tok	len lawa loje ni li pona ala pona tawa sina?	list	2018-02-10 13:33:22	2018-02-10 13:33:22
+116	0x74	t	75004	8719711	tok	tawa lukin la ona li pona ala tawa sina.	Tepan	2020-04-27 02:37:32	2021-05-19 20:00:17
+117	0x75	u	46479	12250055	tok	nanpa luka tu li suli mute tawa jan mute lon ma ale.	carlosalberto	2024-01-03 19:39:01	2024-01-03 19:39:01
 118	0x76	v	1	11865488	tok	mi wile ala e ni: mi sama vi.	carlosalberto	2023-06-22 13:09:59	2023-06-22 13:09:59
-119	0x77	w	47710	6404704	tok	jan li pali e ni la jan li wile e utala.	list	2017-10-30 15:38:04	2017-10-30 15:38:04
+119	0x77	w	47777	6384550	tok	ona li kama anpa li toki sewi e ni: sewi o pana e pona tawa kon pi jan moli.	Tepan	2017-10-16 13:25:30	2022-09-17 15:32:08
 120	0x78	x	4	11364674	tok	"x^2" li sama "-1" la, "x" li nanpa lon ala; sitelen "x" li "sqrt(-1)" anu "i"; nimi "x" li "wan pi lon ala."	purehearted	2022-12-23 20:09:19	2022-12-23 22:14:31
-121	0x79	y	4	12253805	tok	jan Tom en jan Mary li awen lon ma ante.	JameezTranslates	2024-01-06 03:49:14	2024-01-06 03:49:14
+121	0x79	y	4	11316047	tok	They like eating cold carrots.	lasolaco	2022-12-10 22:03:15	2022-12-10 22:03:28
 223	0xdf	ß	1	5898696	tok	supa nena pi ma Suwasi li jo ala e sitelen "ß".	ToinhoAlam	2017-02-24 17:27:26	\N
 226	0xe2	â	1	9929765	tok	nimi pi ma Netelan li "Nederlân" lon toki Lise.	Raizin	2021-03-31 18:19:15	2021-05-29 16:10:49
 227	0xe3	ã	3	10073763	tok	toki Potuke la nimi "sessão" en nimi "seção" en nimi "cessão" li nimi pi kalama sama.	ToinhoAlam	2021-05-30 03:01:54	2021-05-30 03:01:54
@@ -81,11 +81,11 @@
 1098	0x44a	ъ	1	7887101	tok	jan pi ma Losi li pana e nimi "sitelen kiwen" tawa sitelen "ъ" li pana e nimi "sitelen ko" tawa sitelen "ь".	Ilia2	2019-05-04 09:17:58	2021-02-28 11:26:57
 1100	0x44c	ь	1	7887101	tok	jan pi ma Losi li pana e nimi "sitelen kiwen" tawa sitelen "ъ" li pana e nimi "sitelen ko" tawa sitelen "ь".	Ilia2	2019-05-04 09:17:58	2021-02-28 11:26:57
 8205	0x200d	‍	1	8896172	tok	meli sama suli mi li pali lon kulupu ‍ni: ona li weka e seli.	Tepan	2020-07-06 15:36:31	2022-09-17 20:07:44
-8211	0x2013	–	9	11467134	tok	"sina pona tawa jan ala!" – "ni li lon ala kin!"	Biderl	2023-01-17 21:07:54	2023-01-17 21:07:54
+8211	0x2013	–	9	3005592	tok	„ilo utala pi linja suno li lon seme?“ – „ni li ni li poka len sina!“	kroko	2014-01-24 15:53:24	2014-01-24 15:53:24
 8212	0x2014	—	2	11277580	tok	"jan pi moku lili li pona tawa sina anu seme?" — "sina pi nasin sina li pona tawa mi."	hecko	2022-11-29 22:36:11	2022-11-29 22:36:11
-8220	0x201c	“	14	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
+8220	0x201c	“	14	3005592	tok	„ilo utala pi linja suno li lon seme?“ – „ni li ni li poka len sina!“	kroko	2014-01-24 15:53:24	2014-01-24 15:53:24
 8221	0x201d	”	4	9353895	tok	“soweli mi li jo ala e nena.” “ona li pilin seme e kon?” “jaki.”	Tepan	2020-11-22 08:54:18	2021-04-26 10:11:58
-8222	0x201e	„	10	2969935	tok	„mi moli, la jan ale li pilin pona“. - „seme? sina moli, la jan ala li pilin pona!“	kroko	2014-01-07 15:32:29	2020-12-30 14:33:47
-8230	0x2026	…	3	12180580	tok	wan, tu, tu wan…	Ultronimation	2023-11-27 04:27:59	2023-11-27 04:27:59
+8222	0x201e	„	10	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
+8230	0x2026	…	3	12181052	tok	sike kule lukin…	Ultronimation	2023-11-27 08:55:22	2023-11-27 08:55:22
 8364	0x20ac	€	1	6328366	tok	mi pana e mani € tu la jan seme li wile telo e tomo tawa mi?	list	2017-09-26 13:00:41	2020-02-11 16:02:44
 9773	0x262d	☭	1	7844879	tok	sitelen "☭" li sitelen pi nasin pi mani sama.	Goatstein	2019-04-10 15:55:48	2019-04-10 15:55:48

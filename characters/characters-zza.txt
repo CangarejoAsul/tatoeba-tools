@@ -1,92 +1,92 @@
-32	0x20	 	5998	4457126	zza	Nê ê bi.	Miremir	2015-08-17 13:42:53	2015-08-17 13:42:53
-33	0x21	!	107	4433148	zza	Tom, goştare é ina meké!	Miremir	2015-08-05 13:35:52	2015-08-05 13:35:52
-34	0x22	"	42	4432987	zza	"Ez?" "E, Tı!"	Miremir	2015-08-05 12:05:14	2015-08-06 12:14:10
-39	0x27	'	46	9394374	zza	Vake; "Çımê to kami vet?" Va; "Xo 've xoy vet!" Va; “Hew, coka honde xori vet!"	Hawar	2020-11-28 13:09:20	2020-11-28 13:09:20
-40	0x28	(	3	9403569	zza	Beyraqa rengine(beyraqa Kurdîstanî) çi rind a.	Ziwanhez	2020-11-29 15:45:28	2020-11-29 15:45:28
-41	0x29	)	3	9403569	zza	Beyraqa rengine(beyraqa Kurdîstanî) çi rind a.	Ziwanhez	2020-11-29 15:45:28	2020-11-29 15:45:28
-44	0x2c	,	79	9394374	zza	Vake; "Çımê to kami vet?" Va; "Xo 've xoy vet!" Va; “Hew, coka honde xori vet!"	Hawar	2020-11-28 13:09:20	2020-11-28 13:09:20
+32	0x20	 	5998	9403308	zza	Birayê mi şiwane yo.	Ziwanhez	2020-11-29 15:27:21	2020-11-29 15:27:21
+33	0x21	!	107	4457141	zza	Ez qelav niya!	Miremir	2015-08-17 14:00:40	2015-08-17 14:00:53
+34	0x22	"	42	9324841	zza	"Ez emşo yê to ya." "Ti wazena se vaja?"	Ziwanhez	2020-11-18 14:03:05	2020-11-18 14:04:04
+39	0x27	'	46	4434928	zza	Mergé pi é mı ra des ser'i o ravérd.	Miremir	2015-08-06 12:27:04	2015-08-06 12:27:04
+40	0x28	(	3	4458595	zza	Dı(di) pısingê Keni estê	Miremir	2015-08-18 13:11:39	2015-08-18 13:11:48
+41	0x29	)	3	4446480	zza	Bırayé mı no Jacques çarés (des u çe'har) serreo.	Miremir	2015-08-11 10:43:55	2015-08-11 10:43:55
+44	0x2c	,	79	4457093	zza	Ezo to bê vina, Charley.	Miremir	2015-08-17 13:11:19	2015-08-17 13:11:19
 45	0x2d	-	5	4456722	zza	Raşt - pak, çep - pak ..., pêro paki.	Miremir	2015-08-17 08:37:32	2015-08-17 08:37:32
-46	0x2e	.	1419	4545870	zza	Tı rakewtı.	Hatfanz	2015-09-22 20:01:10	2015-09-22 20:01:10
+46	0x2e	.	1419	4448542	zza	Tom şi duri.	Miremir	2015-08-12 13:50:46	2015-08-12 13:50:46
 47	0x2f	/	2	9324940	zza	Yanni Bejaia/Cezayîr de ciwîyena.	Ziwanhez	2020-11-18 14:32:31	2020-11-18 14:32:31
 48	0x30	0	2	9403464	zza	Yew deqa 60 sanîyeyan ra yena meydan.	Ziwanhez	2020-11-29 15:36:20	2020-11-29 15:36:20
 49	0x31	1	1	9469099	zza	Verê yew aşme Iphone 12 vejîya û çi heyf ke zaf vay o.	Ziwanhez	2020-12-12 19:02:11	2020-12-12 19:02:11
-50	0x32	2	6	9525228	zza	Yew serre de 52 hewteyî estê.	Ziwanhez	2020-12-23 09:04:06	2020-12-23 09:04:06
+50	0x32	2	6	9403614	zza	Înan ra 2 teneyî perayî.	Ziwanhez	2020-11-29 15:49:48	2020-11-29 15:49:48
 51	0x33	3	1	10097775	zza	Ez wazena 32" teleyzon bıgira.	Hatfanz	2021-06-10 21:42:45	2021-06-10 21:42:45
 52	0x34	4	1	9403514	zza	Yew roje 24 saetî ya.	Ziwanhez	2020-11-29 15:40:55	2020-11-29 15:40:55
 53	0x35	5	2	9809878	zza	Bakalê mi 50 serrî yo ke cixara şimeno la hema zî xo ser o yo.	Ziwanhez	2021-02-27 12:04:38	2021-02-27 12:04:38
 54	0x36	6	1	9403464	zza	Yew deqa 60 sanîyeyan ra yena meydan.	Ziwanhez	2020-11-29 15:36:20	2020-11-29 15:36:20
-56	0x38	8	2	4456872	zza	Meşt ezo 28 serre ba.	Miremir	2015-08-17 10:31:36	2015-08-17 10:32:03
+56	0x38	8	2	9504646	zza	Roje de 8 saetî rakewê.	Ziwanhez	2020-12-19 21:23:05	2020-12-19 21:23:05
 57	0x39	9	1	9403749	zza	Zembîle de 9 tene sayî estê.	Ziwanhez	2020-11-29 16:04:23	2020-11-29 16:04:23
 58	0x3a	:	2	9144096	zza	Ferq no yo: o to ra hîna pêt xebitîyeno.	Ziwanhez	2020-10-14 17:49:17	2020-10-14 17:49:17
-59	0x3b	;	5	4474710	zza	Vengêxu berz kerd u va; "Ella gırdo."	Hatfanz	2015-08-26 20:55:18	2015-09-12 21:58:13
-63	0x3f	?	227	4460420	zza	Kûtıkê to çend serreyo?	Miremir	2015-08-19 08:47:50	2015-08-19 08:47:50
-65	0x41	A	67	9519386	zza	A hende belengaze bîye ke nêeşkayêne nan biherîna.	Ziwanhez	2020-12-22 10:55:34	2020-12-22 10:55:34
-66	0x42	B	88	6096253	zza	Boya veşate yeno.	Hatfanz	2017-05-22 22:06:05	\N
-67	0x43	C	16	9665709	zza	Cinîya pîyê mi maya min a.	Ziwanhez	2021-01-16 11:37:04	2021-01-16 11:37:04
-68	0x44	D	60	9375192	zza	Dewijê ma dîndar ê.	Ziwanhez	2020-11-25 11:53:54	2020-11-25 11:53:54
-69	0x45	E	346	9664797	zza	E!	Hatfanz	2021-01-15 21:59:12	2021-01-15 21:59:12
-70	0x46	F	13	6096257	zza	Fek u rîyécı péro bî gûnî.	Hatfanz	2017-05-22 22:08:30	\N
-71	0x47	G	27	9671760	zza	Ganî kitabê ma bêrê çapkerdene.	Ziwanhez	2021-01-18 14:09:22	2021-01-18 14:09:22
-72	0x48	H	44	9144114	zza	Hema hema.	Ziwanhez	2020-10-14 17:54:57	2020-10-14 17:54:57
-73	0x49	I	4	9215024	zza	DAIŞî hîrê serrî Mûsul kontrol kerd.	Ziwanhez	2020-10-31 20:48:14	2020-10-31 20:48:14
-74	0x4a	J	6	4463640	zza	Tom hendê Jacki dergo.	Miremir	2015-08-21 08:13:14	2015-08-21 08:13:14
-75	0x4b	K	92	9243486	zza	Keye de kesêk çîn bi.	Ziwanhez	2020-11-05 14:25:19	2020-11-05 14:25:19
-76	0x4c	L	15	4528480	zza	Lerzeno.	Hatfanz	2015-09-16 14:51:58	2015-09-16 14:51:58
-77	0x4d	M	299	9391557	zza	Mennad hunerî ya eleqedar beno.	Ziwanhez	2020-11-27 18:49:28	2020-11-27 18:49:28
-78	0x4e	N	117	6096260	zza	Né şamıkan bısencı.	Hatfanz	2017-05-22 22:09:34	\N
-79	0x4f	O	43	10321259	zza	O embazêk bi.	Ziwanhez	2021-09-25 11:29:35	2021-09-25 11:29:35
-80	0x50	P	39	9403523	zza	Perwerde seba şarê ma lazim o.	Ziwanhez	2020-11-29 15:41:45	2020-11-29 15:41:45
-81	0x51	Q	30	4457120	zza	Qe deynê mı çınyo?	Miremir	2015-08-17 13:36:07	2015-08-17 13:36:07
-82	0x52	R	45	9143271	zza	Rojhilato Mîyanên de timûtim ceng beno.	Ziwanhez	2020-10-14 08:57:34	2020-10-14 08:57:34
-83	0x53	S	49	9143388	zza	Sami, şewe keyeyê xo de vîyarnê.	Ziwanhez	2020-10-14 11:05:02	2020-10-14 11:05:02
-84	0x54	T	338	9144127	zza	Ti heq a.	Ziwanhez	2020-10-14 17:59:07	2020-10-14 17:59:07
-85	0x55	U	6	4457092	zza	Ucad keyey çı nêbi.	Miremir	2015-08-17 13:09:18	2015-08-17 13:09:18
-86	0x56	V	38	9664813	zza	Vındı!	Hatfanz	2021-01-15 22:03:49	2021-01-15 22:03:49
-87	0x57	W	24	9396881	zza	Wendekarî wendene ra hes kenê.	Ziwanhez	2020-11-28 17:55:15	2020-11-28 17:55:15
-88	0x58	X	18	4508259	zza	Xu berz.	Hatfanz	2015-09-07 21:40:19	2015-09-07 21:40:19
-89	0x59	Y	10	9375044	zza	Yew problemo teknîk vejîya.	Ziwanhez	2020-11-25 11:38:11	2020-11-25 11:38:11
-90	0x5a	Z	25	6096239	zza	Zımıstan vewr vareno.	Hatfanz	2017-05-22 22:00:22	\N
-97	0x61	a	3415	9391810	zza	Şima zanê ke karê citkarî çi yo?	Ziwanhez	2020-11-27 19:18:50	2020-11-27 19:18:50
-98	0x62	b	779	9146080	zza	Ez besenêkena yewna hewte bipawî.	AceVivendi	2020-10-15 08:52:01	2020-10-15 08:52:01
-99	0x63	c	188	9375107	zza	Kurdê hewramanî Başûr û Rojhelatê Kurdîstanî de ciwîyenê.	Ziwanhez	2020-11-25 11:46:17	2020-11-25 12:33:17
-100	0x64	d	961	9324827	zza	O veng do muhtemelen narehetîye bido bi Tomî.	Ziwanhez	2020-11-18 13:58:14	2020-11-18 13:58:14
-101	0x65	e	3373	9519386	zza	A hende belengaze bîye ke nêeşkayêne nan biherîna.	Ziwanhez	2020-12-22 10:55:34	2020-12-22 10:55:34
-102	0x66	f	137	9158388	zza	Şima şoforê taksî yê.	Ziwanhez	2020-10-17 21:28:32	2020-10-17 21:28:32
-103	0x67	g	243	6096267	zza	Vengémı nîno şıma.	Hatfanz	2017-05-22 22:15:34	\N
-104	0x68	h	278	4448568	zza	Keynek hêdi xu pay şi.	Miremir	2015-08-12 14:21:30	2015-08-12 14:21:30
-105	0x69	i	1361	4457093	zza	Ezo to bê vina, Charley.	Miremir	2015-08-17 13:11:19	2015-08-17 13:11:19
-106	0x6a	j	106	6096238	zza	Roj şıno awan, qeda néşıno.	Hatfanz	2017-05-22 21:59:02	\N
-107	0x6b	k	1003	4269285	zza	Ez tora heskena.	Miremir	2015-06-12 12:37:25	2015-07-25 08:16:55
-108	0x6c	l	307	9150497	zza	Ewro kirdkî yew hezar cumleyan vîyert.	Ziwanhez	2020-10-16 12:48:22	2020-10-16 12:48:22
-109	0x6d	m	1166	9143408	zza	Tom hemver de qûpayêk qehwe şimeno.	Ziwanhez	2020-10-14 11:10:38	2020-10-14 12:24:51
-110	0x6e	n	1969	9325039	zza	Ti ganî hewt rojî keye de bimana.	Ziwanhez	2020-11-18 14:50:01	2020-11-18 14:50:01
-111	0x6f	o	1442	4479826	zza	Goş pa mekuw.	Hatfanz	2015-08-29 19:47:22	2015-08-29 19:58:31
-112	0x70	p	204	4473943	zza	Tı do meşt peyd bêrê?	Miremir	2015-08-26 13:58:45	2015-08-26 13:58:45
-113	0x71	q	175	6092151	zza	Tı şené néy qandéma bıkeré?	Hatfanz	2017-05-20 21:21:12	\N
-114	0x72	r	1853	12160926	zza	Ewro dewe ra xalê mi û xalcinîya mi do bêrê.	Ziwanhez	2023-11-14 10:43:04	2023-11-14 10:43:04
-115	0x73	s	616	9403514	zza	Yew roje 24 saetî ya.	Ziwanhez	2020-11-29 15:40:55	2020-11-29 15:40:55
-116	0x74	t	790	4456688	zza	Mı na kuşatra fe'am nê ke.	Miremir	2015-08-17 08:27:52	2015-08-17 08:27:52
-117	0x75	u	259	9389050	zza	Ey rê Skura lazim a.	Ziwanhez	2020-11-27 13:21:17	2020-11-27 13:21:17
-118	0x76	v	313	9403579	zza	Zimistanî vewre û varan varanê.	Ziwanhez	2020-11-29 15:46:15	2020-11-29 15:46:15
-119	0x77	w	527	10097775	zza	Ez wazena 32" teleyzon bıgira.	Hatfanz	2021-06-10 21:42:45	2021-06-10 21:42:45
-120	0x78	x	243	9150893	zza	Ez nika lîsanso berz kena û na serre ez do tezê xo binusî.	Ziwanhez	2020-10-16 15:20:44	2020-10-16 15:20:44
-121	0x79	y	1498	9396899	zza	Xala ma waya maya ma ya.	Ziwanhez	2020-11-28 17:57:55	2020-11-28 17:57:55
-122	0x7a	z	651	6090309	zza	Tı zané kéyeyé Tom'î kotîdo?	Hatfanz	2017-05-19 21:37:52	\N
-199	0xc7	Ç	37	9244237	zza	Çira Tom zaf xemgîn o?	Ziwanhez	2020-11-05 16:51:35	2020-11-05 16:51:35
+59	0x3b	;	5	9394374	zza	Vake; "Çımê to kami vet?" Va; "Xo 've xoy vet!" Va; “Hew, coka honde xori vet!"	Hawar	2020-11-28 13:09:20	2020-11-28 13:09:20
+63	0x3f	?	227	4457120	zza	Qe deynê mı çınyo?	Miremir	2015-08-17 13:36:07	2015-08-17 13:36:07
+65	0x41	A	67	9591594	zza	Ame.	Corduene	2021-01-05 16:13:09	2021-01-05 16:13:09
+66	0x42	B	88	6092135	zza	Boka tı ey bıkeré.	Hatfanz	2017-05-20 21:04:26	\N
+67	0x43	C	16	9150577	zza	Cinîya ey senîn a?	Ziwanhez	2020-10-16 13:17:24	2020-10-16 13:17:24
+68	0x44	D	60	10097776	zza	Dolab vengo!	Hatfanz	2021-06-10 21:43:36	2021-06-10 21:43:36
+69	0x45	E	346	4474646	zza	Ez bol kılma.	Hatfanz	2015-08-26 20:40:13	2015-08-26 20:40:13
+70	0x46	F	13	9375123	zza	Fekê Sêwregi zaf şîrin o.	Ziwanhez	2020-11-25 11:47:32	2020-11-27 19:13:23
+71	0x47	G	27	9572553	zza	Gağanê sıma bımbarek bo.	soliloquist	2021-01-01 11:35:12	2021-01-01 11:35:12
+72	0x48	H	44	4434619	zza	Hiré roci dıma merd.	Miremir	2015-08-06 07:42:36	2015-08-06 07:42:36
+73	0x49	I	4	4433106	zza	Imbazé Tomi çınyé.	Miremir	2015-08-05 13:23:37	2015-08-05 13:23:37
+74	0x4a	J	6	4446480	zza	Bırayé mı no Jacques çarés (des u çe'har) serreo.	Miremir	2015-08-11 10:43:55	2015-08-11 10:43:55
+75	0x4b	K	92	9391813	zza	Kurdî çaya qaçaxe ra hes kenê.	Ziwanhez	2020-11-27 19:19:29	2020-11-27 19:19:29
+76	0x4c	L	15	4456756	zza	Lacek u mêrdeko aw şımeno.	Miremir	2015-08-17 08:59:47	2015-08-17 08:59:47
+77	0x4d	M	299	4456935	zza	Me tersê.	Miremir	2015-08-17 11:02:11	2015-08-17 11:02:26
+78	0x4e	N	117	4457084	zza	Ney to ard mı viri.	Miremir	2015-08-17 13:01:36	2015-08-17 13:01:36
+79	0x4f	O	43	9403643	zza	Odayêka bêkitabe manena bi leşêka bêcane.	Ziwanhez	2020-11-29 15:53:08	2020-11-29 15:53:08
+80	0x50	P	39	4446201	zza	Piyé mı ma mı ra dı serri kıjo.	Miremir	2015-08-11 08:32:34	2015-08-11 08:32:34
+81	0x51	Q	30	6096248	zza	Qeçekî mehla dı kaykené.	Hatfanz	2017-05-22 22:03:34	\N
+82	0x52	R	45	9809873	zza	Mangaya bore par şit ra birîyaya coka pîyê Roşanî a manga birnaya.	Ziwanhez	2021-02-27 12:02:38	2021-02-27 12:02:38
+83	0x53	S	49	9389168	zza	Samiyî heqê werdê mi da.	Ziwanhez	2020-11-27 13:43:11	2020-11-27 13:43:11
+84	0x54	T	338	9144188	zza	Ti eşkenî şirî.	Ziwanhez	2020-10-14 18:14:01	2020-11-05 17:20:51
+85	0x55	U	6	4474666	zza	Ucara warzê, pîlandıxurê ca bıdê.	Hatfanz	2015-08-26 20:47:13	2015-08-26 20:47:13
+86	0x56	V	38	9375118	zza	Kurdê kirmancî Vakurê Kurdîstanî de ciwîyenê.	Ziwanhez	2020-11-25 11:47:07	2020-11-25 12:32:58
+87	0x57	W	24	9144103	zza	Wexto ke çinayê to benê kehenî ti înan se kenî?	Ziwanhez	2020-10-14 17:51:42	2020-11-05 17:28:33
+88	0x58	X	18	9403459	zza	Xozaya wareyan zaf weş a.	Ziwanhez	2020-11-29 15:35:54	2020-11-29 15:35:54
+89	0x59	Y	10	9525228	zza	Yew serre de 52 hewteyî estê.	Ziwanhez	2020-12-23 09:04:06	2020-12-23 09:04:06
+90	0x5a	Z	25	9175126	zza	Ziwanê erebkî sey ziwanê îbrankî yo.	Ziwanhez	2020-10-21 21:14:02	2020-10-21 21:14:02
+97	0x61	a	3415	4528472	zza	Ez rında.	Hatfanz	2015-09-16 14:48:17	2015-09-16 14:48:17
+98	0x62	b	779	4457036	zza	Şo eyrê bê xû vac.	Miremir	2015-08-17 12:33:59	2015-08-17 12:33:59
+99	0x63	c	188	9144144	zza	Ti kamca ra yî?	Ziwanhez	2020-10-14 18:03:59	2020-11-05 17:22:55
+100	0x64	d	961	4457006	zza	Nıka kes nê şeno mı vındarno.	Miremir	2015-08-17 12:15:34	2015-08-17 12:15:34
+101	0x65	e	3373	9403726	zza	Ganî ma na proje ser o bixebitîyîme.	Ziwanhez	2020-11-29 16:01:45	2020-11-29 16:01:45
+102	0x66	f	137	9469104	zza	Ganî ma seba alfabeya kurdkî klavyeyêk virazîme.	Ziwanhez	2020-12-12 19:02:45	2020-12-12 19:02:45
+103	0x67	g	243	9667301	zza	Xuré mırdî engur buré.	Hatfanz	2021-01-16 20:56:43	2021-01-16 20:56:43
+104	0x68	h	278	4508316	zza	Mehuw.	Hatfanz	2015-09-07 22:00:58	2015-09-07 22:00:58
+105	0x69	i	1361	4457092	zza	Ucad keyey çı nêbi.	Miremir	2015-08-17 13:09:18	2015-08-17 13:09:18
+106	0x6a	j	106	9375187	zza	Roja ke ma bindestîye ra xelisîyayîme ez do zaf keyfweş bibî.	Ziwanhez	2020-11-25 11:53:35	2020-11-25 11:53:35
+107	0x6b	k	1003	4508249	zza	Ez kêyed biya.	Hatfanz	2015-09-07 21:38:45	2015-09-07 21:38:45
+108	0x6c	l	307	4533111	zza	Melûwê.	Hatfanz	2015-09-17 20:45:50	2015-09-17 20:45:50
+109	0x6d	m	1166	9324827	zza	O veng do muhtemelen narehetîye bido bi Tomî.	Ziwanhez	2020-11-18 13:58:14	2020-11-18 13:58:14
+110	0x6e	n	1969	9403483	zza	Kesê ke xo nas kenê eşkenê aver şirê.	Ziwanhez	2020-11-29 15:37:54	2020-11-29 15:37:54
+111	0x6f	o	1442	9150876	zza	Kam ke wazeno pereyî qezenç bikero ganî xebat bikero.	Ziwanhez	2020-10-16 15:14:17	2020-10-16 15:14:17
+112	0x70	p	204	4457034	zza	Şıma pêro weş bê.	Miremir	2015-08-17 12:33:16	2015-08-17 12:33:16
+113	0x71	q	175	4457032	zza	Tomdo qe fek nê verado.	Miremir	2015-08-17 12:32:29	2015-08-17 12:32:29
+114	0x72	r	1853	9144099	zza	Kerema xo ra çinayê xo xo ra bidê.	Ziwanhez	2020-10-14 17:50:29	2020-10-14 17:50:29
+115	0x73	s	616	5275558	zza	Mı ré ray mısnené?	Miremir	2016-07-15 10:02:58	2016-07-15 10:02:58
+116	0x74	t	790	9384604	zza	A tena flortêka bêşerm a.	Ziwanhez	2020-11-26 15:47:33	2020-11-26 15:47:33
+117	0x75	u	259	4446480	zza	Bırayé mı no Jacques çarés (des u çe'har) serreo.	Miremir	2015-08-11 10:43:55	2015-08-11 10:43:55
+118	0x76	v	313	4865061	zza	Madê jew bı vinê.	Miremir	2016-01-28 10:59:53	2016-01-28 11:00:29
+119	0x77	w	527	6092147	zza	Né İnsané kutık wené.	Hatfanz	2017-05-20 21:13:51	\N
+120	0x78	x	243	9394337	zza	Uzağkorro! Uzağê xo korro!	Hawar	2020-11-28 13:07:32	2020-12-20 18:20:01
+121	0x79	y	1498	4533128	zza	Ez rınd biya.	Hatfanz	2015-09-17 21:00:53	2015-09-17 21:00:53
+122	0x7a	z	651	4474668	zza	Vatenêcı bên'ef bî, o zê xuya kerdê.	Hatfanz	2015-08-26 20:47:52	2015-09-12 21:55:15
+199	0xc7	Ç	37	9375072	zza	Çêrmûge de hemam esta.	Ziwanhez	2020-11-25 11:43:09	2020-11-25 11:43:09
 201	0xc9	É	1	4434927	zza	É yé se vané?	Miremir	2015-08-06 12:23:06	2015-08-07 06:34:42
-202	0xca	Ê	15	4434937	zza	Ê gırdê?	Miremir	2015-08-06 12:35:37	2015-08-07 09:54:33
-206	0xce	Î	11	9146101	zza	Înan hêrişê dişmenî kerd.	AceVivendi	2020-10-15 08:57:20	2020-10-15 08:57:20
-231	0xe7	ç	145	9667322	zza	Keynek la vero çına şıwena.	Hatfanz	2021-01-16 20:59:40	2021-01-16 20:59:40
-233	0xe9	é	480	4545941	zza	Eyra pîlî hiré wayécı esté.	Hatfanz	2015-09-22 20:13:39	2015-09-22 20:13:39
-234	0xea	ê	1276	9144123	zza	Ez bîya têşan.	Ziwanhez	2020-10-14 17:57:49	2020-10-14 17:57:49
-238	0xee	î	922	9143607	zza	Hamnanî tîje germ dana.	Ziwanhez	2020-10-14 12:45:56	2020-10-14 12:45:56
-251	0xfb	û	103	9143319	zza	Tom û Mary beyraqe qat kerde.	Ziwanhez	2020-10-14 09:40:45	2020-10-14 09:40:45
-252	0xfc	ü	4	10289752	zza	Tari roşti ra remeno, jür raşti ra.	\N	2021-09-11 19:25:20	2021-09-11 19:25:28
-287	0x11f	ğ	5	9394337	zza	Uzağkorro! Uzağê xo korro!	Hawar	2020-11-28 13:07:32	2020-12-20 18:20:01
-304	0x130	İ	8	4458607	zza	İna ê qe vina?	Miremir	2015-08-18 13:27:01	2015-08-18 13:27:15
-305	0x131	ı	848	4481367	zza	Tıdı vinî bê.	Hatfanz	2015-08-30 18:01:37	2015-09-12 22:00:40
+202	0xca	Ê	15	9174824	zza	Ê embaz ê?	Ziwanhez	2020-10-21 20:51:57	2020-10-21 20:51:57
+206	0xce	Î	11	9158405	zza	Ez verê hîrê serran şîya Îran.	Ziwanhez	2020-10-17 21:30:18	2020-10-17 21:30:18
+231	0xe7	ç	145	9244386	zza	Ti ça ra yî?	Ziwanhez	2020-11-05 17:23:46	2020-11-05 17:23:46
+233	0xe9	é	480	4435007	zza	Ez qayıla bé mısa qandé çé tı yé ney kené.	Miremir	2015-08-06 13:25:41	2015-08-06 13:25:41
+234	0xea	ê	1276	9143585	zza	Xatirê şima.	Ziwanhez	2020-10-14 12:38:25	2020-10-14 12:38:25
+238	0xee	î	922	9158404	zza	Tay însanî estê ke bê xo çîyêk bîn ra hes nêkenê.	Ziwanhez	2020-10-17 21:30:00	2020-11-05 17:04:27
+251	0xfb	û	103	9375107	zza	Kurdê hewramanî Başûr û Rojhelatê Kurdîstanî de ciwîyenê.	Ziwanhez	2020-11-25 11:46:17	2020-11-25 12:33:17
+252	0xfc	ü	4	9394349	zza	Va dür bo, bınê hardi de mebo!	Hawar	2020-11-28 13:08:09	2020-12-20 18:21:37
+287	0x11f	ğ	5	4533140	zza	Ezo bığewriya.	Hatfanz	2015-09-17 21:08:03	2015-09-17 21:08:03
+304	0x130	İ	8	4434802	zza	İna né şa asnaw bé keré.	Miremir	2015-08-06 09:53:20	2015-08-06 09:53:20
+305	0x131	ı	848	4458207	zza	Ezo ey bıkera.	Miremir	2015-08-18 08:37:44	2015-08-18 08:37:44
 343	0x157	ŗ	1	4862294	zza	Ez wazena ay çekerê zeŗe.	Miremir	2016-01-27 10:17:01	2016-01-27 10:17:01
-350	0x15e	Ş	37	9391578	zza	Şima bi xeyr ameyî bi Tatoeba!	Ziwanhez	2020-11-27 18:52:07	2020-11-27 18:52:07
-351	0x15f	ş	566	9809874	zza	Pîyê Esma do meşte şiro Dîyarbekir ra înan rê nanê sûke bîyaro.	Ziwanhez	2021-02-27 12:03:24	2021-02-27 12:03:24
+350	0x15e	Ş	37	4434737	zza	Şo aya qısey bıkı.	Miremir	2015-08-06 09:20:02	2015-08-06 09:20:02
+351	0x15f	ş	566	9393939	zza	Ez seba wendişê kitabî şina bi kitabxane.	Ziwanhez	2020-11-28 12:04:46	2020-11-28 12:04:46
 7769	0x1e59	ṙ	1	4433142	zza	No vızéṙa rındo.	Miremir	2015-08-05 13:34:20	2015-08-05 13:34:20
 8220	0x201c	“	1	9394374	zza	Vake; "Çımê to kami vet?" Va; "Xo 've xoy vet!" Va; “Hew, coka honde xori vet!"	Hawar	2020-11-28 13:09:20	2020-11-28 13:09:20
