@@ -1,100 +1,100 @@
-32	0x20	 	9868	8901157	grn	Chemandu'áta ko ka'aru.	PauloSamuel	2020-07-08 16:17:09	2020-07-08 16:17:09
-33	0x21	!	198	9009252	grn	Tereho ejapiro túnare!	PauloSamuel	2020-09-02 00:30:47	2020-09-02 00:30:47
-34	0x22	"	110	6811335	grn	Ha'e he'i "emaña".	PauloSamuel	2018-03-30 14:49:11	2018-03-30 14:49:11
-39	0x27	'	2410	8928554	grn	Arekókuri mba'ekuéra ajapo hag̃ua.	PauloSamuel	2020-07-21 00:38:16	2020-07-21 00:38:16
-44	0x2c	,	357	9017187	grn	Araka'eve ndaorejapuvéi orejapúgui mburuvicharã jeporavo mboyve, ñorairõ aja, ha tymba'api rire.	PauloSamuel	2020-09-05 16:24:37	2020-09-05 16:24:37
-45	0x2d	-	86	8901572	grn	Nde piko reimo'ã che araka'eve naha'ãihague cheresarái Marika-gui?	PauloSamuel	2020-07-08 20:18:28	2020-07-08 20:18:28
-46	0x2e	.	2769	3506287	grn	jaju tape guasu rupi.	marcosruben	2014-09-20 02:10:18	2014-09-20 02:10:18
-48	0x30	0	11	8593560	grn	Tom osẽ Boston-gui jasypa 2013-pe.	PauloSamuel	2020-03-04 17:00:06	2020-03-04 17:00:06
-49	0x31	1	13	8964270	grn	Brasil, Uruguái ha Argentina omoñe'ẽpeteĩ pe Ñorairõ Guasu Jekupytyháre jasypo 1865-pe, upépe oñemoĩkuri kuatiápe pe ñorairõ jehupytyrã ha ñemokañy raperãnguéra oñemoĩta Paraguáire.	PauloSamuel	2020-08-07 23:02:30	2020-08-07 23:02:30
+32	0x20	 	9868	2603994	grn	Porto Alegre ha'e táva porã.	PauloSamuel	2013-07-20 01:09:43	2013-07-20 01:09:43
+33	0x21	!	198	2241777	grn	Papa, rohayhu!	marcosruben	2013-02-21 12:04:16	2013-02-21 12:04:16
+34	0x22	"	110	7032657	grn	"Reikuaápa re'úrõ upéva ikatu nemembykua?" "Che ra'y, kuimba'ekuéra naimembykuái."	PauloSamuel	2018-07-30 17:18:57	2018-07-30 17:18:57
+39	0x27	'	2410	8965741	grn	Upéva hína mitãkuña'i mbo'ehao.	PauloSamuel	2020-08-08 22:00:43	2020-08-08 22:00:43
+44	0x2c	,	357	9020760	grn	Oñe'ẽrõ nde rupa, mba'épa he'íne?	PauloSamuel	2020-09-07 02:30:44	2020-09-07 02:30:44
+45	0x2d	-	86	7039767	grn	Ahecha chupe YouTube-pe.	PauloSamuel	2018-08-02 18:56:05	2018-08-02 18:56:05
+46	0x2e	.	2769	8910120	grn	Oime porã hikuái.	PauloSamuel	2020-07-12 02:11:27	2020-07-12 02:11:27
+48	0x30	0	11	9006547	grn	Ã ryguasu rupi'a ojejapo 2007-pe.	PauloSamuel	2020-08-31 19:44:20	2020-08-31 19:44:20
+49	0x31	1	13	2610862	grn	Opáma rorairõ ary 1954-pe.	PauloSamuel	2013-07-22 02:58:04	2013-07-22 02:58:04
 50	0x32	2	8	9006547	grn	Ã ryguasu rupi'a ojejapo 2007-pe.	PauloSamuel	2020-08-31 19:44:20	2020-08-31 19:44:20
 51	0x33	3	6	8964344	grn	Índiame oĩ 378 tapicha km² rupi.	PauloSamuel	2020-08-07 23:42:04	2020-08-07 23:42:04
-52	0x34	4	4	2610862	grn	Opáma rorairõ ary 1954-pe.	PauloSamuel	2013-07-22 02:58:04	2013-07-22 02:58:04
-53	0x35	5	6	8965300	grn	Yvyryrýi imbaretekue 5 ombokuchu Tókio.	PauloSamuel	2020-08-08 15:23:40	2020-08-08 15:23:40
-54	0x36	6	5	2609575	grn	"Mboy ary reguereko?" "Aguereko 16 ary."	PauloSamuel	2013-07-21 18:38:23	2013-07-21 18:38:46
-55	0x37	7	4	9006547	grn	Ã ryguasu rupi'a ojejapo 2007-pe.	PauloSamuel	2020-08-31 19:44:20	2020-08-31 19:44:20
-56	0x38	8	4	2610359	grn	Ko ára ha'e 18 jasypoteĩ, Muiriel aramboty!	PauloSamuel	2013-07-21 22:27:37	2013-07-21 22:27:37
-57	0x39	9	7	2613061	grn	Ñorairõ isarambipáma ary 1939-pe.	PauloSamuel	2013-07-22 19:46:49	2013-07-22 19:46:49
+52	0x34	4	4	2600880	grn	Nagano ipu'aka kuri Salt Lake City rehe 46 jeporavo rupi 42 rovái.	PauloSamuel	2013-07-18 18:08:22	2020-09-02 00:25:10
+53	0x35	5	6	9171049	grn	"Nahániri, nahániri ha nahániri! Ha'e peẽme ndaikatúi peho pene'año Parĩme." " Mba'ére piko?" "Perekónte 15 ary!"	PauloSamuel	2020-10-21 00:19:51	2020-10-21 00:19:51
+54	0x36	6	5	8955250	grn	Ary ohasámava pe tetãvore ohasa asy pe okyve'ỹ ivaivéva 60 arýpe rehe.	PauloSamuel	2020-08-02 17:49:08	2020-08-02 17:49:08
+55	0x37	7	4	8964344	grn	Índiame oĩ 378 tapicha km² rupi.	PauloSamuel	2020-08-07 23:42:04	2020-08-07 23:42:04
+56	0x38	8	4	8964344	grn	Índiame oĩ 378 tapicha km² rupi.	PauloSamuel	2020-08-07 23:42:04	2020-08-07 23:42:04
+57	0x39	9	7	3783218	grn	Españape oiko jekopytyjoja ary 1975 guive.	PauloSamuel	2015-01-21 03:55:09	2015-01-21 03:55:09
 58	0x3a	:	4	7069283	grn	Paraguái niko iñe'ẽ tee mokõi: Karaiñe'ẽ ha Guarani.	PauloSamuel	2018-08-18 15:38:22	2018-08-18 15:38:22
-59	0x3b	;	8	8966077	grn	Karia'y araka'eve nahasẽikuri ha'e hína kuimba'e ñarõ; tuja araka'eve ndopukái, tarova.	PauloSamuel	2020-08-09 03:49:33	2020-08-09 03:49:33
-63	0x3f	?	467	8964045	grn	Mbovy ára opytáta ha'e Pierre róga?	PauloSamuel	2020-08-07 21:03:22	2020-08-07 21:03:22
-65	0x41	A	483	6483302	grn	Amo jagua opopókuri.	PauloSamuel	2017-11-25 21:57:52	2017-11-25 21:57:52
-66	0x42	B	23	8943588	grn	Arapokõindy ohasámava aĩkuri Boston-pe che rembirekóndi.	PauloSamuel	2020-07-27 15:46:44	2020-07-27 15:46:44
-67	0x43	C	341	10810631	grn	Che aha'ã ta'angamýi ñembosarái.	PauloSamuel	2022-05-07 17:48:59	2022-05-07 17:48:59
+59	0x3b	;	8	2240152	grn	Mayma yvypóra ou ko yvy ári iñapytl'yre haetîcha dignidad ha derecho jeguerekópe; ha ikatu rupi oikuaa añetéva ha añete'yva, iporâ va ha ivaíva, tekotevê pehengué icha oiko oñondivekuéra.	marcosruben	2013-02-21 04:53:38	2013-02-21 04:54:55
+63	0x3f	?	467	2223182	grn	Pereko pa propuesta?	marcosruben	2013-02-14 22:22:41	2013-02-14 22:22:41
+65	0x41	A	483	2225453	grn	Aikovéva Ko'ápe.	marcosruben	2013-02-16 05:22:16	2013-02-21 04:24:52
+66	0x42	B	23	6483214	grn	Aime akue Boston-pe ojehu aja upéva.	PauloSamuel	2017-11-25 20:47:08	2017-11-25 20:47:08
+67	0x43	C	341	7107784	grn	Che jyva rasy.	PauloSamuel	2018-08-31 17:49:14	2018-08-31 17:49:14
 68	0x44	D	3	8901023	grn	Ahecha Dana.	PauloSamuel	2020-07-08 15:27:19	2020-07-08 15:27:19
-69	0x45	E	162	2600890	grn	Barcelona ha'e Kataluña itavusu ha táva tuichave mokõiha Epañape.	PauloSamuel	2013-07-18 18:17:12	2013-07-18 18:17:12
-70	0x46	F	8	2600904	grn	Florensia ha'e táva iporãvéva Itáliape.	PauloSamuel	2013-07-18 18:24:48	2020-08-09 03:13:19
-71	0x47	G	19	7107721	grn	Eheka Google-pe.	PauloSamuel	2018-08-31 17:19:27	2018-08-31 17:19:27
-72	0x48	H	311	2610866	grn	Ha amóina ave kuarahy amoite ára rapópe.	PauloSamuel	2013-07-22 03:00:05	2013-07-22 03:00:05
-73	0x49	I	146	9181406	grn	Ikatumírõ reha'arõmi koty 213 renondépe.	PauloSamuel	2020-10-23 14:51:29	2020-10-23 14:51:29
-74	0x4a	J	129	6829094	grn	Jareko peteĩ apañuái piko?	PauloSamuel	2018-04-10 17:16:50	2018-04-10 17:16:50
-75	0x4b	K	201	8944291	grn	Kuñakarai Kanda oñani pya'eite.	PauloSamuel	2020-07-27 22:42:07	2020-07-27 22:42:07
-76	0x4c	L	13	7039783	grn	Rohayhu, Laurie.	PauloSamuel	2018-08-02 19:25:34	2018-08-02 19:25:34
-77	0x4d	M	394	9004361	grn	Tom-pe nahesakãi mba'érepa Mary araka'eve ndohói ohecha hag̃ua chupe.	PauloSamuel	2020-08-30 16:47:35	2020-08-30 16:47:35
-78	0x4e	N	352	8901107	grn	Nderesarái piko?	PauloSamuel	2020-07-08 15:56:28	2020-07-08 15:56:28
-79	0x4f	O	288	2600886	grn	Opa tavaygua ikatu oike táva arandukarendápe.	PauloSamuel	2013-07-18 18:13:24	2013-07-18 18:13:24
-80	0x50	P	176	6114273	grn	Pua opurahéi.	mctpyt	2017-05-30 10:27:51	\N
-82	0x52	R	134	2240138	grn	Che aipuka pe mitãre ho'ahague ysyrýpe táva Rio de Hanéirope.	marcosruben	2013-02-21 04:44:21	2013-02-21 04:44:21
-83	0x53	S	44	10813026	grn	Sapy'ánte ojepy'amongeta Claudia pe andureko resa'ỹijo rehe.	PauloSamuel	2022-05-08 21:30:03	2022-05-08 21:30:03
-84	0x54	T	390	10824299	grn	Tom hasẽmbota voi.	PauloSamuel	2022-05-12 21:14:26	2022-05-12 21:14:26
-85	0x55	U	85	6811340	grn	Upéicha che ha'e.	PauloSamuel	2018-03-30 14:49:52	2018-03-30 14:49:52
+69	0x45	E	162	8966042	grn	Ere chupe chey'uheiha.	PauloSamuel	2020-08-09 02:42:45	2020-08-09 02:42:45
+70	0x46	F	8	2601494	grn	Maitei, oĩpa Karai Freeman?	PauloSamuel	2013-07-19 00:48:42	2013-07-19 00:48:42
+71	0x47	G	19	2601550	grn	Uperõ, Hesu ou Galilea pegua Huã-me, ysyry Hoydãme, omokarai ha'e hese.	PauloSamuel	2013-07-19 01:34:10	2013-07-19 01:34:10
+72	0x48	H	311	8985359	grn	Ha'e oguahẽkuri pe ára ha'e ohókuri.	PauloSamuel	2020-08-20 03:28:59	2020-08-20 03:28:59
+73	0x49	I	146	9719411	grn	Iporãmbaite.	PauloSamuel	2021-02-04 01:33:01	2021-02-04 01:33:01
+74	0x4a	J	129	2610814	grn	Javy'a ñane retãme, ndaipóri imbojojaha.	PauloSamuel	2013-07-22 02:42:10	2013-07-22 02:42:10
+75	0x4b	K	201	8970365	grn	Kuimba'e, ejekuaa voi nde; upéicharõ reikuaáta Arapy ha Tupã.	PauloSamuel	2020-08-11 13:57:38	2020-08-11 13:57:38
+76	0x4c	L	13	8964363	grn	Layla nosẽséikuri hógagui.	PauloSamuel	2020-08-08 00:05:10	2020-08-08 00:05:10
+77	0x4d	M	394	8943553	grn	Mba'e vícho re'úkuri?	PauloSamuel	2020-07-27 15:24:31	2020-07-27 15:24:31
+78	0x4e	N	352	6811432	grn	Ndaipóri asuka.	PauloSamuel	2018-03-30 15:29:08	2018-03-30 15:29:08
+79	0x4f	O	288	7077985	grn	Oĩ marandu vai.	PauloSamuel	2018-08-21 22:47:09	2018-08-21 22:47:09
+80	0x50	P	176	8900889	grn	Pehendumíkena!	PauloSamuel	2020-07-08 14:46:34	2020-07-08 14:46:34
+82	0x52	R	134	3783271	grn	Rehejáta piko ne ména chéve guarã?	PauloSamuel	2015-01-21 04:08:23	2017-11-21 16:08:02
+83	0x53	S	44	9708015	grn	Sapy'ánte ahendúkuri peteĩ sapukái.	PauloSamuel	2021-01-31 17:41:42	2021-01-31 17:41:42
+84	0x54	T	390	9080226	grn	Aipotami toiko hetave Amérika ñe'ẽ tee Tatoeba retepýpe.	PauloSamuel	2020-09-27 17:19:30	2020-09-27 17:19:30
+85	0x55	U	85	8989446	grn	Umi Ehitogua niko peteĩ umi tetã ypy oipuru akue papíro ijehairã.	PauloSamuel	2020-08-22 15:01:39	2020-08-22 15:01:39
 86	0x56	V	10	2603983	grn	Vikipetã ha'e ñe'ẽryrupavẽ iporãvéva opaite ñandutíre.	PauloSamuel	2013-07-20 01:01:49	2020-08-09 03:15:46
 88	0x58	X	2	7032465	grn	Heñói saro'y XIX-pe.	PauloSamuel	2018-07-30 15:56:48	2018-07-30 15:56:48
-89	0x59	Y	69	7039766	grn	Ahundise YouTube.	PauloSamuel	2018-08-02 18:55:42	2018-08-02 18:55:42
-97	0x61	a	11038	5827152	grn	Karumbekuéra ndorekói tãinguéra.	Balamax	2017-02-04 19:46:35	2017-02-04 19:46:35
-98	0x62	b	1174	8887252	grn	Ñande jaka'ay'u hína yrembe'ýpe.	PauloSamuel	2020-07-02 19:14:06	2020-07-02 19:14:06
-99	0x63	c	1011	10806875	grn	Jaguakuéra ohechánte hũ ha morotĩ.	PauloSamuel	2022-05-05 20:51:45	2022-05-05 20:51:45
-100	0x64	d	1177	3493995	grn	Nde rakóre!	marcosruben	2014-09-13 22:50:33	2014-09-14 09:07:54
-101	0x65	e	8638	8989443	grn	Tom ndaipy'aguasúi he'i hag̃ua Mary-pe ha'e ojavyhague.	PauloSamuel	2020-08-22 14:57:15	2020-08-22 14:57:15
-102	0x66	f	12	9705509	grn	Funafuti niko Tuválu itavusu.	PauloSamuel	2021-01-30 23:11:42	2021-01-30 23:11:42
-103	0x67	g	1349	9000838	grn	Che tuvy mba'yrumýi ipya'eve che mba'yrumýigui.	PauloSamuel	2020-08-28 18:02:48	2020-08-28 18:02:48
-104	0x68	h	4102	8901586	grn	"Ahayhu yvyramatakuéra", he'i kuatirana.	PauloSamuel	2020-07-08 20:25:25	2020-07-08 20:25:25
-105	0x69	i	4735	8583978	grn	Che ahaikuaa popa irundy Chína ñe'ẽ taikuéra.	PauloSamuel	2020-02-28 23:08:40	2020-02-28 23:08:40
-106	0x6a	j	1133	8966031	grn	Ojuka vaekue chupe ñorairõhápe ñombojoyvapúpe.	PauloSamuel	2020-08-09 02:37:29	2020-08-09 02:37:29
-107	0x6b	k	3049	9013050	grn	Ikatu piko aha ysyry peve?	PauloSamuel	2020-09-03 16:20:07	2020-09-03 16:20:07
-108	0x6c	l	144	9705509	grn	Funafuti niko Tuválu itavusu.	PauloSamuel	2021-01-30 23:11:42	2021-01-30 23:11:42
-109	0x6d	m	2706	8972493	grn	Maymáva pe oñotỹva omono'õta.	PauloSamuel	2020-08-12 14:25:45	2020-08-12 14:25:45
-110	0x6e	n	2065	8900952	grn	Máva piko ohendu chupe?	PauloSamuel	2020-07-08 15:08:36	2020-07-08 15:08:36
-111	0x6f	o	5071	8955215	grn	Yvotyty apohára ojerokymemeitéva.	PauloSamuel	2020-08-02 17:24:35	2020-08-02 17:24:35
-112	0x70	p	3707	6811301	grn	Pende py imichĩmi.	PauloSamuel	2018-03-30 14:34:59	2018-03-30 14:34:59
+89	0x59	Y	69	8965300	grn	Yvyryrýi imbaretekue 5 ombokuchu Tókio.	PauloSamuel	2020-08-08 15:23:40	2020-08-08 15:23:40
+97	0x61	a	11038	2609832	grn	Guyra renda ha'e ka'aguy, pira renda ha'e yguasu, eiru renda ha'e yvotykuéra, ha mitã'i renda ha'e tetã China. Ñande jahayhu ñande sy retã ñande mitã reko pegua, guyraicha ohayhu ika'aguy, piraicha ohayhu yguasu, ha eiruicha ohayhu yvotykuéra.	PauloSamuel	2013-07-21 19:35:48	2013-07-21 19:35:48
+98	0x62	b	1174	8899337	grn	Pe ypa'ũ ha'e Amérika yvy mba'e.	PauloSamuel	2020-07-08 00:44:49	2020-07-08 00:44:49
+99	0x63	c	1011	8961315	grn	Che rete chemotĩ.	PauloSamuel	2020-08-06 14:37:16	2020-08-06 14:37:16
+100	0x64	d	1177	8964332	grn	Mbovy ára piko repytáta Oxford-pe?	PauloSamuel	2020-08-07 23:24:51	2020-08-07 23:24:51
+101	0x65	e	8638	6477292	grn	Mayma yvypóra heñói hekosãsóva ha hekojojáva marangatukuépe ha tekoiterapépe ha, oguereko oikoháicha jepy'amongeta ha ãngapy, oiko va'erã joyke'yrayhúpe oñondivekuéra.	PauloSamuel	2017-11-21 16:42:59	2020-03-10 16:24:38
+102	0x66	f	12	7032585	grn	Eyjafjallajökull ha'e hína yvyrata Ilándia retãygua.	PauloSamuel	2018-07-30 16:47:44	2018-07-30 16:47:44
+103	0x67	g	1349	2601492	grn	Maitei. Kóva piko Goto róga?	PauloSamuel	2013-07-19 00:47:35	2020-08-09 13:32:30
+104	0x68	h	4102	8964343	grn	Arapy chembotarova ha naimo'ãkuaái oĩha pe aravopapaha ha ijapohara'ỹva.	PauloSamuel	2020-08-07 23:41:11	2020-08-07 23:41:11
+105	0x69	i	4735	8951396	grn	Che ha'e peteĩ marandu'asãihára Poloñagua.	PauloSamuel	2020-07-31 15:05:14	2020-07-31 15:05:14
+106	0x6a	j	1133	8901041	grn	Jajohecháta arakõi.	PauloSamuel	2020-07-08 15:31:18	2020-07-08 15:31:18
+107	0x6b	k	3049	8899336	grn	Mba'e ypa'ũ piko kóva?	PauloSamuel	2020-07-08 00:44:29	2020-07-08 00:44:29
+108	0x6c	l	144	2600904	grn	Florensia ha'e táva iporãvéva Itáliape.	PauloSamuel	2013-07-18 18:24:48	2020-08-09 03:13:19
+109	0x6d	m	2706	2613052	grn	Aguata tapére atopa peteĩ angirũ ymaguare.	PauloSamuel	2013-07-22 19:44:55	2013-07-22 19:44:55
+110	0x6e	n	2065	8961428	grn	Rohecháta ta'angambyry ko'ápe.	PauloSamuel	2020-08-06 15:46:48	2020-08-06 15:46:48
+111	0x6f	o	5071	9000601	grn	Leila oñepyrũ osapukái.	PauloSamuel	2020-08-28 16:03:31	2020-08-28 16:03:31
+112	0x70	p	3707	10824386	grn	Ymaite oĩ peteĩ mburuvicha guasu ituicháva upe tetãme.	PauloSamuel	2022-05-13 00:23:51	2022-05-13 00:23:51
 113	0x71	q	1	1671487	grn	Ame'êta ndéve quince mil guaraníre. Ha upéi, mbae'pareipotave?	admor82	2012-07-06 21:54:00	2012-07-06 21:58:13
-114	0x72	r	4502	8900944	grn	Rehendu va'erã.	PauloSamuel	2020-07-08 15:05:07	2020-07-08 15:05:07
-115	0x73	s	910	10813315	grn	Ndaikoveséi.	PauloSamuel	2022-05-09 01:53:54	2022-05-09 01:53:54
-116	0x74	t	2586	7032580	grn	Ahechase pe yvyrata.	PauloSamuel	2018-07-30 16:43:08	2018-07-30 16:43:08
-117	0x75	u	3924	9080214	grn	Oĩ ojokuaikuaáva niko jaguaru ovecha pirépe.	PauloSamuel	2020-09-27 17:13:26	2020-09-27 17:13:26
-118	0x76	v	2213	8583850	grn	Mbovevehára peteĩ aerolínea pegua oñangareko va'erã umi ovevéva hekoporãrã.	PauloSamuel	2020-02-28 21:42:12	2020-02-28 21:42:12
-119	0x77	w	4	2601486	grn	Maitei. Ápe Ogawa oñe'ẽva.	PauloSamuel	2013-07-19 00:42:34	2013-07-19 00:45:21
-120	0x78	x	3	8964332	grn	Mbovy ára piko repytáta Oxford-pe?	PauloSamuel	2020-08-07 23:24:51	2020-08-07 23:24:51
-121	0x79	y	2258	9000638	grn	Okañy chehegui che ndavoka.	PauloSamuel	2020-08-28 16:11:17	2020-08-28 16:11:17
+114	0x72	r	4502	8955209	grn	Kyse pe yvotyjara mba'e hína.	PauloSamuel	2020-08-02 17:23:27	2020-08-02 17:23:27
+115	0x73	s	910	9020770	grn	Ahetũ rambosa ryakuã kosináme.	PauloSamuel	2020-09-07 02:37:49	2020-09-07 02:37:49
+116	0x74	t	2586	8970368	grn	Kuimba'e, ejekuaa voi nde; reikuaáta upéicharõ arapy ha Tupã.	PauloSamuel	2020-08-11 13:58:07	2020-08-11 13:58:07
+117	0x75	u	3924	3783257	grn	Heta kuñápe guarã, mborayhu tenonde va'erã.	PauloSamuel	2015-01-21 04:03:39	2015-01-21 04:03:39
+118	0x76	v	2213	10806822	grn	Opavave iporãmba chéve ko'ápe.	PauloSamuel	2022-05-05 20:17:35	2022-05-05 20:17:35
+119	0x77	w	4	8910106	grn	Embohekopyahu nde software.	PauloSamuel	2020-07-12 01:44:07	2020-07-12 01:44:07
+120	0x78	x	3	6811346	grn	Po!— he'i Alex.	PauloSamuel	2018-03-30 14:50:44	2018-03-30 14:50:44
+121	0x79	y	2258	2613190	grn	Che avy'a'ỹta, hakatu che ndajejukata chéve.	PauloSamuel	2013-07-22 20:25:54	2013-07-22 20:25:54
 122	0x7a	z	1	2240118	grn	Ary 1979-pe Madre Teresa ogana ko "Premio Nobel de la paz".	marcosruben	2013-02-21 04:38:09	2013-02-21 04:38:09
-161	0xa1	¡	2	8223096	grn	¡Ey!	ManuelML	2019-10-01 11:08:31	2019-10-02 11:29:08
+161	0xa1	¡	2	3493993	grn	¡Añamemby!	marcosruben	2014-09-13 22:49:51	2014-09-13 22:49:51
 178	0xb2	²	1	8964344	grn	Índiame oĩ 378 tapicha km² rupi.	PauloSamuel	2020-08-07 23:42:04	2020-08-07 23:42:04
-180	0xb4	´	10	2240373	grn	Mayma hénte ko kotýpe ha´e kuimba´ékuéra.	marcosruben	2013-02-21 04:59:51	2013-02-21 04:59:51
+180	0xb4	´	10	2241790	grn	Ha´e kuña rapái.	marcosruben	2013-02-21 12:10:46	2013-07-20 18:48:54
 183	0xb7	·	1	2225448	grn	Sofia Loren réraete ha'éva hína "Sofia Scicolone"·	marcosruben	2013-02-16 05:17:59	2013-02-21 04:25:08
-191	0xbf	¿	3	11492484	grn	¿Rehechápa umi notísia?	janTuki	2023-01-28 22:48:14	2023-01-28 22:48:14
+191	0xbf	¿	3	3493989	grn	¿Mba'éichapa nde pyhare?	marcosruben	2014-09-13 22:48:39	2014-09-13 22:48:39
 193	0xc1	Á	8	2613229	grn	Ára iporã eterei ha para ipy'aguapy.	PauloSamuel	2013-07-22 20:40:27	2013-07-22 20:40:27
-195	0xc3	Ã	7	9006547	grn	Ã ryguasu rupi'a ojejapo 2007-pe.	PauloSamuel	2020-08-31 19:44:20	2020-08-31 19:44:20
+195	0xc3	Ã	7	8584005	grn	Ãga katu che chetujaite aguata hag̃ua.	PauloSamuel	2020-02-28 23:16:46	2020-02-28 23:16:46
 205	0xcd	Í	1	8964344	grn	Índiame oĩ 378 tapicha km² rupi.	PauloSamuel	2020-08-07 23:42:04	2020-08-07 23:42:04
-209	0xd1	Ñ	73	6483253	grn	Paraguái ha'e peteĩ tetã Ñembyamérikagua.	PauloSamuel	2017-11-25 21:10:22	2017-11-25 21:10:22
+209	0xd1	Ñ	73	8901080	grn	Ñanderesarái.	PauloSamuel	2020-07-08 15:49:13	2020-07-08 15:49:13
 211	0xd3	Ó	2	8947778	grn	Óga yvate ijyvatekue sa métro.	PauloSamuel	2020-07-29 17:24:33	2020-07-29 17:24:33
-225	0xe1	á	1070	9126563	grn	Ndaikuaái mávapa osẽ pu'aka ñembosaraihápe.	PauloSamuel	2020-10-09 15:51:17	2020-10-09 15:51:17
+225	0xe1	á	1070	2601432	grn	Mávapa nde?	PauloSamuel	2013-07-19 00:17:16	2013-07-19 00:18:15
 226	0xe2	â	1	2240152	grn	Mayma yvypóra ou ko yvy ári iñapytl'yre haetîcha dignidad ha derecho jeguerekópe; ha ikatu rupi oikuaa añetéva ha añete'yva, iporâ va ha ivaíva, tekotevê pehengué icha oiko oñondivekuéra.	marcosruben	2013-02-21 04:53:38	2013-02-21 04:54:55
-227	0xe3	ã	912	8910085	grn	Cheaguara che rehe aimo'ãvo araka'eve naguahẽi areitéma mbo'ehaópe.	PauloSamuel	2020-07-12 01:15:56	2020-07-12 01:15:56
-233	0xe9	é	1219	9707888	grn	Ndaikuaái mba'épa aimo'ã hese.	PauloSamuel	2021-01-31 17:27:25	2021-01-31 17:27:25
+227	0xe3	ã	912	8907333	grn	—Upéicha, che ha'e —he'i Al-Sayib—; hákatu oĩ jepe peteĩva orehegui ñavõ tetãme. Ha opavavave orehegui iporãite Fanta oréve, iporã ave oréve romoĩvo hendápe umi oñepyrũ ramóva.	PauloSamuel	2020-07-10 23:20:46	2020-07-10 23:20:46
+233	0xe9	é	1219	2610095	grn	Eñe'ẽmi chéve añetehápe.	PauloSamuel	2013-07-21 20:31:02	2013-07-21 20:31:02
 234	0xea	ê	6	2240152	grn	Mayma yvypóra ou ko yvy ári iñapytl'yre haetîcha dignidad ha derecho jeguerekópe; ha ikatu rupi oikuaa añetéva ha añete'yva, iporâ va ha ivaíva, tekotevê pehengué icha oiko oñondivekuéra.	marcosruben	2013-02-21 04:53:38	2013-02-21 04:54:55
-237	0xed	í	385	2612998	grn	Mba'épa ha'e hína vy'a?	PauloSamuel	2013-07-22 19:32:51	2013-07-22 19:32:51
+237	0xed	í	385	7077995	grn	Upéva hína peteĩ marandu vai.	PauloSamuel	2018-08-21 22:49:22	2018-08-21 22:49:22
 238	0xee	î	1	2240152	grn	Mayma yvypóra ou ko yvy ári iñapytl'yre haetîcha dignidad ha derecho jeguerekópe; ha ikatu rupi oikuaa añetéva ha añete'yva, iporâ va ha ivaíva, tekotevê pehengué icha oiko oñondivekuéra.	marcosruben	2013-02-21 04:53:38	2013-02-21 04:54:55
-241	0xf1	ñ	897	10813118	grn	Tom oñe'ẽ Mary ndive.	PauloSamuel	2022-05-08 22:07:35	2022-05-08 22:07:35
-243	0xf3	ó	504	8964368	grn	Isy omanókuri ary ohasámava.	PauloSamuel	2020-08-08 00:11:22	2020-08-08 00:11:22
-245	0xf5	õ	295	8906925	grn	Ko arapýpe oĩnte katu otĩ'ỹva ha tovamokõi.	PauloSamuel	2020-07-10 21:35:27	2020-07-10 21:35:27
+241	0xf1	ñ	897	2225517	grn	Aguereko ñe'endy.	marcosruben	2013-02-16 06:19:43	2013-02-21 04:23:17
+243	0xf3	ó	504	9020818	grn	Mitãnguéra nomba'apói va'erã.	PauloSamuel	2020-09-07 03:31:14	2020-09-07 03:31:14
+245	0xf5	õ	295	8985916	grn	Ha'e irajy mokõi.	PauloSamuel	2020-08-20 13:52:52	2020-08-20 13:52:52
 246	0xf6	ö	1	7032585	grn	Eyjafjallajökull ha'e hína yvyrata Ilándia retãygua.	PauloSamuel	2018-07-30 16:47:44	2018-07-30 16:47:44
-250	0xfa	ú	274	8985361	grn	Sapy'ami ha'e ndaikatúi imandu'a oimehague.	PauloSamuel	2020-08-20 03:32:05	2020-08-20 03:32:05
+250	0xfa	ú	274	8887283	grn	Ha'e omano iñe'ãvevúi akytã'aíre.	PauloSamuel	2020-07-02 19:25:29	2020-07-02 19:25:29
 251	0xfb	û	1	1673344	grn	Oñepyrû la ochoimédia rupi.	admor82	2012-07-07 19:14:48	2012-07-07 19:14:48
-253	0xfd	ý	272	6477297	grn	Ore rojerokýta.	PauloSamuel	2017-11-21 16:47:51	2017-11-21 16:47:51
-297	0x129	ĩ	503	9714163	grn	Oñemomarandu ndéve ojejapórõ oimeraẽ ñemoambue noñemoneĩriva ko kuatia jeipururã rupive ikatu oipe'a ne rembireja reipuru hag̃ua ko tembipuru.	PauloSamuel	2021-02-02 23:35:09	2021-02-02 23:35:09
-361	0x169	ũ	132	6811389	grn	Mombyry guive, ypa'ũ ojoguákuri peteĩ arai.	PauloSamuel	2018-03-30 15:09:03	2018-03-30 15:09:03
-771	0x303	̃	66	2610706	grn	Upéro g̃uarã osẽ pe mba'e apu'águi peteĩ kavano'õ ñarõ oko'íva hese pytu'u'ỹre. Iñirũ nguéra oñanimba upégui. Tavere opyta ha'eño, ho'a upépe ha ipy'amano.	PauloSamuel	2013-07-22 02:01:14	2013-07-22 02:01:14
-7869	0x1ebd	ẽ	434	2610350	grn	Eñe'ẽ nde jurúre, ani reñe'ẽ nde tĩ rupive.	PauloSamuel	2013-07-21 22:23:29	2013-07-21 22:23:29
-7929	0x1ef9	ỹ	71	2613048	grn	E'a, ko'ãga hekope'ỹveva...	PauloSamuel	2013-07-22 19:42:32	2013-07-22 19:42:32
-8212	0x2014	—	7	8907333	grn	—Upéicha, che ha'e —he'i Al-Sayib—; hákatu oĩ jepe peteĩva orehegui ñavõ tetãme. Ha opavavave orehegui iporãite Fanta oréve, iporã ave oréve romoĩvo hendápe umi oñepyrũ ramóva.	PauloSamuel	2020-07-10 23:20:46	2020-07-10 23:20:46
-8217	0x2019	’	2	3506247	grn	Mba’e aravópa hína?	marcosruben	2014-09-20 01:59:54	2014-09-20 01:59:54
+253	0xfd	ý	272	3783165	grn	Ndakumbýi kóva po'a'ỹme. Ijetu'ueterei chéve guarã.	PauloSamuel	2015-01-21 03:23:55	2015-01-21 03:23:55
+297	0x129	ĩ	503	2606118	grn	Porto Alegre ha'e tavusu oĩvéva ñemby gotyo peteĩ Pindoráma retãvore pegua.	PauloSamuel	2013-07-20 21:00:04	2020-08-09 03:24:36
+361	0x169	ũ	132	2220809	grn	Iñepyrũme ndaentendéi mba'épiko ha'e he'i	marcosruben	2013-02-14 01:07:33	2013-02-21 04:28:23
+771	0x303	̃	66	8585491	grn	Añaníkuri pya'eve ikatuháicha ahupyty hag̃ua Tom-pe.	PauloSamuel	2020-02-29 16:45:48	2020-02-29 16:45:48
+7869	0x1ebd	ẽ	434	10810654	grn	Rejapopáma piko pe ñemonguerarã oñeme'ẽva ndéve?	PauloSamuel	2022-05-07 17:57:11	2022-05-07 17:57:11
+7929	0x1ef9	ỹ	71	8910095	grn	Ndaipóri py'amirĩ ta'arõ'ỹre ha ta'arõ py'amirĩ'ỹre.	PauloSamuel	2020-07-12 01:31:13	2020-07-12 01:31:13
+8212	0x2014	—	7	9715985	grn	—Che ndaha'éi mymba ñarõ! —he'i Tom.	PauloSamuel	2021-02-03 18:50:01	2021-02-03 18:50:01
+8217	0x2019	’	2	6402550	grn	Mba’éichapa ndepyhareve!	Balamax	2017-10-29 06:12:01	2017-10-29 06:15:25

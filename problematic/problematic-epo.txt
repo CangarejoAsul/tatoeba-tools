@@ -993,6 +993,7 @@ English quotation marks: unopened closing mark	3243150	epo	La pluralo de „pers
 English quotation marks: unbalanced closing marks	3243150	epo	La pluralo de „person” estas „people”, ne „persons”.	PaulP	2014-05-10 18:11:36	2016-06-16 18:45:04
 Low quotation mark: not used	3243150	epo	La pluralo de „person” estas „people”, ne „persons”.	PaulP	2014-05-10 18:11:36	2016-06-16 18:45:04
 Low quotation mark: not used	3243150	epo	La pluralo de „person” estas „people”, ne „persons”.	PaulP	2014-05-10 18:11:36	2016-06-16 18:45:04
+Cyrillic characters: possible homoglyphs	3246014	epo	Lа arteriosklerozo estas unu el plej grava mortokaŭzoj.	al_ex_an_der	2014-05-11 22:27:03	2014-05-11 22:27:03
 English quotation marks: opening mark succeeded by space	3250139	epo	„Sekvos via movo, Tomo! Vi estas en ŝako.“ – „Kio? Ho, mi tute dronis en pensado. Pardonu tion al mi!“	al_ex_an_der	2014-05-13 16:56:48	2014-05-13 16:57:20
 English quotation marks: unclosed opening mark	3250139	epo	„Sekvos via movo, Tomo! Vi estas en ŝako.“ – „Kio? Ho, mi tute dronis en pensado. Pardonu tion al mi!“	al_ex_an_der	2014-05-13 16:56:48	2014-05-13 16:57:20
 English quotation marks: unbalanced opening marks	3250139	epo	„Sekvos via movo, Tomo! Vi estas en ŝako.“ – „Kio? Ho, mi tute dronis en pensado. Pardonu tion al mi!“	al_ex_an_der	2014-05-13 16:56:48	2014-05-13 16:57:20
@@ -3144,6 +3145,7 @@ English quotation marks: opening mark succeeded by space	7941310	epo	„La neĝa
 English quotation marks: unclosed opening mark	7941310	epo	„La neĝa lando“ (雪国, ‚yukiguni‘) estas romano de la japana verkisto Kaŭabata Jasunari, gajninto de la Premio Nobel de Literaturo.	Pfirsichbaeumchen	2019-05-28 10:41:26	2019-05-28 10:41:26
 Low quotation mark: not used	7941310	epo	„La neĝa lando“ (雪国, ‚yukiguni‘) estas romano de la japana verkisto Kaŭabata Jasunari, gajninto de la Premio Nobel de Literaturo.	Pfirsichbaeumchen	2019-05-28 10:41:26	2019-05-28 10:41:26
 Low quotation mark: not used	7941310	epo	„La neĝa lando“ (雪国, ‚yukiguni‘) estas romano de la japana verkisto Kaŭabata Jasunari, gajninto de la Premio Nobel de Literaturo.	Pfirsichbaeumchen	2019-05-28 10:41:26	2019-05-28 10:41:26
+Cyrillic characters: possible homoglyphs	7947857	epo	Мi neniam sunumas min.	soweli_Elepanto	2019-05-30 11:27:08	2019-05-30 11:28:29
 English quotation marks: unopened closing mark	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
 English quotation marks: unbalanced closing marks	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
 Low quotation mark: not used	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
@@ -4769,3 +4771,4 @@ Guillemets: closing mark succeeded by letter or digit	12231741	epo	La dana vorto
 Guillemets: unclosed opening mark	12231741	epo	La dana vorto »marsvin« signifas kaj focenon kaj kobajon.	danepo	2023-12-26 13:25:04	2023-12-26 13:25:04
 Guillemets: unopened closing mark	12231741	epo	La dana vorto »marsvin« signifas kaj focenon kaj kobajon.	danepo	2023-12-26 13:25:04	2023-12-26 13:25:04
 Final punctuation	12247082	epo	Mi scias, kio okazis al ili	marafon	2024-01-01 21:37:21	2024-01-01 21:37:21
+Question mark: preceeded by space	12275500	epo	Kiu fermis la fenestron ?	HaleBopp	2024-01-19 18:32:41	2024-01-19 18:32:41

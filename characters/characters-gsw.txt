@@ -1,72 +1,72 @@
-32	0x20	 	1746	10627273	gsw	D'Wölf sind am nächercho.	baumstumpf	2022-01-17 07:08:33	2022-01-17 09:13:51
-33	0x21	!	43	5322130	gsw	Alles Gueti!	Zurich899	2016-08-06 15:41:33	2016-08-06 15:41:33
-39	0x27	'	24	8986819	gsw	S'nöchste chömet mir über.	OneByte	2020-08-21 06:54:35	2020-08-21 06:54:35
-44	0x2c	,	41	10366799	gsw	Ich frog mi, warum der Tom no nit uftäucht isch.	Alemann98	2021-10-16 21:32:39	2021-10-16 21:32:39
+32	0x20	 	1746	8984115	gsw	Es isch egal, öb du gosch oder nöd.	OneByte	2020-08-19 10:29:03	2020-08-19 10:29:03
+33	0x21	!	43	8984035	gsw	I gang go schlofe!	OneByte	2020-08-19 10:11:59	2020-08-19 10:11:59
+39	0x27	'	24	8986836	gsw	Hör bitte uf z'fluechä!	OneByte	2020-08-21 07:02:24	2020-08-21 07:02:24
+44	0x2c	,	41	10362280	gsw	Sie händ sich so lang verstande, bis sie agfange händ, mitenand z rede.	Alemann98	2021-10-14 15:45:36	2021-10-14 15:45:36
 45	0x2d	-	1	10623242	gsw	Die niedrigschti U-Off's sind am stolzischte.	baumstumpf	2022-01-14 14:04:23	2022-01-14 14:04:23
-46	0x2e	.	341	5419218	gsw	S Buech isch wiis.	Zurich899	2016-09-09 08:23:40	2016-09-09 08:23:40
+46	0x2e	.	341	10362852	gsw	Dozumal hani no Französischunterricht gnoh.	Alemann98	2021-10-14 20:16:00	2021-10-14 20:16:00
 48	0x30	0	5	8983985	gsw	S einezwanzigscht Johrhundert fangt 2001 a.	OneByte	2020-08-19 09:58:24	2020-08-19 09:58:24
-49	0x31	1	3	10362950	gsw	Sie het sälbständig gläbt siit ihrem 18. Geburtstag.	Alemann98	2021-10-14 21:17:48	2021-10-14 21:17:48
+49	0x31	1	3	8983985	gsw	S einezwanzigscht Johrhundert fangt 2001 a.	OneByte	2020-08-19 09:58:24	2020-08-19 09:58:24
 50	0x32	2	1	8983985	gsw	S einezwanzigscht Johrhundert fangt 2001 a.	OneByte	2020-08-19 09:58:24	2020-08-19 09:58:24
 51	0x33	3	1	8983970	gsw	Da wird 30 € choste.	OneByte	2020-08-19 09:50:37	2020-08-19 09:50:37
 53	0x35	5	1	7858159	gsw	Ich han en Schicht vom 9i bis am 5i.	Notchy	2019-04-18 11:55:42	2019-04-18 11:55:42
 56	0x38	8	1	10362950	gsw	Sie het sälbständig gläbt siit ihrem 18. Geburtstag.	Alemann98	2021-10-14 21:17:48	2021-10-14 21:17:48
 57	0x39	9	1	7858159	gsw	Ich han en Schicht vom 9i bis am 5i.	Notchy	2019-04-18 11:55:42	2019-04-18 11:55:42
-63	0x3f	?	96	5322184	gsw	Chasch das wiederholä?	Zurich899	2016-08-06 15:57:49	2016-08-06 15:57:49
-65	0x41	A	27	8984003	gsw	Australie isch chliner als Südamerika.	OneByte	2020-08-19 10:02:56	2020-08-19 10:02:56
-66	0x42	B	64	5419172	gsw	Chunnsch us Berlin?	Zurich899	2016-09-09 08:09:46	2016-09-09 08:09:46
-67	0x43	C	30	5322165	gsw	Chönd Si langsamer redä?	Zurich899	2016-08-06 15:54:02	2016-08-06 15:54:02
-68	0x44	D	105	10362941	gsw	Die ersti Frog goht an Sie.	Alemann98	2021-10-14 21:11:37	2021-10-14 21:11:37
-69	0x45	E	46	8983998	gsw	Er isch inere Stund zrugg.	OneByte	2020-08-19 10:01:49	2020-08-19 10:01:49
-70	0x46	F	21	4987664	gsw	Fröit mi.	Zurich899	2016-03-18 12:46:21	2016-04-01 10:19:46
-71	0x47	G	35	8986945	gsw	Gnüssesch du dä Summer?	OneByte	2020-08-21 09:02:41	2020-08-21 09:02:41
-72	0x48	H	44	7858156	gsw	Hend ihrs gschafft?	Notchy	2019-04-18 11:55:11	2019-04-18 11:55:11
-73	0x49	I	94	4987676	gsw	Ich wünsch Ihne e schöne Daag.	Zurich899	2016-03-18 12:49:17	2016-04-01 10:21:02
-74	0x4a	J	12	8986854	gsw	Sin Onkel isch vor füf Johr gstorbe.	OneByte	2020-08-21 07:08:21	2020-08-21 07:08:21
-75	0x4b	K	12	8984105	gsw	Komisch.	OneByte	2020-08-19 10:25:45	2020-08-19 10:25:45
-76	0x4c	L	22	4987719	gsw	Löhn Si mi in Ruh.	Zurich899	2016-03-18 12:54:46	2016-04-01 10:22:17
-77	0x4d	M	51	5321109	gsw	Mir gaats guet, dankächöön.	Zurich899	2016-08-06 07:58:00	2016-08-06 07:58:00
+63	0x3f	?	96	8983978	gsw	Bisch sicher?	OneByte	2020-08-19 09:54:31	2020-08-19 09:54:31
+65	0x41	A	27	10623235	gsw	Das isch s'erschte mal wo I äs Auto fahr.	baumstumpf	2022-01-14 13:57:04	2022-01-14 13:57:04
+66	0x42	B	64	7858257	gsw	De Tom isch be Bewusstsie.	Notchy	2019-04-18 14:49:10	2019-04-18 14:49:10
+67	0x43	C	30	5419172	gsw	Chunnsch us Berlin?	Zurich899	2016-09-09 08:09:46	2016-09-09 08:09:46
+68	0x44	D	105	7858170	gsw	De Tom isch scho da, aber d Mary isch noned aacho.	Notchy	2019-04-18 12:03:46	2019-04-18 12:03:46
+69	0x45	E	46	4987681	gsw	En Guete!	Zurich899	2016-03-18 12:49:45	2016-03-18 12:49:45
+70	0x46	F	21	5419214	gsw	D Frau isch jung.	Zurich899	2016-09-09 08:22:27	2016-09-09 08:22:27
+71	0x47	G	35	10362934	gsw	Git's es WC in der Nööchi?	Alemann98	2021-10-14 21:02:38	2021-10-14 21:02:38
+72	0x48	H	44	10362188	gsw	Händ Sie sie gwarnet?	Alemann98	2021-10-14 14:58:42	2021-10-14 14:58:42
+73	0x49	I	94	7881105	gsw	Ich glaube, ich verstahs.	Notchy	2019-05-01 10:18:23	2019-05-01 10:18:23
+74	0x4a	J	12	8984010	gsw	Frohs neus Johr!	OneByte	2020-08-19 10:05:11	2020-08-19 10:05:11
+75	0x4b	K	12	10363925	gsw	Der Karl chunnt vo Berlin.	Alemann98	2021-10-15 10:28:08	2021-10-15 10:28:08
+76	0x4c	L	22	8984032	gsw	Lo sWasser nöd laufe.	OneByte	2020-08-19 10:11:11	2020-08-19 10:11:11
+77	0x4d	M	51	8989039	gsw	Me wüsset wieso du geschter nöd do gsi bisch.	OneByte	2020-08-22 08:27:17	2020-08-22 08:27:17
 78	0x4e	N	12	7858150	gsw	En Elefant het en langi Nase.	Notchy	2019-04-18 11:39:00	2019-04-18 11:39:00
 79	0x4f	O	9	10623243	gsw	Isch dr Tom än Offizier?	baumstumpf	2022-01-14 14:06:24	2022-01-14 14:06:24
-80	0x50	P	16	4987730	gsw	Rief dr Polizei!	Zurich899	2016-03-18 12:56:01	2016-03-18 12:56:01
-82	0x52	R	15	8983984	gsw	Si het mit em Rauche ufghört.	OneByte	2020-08-19 09:57:42	2020-08-19 09:57:42
-83	0x53	S	119	10566824	gsw	Bliib na und lueg der dä Sunänuntergang mit eus aa.	konadare	2021-12-16 22:28:39	2021-12-16 22:28:39
-84	0x54	T	53	8986835	gsw	De Tom het eigni Problem.	OneByte	2020-08-21 07:01:38	2020-08-21 07:01:38
-85	0x55	U	7	5322006	gsw	Uf Widerluegä!	Zurich899	2016-08-06 15:04:54	2016-08-06 15:04:54
-86	0x56	V	12	5456155	gsw	Tom hät es Velo.	Zurich899	2016-09-20 12:13:51	2016-09-20 12:13:51
-87	0x57	W	68	8984126	gsw	Wäm sini Wohnig isch da?	OneByte	2020-08-19 10:43:58	2020-08-19 10:43:58
+80	0x50	P	16	5320206	gsw	Ich han mis Portmone verloore.	Zurich899	2016-08-05 19:45:07	2016-08-05 19:45:07
+82	0x52	R	15	8986824	gsw	De Ris mit de Eier und de Sojasose vermische.	OneByte	2020-08-21 06:58:02	2020-08-21 06:58:02
+83	0x53	S	119	8986819	gsw	S'nöchste chömet mir über.	OneByte	2020-08-21 06:54:35	2020-08-21 06:54:35
+84	0x54	T	53	7881101	gsw	Echti Männer trinked Tee.	Notchy	2019-05-01 10:17:22	2019-05-01 10:17:22
+85	0x55	U	7	5320202	gsw	Und Ine?	Zurich899	2016-08-05 19:44:27	2016-08-05 19:44:27
+86	0x56	V	12	5456150	gsw	Er hät es Velo.	Zurich899	2016-09-20 12:13:02	2016-09-20 12:13:02
+87	0x57	W	68	10623244	gsw	Wönd Sie immerno Offizier wärde?	baumstumpf	2022-01-14 14:07:17	2022-01-14 14:07:22
 89	0x59	Y	1	5320193	gsw	Mi name isch Yamada.	Zurich899	2016-08-05 19:40:28	2016-08-05 19:40:28
-90	0x5a	Z	11	7858164	gsw	Zeig ihn ire!	Notchy	2019-04-18 11:56:53	2019-04-18 11:56:53
-97	0x61	a	438	8986832	gsw	I han Zmorgä gmacht.	OneByte	2020-08-21 07:00:28	2020-08-21 07:00:28
-98	0x62	b	115	8984005	gsw	Sin Grossvater isch vormene Johr a Krebs gstorbe.	OneByte	2020-08-19 10:04:13	2020-08-19 10:04:13
-99	0x63	c	483	10623218	gsw	S Huus vom John isch nid sehr gmüetlich.	baumstumpf	2022-01-14 13:46:37	2022-01-14 13:46:42
-100	0x64	d	308	10623231	gsw	Wenn d'wötsch, chani im dini Handynummerä geh.	baumstumpf	2022-01-14 13:53:44	2022-01-14 13:53:44
-101	0x65	e	932	5419171	gsw	Chunnsch us Beijing?	Zurich899	2016-09-09 08:09:37	2016-09-09 08:09:37
-102	0x66	f	135	5322105	gsw	Was sind Si vo Prueff?	Zurich899	2016-08-06 15:34:20	2016-08-06 15:34:20
-103	0x67	g	276	8983971	gsw	I verdiene 100 Euro pro Tag.	OneByte	2020-08-19 09:50:59	2020-08-19 09:50:59
-104	0x68	h	707	8986924	gsw	Jiddisch isch nöd Dütsch.	OneByte	2020-08-21 08:55:38	2020-08-21 08:55:38
-105	0x69	i	851	7881112	gsw	Elefante läbed in Asie und Afrika.	Notchy	2019-05-01 10:20:46	2019-05-01 10:20:46
-106	0x6a	j	9	10362945	gsw	Du bisch jetz eine vo üs.	Alemann98	2021-10-14 21:15:41	2021-10-14 21:15:41
-107	0x6b	k	55	8986922	gsw	I denk ständig dra.	OneByte	2020-08-21 08:53:47	2020-08-21 08:53:47
-108	0x6c	l	282	10362280	gsw	Sie händ sich so lang verstande, bis sie agfange händ, mitenand z rede.	Alemann98	2021-10-14 15:45:36	2021-10-14 15:45:36
-109	0x6d	m	286	10362937	gsw	Ich bi mit em Zug uf Boston gfahre.	Alemann98	2021-10-14 21:04:57	2021-10-14 21:04:57
-110	0x6e	n	522	8984118	gsw	Wie ernscht meinet Si da?	OneByte	2020-08-19 10:31:28	2020-08-19 10:31:28
-111	0x6f	o	292	10623236	gsw	I han no dänkt, dass s kompliziert isch.	baumstumpf	2022-01-14 13:58:07	2022-01-14 13:58:43
-112	0x70	p	58	10362975	gsw	Der Tom gseht zimlich ähnlich us wie öpper, woni kenne.	Alemann98	2021-10-14 21:47:43	2021-10-14 21:47:43
-114	0x72	r	474	10623201	gsw	Wieso hesch d Gruppä verla?	baumstumpf	2022-01-14 13:37:45	2022-01-14 13:37:53
-115	0x73	s	715	8986834	gsw	I han Chäs nöd bsunders gärn.	OneByte	2020-08-21 07:01:20	2020-08-21 07:01:20
-116	0x74	t	454	10362963	gsw	Tue nit trödle uf em Heiwäg.	Alemann98	2021-10-14 21:36:28	2021-10-14 21:36:56
-117	0x75	u	316	5322132	gsw	Härzliche Glückwunsch!	Zurich899	2016-08-06 15:41:49	2016-08-06 15:41:49
-118	0x76	v	54	8986822	gsw	Mini Rennmuus isch verschwunde.	OneByte	2020-08-21 06:56:49	2020-08-21 06:56:49
-119	0x77	w	102	8986822	gsw	Mini Rennmuus isch verschwunde.	OneByte	2020-08-21 06:56:49	2020-08-21 06:56:49
+90	0x5a	Z	11	8984119	gsw	De Tom isch Zimmerma, oder?	OneByte	2020-08-19 10:31:50	2020-08-19 10:31:50
+97	0x61	a	438	8983984	gsw	Si het mit em Rauche ufghört.	OneByte	2020-08-19 09:57:42	2020-08-19 09:57:42
+98	0x62	b	115	7881105	gsw	Ich glaube, ich verstahs.	Notchy	2019-05-01 10:18:23	2019-05-01 10:18:23
+99	0x63	c	483	5419172	gsw	Chunnsch us Berlin?	Zurich899	2016-09-09 08:09:46	2016-09-09 08:09:46
+100	0x64	d	308	8984032	gsw	Lo sWasser nöd laufe.	OneByte	2020-08-19 10:11:11	2020-08-19 10:11:11
+101	0x65	e	932	10366801	gsw	Ich wött d Maria nit verliere.	Alemann98	2021-10-16 21:33:17	2021-10-16 21:33:17
+102	0x66	f	135	10362953	gsw	Er gfreut sich druuf, dich z gseh.	Alemann98	2021-10-14 21:18:44	2021-10-14 21:18:44
+103	0x67	g	276	8986853	gsw	I ha vier Johr lang Änglisch glärnt.	OneByte	2020-08-21 07:08:02	2020-08-21 07:08:02
+104	0x68	h	707	8986821	gsw	Wärum lachsch du nöd?	OneByte	2020-08-21 06:56:30	2020-08-21 06:56:30
+105	0x69	i	851	10362941	gsw	Die ersti Frog goht an Sie.	Alemann98	2021-10-14 21:11:37	2021-10-14 21:11:37
+106	0x6a	j	9	8983979	gsw	I säg jo nume!	OneByte	2020-08-19 09:55:39	2020-08-19 09:55:39
+107	0x6b	k	55	5320198	gsw	Danke, mir gaats guet.	Zurich899	2016-08-05 19:42:06	2016-08-05 19:42:18
+108	0x6c	l	282	8984127	gsw	Da wär gloge.	OneByte	2020-08-19 10:44:26	2020-08-19 10:44:26
+109	0x6d	m	286	7858161	gsw	Chum, mer nehmed de Bus.	Notchy	2019-04-18 11:56:20	2019-04-18 11:56:20
+110	0x6e	n	522	10627273	gsw	D'Wölf sind am nächercho.	baumstumpf	2022-01-17 07:08:33	2022-01-17 09:13:51
+111	0x6f	o	292	10362329	gsw	Der Tom wird sich go umzieh.	Alemann98	2021-10-14 16:14:17	2021-10-14 16:14:17
+112	0x70	p	58	10623193	gsw	D'Hauptfunktion vo dä rotä Bluetkörperli isch de Suurstoffstransport.	baumstumpf	2022-01-14 13:34:53	2022-01-14 13:34:53
+114	0x72	r	474	8986873	gsw	Sogar mir hättet dir gholfe.	OneByte	2020-08-21 07:15:20	2020-08-21 07:15:20
+115	0x73	s	715	8984017	gsw	Da isch e günschtigs Gschäft.	OneByte	2020-08-19 10:07:27	2020-08-19 10:07:27
+116	0x74	t	454	7858166	gsw	Sie het ihn ginget.	Notchy	2019-04-18 11:59:10	2019-04-18 11:59:10
+117	0x75	u	316	10362337	gsw	Er luegt dich immer a. Er liebt di allwäg.	Alemann98	2021-10-14 16:19:23	2021-10-14 16:19:23
+118	0x76	v	54	10363925	gsw	Der Karl chunnt vo Berlin.	Alemann98	2021-10-15 10:28:08	2021-10-15 10:28:08
+119	0x77	w	102	5322222	gsw	Ich han es bitzeli Chopfweh.	Zurich899	2016-08-06 16:11:54	2016-08-06 16:11:54
 120	0x78	x	2	4987698	gsw	Exgüüsi.	Zurich899	2016-03-18 12:51:54	2016-04-01 10:21:42
 121	0x79	y	9	2577725	gsw	Sy, oder Nödsy, das isch hie d Frag.	Zurich899	2013-07-09 06:15:59	2016-08-05 19:38:24
-122	0x7a	z	78	7858145	gsw	Ich han versuecht z flüchte.	Notchy	2019-04-18 11:37:34	2019-04-18 11:37:34
+122	0x7a	z	78	8984113	gsw	I ha gschwitzt.	OneByte	2020-08-19 10:28:31	2020-08-19 10:28:31
 171	0xab	«	1	8984068	gsw	Wa bedütet «Tatoeba»?	OneByte	2020-08-19 10:17:11	2020-08-19 10:17:11
 187	0xbb	»	1	8984068	gsw	Wa bedütet «Tatoeba»?	OneByte	2020-08-19 10:17:11	2020-08-19 10:17:11
-196	0xc4	Ä	3	8986853	gsw	I ha vier Johr lang Änglisch glärnt.	OneByte	2020-08-21 07:08:02	2020-08-21 07:08:02
+196	0xc4	Ä	3	5322178	gsw	Ich red Änglisch.	Zurich899	2016-08-06 15:56:38	2016-08-06 15:56:38
 214	0xd6	Ö	1	10366811	gsw	D Öpfel vom Bäum hinter em Tom siim Huus schmöcke würklich guet.	Alemann98	2021-10-16 21:37:28	2021-10-16 21:49:58
 220	0xdc	Ü	1	7858162	gsw	Üsi Ziit isch abgloffe.	Notchy	2019-04-18 11:56:32	2019-04-18 11:56:32
-228	0xe4	ä	168	5322011	gsw	Wiä häissisch?	Zurich899	2016-08-06 15:06:21	2016-08-06 15:06:21
-246	0xf6	ö	116	8986829	gsw	Het ihn öpert gseh?	OneByte	2020-08-21 06:59:20	2020-08-21 06:59:20
-252	0xfc	ü	99	11294241	gsw	Ihr chönd natürli au sehr gern no anderi Lüüt fröge.	see	2022-12-04 18:15:01	2022-12-04 18:15:01
+228	0xe4	ä	168	10362842	gsw	Du bisch uf em richtige Wäg.	Alemann98	2021-10-14 20:12:22	2021-10-14 20:12:22
+246	0xf6	ö	116	5320199	gsw	Mir gaats nöd so guet.	Zurich899	2016-08-05 19:43:07	2016-08-05 19:43:07
+252	0xfc	ü	99	7881104	gsw	Da isch Ihre Schlüssel.	Notchy	2019-05-01 10:18:06	2019-05-01 10:18:06
 8364	0x20ac	€	1	8983970	gsw	Da wird 30 € choste.	OneByte	2020-08-19 09:50:37	2020-08-19 09:50:37

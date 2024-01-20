@@ -1,60 +1,60 @@
-32	0x20	 	142	3292940	liv	Mēg ūomõ īd vannit.	jeedrek	2014-06-02 17:53:13	2014-06-02 17:53:13
-33	0x21	!	8	3166875	liv	Vȯndzist Ūdāigastõ!	\N	2014-04-11 13:35:24	2019-04-16 14:08:30
+32	0x20	 	142	3285672	liv	Minā um tēḑi kuskīz nǟnd.	jeedrek	2014-05-30 08:04:40	2014-06-03 18:09:07
+33	0x21	!	8	3166870	liv	Jõvā pǟva!	\N	2014-04-11 13:34:13	2019-04-16 14:08:32
 34	0x22	"	4	3292980	liv	"Tienū." "Võtāgid jõvāks."	jeedrek	2014-06-02 18:01:55	2014-06-02 18:01:55
 39	0x27	'	2	12170724	liv	Se u'm mi'n nai Maŗī.	GemMonkey	2023-11-21 04:46:32	2023-11-21 04:46:32
 44	0x2c	,	12	7918865	liv	Ikš, kakš, kuolm, nēļa, vīž, kūž, seis, kǭ’dõks, ī’dõks, kim.	GemMonkey	2019-05-18 12:56:49	2023-11-20 05:16:17
-46	0x2e	.	39	12169286	liv	Mi’nni izā mīnda gintõb.	GemMonkey	2023-11-20 08:38:47	2023-11-20 08:38:47
-63	0x3f	?	9	3285676	liv	Vȯi ma täddõn äb sieg?	jeedrek	2014-05-30 08:05:52	2014-05-30 08:05:52
+46	0x2e	.	39	12169240	liv	Ma u’m sǭnd kilmõ.	GemMonkey	2023-11-20 08:10:06	2023-11-20 08:10:06
+63	0x3f	?	9	3285683	liv	Mingi dātõm tämpõ?	jeedrek	2014-05-30 08:09:26	2014-05-30 08:09:26
 65	0x41	A	2	12188352	liv	Aițumāl!	GemMonkey	2023-12-01 12:06:24	2023-12-01 12:06:24
-73	0x49	I	2	12169015	liv	I’bbi u’m mõtsās.	GemMonkey	2023-11-20 05:51:25	2023-11-20 05:51:25
+73	0x49	I	2	7918865	liv	Ikš, kakš, kuolm, nēļa, vīž, kūž, seis, kǭ’dõks, ī’dõks, kim.	GemMonkey	2019-05-18 12:56:49	2023-11-20 05:16:17
 74	0x4a	J	4	3166870	liv	Jõvā pǟva!	\N	2014-04-11 13:34:13	2019-04-16 14:08:32
-75	0x4b	K	3	3292973	liv	Kui tēḑi nutāb?	jeedrek	2014-06-02 17:59:46	2014-06-03 18:08:58
-77	0x4d	M	15	12169074	liv	Mi’nnõn nä’gțõb, ku ma kūliz īr.	GemMonkey	2023-11-20 07:11:01	2023-11-20 07:11:01
+75	0x4b	K	3	3666207	liv	Kīela um vīžtuoistõn minūtõ pūtõb kuolmõst.	jeedrek	2014-11-30 14:45:51	2014-11-30 14:45:54
+77	0x4d	M	15	12170717	liv	Ma vȯ’ļ vä’ggi kȭrdali.	GemMonkey	2023-11-21 04:31:25	2023-11-21 04:31:25
 78	0x4e	N	1	12170933	liv	Novāndõks u’m vä’ggi vȯ’ldzi.	GemMonkey	2023-11-21 11:21:41	2023-11-21 11:21:41
 80	0x50	P	3	12169025	liv	Piezā mǭ’zõ sa’ddõ mǭsõ.	GemMonkey	2023-11-20 06:07:02	2023-11-20 06:07:02
-82	0x52	R	2	3188276	liv	Rōntõz um ūž.	\N	2014-04-18 17:30:32	2019-04-16 14:08:21
-83	0x53	S	9	12169473	liv	Si’nnõn vȯ’ļtõ blǭ’ḑimizt.	GemMonkey	2023-11-20 11:28:54	2023-11-20 11:28:54
-84	0x54	T	6	3665331	liv	Tēg tuļtõ āigastis.	jeedrek	2014-11-30 03:20:28	2014-11-30 03:20:28
+82	0x52	R	2	3188278	liv	Rōntõz äb ūo ūž.	\N	2014-04-18 17:31:06	2019-04-16 14:08:14
+83	0x53	S	9	12169012	liv	Si’n u’m i’bbi.	GemMonkey	2023-11-20 05:41:25	2023-11-20 05:41:25
+84	0x54	T	6	3285665	liv	Tienū, minnõn lǟb jõvist.	jeedrek	2014-05-30 08:01:30	2014-05-30 08:01:30
 85	0x55	U	1	3666189	liv	Ullõ sadāb vīm.	jeedrek	2014-11-30 14:43:17	2014-11-30 14:43:17
-86	0x56	V	6	3285676	liv	Vȯi ma täddõn äb sieg?	jeedrek	2014-05-30 08:05:52	2014-05-30 08:05:52
-97	0x61	a	42	3285669	liv	Minā tǟnda äb tund.	jeedrek	2014-05-30 08:03:08	2014-05-30 08:03:08
-98	0x62	b	19	3285676	liv	Vȯi ma täddõn äb sieg?	jeedrek	2014-05-30 08:05:52	2014-05-30 08:05:52
-100	0x64	d	36	3292958	liv	Vȯi täddõn attõ lapst?	jeedrek	2014-06-02 17:56:24	2014-06-02 17:56:24
-101	0x65	e	13	12170724	liv	Se u'm mi'n nai Maŗī.	GemMonkey	2023-11-21 04:46:32	2023-11-21 04:46:32
-103	0x67	g	24	3285668	liv	Kui tēg tūndõt ēntšta?	jeedrek	2014-05-30 08:02:31	2014-05-30 08:02:31
-105	0x69	i	85	12169012	liv	Si’n u’m i’bbi.	GemMonkey	2023-11-20 05:41:25	2023-11-20 05:41:25
+86	0x56	V	6	12175404	liv	Või u’m gintõb?	GemMonkey	2023-11-24 05:30:11	2023-11-24 05:30:11
+97	0x61	a	42	12170724	liv	Se u'm mi'n nai Maŗī.	GemMonkey	2023-11-21 04:46:32	2023-11-21 04:46:32
+98	0x62	b	19	12169473	liv	Si’nnõn vȯ’ļtõ blǭ’ḑimizt.	GemMonkey	2023-11-20 11:28:54	2023-11-20 11:28:54
+100	0x64	d	36	12169058	liv	Tä’mmõn at knaššõd si’ņņizt sīlmad.	GemMonkey	2023-11-20 06:50:55	2023-11-20 06:50:55
+101	0x65	e	13	3665315	liv	Tämpõ um ežžõmpǟva.	jeedrek	2014-11-30 03:16:37	2014-11-30 03:16:46
+103	0x67	g	24	3292980	liv	"Tienū." "Võtāgid jõvāks."	jeedrek	2014-06-02 18:01:55	2014-06-02 18:01:55
+105	0x69	i	85	3285678	liv	Pävaļikki pāistab.	jeedrek	2014-05-30 08:06:47	2014-05-30 08:06:47
 106	0x6a	j	2	3285665	liv	Tienū, minnõn lǟb jõvist.	jeedrek	2014-05-30 08:01:30	2014-05-30 08:01:30
-107	0x6b	k	38	3285678	liv	Pävaļikki pāistab.	jeedrek	2014-05-30 08:06:47	2014-05-30 08:06:47
-108	0x6c	l	20	12169240	liv	Ma u’m sǭnd kilmõ.	GemMonkey	2023-11-20 08:10:06	2023-11-20 08:10:06
-109	0x6d	m	57	3285683	liv	Mingi dātõm tämpõ?	jeedrek	2014-05-30 08:09:26	2014-05-30 08:09:26
-110	0x6e	n	66	3285685	liv	Mingi pǟva tämpõ?	jeedrek	2014-05-30 08:10:00	2014-05-30 08:10:00
-111	0x6f	o	11	3666207	liv	Kīela um vīžtuoistõn minūtõ pūtõb kuolmõst.	jeedrek	2014-11-30 14:45:51	2014-11-30 14:45:54
-112	0x70	p	12	3166870	liv	Jõvā pǟva!	\N	2014-04-11 13:34:13	2019-04-16 14:08:32
-114	0x72	r	9	12170009	liv	Mi’nnõn set rǭžki no’vvõmõst um.	GemMonkey	2023-11-20 17:08:02	2023-11-20 17:08:02
-115	0x73	s	38	12170009	liv	Mi’nnõn set rǭžki no’vvõmõst um.	GemMonkey	2023-11-20 17:08:02	2023-11-20 17:08:02
-116	0x74	t	53	3666207	liv	Kīela um vīžtuoistõn minūtõ pūtõb kuolmõst.	jeedrek	2014-11-30 14:45:51	2014-11-30 14:45:54
-117	0x75	u	36	12168998	liv	Mi’nnõn u’m i’bbi, kis rõkāndõd.	GemMonkey	2023-11-20 05:10:16	2023-11-20 05:41:49
-118	0x76	v	25	3285665	liv	Tienū, minnõn lǟb jõvist.	jeedrek	2014-05-30 08:01:30	2014-05-30 08:01:30
-122	0x7a	z	13	3188278	liv	Rōntõz äb ūo ūž.	\N	2014-04-18 17:31:06	2019-04-16 14:08:14
-228	0xe4	ä	15	12170933	liv	Novāndõks u’m vä’ggi vȯ’ldzi.	GemMonkey	2023-11-21 11:21:41	2023-11-21 11:21:41
-245	0xf5	õ	68	12169025	liv	Piezā mǭ’zõ sa’ddõ mǭsõ.	GemMonkey	2023-11-20 06:07:02	2023-11-20 06:07:02
+107	0x6b	k	38	12169074	liv	Mi’nnõn nä’gțõb, ku ma kūliz īr.	GemMonkey	2023-11-20 07:11:01	2023-11-20 07:11:01
+108	0x6c	l	20	12169058	liv	Tä’mmõn at knaššõd si’ņņizt sīlmad.	GemMonkey	2023-11-20 06:50:55	2023-11-20 06:50:55
+109	0x6d	m	57	12170724	liv	Se u'm mi'n nai Maŗī.	GemMonkey	2023-11-21 04:46:32	2023-11-21 04:46:32
+110	0x6e	n	66	3188280	liv	Min piņ um sūr.	\N	2014-04-18 17:32:20	2019-04-16 14:08:17
+111	0x6f	o	11	12169028	liv	Sūoļki at mǭ’zõ.	GemMonkey	2023-11-20 06:16:28	2023-11-20 06:16:28
+112	0x70	p	12	3285685	liv	Mingi pǟva tämpõ?	jeedrek	2014-05-30 08:10:00	2014-05-30 08:10:00
+114	0x72	r	9	3188575	liv	Siņņi kȭr um ūž.	\N	2014-04-18 22:25:58	2019-04-16 14:08:27
+115	0x73	s	38	7918865	liv	Ikš, kakš, kuolm, nēļa, vīž, kūž, seis, kǭ’dõks, ī’dõks, kim.	GemMonkey	2019-05-18 12:56:49	2023-11-20 05:16:17
+116	0x74	t	53	12175404	liv	Või u’m gintõb?	GemMonkey	2023-11-24 05:30:11	2023-11-24 05:30:11
+117	0x75	u	36	12188353	liv	Aițumāl.	GemMonkey	2023-12-01 12:06:45	2023-12-01 12:06:45
+118	0x76	v	25	12170933	liv	Novāndõks u’m vä’ggi vȯ’ldzi.	GemMonkey	2023-11-21 11:21:41	2023-11-21 11:21:41
+122	0x7a	z	13	12169025	liv	Piezā mǭ’zõ sa’ddõ mǭsõ.	GemMonkey	2023-11-20 06:07:02	2023-11-20 06:07:02
+228	0xe4	ä	15	3285685	liv	Mingi pǟva tämpõ?	jeedrek	2014-05-30 08:10:00	2014-05-30 08:10:00
+245	0xf5	õ	68	3285676	liv	Vȯi ma täddõn äb sieg?	jeedrek	2014-05-30 08:05:52	2014-05-30 08:05:52
 256	0x100	Ā	2	12170748	liv	Āiga u’m rǭžki vi’l.	GemMonkey	2023-11-21 05:27:38	2023-11-21 05:27:38
-257	0x101	ā	23	12168998	liv	Mi’nnõn u’m i’bbi, kis rõkāndõd.	GemMonkey	2023-11-20 05:10:16	2023-11-20 05:41:49
+257	0x101	ā	23	3189154	liv	Sin kaš um mustā.	\N	2014-04-19 07:39:25	2019-04-16 14:08:25
 274	0x112	Ē	1	3665309	liv	Ēḑõgid mōzõ.	jeedrek	2014-11-30 03:14:30	2014-11-30 23:33:45
-275	0x113	ē	9	3285668	liv	Kui tēg tūndõt ēntšta?	jeedrek	2014-05-30 08:02:31	2014-05-30 08:02:31
-299	0x12b	ī	15	3666207	liv	Kīela um vīžtuoistõn minūtõ pūtõb kuolmõst.	jeedrek	2014-11-30 14:45:51	2014-11-30 14:45:54
-316	0x13c	ļ	7	3285678	liv	Pävaļikki pāistab.	jeedrek	2014-05-30 08:06:47	2014-05-30 08:06:47
-326	0x146	ņ	7	3188575	liv	Siņņi kȭr um ūž.	\N	2014-04-18 22:25:58	2019-04-16 14:08:27
-333	0x14d	ō	3	3665309	liv	Ēḑõgid mōzõ.	jeedrek	2014-11-30 03:14:30	2014-11-30 23:33:45
+275	0x113	ē	9	3292973	liv	Kui tēḑi nutāb?	jeedrek	2014-06-02 17:59:46	2014-06-03 18:08:58
+299	0x12b	ī	15	12169058	liv	Tä’mmõn at knaššõd si’ņņizt sīlmad.	GemMonkey	2023-11-20 06:50:55	2023-11-20 06:50:55
+316	0x13c	ļ	7	12170717	liv	Ma vȯ’ļ vä’ggi kȭrdali.	GemMonkey	2023-11-21 04:31:25	2023-11-21 04:31:25
+326	0x146	ņ	7	3665328	liv	Pǟvan um kakškimdõ nēļa stuņdõ.	jeedrek	2014-11-30 03:19:37	2014-11-30 03:19:37
+333	0x14d	ō	3	3188278	liv	Rōntõz äb ūo ūž.	\N	2014-04-18 17:31:06	2019-04-16 14:08:14
 343	0x157	ŗ	1	12170724	liv	Se u'm mi'n nai Maŗī.	GemMonkey	2023-11-21 04:46:32	2023-11-21 04:46:32
-353	0x161	š	11	3285668	liv	Kui tēg tūndõt ēntšta?	jeedrek	2014-05-30 08:02:31	2014-05-30 08:02:31
+353	0x161	š	11	3665328	liv	Pǟvan um kakškimdõ nēļa stuņdõ.	jeedrek	2014-11-30 03:19:37	2014-11-30 03:19:37
 362	0x16a	Ū	1	3166875	liv	Vȯndzist Ūdāigastõ!	\N	2014-04-11 13:35:24	2019-04-16 14:08:30
-363	0x16b	ū	19	7918865	liv	Ikš, kakš, kuolm, nēļa, vīž, kūž, seis, kǭ’dõks, ī’dõks, kim.	GemMonkey	2019-05-18 12:56:49	2023-11-20 05:16:17
+363	0x16b	ū	19	3285665	liv	Tienū, minnõn lǟb jõvist.	jeedrek	2014-05-30 08:01:30	2014-05-30 08:01:30
 382	0x17e	ž	10	3188575	liv	Siņņi kȭr um ūž.	\N	2014-04-18 22:25:58	2019-04-16 14:08:27
-479	0x1df	ǟ	7	3285665	liv	Tienū, minnõn lǟb jõvist.	jeedrek	2014-05-30 08:01:30	2014-05-30 08:01:30
-493	0x1ed	ǭ	8	12169240	liv	Ma u’m sǭnd kilmõ.	GemMonkey	2023-11-20 08:10:06	2023-11-20 08:10:06
+479	0x1df	ǟ	7	3285685	liv	Mingi pǟva tämpõ?	jeedrek	2014-05-30 08:10:00	2014-05-30 08:10:00
+493	0x1ed	ǭ	8	12169025	liv	Piezā mǭ’zõ sa’ddõ mǭsõ.	GemMonkey	2023-11-20 06:07:02	2023-11-20 06:07:02
 539	0x21b	ț	3	12188353	liv	Aițumāl.	GemMonkey	2023-12-01 12:06:45	2023-12-01 12:06:45
 557	0x22d	ȭ	3	12170717	liv	Ma vȯ’ļ vä’ggi kȭrdali.	GemMonkey	2023-11-21 04:31:25	2023-11-21 04:31:25
-559	0x22f	ȯ	6	3166875	liv	Vȯndzist Ūdāigastõ!	\N	2014-04-11 13:35:24	2019-04-16 14:08:30
-7697	0x1e11	ḑ	4	12169473	liv	Si’nnõn vȯ’ļtõ blǭ’ḑimizt.	GemMonkey	2023-11-20 11:28:54	2023-11-20 11:28:54
-8217	0x2019	’	35	12169355	liv	Se u’m täm.	GemMonkey	2023-11-20 09:18:41	2023-11-20 09:18:41
+559	0x22f	ȯ	6	12170933	liv	Novāndõks u’m vä’ggi vȯ’ldzi.	GemMonkey	2023-11-21 11:21:41	2023-11-21 11:21:41
+7697	0x1e11	ḑ	4	3285672	liv	Minā um tēḑi kuskīz nǟnd.	jeedrek	2014-05-30 08:04:40	2014-06-03 18:09:07
+8217	0x2019	’	35	12169025	liv	Piezā mǭ’zõ sa’ddõ mǭsõ.	GemMonkey	2023-11-20 06:07:02	2023-11-20 06:07:02

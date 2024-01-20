@@ -277,7 +277,7 @@ Semicolon: not preceeded by space	829789	fra	La duchesse était donc sous le jou
 Semicolon: not preceeded by space	831573	fra	Une fondation n'a pas de membres ou de sociétaires; elle est une masse d'argent juridiquement indépendante qui, pour ainsi dire, s'appartient à elle-même.	sacredceltic	2011-04-09 21:43:01	2011-04-09 21:43:01
 Guillemets: opening mark not succeeded by space	831628	fra	«Dieu ! Qui élit ces gens ?» «Dieu, qui élit ces gens.»	sacredceltic	2011-04-09 22:22:13	2011-04-09 22:22:13
 Guillemets: closing mark not preceeded by space	831628	fra	«Dieu ! Qui élit ces gens ?» «Dieu, qui élit ces gens.»	sacredceltic	2011-04-09 22:22:13	2011-04-09 22:22:13
-Quotation marks: mixed curly and straight	831659	fra	J’ai très envie d'aller vivre en Finlande, mais il me faudra d’abord améliorer mon suédois.	\N	2011-04-09 23:18:21	2023-11-19 13:19:02
+Quotation marks: mixed curly and straight	831659	fra	J’ai très envie d'aller vivre en Finlande, mais il me faudra d’abord améliorer mon suédois.	HaleBopp	2011-04-09 23:18:21	2024-01-19 18:21:24
 Exclamation mark: preceeded by letter or digit	833136	fra	Nous demanderons à Jeanne, vierge, sainte et martyre, de prier Dieu pour la grandeur et pour la gloire de la France!	Scott	2011-04-10 22:15:48	2011-04-10 22:15:48
 Exclamation mark: preceeded by letter or digit	833143	fra	Sainte mère de Dieu, priez pour nous! Tous les saints anges et archanges, priez pour nous!	Scott	2011-04-10 22:18:31	2011-04-10 22:18:31
 Semicolon: not preceeded by space	833149	fra	J'eus beau la prier; elle ne voulut point me dire ce qu'elle faisait.	Scott	2011-04-10 22:20:45	2011-04-10 22:20:45
@@ -2382,7 +2382,6 @@ Semicolon: not preceeded by space	5308307	fra	La vérité peut exister entre deu
 Exclamation mark: preceeded by letter or digit	5309516	fra	Quelle superbe vue!	Scorpionvenin14	2016-07-30 22:14:36	2016-07-30 22:14:36
 Semicolon: not preceeded by space	5310566	fra	Savoir ne suffit pas; il faut savoir transmettre.	Objectivesea	2016-07-31 17:49:04	2016-07-31 17:49:04
 Quotation marks: mixed curly and straight	5311631	fra	Il ne s'est rien passé d’inattendu.	Aiji	2016-08-01 07:06:46	2016-08-02 15:33:20
-Ellipsis: too short	5312074	fra	La chance ne lui a souri que peu de temps..	nimfeo	2016-08-01 11:20:08	2016-08-01 11:20:08
 Quotation marks: mixed curly and straight	5313689	fra	Il n’aimait pas demander de l'aide, même quand il mourait de faim.	nimfeo	2016-08-02 05:50:52	2016-08-02 05:50:52
 Question mark: preceeded by letter or digit	5313901	fra	Peux-tu le faire demain?	parisian01	2016-08-02 08:05:58	2016-08-02 08:05:58
 Question mark: preceeded by letter or digit	5314007	fra	Avez-vous vu ce qui s'est passé là-bas?	Objectivesea	2016-08-02 08:47:41	2016-08-02 08:47:41
@@ -4231,7 +4230,6 @@ Exclamation mark: preceeded by letter or digit	8745107	fra	Ferme ta gueule!	bore
 Exclamation mark: preceeded by letter or digit	8745132	fra	Bonjour! Je m'appelle Pierre. Et toi? Comment tu t'appelles?	boredcube	2020-05-07 15:55:17	2020-05-07 15:55:17
 Question mark: preceeded by letter or digit	8745132	fra	Bonjour! Je m'appelle Pierre. Et toi? Comment tu t'appelles?	boredcube	2020-05-07 15:55:17	2020-05-07 15:55:17
 Question mark: preceeded by letter or digit	8746369	fra	As-tu couché avec elle?	Eniotna	2020-05-08 07:14:06	2020-05-08 07:14:06
-Question mark: preceeded by letter or digit	8748883	fra	Et si j'avais raison?	Loquer	2020-05-09 09:47:44	2020-05-09 09:47:44
 Quotation marks: mixed curly and straight	8751540	fra	L’auberge était sur le chemin où l'on égorgeait les humains.	samir_t	2020-05-10 14:50:40	2020-05-10 14:50:47
 Comma: succeeded by letter	8756614	fra	Il meurt lentement celui qui, pas une seuls fois dans sa vie,n’a fui les conseils sensés.	Talwit	2020-05-12 14:25:24	2020-05-12 14:25:24
 Exclamation mark: preceeded by letter or digit	8756620	fra	Vis maintenant!	Talwit	2020-05-12 14:26:19	2020-05-12 14:26:19
@@ -4905,7 +4903,6 @@ Final punctuation	12116648	fra	Ils vont à Taghouza	Tilelliatabas	2023-10-19 20:
 Question mark: preceeded by letter or digit	12116653	fra	Où-est-ce que vivent Tom et Mary?	Tilelliatabas	2023-10-19 20:20:24	2023-10-19 20:20:24
 Exclamation mark: preceeded by letter or digit	12117971	fra	Vous les trouverez là!	LdjuherTaqvaylit	2023-10-20 14:01:06	2023-10-20 14:01:06
 Guillemets: closing mark not preceeded by space	12118423	fra	J'ai dit à mon père : « C'est ton souhait, et qu'en est-il de mon souhait, papa ?»	LdjuherTaqvaylit	2023-10-20 18:25:48	2023-10-20 18:25:48
-Final punctuation	12118723	fra	Elle ira sûrement travailler cet après midi	Tighra_tlelli	2023-10-20 21:34:23	2023-10-20 21:34:23
 Final punctuation	12119702	fra	Elles ont évacué ces gens vers Theglalazt	slahatuvelli	2023-10-21 11:16:52	2023-10-21 11:16:52
 Final punctuation	12122819	fra	C'est un fraudeur, il n'est pas digne de confiance	LdjuherTaqvaylit	2023-10-22 23:15:28	2023-10-22 23:15:28
 Final punctuation	12125167	fra	Des connaissances pareilles, ne sont pollution du cerveau	Tighra_tlelli	2023-10-24 08:50:47	2023-10-24 08:50:47
@@ -4976,3 +4973,8 @@ Colon: succeeded by letter or punctuation	12252299	fra	Idir a dit :« Tu sais ma
 Guillemets: closing mark not preceeded by space	12252421	fra	Alors comment écrivez-vous « feuille» en estonie.	slahatuvelli	2024-01-05 12:10:29	2024-01-05 12:12:29
 Capitalization	12255873	fra	bell hooks ne capitalise pas son nom de plume.	menaud	2024-01-07 04:25:24	2024-01-07 04:25:24
 Question mark: preceeded by letter or digit	12258204	fra	Comment elles doivent écrire « application » en thaï?	LdjuherTaqvaylit	2024-01-08 00:46:46	2024-01-08 00:46:46
+Capitalization	12266406	fra	ça a l'air délicieux.	LdjuherTaqvaylit	2024-01-14 01:20:01	2024-01-14 01:20:01
+Capitalization	12267853	fra	j'ignore comment tout cela va se terminer.	madjidoumnia	2024-01-14 22:34:55	2024-01-14 22:34:55
+Capitalization	12269219	fra	vous croyez que la vie n'est que paroles en l'air.	Tighra_tlelli	2024-01-15 20:23:11	2024-01-15 20:23:11
+Question mark: preceeded by letter or digit	12272667	fra	Elles n'ont pas bu d'eau aujourd'hui?	LdjuherTaqvaylit	2024-01-17 23:04:23	2024-01-17 23:04:23
+Guillemets: closing mark not preceeded by space	12274859	fra	Matoub a dit : « La profusion des mosqués est un moyen de camoufler la misère, la profusion des mosqués est un signe de la prolifération de la misère.»	slahatuvelli	2024-01-19 12:03:21	2024-01-19 12:03:21

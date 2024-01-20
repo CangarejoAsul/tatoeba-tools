@@ -1,45 +1,45 @@
-32	0x20	 	358	5065507	cho	Ʋlla lawa yʋt shokʋtti ya̱ katiohmi hosh hokli?	Choctaw_Irish	2016-04-15 15:33:17	2016-04-15 15:33:17
-33	0x21	!	4	4554669	cho	Chukkoa!	Choctaw_Irish	2015-09-25 17:26:59	2015-09-25 17:27:04
+32	0x20	 	358	4572116	cho	Nanta ish ʋpa?	Choctaw_Irish	2015-10-01 21:07:26	2015-10-01 21:07:30
+33	0x21	!	4	4564507	cho	Halito! Chim achukma?	Choctaw_Irish	2015-09-28 13:54:41	2015-09-28 13:54:45
 44	0x2c	,	10	4577023	cho	Achʋffa, tuklo, tuchina, ushta, tahlapi, hannali, untuklo, untuchina, chakkali, pokkoli.	Choctaw_Irish	2015-10-04 01:55:28	2015-10-04 01:55:32
-46	0x2e	.	81	4572063	cho	A̱.	Choctaw_Irish	2015-10-01 20:03:03	2015-10-01 20:03:08
-63	0x3f	?	40	4564444	cho	Katimi ho̱?	Choctaw_Irish	2015-09-28 13:30:59	2015-10-01 18:28:56
-65	0x41	A	16	4564419	cho	Alikchi sia.	Choctaw_Irish	2015-09-28 13:21:48	2015-09-28 13:21:52
-67	0x43	C	15	4554657	cho	Chim achukma?	Choctaw_Irish	2015-09-25 17:22:27	2015-09-25 17:22:33
+46	0x2e	.	81	4554814	cho	Sappoktek ʋt satikchi hʋklo.	Choctaw_Irish	2015-09-25 17:50:30	2015-09-25 17:50:35
+63	0x3f	?	40	4564375	cho	Afʋmmi chi katohmi?	Choctaw_Irish	2015-09-28 13:13:25	2015-09-28 13:13:30
+65	0x41	A	16	4564471	cho	Alikchi sia kiyo.	Choctaw_Irish	2015-09-28 13:40:38	2015-09-28 13:40:43
+67	0x43	C	15	4572081	cho	Chi afama li kʋt sʋ nayukpa.	Choctaw_Irish	2015-10-01 20:13:47	2015-10-01 20:13:51
 69	0x45	E	1	10598633	cho	Eimear ʋt chukka okchamali i̱shi.	Choctaw_Irish	2021-12-31 20:56:45	2021-12-31 20:57:03
 70	0x46	F	1	4576227	cho	Filanchi ish anumpoli ho̱?	Choctaw_Irish	2015-10-03 17:09:55	2015-10-03 17:10:00
-72	0x48	H	18	4652202	cho	Himak nittak ʋt nanta?	bsc2015	2015-10-29 00:51:52	2015-10-29 00:56:23
-73	0x49	I	18	4572097	cho	Impa sʋ bʋnna kiyo.	Choctaw_Irish	2015-10-01 20:21:51	2015-10-01 20:21:56
-75	0x4b	K	14	4564484	cho	Keyu sʋ yimmi.	Choctaw_Irish	2015-09-28 13:43:58	2015-09-28 13:44:04
+72	0x48	H	18	4554727	cho	Hʋshki ʋt tʋmaha ia.	Choctaw_Irish	2015-09-25 17:39:20	2015-09-25 17:39:26
+73	0x49	I	18	4572090	cho	Ikhana li.	Choctaw_Irish	2015-10-01 20:17:37	2015-10-01 20:17:50
+75	0x4b	K	14	4572064	cho	Keyu.	Choctaw_Irish	2015-10-01 20:04:01	2015-10-01 20:04:05
 77	0x4d	M	1	4652117	cho	Miⁿko yʋt si anumpoli.	bsc2015	2015-10-29 00:11:30	2015-10-29 00:11:30
-78	0x4e	N	6	10598707	cho	Nipi ʋpa li.	Choctaw_Irish	2021-12-31 21:36:41	2021-12-31 21:36:41
-79	0x4f	O	8	4576457	cho	Ohoyo chaha yʋt issuba lusakbi hʋklo.	Choctaw_Irish	2015-10-03 19:18:09	2015-10-03 19:18:18
+78	0x4e	N	6	4572116	cho	Nanta ish ʋpa?	Choctaw_Irish	2015-10-01 21:07:26	2015-10-01 21:07:30
+79	0x4f	O	8	4652194	cho	Okhissa tiwwi.	bsc2015	2015-10-29 00:40:46	2015-10-29 00:41:40
 82	0x52	R	1	10598766	cho	Sʋ hohchifo yʋt Roberto.	Choctaw_Irish	2021-12-31 22:08:09	2021-12-31 22:08:43
-83	0x53	S	12	5065499	cho	Sapokni ʋt shukbo katimampo achefa tuk?	Choctaw_Irish	2016-04-15 15:29:50	2016-04-15 15:29:50
+83	0x53	S	12	4554814	cho	Sappoktek ʋt satikchi hʋklo.	Choctaw_Irish	2015-09-25 17:50:30	2015-09-25 17:50:35
 84	0x54	T	6	4880051	cho	Tobi atampa ʋpa li tuk atukon himo ʋm anshakʋt taloʋt issahe kiyo.	Choctaw_Irish	2016-02-02 18:41:50	2016-02-02 18:41:50
 85	0x55	U	1	4651974	cho	Untuklo ont ia.	bsc2015	2015-10-28 23:09:58	2015-10-28 23:10:11
 87	0x57	W	2	4770652	cho	Himak nittak ʋt Winisti.	Choctaw_Irish	2015-12-16 13:28:38	2015-12-16 13:28:38
 89	0x59	Y	2	4554671	cho	Yakoke!	Choctaw_Irish	2015-09-25 17:27:50	2015-09-25 17:27:55
-97	0x61	a	309	4572081	cho	Chi afama li kʋt sʋ nayukpa.	Choctaw_Irish	2015-10-01 20:13:47	2015-10-01 20:13:51
-98	0x62	b	29	4652165	cho	Issuba yʋt katimma ia tuk?	bsc2015	2015-10-29 00:28:35	2015-10-29 00:28:35
-99	0x63	c	47	5065499	cho	Sapokni ʋt shukbo katimampo achefa tuk?	Choctaw_Irish	2016-04-15 15:29:50	2016-04-15 15:29:50
-101	0x65	e	19	4576238	cho	Ʋmmona ka̱ Chitokaka yʋt ʋba, micha yakni aiena ka̱ ikbi tok.	Choctaw_Irish	2015-10-03 17:25:52	2015-10-03 17:25:57
+97	0x61	a	309	4554802	cho	Alikchi achukma yʋt ohoyo sipokni pisa.	Choctaw_Irish	2015-09-25 17:49:12	2015-09-25 17:49:16
+98	0x62	b	29	5065509	cho	Shukbo okchʋko ya̱ katiohmi hosh ish achefa?	Choctaw_Irish	2016-04-15 15:34:46	2016-04-15 15:34:46
+99	0x63	c	47	4554802	cho	Alikchi achukma yʋt ohoyo sipokni pisa.	Choctaw_Irish	2015-09-25 17:49:12	2015-09-25 17:49:16
+101	0x65	e	19	4554660	cho	Ʋm achukmahoke.	Choctaw_Irish	2015-09-25 17:24:05	2015-09-25 17:24:09
 102	0x66	f	17	10598717	cho	Ofi pi̱sa li tuk.	Choctaw_Irish	2021-12-31 21:42:51	2021-12-31 21:42:51
-104	0x68	h	207	5065509	cho	Shukbo okchʋko ya̱ katiohmi hosh ish achefa?	Choctaw_Irish	2016-04-15 15:34:46	2016-04-15 15:34:46
-105	0x69	i	290	10598720	cho	Ailish anumpa anumpoli li.	Choctaw_Irish	2021-12-31 21:46:10	2021-12-31 21:46:10
-107	0x6b	k	169	4880051	cho	Tobi atampa ʋpa li tuk atukon himo ʋm anshakʋt taloʋt issahe kiyo.	Choctaw_Irish	2016-02-02 18:41:50	2016-02-02 18:41:50
-108	0x6c	l	107	4577023	cho	Achʋffa, tuklo, tuchina, ushta, tahlapi, hannali, untuklo, untuchina, chakkali, pokkoli.	Choctaw_Irish	2015-10-04 01:55:28	2015-10-04 01:55:32
-109	0x6d	m	102	4572097	cho	Impa sʋ bʋnna kiyo.	Choctaw_Irish	2015-10-01 20:21:51	2015-10-01 20:21:56
-110	0x6e	n	82	5029531	cho	Katimikash katos nia mʋt hushi lakna iskitini ʋpa tuk?	Choctaw_Irish	2016-04-01 11:35:11	2016-04-01 11:35:11
-111	0x6f	o	161	4577023	cho	Achʋffa, tuklo, tuchina, ushta, tahlapi, hannali, untuklo, untuchina, chakkali, pokkoli.	Choctaw_Irish	2015-10-04 01:55:28	2015-10-04 01:55:32
-112	0x70	p	70	4554814	cho	Sappoktek ʋt satikchi hʋklo.	Choctaw_Irish	2015-09-25 17:50:30	2015-09-25 17:50:35
+104	0x68	h	207	4652083	cho	Akostinichi li kiyo.	bsc2015	2015-10-28 23:57:01	2015-10-28 23:58:04
+105	0x69	i	290	10598727	cho	Ilʋppʋt ʋm ofi.	Choctaw_Irish	2021-12-31 21:48:13	2021-12-31 21:48:13
+107	0x6b	k	169	4576452	cho	Ʋllatek himitta yʋt taloa.	Choctaw_Irish	2015-10-03 19:16:50	2015-10-03 19:16:58
+108	0x6c	l	107	10598727	cho	Ilʋppʋt ʋm ofi.	Choctaw_Irish	2021-12-31 21:48:13	2021-12-31 21:48:13
+109	0x6d	m	102	4576227	cho	Filanchi ish anumpoli ho̱?	Choctaw_Irish	2015-10-03 17:09:55	2015-10-03 17:10:00
+110	0x6e	n	82	4652202	cho	Himak nittak ʋt nanta?	bsc2015	2015-10-29 00:51:52	2015-10-29 00:56:23
+111	0x6f	o	161	4576227	cho	Filanchi ish anumpoli ho̱?	Choctaw_Irish	2015-10-03 17:09:55	2015-10-03 17:10:00
+112	0x70	p	70	4572094	cho	Impa chi bʋnna ho̱?	Choctaw_Irish	2015-10-01 20:20:04	2015-10-01 20:20:08
 114	0x72	r	2	10598766	cho	Sʋ hohchifo yʋt Roberto.	Choctaw_Irish	2021-12-31 22:08:09	2021-12-31 22:08:43
-115	0x73	s	109	5065509	cho	Shukbo okchʋko ya̱ katiohmi hosh ish achefa?	Choctaw_Irish	2016-04-15 15:34:46	2016-04-15 15:34:46
-116	0x74	t	174	4576447	cho	Hattak sipokni ʋt binili.	Choctaw_Irish	2015-10-03 19:15:23	2015-10-03 19:15:29
-117	0x75	u	65	10598720	cho	Ailish anumpa anumpoli li.	Choctaw_Irish	2021-12-31 21:46:10	2021-12-31 21:46:10
+115	0x73	s	109	4564408	cho	Ilʋppʋt holisso.	Choctaw_Irish	2015-09-28 13:19:22	2015-09-28 13:29:06
+116	0x74	t	174	4564375	cho	Afʋmmi chi katohmi?	Choctaw_Irish	2015-09-28 13:13:25	2015-09-28 13:13:30
+117	0x75	u	65	10598837	cho	Ailish anumpa ish anumpuli ho̱?	Choctaw_Irish	2021-12-31 22:48:05	2021-12-31 22:48:05
 118	0x76	v	1	4649482	cho	Impvt kil ilhkoli.	bsc2015	2015-10-28 00:34:59	2015-10-28 00:37:32
-119	0x77	w	10	4652197	cho	Okhissa tiwwi la chi̱.	bsc2015	2015-10-29 00:44:27	2015-10-29 00:53:00
-121	0x79	y	40	4554837	cho	Katos lusa yʋt pʋlhki hosh balili.	Choctaw_Irish	2015-09-25 17:52:15	2015-09-25 17:52:19
-434	0x1b2	Ʋ	6	4572087	cho	Ʋm ʋlhtaha tuk.	Choctaw_Irish	2015-10-01 20:16:43	2015-10-01 20:16:46
-651	0x28b	ʋ	106	4554742	cho	Hʋshki ʋt aiitatoba iah o̱?	Choctaw_Irish	2015-09-25 17:40:53	2015-10-01 18:29:40
-817	0x331	̱	39	5029529	cho	Katimikash a̱tek ʋt ilhtaloak ma̱ taloa tuk?	Choctaw_Irish	2016-04-01 11:34:00	2016-04-01 11:34:00
+119	0x77	w	10	4652194	cho	Okhissa tiwwi.	bsc2015	2015-10-29 00:40:46	2015-10-29 00:41:40
+121	0x79	y	40	10598850	cho	Ohoyo ya̱ iskʋli ima li tuk.	Choctaw_Irish	2021-12-31 22:51:30	2021-12-31 22:51:30
+434	0x1b2	Ʋ	6	5065507	cho	Ʋlla lawa yʋt shokʋtti ya̱ katiohmi hosh hokli?	Choctaw_Irish	2016-04-15 15:33:17	2016-04-15 15:33:17
+651	0x28b	ʋ	106	4572115	cho	Nanta ish ʋpa tuk?	Choctaw_Irish	2015-10-01 21:05:34	2015-10-01 21:05:39
+817	0x331	̱	39	10598717	cho	Ofi pi̱sa li tuk.	Choctaw_Irish	2021-12-31 21:42:51	2021-12-31 21:42:51
 8319	0x207f	ⁿ	1	4652117	cho	Miⁿko yʋt si anumpoli.	bsc2015	2015-10-29 00:11:30	2015-10-29 00:11:30

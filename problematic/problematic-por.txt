@@ -53,6 +53,8 @@ Quotation marks: homoglyphs	2056924	por	''Você entendeu?'' ''Mais ou menos''	Ma
 Quotation marks: homoglyphs	2056997	por	A senha é ''Muiriel''.	MarlonX19	2012-12-04 22:48:11	2012-12-04 22:48:11
 Quotation marks: homoglyphs	2057288	por	''As boas ou as más notícias primeiro?'' ''As boas primeiro''.	MarlonX19	2012-12-05 03:21:10	2012-12-05 03:21:10
 Quotation marks: homoglyphs	2063695	por	Meu nome não é ''você''; é Ricardo.	MarlonX19	2012-12-07 19:44:42	2012-12-07 19:44:42
+Greek characters: possible homoglyphs	2069298	por	O valor de ΔH negativo indica reação exotérmica.	alexmarcelo	2012-12-10 01:27:58	2012-12-10 01:27:58
+Greek characters: possible homoglyphs	2069299	por	O valor de ΔH positivo indica reação endotérmica.	alexmarcelo	2012-12-10 01:28:16	2012-12-10 01:28:16
 Quotation marks: homoglyphs	2082841	por	Você pensa que a língua que você quer aprender vai ser a ''língua do futuro''?	MarlonX19	2012-12-16 06:27:39	2012-12-16 06:27:39
 Quotation marks: homoglyphs	2082845	por	Tu pensas que o idioma que tu queres aprender será o ''idioma do futuro''?	MarlonX19	2012-12-16 06:30:15	2012-12-19 20:55:50
 Quotation marks: homoglyphs	2087391	por	''Qual é teu desejo?'', perguntou o pequeno coelho branco.	MarlonX19	2012-12-18 03:39:28	2012-12-19 21:30:36
@@ -267,11 +269,13 @@ Final punctuation	4960530	por	Tente olhar para frente	Cival22	2016-03-07 23:06:2
 Final punctuation	4963006	por	Eu me lembrava de todos	Ricardo14	2016-03-08 23:08:29	2016-03-08 23:08:29
 Colon: succeeded by letter or punctuation	5013431	por	Insensatez - À classe o mestre:- "Ninguém deve consultar o original, ao traduzir-lhe uma versão!" Mas os alunos ficam logo a protestar:- "Que prejuízo pode alguém causar se não seguir tão 'sábia' ordenação?"	carlosalberto	2016-03-27 10:27:33	2016-03-27 10:27:33
 Exclamation mark: preceeded by space	5046300	por	Está muito frio hoje !	Mahlusi	2016-04-06 21:00:55	2016-04-06 21:00:55
+Greek characters: possible homoglyphs	5049073	por	"A sua namorada é bem bonita!" "Εla não é a minha namorada."	Ricardo14	2016-04-07 23:48:17	2016-04-07 23:48:17
 Comma: succeeded by letter	5052963	por	Não ingere veneno,porque você morrerá.	Enrike90	2016-04-09 19:28:21	2016-04-09 22:54:41
 Colon: succeeded by letter or punctuation	5080574	por	Nosso website http://www.exemplo.com.br irá te dizer tudo o que você precisa saber.	Ricardo14	2016-04-23 18:26:57	2019-07-05 23:35:02
 Final punctuation	5082126	por	Acho que já está na hora de ir,	markpalmer	2016-04-24 13:39:20	2016-04-24 13:39:20
 Final punctuation	5111383	por	Retire-o	AndrePaulo	2016-05-04 17:46:19	2016-05-04 17:46:19
 Final punctuation	5111809	por	Tom quitou as suas dívidas	bill	2016-05-04 20:07:04	2016-05-04 20:07:04
+Greek characters: possible homoglyphs	5119711	por	Εu acho que ele é da Austrália, mas não tenho certeza.	Ricardo14	2016-05-07 02:57:29	2016-05-07 02:57:29
 Final punctuation	5173765	por	Eu só me quero casar	sofiaeevans	2016-05-29 12:45:46	2016-05-29 12:45:46
 Final punctuation	5184807	por	A minha cabeça dói	Ricardo14	2016-06-01 23:52:00	2016-06-01 23:52:00
 Final punctuation	5199082	por	Tom adoeceu, por isso ele pode vir ao meu aniversário	magonifico	2016-06-07 14:28:01	2016-06-07 14:28:01
@@ -311,6 +315,7 @@ Final punctuation	5440865	por	Não esperdice sua munição	UltraG	2016-09-15 00:
 Final punctuation	5440866	por	Não esperdice munição	UltraG	2016-09-15 00:43:37	2016-09-15 00:43:37
 Final punctuation	5440871	por	Tom é um jogador de baseball	UltraG	2016-09-15 00:46:41	2016-09-15 00:46:41
 Final punctuation	5450289	por	Deveria ter orgulho de mim	MarlonX19	2016-09-18 13:42:00	2016-09-18 13:42:00
+Cyrillic characters: possible homoglyphs	5472857	por	Аcho que está funcionando.	carlosalberto	2016-09-26 14:56:16	2016-09-26 14:56:16
 English quotation marks: unbalanced opening marks	5492998	por	“Não podemos viver com €400," era um dos refrãos dos aposentados em sua manifestação. Outro era: “Que os ricos paguem pela crise.”	carlosalberto	2016-10-04 17:52:22	2016-10-04 17:52:22
 Straight quotation marks: odd number	5492998	por	“Não podemos viver com €400," era um dos refrãos dos aposentados em sua manifestação. Outro era: “Que os ricos paguem pela crise.”	carlosalberto	2016-10-04 17:52:22	2016-10-04 17:52:22
 Quotation marks: mixed curly and straight	5492998	por	“Não podemos viver com €400," era um dos refrãos dos aposentados em sua manifestação. Outro era: “Que os ricos paguem pela crise.”	carlosalberto	2016-10-04 17:52:22	2016-10-04 17:52:22
@@ -862,6 +867,7 @@ Final punctuation	8874645	por	Dê a eles um pouco de comida	Richom	2020-06-26 20
 Final punctuation	8881552	por	O Tom provavelmente ainda não sabe por que a Mary quer fazer isso,	Ricardo14	2020-06-30 08:40:15	2020-07-02 13:48:56
 Zero-width space	8914940	por	Alguns alunos estavam atrasados ​​para a escola esta manhã.	JGEN	2020-07-14 06:56:24	2020-07-14 06:56:24
 Zero-width space	8914942	por	Alguns estudantes estavam atrasados ​​para a escola esta manhã.	JGEN	2020-07-14 06:57:16	2020-07-14 06:57:16
+Greek characters: possible homoglyphs	8926574	por	Εxiste uma pequena possibilidade disso acontecer.	Ricardo14	2020-07-20 00:18:46	2020-07-20 00:18:46
 Final punctuation	8932387	por	Ela me parece ser uma pessoa muito interessante,	Ricardo14	2020-07-22 20:27:15	2020-07-22 20:27:15
 Capitalization	8997560	por	que dia da semana é hoje?	0sigmaone0	2020-08-27 01:48:39	2020-08-27 01:48:39
 Capitalization	8997614	por	kkk, o que?	0sigmaone0	2020-08-27 03:40:09	2020-08-27 03:40:09

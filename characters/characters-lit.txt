@@ -1,105 +1,105 @@
-32	0x20	 	367262	11984903	lit	Ko tu geidi?	glavsaltulo	2023-08-07 15:36:46	2023-08-07 15:36:46
-33	0x21	!	3752	12192994	lit	Manęs nesveikink!	glavsaltulo	2023-12-03 19:52:44	2023-12-03 19:52:44
-34	0x22	"	1624	11639576	lit	"Ar jai patiko filmas?" - "Taip, patiko".	glavsaltulo	2023-03-30 16:00:34	2023-03-30 16:00:34
-37	0x25	%	2	8387861	lit	Šitos obuolių sultys yra naturalios 100%.	glavsaltulo	2019-12-17 16:47:27	2019-12-17 16:47:27
+32	0x20	 	367262	2700869	lit	Nežinojau, kad Tomas kalba prancūziškai.	kotik	2013-08-26 23:29:15	2013-08-26 23:29:15
+33	0x21	!	3752	7946859	lit	Lėčiau!	glavsaltulo	2019-05-29 18:46:36	2019-05-29 18:46:36
+34	0x22	"	1624	11346139	lit	"Pasakyk man Tomo telefono numerį". - "Aš mintinai neprisimenu".	glavsaltulo	2022-12-18 13:47:56	2022-12-18 13:47:56
+37	0x25	%	2	948584	lit	Žmogaus kūnas yra 70% vanduo.	\N	2011-06-21 20:30:29	2020-02-10 14:07:07
 38	0x26	&	1	11919155	lit	Ženklas & reiškia "ir".	glavsaltulo	2023-07-09 16:10:19	2023-07-09 16:10:19
-39	0x27	'	940	7805742	lit	Net jeigu tu šauksi ''Aūū! Aūū!'', tu netapsi vilku.	glavsaltulo	2019-03-11 15:08:48	2019-03-11 15:08:48
+39	0x27	'	940	8036784	lit	Ingeborgas Bachmanas dianozuoja: ''Istorija toliau moko, bet ji neranda mokinių.''	glavsaltulo	2019-07-09 20:40:00	2019-07-09 20:40:00
 40	0x28	(	3	3276496	lit	Nelaikyk manęs kvailiu (masculine)/Nelaikyk manęs kvaile (feminine)	keistas	2014-05-25 10:38:15	2014-05-25 10:38:15
-41	0x29	)	3	3276496	lit	Nelaikyk manęs kvailiu (masculine)/Nelaikyk manęs kvaile (feminine)	keistas	2014-05-25 10:38:15	2014-05-25 10:38:15
-44	0x2c	,	20379	10334105	lit	Kiekvieną kartą, kada tave matau, aš pergyvenu dėl tavo tėvo.	glavsaltulo	2021-10-01 15:43:20	2021-10-01 15:43:20
-45	0x2d	-	618	10109116	lit	"Aš studijuoju japonų kalbą." - "Tikrai? Kad tave velniai!"	glavsaltulo	2021-06-15 21:00:52	2021-06-15 21:00:52
-46	0x2e	.	84058	8915003	lit	Aš keliavau traukiniu.	glavsaltulo	2020-07-14 07:23:08	2020-07-14 07:23:08
-47	0x2f	/	5	1665542	lit	/jis jai skambina kiekvieną vakarą.	fanty	2012-07-04 14:35:14	2012-07-04 14:35:14
-48	0x30	0	144	948584	lit	Žmogaus kūnas yra 70% vanduo.	\N	2011-06-21 20:30:29	2020-02-10 14:07:07
-49	0x31	1	92	7531229	lit	Šitas namas pastatytas 1870 metais.	glavsaltulo	2018-11-27 17:08:57	2018-11-27 17:08:57
-50	0x32	2	54	7030682	lit	Anglų alfabete 26 raidės.	glavsaltulo	2018-07-29 20:02:22	2018-07-29 20:02:22
-51	0x33	3	46	3218223	lit	Karalienė Elžbieta mirė 1603 metais.	asveja	2014-04-30 19:03:22	2014-04-30 19:03:22
-52	0x34	4	13	11832610	lit	Paryžius krito 1940 metais.	glavsaltulo	2023-06-09 15:00:29	2023-06-09 15:00:29
-53	0x35	5	29	1675383	lit	Didžioji kinų siena yra ilgesnė nei 5500 mylių.	fanty	2012-07-08 17:25:17	2012-07-08 17:25:17
+41	0x29	)	3	2229745	lit	Nesitikėk (nelauk) per daug.	julitaite	2013-02-17 19:06:47	2013-02-17 19:06:47
+44	0x2c	,	20379	6731920	lit	Šis dviratis senas, bet tai daug geriau negu nieko.	glavsaltulo	2018-03-03 15:26:14	2018-03-03 15:26:14
+45	0x2d	-	618	3953696	lit	Tomas - jo brolis.	kotik	2015-03-13 14:44:19	2015-03-13 14:44:19
+46	0x2e	.	84058	10720249	lit	Tomas skaičiuoja dienas.	glavsaltulo	2022-03-15 19:12:47	2022-03-15 19:12:47
+47	0x2f	/	5	6405164	lit	Ėjau su savo draugu/drauge apsipirkti.	Edorin	2017-10-30 23:09:51	2017-10-30 23:17:33
+48	0x30	0	144	10253146	lit	Vakar aš išlošiau 200 000 jenų.	glavsaltulo	2021-08-20 17:14:07	2021-08-20 17:14:07
+49	0x31	1	92	11595944	lit	Suomija 1809-1917 metais buvo Rusijos dalis.	glavsaltulo	2023-03-14 20:17:13	2023-03-14 20:17:13
+50	0x32	2	54	12181666	lit	Mes pralaimėjome 3-2 rezultatu.	glavsaltulo	2023-11-27 16:22:04	2023-11-27 16:22:04
+51	0x33	3	46	7937685	lit	Aš atvyksiu gegužės 23 -ą.	glavsaltulo	2019-05-26 19:17:50	2019-05-26 19:17:50
+52	0x34	4	13	7254230	lit	Ką tik nusileido JAK - 40.	glavsaltulo	2018-10-04 21:06:04	2018-10-04 21:06:04
+53	0x35	5	29	10672664	lit	Aš jam skolingas nemažiau kaip 50000 jenų.	glavsaltulo	2022-02-13 13:14:26	2022-02-13 13:14:26
 54	0x36	6	29	6934194	lit	Keliamieji metai turi 366 dienas.	Zhanas	2018-06-07 21:11:31	2018-06-07 21:11:31
-55	0x37	7	17	948584	lit	Žmogaus kūnas yra 70% vanduo.	\N	2011-06-21 20:30:29	2020-02-10 14:07:07
-56	0x38	8	43	9064653	lit	Mūsų įmonę 1899 metais įkūrė mano proproprosenelis.	glavsaltulo	2020-09-23 18:26:02	2020-09-23 18:26:02
-57	0x39	9	47	11587763	lit	Rotušė buvo pastatyta tarp 1895 ir 1897 metų.	glavsaltulo	2023-03-10 16:23:52	2023-03-10 16:23:52
-58	0x3a	:	147	627729	lit	Dėdė paklausė: "Kiek bus trys plius keturi?"	fanty	2010-11-19 14:38:37	2010-11-19 14:38:44
-59	0x3b	;	89	10711618	lit	Neklausk manęs; aš juk katė.	glavsaltulo	2022-03-10 11:12:56	2022-03-10 11:12:56
+55	0x37	7	17	3977740	lit	Mokslininkai mano, kad prieš 13,7 milijardo metų įvyko stiprus sprogimas, vadinamas „Big Bang“. Šis stiprus sprogimas davė pradžią Visatos plėtimuisi, besitęsiančiam iki šių dienų.	Albus	2015-03-21 20:17:16	2015-03-22 08:54:57
+56	0x38	8	43	2725013	lit	1683 metais turkai antrą kartą apgulė Vieną.	kotik	2013-09-07 13:13:33	2013-09-07 13:13:33
+57	0x39	9	47	3262991	lit	Aš gimiau 1995 metais Bostone.	asveja	2014-05-18 17:08:47	2014-05-18 17:08:47
+58	0x3a	:	147	7032916	lit	Ketvirta: keptuvėje pašildykite sezamo aliejų ir ištirpinkite sviestą.	glavsaltulo	2018-07-30 20:25:39	2018-07-30 20:25:39
+59	0x3b	;	89	1507657	lit	Man nesinori dirbti; gal vietoj to nueikime į kiną?	fanty	2012-03-29 09:43:57	2012-03-29 09:44:22
 62	0x3e	>	1	8999149	lit	Tu jam grasinai?>	glavsaltulo	2020-08-27 18:11:43	2020-08-27 18:11:43
-63	0x3f	?	14607	11568895	lit	Ar aš nebuvau teisus?	glavsaltulo	2023-02-28 19:56:07	2023-02-28 19:56:07
-65	0x41	A	24300	10299847	lit	Aš šįmet pakeičiau darbą.	glavsaltulo	2021-09-16 19:08:37	2021-09-16 19:08:37
-66	0x42	B	2024	10774625	lit	Kuo jūs verčiatės Bostone?	glavsaltulo	2022-04-18 19:09:58	2022-04-18 19:09:58
-67	0x43	C	50	8958709	lit	Ciceronas buvo iškalbus.	glavsaltulo	2020-08-04 19:51:26	2020-08-04 19:51:26
-68	0x44	D	2243	11959714	lit	Daugumoje atvejų ji teisingai atsako.	glavsaltulo	2023-07-26 15:58:14	2023-07-26 15:58:14
-69	0x45	E	645	11340992	lit	Kalbėtis su Elijana, tai tarsi kivirčytis su lavonu.	glavsaltulo	2022-12-17 11:40:43	2022-12-17 11:40:43
-70	0x46	F	146	10536033	lit	Ar tau patinka San Franciskas?	glavsaltulo	2021-11-29 17:33:26	2021-11-29 17:33:26
-71	0x47	G	1878	10928615	lit	Galvoju, kad Tomas jums pasakys tiesą.	glavsaltulo	2022-06-21 19:09:46	2022-06-21 19:09:46
-72	0x48	H	121	10971436	lit	Horizonte pasirodė saulė.	glavsaltulo	2022-07-07 16:32:15	2022-07-07 16:32:15
-73	0x49	I	1148	8117824	lit	Iš jų liko du.	glavsaltulo	2019-08-20 19:43:04	2019-08-20 19:43:04
-74	0x4a	J	15152	12145021	lit	Jos akys pritvinko ašarų.	glavsaltulo	2023-11-04 14:38:54	2023-11-04 14:38:54
-75	0x4b	K	9709	962032	lit	Ko nori valgyti?	fanty	2011-06-27 12:06:46	2011-06-27 12:06:46
-76	0x4c	L	1266	8022141	lit	Laiškas buvo koduotai parašytas.	glavsaltulo	2019-07-04 15:37:51	2019-07-04 15:37:51
-77	0x4d	M	10860	2175479	lit	Tomas ir Merė išėjo laukan.	fanty	2013-01-29 21:07:37	2013-01-29 21:07:37
-78	0x4e	N	4454	7145259	lit	Nemeluok. Sakyk tiesą.	glavsaltulo	2018-09-11 16:48:04	2018-09-11 16:48:04
-79	0x4f	O	475	10279726	lit	"Kada tu šiandien atsikėlei?" "Apie penktą ryto." "O kada atsigulei?" "Truputį po dešimtos vakar vakare."	glavsaltulo	2021-09-05 15:03:03	2021-09-05 15:03:03
-80	0x50	P	4923	1501601	lit	Pica tai mano mėgstamiausias valgis.	fanty	2012-03-24 18:02:17	2012-03-24 18:02:17
-82	0x52	R	784	7796326	lit	Rytais Marija mankštinasi prie atviro lango.	glavsaltulo	2019-03-04 18:27:30	2019-03-04 18:27:30
-83	0x53	S	2239	7891803	lit	Sudėk sausas sudedamąsias dalis ir maišyk, kol mišinys virs tešla.	glavsaltulo	2019-05-05 20:00:27	2019-05-05 20:00:27
-84	0x54	T	22338	8167641	lit	Tai ne naujiena.	glavsaltulo	2019-09-05 19:51:43	2019-09-05 19:51:43
-85	0x55	U	395	10702863	lit	Uranas yra planeta.	glavsaltulo	2022-03-04 21:17:51	2022-03-04 21:17:51
-86	0x56	V	2869	10227283	lit	Valgis laukia.	glavsaltulo	2021-08-08 18:20:11	2021-08-08 18:20:11
+63	0x3f	?	14607	7793625	lit	Ar aš galiu viduje palikti savo dviratį?	glavsaltulo	2019-03-01 21:16:27	2019-03-01 21:16:27
+65	0x41	A	24300	11389212	lit	Aš noriu daryti tai, ką aš mėgstu.	glavsaltulo	2022-12-29 19:54:25	2022-12-29 19:54:25
+66	0x42	B	2024	7801562	lit	Būkite pasiruošę išeiti.	glavsaltulo	2019-03-08 21:58:52	2019-03-08 21:58:52
+67	0x43	C	50	6583678	lit	Cezaris buvo romėnų vadas.	glavsaltulo	2017-12-31 21:30:42	2017-12-31 21:30:42
+68	0x44	D	2243	7838174	lit	Dėl miego trūkumo, aš šiandien dažnai žiovavau.	glavsaltulo	2019-04-05 19:45:06	2019-04-05 19:45:06
+69	0x45	E	645	3985305	lit	Esu protingas, jautrus ir kūrybingas.	kotik	2015-03-24 15:18:09	2015-03-24 15:18:09
+70	0x46	F	146	7753780	lit	Faktiškai, jis tik atrodo pakvaišęs.	glavsaltulo	2019-01-27 19:42:12	2019-01-27 19:42:12
+71	0x47	G	1878	12136873	lit	Gerai, jeigu tu gali dainuoti.	glavsaltulo	2023-10-30 18:03:46	2023-10-30 18:03:46
+72	0x48	H	121	2493249	lit	Horizontas išsiplėtė.	kotik	2013-06-12 19:51:30	2013-06-12 19:51:30
+73	0x49	I	1148	7807055	lit	Jūs Islamabade išbuvote tris savaites.	glavsaltulo	2019-03-12 17:39:47	2019-03-12 17:39:47
+74	0x4a	J	15152	10201002	lit	Ji gamina be druskos.	glavsaltulo	2021-07-30 19:35:54	2021-07-30 19:35:54
+75	0x4b	K	9709	7880095	lit	Kas mane kvietė?	glavsaltulo	2019-04-30 18:11:11	2019-04-30 18:11:11
+76	0x4c	L	1266	11279670	lit	Leiskis šen!	glavsaltulo	2022-11-30 17:26:24	2022-11-30 17:26:24
+77	0x4d	M	10860	10573114	lit	Man nereikia daug miego.	glavsaltulo	2021-12-21 18:39:05	2021-12-21 18:39:05
+78	0x4e	N	4454	8444211	lit	Neužmiršk nupirkti kiaušinių!	glavsaltulo	2020-01-11 19:07:31	2020-01-11 19:07:31
+79	0x4f	O	475	9460072	lit	Ar tu iš Olandijos?	glavsaltulo	2020-12-10 16:38:31	2020-12-10 16:38:31
+80	0x50	P	4923	11597635	lit	Pone Tanaka, ar jūs turite atsargų?	glavsaltulo	2023-03-15 14:12:15	2023-03-15 14:12:15
+82	0x52	R	784	1603535	lit	Rask tuščią butelį ir pripildyk jį vandens.	fanty	2012-06-03 13:53:04	2012-06-03 13:53:04
+83	0x53	S	2239	8579257	lit	Trylikametis moksleivis ištaisė NASA specialistų klaidą.	glavsaltulo	2020-02-26 20:18:03	2020-02-26 20:18:03
+84	0x54	T	22338	11076454	lit	Ar Tomas iš tikrųjų laimėjo?	glavsaltulo	2022-08-23 16:43:30	2022-08-23 16:43:30
+85	0x55	U	395	9401814	lit	Užsimesk ką nors.	glavsaltulo	2020-11-29 13:34:10	2020-11-29 13:34:10
+86	0x56	V	2869	8420149	lit	Valtis buvo pilna kubiečių pabėgėlių.	glavsaltulo	2019-12-31 21:44:38	2019-12-31 21:44:38
 87	0x57	W	4	2714850	lit	Ponas Waitas, atrodo, turi daug draugų.	kotik	2013-09-01 22:11:23	2013-09-01 22:11:23
 88	0x58	X	2	12216505	lit	Šitas paveikslas nutapytas XXI amžiuje.	glavsaltulo	2023-12-18 16:51:12	2023-12-18 16:51:12
-89	0x59	Y	147	7455664	lit	Yra daug žmonių.	glavsaltulo	2018-11-12 17:04:12	2018-11-12 17:04:12
-90	0x5a	Z	36	10697153	lit	Ziris tapo nepastebimu.	glavsaltulo	2022-02-28 21:20:09	2022-02-28 21:20:09
+89	0x59	Y	147	3143565	lit	Yra dar pasaulyje gerų žmonių.	kotik	2014-04-01 20:30:22	2014-04-01 20:30:22
+90	0x5a	Z	36	10265316	lit	Ziri turi avį.	glavsaltulo	2021-08-27 18:48:11	2021-08-27 18:48:11
 96	0x60	`	1	10251690	lit	Aš jam palikau likutį ir išėjau.`	glavsaltulo	2021-08-19 19:15:16	2021-08-19 19:15:16
-97	0x61	a	322613	7530036	lit	Tame regione temperatūra retai kada būna aukščiau nulio.	glavsaltulo	2018-11-26 20:58:44	2018-11-26 20:58:44
-98	0x62	b	33102	9086557	lit	Tai buvo tik laiko klausimas.	glavsaltulo	2020-09-30 11:19:12	2020-09-30 11:19:12
-99	0x63	c	2245	2620281	lit	Prekybos centre nebuvo to, ko aš norėjau.	kotik	2013-07-25 16:42:23	2013-07-25 16:42:23
-100	0x64	d	58552	9131006	lit	Devyniasdešimt procentų darbo atliko Tomas.	glavsaltulo	2020-10-10 18:21:10	2020-10-10 18:21:10
-101	0x65	e	132230	7954309	lit	Mano nusistatymas yra niekada nesiginčyti su žmonėmis apie tuos dalykus.	glavsaltulo	2019-06-02 18:43:23	2019-06-02 18:43:23
+97	0x61	a	322613	6800669	lit	Smaguriauk kuo nori.	glavsaltulo	2018-03-27 19:54:49	2018-03-27 19:54:49
+98	0x62	b	33102	11732678	lit	Niekas iš jų nenubudo.	glavsaltulo	2023-05-02 13:31:53	2023-05-02 13:31:53
+99	0x63	c	2245	8854512	lit	Tomas išvyko į Bostoną studijuoti architektūros.	glavsaltulo	2020-06-18 17:04:33	2020-06-18 17:04:33
+100	0x64	d	58552	10868231	lit	Žmonės prie parduotuvės išsirikiavo į eilę.	glavsaltulo	2022-05-28 18:49:52	2022-05-28 18:49:52
+101	0x65	e	132230	10200900	lit	Pasikeitimai šalyje yra neišvengiami.	glavsaltulo	2021-07-30 18:36:41	2021-07-30 18:36:41
 102	0x66	f	1596	8986453	lit	Manau, kad šito fotoaparato pataisymas kainuos daugiau kaip dešimt tūkstančių jenų.	glavsaltulo	2020-08-20 20:51:17	2020-08-20 20:51:17
-103	0x67	g	45910	10319891	lit	Aš tą jausmą labai gerai žinau.	glavsaltulo	2021-09-24 15:02:11	2021-09-24 15:03:42
-104	0x68	h	484	8310956	lit	Troškulys yra subtilus dehidracijos požymis.	glavsaltulo	2019-11-08 19:46:33	2019-11-08 19:46:33
-105	0x69	i	295998	8726370	lit	Ar tu dvasia?	glavsaltulo	2020-04-29 20:05:56	2020-04-29 20:05:56
-106	0x6a	j	46036	12162880	lit	Tai, ką ji pasakė, neturėjo prasmės.	glavsaltulo	2023-11-15 17:07:04	2023-11-15 17:07:04
-107	0x6b	k	111237	7814662	lit	Aš to posakio nepridėjau.	glavsaltulo	2019-03-17 15:56:50	2019-03-17 15:56:50
-108	0x6c	l	64959	8924924	lit	Ar Marija blondinė?	glavsaltulo	2020-07-19 08:50:02	2020-07-19 08:50:02
-109	0x6d	m	79629	8506127	lit	Man įdomu, kas rytoj atsitiks.	glavsaltulo	2020-02-02 11:32:20	2020-02-02 11:32:20
-110	0x6e	n	117417	11591414	lit	Kalnuose vėl nuslinko nuošliauža.	glavsaltulo	2023-03-12 19:58:38	2023-03-12 19:58:38
-111	0x6f	o	127297	9309143	lit	Tomas negalėjo atsakyti į visus Marijos klausimus.	glavsaltulo	2020-11-16 09:10:04	2020-11-16 09:10:04
-112	0x70	p	59164	7814746	lit	Nesmerk ateistų. Tą palik pačiam Dievui.	glavsaltulo	2019-03-17 16:16:22	2019-03-17 16:16:22
-114	0x72	r	113432	11615769	lit	Katė vaikėsi žiurkę.	glavsaltulo	2023-03-22 16:02:16	2023-03-22 16:02:16
-115	0x73	s	181384	2667646	lit	Ar pažįsti ką nors iš kambaryje esančių vaikinų?	kotik	2013-08-11 11:10:49	2013-08-11 11:10:49
-116	0x74	t	134774	11777610	lit	Ji savo paltą laikė spintoje.	glavsaltulo	2023-05-19 19:06:11	2023-05-19 19:06:11
-117	0x75	u	133778	7999500	lit	Lauke per daug šilta.	glavsaltulo	2019-06-25 14:46:10	2019-06-25 14:46:10
-118	0x76	v	52400	1570439	lit	Ji pamatė mano vardą užrašytą ant sienos.	fanty	2012-05-13 18:45:23	2012-05-13 18:45:23
-119	0x77	w	7	2620310	lit	Aš skaitau New York Times.	kotik	2013-07-25 16:55:29	2013-07-25 16:55:29
-121	0x79	y	34796	10529234	lit	Rožės turi dyglius.	glavsaltulo	2021-11-25 17:27:27	2021-11-25 17:27:27
-122	0x7a	z	2824	7119840	lit	Kiekvieną dieną, prieš vakarienę, Tomas vieną valandą mokosi prancūzų kalbą.	glavsaltulo	2018-09-03 20:06:54	2018-09-03 20:06:54
+103	0x67	g	45910	9777439	lit	Iki žiemos atostogų liko visai nedaug.	glavsaltulo	2021-02-19 09:46:14	2021-02-19 09:46:14
+104	0x68	h	484	10288597	lit	Tomas mokė Mariją žaisti šachmatais.	glavsaltulo	2021-09-11 11:57:18	2021-09-11 11:57:18
+105	0x69	i	295998	2775062	lit	Aš noriu grįžti namo ir užmigti.	kotik	2013-10-05 20:28:14	2013-10-05 20:28:14
+106	0x6a	j	46036	8245552	lit	Tu neturi vairuotojo pažymėjimo?	glavsaltulo	2019-10-10 19:45:08	2019-10-10 19:45:08
+107	0x6b	k	111237	2154566	lit	Vos spėjau į paskutinį traukinį.	fanty	2013-01-19 23:42:27	2013-01-19 23:42:27
+108	0x6c	l	64959	1605323	lit	Kaip ilgai tu čia būsi?	fanty	2012-06-04 12:16:19	2012-06-04 12:16:19
+109	0x6d	m	79629	11496927	lit	Tomas nepasiėmė skėčio su savimi.	glavsaltulo	2023-01-30 15:03:00	2023-01-30 15:03:00
+110	0x6e	n	117417	10228643	lit	Aš pamečiau jūsų telefono numerį.	glavsaltulo	2021-08-09 10:35:49	2021-08-09 10:35:49
+111	0x6f	o	127297	11679220	lit	Berniukas man papasakojo, kodėl jis verkia.	glavsaltulo	2023-04-13 14:54:44	2023-04-13 14:54:44
+112	0x70	p	59164	10237710	lit	Šitas eilėraštis buvo parašytas praėjusią naktį.	glavsaltulo	2021-08-12 15:39:39	2021-08-12 15:39:39
+114	0x72	r	113432	11590947	lit	Tai visą laiką pasitaiko, argi ne?	glavsaltulo	2023-03-12 13:49:38	2023-03-12 13:49:38
+115	0x73	s	181384	6799910	lit	Taikyk į apskritimo vidurį.	glavsaltulo	2018-03-27 10:22:46	2018-03-27 10:22:46
+116	0x74	t	134774	10987107	lit	Ką tu nori mums pasakyti?	glavsaltulo	2022-07-13 18:46:42	2022-07-13 18:46:42
+117	0x75	u	133778	10348591	lit	Tu turi per visą savo gyvenimą mokytis.	glavsaltulo	2021-10-07 18:14:50	2021-10-07 18:14:50
+118	0x76	v	52400	9713070	lit	Man vėliau paskambink.	glavsaltulo	2021-02-02 17:07:20	2021-02-02 17:07:20
+119	0x77	w	7	3549375	lit	Twitter nėra tikras draugas.	asveja	2014-10-10 01:00:22	2014-10-10 01:00:22
+121	0x79	y	34796	4906885	lit	Šiame kambaryje keistai kvepia.	kotik	2016-02-12 13:55:10	2016-02-12 13:55:10
+122	0x7a	z	2824	563465	lit	Man nepatinka rizikuoti.	fanty	2010-10-13 12:59:59	2010-10-13 12:59:59
 160	0xa0	 	3	2153557	lit	Prūsų yra baltų kalba.	cuenta	2013-01-19 16:07:23	2013-01-19 16:07:23
 231	0xe7	ç	1	3188651	lit	O benim için babam gibiydi.	asveja	2014-04-18 23:00:33	2014-04-18 23:05:23
-260	0x104	Ą	2	10079918	lit	Ąžuolinių keliaujančių kuoduočių vikšrai gali sukelti bėrimą ir kvėpavimo sunkumus.	restcoser	2021-06-02 07:49:34	2021-06-02 07:49:34
-261	0x105	ą	25355	10067700	lit	Tiesą sakant, apie šitą vietą iki dabar aš niekada negirdėjau.	glavsaltulo	2021-05-27 19:14:09	2021-05-27 19:14:09
+260	0x104	Ą	2	8450765	lit	Ąžuolas yra šventas slavų medis.	glavsaltulo	2020-01-14 18:43:49	2020-01-14 18:43:49
+261	0x105	ą	25355	10655707	lit	Jis išsirinko gerą žmoną.	glavsaltulo	2022-02-02 19:01:54	2022-02-02 19:01:54
 265	0x109	ĉ	1	3226276	lit	Esperanto kalbos abėcėlė susideda iš 28 raidžių: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	kotik	2014-05-02 18:18:12	2014-05-02 18:18:12
-268	0x10c	Č	312	11897503	lit	Čia yra telefonas.	glavsaltulo	2023-07-01 19:46:08	2023-07-01 19:46:08
-269	0x10d	č	8451	11524299	lit	Kažkur savo piniginę pamečiau, bet aš jos tingiu ieškoti.	Wobbelle	2023-02-09 21:29:10	2023-02-09 21:29:10
+268	0x10c	Č	312	10776509	lit	Čekijos sostinė yra Praha.	glavsaltulo	2022-04-20 14:20:40	2022-04-20 14:20:40
+269	0x10d	č	8451	7125353	lit	Tu iš čia turėsi nuostabią Bostono panoramą.	glavsaltulo	2018-09-05 17:26:48	2018-09-05 17:26:48
 272	0x110	Đ	1	8839439	lit	Đau!	dotheduyet1999	2020-06-13 11:54:16	2020-06-13 11:54:16
-278	0x116	Ė	7	1505102	lit	Ėjo blusos šalia vandens, blusa blusą stūmė į vandenį ir ta blusa verkė, kad ją kita blusa pastūmė.	fanty	2012-03-27 11:00:21	2012-03-27 11:00:21
-279	0x117	ė	43264	11586661	lit	Išplauti indus po vakarienės pasišovė Tomas.	glavsaltulo	2023-03-10 10:03:24	2023-03-10 10:03:24
-281	0x119	ę	6326	8947906	lit	Jis įsivyniojo į paklodę.	glavsaltulo	2020-07-29 18:49:30	2020-07-29 18:49:30
+278	0x116	Ė	7	12162986	lit	Ėriukas yra avies jauniklis.	glavsaltulo	2023-11-15 18:00:54	2023-11-15 18:00:54
+279	0x117	ė	43264	8839823	lit	Jį nutvėrė.	glavsaltulo	2020-06-13 14:21:19	2020-06-13 14:21:19
+281	0x119	ę	6326	11008280	lit	Tritonai ir salamandros, skirtingai nei varlės ir rupūžės, ir suaugę nepraranda uodegų.	glavsaltulo	2022-07-20 13:21:05	2022-07-20 13:21:05
 285	0x11d	ĝ	1	3226276	lit	Esperanto kalbos abėcėlė susideda iš 28 raidžių: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	kotik	2014-05-02 18:18:12	2014-05-02 18:18:12
 293	0x125	ĥ	1	3226276	lit	Esperanto kalbos abėcėlė susideda iš 28 raidžių: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	kotik	2014-05-02 18:18:12	2014-05-02 18:18:12
-302	0x12e	Į	415	10248218	lit	Įmonės sėkmė visus nustebino.	glavsaltulo	2021-08-17 19:24:41	2021-08-17 19:24:41
-303	0x12f	į	14810	8439345	lit	Jeigu tu su įgūdžiais jiems negali padaryti įspūdžio, tai tą padaryk idiotiškumu.	glavsaltulo	2020-01-09 20:49:36	2020-01-09 20:49:36
+302	0x12e	Į	415	11096234	lit	Įvertink mano anglų kalbos lygį.	glavsaltulo	2022-09-04 10:06:51	2022-09-04 10:06:51
+303	0x12f	į	14810	11445870	lit	Ar tu ateisi į mano pokylį, jeigu aš tave pakviesiu? Suprantama, kad ateisiu.	glavsaltulo	2023-01-09 11:36:04	2023-01-09 11:36:04
 309	0x135	ĵ	1	3226276	lit	Esperanto kalbos abėcėlė susideda iš 28 raidžių: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	kotik	2014-05-02 18:18:12	2014-05-02 18:18:12
 349	0x15d	ŝ	1	3226276	lit	Esperanto kalbos abėcėlė susideda iš 28 raidžių: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	kotik	2014-05-02 18:18:12	2014-05-02 18:18:12
-352	0x160	Š	3109	12195866	lit	Šitas fotoaparatas pigus.	glavsaltulo	2023-12-05 17:06:56	2023-12-05 17:06:56
-353	0x161	š	50550	11808534	lit	Karštas vynas kvepia nuostabiai.	glavsaltulo	2023-05-30 20:40:01	2023-05-30 20:40:01
-362	0x16a	Ū	9	11497296	lit	Ūkininkai žemę aria plūgais.	glavsaltulo	2023-01-30 18:32:07	2023-01-30 18:32:07
-363	0x16b	ū	12947	4911876	lit	Jūs dvokiate.	kotik	2016-02-14 13:51:27	2016-02-14 13:51:27
+352	0x160	Š	3109	2238082	lit	Šeima kartu žiūri filmą.	kotik	2013-02-20 13:54:25	2013-02-20 13:54:25
+353	0x161	š	50550	7998302	lit	Neskelbk šūkių, nepropaguok!	glavsaltulo	2019-06-24 18:06:14	2019-06-24 18:06:14
+362	0x16a	Ū	9	8966674	lit	Ūkininkai gerus obuolius atskiria nuo blogų.	glavsaltulo	2020-08-09 15:20:05	2020-08-09 15:20:05
+363	0x16b	ū	12947	8949819	lit	Kaip mesti rūkyti?	glavsaltulo	2020-07-30 16:34:51	2020-07-30 16:34:51
 365	0x16d	ŭ	1	3226276	lit	Esperanto kalbos abėcėlė susideda iš 28 raidžių: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	kotik	2014-05-02 18:18:12	2014-05-02 18:18:12
-371	0x173	ų	14595	6960568	lit	Kiek jau metų tu mokaisi prancūzų kalbos?	glavsaltulo	2018-06-24 16:38:23	2018-06-24 16:38:23
-381	0x17d	Ž	644	10303166	lit	Žirafos retai ėda žolę.	glavsaltulo	2021-09-18 19:25:35	2021-09-18 19:25:35
-382	0x17e	ž	23517	10694615	lit	Užsidenk.	glavsaltulo	2022-02-27 12:24:04	2022-02-27 12:24:04
-8211	0x2013	–	13	6931034	lit	Ji – geras žmogus.	Zhanas	2018-06-05 22:44:53	2018-06-05 22:44:53
-8212	0x2014	—	38	4143288	lit	Pekinas — Kinijos sostinė.	kotik	2015-05-03 14:06:41	2015-05-03 14:06:41
-8220	0x201c	“	9	3209329	lit	Mano brolis turi „Twitter“ paskyrą.	\N	2014-04-27 17:33:02	2019-04-16 13:58:40
-8222	0x201e	„	9	3209327	lit	Aš turiu „Twitter“ paskyrą.	\N	2014-04-27 17:32:49	2019-04-16 13:58:34
+371	0x173	ų	14595	8818333	lit	Tomas galų gale laimės.	glavsaltulo	2020-06-05 17:37:33	2020-06-05 17:37:33
+381	0x17d	Ž	644	6932678	lit	Žuvų pardavėjas garantuoja dėl savo produktų kilmės ir šviežumo.	glavsaltulo	2018-06-06 19:51:46	2018-06-06 19:51:46
+382	0x17e	ž	23517	11596022	lit	Tu žiovavai.	glavsaltulo	2023-03-14 21:14:02	2023-03-14 21:14:02
+8211	0x2013	–	13	6931033	lit	Jis – geras žmogus.	Zhanas	2018-06-05 22:44:36	2018-06-05 22:44:36
+8212	0x2014	—	38	3951714	lit	Balandis — taikos simbolis.	kotik	2015-03-12 22:02:36	2015-03-12 22:02:36
+8220	0x201c	“	9	2598258	lit	„Kiek tau metų?“ „Man šešiolika metų.“	kotik	2013-07-17 12:12:39	2013-07-17 12:12:39
+8222	0x201e	„	9	3977740	lit	Mokslininkai mano, kad prieš 13,7 milijardo metų įvyko stiprus sprogimas, vadinamas „Big Bang“. Šis stiprus sprogimas davė pradžią Visatos plėtimuisi, besitęsiančiam iki šių dienų.	Albus	2015-03-21 20:17:16	2015-03-22 08:54:57

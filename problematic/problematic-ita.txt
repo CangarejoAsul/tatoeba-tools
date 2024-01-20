@@ -72,6 +72,7 @@ Final punctuation	2559206	ita	Stabiliamo qualche regola di base,	Guybrush88	2013
 Final punctuation	2562654	ita	Andrò a prenderne un po'	Guybrush88	2013-07-04 12:45:28	2013-07-04 12:45:28
 Period: preceeded by space	2584959	ita	Marco insegna tedesco, ma quest'anno sta insegnando francese .	Guybrush88	2013-07-11 17:48:23	2013-07-11 17:48:23
 Zero-width space	2700101	ita	Siamo arrivati ​​un po' in ritardo.	hitori37	2013-08-26 16:38:24	2013-08-26 16:38:24
+Cyrillic characters: possible homoglyphs	2802954	ita	Оggi al mercato ho comprato una felpa con cappuccio, taglia XL.	korobo4ka	2013-10-21 23:35:36	2013-10-21 23:35:36
 Colon: succeeded by letter or punctuation	2812320	ita	Nella mia lingua, la "," si chiama virgola, il ";" si chiama punto e virgola, ":" sono chiamati due punti, "..." sono chiamati puntini di sospensione, e questa frase termina con un punto.	carlosalberto	2013-10-28 11:15:12	2013-10-28 11:37:06
 Colon: succeeded by letter or punctuation	2825277	ita	Il sito http://esperanto.typeit.org/ ha davvero facilitato la mia sopravvivenza su Tatoeba.	Guybrush88	2013-11-02 15:51:33	2013-11-02 15:51:33
 Colon: succeeded by letter or punctuation	2825278	ita	Il sito http://esperanto.typeit.org/ facilitò davvero la mia sopravvivenza su Tatoeba.	Guybrush88	2013-11-02 15:51:43	2013-11-02 15:51:43
@@ -101,8 +102,6 @@ Zero-width space	3580358	ita	I prodotti petrolchimici sono dei prodotti chimici 
 Capitalization	3665054	ita	tutti considerarono il cacciatore un eroe.	Guybrush88	2014-11-30 01:36:56	2014-11-30 01:36:56
 Capitalization	3758366	ita	"http://example.org/" è un URL.	Guybrush88	2015-01-10 17:27:26	2015-01-10 17:27:26
 Colon: succeeded by letter or punctuation	3758366	ita	"http://example.org/" è un URL.	Guybrush88	2015-01-10 17:27:26	2015-01-10 17:27:26
-Final punctuation	3827292	ita	Non fate pubblicità per Facebook,	Guybrush88	2015-02-01 10:21:23	2015-02-01 10:21:23
-Final punctuation	3827293	ita	Non faccia pubblicità per Facebook,	Guybrush88	2015-02-01 10:21:27	2015-02-01 10:21:27
 Comma: succeeded by letter	3863782	ita	L'albero,spezzato dal vento, teme la tempesta.	Guybrush88	2015-02-12 17:09:16	2015-02-12 17:09:16
 Quotation marks: mixed curly and straight	3884400	ita	L'Arabia Saudita si chiama "Al-Mamlakah Al-‘Arabiyyah As-Sa‘ūdiyyah" in arabo.	Guybrush88	2015-02-21 15:41:43	2015-02-21 15:41:43
 Quotation marks: mixed curly and straight	3926369	ita	Che cosa c’è nel bicchiere? — C'è del vino.	rado	2015-03-02 17:29:52	2015-03-02 17:29:52
@@ -307,7 +306,6 @@ English quotation marks: unclosed opening mark	9187389	ita	"Dobbiamo attraversar
 Straight quotation marks: odd number	9187389	ita	"Dobbiamo attraversare la strada." “È vietato attraversare qui. Dobbiamo andare al prossimo semaforo."	carlosalberto	2020-10-24 17:12:56	2020-10-24 17:12:56
 Quotation marks: mixed curly and straight	9187389	ita	"Dobbiamo attraversare la strada." “È vietato attraversare qui. Dobbiamo andare al prossimo semaforo."	carlosalberto	2020-10-24 17:12:56	2020-10-24 17:12:56
 Ellipsis: too short	9348218	ita	Uh.. sì, credo di sì.	Bethanielle	2020-11-21 16:13:23	2020-11-21 16:13:23
-Final punctuation	9474841	ita	Tom è troppo liberale,	Guybrush88	2020-12-13 19:13:29	2020-12-13 19:13:29
 Comma: succeeded by letter	9670449	ita	Se ti serve questa penna,te la presto.	Nuel	2021-01-17 19:09:50	2021-01-17 19:09:50
 Final punctuation	9701558	ita	Ti potrei aver detto una cosa del genere, ma non la ricordo affatto	KuroiKarasu	2021-01-29 11:50:38	2021-01-29 11:50:38
 Final punctuation	9701561	ita	Non stare nel letto, a meno che non puoi fare soldi nel letto	KuroiKarasu	2021-01-29 11:51:25	2021-01-29 11:51:25
@@ -398,7 +396,6 @@ Final punctuation	11942266	ita	L'odore dolce e pungente dell'agro riempiva l'ari
 Final punctuation	11942502	ita	Il nonno era un uomo bonario, sempre pronto ad ascoltare e aiutare gli altri	Guybrush88	2023-07-19 17:47:57	2023-07-19 17:47:57
 Final punctuation	11943104	ita	Per rendere le cime di rapa più tenere, è necessario ammollarle in acqua fredda prima di cucinarle	Guybrush88	2023-07-19 22:22:33	2023-07-19 22:22:33
 Straight quotation marks: odd number	11943139	ita	La Pentecoste è una festa di grande gioia e spiritualità per i fedeli."	Guybrush88	2023-07-19 22:27:55	2023-07-19 22:27:55
-Final punctuation	11943812	ita	La stampa investigativa ha esposto la corruttela nelle alte sfere del governo	Guybrush88	2023-07-20 08:07:09	2023-07-20 08:07:09
 Final punctuation	11950973	ita	Le regole di ortografia possono variare da una lingua all'altra, quindi è necessario studiare le specificità di ciascuna	Guybrush88	2023-07-23 11:09:47	2023-07-23 11:09:47
 Ellipsis: too short	11990219	ita	Stavo appena dicendo quanto dovete essere felici voi due..	hab638	2023-08-10 19:07:24	2023-08-10 19:07:24
 Final punctuation	12042223	ita	Tom non ha scattato molte fotografie	Guybrush88	2023-09-07 13:26:19	2023-09-07 13:26:19

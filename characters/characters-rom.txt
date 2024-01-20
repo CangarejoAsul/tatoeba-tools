@@ -1,89 +1,89 @@
-32	0x20	 	4369	6704488	rom	O Sami sas akušló.	Poliglotski	2018-02-22 14:02:05	2018-02-22 14:02:05
-33	0x21	!	53	8423342	rom	Бахтало Нэво бэрш!	Balamax	2020-01-02 12:43:21	2020-01-02 12:43:29
-34	0x22	"	6	10101842	rom	İ Alžerija naj jekh "nevo them".	Poliglotski	2021-06-12 14:36:59	2021-06-12 14:36:59
+32	0x20	 	4369	7364850	rom	Šaj te das duma athe?	Poliglotski	2018-10-31 11:43:57	2018-10-31 11:43:57
+33	0x21	!	53	6690677	rom	Va!	Poliglotski	2018-02-14 18:22:12	2018-02-16 22:36:21
+34	0x22	"	6	6695913	rom	"Najis tuke." "Na, najis tuke."	Poliglotski	2018-02-17 21:33:30	2018-02-17 21:33:30
 39	0x27	'	12	6705049	rom	Me kamaw te vakeraw pale' le Tomehe.	daniel38	2018-02-22 19:02:41	2018-02-22 19:02:41
-44	0x2c	,	29	6707273	rom	Tom, me dav duma tusa.	Poliglotski	2018-02-23 22:01:38	2018-02-23 22:01:38
+44	0x2c	,	29	6723324	rom	O Tom si ansurime, si les šavořê.	Poliglotski	2018-02-28 09:23:20	2018-02-28 09:23:20
 45	0x2d	-	2	6705271	rom	Nykon na beshel and-ado kher.	daniel38	2018-02-22 21:02:33	2018-02-22 21:02:33
-46	0x2e	.	718	6704443	rom	Fadil si kheré.	Poliglotski	2018-02-22 13:26:57	2018-02-22 13:26:57
+46	0x2e	.	718	6705370	rom	O Tom si jekh sabovo.	Poliglotski	2018-02-22 22:16:10	2018-02-22 22:16:10
 49	0x31	1	1	10101823	rom	O Frantsuzo meklas i Alžerija ando bêrš 1962.	Poliglotski	2021-06-12 14:29:45	2021-06-12 14:30:02
 50	0x32	2	1	10101823	rom	O Frantsuzo meklas i Alžerija ando bêrš 1962.	Poliglotski	2021-06-12 14:29:45	2021-06-12 14:30:02
 54	0x36	6	1	10101823	rom	O Frantsuzo meklas i Alžerija ando bêrš 1962.	Poliglotski	2021-06-12 14:29:45	2021-06-12 14:30:02
 57	0x39	9	1	10101823	rom	O Frantsuzo meklas i Alžerija ando bêrš 1962.	Poliglotski	2021-06-12 14:29:45	2021-06-12 14:30:02
-63	0x3f	?	104	6695951	rom	Tume san bokhale?	Poliglotski	2018-02-17 22:23:01	2018-02-17 22:23:01
-65	0x41	A	80	6715185	rom	Ame žas ane k than?	Poliglotski	2018-02-26 19:23:39	2018-02-26 19:23:39
-66	0x42	B	27	6715010	rom	Bešen khetane.	Poliglotski	2018-02-26 17:47:50	2018-02-26 17:47:50
+63	0x3f	?	104	4958400	rom	So keres?	aldar	2016-03-06 23:30:35	2016-03-06 23:30:35
+65	0x41	A	80	6715107	rom	Ame šičuvas khetane.	Poliglotski	2018-02-26 18:58:42	2018-02-26 18:58:42
+66	0x42	B	27	6706726	rom	Bešav muře phurensa.	Poliglotski	2018-02-23 16:02:19	2018-02-23 16:02:19
 67	0x43	C	1	6690809	rom	Cîrde!	Poliglotski	2018-02-14 18:49:47	2018-02-16 22:34:10
-68	0x44	D	28	6697386	rom	Dikhlan kadi filmo?	Poliglotski	2018-02-18 19:30:08	2021-06-12 10:00:00
+68	0x44	D	28	6691197	rom	De anglal!	Poliglotski	2018-02-14 21:26:10	2018-02-16 22:31:44
 69	0x45	E	1	10667623	rom	E machkioria raierena o sumnal.	Balamax	2022-02-10 12:52:39	2022-02-10 12:54:46
 70	0x46	F	4	6698119	rom	Ferdi o Tom žanglas sar te kerel les.	Poliglotski	2018-02-19 06:21:33	2018-02-19 06:21:33
 71	0x47	G	6	6690880	rom	Gata.	Poliglotski	2018-02-14 19:12:28	2018-02-14 19:12:28
-72	0x48	H	2	6705039	rom	Hin dosta skamina?	daniel38	2018-02-22 18:59:00	2018-02-22 18:59:00
+72	0x48	H	2	6715955	rom	O Tom na kamel te žal ando Harvard?	Poliglotski	2018-02-26 22:25:53	2018-02-26 22:25:53
 73	0x49	I	8	6690570	rom	Interesantno.	Poliglotski	2018-02-14 17:51:14	2018-02-16 22:41:54
-74	0x4a	J	14	6715935	rom	O Tom haj o John si len još šor?	Poliglotski	2018-02-26 22:09:16	2018-02-26 22:09:16
-75	0x4b	K	48	6715222	rom	Keras but'i ane k than.	Poliglotski	2018-02-26 19:41:44	2018-02-26 19:41:44
-76	0x4c	L	17	6704501	rom	O Sami pušlas Laylatar te mudarel lesko dades.	Poliglotski	2018-02-22 14:16:03	2018-02-22 14:16:03
-77	0x4d	M	186	6717606	rom	O Tom haj i Mary le duj žene bešle tele.	Poliglotski	2018-02-27 10:15:22	2018-02-27 10:15:22
-78	0x4e	N	38	6705394	rom	Na sas o Tom kaj kerdas les.	Poliglotski	2018-02-22 22:34:36	2018-02-22 22:34:36
-79	0x4f	O	259	6728063	rom	O Tom haj i Mary čumiden pe akana.	Poliglotski	2018-03-01 18:50:33	2018-03-01 18:50:33
-80	0x50	P	25	6703853	rom	Puš le Tomestar so kamel te kerel.	Poliglotski	2018-02-21 22:15:34	2018-02-21 22:15:34
-82	0x52	R	3	6705258	rom	Rande la'!	daniel38	2018-02-22 20:57:40	2018-02-22 20:57:40
-83	0x53	S	103	6691275	rom	Sostar či des man so kamav?	Poliglotski	2018-02-14 22:25:45	2018-02-16 22:21:57
-84	0x54	T	456	6715139	rom	O Tom na kamlas te avel ane Boston.	Poliglotski	2018-02-26 19:08:03	2018-02-26 19:08:03
-86	0x56	V	46	6715223	rom	Von aven khetane.	Poliglotski	2018-02-26 19:42:23	2018-02-26 19:42:23
-88	0x58	X	5	6690557	rom	Xut.	Poliglotski	2018-02-14 17:42:19	2018-02-16 17:48:16
-90	0x5a	Z	3	6690591	rom	Znači?	Poliglotski	2018-02-14 18:10:20	2018-02-16 22:38:38
-97	0x61	a	2588	6715206	rom	Von si sagda khetane.	Poliglotski	2018-02-26 19:32:17	2018-02-26 19:32:17
-98	0x62	b	242	6705141	rom	Sostar o Tom trubusardas te kerel les?	Poliglotski	2018-02-22 19:44:09	2018-02-22 19:44:09
-99	0x63	c	46	6697800	rom	Si pharo te pačal kaj si jekh koinčidenca.	Poliglotski	2018-02-18 22:13:51	2018-02-18 22:13:51
-100	0x64	d	554	6705298	rom	O Tom phendas ke si MIŠTO te xal akana.	Poliglotski	2018-02-22 21:28:21	2018-02-22 21:28:21
-101	0x65	e	2460	6715201	rom	Ame keras laši but'i khetane.	Poliglotski	2018-02-26 19:30:15	2018-02-26 19:30:15
-102	0x66	f	34	6717025	rom	O Tom kamlas fugo te avel barvalo.	Poliglotski	2018-02-27 09:03:17	2018-02-27 09:03:17
-103	0x67	g	193	6705287	rom	O Tom phendas mange ke daštil te notil.	Poliglotski	2018-02-22 21:16:17	2018-02-22 21:16:17
-104	0x68	h	523	6715177	rom	Ame kheldam sa ane k than.	Poliglotski	2018-02-26 19:21:40	2018-02-26 19:21:40
-105	0x69	i	1030	6705260	rom	Lacio.	daniel38	2018-02-22 20:58:15	2018-02-22 20:58:15
-106	0x6a	j	381	6697796	rom	Te si jivja, akaná va.	Poliglotski	2018-02-18 22:08:22	2018-02-18 22:08:31
-107	0x6b	k	1012	6715030	rom	Ame khêlas khetane.	Poliglotski	2018-02-26 17:52:10	2018-02-26 17:52:10
-108	0x6c	l	1020	6690562	rom	Pale!	Poliglotski	2018-02-14 17:46:54	2018-02-16 22:42:14
-109	0x6d	m	1060	6705322	rom	Vi o Tom thaj vi me xoxadam tut.	Poliglotski	2018-02-22 21:50:15	2018-02-27 09:16:15
-110	0x6e	n	994	6692219	rom	Godžaverimos si jekh arman kana či kerel khanči anda o manuš kaj sičilas les.	Poliglotski	2018-02-15 16:28:03	2018-02-17 15:05:15
-111	0x6f	o	1364	6705102	rom	O Tom phendas mange ke vo sas tato.	Poliglotski	2018-02-22 19:22:47	2018-02-22 19:22:47
-112	0x70	p	250	10109918	rom	Na dićhol pe mangê ke si tu problemo te des duma frantsusitska.	Poliglotski	2021-06-16 09:41:10	2021-06-16 09:41:10
-114	0x72	r	866	6728272	rom	Me som siguro ke o Tom či kerdas les.	Poliglotski	2018-03-01 21:04:12	2018-03-01 21:04:12
-115	0x73	s	1254	6704997	rom	I eksplikacija ke das o Tom sas interesantni.	Poliglotski	2018-02-22 18:47:57	2018-02-22 18:47:57
-116	0x74	t	948	6705357	rom	Me som siguro ke o Tom trubul te kerel les pale.	Poliglotski	2018-02-22 22:10:52	2018-02-22 22:10:52
-117	0x75	u	545	6717417	rom	O Tom na trubusardas te žal jekh ženo okothe.	Poliglotski	2018-02-27 09:39:46	2018-02-27 09:39:46
-118	0x76	v	352	10101754	rom	Me gindiv ke o anglipe si pherdo lumina anda i Alžerija.	Poliglotski	2021-06-12 14:03:25	2021-06-12 14:03:25
+74	0x4a	J	14	6717603	rom	O Tom haj i Mary le duj žene dikhle le Johnes.	Poliglotski	2018-02-27 10:14:03	2018-02-27 10:14:03
+75	0x4b	K	48	6715173	rom	Kheldam khetane.	Poliglotski	2018-02-26 19:20:29	2018-02-26 19:20:29
+76	0x4c	L	17	6705018	rom	Laci raty!	daniel38	2018-02-22 18:52:14	2018-02-22 18:52:14
+77	0x4d	M	186	6717611	rom	O Tom haj i Mary le duj žene trubun ažutimos.	Poliglotski	2018-02-27 10:18:30	2018-02-28 15:01:38
+78	0x4e	N	38	8441266	rom	Baxtalo Nevo berš!	Balamax	2020-01-10 15:32:50	2020-01-10 15:33:28
+79	0x4f	O	259	6705025	rom	O Tom pušlas mandar sostar kerdem les.	Poliglotski	2018-02-22 18:53:50	2018-02-22 18:53:50
+80	0x50	P	25	6699381	rom	Primisardem te mekav le Tomes te žal tar.	Poliglotski	2018-02-19 14:51:29	2018-02-19 14:51:29
+82	0x52	R	3	6691203	rom	Ramosar!	Poliglotski	2018-02-14 21:38:13	2018-02-14 21:38:13
+83	0x53	S	103	10075054	rom	So kerdas o Tom but grjaca lo.	Poliglotski	2021-05-30 18:26:06	2021-05-30 18:26:06
+84	0x54	T	456	6704925	rom	Me či suřučisarav te ažukerav le Tomes.	Poliglotski	2018-02-22 18:13:59	2018-02-22 18:13:59
+86	0x56	V	46	6712951	rom	Vo gelo tar bi te phenel khanči.	Poliglotski	2018-02-25 21:39:58	2021-06-15 08:26:24
+88	0x58	X	5	10103228	rom	Xa o manřo!	Poliglotski	2021-06-13 08:51:08	2021-06-13 08:51:08
+90	0x5a	Z	3	6697400	rom	Zumavdas te sičol francusicka.	Poliglotski	2018-02-18 19:37:13	2018-02-18 19:37:13
+97	0x61	a	2588	6712764	rom	Naštiv te arakhav muři keňva kanikaj.	Poliglotski	2018-02-25 19:29:18	2018-02-25 19:29:18
+98	0x62	b	242	6703880	rom	Žanav so trubul te kerel o Tom.	Poliglotski	2018-02-21 22:37:35	2018-02-21 22:37:35
+99	0x63	c	46	6704985	rom	I eksplikacija ke dias o Tom sas interesantni.	Poliglotski	2018-02-22 18:45:16	2018-02-22 18:45:16
+100	0x64	d	554	10099337	rom	Me dav duma mišto englišicka.	Poliglotski	2021-06-11 18:19:27	2021-06-11 18:19:27
+101	0x65	e	2460	6705290	rom	O Tom phendas mange ke vo sas jekh doktoro.	Poliglotski	2018-02-22 21:21:51	2018-02-22 21:21:51
+102	0x66	f	34	6698105	rom	Tom sas ferdi jekh cinořo atunči.	Poliglotski	2018-02-19 06:10:01	2018-02-19 06:13:38
+103	0x67	g	193	6699420	rom	Me či gindiv ke Tom si dilo.	Poliglotski	2018-02-19 15:18:05	2018-02-19 15:18:05
+104	0x68	h	523	6713033	rom	Me ferdi gelem khêrê bi te phenel khanči.	Poliglotski	2018-02-25 22:01:12	2018-02-25 22:01:12
+105	0x69	i	1030	6703887	rom	Či žanav sostar o Tom tristo lo.	Poliglotski	2018-02-21 22:43:31	2018-02-21 22:43:31
+106	0x6a	j	381	6704435	rom	Sami trajisardas le Faridesa thaj le Laylasa.	Poliglotski	2018-02-22 13:22:34	2018-02-22 13:22:34
+107	0x6b	k	1012	6715126	rom	Von sas khetane.	Poliglotski	2018-02-26 19:05:07	2018-02-26 19:05:07
+108	0x6c	l	1020	6704842	rom	O Tom drago leske but te kerel les.	Poliglotski	2018-02-22 17:14:44	2018-02-22 17:14:44
+109	0x6d	m	1060	6705143	rom	Me kerav les te o Tom mekel man.	Poliglotski	2018-02-22 19:46:11	2018-02-22 19:46:11
+110	0x6e	n	994	10115951	rom	Varekon musay te vakerel le Tomesa.	Poliglotski	2021-06-19 09:19:58	2021-06-19 09:19:58
+111	0x6f	o	1364	6703880	rom	Žanav so trubul te kerel o Tom.	Poliglotski	2018-02-21 22:37:35	2018-02-21 22:37:35
+112	0x70	p	250	6705262	rom	O Tom pušlas mandar sar kerdem les.	Poliglotski	2018-02-22 20:58:43	2018-02-22 20:58:43
+114	0x72	r	866	6704625	rom	O Tom si ferdi bužanglo sar i Mary.	Poliglotski	2018-02-22 14:58:58	2018-02-22 14:58:58
+115	0x73	s	1254	6704460	rom	O Sami naj sas les motivacija te kerel buči.	Poliglotski	2018-02-22 13:40:49	2018-02-22 13:40:49
+116	0x74	t	948	6691242	rom	Sostar gindis kaj Tom naštil te kerel les?	Poliglotski	2018-02-14 22:06:09	2018-02-14 22:06:09
+117	0x75	u	545	6705031	rom	O Tom phenel ke trubusardas te kerel les.	Poliglotski	2018-02-22 18:56:15	2018-02-22 18:58:10
+118	0x76	v	352	6703874	rom	Me trubuv te žanav kaj o Tom.	Poliglotski	2018-02-21 22:32:56	2018-02-23 22:30:05
 119	0x77	w	6	6705049	rom	Me kamaw te vakeraw pale' le Tomehe.	daniel38	2018-02-22 19:02:41	2018-02-22 19:02:41
-120	0x78	x	58	6715942	rom	O Tom sas but baxtalo ke i Mary kerdas les.	Poliglotski	2018-02-26 22:17:19	2018-02-26 22:17:19
-121	0x79	y	86	6705271	rom	Nykon na beshel and-ado kher.	daniel38	2018-02-22 21:02:33	2018-02-22 21:02:33
-122	0x7a	z	26	6691252	rom	Tom naj dosta zuralo.	Poliglotski	2018-02-14 22:13:29	2018-02-14 22:13:29
+120	0x78	x	58	6705099	rom	O Tom phendas mange ke vo sas xoľajlo.	Poliglotski	2018-02-22 19:21:56	2018-02-22 19:21:56
+121	0x79	y	86	6714404	rom	Žanes kana ansurisajle pe o Tom haj i Mary?	Poliglotski	2018-02-26 10:49:52	2018-02-26 10:49:52
+122	0x7a	z	26	6705409	rom	O khêr le Tomesko si sar jekh diz.	Poliglotski	2018-02-22 22:45:56	2018-02-22 22:45:56
 224	0xe0	à	2	6707156	rom	O Tom daràjlas.	Poliglotski	2018-02-23 21:20:42	2018-02-23 21:20:42
-225	0xe1	á	10	6704553	rom	O Sami pušlas Laylatar te avel pálpale khêrê.	Poliglotski	2018-02-22 14:33:04	2018-02-22 14:33:04
+225	0xe1	á	10	6728057	rom	O Tom haj i Mary žan ane khángeri khetane.	Poliglotski	2018-03-01 18:44:36	2018-03-01 18:44:36
 232	0xe8	è	1	6705285	rom	Me te o Tom janas kon kerdya adè buty.	daniel38	2018-02-22 21:13:19	2018-02-22 21:13:51
-233	0xe9	é	4	6699405	rom	Ašundém ke o Tom sas mulo.	Poliglotski	2018-02-19 15:06:49	2018-02-19 15:06:49
-234	0xea	ê	69	10101823	rom	O Frantsuzo meklas i Alžerija ando bêrš 1962.	Poliglotski	2021-06-12 14:29:45	2021-06-12 14:30:02
-238	0xee	î	13	6715933	rom	O Tom haj o John si len înkê šor?	Poliglotski	2018-02-26 22:08:46	2018-02-26 22:08:46
-243	0xf3	ó	2	6704827	rom	Či somas mató sar o Tom.	Poliglotski	2018-02-22 17:04:47	2018-02-22 17:04:47
-263	0x107	ć	4	6692511	rom	Von phende kaj me somas lengo majlačo bućarno.	Poliglotski	2018-02-15 22:37:57	2018-02-15 22:41:20
-268	0x10c	Č	28	6689366	rom	Čačes?	Poliglotski	2018-02-13 22:58:12	2018-02-16 22:44:03
-269	0x10d	č	197	6714407	rom	O Tom sas ando jekh maripe arači erjat haj xasardas uni dand.	Poliglotski	2018-02-26 10:57:50	2018-02-26 11:10:32
+233	0xe9	é	4	6704443	rom	Fadil si kheré.	Poliglotski	2018-02-22 13:26:57	2018-02-22 13:26:57
+234	0xea	ê	69	6719496	rom	O Sami si ansurime, si les šavořê.	Poliglotski	2018-02-27 20:28:57	2018-02-28 09:23:04
+238	0xee	î	13	6704734	rom	O Tom daštil înkê te kerel les ?	Poliglotski	2018-02-22 15:41:29	2021-06-12 10:19:06
+243	0xf3	ó	2	6704488	rom	O Sami sas akušló.	Poliglotski	2018-02-22 14:02:05	2018-02-22 14:02:05
+263	0x107	ć	4	10109918	rom	Na dićhol pe mangê ke si tu problemo te des duma frantsusitska.	Poliglotski	2021-06-16 09:41:10	2021-06-16 09:41:10
+268	0x10c	Č	28	6690589	rom	Čudato	Poliglotski	2018-02-14 18:07:46	2018-02-16 22:39:06
+269	0x10d	č	197	6692275	rom	Ažukêrdem les jekh časo.	Poliglotski	2018-02-15 17:29:20	2018-02-16 22:05:17
 271	0x10f	ď	2	6728058	rom	O Tom thaj i Mary žan ane khanďiri ane k than.	Poliglotski	2018-03-01 18:45:28	2018-03-01 18:45:28
 304	0x130	İ	2	10101856	rom	İ Alžerija si jekh importantno them.	Poliglotski	2021-06-12 14:41:25	2021-06-12 14:41:25
-318	0x13e	ľ	9	6703835	rom	Žanes sostar o Tom sas xoľajlo?	Poliglotski	2018-02-21 22:00:44	2018-02-21 22:00:44
-328	0x148	ň	8	6705391	rom	Sas o Tom ke phendas mange te džinel kadi keňva.	Poliglotski	2018-02-22 22:30:32	2018-02-22 22:30:32
+318	0x13e	ľ	9	6704524	rom	O Tom haľardas les.	Poliglotski	2018-02-22 14:25:31	2021-06-12 06:54:20
+328	0x148	ň	8	4700587	rom	Jov pijel paňi.	aldar	2015-11-14 14:21:27	2015-11-14 14:21:27
 341	0x155	ŕ	27	10103273	rom	Adžes laši vŕamja.	Poliglotski	2021-06-13 09:13:28	2021-06-13 09:13:28
-345	0x159	ř	68	6717679	rom	Musaj le Tomeske te pařuvel pesko plano.	Poliglotski	2018-02-27 10:30:37	2018-02-27 10:30:37
-352	0x160	Š	9	10102587	rom	Šaj te pušav tut jekh pušimos?	Poliglotski	2021-06-12 23:17:59	2021-06-12 23:17:59
-353	0x161	š	214	10103978	rom	Pušlam le Tomestar te kerel les.	Poliglotski	2021-06-13 12:52:42	2021-06-13 12:52:42
-357	0x165	ť	8	6705286	rom	O Tom si pŕabut buťako te ažutil tut.	Poliglotski	2018-02-22 21:14:54	2018-02-22 21:14:54
-378	0x17a	ź	4	6698170	rom	Savořê bisterde muřo rodźendano.	Poliglotski	2018-02-19 06:48:57	2018-02-19 06:48:57
-381	0x17d	Ž	22	6705118	rom	Žanes te o Tom daštil te notil?	Poliglotski	2018-02-22 19:30:44	2018-02-22 19:30:44
-382	0x17e	ž	175	10103273	rom	Adžes laši vŕamja.	Poliglotski	2021-06-13 09:13:28	2021-06-13 09:13:28
-489	0x1e9	ǩ	4	6705792	rom	Naštiv te paǩav ke o Tom daštisardas te kerel sa korkořo.	Poliglotski	2018-02-23 09:39:02	2018-02-23 09:39:02
-1041	0x411	Б	2	8423342	rom	Бахтало Нэво бэрш!	Balamax	2020-01-02 12:43:21	2020-01-02 12:43:29
-1053	0x41d	Н	2	8420503	rom	Бахтало Нево берш!	Balamax	2020-01-01 04:14:56	2020-01-01 12:16:33
+345	0x159	ř	68	10117684	rom	Muřo kroitori barvalo lo.	Poliglotski	2021-06-19 20:45:42	2021-06-19 20:45:42
+352	0x160	Š	9	10115970	rom	Šay te vakerav tusa yekh doba?	Poliglotski	2021-06-19 09:52:51	2021-06-19 09:52:51
+353	0x161	š	214	6715230	rom	Ame šičuvas francusicka ane k than.	Poliglotski	2018-02-26 19:47:08	2018-02-26 19:47:08
+357	0x165	ť	8	6705056	rom	O Tom si pŕabut buťako te kerel les.	Poliglotski	2018-02-22 19:03:43	2018-02-22 19:03:43
+378	0x17a	ź	4	6704750	rom	O Tom si pŕabut naźuralo te kerel les.	Poliglotski	2018-02-22 15:55:07	2018-02-22 15:55:07
+381	0x17d	Ž	22	6704868	rom	Žanes kana o Tom suřučisarel te žal tar?	Poliglotski	2018-02-22 17:35:40	2018-02-22 17:35:40
+382	0x17e	ž	175	6715909	rom	O Tom na kamlas te avel jekh inžeňeri.	Poliglotski	2018-02-26 21:55:11	2018-02-26 21:55:11
+489	0x1e9	ǩ	4	6705451	rom	Drago le Tomeske te siǩol francusicka le Mariasa.	Poliglotski	2018-02-22 23:03:43	2018-02-27 21:59:18
+1041	0x411	Б	2	8420503	rom	Бахтало Нево берш!	Balamax	2020-01-01 04:14:56	2020-01-01 12:16:33
+1053	0x41d	Н	2	8423342	rom	Бахтало Нэво бэрш!	Balamax	2020-01-02 12:43:21	2020-01-02 12:43:29
 1072	0x430	а	4	8420503	rom	Бахтало Нево берш!	Balamax	2020-01-01 04:14:56	2020-01-01 12:16:33
-1073	0x431	б	2	8423342	rom	Бахтало Нэво бэрш!	Balamax	2020-01-02 12:43:21	2020-01-02 12:43:29
+1073	0x431	б	2	8420503	rom	Бахтало Нево берш!	Balamax	2020-01-01 04:14:56	2020-01-01 12:16:33
 1074	0x432	в	2	8423342	rom	Бахтало Нэво бэрш!	Balamax	2020-01-02 12:43:21	2020-01-02 12:43:29
 1077	0x435	е	2	8420503	rom	Бахтало Нево берш!	Balamax	2020-01-01 04:14:56	2020-01-01 12:16:33
 1083	0x43b	л	2	8420503	rom	Бахтало Нево берш!	Balamax	2020-01-01 04:14:56	2020-01-01 12:16:33

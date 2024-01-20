@@ -1,13 +1,13 @@
-32	0x20	 	1351	5394744	cha	Tådza' guåha bai enakompanya hao gi pokatmŏ?	tonCa	2016-09-02 21:41:32	2016-09-02 21:41:32
-33	0x21	!	22	7910661	cha	Gago' hao!	\N	2019-05-14 22:22:38	2020-02-17 09:16:50
-34	0x22	"	12	5394741	cha	I "A" sinku biåhe anako'nya ki i "B".	tonCa	2016-09-02 21:38:39	2016-09-02 21:38:39
+32	0x20	 	1351	5272755	cha	Lao håfa dzu'? Un kosa ni manhahaso. Lao håfa un kosa ni manhahaso?	tonCa	2016-07-14 03:09:27	2016-07-14 03:10:10
+33	0x21	!	22	5338582	cha	Na' magof hao!	tonCa	2016-08-13 00:48:14	2016-08-13 00:48:14
+34	0x22	"	12	5294985	cha	I palåbran "amour" ginen i ottsitan i trobadores, sinoke humudzongya "ameur".	tonCa	2016-07-22 18:20:02	2016-07-22 18:20:02
 37	0x25	%	1	5460102	cha	En faktutura tulȗ' pot gåtus (3%) na kumishȗn.	tonCa	2016-09-21 20:58:03	2016-09-21 20:58:03
-39	0x27	'	284	7910500	cha	Kao fáfa'na'gue hao?	\N	2019-05-14 20:21:58	2020-02-17 09:19:25
+39	0x27	'	284	5294998	cha	I fino' ottsita i mås mi-taotao na lengguåhen rehionåt frånsa.	tonCa	2016-07-22 18:30:13	2016-07-22 18:30:13
 40	0x28	(	1	5460102	cha	En faktutura tulȗ' pot gåtus (3%) na kumishȗn.	tonCa	2016-09-21 20:58:03	2016-09-21 20:58:03
 41	0x29	)	1	5460102	cha	En faktutura tulȗ' pot gåtus (3%) na kumishȗn.	tonCa	2016-09-21 20:58:03	2016-09-21 20:58:03
-44	0x2c	,	64	5292146	cha	Guåhŏ bai falag i tasi, lao hågŏ, otronya påtti, un falag i eskuela.	tonCa	2016-07-21 17:07:06	2016-07-21 17:07:06
-45	0x2d	-	47	7910747	cha	Cha'-mu mandádagi!	\N	2019-05-14 23:13:04	2020-02-17 09:18:33
-46	0x2e	.	249	5290571	cha	Maolek pågȗ. Cha'mȗ luhan. Sinya un angkokku dzŏ' gåtos pot gåtos.	tonCa	2016-07-20 20:07:57	2016-07-20 20:07:57
+44	0x2c	,	64	7910273	cha	Ineru, Fibreru, Måtsu, Abrit, Måyu, Huño, Hulio, Agosto, Septembre, Oktubri, Nubembre, Disembre.	\N	2019-05-14 18:49:27	2020-02-17 09:21:53
+45	0x2d	-	47	7910694	cha	Kao guaha patgon-miyu?	\N	2019-05-14 22:38:27	2020-02-17 09:25:32
+46	0x2e	.	249	7910561	cha	Si Tom i yoku difensot.	\N	2019-05-14 21:05:01	2020-02-17 09:19:31
 47	0x2f	/	1	5490750	cha	I la manche/English Channel sumepåpara inglatera dzan frånsia.	tonCa	2016-10-03 19:42:56	2016-10-03 19:42:56
 48	0x30	0	1	5332343	cha	I geran gof tumutuhŏn i dekådan 1990.	tonCa	2016-08-10 15:59:28	2016-08-10 15:59:28
 49	0x31	1	1	5332343	cha	I geran gof tumutuhŏn i dekådan 1990.	tonCa	2016-08-10 15:59:28	2016-08-10 15:59:28
@@ -15,65 +15,65 @@
 57	0x39	9	2	5332343	cha	I geran gof tumutuhŏn i dekådan 1990.	tonCa	2016-08-10 15:59:28	2016-08-10 15:59:28
 58	0x3a	:	1	5272768	cha	Ha nyangon dzu' gi sigenti oga'an: Ta buetta hit Paris. Ilegnya ti guailadzi bai såga na maisa gi adzu na lugåt na'mase'. Depotsi taiguenao.	tonCa	2016-07-14 03:21:37	2016-07-14 03:21:37
 59	0x3b	;	1	5275268	cha	I kabådzu tai kangilung; i guaka yan kinilu man gai kangilung.	tonCa	2016-07-15 04:07:37	2016-07-15 04:07:37
-63	0x3f	?	86	7910732	cha	Håfa malago'-mu?	\N	2019-05-14 23:01:18	2020-02-17 09:18:24
-65	0x41	A	29	7910273	cha	Ineru, Fibreru, Måtsu, Abrit, Måyu, Huño, Hulio, Agosto, Septembre, Oktubri, Nubembre, Disembre.	\N	2019-05-14 18:49:27	2020-02-17 09:21:53
-66	0x42	B	14	539638	cha	Bula håsuli iyo-ku hovercraft.	maolek	2010-09-30 07:56:12	2010-09-30 07:56:12
-67	0x43	C	9	5490750	cha	I la manche/English Channel sumepåpara inglatera dzan frånsia.	tonCa	2016-10-03 19:42:56	2016-10-03 19:42:56
-68	0x44	D	9	5284920	cha	Debi bai få'pos på'guguha'?	tonCa	2016-07-18 18:04:35	2016-07-18 18:04:35
-69	0x45	E	15	7910551	cha	Estudiånte yu'.	\N	2019-05-14 20:56:56	2020-02-17 09:16:10
-70	0x46	F	6	7910528	cha	Kao Filipino hao?	\N	2019-05-14 20:42:19	2020-02-17 09:17:26
-71	0x47	G	35	5266951	cha	Guidza i taotao ni matmo korason nya ninangga.	tonCa	2016-07-11 19:31:55	2016-07-11 19:31:55
-72	0x48	H	46	5338489	cha	Ha osgi si tatånya.	tonCa	2016-08-12 23:18:36	2016-08-12 23:18:36
-73	0x49	I	25	5439372	cha	Inglatera un tåno' anai ti man inå'atmas i polisia.	tonCa	2016-09-14 16:31:57	2016-09-14 16:31:57
+63	0x3f	?	86	7910684	cha	Kao guaha lapes-miyu?	\N	2019-05-14 22:34:54	2020-02-17 09:25:22
+65	0x41	A	29	5368896	cha	Atende i checho'mu paguguha'!	tonCa	2016-08-25 00:56:31	2016-08-25 00:56:31
+66	0x42	B	14	7910611	cha	Bunitu si Tom.	\N	2019-05-14 21:45:50	2020-02-17 09:17:48
+67	0x43	C	9	5460788	cha	I tren Cambridge para u hudzong ginen plaståntěn mina'lima.	tonCa	2016-09-21 23:58:00	2016-09-21 23:58:00
+68	0x44	D	9	5294976	cha	Dzahu i fino' ottsita.	tonCa	2016-07-22 17:56:11	2016-07-22 17:56:11
+69	0x45	E	15	7910734	cha	Ekungok yu'.	\N	2019-05-14 23:05:46	2020-02-17 09:22:56
+70	0x46	F	6	5290572	cha	Finȗ' ni gai atmi dzan batkåda guidza lengguahi.	tonCa	2016-07-20 20:09:33	2016-07-20 20:09:33
+71	0x47	G	35	7910725	cha	Gosa i ha'åni-mu.	\N	2019-05-14 22:56:55	2020-02-17 09:19:46
+72	0x48	H	46	7910728	cha	Håfa para un cho'gue på'go?	\N	2019-05-14 22:58:15	2020-02-17 09:20:44
+73	0x49	I	25	5275254	cha	Guaha hu hungok. Imposipblě, tåya' taotao gi halom guma'.	tonCa	2016-07-15 03:55:57	2016-07-15 03:55:57
 74	0x4a	J	4	7910723	cha	Åmko'ña si John kinu si Robert.	\N	2019-05-14 22:55:41	2020-02-17 09:20:40
-75	0x4b	K	51	7910618	cha	Kao ManAmerikånu siha?	\N	2019-05-14 21:53:29	2020-02-17 09:17:52
+75	0x4b	K	51	539630	cha	Taotao månu hao, Karen?	maolek	2010-09-30 07:48:04	2010-09-30 07:48:04
 76	0x4c	L	4	5272755	cha	Lao håfa dzu'? Un kosa ni manhahaso. Lao håfa un kosa ni manhahaso?	tonCa	2016-07-14 03:09:27	2016-07-14 03:10:10
-77	0x4d	M	59	5445858	cha	Ma'å'ñao si Mary ga'lågȗ.	tonCa	2016-09-17 06:29:49	2016-09-17 06:29:49
-78	0x4e	N	18	5439416	cha	Ni håfa kinano'ña asta ke guě' ma reskåta.	tonCa	2016-09-14 16:54:53	2016-09-14 16:54:53
+77	0x4d	M	59	5460765	cha	Ma'udai gi maseha håfa na tren gi mina' lima na englera.	tonCa	2016-09-21 23:51:19	2016-09-21 23:51:24
+78	0x4e	N	18	5457509	cha	Nina'matman i gobetnadot ni ineppen i komishon.	tonCa	2016-09-20 20:39:48	2016-09-20 20:39:48
 79	0x4f	O	6	539658	cha	Ohala homlo' hao ti åpmam.	maolek	2010-09-30 08:21:55	2010-09-30 08:21:55
-80	0x50	P	14	7910516	cha	Palao'an hao.	\N	2019-05-14 20:27:23	2020-02-17 09:23:49
+80	0x50	P	14	5460121	cha	Pumåra macho'chȗ i bisikletåhu.	tonCa	2016-09-21 21:01:28	2016-09-21 21:01:28
 82	0x52	R	2	7910723	cha	Åmko'ña si John kinu si Robert.	\N	2019-05-14 22:55:41	2020-02-17 09:20:40
-83	0x53	S	28	7910273	cha	Ineru, Fibreru, Måtsu, Abrit, Måyu, Huño, Hulio, Agosto, Septembre, Oktubri, Nubembre, Disembre.	\N	2019-05-14 18:49:27	2020-02-17 09:21:53
-84	0x54	T	49	5439412	cha	Ti menosña interisåntě esti na lepblŏ ki enao.	tonCa	2016-09-14 16:53:02	2016-09-14 16:53:25
-85	0x55	U	13	7910711	cha	Umo'mak hao gi tåsi.	\N	2019-05-14 22:44:46	2020-02-17 09:19:42
+83	0x53	S	28	5292201	cha	Si Mary mås gagȗ' entrě man-ga'tsongya eskuela.	tonCa	2016-07-21 17:24:02	2016-07-21 17:24:02
+84	0x54	T	49	532201	cha	Todo taotao siha man mafanago libertao yan pareho gi dignidad yan derecho siha, man manae siha hinaso yan consiencia yan debe de ufatinas contra uno yan otro gi un espiritun chumelo.	maolek	2010-09-25 09:37:11	2010-09-30 07:29:26
+85	0x55	U	13	5284915	cha	Umadotgan i hugua kuåttȗ.	tonCa	2016-07-18 18:01:53	2016-07-18 18:01:53
 87	0x57	W	1	7910215	cha	I na'ån hu si Wang.	\N	2019-05-14 18:38:27	2020-02-17 09:20:17
-89	0x59	Y	6	7910555	cha	Ya'-na si Tom malågu.	\N	2019-05-14 21:00:58	2020-02-17 09:19:29
-97	0x61	a	1221	5444794	cha	Man dångkulȗ esti siha na ga'lågŏ.	tonCa	2016-09-16 18:31:22	2016-09-16 18:31:22
-98	0x62	b	93	5290443	cha	Fino' ni gai åtmåsu dzan batkåda era lengguahi.	tonCa	2016-07-20 18:57:06	2016-07-20 18:57:06
-99	0x63	c	50	5460121	cha	Pumåra macho'chȗ i bisikletåhu.	tonCa	2016-09-21 21:01:28	2016-09-21 21:01:28
-100	0x64	d	198	5290572	cha	Finȗ' ni gai atmi dzan batkåda guidza lengguahi.	tonCa	2016-07-20 20:09:33	2016-07-20 20:09:33
-101	0x65	e	371	5266958	cha	Humanao si nana-nya para estados unidos para u edzak fino' ingles.	tonCa	2016-07-11 19:40:27	2016-07-11 19:40:27
-102	0x66	f	113	5439380	cha	Sa' håfa na i mattsing mås kalan taotao ke otro gå'ga'?	tonCa	2016-09-14 16:36:58	2016-09-14 16:36:58
-103	0x67	g	328	5292201	cha	Si Mary mås gagȗ' entrě man-ga'tsongya eskuela.	tonCa	2016-07-21 17:24:02	2016-07-21 17:24:02
-104	0x68	h	316	5490750	cha	I la manche/English Channel sumepåpara inglatera dzan frånsia.	tonCa	2016-10-03 19:42:56	2016-10-03 19:42:56
-105	0x69	i	708	5490753	cha	Esti na måkina ma fåbrika idza frånsia.	tonCa	2016-10-03 19:43:55	2016-10-03 19:43:55
+89	0x59	Y	6	7910234	cha	Si Yu'us ma'åsi'!	\N	2019-05-14 18:41:21	2020-02-17 09:30:01
+97	0x61	a	1221	5272745	cha	Ha fa' para ke guě.	tonCa	2016-07-14 03:00:57	2016-07-14 03:00:57
+98	0x62	b	93	5269619	cha	"Nobelu? Hu chatli'ě' nobelu." Ai musa, asi'ě' guě' ni chatfino'nya.	tonCa	2016-07-12 19:34:04	2016-07-12 19:34:04
+99	0x63	c	50	7910731	cha	Malagao' yu chumocho.	\N	2019-05-14 23:00:55	2020-02-17 09:18:22
+100	0x64	d	198	5284915	cha	Umadotgan i hugua kuåttȗ.	tonCa	2016-07-18 18:01:53	2016-07-18 18:01:53
+101	0x65	e	371	7910327	cha	Dies, beinti, treinta, kuarenta, sinkuenta, sisenta, sitenta, ochenta, nobenta, siento.	\N	2019-05-14 18:57:50	2020-02-17 09:21:13
+102	0x66	f	113	7910732	cha	Håfa malago'-mu?	\N	2019-05-14 23:01:18	2020-02-17 09:18:24
+103	0x67	g	328	5294966	cha	Numangu si Tom gi saddŏk	tonCa	2016-07-22 17:37:36	2016-07-22 17:39:28
+104	0x68	h	316	5460133	cha	Mahuchom esti na kåha.	tonCa	2016-09-21 21:03:44	2016-09-21 21:03:44
+105	0x69	i	708	5284920	cha	Debi bai få'pos på'guguha'?	tonCa	2016-07-18 18:04:35	2016-07-18 18:04:35
 106	0x6a	j	6	5303882	cha	Todȗ taotåguě man mafa'nyågŏ librě jzan manačaigua mamiresě respetȗ jzan tininas. Man manå'ě abilidåt rason jzan kunsiensa jza ufan átråta unŏ jzan otrȗ kȗmŏ mohon manye'lŏ.	tonCa	2016-07-27 19:27:38	2016-07-27 19:29:03
-107	0x6b	k	191	5290571	cha	Maolek pågȗ. Cha'mȗ luhan. Sinya un angkokku dzŏ' gåtos pot gåtos.	tonCa	2016-07-20 20:07:57	2016-07-20 20:07:57
-108	0x6c	l	176	5509105	cha	Malagȗ' dzu' malak frånsia.	tonCa	2016-10-11 03:22:02	2016-10-11 03:22:02
-109	0x6d	m	350	7910428	cha	Håfa ilek-mu?	\N	2019-05-14 19:37:47	2020-02-17 09:23:30
-110	0x6e	n	678	5272747	cha	An bumiåhe dzu', ganyahu plinen.	tonCa	2016-07-14 03:02:12	2016-07-14 03:02:12
-111	0x6f	o	507	5332347	cha	Guse'nya ha na'fonhådzan che'cho'nya gi nigap.	tonCa	2016-08-10 16:01:46	2016-08-10 16:01:46
-112	0x70	p	132	5285197	cha	Enao guě' mås dångkulȗ propbleman måmě.	tonCa	2016-07-18 19:47:56	2016-07-18 19:47:56
-114	0x72	r	163	5332343	cha	I geran gof tumutuhŏn i dekådan 1990.	tonCa	2016-08-10 15:59:28	2016-08-10 15:59:28
-115	0x73	s	378	7910503	cha	Kao si Maria gue?	\N	2019-05-14 20:23:21	2020-02-17 09:24:35
-116	0x74	t	409	5272759	cha	Malago' dzu' kumåti a'gang kumu dikikě' na påtgon palao'an.	tonCa	2016-07-14 03:12:18	2016-07-14 03:12:18
-117	0x75	u	477	7910523	cha	Tåta-hu hao.	\N	2019-05-14 20:30:49	2020-02-17 09:17:19
-118	0x76	v	2	5312349	cha	Onların ziyan olmasına izin verme.	duran	2016-08-01 14:36:41	2016-08-01 14:36:41
+107	0x6b	k	191	5523782	cha	Un fabobot pat un kokontra i planuña ni ha proponě gi miting?	tonCa	2016-10-16 20:41:02	2016-10-16 20:41:02
+108	0x6c	l	176	5338495	cha	Ha chulě' i pen ginen betsånya.	tonCa	2016-08-12 23:19:49	2016-08-12 23:19:49
+109	0x6d	m	350	5460788	cha	I tren Cambridge para u hudzong ginen plaståntěn mina'lima.	tonCa	2016-09-21 23:58:00	2016-09-21 23:58:00
+110	0x6e	n	678	5444798	cha	Ti presiso un kuenta enao na fåktŏ.	tonCa	2016-09-16 18:34:29	2016-09-16 18:34:29
+111	0x6f	o	507	539625	cha	Åpmam tiempo ti hu li'e hao.	maolek	2010-09-30 07:45:40	2010-09-30 07:45:40
+112	0x70	p	132	5445855	cha	Månu na pen anako'ña, ini pat enao?	tonCa	2016-09-17 06:24:01	2016-09-17 06:24:01
+114	0x72	r	163	5460788	cha	I tren Cambridge para u hudzong ginen plaståntěn mina'lima.	tonCa	2016-09-21 23:58:00	2016-09-21 23:58:00
+115	0x73	s	378	7910416	cha	Asta i biråda.	\N	2019-05-14 19:31:24	2020-02-17 09:23:25
+116	0x74	t	409	5460102	cha	En faktutura tulȗ' pot gåtus (3%) na kumishȗn.	tonCa	2016-09-21 20:58:03	2016-09-21 20:58:03
+117	0x75	u	477	5457490	cha	Dångkulŏ gumå'hu.	tonCa	2016-09-20 20:35:14	2016-09-20 20:35:14
+118	0x76	v	2	539638	cha	Bula håsuli iyo-ku hovercraft.	maolek	2010-09-30 07:56:12	2010-09-30 07:56:12
 119	0x77	w	2	5509106	cha	I presidenten frånsia ha bisita Okinawa.	tonCa	2016-10-11 03:22:49	2016-10-11 03:22:49
-121	0x79	y	114	5290581	cha	Machocho'chȗ' si Harry gi tienda oran tanoris.	tonCa	2016-07-20 20:14:50	2016-07-20 20:14:50
-122	0x7a	z	68	5444801	cha	Pådzon-niha i man rikȗ ma dispresia i mamobblî.	tonCa	2016-09-16 18:36:11	2016-09-16 18:36:11
-197	0xc5	Å	7	539661	cha	Ågang i polisia!	maolek	2010-09-30 08:22:26	2010-09-30 08:22:26
-209	0xd1	Ñ	2	7910219	cha	Ñålang yu'.	\N	2019-05-14 18:39:20	2020-02-17 09:14:12
+121	0x79	y	114	7910731	cha	Malagao' yu chumocho.	\N	2019-05-14 23:00:55	2020-02-17 09:18:22
+122	0x7a	z	68	5457493	cha	Atanon i kastidzu.	tonCa	2016-09-20 20:36:01	2016-09-20 20:36:01
+197	0xc5	Å	7	7910724	cha	Åmko'ña si Sami kinu si Layla.	\N	2019-05-14 22:55:54	2020-02-17 09:20:42
+209	0xd1	Ñ	2	7910218	cha	Ñålang yu'!	\N	2019-05-14 18:39:16	2020-02-17 09:14:10
 225	0xe1	á	7	7910325	cha	Onse, dose, trese, katotse, kinse, diesisáis, diesisiete, diesiocho, disinuebi, beinti.	\N	2019-05-14 18:56:56	2020-02-17 09:21:11
-229	0xe5	å	253	5303882	cha	Todȗ taotåguě man mafa'nyågŏ librě jzan manačaigua mamiresě respetȗ jzan tininas. Man manå'ě abilidåt rason jzan kunsiensa jza ufan átråta unŏ jzan otrȗ kȗmŏ mohon manye'lŏ.	tonCa	2016-07-27 19:27:38	2016-07-27 19:29:03
-233	0xe9	é	3	7910636	cha	Kao Hapunés hamyo?	\N	2019-05-14 22:14:03	2020-02-17 09:18:08
+229	0xe5	å	253	5444794	cha	Man dångkulȗ esti siha na ga'lågŏ.	tonCa	2016-09-16 18:31:22	2016-09-16 18:31:22
+233	0xe9	é	3	7910635	cha	Kao ManHapunés hamyo?	\N	2019-05-14 22:13:56	2020-02-17 09:18:05
 238	0xee	î	5	5460783	cha	Para u få'pŏs i trenmu gi mina' maonot na plaståntî.	tonCa	2016-09-21 23:56:07	2016-09-21 23:56:07
-241	0xf1	ñ	28	508364	cha	Kao siña hu ayuda hao?	maolek	2010-09-11 19:08:44	2010-09-30 07:31:45
+241	0xf1	ñ	28	5439416	cha	Ni håfa kinano'ña asta ke guě' ma reskåta.	tonCa	2016-09-14 16:54:53	2016-09-14 16:54:53
 243	0xf3	ó	2	7910613	cha	Puti i estómagu'-hu.	\N	2019-05-14 21:47:14	2020-02-17 09:24:49
 269	0x10d	č	1	5303882	cha	Todȗ taotåguě man mafa'nyågŏ librě jzan manačaigua mamiresě respetȗ jzan tininas. Man manå'ě abilidåt rason jzan kunsiensa jza ufan átråta unŏ jzan otrȗ kȗmŏ mohon manye'lŏ.	tonCa	2016-07-27 19:27:38	2016-07-27 19:29:03
-283	0x11b	ě	41	5523782	cha	Un fabobot pat un kokontra i planuña ni ha proponě gi miting?	tonCa	2016-10-16 20:41:02	2016-10-16 20:41:02
+283	0x11b	ě	41	5444796	cha	Meggai na mansåbě ma konsidedera esti na te'ori.	tonCa	2016-09-16 18:33:01	2016-09-16 18:33:01
 305	0x131	ı	2	5312349	cha	Onların ziyan olmasına izin verme.	duran	2016-08-01 14:36:41	2016-08-01 14:36:41
-335	0x14f	ŏ	38	5437027	cha	Guåha dångkulŏn plåsan kareta gi me'nan estasion tren.	tonCa	2016-09-14 03:01:24	2016-09-14 03:01:24
-535	0x217	ȗ	44	5290571	cha	Maolek pågȗ. Cha'mȗ luhan. Sinya un angkokku dzŏ' gåtos pot gåtos.	tonCa	2016-07-20 20:07:57	2016-07-20 20:07:57
+335	0x14f	ŏ	38	5460080	cha	Kuåntŏ i kumishŏn?	tonCa	2016-09-21 20:53:53	2016-09-21 20:53:53
+535	0x217	ȗ	44	5303882	cha	Todȗ taotåguě man mafa'nyågŏ librě jzan manačaigua mamiresě respetȗ jzan tininas. Man manå'ě abilidåt rason jzan kunsiensa jza ufan átråta unŏ jzan otrȗ kȗmŏ mohon manye'lŏ.	tonCa	2016-07-27 19:27:38	2016-07-27 19:29:03
 8216	0x2018	‘	2	7910306	cha	Gaige yo‘ gi eskuela.	\N	2019-05-14 18:54:20	2020-02-17 09:29:54
-8217	0x2019	’	5	7910631	cha	Kao må’o hamyo?	\N	2019-05-14 22:10:47	2020-02-17 09:25:02
+8217	0x2019	’	5	7910281	cha	Kao mediku gue’?	\N	2019-05-14 18:52:15	2020-02-17 09:23:15

@@ -1,40 +1,40 @@
-32	0x20	 	70	3633479	kin	Sinshaka kujya mu ishuri.	\N	2014-11-15 20:39:57	2019-04-16 10:48:46
-33	0x21	!	2	3153668	kin	Murakoze!	\N	2014-04-06 00:43:02	2015-01-10 02:26:34
+32	0x20	 	70	3153672	kin	Wigira isoni, nganiriza.	\N	2014-04-06 00:51:25	2015-01-10 02:25:54
+33	0x21	!	2	3153667	kin	Urakoze!	\N	2014-04-06 00:42:55	2015-01-10 02:26:27
 39	0x27	'	1	3153676	kin	Urakoze ku bw' impano yawe.	\N	2014-04-06 00:56:04	2015-01-10 02:25:25
-44	0x2c	,	3	3153670	kin	Mbere yuko nibagirwa, nzakubwira.	\N	2014-04-06 00:47:26	2015-01-10 02:26:12
-46	0x2e	.	28	11261995	kin	Ndi mu ishuri.	janTuki	2022-11-21 20:02:18	2022-11-21 20:02:18
+44	0x2c	,	3	3153672	kin	Wigira isoni, nganiriza.	\N	2014-04-06 00:51:25	2015-01-10 02:25:54
+46	0x2e	.	28	3153670	kin	Mbere yuko nibagirwa, nzakubwira.	\N	2014-04-06 00:47:26	2015-01-10 02:26:12
 63	0x3f	?	1	8260645	kin	Ndabirore?	driini	2019-10-16 21:31:08	2020-12-17 23:03:43
 65	0x41	A	3	3155022	kin	Abakobwa barakora.	\N	2014-04-06 13:03:25	2019-04-16 10:48:15
 66	0x42	B	2	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
 75	0x4b	K	2	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
 77	0x4d	M	4	3153673	kin	Mbwira izina ryawe.	\N	2014-04-06 00:52:56	2015-01-10 02:25:46
-78	0x4e	N	9	11261996	kin	Ndi umushoferi.	janTuki	2022-11-21 20:03:52	2022-11-21 20:03:52
-83	0x53	S	2	3633479	kin	Sinshaka kujya mu ishuri.	\N	2014-11-15 20:39:57	2019-04-16 10:48:46
+78	0x4e	N	9	8260725	kin	Nta kimazi bimfitiye.	driini	2019-10-16 21:51:33	2020-12-17 22:59:45
+83	0x53	S	2	11261989	kin	Sindi umuganga.	janTuki	2022-11-21 20:00:45	2022-11-21 20:00:45
 84	0x54	T	1	7782421	kin	Twaje kugusura.	driini	2019-02-19 23:18:06	2020-12-11 21:49:09
-85	0x55	U	6	3153677	kin	Urakoze kuntumira mu birori.	\N	2014-04-06 00:56:47	2015-01-10 02:25:10
+85	0x55	U	6	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
 87	0x57	W	2	3153672	kin	Wigira isoni, nganiriza.	\N	2014-04-06 00:51:25	2015-01-10 02:25:54
 89	0x59	Y	2	7031656	kin	Yama ata telefone ngendanwa yiwe.	driini	2018-07-30 08:38:13	2018-07-30 08:38:13
-97	0x61	a	84	7635038	kin	Kera hari urusengero ngaha.	driini	2018-12-21 21:16:13	2020-11-06 07:31:58
-98	0x62	b	29	3153673	kin	Mbwira izina ryawe.	\N	2014-04-06 00:52:56	2015-01-10 02:25:46
-99	0x63	c	2	3153674	kin	Birashekeje cyane.	\N	2014-04-06 00:53:59	2015-01-10 02:25:38
-100	0x64	d	10	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
-101	0x65	e	43	7017276	kin	Navyutse kare cane uyu munsi.	driini	2018-07-24 20:30:13	2018-11-22 19:19:18
+97	0x61	a	84	3153669	kin	Naguhaye igitabo.	\N	2014-04-06 00:46:29	2015-01-10 02:26:21
+98	0x62	b	29	3153670	kin	Mbere yuko nibagirwa, nzakubwira.	\N	2014-04-06 00:47:26	2015-01-10 02:26:12
+99	0x63	c	2	7017276	kin	Navyutse kare cane uyu munsi.	driini	2018-07-24 20:30:13	2018-11-22 19:19:18
+100	0x64	d	10	8260645	kin	Ndabirore?	driini	2019-10-16 21:31:08	2020-12-17 23:03:43
+101	0x65	e	43	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
 102	0x66	f	4	8260725	kin	Nta kimazi bimfitiye.	driini	2019-10-16 21:51:33	2020-12-17 22:59:45
-103	0x67	g	19	3153672	kin	Wigira isoni, nganiriza.	\N	2014-04-06 00:51:25	2015-01-10 02:25:54
-104	0x68	h	14	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
-105	0x69	i	61	3633479	kin	Sinshaka kujya mu ishuri.	\N	2014-11-15 20:39:57	2019-04-16 10:48:46
+103	0x67	g	19	7635038	kin	Kera hari urusengero ngaha.	driini	2018-12-21 21:16:13	2020-11-06 07:31:58
+104	0x68	h	14	3633479	kin	Sinshaka kujya mu ishuri.	\N	2014-11-15 20:39:57	2019-04-16 10:48:46
+105	0x69	i	61	7032789	kin	Muri ibibondo.	driini	2018-07-30 18:17:35	2018-07-30 18:17:35
 106	0x6a	j	8	7782421	kin	Twaje kugusura.	driini	2019-02-19 23:18:06	2020-12-11 21:49:09
 107	0x6b	k	27	3153678	kin	Urakoze kuntumira mu bukwe.	\N	2014-04-06 00:56:56	2015-01-10 02:25:16
 108	0x6c	l	2	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
-109	0x6d	m	17	7031656	kin	Yama ata telefone ngendanwa yiwe.	driini	2018-07-30 08:38:13	2018-07-30 08:38:13
-110	0x6e	n	36	3969371	kin	Ntabwo nanga ishuri.	\N	2015-03-18 13:15:30	2019-04-16 10:48:55
-111	0x6f	o	30	3153677	kin	Urakoze kuntumira mu birori.	\N	2014-04-06 00:56:47	2015-01-10 02:25:10
+109	0x6d	m	17	7032454	kin	Abajejwe umutegano bose mu gisagara bariko barakurondera.	driini	2018-07-30 15:48:42	2018-11-22 19:17:39
+110	0x6e	n	36	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
+111	0x6f	o	30	3153672	kin	Wigira isoni, nganiriza.	\N	2014-04-06 00:51:25	2015-01-10 02:25:54
 112	0x70	p	1	3153676	kin	Urakoze ku bw' impano yawe.	\N	2014-04-06 00:56:04	2015-01-10 02:25:25
-114	0x72	r	46	3969371	kin	Ntabwo nanga ishuri.	\N	2015-03-18 13:15:30	2019-04-16 10:48:55
-115	0x73	s	18	3153674	kin	Birashekeje cyane.	\N	2014-04-06 00:53:59	2015-01-10 02:25:38
-116	0x74	t	14	3153669	kin	Naguhaye igitabo.	\N	2014-04-06 00:46:29	2015-01-10 02:26:21
-117	0x75	u	50	7782421	kin	Twaje kugusura.	driini	2019-02-19 23:18:06	2020-12-11 21:49:09
-118	0x76	v	2	3153671	kin	Wigira isoni, mvugisha.	\N	2014-04-06 00:51:00	2015-01-10 02:26:00
-119	0x77	w	17	7693927	kin	Yarukiye kwa nyirakuru.	driini	2019-01-05 07:51:26	2020-11-06 07:33:02
-121	0x79	y	15	3153670	kin	Mbere yuko nibagirwa, nzakubwira.	\N	2014-04-06 00:47:26	2015-01-10 02:26:12
-122	0x7a	z	11	3153675	kin	Aba bakobwa bose beza uko ari batatu ni bishwa banjye.	\N	2014-04-06 00:55:07	2015-01-10 02:25:31
+114	0x72	r	46	7032454	kin	Abajejwe umutegano bose mu gisagara bariko barakurondera.	driini	2018-07-30 15:48:42	2018-11-22 19:17:39
+115	0x73	s	18	7635038	kin	Kera hari urusengero ngaha.	driini	2018-12-21 21:16:13	2020-11-06 07:31:58
+116	0x74	t	14	8260725	kin	Nta kimazi bimfitiye.	driini	2019-10-16 21:51:33	2020-12-17 22:59:45
+117	0x75	u	50	3153677	kin	Urakoze kuntumira mu birori.	\N	2014-04-06 00:56:47	2015-01-10 02:25:10
+118	0x76	v	2	7017276	kin	Navyutse kare cane uyu munsi.	driini	2018-07-24 20:30:13	2018-11-22 19:19:18
+119	0x77	w	17	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
+121	0x79	y	15	4778594	kin	Ubu Burj Khalifa niyo nzu ndende kwisi.	Balamax	2015-12-20 07:43:56	2015-12-20 07:44:49
+122	0x7a	z	11	3153668	kin	Murakoze!	\N	2014-04-06 00:43:02	2015-01-10 02:26:34

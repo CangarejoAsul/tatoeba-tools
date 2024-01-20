@@ -1,165 +1,165 @@
-32	0x20	 	2545170	10779840	kab	D tazurant.	madjidoumnia	2022-04-22 18:04:26	2022-04-22 18:04:26
-33	0x21	!	18566	9502433	kab	Ur yi-d-qqar ara tettuḍ amulli-inu!	samir_t	2020-12-19 12:02:46	2020-12-19 12:02:46
-34	0x22	"	4391	11154321	kab	"Ad d-yas Ɛli?" "Ad d-yas ɣas s tmara."	nnaser_uqemmum	2022-10-02 16:12:36	2022-10-02 16:12:36
-35	0x23	#	2	9541985	kab	Amek dɣa ara ad ssuqlent C# ɣer teqbaylit?	Igider	2020-12-26 13:54:13	2020-12-26 13:54:13
-36	0x24	$	9	9805745	kab	Axxam-is yenza s10.000$.	samir_t	2021-02-25 20:08:24	2021-02-25 20:08:24
-37	0x25	%	18	9829326	kab	Wufqeɣ-kent 100%.	Igider	2021-03-07 13:34:56	2021-03-07 13:34:56
-38	0x26	&	7	9365721	kab	Tamezwarut: S wudem n tussna: tamaziɣt d tawacult n tatlayin (une famille de langues), mačči d tagruma n tantaliwin (ensemble de dialectes). Tis-snat: Widak yebɣan ad ɣṛen ɣef temsalt-a ad walin ukessar imagraden n Koosmann (2012), Bendjaballah & Ben Si Said (2015), Chaker (2016: 4-6) akked Frajzyngier (2018).	AmarMecheri	2020-11-24 01:54:58	2020-11-24 01:54:58
-39	0x27	'	439	10571932	kab	Win 'uɣur tremqeḍ, yif-it wayeḍ!	AmarMecheri	2021-12-20 21:55:56	2021-12-20 21:55:56
-40	0x28	(	284	11176594	kab	Taglizit d tameslayt n SVO (amigaw-amyag-asemmad) imi yezwar umigaw, yerna-d fell-as wemyag syin d asemmad.	nnaser_uqemmum	2022-10-14 10:12:40	2022-10-14 10:12:40
-41	0x29	)	284	9445531	kab	Ha-t-an ihi, d tilawin i ţ-id-issefran. Amacahu, ad tellem (am taduṭ) ad tuɣal d asaru. Ama... cahu, tellem... cahu!	AmarMecheri	2020-12-07 17:10:28	2020-12-07 17:10:28
-42	0x2a	*	10	11317668	kab	Ur yettett ara akk igumma.****	Igider	2022-12-11 10:32:40	2022-12-11 10:32:40
-43	0x2b	+	7	9764088	kab	Ḥellejɣar, yekka-d seg [(ḥelles, lḥes)+jɣer]: d ayen ara yečč wemdan, d tissit seg uqemmuc.	AmarMecheri	2021-02-14 21:15:24	2021-02-14 21:15:32
-44	0x2c	,	59574	8280013	kab	Akka i d ddunit, imi lmut d abrid ur nexli.	belkacem77	2019-10-24 07:59:42	2019-10-24 07:59:54
-45	0x2d	-	505735	8134251	kab	Smareɣ-akent-tent.	Igider	2019-08-27 06:19:48	2019-08-27 06:19:48
-46	0x2e	.	582931	7704656	kab	Tkellxem-as.	Igider	2019-01-08 07:20:07	2019-01-08 07:20:07
-47	0x2f	/	157	9365754	kab	« Taqbaylit d arraw-is kan ara tt-irefden », i d-yura diɣ A.Bedar, ass n 05/11/2020.	AmarMecheri	2020-11-24 02:09:03	2020-11-24 02:09:03
-48	0x30	0	1250	7560240	kab	Taḥanut n Tom ad teldi deg 20 Tubeṛ.	belkacem77	2018-12-07 05:00:09	2018-12-07 05:00:09
-49	0x31	1	967	9615176	kab	Aɣerrabu n Titanic, yezder deg ugaraw di 14 yebrir 1912	Masswerdi	2021-01-08 16:49:26	2021-01-08 16:49:26
-50	0x32	2	745	11274933	kab	Imestulen n tmurt n Lezzayer nɣan s teldunin tifexsayin 128 n yilmeẓyen n tmurt n Leqbayel deg tefsut n useggas 2001.	Igider	2022-11-28 18:30:52	2022-11-28 18:30:52
-51	0x33	3	385	8279838	kab	Ilemẓi n 30 iseggasen ikcem-d ɣer tzeqqa sin akin isellem-d ɣef Phileas.	Amazigh7	2019-10-24 01:56:28	2021-06-25 18:30:18
-52	0x34	4	188	10772676	kab	Ilul John Lennon deg useggas n 1940.	madjidoumnia	2022-04-17 17:56:17	2022-04-17 17:56:17
-53	0x35	5	268	7318005	kab	Katrin tlul-d di 1985.	alemfarid	2018-10-20 11:21:23	2018-10-20 11:21:23
-54	0x36	6	163	7033403	kab	Tasdawit n Harvard tettwabna deg useggas n 1636.	Amazigh_Bedar	2018-07-30 23:42:37	2018-07-30 23:42:37
-55	0x37	7	135	10371617	kab	Luleɣ-d deg useggas n 1972.	Rafik	2021-10-18 18:57:24	2021-10-18 18:57:24
-56	0x38	8	251	10121264	kab	Tadukli Tasuvyitit tuɣal mačči d tin ara yidiren seg tama tadamsant deg iseggasen-nni n 1980.	samir_t	2021-06-21 18:59:23	2021-06-21 19:04:53
-57	0x39	9	464	11241614	kab	Lgirra n umaḍal tis snat teḍṛa-d gar 1939 almi d 1945.	ImadZaabot18	2022-11-11 14:42:15	2022-11-11 14:42:15
-58	0x3a	:	2430	8139865	kab	Nnan-d at zik: "Ur iṛuḥ, ur yeqqim."	AmarMecheri	2019-08-28 22:07:43	2019-08-28 22:07:43
-59	0x3b	;	974	8199593	kab	Mi yekfa ṭrad mgal Frasa, Sliman Ɛazem tefra, nfan-t ɣer Fransa; yuḍen, idiwa di Fransa, yemmut, yemḍel di Fransa.	belkacem77	2019-09-20 17:42:54	2019-09-20 17:43:00
+32	0x20	 	2548512	9590146	kab	Ay ẓẓmeṛ-iw ma d nekk i yestufan i waya!	Igider	2021-01-05 12:40:06	2021-01-05 12:40:06
+33	0x21	!	18605	9465607	kab	Sεut tamella!	samir_t	2020-12-12 00:09:35	2020-12-12 00:09:35
+34	0x22	"	4396	10169744	kab	"Acimi teggummaḍ?", i s-tenna.	AmarMecheri	2021-07-14 13:39:57	2021-07-14 13:39:57
+35	0x23	#	2	9801743	kab	Azul! Bdiɣ tira dagi seg Yulyu 2018, kraḍ iseggasen aya, qṛib. Wehmeɣ ya nekk! Tafyirt-iw tamezwarut n wass n 28 Yulyu 2018,d tagi: “Yella wass ideg yemceččaw yiwen d uwaɣzen?”. (#7028101). Ih dɣa, ass-nni i mɛunfareɣ d uwaɣzen!	AmarMecheri	2021-02-24 13:18:34	2021-02-24 13:18:34
+36	0x24	$	9	9482362	kab	Takebbanit-nni d tin yettwasbedden s 100 000$ d ṛaslmal.	samir_t	2020-12-15 22:25:10	2020-12-15 22:25:10
+37	0x25	%	18	8231904	kab	Yiwen ɣur-s taseqqart 80% akken ad t-iḥaz, ma d wis sin, taseqqart akken ad t-iḥaz tegda kan 70%.	belkacem77	2019-10-04 19:28:27	2019-10-04 19:28:27
+38	0x26	&	7	7013615	kab	Ittfeṛṛiǧ Tom & Jerry.	Amazigh_Bedar	2018-07-23 11:55:51	2018-07-23 11:55:51
+39	0x27	'	439	7058189	kab	Acḥal tuɣ tesεiḍ di leεmer-ik m'akken tekker lgirra ?	samir_t	2018-08-12 22:42:26	2018-08-12 22:43:41
+40	0x28	(	285	9365733	kab	Amek i nezmer ad naweḍ ar yiswi-nneɣ ? 1. Iqbayliyen akk yessnen ad arun zemren ad ttekkin deg leqdic ɣef teqbaylit (widak yebɣan ad ttekkin, ad kecmen ar Tatoeba.org). 2. Widak yellan yakkan qeddcen deg Tatoeba, yelha ma nefka-yas kra n ddhis ussan-a akken ad nili ger 10 n tutlayin timezwura deg ussan i d-iteddun.	AmarMecheri	2020-11-24 02:01:01	2020-11-24 02:01:01
+41	0x29	)	285	9396752	kab	Cukkeɣ imi d-kkan seg umawal n tlawin n zik n wegrud (d aqcic neɣ d taqcict) neqqar apupaḥ, apinuc, apeḥpuḥ i win yeččuṛen neɣ aḥelḥul...	AmarMecheri	2020-11-28 17:35:45	2020-11-28 17:35:45
+42	0x2a	*	10	11179571	kab	*Texdem deg-sent afernas.	madjidoumnia	2022-10-15 14:17:58	2022-10-15 14:17:58
+43	0x2b	+	7	9755446	kab	Azal amaskad n yitri n Yinad yessawaḍ ɣer +3,99.	BilalBouy	2021-02-13 09:44:22	2021-02-13 09:47:04
+44	0x2c	,	59662	8199862	kab	A win ijebbden amrar, ixef-is ha-t-a da ɣur-i.	ZiriSut	2019-09-20 19:32:17	2019-09-20 19:32:17
+45	0x2d	-	506460	9183706	kab	Yesnam-iyi-tent.	Igider	2020-10-24 09:45:47	2020-10-24 09:45:47
+46	0x2e	.	583658	9410739	kab	Ur uzzilen ara ɣer Buxlifa.	imalaqvayli	2020-11-30 16:02:02	2020-11-30 16:02:02
+47	0x2f	/	157	7562833	kab	Akken kfan wawalen-a, ṭṭaxreɣ-d, la tezziɣ s wallen / ɣer iɣerban n tegmat, akal-nni aεziz, / tedduɣ a ṭṭafareɣ tamurt. / Atent-a dɣa tqucac yeḥḥecrurfen / i teεya twet ṣṣiεqa ; / syin, ɣer Ṭṭelyan yewwi-aɣ ubrid wezzilen. / Yekfa wass ; yers-d yiḍ aberkan, / la yeddal idurar d isaffen s ucḍaḍ-is yestullsen.	samir_t	2018-12-08 14:47:02	2018-12-08 14:47:42
+48	0x30	0	1255	8442811	kab	Yettwaṭṭef Tom seg 2013.	ZiriSut	2020-01-11 09:22:20	2020-01-11 09:22:20
+49	0x31	1	967	7042308	kab	Llan 150 n yemdanen i irekben tamacint.	Amazigh_Bedar	2018-08-04 09:35:56	2018-08-04 09:35:56
+50	0x32	2	746	10776599	kab	"Tafsut taberkant" d isem i yettwafken i tmesbaniyin i d-yellan di Tmurt n Iqbayliyen gar yebrir 2001 d yebrir 2002.	Rafik	2022-04-20 15:36:17	2022-04-20 15:36:17
+51	0x33	3	386	7545640	kab	Tom, Mary, John akked Alice lulen deg 20 Tubeṛ 2013.	belkacem77	2018-11-30 11:50:07	2018-11-30 11:54:52
+52	0x34	4	189	11397374	kab	Ǧildun d ageldun aqbayli yessrumnen-iman-is ilulen di 340.	BrahimAzwawi	2022-12-31 18:19:59	2022-12-31 18:19:59
+53	0x35	5	268	9365750	kab	« Ma yella win i nettu ad ɣ-isemmeḥ. Aṭas nnayeḍ ur d-bdireɣ ara ismawen-nsen, meɛna leqdic-nsen yesɛa azal meqqṛen, ulac win ara ten-ittun. Taqbaylit d arraw-is kan ara tt-irefden », i d-yura diɣ A.Bedar, ass n 05/11/2020 deg Tatoeba s teqbaylit.	AmarMecheri	2020-11-24 02:07:25	2020-11-24 02:12:10
+54	0x36	6	163	10586012	kab	Isaked 6 neɣ 7 isebtaren ur t-qniεen ara, ur yufi ayen i s-d-yenna llina Dda Ferḥat.	belkacem77	2021-12-27 08:59:03	2021-12-27 08:59:03
+55	0x37	7	136	9841198	kab	Deg tsaεet-a tamcumt, bɣiɣ ad wen-d-smektiɣ kra seg imeslayen i d-nniɣ deg 1971, ad ten-id-iniɣ s ttawil d rrẓana tamagdezt : ur mmugeɣ ara akken mmugen ṣṣellaḥ d yemsiḥen. Mačči d timital imeɣrasen, nekk d amḥareb anmetti i d-yelhan d tuɣdaṭ i s-yefka uɣref-is.	samir_t	2021-03-13 15:49:20	2021-03-13 15:52:10
+56	0x38	8	254	8847251	kab	Yemmekta-d belli taxxamt 418 tella meẓẓiyet mliḥ yerna d tilemt.	samir_t	2020-06-15 20:08:59	2020-06-15 20:09:10
+57	0x39	9	465	9940643	kab	Luleɣ ass n 23 meɣres 1969 deg Barcelona.	Rafik	2021-04-06 13:17:58	2021-04-06 13:17:58
+58	0x3a	:	2433	8277914	kab	Akken i as-d-yules wemdakel nniḍen, asuqel mačči d tuṭṭfa n wemkan n tutlayt s tiyaḍ. D arfad ara ţ-yerfed ar unnar agraɣlan n tmusni ad as-yernu ccan, ad taweḍ ad ternu. Awi yufan ad neldi allen-nneɣ: yella umgared aqeṛḍal gar tutlayt yeţwasuqlen akked uzuzer agujil i ynekṛen tutlayt, xas fell-as i d-yewwi.	AmarMecheri	2019-10-23 14:27:36	2019-10-23 14:27:36
+59	0x3b	;	975	8662847	kab	Tixeṛ-iyi i ucekkaṛ. Ayen xedmeɣ; xedmeɣ-t acku bɣiɣ.	ZiriSut	2020-04-07 13:24:56	2020-04-07 13:24:56
 60	0x3c	<	8	10612841	kab	<<Tezgiḍ tettwaliḍ-ten?>> <<Ih, yal ass.>>	madjidoumnia	2022-01-08 11:44:15	2022-01-08 11:44:15
-61	0x3d	=	9	9328559	kab	Timri/timriwin=adɣaɣ=ablaḍ: "kkaten warrac s temriwin". Aṭṭiwen=Allen (Tiṭ): Taddart "Ṭaṭawin" deg Tunes syinna d-yekka yisem-is.	AmarMecheri	2020-11-18 21:05:29	2020-11-18 21:05:29
+61	0x3d	=	9	9328551	kab	Nnan-as i wezger: "Ḥader timri". Yenna-yasen : "Ugareɣ-ken aṭṭiwen." Timri ? Aṭṭiwen ? Timri/timriwin=adɣaɣ=ablaḍ: "kkaten warrac s temriwin". Aṭṭiwen=Allen (Tiṭ): Taddart "Ṭaṭawin" deg Tunes syinna d-yekka yisem-is.	AmarMecheri	2020-11-18 21:04:33	2020-11-18 21:04:33
 62	0x3e	>	10	8697030	kab	"Ur sεiɣ ula d ẓẓher." "Ala, tesεiḍ, aywah!>>	Massi	2020-04-20 18:48:00	2021-02-09 20:01:32
-63	0x3f	?	104720	9073759	kab	I tura ad teddum yid-sent?	Igiderilelli	2020-09-26 06:52:30	2020-09-26 06:52:30
-64	0x40	@	7	9379141	kab	Nniqal, s teqbaylit snat kan: MST (Mmuteɣ si teḍṣa!) akked tayeḍ. Yiwen was, nerna-d tiyaḍ nekk d @Tarik Tinouche. Tura, walit acḥal! Xas, rnut-d tiyiḍ, ma llant.	AmarMecheri	2020-11-25 19:54:35	2020-11-25 19:54:35
-65	0x41	A	182342	11085977	kab	Ay aḍar jbu.	Lwennas	2022-08-29 10:00:54	2022-08-29 10:00:54
-66	0x42	B	22717	10634013	kab	Beṛkamt aqeṣṣeṛ!	Igider	2022-01-21 16:29:08	2022-01-21 16:29:08
-67	0x43	C	7549	9577178	kab	Cudd isebbaḍen-ik.	Igider	2021-01-02 09:11:01	2021-01-02 09:11:01
-68	0x44	D	36293	8284012	kab	D afham i bɣiɣ ad fehmeɣ.	HocineBenamer	2019-10-25 16:32:10	2019-10-25 16:32:10
-69	0x45	E	2479	12191269	kab	Eǧǧ-iten ad ɛeddin.	Rafik	2023-12-02 20:08:24	2023-12-02 20:08:24
-70	0x46	F	8724	7468012	kab	Feṛḥeɣ mliḥ mi d-tusamt.	Igider	2018-11-16 11:43:25	2018-11-16 11:43:25
-71	0x47	G	4756	9648598	kab	Ɣeṣbeɣ ɣer Gerruma.	Igider	2021-01-14 03:14:25	2021-01-14 03:14:25
-72	0x48	H	4440	7055712	kab	Hitler yewwi Lalman ɣer ṭṭraḍ.	samir_t	2018-08-11 18:09:30	2018-08-11 18:09:30
-73	0x49	I	62991	8111248	kab	Iṛṛeẓ-am-tent.	Igider	2019-08-17 12:30:02	2023-01-12 09:49:15
-74	0x4a	J	5475	9543567	kab	Jebbuɣ ɣer Tezmalt.	imalaqvayli	2020-12-26 17:42:06	2020-12-26 17:42:06
-75	0x4b	K	10212	11432662	kab	Kečč seg Tmurt n Yizwawen?	Igider	2023-01-06 16:16:14	2023-01-06 16:16:14
-76	0x4c	L	23548	9437085	kab	Ad tinig ɣer Iɣil n Lqayed.	imalaqvayli	2020-12-05 16:29:13	2020-12-05 16:29:13
-77	0x4d	M	36711	9403262	kab	Ur tewwiḍ ara ɣer At Mlikec.	imalaqvayli	2020-11-29 15:24:02	2020-11-29 15:24:02
-78	0x4e	N	32048	9403367	kab	Neqqel ɣer Tizi n Beṛbeṛ.	imalaqvayli	2020-11-29 15:31:01	2020-11-29 15:31:01
-79	0x4f	O	367	9403239	kab	Yunag d twacult-is ar Oslo.	Iflis_Illel	2020-11-29 15:22:05	2020-11-29 15:22:05
-80	0x50	P	865	7465611	kab	Rziɣ fell-as kra n tikwal mi lliɣ akken deg Paris.	samir_t	2018-11-15 16:17:19	2018-11-15 16:17:19
-81	0x51	Q	5806	9208643	kab	Qelɛeɣ-am-t.	Igider	2020-10-30 13:04:38	2020-10-30 13:04:38
-82	0x52	R	14210	9332393	kab	Rewlent ɣer Tinzawatin.	yiwenkan	2020-11-19 13:58:57	2020-11-19 13:58:57
-83	0x53	S	49608	9716223	kab	Ssutremt-d asuref.	Igider	2021-02-03 20:38:40	2021-02-03 20:39:29
-84	0x54	T	222410	9457469	kab	Ttwalint anda i ɣ-yessaweḍ!	Igider	2020-12-09 23:56:32	2020-12-09 23:56:32
-85	0x55	U	102812	8289446	kab	Ur yezmir ara Tom ad yexdem aya war tallelt.	K_hina	2019-10-28 13:13:53	2019-10-28 13:13:53
-86	0x56	V	286	9407526	kab	Tili amek ara ad naru COVID-19 s teqbaylit?	Iflis_Illel	2020-11-29 21:07:05	2020-11-29 21:07:05
-87	0x57	W	23769	9470886	kab	Azzlet ɣer Wekfadu.	imalaqvayli	2020-12-12 22:50:58	2020-12-12 22:50:58
-88	0x58	X	6836	8337910	kab	Xedmen am ddeqs n tzizwa.	belkacem77	2019-11-21 21:15:21	2019-11-21 21:15:21
-89	0x59	Y	64267	11312088	kab	Yebda-d yagi usaru-nni?	Igider	2022-12-09 12:28:12	2022-12-09 12:28:12
-90	0x5a	Z	10723	9401264	kab	Zreb ɣer Leflay.	imalaqvayli	2020-11-29 12:27:13	2020-11-29 12:27:13
-91	0x5b	[	36	8167884	kab	Ma nkemmel-iţ akken tella [Win ur nella yid-i, ur d aqbayli], ha-t-an ad aɣ-sekfen icenga-nneɣ wukud nuɣ tannumi neţemčaqlal.	AmarMecheri	2019-09-05 22:04:03	2019-09-05 22:04:03
-93	0x5d	]	36	9329286	kab	Tadakemt d-luḍa n ufus (paume (fr), palm [en]). Tidikelt, idikel, diɣ tisikelt (contenance [fr], handle [en]), d taččart n ufus s weḍlaq n iḍudan. D amud yeţţawin tagella. D ayen ara teddem, ara tawi tdakumt. Uraw (mains jointes [fr], folded hands [en]) d asemlili n sin ifassen yeččuṛen.	AmarMecheri	2020-11-18 22:35:37	2020-11-18 22:35:37
+63	0x3f	?	104847	11132232	kab	Anwa i as-yennan ad tuɣalem akka?	Igider	2022-09-20 22:44:08	2022-09-20 22:44:08
+64	0x40	@	7	9379096	kab	Nniqal, s teqbaylit snat kan: MST (Mmuteɣ si teḍṣa!) akked tayeḍ. Yiwen was, nerna-d tiyaḍ nekk d @Tarik Tinouche. Tura, walit acḥal! Xas, rnut-d tiyiḍ, ma llant. GM. Kra, ad d-zuxxeɣ, fkiɣ-tent-id i Tarik, ɛeǧbent-as. Wissen ma yecfa? Ɛreḍ seqdec aforma i d-fkiɣ, ma yella wamek. Ɛerḍet ad tesqedcem aforma i d-fkiɣ, ma yella wamek. Ɛerḍemt ad tesqedcemt aforma i d-fkiɣ, ma yella wamek.	AmarMecheri	2020-11-25 19:47:35	2020-11-25 19:50:23
+65	0x41	A	182498	10034599	kab	Ad teddu ɣer Iɣil n Lqayed.	imalaqvayli	2021-05-14 18:57:13	2021-05-14 18:57:13
+66	0x42	B	22736	7823884	kab	Bɣiɣ ad ten-waliɣ mi ara kerrzen.	K_hina	2019-03-24 22:10:09	2019-03-24 22:10:09
+67	0x43	C	7554	9267485	kab	Ceɛɛlet-as ɣer Tawrirt Ɛemṛan.	imalaqvayli	2020-11-09 14:43:35	2020-11-14 14:44:23
+68	0x44	D	36353	9352373	kab	Deg taddart i tufiḍ ayen triḍ.	Iflis_Illel	2020-11-21 23:02:29	2020-11-21 23:02:29
+69	0x45	E	2480	10511762	kab	Els akebbuḍ n waman.	samir_t	2021-11-16 12:15:30	2021-11-16 12:15:30
+70	0x46	F	8729	7409269	kab	Fernemt!	Igider	2018-11-03 05:45:32	2018-11-03 05:45:32
+71	0x47	G	4761	9276562	kab	Ggulleɣ ur yezdiɣ deg carεiwen.	BenkerouHani	2020-11-10 19:15:18	2020-11-10 19:15:18
+72	0x48	H	4441	9319486	kab	Hummemt ihi ɣer Warzazat.	Selyan	2020-11-17 20:01:28	2020-11-17 20:01:28
+73	0x49	I	63036	11435075	kab	Iḍan akk ḥwajen aṭas n tayri.	Igider	2023-01-07 09:57:51	2023-01-07 09:57:51
+74	0x4a	J	5480	9276362	kab	Ad nerkeb ɣer At Jlil.	imalaqvayli	2020-11-10 18:53:47	2020-11-14 14:46:14
+75	0x4b	K	10228	9598047	kab	Ur tɛeddam ara ɣer Kendira.	imalaqvayli	2021-01-06 20:08:08	2021-01-06 20:08:08
+76	0x4c	L	23572	9336170	kab	Ur rriɣ ara ɣer At Laḥsen.	Igider	2020-11-20 00:12:48	2020-11-20 00:12:48
+77	0x4d	M	36751	9971554	kab	Mi iεedda uɣurar, iɣelli-d ugeffur amzun d ifassen i yettserfiqen.	samir_t	2021-04-19 17:47:27	2021-04-19 17:47:27
+78	0x4e	N	32094	9666528	kab	Nettinig ɣer Taknarit.	yiwenkan	2021-01-16 17:41:42	2021-01-16 17:41:42
+79	0x4f	O	367	8367946	kab	Yella yiminig i iteddun deg tiliɣri Anroid neɣ iOS s teqbaylit?	belkacem77	2019-12-06 10:07:35	2019-12-06 10:07:35
+80	0x50	P	866	9239792	kab	Tmerrḥemt yid-sen ar Paris.	Yazid_Bouhamam	2020-11-04 18:05:12	2020-11-04 18:05:12
+81	0x51	Q	5817	8298500	kab	Qeṛseɣ.	alemfarid	2019-11-01 16:53:50	2019-11-01 16:53:50
+82	0x52	R	14227	11401438	kab	Rdan-t.	Igider	2023-01-01 14:56:47	2023-01-01 14:56:47
+83	0x53	S	49643	12201363	kab	Ssawḍen tamurt ɣer wecruf.	Lwennas	2023-12-09 08:49:06	2023-12-09 08:49:06
+84	0x54	T	222593	12160251	kab	Tom icennu d yiwet n tegrawt.	LdjuherTaqvaylit	2023-11-13 19:19:05	2023-11-13 19:19:05
+85	0x55	U	102943	9921136	kab	Ad yeddu ɣer Suq Ufella.	imalaqvayli	2021-03-28 21:19:35	2021-03-28 21:19:35
+86	0x56	V	286	7533742	kab	Ɣer Vancouver ara ad ṛuḥemt azekka?	Igider	2018-11-28 16:21:49	2018-11-28 16:21:49
+87	0x57	W	23790	7451069	kab	Wehmen.	samir_t	2018-11-11 14:02:38	2018-11-11 14:02:38
+88	0x58	X	6843	11192763	kab	Xezrent-t mliḥ.	imalaqvayli	2022-10-19 22:20:15	2022-10-19 22:20:15
+89	0x59	Y	64338	9105906	kab	Yufa-d lḥal txelleṣ-asent-tt.	Igider	2020-10-04 21:56:07	2020-10-04 21:56:07
+90	0x5a	Z	10727	11287822	kab	Zemreɣ ad reḍleɣ asidi-a?	Igider	2022-12-03 09:02:46	2022-12-03 09:02:46
+91	0x5b	[	36	9181791	kab	Tadakemt d-luḍa n ufus (paume (fr), palm [en]). Tidikelt, idikel, diɣ tisikelt (contenance [fr], handle [en] *), d taččart n ufus s weḍlaq n iḍudan. D amud yeţţawin tagella. D ayen ara teddem, ara tawi tdakumt. Uraw (mains jointes [fr], folded hands [en]) d asemlili n sin ifassen yeččuṛen.	AmarMecheri	2020-10-23 18:42:30	2020-10-23 18:57:36
+93	0x5d	]	36	9329291	kab	Tidikelt, idikel, diɣ tisikelt (contenance [fr], handle [en]), d taččart n ufus s weḍlaq n iḍudan. D amud yeţţawin tagella. D ayen ara teddem, ara tawi tdakumt. Uraw (mains jointes [fr], folded hands [en]) d asemlili n sin ifassen yeččuṛen.	AmarMecheri	2020-11-18 22:36:09	2020-11-18 22:36:09
 94	0x5e	^	1	10460731	kab	Swiɣ ^halami sekṛeɣ.	Marzuquccen	2021-10-25 16:41:51	2021-10-25 17:11:39
-95	0x5f	_	35	6712023	kab	Ag_d heggiɣ ayen ad teččeḍ.	amazigh84	2018-02-25 12:46:07	2018-02-26 08:26:31
+95	0x5f	_	35	9227629	kab	Mazal ur walainsert_to_tatoeba.py ara amsideg-nni.	Yazid_Bouhamam	2020-11-01 22:15:53	2020-11-01 22:15:53
 96	0x60	`	1	11593342	kab	Kkes wa, err wa`	LdjuherTaqvaylit	2023-03-13 18:32:30	2023-03-13 18:32:30
-97	0x61	a	1860726	11424112	kab	Lmeɛna-s ad yuɣal d agensay.	Igider	2023-01-05 09:58:38	2023-01-05 09:58:38
-98	0x62	b	230728	8255008	kab	Tettbanem-d tferḥem s tidet tasebḥit-a.	K_hina	2019-10-14 20:44:44	2019-10-14 20:44:44
-99	0x63	c	129512	8147657	kab	Iqucc-akent-ten.	Igider	2019-08-31 08:02:45	2019-08-31 08:02:45
-100	0x64	d	726364	9642083	kab	Degmi ur d-teddimemt ara aspagiti?	Igider	2021-01-13 15:21:25	2021-01-13 15:21:25
-101	0x65	e	1989273	9244501	kab	At Ɛenṭar d taɣiwant n At nnif.	Igider	2020-11-05 17:30:37	2020-11-05 17:30:37
-102	0x66	f	223739	11172917	kab	Tanemmirt ɣef temlilit yid-neɣ ass-agi.	nnaser_uqemmum	2022-10-13 00:18:52	2022-10-13 00:18:52
-103	0x67	g	211298	7683618	kab	Tesgugmemt-ten.	Igider	2019-01-04 08:02:18	2019-01-04 08:02:18
-104	0x68	h	78667	9573045	kab	I nekk i wumi i d-heddṛeḍ akka?	Igider	2021-01-01 13:15:41	2021-01-01 13:15:41
-105	0x69	i	1259200	12229467	kab	Tettnadim axedim.	Aghanim	2023-12-25 07:45:59	2023-12-25 07:45:59
-106	0x6a	j	35793	11369341	kab	Teḥwajeḍ tiririyin, naɣ?	Igider	2022-12-25 07:56:25	2022-12-25 07:56:25
-107	0x6b	k	396178	9306791	kab	Amek akken ara ad naru amussu aqbaylit s tespenyulit?	Igider	2020-11-15 20:09:03	2020-11-15 20:09:03
-108	0x6c	l	628499	9148178	kab	Fkant ihi azaliɣ i yelli-tsen.	Igider	2020-10-15 21:10:51	2020-10-15 21:10:51
-109	0x6d	m	648294	9535816	kab	Tili amek ara ad tessuqlemt agu ɣer taṭurkit?	Igider	2020-12-25 10:30:55	2020-12-25 10:30:55
-110	0x6e	n	1067286	11405063	kab	Neɣ s wawal-nniḍen, ma nezmer ad neselmed s tmaziɣt neɣ mazal ad neqqim kan deg uselmed-ines?	Igider	2023-01-02 14:04:44	2023-01-02 14:04:44
-111	0x6f	o	26539	10027787	kab	Tom yal ass yettlus acapun.	samir_t	2021-05-12 17:13:14	2021-05-12 17:13:14
-112	0x70	p	6420	9376498	kab	Amek dɣa ara kettbent tigit n tawalt s tfilippinit?	Igider	2020-11-25 14:24:06	2020-11-25 14:24:06
-113	0x71	q	159985	11308108	kab	Ilaq ad d-nerr akk insayen-nneɣ.	Igider	2022-12-08 09:10:40	2022-12-08 09:10:40
-114	0x72	r	960635	9071097	kab	Ur ssqedcent ara tamacint-nni yid-sent.	Igider	2020-09-25 10:58:25	2020-09-25 10:58:25
-115	0x73	s	593473	7430217	kab	Els apijama-inek tεeddiḍ ɣer wusu.	samir_t	2018-11-08 11:37:50	2018-11-08 11:37:50
-116	0x74	t	1179493	11393849	kab	Sfehmen-as tamsalt i Dalila.	Igider	2022-12-30 18:46:35	2022-12-30 18:46:35
-117	0x75	u	527385	8322506	kab	Theddreḍ s leεqel maḍi armi ur ssawḍeɣ ad d-sleɣ acu i d-teqqareḍ.	samir_t	2019-11-13 20:24:42	2019-11-13 20:24:42
-118	0x76	v	3948	9766670	kab	Yenna-yi-d Tom yella wamek ara tekruḍ avilu.	samir_t	2021-02-15 19:47:20	2021-02-15 19:47:28
-119	0x77	w	294001	9166181	kab	Sseɣtaɣ-awen-ten akken ilaq.	Igider	2020-10-20 08:50:39	2020-10-20 08:50:39
-120	0x78	x	63937	11365817	kab	Ttxil-k, fhem aya.	Igider	2022-12-24 12:41:31	2022-12-24 12:41:31
-121	0x79	y	335153	11952490	kab	Ad iyi-d-tefkem iṣuṛdiyen?	Rafik	2023-07-23 20:13:20	2023-07-23 20:13:20
-122	0x7a	z	177330	12250502	kab	Ɣezzif kan, ur meqqer ara.	Aghanim	2024-01-04 06:13:49	2024-01-04 06:13:57
+97	0x61	a	1863285	8746539	kab	Iwacu ur d-nbeddu ara seg tazwara?	samir_t	2020-05-08 11:30:47	2020-05-08 11:30:47
+98	0x62	b	230948	11321684	kab	Ur rǧiɣ ara deg uɣerbaz.	Igider	2022-12-12 14:08:03	2022-12-12 14:08:03
+99	0x63	c	129683	9297492	kab	Ur ddehment ara ɣer Ixdacen.	Igider	2020-11-14 15:16:00	2020-11-14 15:16:00
+100	0x64	d	727346	9388516	kab	Ad ssikleɣ ɣer Tala Ḥemza.	imalaqvayli	2020-11-27 11:32:05	2020-11-27 11:32:05
+101	0x65	e	1991714	9607878	kab	Mazal ad ččen tabesbast.	Igider	2021-01-07 19:15:28	2021-01-07 19:15:28
+102	0x66	f	224002	9241578	kab	Tesraffeg ar Niagara.	Yazid_Bouhamam	2020-11-05 08:44:49	2020-11-05 08:44:49
+103	0x67	g	211601	7549604	kab	Ilaq-am urijim seg tura.	Igider	2018-12-02 08:54:38	2018-12-02 08:54:38
+104	0x68	h	78741	8717952	kab	Nesɛa asiher akked uselway n tɣiwant.	Rafik	2020-04-26 11:00:10	2020-04-26 11:00:10
+105	0x69	i	1260786	9336357	kab	Ad iɣiwel ɣer Iɣil Igelmimen.	Igider	2020-11-20 00:50:12	2020-11-20 00:50:12
+106	0x6a	j	35822	9530407	kab	Tili yella wamek ara ad ketbeɣ tasnagrawt s tnurvijit?	Igider	2020-12-24 08:54:47	2020-12-24 08:54:47
+107	0x6b	k	396744	9120184	kab	Ad ssiklent ɣer Taza.	yiwenkan	2020-10-08 06:19:26	2020-10-08 06:19:26
+108	0x6c	l	629333	11262886	kab	Terna fell-am tqendurt-a.	Rafik	2022-11-22 16:32:29	2022-11-22 16:32:29
+109	0x6d	m	649164	11417346	kab	Mbeɛd talalit n Nuḥ, Limix iɛac xems meyya u xemsa u ttsɛin n iseggasen, yerna yesɛa-d arrac akked tullas.	Igider	2023-01-04 11:01:40	2023-01-04 11:01:40
+110	0x6e	n	1068627	7366029	kab	Acu kan fell-ak kečči, ilaq ad temlileḍ dinna.	samir_t	2018-10-31 18:44:06	2018-10-31 18:44:06
+111	0x6f	o	26602	7239651	kab	Ur ɛeṭṭleɣ ara aṭas di Boston.	HocineBenamer	2018-09-30 20:44:18	2018-09-30 20:45:04
+112	0x70	p	6425	9500675	kab	Yella wamek ara ad yaru ilel s tfilippinit?	Igider	2020-12-19 01:00:20	2020-12-19 01:00:20
+113	0x71	q	160200	11364951	kab	Ufiɣ anzaḍ di lqut, qrib i d-rriɣ.	LdjuherTaqvaylit	2022-12-23 23:56:37	2022-12-23 23:58:55
+114	0x72	r	961645	9340051	kab	Ur nerri ara ɣer Tiqenṭeṛt.	Igider	2020-11-20 14:10:26	2020-11-20 14:10:26
+115	0x73	s	594269	9090199	kab	Mmlen-asent axxam-nsen.	Igider	2020-10-01 10:27:16	2020-10-01 10:27:16
+116	0x74	t	1180630	10044733	kab	Lehna ɣur wid izewǧen, akken ma tella d tamsalt n ẓẓher kan.	samir_t	2021-05-17 21:15:05	2021-05-17 21:15:05
+117	0x75	u	528090	11039134	kab	I wacu-t ujeṛṛiḍ-a?	Rafik	2022-08-02 10:42:50	2022-08-02 10:42:50
+118	0x76	v	3948	7479977	kab	Ad yili d avirus kan.	samir_t	2018-11-17 23:52:07	2018-11-17 23:52:07
+119	0x77	w	294407	10030581	kab	Tom yella yewqeɛ sdaxel.	Rafik	2021-05-13 15:38:31	2021-05-13 15:38:31
+120	0x78	x	64058	11314271	kab	Ttxemmiment akk fell-am.	Igider	2022-12-10 02:52:48	2022-12-26 18:50:35
+121	0x79	y	335752	9938943	kab	Ansa i d-yekka waya?	Rafik	2021-04-05 14:11:42	2021-04-05 14:11:42
+122	0x7a	z	177478	9650848	kab	Rezzun ɣer Suq Ufella.	imalaqvayli	2021-01-14 15:02:06	2021-01-14 15:02:06
 126	0x7e	~	2	7158061	kab	Tamdint tatunsit Sfax teţusemma ar Syphax (~250 - ~202 s.t.-S-Ɛ), agellid amaziɣ aMassaysyl aneggaru.	AmarMecheri	2018-09-15 17:45:23	2018-09-15 22:08:14
-160	0xa0	 	448	8186744	kab	Tessneḍ taqbaylit!	ZiriSut	2019-09-14 12:53:11	2019-09-14 12:53:11
-171	0xab	«	206	9365741	kab	« Taqbaylit d arraw-is kan ara tt-irefden. Tanemmirt tameqqṛant i widak iqeddcen ussan-a s waṭas deg Tatoeba. Bɣiɣ ad d-fkeɣ kra n yismawen n yemdanen iwumi ara nini ‘tanemmirt tameqqṛant’, meɛna ma yella win i ttuɣ ad iyi-isemmeḥ: Muḥend Belqasem Aqemmud, Igider Budo d Massa Tigidert, Slimane Selyan Amiri , Imal Aqvayli (tamacint n usdegdeg), Yazid Iflis (Tamacint n usdegdeg tis 2), Samir Tighzert , Malek Houd , Dda Amar Mecheri , Kahina Messaoudi , Farid At Musa , Rafik Haddadene , Hacene Hocine Kacete , d nekki Amazigh Bedar ... Ma yella win i nettu ad ɣ-isemmeḥ. Aṭas nnayeḍ ur d-bdireɣ ara ismawen-nsen, meɛna leqdic-nsen yesɛa azal meqqṛen, ulac win ara ten-ittun. Taqbaylit d arraw-is kan ara tt-irefden », i d-yura diɣ A.Bedar, ass n 05/11/2020 deg Tatoeba s teqbaylit.	AmarMecheri	2020-11-24 02:05:11	2020-11-24 02:13:24
-176	0xb0	°	11	8307507	kab	Meskud ur ṭerḍiqent ara, akk labes! Tagi d tamɛayt af tmellalin yuker yiwen i tḍeggalt-is, yerra-tent ar yirrij n tmes n ukanun ad wwent, imir tufa-t-id, dɣa ulamek ara tent-id yeddem; d wakken i as-inna akka imi i tid-isteqsa ma ur tyuɣ wara! Axaṭeṛ mer ad d-ṭarḍqent, ad as-tfiq. Amek ihi, ssneɣ ad d-ḥkuɣ neɣ aha°?	AmarMecheri	2019-11-07 00:36:28	2019-11-07 00:37:53
-178	0xb2	²	3	9079538	kab	D Vatikan yesεan 0.44 km² i d tamurt tamecṭuḥt maḍi deg umaḍal.	samir_t	2020-09-27 10:31:58	2020-09-27 10:35:15
-187	0xbb	»	203	8401907	kab	Yenna-yas daɣen : « Mačči d tagi i d tallit deg yessefk ad d-aseɣ.»	Amazigh7	2019-12-24 15:33:52	2019-12-24 15:33:52
-192	0xc0	À	3	8326018	kab	Ah, tḥemmleḍ-iyi am tḥemmalt mara d-tɛeddi: ulanda ara nejgugel! À ssiɛqa!	AmarMecheri	2019-11-15 22:04:05	2019-11-15 22:04:05
+160	0xa0	 	448	8505692	kab	Qqaṛen-as diɣen yeqbayliyen: "Awal ẓiden yenɣa tafrut." neɣ "Awal ẓiden yugar tafrut."	AmarMecheri	2020-02-02 08:18:13	2020-02-02 08:18:34
+171	0xab	«	208	8087745	kab	« Anda-t tilifu-inu ? » - « Atan ɣef tnarit-iw. »	samir_t	2019-08-02 16:35:04	2019-08-02 16:35:04
+176	0xb0	°	11	11204718	kab	Tafesna n tegnawt tameqrant n yiḍelli d 37°C.	Wnisa_sissa	2022-10-24 20:24:57	2022-10-25 09:21:31
+178	0xb2	²	3	11396318	kab	Libya d tamurt d-yezgan di tefriqt ugafa, tesɛa 1,759,540 ikilumitren², tettwazdeɣ s wazal n 6 yimleyan, amur ameqran d aneẓruf, isem ines unṣib : tajamahirit...	BrahimAzwawi	2022-12-31 11:08:29	2022-12-31 11:08:29
+187	0xbb	»	205	9365754	kab	« Taqbaylit d arraw-is kan ara tt-irefden », i d-yura diɣ A.Bedar, ass n 05/11/2020.	AmarMecheri	2020-11-24 02:09:03	2020-11-24 02:09:03
+192	0xc0	À	3	9246580	kab	Àsmit almlt a-wi-ćan tasa w-gtit	Mohand_Uxarvec	2020-11-06 04:25:23	2020-11-06 04:25:23
 196	0xc4	Ä	1	10741812	kab	Äkken kan fukken yimuras n Nwal.	madjidoumnia	2022-03-28 12:10:11	2022-03-28 12:10:11
 199	0xc7	Ç	1	10632940	kab	Teţzeḥlelli, am tjeḥniḍt n waydi. Teţzeḥlelli, am tṛaṭṭiwt n waydi. Ça va, ça vient, comme la queue du chien. It goes, it comes, like the tail of the dog.	AmarMecheri	2022-01-20 20:36:19	2022-01-20 20:36:19
-201	0xc9	É	6	9581066	kab	És descabellat!	AmarMecheri	2021-01-02 19:35:45	2021-01-02 19:35:45
+201	0xc9	É	6	8749435	kab	D Émile Zola i yuran ungal-ayi.	samir_t	2020-05-09 14:03:03	2020-07-17 12:07:33
 207	0xcf	Ï	1	9463585	kab	Teɣṛamt kra n udlis n TolstoÏ?	Igider	2020-12-11 15:20:51	2020-12-11 15:20:51
 223	0xdf	ß	1	7090847	kab	ß ulac-it deg unasiw n Sswis.	samir_t	2018-08-25 18:26:37	2018-08-25 18:26:37
 224	0xe0	à	8	11117679	kab	Ṛwiɣ à steɛfu.	Igider	2022-09-14 23:17:46	2022-09-14 23:17:46
-225	0xe1	á	4	10785889	kab	Tamyurart n ṭṭrenǧ tahungrit Judit Polgár tettwaḥsab d nettat i d tamyurart iǧehden akk deg umezruy n ṭṭrenǧ. Ula d isetmas Zsófia d Zsuzsa tettunefk-asent- mliḥ.	samir_t	2022-04-25 16:55:09	2022-04-25 16:55:09
-226	0xe2	â	3	9829642	kab	Yal taṣebḥit lliɣ ttruḥeɣ ad d-ccfeɣ deg lebḥer n Château-Vert, dɣa ẓerreɣ ɣer lebεid tigzirin-nni yettaḍsan deg uxliǧ akken ara iliɣ tteccfeɣ.	samir_t	2021-03-07 14:56:13	2021-03-07 14:57:46
+225	0xe1	á	4	8417937	kab	Ulac din ccekk belli yeεlem Juárez.	samir_t	2019-12-30 20:17:45	2019-12-30 20:18:25
+226	0xe2	â	3	11319656	kab	Ad iruḥ Carlos ɣer Sâo Paulo ass n wahad.	madjidoumnia	2022-12-11 19:43:09	2022-12-11 19:43:09
 227	0xe3	ã	2	12079983	kab	D bab n rebεa lfirmat tigeεmura deg ugensu n São Paulo.	samir_t	2023-09-26 10:37:13	2023-09-26 10:47:05
 228	0xe4	ä	1	8200084	kab	Terriḍ-as yakan sslam i Pfirsichbäumchen s talmanit?	samir_t	2019-09-20 20:40:01	2019-09-20 20:40:01
-231	0xe7	ç	6	9390457	kab	Ula d keçç ur txuṣad ara.	AmarMecheri	2020-11-27 15:21:42	2020-11-27 15:21:42
-232	0xe8	è	35	8955867	kab	Yenna-t-id Aristotélès: "Ungif yeţnamar, amusnaw yeţkukru, ukyis yeţxemmim."	AmarMecheri	2020-08-03 02:54:17	2020-08-03 02:54:17
-233	0xe9	é	125	9539378	kab	Vladimir Jankélévitch d afelsaf yuran aṭas ɣef tikli lɛali.	Igider	2020-12-25 21:56:11	2020-12-26 09:32:30
+231	0xe7	ç	6	10629122	kab	Ad yinig ar tmurt n Fṛança deg wayyur n fuṛar.	madjidoumnia	2022-01-18 09:37:32	2022-01-18 09:37:32
+232	0xe8	è	35	7545625	kab	Ɣurèneɣ arma d Tubeṛ akken ad nfak aɣawas-nneɣ.	belkacem77	2018-11-30 11:50:05	2018-11-30 11:50:05
+233	0xe9	é	125	8893758	kab	José d tarflest i yextar yerna werǧin i yendem.	samir_t	2020-07-05 11:21:49	2020-07-05 11:21:49
 234	0xea	ê	4	12189149	kab	Vous êtes retournées à Chemini.	slahatuvelli	2023-12-01 17:08:56	2023-12-01 17:08:56
-235	0xeb	ë	12	10849929	kab	Yiwet n taɣaṭ d mmi-s, i yellan εlullqen deg yiẓra amzun d kra i ten-iseḥḥren, wten-d s tburejqella armi d-rsen ɣef yiwet n ṭṭabla n ugranit ɣer yiri n Raphaël, ad s-tiniḍ la t-steqsayen.	samir_t	2022-05-22 22:00:53	2022-05-22 22:06:09
+235	0xeb	ë	12	7523103	kab	Raël d Muḥemmed d yiwen yiswi i yesɛan: akellex akked lxalat, maca Raël ur yenɣi yiwen!	Igider	2018-11-24 10:56:52	2018-11-24 11:01:09
 237	0xed	í	6	8577238	kab	Ur tewjid ara María.	samir_t	2020-02-25 18:16:03	2020-02-25 18:16:07
-238	0xee	î	2	9663104	kab	Anda-tt Nîmes?	BilalBouy	2021-01-15 10:15:20	2023-01-17 18:38:02
-239	0xef	ï	41	7068455	kab	Hokkaïdo atta ɣer tama ugafa n Japun.	samir_t	2018-08-18 09:51:32	2018-08-18 09:51:32
+238	0xee	î	2	7412053	kab	Azekka ad iṛuḥ Tom ɣer Nîmes.	Igider	2018-11-03 19:49:08	2018-11-03 19:49:08
+239	0xef	ï	41	9447959	kab	Tumneḍ Laïza imir-n.	Igider	2020-12-08 03:21:54	2020-12-08 03:21:54
 241	0xf1	ñ	1	9141899	kab	"Idammen d yijdi", d azwael n yiwet n tullist n Blasco Ibáñez.	samir_t	2020-10-13 18:40:49	2020-10-13 18:41:00
-243	0xf3	ó	6	11450539	kab	Ur y-isumeḥ ara uselmad Gómez ɣef wagul-iw.	samir_t	2023-01-10 13:38:21	2023-01-10 13:46:13
-244	0xf4	ô	7	9358695	kab	I ma yella d win yesnusun medden deg usensu (hôtel, auberge), wer yeţţusemma d ameɛraḍ? Ulamek!	AmarMecheri	2020-11-22 19:12:49	2020-11-22 19:12:49
-246	0xf6	ö	3	8271721	kab	Deg yiwet n tiɣilt, ar zdat, tettban-d taddart n Schöngraben.	alemfarid	2019-10-20 22:54:54	2019-10-20 22:54:54
+243	0xf3	ó	6	8901512	kab	Imeyyez-d Shinichiro Watanabe ad d-yessufeɣ unuɣen yeddren ɣef Cristóbal Colón, maca yufa ɣer tagara belli ula d asaru n wunuɣen ur yessawaḍ ara ad d-yerr azal n wayen akk i iga Colón.	samir_t	2020-07-08 19:40:47	2020-07-08 19:40:47
+244	0xf4	ô	7	9358715	kab	I ma yella d win yesnusun medden deg usensu (hôtel, auberge), wer yeţţusemma d ameɛraḍ?	AmarMecheri	2020-11-22 19:14:33	2020-11-22 19:14:33
+246	0xf6	ö	3	12163186	kab	Aql-i ssemḥaseɣ i tezlit taneggarut n Björk.	Rafik	2023-11-15 20:16:18	2023-11-15 20:16:18
 248	0xf8	ø	1	8161643	kab	Ole Einar Bjørndalen yewwi 13 n cciεat tulampiyin.	samir_t	2019-09-03 09:17:34	2019-09-03 09:17:34
-249	0xf9	ù	3	8442822	kab	Ɛerḍeùt ad txedmemt ugar tikkelt i d-iteddun.	ZiriSut	2020-01-11 09:41:18	2020-01-11 09:41:18
+249	0xf9	ù	3	8227327	kab	Yerna iḥun Rebbi , iweṣṣa-t uùmɣar ad d-yawi ayen ẓiden akk!	belkacem77	2019-10-03 09:02:20	2019-10-03 09:02:20
 250	0xfa	ú	1	11916992	kab	D tidet iriḥ Raúl ad yehder yid-sen?	samir_t	2023-07-08 16:04:09	2023-07-08 16:24:08
 251	0xfb	û	1	8035925	kab	Ɣilleɣ deg Jaûn kan i ttekksen medden isebbaḍen-nsen deg uxxam.	samir_t	2019-07-09 16:08:48	2019-07-09 16:08:48
-252	0xfc	ü	2	10654326	kab	Tamaneɣt n Baden-Württemberg d Stuttgart.	Agag	2022-02-01 18:51:01	2022-02-01 18:51:01
+252	0xfc	ü	2	9469423	kab	D idlisen n Jürgen Habermas ar ad tent-inefɛen mačči d aɣmis n Ccuṛuq!	Igider	2020-12-12 19:41:09	2020-12-12 19:41:09
 263	0x107	ć	1	9246580	kab	Àsmit almlt a-wi-ćan tasa w-gtit	Mohand_Uxarvec	2020-11-06 04:25:23	2020-11-06 04:25:23
 265	0x109	ĉ	2	7257311	kab	D lawan ad neĉĉ.	HocineBenamer	2018-10-05 20:18:57	2018-10-05 20:18:57
-268	0x10c	Č	1678	9163016	kab	Ččuṛen-am-tt d acedluḥ.	Igider	2020-10-19 09:45:45	2020-10-19 09:45:45
-269	0x10d	č	47908	9341038	kab	Kečč d azuran?	Igider	2020-11-20 16:10:02	2020-11-20 16:10:02
+268	0x10c	Č	1681	9611809	kab	Ččant ticcert imir-n.	Igider	2021-01-08 09:20:32	2021-01-08 09:20:32
+269	0x10d	č	48010	9451585	kab	Kečč d bubul!	Igider	2020-12-08 18:40:35	2020-12-08 18:40:35
 281	0x119	ę	3	7844061	kab	Din iyi-d tufiḍ tęǧbeɣ.	AmarMecheri	2019-04-10 04:06:09	2019-04-10 04:06:09
-286	0x11e	Ğ	6	11285623	kab	Ğǧet-iyi abrid ad ɛeddiɣ, ayen ara yi-tagadem?	Igider	2022-12-02 22:22:17	2023-02-11 18:34:15
-287	0x11f	ğ	117	8692959	kab	Ttrağun.	Massi	2020-04-19 16:09:52	2020-04-19 16:09:52
-289	0x121	ġ	3	10572440	kab	Ur ţġemmin kra mara d-sfeqden ibeccan.	AmarMecheri	2021-12-21 10:07:00	2021-12-21 10:07:00
+286	0x11e	Ğ	6	11111919	kab	Ğğiγ-am talwit.	BahiaChalah	2022-09-11 19:15:05	2022-09-11 19:15:05
+287	0x11f	ğ	117	7102073	kab	Rwel skud teğğuğegeḍ.	AmarMecheri	2018-08-29 21:58:35	2019-01-23 21:24:27
+289	0x121	ġ	3	10625364	kab	Ur ţġemmin kra mara d-awḍen ibeccan.	AmarMecheri	2022-01-15 22:43:58	2022-01-15 22:43:58
 300	0x12c	Ĭ	1	10784851	kab	Ĭtett Jean taččinat-is.	madjidoumnia	2022-04-25 07:09:22	2022-04-25 07:09:22
 304	0x130	İ	2	9205293	kab	İɛedda uɛejmi deg uẓeṭṭa. Melmi i t-qqaṛen? Ihi? Ah: Ticki i terwi tebberwi aneɣ teksa mebla ameksa.	AmarMecheri	2020-10-29 16:22:40	2020-10-29 16:22:40
 339	0x153	œ	2	11250471	kab	Nos cœurs sont associés.	Aznay	2022-11-15 18:44:49	2022-11-15 18:44:49
 344	0x158	Ř	2	9071690	kab	Řwaḥ !	Alizen	2020-09-25 16:19:18	2020-09-25 16:19:18
 351	0x15f	ş	1	10553724	kab	Ţaḍşan zik fell-i mara ssentuɣ acciwen-iw deg tfelwit taberkant anda ţaruɣ.	AmarMecheri	2021-12-10 12:10:37	2021-12-10 12:10:37
-354	0x162	Ţ	100	7098757	kab	Ţuɣiḍen wid ur yeţɣiḍi yiwen; ahat.	AmarMecheri	2018-08-28 10:06:25	2019-01-23 21:24:26
-355	0x163	ţ	3725	8648983	kab	Haţan tefyirt nniḍen.	AmarMecheri	2020-03-31 22:09:45	2020-03-31 22:09:45
+354	0x162	Ţ	100	7087971	kab	Ţţi-d.	AmarMecheri	2018-08-24 22:20:56	2018-08-24 22:20:56
+355	0x163	ţ	3725	8248393	kab	Asaflaw d afrux id-iţţasen deg iweǧǧiben, di ḥertadem. Inna-tid wemdakel. U yerna-d: aṭas i yellan deg-sen.	AmarMecheri	2019-10-12 02:30:49	2019-10-12 02:31:07
 381	0x17d	Ž	1	9513961	kab	Anta taggagt ur neɣṛi idlisen n Slavoj Žižek?	Igider	2020-12-21 16:24:14	2020-12-21 16:24:14
 382	0x17e	ž	5	8942357	kab	Iles yellan d aksum, yuɣal igežžem am lmus.	AmarMecheri	2020-07-26 20:07:56	2020-07-26 20:11:11
-400	0x190	Ɛ	13364	9266012	kab	Ɛeddant ihi ɣer Taza.	Selyan	2020-11-09 12:06:14	2020-11-09 12:06:14
-404	0x194	Ɣ	9364	10526466	kab	Ɣriɣ tadyant-a acḥal n tikkal.	madjidoumnia	2021-11-23 17:58:14	2021-11-23 17:58:14
-427	0x1ab	ƫ	3	7264567	kab	Yekka-d aṭas n tmura anda ƫmeslayen Tamaziɣt.	anzart	2018-10-07 18:34:17	2018-10-07 18:34:17
+400	0x190	Ɛ	13375	9306456	kab	Ɛni akkenni?	Igider	2020-11-15 19:24:35	2020-11-15 19:24:35
+404	0x194	Ɣ	9373	11060586	kab	Ɣef anect-agi i bɣiɣ ad d-yeffeɣ ungal wis sin.	Igider	2022-08-14 09:12:40	2022-08-14 09:13:18
+427	0x1ab	ƫ	3	7264588	kab	Di Tmaziɣt, tugeƫ n tefyirin yella deg-sent umyag.	anzart	2018-10-07 18:44:25	2018-10-07 18:44:25
 477	0x1dd	ǝ	1	11794407	kab	Nǝbɣa ad nwali timlilit n dabax Amarikani	Arezki_23	2023-05-26 12:48:26	2023-05-26 12:48:26
-486	0x1e6	Ǧ	1412	9221181	kab	Ur tɛebba ara leɣbaṛ-nni ɣer At Ǧemɛa.	imalaqvayli	2020-11-01 06:22:35	2020-11-14 14:36:29
-487	0x1e7	ǧ	44515	9708839	kab	Eǧǧ-iyi ad m-d-aɣeɣ aya.	Igider	2021-01-31 21:43:12	2021-01-31 21:43:12
+486	0x1e6	Ǧ	1412	8698488	kab	Ǧǧiɣ agiṭar-iw deg lbiru-inek.	samir_t	2020-04-21 15:49:18	2020-04-21 15:49:18
+487	0x1e7	ǧ	44575	9234766	kab	Ur tguǧǧem ara yid-sen ar At Xlifa.	Yazid_Bouhamam	2020-11-03 14:33:17	2020-11-03 14:33:17
 496	0x1f0	ǰ	1	11214305	kab	Ḥemmleɣ ad waliɣ iṭiǰ mi iɣelli.	Igider	2022-10-29 07:26:16	2022-10-29 07:26:16
-539	0x21b	ț	47	8631665	kab	Ur d win i yessenɣalen i d-yețțagmen.	AmarMecheri	2020-03-24 22:33:03	2020-03-24 22:33:03
-603	0x25b	ɛ	80361	11342277	kab	Anda tɛeddiḍ yella wuccuḍ.	LdjuherTaqvaylit	2022-12-17 15:30:14	2022-12-17 15:30:14
-611	0x263	ɣ	471437	7148829	kab	Ma iruḥ Tom, ad ruḥeɣ ula d nekk.	samir_t	2018-09-13 02:09:38	2020-11-18 12:24:06
-695	0x2b7	ʷ	27	9256133	kab	Ur nessin ara yakʷ.	AmarMecheri	2020-11-07 20:00:35	2020-11-07 20:00:35
+539	0x21b	ț	47	9105741	kab	Akka cwiṭ, ihi, awen-uɣaleɣ d abusṭawi. Tibṛatin nwen ad awḍent ar Tatoeba, ilmend n yeqbayliyen akken ma llan. Agerruj-nneɣ, ur t-nețțeffer ara, am yidinaṛen deg icekkaṛen. Gan-aɣ-d wid i yzewṛen, am yemdukal n Muḥ Usliman Abelqas anda ara sfeqden ɣuṛ-s yelmeẓyen akked telmeẓyin ara t-yesnernin azekka. Xas yessaɣ wedfel yerna, mi yefsi iban-d kullci.	AmarMecheri	2020-10-04 21:44:22	2020-10-04 21:44:22
+603	0x25b	ɛ	80473	9919428	kab	Ad ɣiwleɣ ɣer At Smaɛil.	imalaqvayli	2021-03-28 17:58:02	2021-03-28 17:58:02
+611	0x263	ɣ	472001	9401264	kab	Zreb ɣer Leflay.	imalaqvayli	2020-11-29 12:27:13	2020-11-29 12:27:13
+695	0x2b7	ʷ	27	9328656	kab	GM. Ma zemreɣ ad d-rnuɣ tayeḍ ɣef wayen d-yura ukessar-a Mayan Ilyas: Diɣ, win yeţţarun s teqbaylit, simmal simmal ad iḥulfu i yiman-is d aqbayli. D wagi yakʷ i d iswi n tudert n tideţ.	AmarMecheri	2020-11-18 21:13:13	2020-11-18 21:13:13
 699	0x2bb	ʻ	1	7263128	kab	Azul a Kaʻiulani.	alemfarid	2018-10-07 11:41:42	2018-10-07 11:43:12
 768	0x300	̀	5	10756613	kab	̀̀̀̀̀Ṭṭfeɣ yir ṛṛay.	madjidoumnia	2022-04-06 20:05:29	2022-04-06 20:05:29
 774	0x306	̆	2	10785223	kab	̆̆Annect-a yedda deg uxeddim.	madjidoumnia	2022-04-25 09:42:40	2022-04-25 09:42:56
-803	0x323	̣	2	8284776	kab	Aya yettban ahat d ayen fiɣef̣ nettnadi.	belkacem77	2019-10-25 18:41:26	2019-10-25 18:41:26
+803	0x323	̣	2	8256823	kab	Saɛid yettiẓẓif̣, yettru.	belkacem77	2019-10-15 19:55:53	2019-10-15 19:55:53
 817	0x331	̱	1	9306511	kab	D ta i d taqbaylit, qbel-itt neɣ eǧg̱itt!	Igider	2020-11-15 19:30:00	2020-11-15 19:30:00
-846	0x34e	͎	2	9556984	kab	Tecnid͎-aɣ-d ɣef yizimer.	belkacem77	2020-12-29 17:11:20	2020-12-29 17:11:39
-915	0x393	Γ	124	7215243	kab	Γas fiḥel ad s-tiniḍ ad t-qennεeɣ.	samir_t	2018-09-26 11:47:52	2018-09-26 11:47:52
-931	0x3a3	Σ	1459	9545196	kab	Ad trewlem ɣer At Σidel.	imalaqvayli	2020-12-26 20:39:56	2020-12-26 20:39:56
-947	0x3b3	γ	209	9397150	kab	Amek ara s-d-afeγ later-is?	AmarMecheri	2020-11-28 18:37:42	2020-11-28 18:37:42
-949	0x3b5	ε	22508	7101711	kab	Thedden, deg leεaya-k.	samir_t	2018-08-29 18:05:57	2018-08-29 18:05:57
+846	0x34e	͎	2	9557028	kab	Tecnid͎ daɣen ɣef werǧeǧǧi.	belkacem77	2020-12-29 17:14:28	2020-12-29 17:14:28
+915	0x393	Γ	124	7151834	kab	Γas ttaɣen-tent ggumman ad cfun.	HocineBenamer	2018-09-13 18:07:41	2019-01-22 09:58:18
+931	0x3a3	Σ	1459	9469376	kab	Iɣeṣṣeb ɣer At Σidel.	imalaqvayli	2020-12-12 19:34:06	2020-12-12 19:34:06
+947	0x3b3	γ	209	8422375	kab	Ur γ-d-tewwi ara ad neεyu neγ ad nwexxer i webrid n tfiluẓufit.	Amazigh7	2020-01-01 23:25:28	2020-01-01 23:25:28
+949	0x3b5	ε	22539	8430241	kab	Buregεa-nni iɣef wwten Leqbayel, yeffeɣ-d kan yebda-tt-id ɣef "lquṭr al-εarabi".	samir_t	2020-01-05 17:00:37	2020-01-05 17:00:37
 1043	0x413	Г	2	7749183	kab	Гliɣ-d s tadist.	xaledbessaci	2019-01-24 14:39:57	2019-01-24 14:39:57
 1071	0x42f	Я	1	11362091	kab	Awal-agi "ḥemmleɣ-kem", asusru-ines am winna s tpolonit "Kocham Cię". Ad twehmeḍ! Ur sɛin ara kra n ṣsed am ticki s trumit neɣ tanglizit. S trusit, d aqlaqal maḍi: "Ya tibya lyublyu" (Я тебя люблю). Di taggara, ilaq kan ad t-nini seg wul.	AmarMecheri	2022-12-22 21:46:03	2022-12-22 21:46:03
 1073	0x431	б	2	11362091	kab	Awal-agi "ḥemmleɣ-kem", asusru-ines am winna s tpolonit "Kocham Cię". Ad twehmeḍ! Ur sɛin ara kra n ṣsed am ticki s trumit neɣ tanglizit. S trusit, d aqlaqal maḍi: "Ya tibya lyublyu" (Я тебя люблю). Di taggara, ilaq kan ad t-nini seg wul.	AmarMecheri	2022-12-22 21:46:03	2022-12-22 21:46:03
@@ -168,8 +168,8 @@
 1090	0x442	т	1	11362091	kab	Awal-agi "ḥemmleɣ-kem", asusru-ines am winna s tpolonit "Kocham Cię". Ad twehmeḍ! Ur sɛin ara kra n ṣsed am ticki s trumit neɣ tanglizit. S trusit, d aqlaqal maḍi: "Ya tibya lyublyu" (Я тебя люблю). Di taggara, ilaq kan ad t-nini seg wul.	AmarMecheri	2022-12-22 21:46:03	2022-12-22 21:46:03
 1102	0x44e	ю	2	11362091	kab	Awal-agi "ḥemmleɣ-kem", asusru-ines am winna s tpolonit "Kocham Cię". Ad twehmeḍ! Ur sɛin ara kra n ṣsed am ticki s trumit neɣ tanglizit. S trusit, d aqlaqal maḍi: "Ya tibya lyublyu" (Я тебя люблю). Di taggara, ilaq kan ad t-nini seg wul.	AmarMecheri	2022-12-22 21:46:03	2022-12-22 21:46:03
 1103	0x44f	я	1	11362091	kab	Awal-agi "ḥemmleɣ-kem", asusru-ines am winna s tpolonit "Kocham Cię". Ad twehmeḍ! Ur sɛin ara kra n ṣsed am ticki s trumit neɣ tanglizit. S trusit, d aqlaqal maḍi: "Ya tibya lyublyu" (Я тебя люблю). Di taggara, ilaq kan ad t-nini seg wul.	AmarMecheri	2022-12-22 21:46:03	2022-12-22 21:46:03
-1296	0x510	Ԑ	567	8921624	kab	Ԑerḍeɣ ad s-ssfhmeɣ aɣan n lǧabeṛ, maca keččment seg umeẓẓuɣ tteffɣent seg wayeḍ.	samir_t	2020-07-17 19:19:50	2020-07-17 19:19:50
-1297	0x511	ԑ	8	11434806	kab	Iğernanen ṛṛadyuwat, leqmen awal di teswaԑt.	Igider	2023-01-07 09:07:10	2023-01-07 09:07:10
+1296	0x510	Ԑ	567	9732360	kab	Ԑyan i tt-nnan qbel-ik.	samir_t	2021-02-06 21:31:50	2021-02-06 21:31:50
+1297	0x511	ԑ	8	8872933	kab	Tesber i yal taluft iԑeddan fell-as.	Rafik	2020-06-25 19:28:27	2020-06-25 19:28:27
 1575	0x627	ا	2	11137775	kab	ذلك الرجل جبّار.	MessDjaaf	2022-09-24 19:56:54	2022-09-24 19:56:54
 1576	0x628	ب	1	11137775	kab	ذلك الرجل جبّار.	MessDjaaf	2022-09-24 19:56:54	2022-09-24 19:56:54
 1580	0x62c	ج	2	11137775	kab	ذلك الرجل جبّار.	MessDjaaf	2022-09-24 19:56:54	2022-09-24 19:56:54
@@ -178,41 +178,41 @@
 1603	0x643	ك	1	11137775	kab	ذلك الرجل جبّار.	MessDjaaf	2022-09-24 19:56:54	2022-09-24 19:56:54
 1604	0x644	ل	3	11137775	kab	ذلك الرجل جبّار.	MessDjaaf	2022-09-24 19:56:54	2022-09-24 19:56:54
 1617	0x651	ّ	1	11137775	kab	ذلك الرجل جبّار.	MessDjaaf	2022-09-24 19:56:54	2022-09-24 19:56:54
-7685	0x1e05	ḅ	3	12034052	kab	Tusiḅ-d akked gma-m.	Rafik	2023-09-03 10:45:51	2023-09-03 10:45:51
+7685	0x1e05	ḅ	3	7347151	kab	D acu i d-yeḍran akka deg 20 tuḅer?	\N	2018-10-26 22:54:26	2018-10-26 22:54:26
 7687	0x1e07	ḇ	1	11234158	kab	Twala-t inehher ṭunuḇil-is tamaynutt.	madjidoumnia	2022-11-07 14:26:19	2022-11-07 14:26:19
-7692	0x1e0c	Ḍ	917	11280924	kab	Ḍlu.	Igider	2022-12-01 00:41:08	2022-12-01 00:41:08
-7693	0x1e0d	ḍ	150109	9242645	kab	Ur terfideḍ ara tideffaḥin-nni ɣer At Si Ɛmaṛa.	imalaqvayli	2020-11-05 12:26:32	2020-11-14 14:40:49
+7692	0x1e0c	Ḍ	920	9854364	kab	Ḍṣan akk ɣef uqcic-nni.	Rafik	2021-03-20 14:10:16	2021-03-20 14:10:16
+7693	0x1e0d	ḍ	150336	9354249	kab	Ad naweḍ ar Temrikt n Ugafa.	Iflis_Illel	2020-11-22 11:15:35	2020-11-22 11:15:35
 7695	0x1e0f	ḏ	1	11267419	kab	Ad tt-iḏ-tafeḍ din!	LdjuherTaqvaylit	2022-11-25 19:23:51	2022-11-25 19:23:51
-7716	0x1e24	Ḥ	9812	9186786	kab	Ḥewweṣ ɣer Tubiret.	Igider	2020-10-24 16:10:18	2020-10-24 16:10:18
-7717	0x1e25	ḥ	108622	11143298	kab	Abelḥekkuc iḥemmel ad yeqqim i yiṭij.	Igider	2022-09-27 08:07:29	2022-09-27 08:07:29
+7716	0x1e24	Ḥ	9823	9790239	kab	Sehhel ɣer Tala Ḥemza.	imalaqvayli	2021-02-21 19:10:13	2021-02-21 19:10:13
+7717	0x1e25	ḥ	108776	9573867	kab	Ur neffiẓ ara taḥbult-nni.	Igider	2021-01-01 18:09:56	2021-01-01 18:09:56
 7731	0x1e33	ḳ	1	11239146	kab	Berka-t ḳennu, lqedd-is, yebɣa ad yezdi.	Igider	2022-11-10 07:37:53	2022-11-10 07:37:53
-7747	0x1e43	ṃ	3	11432134	kab	Txedmeṃ deg-s ayen tebɣam.	Igider	2023-01-06 14:04:56	2023-01-06 14:04:56
-7751	0x1e47	ṇ	4	11280063	kab	D amdan i d ameslal n wayeṇ yeḍran d wayen iḍerrun deg tal taɣult.	Igider	2022-11-30 18:57:03	2022-11-30 18:57:03
-7770	0x1e5a	Ṛ	4180	9128295	kab	Ṛebbaɣ-as-t s tumert.	Igider	2020-10-10 06:31:48	2020-10-10 06:31:48
-7771	0x1e5b	ṛ	73668	11154358	kab	Yiwen wegḍiḍ deg ufus yif ɛecṛa ɣef ttejṛa.	nnaser_uqemmum	2022-10-02 16:22:24	2022-10-02 16:22:24
-7778	0x1e62	Ṣ	676	10149923	kab	Ṣṣyada ṣṣbah i tt-farqen, aḥlil i yimeɣban yeṭṭsen.	ZiriSut	2021-07-04 17:32:14	2021-07-04 17:32:14
-7779	0x1e63	ṣ	27269	9369446	kab	Yeṭṭef-iyi weqṛaḥ n tuɣmest d axeṣṣaṛ.	Igider	2020-11-24 18:50:07	2020-11-24 18:50:07
-7788	0x1e6c	Ṭ	2799	11834936	kab	Ṭṭeṣ tura, azekka zik ara takiḍ.	Aghanim	2023-06-10 09:26:39	2023-06-10 09:26:39
-7789	0x1e6d	ṭ	54557	8268224	kab	Gar cwiṭ d waṭas, yebder-d daɣen umsarag taluft n ubrid iwulmen n umennuɣ d wamek ilaq ad d-yelmed yal yiwen seg temsirin Ɛimac Ɛmer, Bennay Wali, Masin Uharun, Agraw n Yimaziɣen, tanekra n Tefsut n 1980.	belkacem77	2019-10-19 15:23:21	2019-10-19 15:23:33
-7791	0x1e6f	ṯ	5	8888401	kab	Tafyirt-nni tuɛwijt sɛeddan-ṯ; ma d nekk, mi ccḍeɣ kan ciṭ s tneglizit, ad d-ɣlin deg-i.	AmarMecheri	2020-07-03 10:48:40	2020-07-03 10:49:16
-7826	0x1e92	Ẓ	3812	11729502	kab	Ẓriɣ anda tellam.	madjidoumnia	2023-05-01 14:02:09	2023-05-01 14:02:09
-7827	0x1e93	ẓ	45955	9359123	kab	Ur ẓdimen ara ɣer Tala Gala yid-sen.	Igider	2020-11-22 21:49:46	2020-11-22 21:49:46
-8201	0x2009	 	4	7181818	kab	« Iiih ! ad t-ssḍelmen, » i s-yenna win nniḍen. « Ur ttagad wara ! »	samir_t	2018-09-18 21:39:53	2018-09-18 21:39:53
+7747	0x1e43	ṃ	3	11246871	kab	Mačči s wallaɣ-is i yettxemmim umdan deg wayyur n reṃḍan, yettxemmim s ukerciw-is.	Igider	2022-11-14 07:00:01	2022-11-14 07:00:01
+7751	0x1e47	ṇ	4	11214504	kab	Nesselmad tarwa-ṇneɣ s tutlayin tiberraniyin.	Igider	2022-10-29 09:00:40	2022-10-29 09:00:40
+7770	0x1e5a	Ṛ	4183	10175254	kab	Yettarra ɣer At Ṛzin.	imalaqvayli	2021-07-16 17:13:26	2021-07-16 17:13:26
+7771	0x1e5b	ṛ	73752	9631754	kab	Terzamt ɣer Ceṛfa.	Igider	2021-01-10 19:00:39	2021-01-10 19:00:39
+7778	0x1e62	Ṣ	676	7428626	kab	Ṣekkeṛ allen-ik.	Amazigh_Bedar	2018-11-07 22:21:21	2018-11-07 22:21:21
+7779	0x1e63	ṣ	27293	7892956	kab	Amek tettḥussuḍ taṣebḥit-a?	samir_t	2019-05-06 13:41:26	2019-05-06 13:41:26
+7788	0x1e6c	Ṭ	2801	7557620	kab	Ṭṭef amkan-a.	samir_t	2018-12-05 15:53:39	2018-12-14 12:26:53
+7789	0x1e6d	ṭ	54654	11397614	kab	S yimeṭṭi i as-tger Rebbi.	Igider	2023-01-01 01:40:59	2023-01-01 01:40:59
+7791	0x1e6f	ṯ	5	11220371	kab	Am win iɣeẓẓen lebṣel, ur iban tṯruɣ ur iban ḍsiɣ.	LdjuherTaqvaylit	2022-11-01 00:31:09	2023-05-16 22:46:26
+7826	0x1e92	Ẓ	3816	9299751	kab	Ẓeddmen ɣer Iɛeggacen.	Igider	2020-11-14 19:58:45	2020-11-14 19:58:45
+7827	0x1e93	ẓ	46043	9637721	kab	Ttɣabeɣ ɣer Taneẓṛuft.	yiwenkan	2021-01-12 06:24:19	2021-01-12 06:24:19
+8201	0x2009	 	4	7754747	kab	« Terɣiḍ ɣef uqcic-ihin! » « Xaṭi, d lekdeb! »	samir_t	2019-01-28 15:56:18	2019-01-28 15:56:18
 8203	0x200b	​	2	8683112	kab	Bɣiɣ ad aɣeɣ fell-​as tafeṛṛant-​is lameɛna yeggumma ad iyi-tt-izzenz.	Rafik	2020-04-15 17:57:05	2020-04-15 17:57:48
 8206	0x200e	‎	1	10490156	kab	K‎kreɣ-d s usduqqes.	madjidoumnia	2021-11-06 17:09:40	2021-11-06 17:09:40
-8209	0x2011	‑	32	10919418	kab	Tecfa fell‑i?	Rafik	2022-06-17 19:57:19	2022-06-17 19:57:19
-8211	0x2013	–	11	8652838	kab	Terra-ten tmara akken ad d-rewlen seg tmura–nsen.	Rafik	2020-04-02 12:29:08	2020-04-02 12:29:08
-8212	0x2014	—	31	9837471	kab	Taɣerma am uzwu neɣ aman. Anda yakk i s-yeldi kra n webrid — ɣas d aceqqiq kan — tkeččem trennu tettbeddil tignatin deg kra n tmurt.	samir_t	2021-03-11 15:47:22	2021-03-11 15:47:22
-8216	0x2018	‘	16	9365716	kab	D amaynut yessefṛaḥen: Ass-a tutlayt Taqbaylit tewweḍ ar weswir wis 9 n tutlayin timezwura deg n Tatoeba. Tatoeba yesɛa 388 n tutlayin anda tella Teqbaylit deg umḍiq wis 9. Tiririt i widak yeqqaren “ acuɣeṛ d ‘Taqbayli’ mačči d ‘Tamaziɣt’ ? ”	AmarMecheri	2020-11-24 01:50:05	2020-11-24 01:51:11
-8217	0x2019	’	39	11399815	kab	Qqaren yewεer nnger, w’ur nesεi dderya yeḥzen.	Igider	2023-01-01 11:01:53	2023-01-01 11:01:53
-8220	0x201c	“	240	10571739	kab	Aɛennuẓ-agi n waddad amaruz, yufa-as-d ixf-is yiwen umaru aqbur, imi yeţţaru s tefses; cukkeɣ ad t-yaru: “Awer ṛwun 'imelluẓa!”, mačči “Awer rwun yimelluẓa!”	AmarMecheri	2021-12-20 19:16:31	2021-12-20 19:16:31
-8221	0x201d	”	233	10928504	kab	“Ţijjiqen akk igecriren-nneɣ mara neknu”, i d-inna Jimmy Fallon, amṣeḍṣu amarikan ageɛmir deg tedwilt “The tonight show”.	AmarMecheri	2022-06-21 17:39:14	2022-06-21 21:55:06
-8230	0x2026	…	40	9392279	kab	Lemmer iqbayliyen ur ţwarzen ara, tili ahat… Tili, meqqar, ad-ilin ahat am yigwanciyen, yesfaydin s lal tutlayt akked lal taɣerma, wer ţţun laṣel-nsen? Fiḥel wissen! Anda ulac, maḍi!	AmarMecheri	2020-11-27 20:13:45	2020-11-27 20:13:45
-8239	0x202f	 	18	9608404	kab	Tebɣiḍ ad tεiceḍ deg Bumbay ?	samir_t	2021-01-07 20:02:35	2021-01-07 20:02:35
+8209	0x2011	‑	32	10919415	kab	Tecfiḍ fell‑i?	Rafik	2022-06-17 19:57:00	2022-06-17 19:57:00
+8211	0x2013	–	11	7746954	kab	Yeḥbes lkar, wid-nni yeqqimen bedden-d akken ma llan, lɣaci–nni akk ḥaren ad ffɣen.	xaledbessaci	2019-01-23 08:45:31	2019-01-23 08:45:31
+8212	0x2014	—	31	9810241	kab	— Iwacu teskaddbeḍ? i yenna s ṣṣut yudren. D amdakel-im. — Xaṭi, aql-i ggulleɣ! i tεeyyeḍ.	samir_t	2021-02-27 14:37:31	2021-02-27 15:15:58
+8216	0x2018	‘	16	9301826	kab	Gar tutlayin timezwura deg Tatoeba. yesɛan 388 n tutlayin, Teqbaylit tella deg umḍiq wis 10. Tiririt i widak yeqqaren “ acuɣeṛ d ‘Taqbayli’ mačči d ‘Tamaziɣt’?"	AmarMecheri	2020-11-15 05:43:57	2020-11-15 05:43:57
+8217	0x2019	’	39	9301827	kab	D tiririt i widak yeqqaren “acuɣeṛ d ‘Taqbayli’ mačči d ‘Tamaziɣt’?"	AmarMecheri	2020-11-15 05:44:45	2020-11-15 05:44:45
+8220	0x201c	“	241	11401374	kab	Rabeḥ Ԑesma yettwassen s tezlit-nni “Aya aḍu”.	Igider	2023-01-01 14:30:26	2023-01-01 14:30:26
+8221	0x201d	”	233	10666204	kab	Deg umenzu n Yennayer, ɣef ayen d-tura Kahi Tayri deg ugraw “Tigejda n Teqbaylit”, yerna yella waya, tamɣart n uxxam teţenneḍ tiɣerɣert, teqqar ɣer yimi n tewwurt: “Ffeɣ a laẓ, kcem-d a tawant; ffeɣ ay aṭṭan, kcem-d a tujjya; ffeɣ a leεgez, kcem-d a tiḥerci; ffeɣ a ccwal kcem-d a lehna, atg”.	AmarMecheri	2022-02-08 23:07:30	2022-02-08 23:07:30
+8230	0x2026	…	40	7294719	kab	D kunwi i d afud anda akken ṛẓen yifadden, d kunwi i d-yettarran aseḍsu, anda akken ḍaqen wulawen…	xaledbessaci	2018-10-15 08:51:22	2018-10-15 08:51:22
+8239	0x202f	 	20	12252308	kab	Inna-yas Yidir : « Tezriḍ a yelli, ɣur-nneɣ, llant kra n temsal d lɛib ad ten-id-tadreḍ. »	slahatuvelli	2024-01-05 10:35:13	2024-01-05 10:35:13
 8322	0x2082	₂	1	7154519	kab	Agaraw i jɣaṛ azal n 30 di timiḍt n CO₂ i yettwaḍeggṛen deg tignewt.	alemfarid	2018-09-14 21:07:14	2018-09-14 21:32:13
 8364	0x20ac	€	5	7101874	kab	Ad k-id-tesqam 30€.	Marzuquccen	2018-08-29 19:19:55	2018-08-29 19:19:55
 9633	0x25a1	□	3	7246734	kab	Tebɣiḍ ad tiliḍ d tamdakelt-iw? □ Ih. □ Ala. □ Ahat.	samir_t	2018-10-02 10:44:16	2018-10-02 10:45:00
-11568	0x2d30	ⴰ	5	12113159	kab	ⵡⵉⵏ ⵢⴻⴱⵖⴰⵏ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵢⵉⵙⵉⵏ ⵜⵉⵔⴰ-ⵙ.	SaidAmazigh	2023-10-18 05:29:09	2023-10-18 05:29:09
+11568	0x2d30	ⴰ	5	10566613	kab	Twalaḍ “akka-hina”, akken Muḥend A. (ⵎⵓⵃ ⴰⴷⴻⵎ), xas ur yusi-d ara, ur iruḥ ara. Din kan, yeẓẓiẓẓin ɣer tmes n ukanun n ukabbar n yisertiyen s yisebtiren!	AmarMecheri	2021-12-16 18:52:16	2021-12-16 18:52:16
 11569	0x2d31	ⴱ	1	12113159	kab	ⵡⵉⵏ ⵢⴻⴱⵖⴰⵏ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵢⵉⵙⵉⵏ ⵜⵉⵔⴰ-ⵙ.	SaidAmazigh	2023-10-18 05:29:09	2023-10-18 05:29:09
 11575	0x2d37	ⴷ	1	10566613	kab	Twalaḍ “akka-hina”, akken Muḥend A. (ⵎⵓⵃ ⴰⴷⴻⵎ), xas ur yusi-d ara, ur iruḥ ara. Din kan, yeẓẓiẓẓin ɣer tmes n ukanun n ukabbar n yisertiyen s yisebtiren!	AmarMecheri	2021-12-16 18:52:16	2021-12-16 18:52:16
 11579	0x2d3b	ⴻ	2	10566613	kab	Twalaḍ “akka-hina”, akken Muḥend A. (ⵎⵓⵃ ⴰⴷⴻⵎ), xas ur yusi-d ara, ur iruḥ ara. Din kan, yeẓẓiẓẓin ɣer tmes n ukanun n ukabbar n yisertiyen s yisebtiren!	AmarMecheri	2021-12-16 18:52:16	2021-12-16 18:52:16
@@ -234,8 +234,8 @@
 127882	0x1f38a	🎊	1	9049922	kab	Llan wid yezzenzen aqwiṛ s tmellalt. Dacu, llant tmellalin yelhan: tid werɛad d-nuriw! Yerna d timejṭiṭaḥ maḍi maḍi! 🎊	AmarMecheri	2020-09-19 03:00:38	2020-09-19 03:00:38
 128064	0x1f440	👀	2	9292513	kab	Anda llan imusnawen nniḍen, ma m'či d ixurtiyen? Amusnaw, mačči d win yerran iman-is yessen. Amusnaw, d win yezgan yeţnadi ad yissin,... am kečč neɣ nekk. 🙌👀	AmarMecheri	2020-11-13 20:42:35	2020-11-13 20:42:35
 128517	0x1f605	😅	1	9327396	kab	Imi d "bunti", ad yelhu i wid/tid mazal meẓẓiyit. S'amek kan ur d-tufim ara! 😅	AmarMecheri	2020-11-18 18:40:35	2020-11-18 18:40:35
-128518	0x1f606	😆	3	9426652	kab	Tufiḍ tzegleḍ yiwen wass imi assa aqlaɣ d wis 3 di duǧember. 😆 Gedha s Dda Ɛmar!	AmarMecheri	2020-12-03 15:19:27	2020-12-03 15:19:27
+128518	0x1f606	😆	3	9426642	kab	"Tufiḍ tzegleḍ yiwen wass imi assa aqlaɣ d wis 3 di duǧember. 😆 Gedha s Dda Ɛmar!" "Assa yuɣal d azekka, twalaḍ. Ssɛerqen-iyi-tent kra seg wid yessenduyen aman."	AmarMecheri	2020-12-03 15:18:27	2020-12-03 15:18:27
 128519	0x1f607	😇	1	9162091	kab	Akmam-nni... Nekk ur yerra (yerna) ara fell-i, mačči am kemmini. Kem tcebḥeḍ, nekk ţmecɛuɛuleɣ kan s ccib-nni. Ha-t-an anda tuḍen icc-is! 😇	AmarMecheri	2020-10-18 23:06:35	2020-10-18 23:06:35
-128561	0x1f631	😱	4	9393105	kab	Neɣ ahat imi ɛeẓreɣ assa, ur ṭiseɣ maḍi... Efk-aɣ-d imedyaten n wagi yuɣalen d tinnatent. 😱	AmarMecheri	2020-11-28 04:26:31	2020-11-28 04:26:31
+128561	0x1f631	😱	4	9523388	kab	Amek teqqaṛem? Aql-aɣ... "1. Am texsayt ddaw seksu! 😱" 2. Am seksu ddaw texsayt!"	AmarMecheri	2020-12-22 19:50:20	2020-12-22 19:50:20
 128580	0x1f644	🙄	1	9237276	kab	Tram-ţ, ur ţ-trim. Trim-ţ, ur ţ-tram. Cukkeɣ mačči kifkif, dacu ur ssineɣ ara amek i sent-qqaren i snat n tenfaliyen-a deg tseftit n tjerrumt n teqbaylit. Segmi i ɣ-ţ-skeṛhen s taɛṛabt, dɣa tugi ad tekcem amelɣiɣ-iw. 🙄😱 Ṛuḥ (kečč) tura (kečč)! Ar da d-ilhu, imiren ad iḥlu. Ar d ilhu, imiren ad iḥlu.	AmarMecheri	2020-11-03 22:28:30	2020-11-03 22:28:30
 128588	0x1f64c	🙌	1	9292513	kab	Anda llan imusnawen nniḍen, ma m'či d ixurtiyen? Amusnaw, mačči d win yerran iman-is yessen. Amusnaw, d win yezgan yeţnadi ad yissin,... am kečč neɣ nekk. 🙌👀	AmarMecheri	2020-11-13 20:42:35	2020-11-13 20:42:35

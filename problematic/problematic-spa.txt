@@ -131,7 +131,6 @@ Final punctuation	2038197	spa	Yo solo deseo ayudar	Htomayor	2012-11-25 19:53:39	
 Comma: succeeded by letter	2060112	spa	Muchos,si no la mayoría, de los traductores profesionales solo traducen a su idioma nativo.	lazarus1907	2012-12-06 04:36:21	2015-01-13 20:47:43
 Straight quotation marks: odd number	2089304	spa	Cuando termines, ¿me avisas?" "¡Ya!"	wallebot	2012-12-18 16:52:55	2012-12-18 16:52:55
 Colon: succeeded by letter or punctuation	2089329	spa	Ve a la frase B y pega en el navegador el enlace copiado. Cambia el último número del enlace por el de la frase B. (Pega B sobre el último número). Si necesitas cambiarlo cambia /delete/ por /add/. La URL en el navegador queda como: http://tatoeba.org/(lang)/links/add/(A)/(B).	wallebot	2012-12-18 17:06:57	2012-12-18 17:21:04
-Final punctuation	2100147	spa	Yo pienso que el ministro tampoco sabe nada de eso	marcelostockle	2012-12-24 04:48:22	2012-12-24 04:48:22
 Zero-width space	2141584	spa	Nuestra familia tiene unos antepasados ​​ilustres.	Dejo	2013-01-13 07:26:18	2013-01-13 07:26:18
 Final punctuation	2175102	spa	Él tomó su lápiz y comenzó a escribir	marcelostockle	2013-01-29 17:20:58	2013-01-29 17:20:58
 Question mark: preceeded by space	2180487	spa	¿Tienes un matrimonio de conveniencia ?	Romashka	2013-02-01 11:16:41	2013-02-01 11:16:41
@@ -220,6 +219,7 @@ Final punctuation	3179723	spa	Por favor, escríbame a name@email.com	nicozerpa	2
 Final punctuation	3222479	spa	Os di todo lo que queríais	Shishir	2014-05-01 22:40:11	2014-05-01 22:40:11
 Question mark: unclosed question mark	3253299	spa	¿Cómo puedo conectar mi iPod al estéreo de un auto.	marcelostockle	2014-05-14 22:43:53	2014-05-14 22:43:53
 Comma: succeeded by letter	3269097	spa	El derecho de autor del libro "Mi lucha",expirará el 31 de diciembre de 2015.	hayastan	2014-05-21 20:07:52	2014-05-21 20:07:52
+Cyrillic characters: possible homoglyphs	3279888	spa	Сada cabeza es un mundo.	Tono	2014-05-27 09:37:52	2016-12-29 12:21:16
 Exclamation mark: unopened exclamation mark	3284131	spa	Alguien dijo a las piedras: "Sed humanos!" Las piedras dijeron: "Aún no estamos suficientemente duras!"	Plusquamperfekt	2014-05-29 12:20:03	2014-05-29 13:28:12
 Zero-width space	3356895	spa	En el fútbol, ​​no siempre el mejor equipo — o el equipo que jugó mejor — gana el juego.	carlosalberto	2014-07-03 17:21:33	2014-07-03 17:21:33
 Period: preceeded by space	3365762	spa	No esperes de mí sinceridad mientras tú tan claramente sigas mintiéndome .	gianich73	2014-07-07 14:43:48	2014-07-07 14:43:48
@@ -531,6 +531,7 @@ Exclamation mark: unopened exclamation mark	8109646	spa	Moghrey mie!	SteCymru14	
 Final punctuation	8110946	spa	No puedo evitar reírme de sus bromas	Ferchus	2019-08-17 07:12:20	2019-08-17 07:12:20
 Straight quotation marks: odd number	8153434	spa	¿Que nacionalidad era su abuelo?" "Suizo."	ritualesatanum	2019-08-31 20:43:12	2019-08-31 20:43:12
 Straight quotation marks: odd number	8154096	spa	¿A dónde irán de vacaciones?" "A Islandia."	ritualesatanum	2019-08-31 21:23:59	2019-08-31 21:23:59
+Cyrillic characters: possible homoglyphs	8154292	spa	Тerminó el trabajo según lo planeado.	Curro	2019-08-31 21:39:27	2019-09-01 22:25:46
 Final punctuation	8161079	spa	Le adora	magnificentgoddess	2019-09-03 03:01:59	2019-09-03 03:01:59
 Final punctuation	8244568	spa	Aquí nadie tiene coche	dimafernandez	2019-10-10 10:06:05	2019-10-10 10:06:05
 Final punctuation	8244569	spa	El entendimiento es la base	dimafernandez	2019-10-10 10:06:28	2019-10-10 10:06:28

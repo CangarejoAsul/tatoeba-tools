@@ -1,86 +1,86 @@
-32	0x20	 	10963	4713008	war	Waray hirá mahibaró nga Hapón hi akó.	harvzs	2015-11-20 03:46:43	2015-11-20 03:46:43
-33	0x21	!	131	4671899	war	¡Maúpay nga Pasko!	harvzs	2015-11-03 04:23:30	2015-11-03 04:23:55
-34	0x22	"	37	6454648	war	Hin-o an nagsurat han "An Prinsipe"?	urusahon	2017-11-09 06:52:00	2017-11-09 06:52:00
+32	0x20	 	10963	4749176	war	Mas karúyag ko pa it mga uding kaysa hit mga idô.	harvzs	2015-12-06 22:58:00	2015-12-06 22:58:00
+33	0x21	!	131	11311958	war	Makaarawod!	zmah47jr	2022-12-09 12:08:24	2022-12-09 12:08:24
+34	0x22	"	37	11344788	war	"Kana" it tawag hit mga Waray ha mga Bisaya nga it yinaknan kay "Cebuano".	zmah47jr	2022-12-18 05:57:53	2022-12-18 05:57:53
 37	0x25	%	1	4677509	war	An Partido Sosyalista nakakúhà là hin 18% han mga botos.	harvzs	2015-11-05 04:44:45	2015-11-05 04:44:45
-39	0x27	'	234	5313591	war	Ayáw kabarak-i it' ibà.	urusahon	2016-08-02 03:48:57	2016-08-02 03:48:57
-44	0x2c	,	156	5328956	war	Waráy túbig, waráy kinabúhì.	urusahon	2016-08-09 08:10:03	2016-08-09 08:10:03
-45	0x2d	-	585	6392281	war	Kay-ano nadiri hi Tom nga himuon iton?	urusahon	2017-10-22 10:15:32	2017-10-22 10:15:32
-46	0x2e	.	1892	4677526	war	Kun kidja it ádà, himoa ini nga limonada.	harvzs	2015-11-05 04:53:15	2015-11-05 04:53:15
+39	0x27	'	234	5311409	war	Nakabati ak' may-ada nagtuktok ha purtahán ngan hi Tom ádto.	urusahon	2016-08-01 03:36:57	2016-08-01 03:36:57
+44	0x2c	,	156	5849250	war	Kun iton usá may-katungod mabuhi, may-katungod gihapon niya iton kamatayon. Kay kun dírì, iton kabuhi dírì usa nga katungod, kundi usa nga obligasyon.	urusahon	2017-02-11 00:51:46	2017-02-11 00:51:46
+45	0x2d	-	585	6392284	war	Nag-taksi hiya pa-estasyon.	urusahon	2017-10-22 10:18:01	2017-10-22 10:18:01
+46	0x2e	.	1892	11365270	war	Nanmaki-ana an mga pulis bahin han kaagi han suspitsado.	zmah47jr	2022-12-24 04:10:24	2022-12-24 04:10:24
 48	0x30	0	9	5325409	war	Dírì akó maaram han mga butang hadto nga nakalabay nga 100 o, 50 katuig.	urusahon	2016-08-07 21:37:42	2016-08-07 21:37:42
-49	0x31	1	6	4677509	war	An Partido Sosyalista nakakúhà là hin 18% han mga botos.	harvzs	2015-11-05 04:44:45	2015-11-05 04:44:45
+49	0x31	1	6	5225814	war	Kumadto hiya ha London han tuig 1970.	urusahon	2016-06-20 16:10:20	2016-06-20 16:10:20
 50	0x32	2	2	5320706	war	Proybahan ko mahiabot ngadto hiton 2:30.	urusahon	2016-08-06 01:41:17	2016-08-06 01:41:17
-51	0x33	3	3	5320706	war	Proybahan ko mahiabot ngadto hiton 2:30.	urusahon	2016-08-06 01:41:17	2016-08-06 01:41:17
+51	0x33	3	3	5320711	war	Testingan ko makakadto hit' 2:30.	urusahon	2016-08-06 01:42:24	2016-08-06 01:42:24
 53	0x35	5	5	4677622	war	Gintúkod an Disneyland han 1955.	harvzs	2015-11-05 05:23:15	2015-11-05 05:23:15
-55	0x37	7	2	5225822	war	Napakadto hiya ha London dida han 1970.	urusahon	2016-06-20 16:11:09	2016-06-20 16:11:09
+55	0x37	7	2	5225814	war	Kumadto hiya ha London han tuig 1970.	urusahon	2016-06-20 16:10:20	2016-06-20 16:10:20
 56	0x38	8	1	4677509	war	An Partido Sosyalista nakakúhà là hin 18% han mga botos.	harvzs	2015-11-05 04:44:45	2015-11-05 04:44:45
-57	0x39	9	3	5225814	war	Kumadto hiya ha London han tuig 1970.	urusahon	2016-06-20 16:10:20	2016-06-20 16:10:20
-58	0x3a	:	7	5813837	war	Diri nim iton magigin salà kun iton imo anak magbuhat hin sayop: baynte-singko anyos na hiya yanâ, anó?	urusahon	2017-01-31 02:30:25	2017-01-31 02:30:25
-63	0x3f	?	421	4677517	war	¿Gin-gútom ka?	harvzs	2015-11-05 04:49:51	2015-11-05 04:50:03
-65	0x41	A	228	5320698	war	An kaádlawon naging maúpay.	urusahon	2016-08-06 01:35:59	2016-08-06 01:35:59
-66	0x42	B	108	6393043	war	Baga'n kilala mo na gud hiya, ano?	urusahon	2017-10-23 00:51:07	2017-10-23 00:51:07
-67	0x43	C	11	5313789	war	Pero han umabot akó ha China hadto nga panahón, may-ada ak' pamílya nga naghuhulat ha ak'.	urusahon	2016-08-02 07:19:45	2016-08-02 07:19:45
-68	0x44	D	284	5172096	war	Diri ko na ikaw sangkay. Kalabyaw nala.	urusahon	2016-05-28 16:59:14	2016-05-28 16:59:14
-69	0x45	E	15	4712973	war	Taga-Espanya hi akó.	harvzs	2015-11-20 03:27:31	2015-11-20 03:27:31
-70	0x46	F	5	4743393	war	Kun mag-Frinanses hi ikaw, dírì hi akó makakasabot.	harvzs	2015-12-04 05:38:59	2015-12-04 05:38:59
-71	0x47	G	115	4708436	war	Ginsisinamok hi akó nira.	harvzs	2015-11-18 06:48:31	2015-11-18 06:48:31
-72	0x48	H	159	5325540	war	¿Háin iton istasyon hit' tren?	urusahon	2016-08-07 22:28:22	2016-08-07 22:28:22
-73	0x49	I	148	5323018	war	Ikadto.	urusahon	2016-08-06 20:46:48	2016-08-06 20:46:48
-74	0x4a	J	12	6389904	war	Maaram hi Tom nga kasiring ni Mary nga igkakasal hira John ngan Alice.	urusahon	2017-10-20 06:46:16	2017-10-20 06:46:16
-75	0x4b	K	327	5813852	war	Karag-oras la iton pag-inayad hiton.	urusahon	2017-01-31 02:54:52	2017-01-31 02:54:52
-76	0x4c	L	41	11313009	war	Lambong iton.	zmah47jr	2022-12-09 17:54:39	2022-12-09 17:54:39
-77	0x4d	M	366	6400912	war	May-ada la niya usa nga alalay nga mag-atiman ha iya.	urusahon	2017-10-27 21:15:28	2017-10-27 21:15:28
-78	0x4e	N	303	4713002	war	Nakaihî an bátà.	harvzs	2015-11-20 03:42:58	2015-11-20 03:42:58
-79	0x4f	O	8	4671800	war	Oo.	harvzs	2015-11-03 01:01:55	2015-11-03 01:01:58
-80	0x50	P	195	5325536	war	Pasensya, may-ada akó kliyente.	urusahon	2016-08-07 22:26:07	2016-08-07 22:26:07
-82	0x52	R	10	4743395	war	Maáram hi akó hin Pinortuges, Iningles, ngan Rinuso.	harvzs	2015-12-04 05:40:34	2015-12-04 05:40:34
-83	0x53	S	81	6392274	war	Inuuhaw ha dugo hi Sami.	urusahon	2017-10-22 10:11:51	2017-10-22 10:11:51
-84	0x54	T	384	11312837	war	Tana.	zmah47jr	2022-12-09 17:05:36	2022-12-09 17:05:36
-85	0x55	U	50	5020744	war	Uswag kamo ha Tatoeba!	zmah47jr	2016-03-29 07:16:48	2022-12-09 10:42:04
-86	0x56	V	7	5181306	war	Waray tawu ha sala pero abre iton TV.	urusahon	2016-06-01 01:12:51	2016-06-01 01:12:51
-87	0x57	W	143	5172109	war	Waray magpaha hi Tom yana nga adlaw.	urusahon	2016-05-28 17:04:12	2016-05-28 17:04:12
-89	0x59	Y	18	6393010	war	Gutiay nala malalabawan ko na an literary Chinese. Yehey!	urusahon	2017-10-23 00:40:20	2017-10-23 00:40:20
+57	0x39	9	3	4677622	war	Gintúkod an Disneyland han 1955.	harvzs	2015-11-05 05:23:15	2015-11-05 05:23:15
+58	0x3a	:	7	5177376	war	May-ada upat nga basurahan ha eskwelahan: usa para papel, usa para plastik, ngan an duha para ha mga maburuong ngan may puthaw o lata.	urusahon	2016-05-31 00:32:30	2016-05-31 00:32:30
+63	0x3f	?	421	4712982	war	¿Kay-anó ginpalit nim ini nga mahal nga pagpurulongan?	harvzs	2015-11-20 03:30:22	2015-11-20 03:30:22
+65	0x41	A	228	4674449	war	An Mostar mahúsay hin duro nga syudad.	harvzs	2015-11-04 01:39:04	2015-11-04 01:39:11
+66	0x42	B	108	5311534	war	Binuligan ak' ni Tom han pakanhi.	urusahon	2016-08-01 06:32:08	2016-08-01 06:32:08
+67	0x43	C	11	5168564	war	Untá nakagkitá ak anay han pelikula nga "Casablanca" han gin-eristoryahan ini.	urusahon	2016-05-27 01:51:13	2016-05-27 01:51:13
+68	0x44	D	284	5242247	war	Diri ka nahadlok ha bisan ano.	urusahon	2016-06-29 15:41:37	2016-06-29 15:41:37
+69	0x45	E	15	5311545	war	Estoryahi kami hit' im' anák.	urusahon	2016-08-01 06:38:03	2016-08-01 06:38:03
+70	0x46	F	5	6443760	war	Kasiring ko diri gud maaram hi Tom ha French.	urusahon	2017-11-02 23:20:35	2017-11-02 23:20:35
+71	0x47	G	115	5309865	war	Ginpapadalagan an banko hin mga pribado nga pagkatawo.	urusahon	2016-07-31 09:08:46	2016-07-31 09:08:46
+72	0x48	H	159	5320713	war	Hi Tom sumaka ha káhoy.	urusahon	2016-08-06 01:43:38	2016-08-06 01:43:38
+73	0x49	I	148	6392501	war	Ikaw iton maaram himuon ini.	urusahon	2017-10-22 14:09:57	2017-10-22 14:09:57
+74	0x4a	J	12	5311546	war	Nahigugma akó kan Jean Reno.	urusahon	2016-08-01 06:40:06	2016-08-01 06:40:06
+75	0x4b	K	327	6459181	war	Kakan-o ka urhi nga nag-byolin?	urusahon	2017-11-11 21:58:48	2017-11-11 21:58:48
+76	0x4c	L	41	11311997	war	Lurong!	zmah47jr	2022-12-09 12:14:38	2022-12-09 12:14:38
+77	0x4d	M	366	4712997	war	¿Mákaglimpyo ba hi kitá hit kwarto?	harvzs	2015-11-20 03:40:14	2015-11-20 03:40:14
+78	0x4e	N	303	4739239	war	¿Nakahinúmdom ka bà kun tiunan-o hi kitá nagkakilala?	harvzs	2015-12-02 07:54:11	2015-12-02 07:54:11
+79	0x4f	O	8	6393021	war	Oo, amo na iton.	urusahon	2017-10-23 00:44:33	2017-10-23 00:44:33
+80	0x50	P	195	4677586	war	¿Pirá?	harvzs	2015-11-05 05:10:33	2015-11-05 05:10:33
+82	0x52	R	10	5311818	war	Pamilinga it' násud Puerto Rico ha mapa.	urusahon	2016-08-01 09:35:21	2016-08-01 09:35:21
+83	0x53	S	81	5313954	war	¿San-o mo man it' hapiton?	urusahon	2016-08-02 08:28:49	2016-08-02 08:28:49
+84	0x54	T	384	4682776	war	Mayda nababatián ni Tom.	harvzs	2015-11-07 00:25:57	2015-11-07 00:25:57
+85	0x55	U	50	5313286	war	Unta waray mahitabo nga sayop yanâ.	urusahon	2016-08-01 22:11:43	2016-08-01 22:11:43
+86	0x56	V	7	6393307	war	Anhi la ako ngan magkikita hiton TV.	urusahon	2017-10-23 06:26:30	2017-10-23 06:26:30
+87	0x57	W	143	5814082	war	Waray ko iton kakitai.	urusahon	2017-01-31 08:10:46	2017-01-31 08:10:46
+89	0x59	Y	18	4680435	war	Yanâ, nakasabot hi akó kun anó an nahinabô.	harvzs	2015-11-06 05:54:30	2015-11-06 05:54:30
 90	0x5a	Z	3	11342072	war	Gin-inom ni Ziri an salin nga serbesa tas lumakat.	zmah47jr	2022-12-17 15:00:46	2022-12-17 15:00:46
-97	0x61	a	13186	4654887	war	Dinmaog hi ikaw.	harvzs	2015-10-30 01:36:06	2015-10-30 01:36:10
-98	0x62	b	1162	5170728	war	Yakan ni Tom diri na hiya magbúhat hiton utro.	urusahon	2016-05-28 01:41:20	2016-05-28 01:41:20
-99	0x63	c	32	5311818	war	Pamilinga it' násud Puerto Rico ha mapa.	urusahon	2016-08-01 09:35:21	2016-08-01 09:35:21
-100	0x64	d	1367	4680066	war	Karúyag ko an gidakoi nga pastel.	harvzs	2015-11-06 00:49:04	2015-11-06 00:49:04
-101	0x65	e	728	6391064	war	Diri abre ini nga golf course para ha mga diri nganhi myembro.	urusahon	2017-10-21 01:00:21	2017-10-21 01:00:21
-102	0x66	f	8	6392745	war	Kay mga lurong gad kamo? Kay-ano aabrehan an fan hin sugad hini kahagkot?	urusahon	2017-10-22 20:52:38	2017-10-22 20:52:38
-103	0x67	g	3067	5313588	war	¿Áno ádto an imo ngáran nga ginsiring nim'?	urusahon	2016-08-02 03:42:00	2016-08-02 03:42:00
-104	0x68	h	2577	11312898	war	Hin-o hiya?	zmah47jr	2022-12-09 17:22:50	2022-12-09 17:22:50
-105	0x69	i	5756	5161855	war	Igkakasal gud ini hi Tom ngan Mary.	urusahon	2016-05-24 09:17:05	2016-05-24 09:17:05
-106	0x6a	j	7	6389837	war	May-ada nganhi balaud kanan-jaywalking?	urusahon	2017-10-20 05:07:51	2017-10-20 05:07:51
-107	0x6b	k	2946	5328750	war	Karuyag ko kaestoryahon ka nga kitá la.	urusahon	2016-08-09 03:46:45	2016-08-09 03:46:45
-108	0x6c	l	1456	6389741	war	Ano iton pulos hiton pagtrinabaho hin duro?	urusahon	2017-10-20 00:06:07	2017-10-20 00:06:07
-109	0x6d	m	2466	4739226	war	¿Anó nga pagkaon it dírì mo naruruyagan?	harvzs	2015-12-02 07:45:18	2015-12-02 07:45:18
-110	0x6e	n	6687	5320870	war	Normal hirá ngatanan.	urusahon	2016-08-06 05:12:42	2016-08-06 05:12:42
-111	0x6f	o	3940	5321661	war	¿Makigkita ka pa ha ámon?	urusahon	2016-08-06 12:08:20	2016-08-06 12:08:20
-112	0x70	p	1200	11312846	war	Ipinid.	zmah47jr	2022-12-09 17:08:22	2022-12-09 17:08:22
+97	0x61	a	13186	5328809	war	Karuyag ko hin mga bata nga kun na-arte paru na hit' edaran.	urusahon	2016-08-09 04:48:47	2016-08-09 04:48:47
+98	0x62	b	1162	5323082	war	Waráy sabota an íya paglakat.	urusahon	2016-08-06 21:12:23	2016-08-06 21:12:23
+99	0x63	c	32	11335121	war	Tinuod nga may libre ka nga ticket para hit karisyohan?	zmah47jr	2022-12-15 17:20:37	2022-12-15 17:20:37
+100	0x64	d	1367	11315177	war	Nagdaog kami dayon kay maluya an amon mga kontra.	zmah47jr	2022-12-10 16:44:36	2022-12-10 16:44:36
+101	0x65	e	728	5232632	war	Damu iton mga estudyante nga waray dinhi ha klase yana.	urusahon	2016-06-23 17:54:16	2016-06-23 17:54:16
+102	0x66	f	8	4677515	war	An Burj Khalifa amo an gihataási nga edipisyo ha kalibutan.	harvzs	2015-11-05 04:49:17	2015-11-05 04:49:17
+103	0x67	g	3067	6390841	war	Duha na ako ka-oras nga naghihinulat.	urusahon	2017-10-20 21:14:42	2017-10-20 21:14:42
+104	0x68	h	2577	4677562	war	Alas singko han aga hi akó binmuhat.	harvzs	2015-11-05 05:01:50	2015-11-05 05:01:50
+105	0x69	i	5756	4739232	war	Para la iní hit imo personal nga paggámit.	harvzs	2015-12-02 07:48:17	2015-12-02 07:48:17
+106	0x6a	j	7	4677526	war	Kun kidja it ádà, himoa ini nga limonada.	harvzs	2015-11-05 04:53:15	2015-11-05 04:53:15
+107	0x6b	k	2946	5168202	war	Pag-ábat ko bangin mabulígan mo kami.	urusahon	2016-05-26 22:21:17	2016-05-26 22:21:17
+108	0x6c	l	1456	5177343	war	Pagbukara ta na it' mga lasuna.	urusahon	2016-05-30 23:54:05	2016-05-30 23:54:05
+109	0x6d	m	2466	5328811	war	Magmumulay kami hin tenis.	urusahon	2016-08-09 04:50:37	2016-08-09 04:50:37
+110	0x6e	n	6687	5312160	war	¿Natuod ka gud hit' nga butáng?	urusahon	2016-08-01 12:21:37	2016-08-01 12:21:37
+111	0x6f	o	3940	6392264	war	Hihirutan ko iton paggamit hiton imo libro.	urusahon	2017-10-22 10:06:38	2017-10-22 10:06:38
+112	0x70	p	1200	5229298	war	Ginpaandar namon an radyo.	urusahon	2016-06-22 07:19:43	2016-06-23 02:37:54
 113	0x71	q	1	5309858	war	Han nabatian niyq an notisya, waray hiya magmalipayon.	urusahon	2016-07-31 09:07:38	2016-07-31 09:07:38
-114	0x72	r	2173	5867628	war	Masu'suportahon iton kababayin-an.	urusahon	2017-02-14 21:36:21	2017-02-14 21:36:21
-115	0x73	s	1497	5322979	war	Hiton sunod nga semana, magbasa ak' adá libro ngan magkitá TV.	urusahon	2016-08-06 20:33:46	2016-08-06 20:33:46
-116	0x74	t	2782	5310866	war	Iton kasál pagbubuhaton bísan áno it' panahón.	urusahon	2016-07-31 22:23:20	2016-07-31 22:23:20
-117	0x75	u	2203	6443753	war	Siguradoha nga himuon mo iton utro.	urusahon	2017-11-02 23:19:05	2017-11-02 23:19:05
-118	0x76	v	8	5333412	war	Kahuman nira inumon an vino, binuhát hirá ngan lumakat.	urusahon	2016-08-11 00:31:33	2016-08-11 00:31:33
-119	0x77	w	520	5336280	war	An íra magurang nga babayí waráy pa paka-asawa.	urusahon	2016-08-12 06:47:46	2016-08-12 06:47:46
-120	0x78	x	10	4710336	war	Igpa-express an surat.	harvzs	2015-11-19 01:41:32	2015-11-19 01:41:32
-121	0x79	y	2097	6454650	war	Humigugma hiya hin usa nga mahusay nga prinsesa.	urusahon	2017-11-09 06:53:09	2017-11-09 06:53:09
-122	0x7a	z	10	5230915	war	Dadamuro't tawo ha plaza.	urusahon	2016-06-23 00:39:44	2016-06-23 00:39:44
-161	0xa1	¡	33	4712964	war	¡Salámat han Diyos!	harvzs	2015-11-20 03:22:54	2015-11-20 03:22:54
-191	0xbf	¿	215	5313250	war	¿Kay-ano duro it iya pag-inisog?	urusahon	2016-08-01 22:05:46	2016-08-01 22:05:46
-193	0xc1	Á	26	5867517	war	Áno kasukot nimo makit-an hi Tanaka?	urusahon	2017-02-14 21:13:30	2017-02-14 21:13:30
+114	0x72	r	2173	5313212	war	Nadiri hirá nga bumálik hiyá.	urusahon	2016-08-01 21:55:13	2016-08-01 21:55:13
+115	0x73	s	1497	5320936	war	It' usá dírì duhá.	urusahon	2016-08-06 06:19:29	2016-08-06 06:19:29
+116	0x74	t	2782	6392286	war	Umabot na gihapon hiya!	urusahon	2017-10-22 10:19:12	2017-10-22 10:19:12
+117	0x75	u	2203	5165423	war	Daru-damu it iya nakakarawat nga salape kontra ha ak.	urusahon	2016-05-25 21:47:10	2016-05-25 21:47:10
+118	0x76	v	8	7677865	war	Judy valde bene saltas.	Hans07	2018-12-31 15:58:19	2018-12-31 15:59:14
+119	0x77	w	520	5849049	war	Nawara ko tanan.	urusahon	2017-02-11 00:46:09	2017-02-11 00:46:09
+120	0x78	x	10	4667378	war	Mayda hi akó examen buwas.	harvzs	2015-11-01 16:54:27	2015-11-01 16:54:31
+121	0x79	y	2097	5328747	war	Nagsarayaw hirá.	urusahon	2016-08-09 03:39:45	2016-08-09 03:39:45
+122	0x7a	z	10	5313780	war	Halígut la an kinabúhì ni Mozart.	urusahon	2016-08-02 07:05:57	2016-08-02 07:05:57
+161	0xa1	¡	33	4674424	war	¡Ayaw gad!	harvzs	2015-11-04 01:28:50	2015-11-04 01:28:55
+191	0xbf	¿	215	4712924	war	¿Hin-o an naghímò hiní nga kahón?	harvzs	2015-11-20 02:54:46	2015-11-20 02:54:46
+193	0xc1	Á	26	5313609	war	Ánay - may-ada tawo ha may purtahán.	urusahon	2016-08-02 04:19:19	2016-08-02 04:19:19
 218	0xda	Ú	1	5171343	war	¿Úna mo inin nga pagbisita ha Japan?	urusahon	2016-05-28 09:19:28	2016-05-28 09:20:32
-224	0xe0	à	48	4722018	war	Karúyag mo umiwas dinhi, ¿amo bà?	harvzs	2015-11-24 03:42:45	2015-11-24 03:42:45
-225	0xe1	á	636	5163837	war	Bagan ámu hi Tom.	urusahon	2016-05-24 23:36:04	2016-05-24 23:36:04
-226	0xe2	â	37	5328967	war	Dírì na hirá magmulino yanâ.	urusahon	2016-08-09 08:15:10	2016-08-09 08:15:10
-233	0xe9	é	5	5328971	war	Matághum an kapé.	urusahon	2016-08-09 08:17:44	2016-08-09 08:17:44
-236	0xec	ì	122	5310805	war	Iton ákòn pagkitá dírì akó makalugar paghimo hiton.	urusahon	2016-07-31 21:41:50	2016-07-31 21:41:50
-237	0xed	í	295	5328972	war	Ini nga líbro kanan mga bitúon.	urusahon	2016-08-09 08:18:38	2016-08-09 08:18:38
-238	0xee	î	4	4713002	war	Nakaihî an bátà.	harvzs	2015-11-20 03:42:58	2015-11-20 03:42:58
-242	0xf2	ò	46	5838070	war	Ngatanan iton ákòn mga sangkay mapakanhi.	urusahon	2017-02-07 23:34:20	2017-02-07 23:34:20
-243	0xf3	ó	202	5163799	war	¿Mauro-upay itón ano?	urusahon	2016-05-24 22:38:58	2016-05-24 22:38:58
-244	0xf4	ô	14	4712946	war	An iya kakulop punô hin mga masulub-on nga mga hinumduman.	harvzs	2015-11-20 03:11:40	2015-11-20 03:11:40
-250	0xfa	ú	132	5170866	war	Kun karúyag mo mag-usáhan, malakat ako.	urusahon	2016-05-28 05:27:18	2016-05-28 05:27:18
+224	0xe0	à	48	4677605	war	Kúhà alayon hin taxi.	harvzs	2015-11-05 05:17:57	2015-11-05 05:17:57
+225	0xe1	á	636	5311498	war	Siring niya nga makikigkita hiyá ha ak' hiton sunod na ádlaw han ámon pagbulag, pero tikang hadto waray ko na hiya abata.	urusahon	2016-08-01 06:21:48	2016-08-01 06:24:12
+226	0xe2	â	37	5335976	war	Pumalít akó hin gasolina kantidad kwarenta dolyares yanâ nga ádlaw.	urusahon	2016-08-12 00:35:51	2016-08-12 00:35:51
+233	0xe9	é	5	5328725	war	Alayon timplahi daw usá ka-tasa hin kapé.	urusahon	2016-08-09 03:16:05	2016-08-09 03:16:05
+236	0xec	ì	122	5313782	war	Waráy ko nahihimo nga dírì nahihimo ni Tom.	urusahon	2016-08-02 07:09:26	2016-08-02 07:09:26
+237	0xed	í	295	5313103	war	May-ada niya gutíay ngan lidong nga butáng ha iya kamot.	urusahon	2016-08-01 21:24:48	2016-08-01 21:24:48
+238	0xee	î	4	5168198	war	Pag-ábat ko mabubulîgan mo kmi.	urusahon	2016-05-26 22:19:44	2016-05-26 22:19:44
+242	0xf2	ò	46	5323379	war	Iton ákòn pangitaan nagtitiraot.	urusahon	2016-08-06 23:52:39	2016-08-06 23:52:39
+243	0xf3	ó	202	4710325	war	¿Mag-aanó hi ikaw kon adà ka hit akon kamutangan?	harvzs	2015-11-19 01:35:55	2015-11-19 01:35:55
+244	0xf4	ô	14	4680435	war	Yanâ, nakasabot hi akó kun anó an nahinabô.	harvzs	2015-11-06 05:54:30	2015-11-06 05:54:30
+250	0xfa	ú	132	5168597	war	Hi Tom diri parú hit ibá. Diri niya karúyag it mga butáng ngan mga gihihimo nga kalilibangan hit kadam-an nga kalalakin-an.	urusahon	2016-05-27 02:14:20	2016-05-27 02:14:20
 251	0xfb	û	1	5176763	war	Diri makanhi hi Ann hiton atun kadamû.	urusahon	2016-05-30 18:18:06	2016-05-30 18:18:06
 253	0xfd	ý	2	4708433	war	Dírì hiýa dóktor.	harvzs	2015-11-18 06:46:51	2015-11-18 06:46:51
 695	0x2b7	ʷ	1	7838212	war	Rad dari ili kkuẓ d mrawn usggʷas.	monalisart18	2019-04-05 21:56:02	2019-04-05 21:56:02

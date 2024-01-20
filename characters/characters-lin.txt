@@ -1,105 +1,105 @@
-32	0x20	 	56376	10889775	lin	" Yeba na mokako na ngai maloba ya lola. / Esalemi ; na bomoyi mokano ya zuwa / ozali na mozalani na yo mwasi na yo. "	\N	2022-06-05 05:34:29	2022-06-05 05:34:30
-33	0x21	!	408	10842867	lin	Bibliya eyebi ba bombe atimike te, bikwelakwela ya mobembo te, makama ya lombongo te, bopesi-liwa na nzela ya interneti te, makelele ya mituka to bobebisani ya pepo te: o ! Nzambe! Batango nini oyo lokola ya paradiso!	\N	2022-05-20 04:55:11	2022-05-20 04:55:13
-34	0x22	"	214	10888962	lin	"Ah! Soki bato baye ya somo babukaka mibeko ya bato, / ezali, ezali ya banzambe oyo, na bitumbu ya semba, / bakofuta bobe pe bakobekola mabe. "	\N	2022-06-05 04:47:37	2022-06-05 04:47:38
+32	0x20	 	56376	10872798	lin	Motindi na ngai na mboka ya bapaya ezalaki eleko po na ngai kolongola makambo nyonso ya kala pe kobanda lisusu makambo ya sika.	\N	2022-05-30 05:21:52	2022-05-30 05:21:54
+33	0x21	!	408	10858473	lin	Ba Danois balobaka ''Nalingi yo''. Babosani lokota na bango !	\N	2022-05-26 05:19:01	2022-05-26 05:19:02
+34	0x22	"	214	10837977	lin	Moko ya motuya ya bikeko monene ya ntoki ya kala " Makambo ya ntango eleka", ekomama na losanla ya mokomi ayebani te.	\N	2022-05-18 04:43:32	2022-05-18 04:43:33
 36	0x24	$	1	10874614	lin	kofutela ndako moko na Manathattan eza nakati ya 4000 $na nsansa.	\N	2022-05-31 05:18:32	2022-05-31 05:18:33
-37	0x25	%	2	10830730	lin	Okozwama te ete ozali koluka boko makambo natina nayango basi bakoma 20% ?	\N	2022-05-15 05:08:03	2022-05-15 05:08:04
-39	0x27	'	76	10891789	lin	Ntangu ozali kopek kolandela nyonso, oko misepelisa na ngonga moko te. Zwa kimia, pema, zala a l'aise mpe vivre !	\N	2022-06-06 05:37:09	2022-06-06 05:37:12
-40	0x28	(	8	10880877	lin	Nayaki kotuna yo mpo na nzoto na yo ya mwasi , mpe olandaki ngai mpo na nzoto na ngai ya mobali ( likonzi ).	\N	2022-06-02 05:21:30	2022-06-02 05:21:31
-41	0x29	)	8	10835768	lin	Mpo ya bozwi lisungi ya minganga ndenge ebongisami na assurance elandelami na lisungi ya minganga, esengeli sikoyo koyeba soki lisungi wana esalemi na ndenge elongombani (ndingisa ya kolanda lisungi ya minganga).	\N	2022-05-17 05:43:10	2022-05-17 05:43:13
+37	0x25	%	2	10875459	lin	Na ntina ya komisa bobengani ya ba Palestiniens na ba etuku misusu ya Cisjordanie mbangu, mapinga oyo eyingela mpe enganzama ontei ya mboka na bango bakomisaki 18% ya bisika ya etuku ena camp yako salela ba netrainements. Ndambu ya ba palestiens nkóto motóba oyo batikali kovanda kuna bako bengana bango soki lelo te ata lobi.	\N	2022-05-31 06:06:25	2022-05-31 06:06:26
+39	0x27	'	76	10892000	lin	Bima sikasik'oyo.	\N	2022-06-06 05:56:24	2022-06-06 05:56:27
+40	0x28	(	8	10896561	lin	Nzela ata moko te, epusa moko pe te (ata ekuke te, ata ekuke te).	\N	2022-06-08 05:39:08	2022-06-08 05:39:09
+41	0x29	)	8	10855903	lin	Ndeke, Boeing 777-200, oyo e utaki Kuala Lumpur mokolo mwa mpóso na 0 h 41 (mokolo mwa mítáno 17 h 40 na Paris), esengaki ko koma na Pékin na 6 h 30 (23 h 30 na Paris).	\N	2022-05-25 05:17:39	2022-05-25 05:17:40
 43	0x2b	+	2	10842940	lin	Na ngonga oyo nameki koyekola ngai moko C++, nakangamaka na bateyi bilembo.	\N	2022-05-20 04:59:21	2022-05-20 04:59:22
-44	0x2c	,	2881	10842411	lin	Na tango mususu, asekaka likolo ya bozoba na ye moko.	\N	2022-05-20 04:29:05	2022-05-20 04:29:06
-45	0x2d	-	150	10877771	lin	Na mosanda nini asalaki mosala na mosala ya koluka-luka ?	\N	2022-06-01 05:08:57	2022-06-01 05:08:59
-46	0x2e	.	4748	10831429	lin	Na bolanga nzembo lokolo na boyebi ya liloba, ko kataka na ba ngonga esalemaka mpona ko tiya efet dramatike.	\N	2022-05-15 05:46:09	2022-05-15 05:46:10
-47	0x2f	/	196	10889216	lin	" Mokonzi monene ! Bozala na mayo ya lobi mya ngai ya mawa ; / ba nzambe lya seko, na boyambi nazali kotatola, / bosambela ngai nayebi likambo te, bobikisa ngai mabe makomela ngai te ! "	\N	2022-06-05 05:02:13	2022-06-05 05:02:14
-48	0x30	0	61	10877606	lin	Engumba ya Brno ebengamaka mingi "mboka ya munene ya republiki Tcheque" ata ba 400 000 ya bato.	\N	2022-06-01 04:59:53	2022-06-01 04:59:55
+44	0x2c	,	2881	10858434	lin	Na libanda ya eteyelo, mwana moke ya mobali akwei mpe abandi koganga lokola nsombo bazali kokata nkingo.	\N	2022-05-26 05:16:44	2022-05-26 05:16:45
+45	0x2d	-	150	10850986	lin	Azali muana muasi moko molayi makasi. Alati sweat ya pembe na t-shirt ya bule. Azali mpe na patalo ya banzela-nzela ya kitoko na babasketi.	\N	2022-05-23 05:07:36	2022-05-23 05:07:38
+46	0x2e	.	4748	10845636	lin	Azalaka na mposa ya kobetele piololo ike na basi kitoko baye amoni na nzela.	\N	2022-05-21 04:15:43	2022-05-21 04:15:44
+47	0x2f	/	196	10889261	lin	" Kasi, kouta Pallas mpo na kobalola elili, / mpenza mpo na kofuta mbeba basalaki, / babonzelaki na nzambe-mwasi libonza ya sika oyo. "	\N	2022-06-05 05:04:48	2022-06-05 05:04:49
+48	0x30	0	61	10815634	lin	Tokokoma na Akita na ngonga nini soki tozwi engunduka ya 9h30?	\N	2022-05-10 03:53:14	2022-05-10 03:53:15
 49	0x31	1	34	10837253	lin	Bonsaïs izali nzete ya mike, eye na kati ya zamba, ikoki kokoma ba 10 kino 20 metele ya molayi.	\N	2022-05-18 04:01:44	2022-05-18 04:01:45
-50	0x32	2	22	10872786	lin	Bamigran milion moko bakotaka na Eropa na mobu 2015. Likambo ya boye etikala kosalema te uta Etumba ya mibale ya mokili mobimba.	\N	2022-05-30 05:21:06	2022-05-30 05:21:07
-51	0x33	3	11	10873026	lin	Nazali na mbano ya 3 likolo ya monkama na nyonso nazali koteka.	\N	2022-05-30 05:34:38	2022-05-30 05:34:40
-52	0x34	4	16	10858864	lin	Ezali na elenge mwasi moko o kati na elanga. Elenge mwasi ya mboka Espanye, na miso ma ye ma minene pe suki molayi, loposo lya pembe pe wolo, bambembo ya motane pe matama ya langi ya rose, elenge mwasi ya sud ya espagne ya mibu 40, Pepa.	\N	2022-05-26 05:41:47	2022-05-26 05:41:48
-53	0x35	5	16	10837477	lin	Mboka ya Jura eza na 15 km mosika ya France.	\N	2022-05-18 04:14:45	2022-05-18 04:14:46
-54	0x36	6	12	10826952	lin	Afandaka na bala-bala Russell Square numero 56.	\N	2022-05-14 05:21:06	2022-05-14 05:21:07
-55	0x37	7	14	10833225	lin	Bakeseni na sanza moko ya mbotama na bango na mobu 1970.	\N	2022-05-16 04:48:49	2022-05-16 04:48:50
+50	0x32	2	22	10837465	lin	Na mobu ya 2006, buku ya Business Week esakolaki Bhoutan kozala ekolo ya esengo na bikolo nyoso ya Asia mpe ya mwambe na kati ya mokili mobimba, ko landana na bolukiluki yoko esalemaki na université ya Leicester na mobu ya 2006 ebengami « Carte du Bonheur ».	\N	2022-05-18 04:14:04	2022-05-18 04:14:05
+51	0x33	3	11	10843036	lin	Mateya mitano ya bomoi : §1 Kokanisa te ! §2 Ntango ozali kokanisa, koloba te ! §3 Ntango ozali koloba, kokoma te ! §4 Ntango ozali kokoma, kotiya mokoloto te ! §5 Ntango otie mokoloto, sikoyo kokamwa te !	\N	2022-05-20 05:04:54	2022-05-20 05:04:56
+52	0x34	4	16	10874614	lin	kofutela ndako moko na Manathattan eza nakati ya 4000 $na nsansa.	\N	2022-05-31 05:18:32	2022-05-31 05:18:33
+53	0x35	5	16	10872786	lin	Bamigran milion moko bakotaka na Eropa na mobu 2015. Likambo ya boye etikala kosalema te uta Etumba ya mibale ya mokili mobimba.	\N	2022-05-30 05:21:06	2022-05-30 05:21:07
+54	0x36	6	12	10877556	lin	Bazali kosenga biso tokoba kotiya moto na mosanda 26, kasi na biro na bango, moto ezali koleka ! « Bosala oyo nazali koloba kasi oyo nazali kosala te », lokola na momesano.	\N	2022-06-01 04:56:57	2022-06-01 04:56:59
+55	0x37	7	14	10855903	lin	Ndeke, Boeing 777-200, oyo e utaki Kuala Lumpur mokolo mwa mpóso na 0 h 41 (mokolo mwa mítáno 17 h 40 na Paris), esengaki ko koma na Pékin na 6 h 30 (23 h 30 na Paris).	\N	2022-05-25 05:17:39	2022-05-25 05:17:40
 56	0x38	8	5	10830926	lin	Na 1860, Lincoln aponamaki mokonzi ya mboka America.	\N	2022-05-15 05:18:31	2022-05-15 05:18:33
 57	0x39	9	13	10853485	lin	O mutu eye moto akweyaki na bamoko ya bayimi akufaki ezalaki ya le 14 pe le 15 décembre 1999.	\N	2022-05-24 03:58:30	2022-05-24 03:58:31
-58	0x3a	:	114	10843036	lin	Mateya mitano ya bomoi : §1 Kokanisa te ! §2 Ntango ozali kokanisa, koloba te ! §3 Ntango ozali koloba, kokoma te ! §4 Ntango ozali kokoma, kotiya mokoloto te ! §5 Ntango otie mokoloto, sikoyo kokamwa te !	\N	2022-05-20 05:04:54	2022-05-20 05:04:56
-59	0x3b	;	104	10835474	lin	Mwasi azali lokola elilingi na yo, kolanda ye na sima, akokima; soki okimi ye akolanda yo na sima !	\N	2022-05-17 05:26:33	2022-05-17 05:26:34
-63	0x3f	?	421	10804403	lin	Omekaki kotanga article ya Asie na ngonga?	\N	2022-05-05 05:40:49	2022-05-05 05:40:50
-65	0x41	A	541	10804447	lin	Los Angeles ezali bongo ville ya miballe ya monene ya engumba ya America.	\N	2022-05-05 05:43:17	2022-05-05 05:43:18
-66	0x42	B	743	10872638	lin	Bambembe bazalaka tango inso ya kobongama kosangana. Ezali na tina te kopesa bango Barry White.	\N	2022-05-30 05:12:29	2022-05-30 05:12:31
-67	0x43	C	131	10889011	lin	Ba Grecs balandi ye, abungisi muasi naye : ntangu amoni bozangi naye, abaluki pona koluka ye ; elilingi naye ebimeli ye, mpe ayebisi ye ete Cybèle azalaki na Phrygie.	\N	2022-06-05 04:50:27	2022-06-05 04:50:29
-68	0x44	D	73	10842380	lin	Daniel azui mosala ya malamu.	\N	2022-05-20 04:27:25	2022-05-20 04:27:26
-69	0x45	E	560	10886572	lin	Eh, boyoka oyo.	\N	2022-06-04 04:39:28	2022-06-04 04:39:31
-70	0x46	F	89	10838142	lin	Na maye matali vino ya malamu, mboka moko te ekomikokisa na mboka France.	\N	2022-05-18 04:52:56	2022-05-18 04:52:57
-71	0x47	G	49	10840244	lin	Grace azalaki komonisa ete azalaki na nkanda.	\N	2022-05-19 04:37:48	2022-05-19 04:37:49
-72	0x48	H	89	10835812	lin	Buku « Nasengi nayo ndingisa ya kokufa» elobeli lisolo ya mawa ya liwa ya Vincent Humbert.	\N	2022-05-17 05:45:41	2022-05-17 05:45:42
-73	0x49	I	56	10891998	lin	" Wana, ba fiers Locriens emi monisa na mboka ; / wana, eza yako pesa mibeko na ndenge ya kimya oyo ya humble Pétilie, / Philoctète asepela na coin ya mboka Italie ; / mpe, ba Salente enfin oyo etondisi ba sillons, / Idomenée na mosika azo bongiga mpona ba bataillons naye. "	\N	2022-06-06 05:56:11	2022-06-06 05:56:14
-74	0x4a	J	119	10845410	lin	Moto ya mayele ayebani kaka na Japon te, kasi lisusu na mboka mopaya.	\N	2022-05-21 04:02:43	2022-05-21 04:02:44
-75	0x4b	K	368	10830744	lin	Kobika naye ezalaki eloko musus te kasi likamwisi.	\N	2022-05-15 05:08:44	2022-05-15 05:08:45
-76	0x4c	L	306	10855462	lin	Likambo oyo esili koleka naino ntango te mpe esengeli epesama eyano na lombango.	\N	2022-05-25 04:52:16	2022-05-25 04:52:17
-77	0x4d	M	861	10874625	lin	Makama mingi makomaka na nzela ya mutuka mawutaka na mpongi.	\N	2022-05-31 05:19:11	2022-05-31 05:19:12
-78	0x4e	N	1332	10842454	lin	Na poso ezali koya, moniga na ngai avandaka na Angleterre akoya na Brésil mpona sanza mitano, azali kolikya ete akozwa mosala ya malamu.	\N	2022-05-20 04:31:26	2022-05-20 04:31:28
-79	0x4f	O	359	10804433	lin	Olele!	\N	2022-05-05 05:42:28	2022-05-05 05:42:30
-80	0x50	P	163	10830779	lin	Pe na lingaki na telema awa te na pokwa ya lelo soki ezalaki ngonzi te ya moninga na nga oyo toyebani ko leka mbula 16, esukeli ya libota na nga, Mwasi ya liboso ya mboka, Michelle Obama.	\N	2022-05-15 05:10:30	2022-05-15 05:10:31
-81	0x51	Q	6	10855964	lin	Nani azali moninga ya etumba ya États-Unis ontei ya oyo babengi "etumba pona kolonga terrorisme" soki ezalaki al-Qaïda te ? Bisika inso États-Unis alingaki kobeta, bazalaki kopesa ntina ya bozali ya al-Qaïda. Yango, toloba nini États-Unis elingaki ezala soki al-Qaïda ezalaki te ?	\N	2022-05-25 05:21:03	2022-05-25 05:21:04
-82	0x52	R	63	10815620	lin	Namonaki Rick te uta azongaki na ekolo Nouvelle-Zélande.	\N	2022-05-10 03:52:25	2022-05-10 03:52:26
-83	0x53	S	345	10804431	lin	Mike abengaki mbwa na ye Spike.	\N	2022-05-05 05:42:22	2022-05-05 05:42:23
-84	0x54	T	475	10898748	lin	Esengeli osenga bolimbisi epayi ya Thomas na tina ya lolenge obengaki ye.	\N	2022-06-09 07:12:22	2022-06-09 07:12:23
-85	0x55	U	31	10896232	lin	Mokonzi ya Unite ya basoda apesaki mobeko ete batika mandoki.	\N	2022-06-08 05:20:19	2022-06-08 05:20:21
-86	0x56	V	34	10835812	lin	Buku « Nasengi nayo ndingisa ya kokufa» elobeli lisolo ya mawa ya liwa ya Vincent Humbert.	\N	2022-05-17 05:45:41	2022-05-17 05:45:42
-87	0x57	W	41	10833672	lin	Okoki kolongwa Washington kino New York na nzela ya egbunduka.	\N	2022-05-16 05:14:18	2022-05-16 05:14:20
-88	0x58	X	3	10892423	lin	" Lolenge ya nkimia ya Xanthe ezali kolembisa lobi na bino ; / nkosi na biso etelemisaki na maboko na bino. / Lobi moko ya nkimia elanda misala na bino ! / Grèce ya Troie ebatela ata elilingi ya mpamba ! "	\N	2022-06-06 06:36:01	2022-06-06 06:36:04
-89	0x59	Y	110	10827232	lin	Tata mwasi na ngai avandaka na New York.	\N	2022-05-14 05:36:05	2022-05-14 05:36:06
-90	0x5a	Z	43	10827099	lin	Fololo iris ya ekolo Zapo, lisangisamaka na eyenga ya bana ya mibali (mokolo ya mitano ya sanza ya mitano), ezali fololo ya kitoko penza te.	\N	2022-05-14 05:29:16	2022-05-14 05:29:17
+58	0x3a	:	114	10831464	lin	Moto oyo akomi na suka : muasi naye akimi ye balongeli ye na musala mpe azali moto ya milangwa. Eleko ya mpasi ezali ete nayebaki ye, azalaki mukonzi na ngai eleki ba mbula mitano.	\N	2022-05-15 05:48:06	2022-05-15 05:48:07
+59	0x3b	;	104	10838141	lin	« Oyebi malamu ete esengeli te kolamusa nkoyi na pongi. » « Solo esengeli te kolamusa ye ; kasi kobeta ya na ntangu azali kolala pona kolonga ye ! »	\N	2022-05-18 04:52:52	2022-05-18 04:52:53
+63	0x3f	?	421	10837356	lin	Ndenge nini okoki kondima te ete mosali ya pamba ya mwasi, ya moyindo, ya monzemba lisusu, aloba solo te?	\N	2022-05-18 04:07:50	2022-05-18 04:07:51
+65	0x41	A	541	10814394	lin	Akoki kosala yango malamu koleka ngai.	\N	2022-05-09 05:42:20	2022-05-09 05:42:22
+66	0x42	B	743	10898721	lin	Yango pe! Bondimi yango ete bakotika mandoki? Olobi!	\N	2022-06-09 07:10:55	2022-06-09 07:10:57
+67	0x43	C	131	10837993	lin	Chèque moko ya pembe ? Oyo to monaka ete kaka na bafilm!	\N	2022-05-18 04:44:27	2022-05-18 04:44:28
+68	0x44	D	73	10833578	lin	Dokotolo a talaki etamboli ya motema ya mokoni mpe mopepe arterielle na ye.	\N	2022-05-16 05:08:53	2022-05-16 05:08:55
+69	0x45	E	560	10804459	lin	Engumba na biso ezwi naino mayi ya malamu te.	\N	2022-05-05 05:43:55	2022-05-05 05:43:56
+70	0x46	F	89	10835017	lin	Toko senga na Jeanne, ngondo, mosanto mpe mbeka, asambela Nzambe mpona monene mpe lokumu ya France.	\N	2022-05-17 05:01:23	2022-05-17 05:01:24
+71	0x47	G	49	10842346	lin	Bato ya ekolo Grande-Bretagne baponaki mokonzi ya sika: Winston Churchill.	\N	2022-05-20 04:25:29	2022-05-20 04:25:31
+72	0x48	H	89	10889619	lin	" Awa, angangaki na nkanda elombe Junon : / ya kotelam, ebende o maboko, ozo mona ye liboso ya bikuke ena / kobenga mapinga mya ye ? Ozomona milongo mya mapinga oyo / l'Hellespont akoyela ye lisungi ? "	\N	2022-06-05 05:25:29	2022-06-05 05:25:30
+73	0x49	I	56	10888948	lin	"Na bobimi ya Illion, epai tokovanda kala, /(ntango mosusu boyebi bobola ya Illion) / kowayawaya na bibale na bomoyi ya mitungisi, / na nsuka londende ya nkanda ebwakaki ngai na bisaka oyo. "	\N	2022-06-05 04:46:49	2022-06-05 04:46:50
+74	0x4a	J	119	10826994	lin	Bilenge mibali nyonso bazali na bolingo na Julia.	\N	2022-05-14 05:23:27	2022-05-14 05:23:28
+75	0x4b	K	368	10863458	lin	« Nakoki sikoyo ko tanga kobanda moko ti na nkámá na français. » « Waouh, kitoko ! Kasi, sikoyo sala yango lolenge ya sima, ko banda na nkámá ti na moko ? » « Euh, wana, nanu na koki te. »	\N	2022-05-27 04:50:29	2022-05-27 04:50:31
+76	0x4c	L	306	10858308	lin	Na pwasa, abombi azipi elongi na maboko na ye, mpe abimi na lombango libanda ya libanga nakosongela koloba na lolenge mosusu: « Liboso na ngayi te! »	\N	2022-05-26 05:09:29	2022-05-26 05:09:31
+77	0x4d	M	861	10831128	lin	Makanisi oyo mibale mazali na ya malamu pe na ya mabe, yango nako kata likambo sika sika oyo te.	\N	2022-05-15 05:29:20	2022-05-15 05:29:21
+78	0x4e	N	1332	10840091	lin	Nabanzi ete bana basengelaki komela masanga te.	\N	2022-05-19 04:29:01	2022-05-19 04:29:02
+79	0x4f	O	359	10875049	lin	na Espéranto, tokoki kobongola maloba nyonso kolanda lolenge oyo elandani : SVO, SOV, VOS, VSO, OVS, OSV, na S lokola sujet, V pona verbe mpe O pona objet.	\N	2022-05-31 05:43:07	2022-05-31 05:43:08
+80	0x50	P	163	10863218	lin	Pesa libaku lilamu epai ya moto mususu.	\N	2022-05-27 04:37:09	2022-05-27 04:37:11
+81	0x51	Q	6	10830707	lin	Eleki mobu sambo, Etats-Unis ezalaki kolanda al Qaeda mpe Talibans na simbisi monene ya bikolo misusu. Tokendaki nabolingi te, tokendaki mpo ezalaki ya motuya.	\N	2022-05-15 05:06:55	2022-05-15 05:06:56
+82	0x52	R	63	10850112	lin	Mapinga manso ya mokili mazalaki kobanza kozala soda lokola Rambo, kasi litiyo ezali ete ata lipinga ya amelika ezali ata moko te. Rambo azalaka kaka na sinema.	\N	2022-05-23 04:18:23	2022-05-23 04:18:24
+83	0x53	S	345	10889599	lin	Na ngonga nyonso, tomikaniselaka makanisi ya mokambi ya ndako mpe ya basali ya basi. Soki ezalaki bongo te, tokokaki koyoka bato baye te, mpe koyokamela te. Yango ezali boye na motuya.	\N	2022-06-05 05:24:21	2022-06-05 05:24:22
+84	0x54	T	475	10850896	lin	Namoni Tom.	\N	2022-05-23 05:02:28	2022-05-23 05:02:29
+85	0x55	U	31	10830683	lin	Tata nangayi asalaka na Usine moko.	\N	2022-05-15 05:05:38	2022-05-15 05:05:40
+86	0x56	V	34	10877425	lin	Vampire apwepwaki kingo na ye na esengo makasi.	\N	2022-06-01 04:48:47	2022-06-01 04:48:48
+87	0x57	W	41	10858883	lin	Bobby Womack azalaki nkombo monene na nzembo ya soul ya amerika.	\N	2022-05-26 05:42:52	2022-05-26 05:42:54
+88	0x58	X	3	10845815	lin	Crambé maritime, oyo ezali na nsunga kitoko mpe goût ya choux na noisette, kasi ezali na nzela yako limwa, pamba te boloni mya yango mazali pasi pona kosala mombongo, kasi mokonzi Louis XIV zalaki kosenga myango mazanga te na bilanga mya ye.	\N	2022-05-21 04:26:04	2022-05-21 04:26:05
+89	0x59	Y	110	10842918	lin	Ya malonga, ezali te kelasi ya likolo esika ozuaki dipoloma na yo, kasi biye osalaki tango ozalaki wana.	\N	2022-05-20 04:58:06	2022-05-20 04:58:08
+90	0x5a	Z	43	10850920	lin	Zut, nazangi lisusu engunduka.	\N	2022-05-23 05:03:50	2022-05-23 05:03:51
 92	0x5c	\	2	10889583	lin	Na moto na bango, Pyrrhus, epasoli na liboko, / abeti mbala mibale likolo ya ekuke ya libende ya motane. \\Biteni ya mabende biningani; biteni ya mabaya ya monene mafungwami.	\N	2022-06-05 05:23:26	2022-06-05 05:23:27
 95	0x5f	_	4	10827527	lin	Engebene na masolo ya solo, ____ Ltd. ezali komibongisa na kokota na eteni ya yambo ya misolo ya Tokyo.	\N	2022-05-14 05:50:01	2022-05-14 05:50:02
-97	0x61	a	52715	10831135	lin	Mukolo oyo tokoki ko bengana, nayebi bisika ya esekolelo esika batu bazalaka ebelé.	\N	2022-05-15 05:29:44	2022-05-15 05:29:45
-98	0x62	b	12139	10853619	lin	Ata ko ezomonana ete masolo ya boyokani ekokende liboso te, bato basusu bazali na mwa na elikya.	\N	2022-05-24 04:06:37	2022-05-24 04:06:39
-99	0x63	c	519	10833470	lin	Motango ya bakiliya bakendeke mbula nyonso na ntango ya mbula ya sika ya ba chinois, na Tang Frères ya monene, na Paris na alondisema ya zomi ya misato, ebangisaka.	\N	2022-05-16 05:02:38	2022-05-16 05:02:39
-100	0x64	d	2485	10839739	lin	Ko banda mbula ya liboso ya bomoyi, to zoko zua ko uta epayi baboti mpe na ba ndeko, boyambi oyo eko mema biso to luka sango yako bakisama.	\N	2022-05-19 04:09:11	2022-05-19 04:09:12
-101	0x65	e	20419	10866294	lin	Bomba mateya na yo ya bato malamo, toli na mpe mitindo mpona yo meyi. Nalembi bizaleli na yo ya goyi-goyi.	\N	2022-05-28 05:49:13	2022-05-28 05:49:15
-102	0x66	f	478	10850426	lin	Nasalaki nyoso esengeli mpo na yango, mpe na banzi ete bokolakisa litomba ya monene ya koyeba kaka mibeko wana te, kasi lisusu "molimo" ya bokeli ya kokamwa ya Moteyi, Zamenhof.	\N	2022-05-23 04:35:51	2022-05-23 04:35:52
-103	0x67	g	7400	10893944	lin	Muana mwasi oyo akufa matoyi azalaki kolata elamba ya langi ya mosaka oyo basali na bisika batonga ba ndako balataka.	\N	2022-06-07 05:43:53	2022-06-07 05:43:55
-104	0x68	h	400	10893783	lin	Kota boni Charlotte akoki koloba?	\N	2022-06-07 05:34:57	2022-06-07 05:34:58
-105	0x69	i	24318	10831092	lin	Na bobongisi ya rezo, bebo ya mikanda ezo pimbwa nzinganzinga na mokili.	\N	2022-05-15 05:27:28	2022-05-15 05:27:29
-106	0x6a	j	60	10835588	lin	Concombre mobomi, abanzaki ete akeyi kopema na kimia na Espagne, kasi esengelaki azongela mosala mbangu mbangu po ete soja zalaki makasi penza te pona kosala mosala mya ye ya kosilisa koboma.	\N	2022-05-17 05:32:59	2022-05-17 05:33:00
-107	0x6b	k	19699	10833249	lin	Boye nde Pandark amibungisaka na suku na ye kino bamonaka ye lisusu te. Baike balobaka ete akufa na nzala, misusu ete azali kotambolatambola koluka ba CD na ye.	\N	2022-05-16 04:50:14	2022-05-16 04:50:15
-108	0x6c	l	16279	10840446	lin	Tokozanga maloba ya kotonda William Christie te na ndenge apesaki nzela, nsima ya bileko misato, na misala miyike ya ntoki mingenga na France.	\N	2022-05-19 04:49:16	2022-05-19 04:49:17
-109	0x6d	m	15621	10842504	lin	Bo bimisa maloba mate te moki te nako sukola munoko na bino na sabuni.	\N	2022-05-20 04:34:18	2022-05-20 04:34:20
-110	0x6e	n	23697	10848089	lin	Kolanda nzela moko ya boyekoli ezali na motuya mingi. Soki moboti moko aponi eloko moko mpe mosusu asali oyo ekeseni, mwana abulanganisani.	\N	2022-05-22 04:11:32	2022-05-22 04:11:33
-111	0x6f	o	33032	10804356	lin	Hé ! Bale na yo euti kopanza tala-tala na ngai !	\N	2022-05-05 05:38:12	2022-05-05 05:38:14
-112	0x70	p	3881	10833807	lin	Mpɛ́pɔ ya biloko ezali na ngonga minei ya avance.	\N	2022-05-16 05:22:01	2022-05-16 05:22:02
-113	0x71	q	67	10837590	lin	Carte na ngayi ya banque eboyamaki na distributeur ya bongo.	\N	2022-05-18 04:21:12	2022-05-18 04:21:14
-114	0x72	r	1293	10837719	lin	Enterneti eza pona Shina, eye supape eza pona cocotte-minite, ezo kengela makasi na ko batela ete epasuka te.	\N	2022-05-18 04:28:39	2022-05-18 04:28:40
-115	0x73	s	10190	10889298	lin	Nafungolaki sanduku ya mosolo. Yango ezalaki na eloko te.	\N	2022-06-05 05:06:51	2022-06-05 05:06:52
-116	0x74	t	9117	10804395	lin	Na ntango wana, Tony azalaki pene pene na bamvula tuku motoba, kasi azalaki nanu na makasi ya mosala. Azalaki na motuka ya sika makasi, masini ya sika ya kokata matiti, bisaleli bisusu pe bato misato ya kosunga ye.	\N	2022-05-05 05:40:24	2022-05-05 05:40:25
-117	0x75	u	5247	10838223	lin	Azali lokola moto azali koluka kasi ayebi te eloko nini azali koluka.	\N	2022-05-18 04:57:35	2022-05-18 04:57:36
-118	0x76	v	209	10898765	lin	Tata ya Roger Miller akufa na ntango ye azalaki na mobu moko mpe mama na ye abelaki kaka na nsima wana. Atindamaki kokende kovanda elongo na noko na ye Erick, na Oklahoma.	\N	2022-06-09 07:13:08	2022-06-09 07:13:09
-119	0x77	w	1655	10855145	lin	Bolingo, tokoki kondima to koboya yango, kokolisa to koboma yango, tokoki kotia yango mwa ba epices to kotia yango mbondo, kobikisa yango to mpe kosundola yango.	\N	2022-05-25 04:33:57	2022-05-25 04:33:58
-120	0x78	x	46	10837421	lin	Kolekaka soki mokolo moko te liboso ya ecclezia mpe opesa mbote ya botosi to mpe osanjola Yezu te oyo azali kopema kuna, mpe kumisa mosantu oyo ecclesia epesameli : lakisa botosi na ba ekuluzu nyonso ozali komona na nxela na yo.	\N	2022-05-18 04:11:34	2022-05-18 04:11:35
-121	0x79	y	11356	10835798	lin	Tozali kozela bobimi ya lokasa nayo ya yambo na bobangi mpe motema moto.	\N	2022-05-17 05:44:53	2022-05-17 05:44:54
-122	0x7a	z	5037	10859029	lin	Azali kolinga mingi penza te kokanisa mikakatano naye mei.	\N	2022-05-26 05:51:25	2022-05-26 05:51:27
+97	0x61	a	52715	10837404	lin	Tatoeba aboyi maloba ya moto oyo azali komilobela: Ozuaka ba couriel ya bokebi te soki olimboli masakola na yo moko. Bomoyi ezali mpasi !	\N	2022-05-18 04:10:36	2022-05-18 04:10:37
+98	0x62	b	12139	10859032	lin	Kaka ntango azongi na bilo, azwi telefone na ye mpe abeti nimero ya Charlie.	\N	2022-05-26 05:51:36	2022-05-26 05:51:37
+99	0x63	c	519	10891940	lin	Soki nazalaki nkolo malewa, nalingaki kolobela basali ete basalela ba clients na esengo.	\N	2022-06-06 05:50:39	2022-06-06 05:50:41
+100	0x64	d	2485	10855730	lin	Bomoyi na ye ebebaki mokolo mobali na ye akendaki na ndenge alakaki ye te.	\N	2022-05-25 05:07:48	2022-05-25 05:07:50
+101	0x65	e	20419	10855502	lin	Baba ya mbula eye bakanisi ete mituba nyonso ya bomoyi bikokaki koyanolama na pete lokola kobeta lisano na lodinatele.	\N	2022-05-25 04:54:33	2022-05-25 04:54:35
+102	0x66	f	478	10833444	lin	Nalingi osala inventaire ya malamu penza mbula oyo, esengeli te kaka ba chiffres, oyoki?	\N	2022-05-16 05:01:07	2022-05-16 05:01:08
+103	0x67	g	7400	10833307	lin	Moto abongisaka esengelaki akoma na nzanga, kasi akangamaki na ba embouteillages na ngonga ebele.	\N	2022-05-16 04:53:25	2022-05-16 04:53:27
+104	0x68	h	400	10881157	lin	Parc naturel oyo ye etuka ya Camargue, bisika ya minene oyo ezali na delta ya Rhône, ezali kitoko !	\N	2022-06-02 05:36:53	2022-06-02 05:36:54
+105	0x69	i	24318	10847825	lin	Likanisi ezali eloko oyo nazali komeka kolimbola mpo na nini bato basengeli kokanisa lokola ngai.	\N	2022-05-22 03:56:51	2022-05-22 03:56:52
+106	0x6a	j	60	10837421	lin	Kolekaka soki mokolo moko te liboso ya ecclezia mpe opesa mbote ya botosi to mpe osanjola Yezu te oyo azali kopema kuna, mpe kumisa mosantu oyo ecclesia epesameli : lakisa botosi na ba ekuluzu nyonso ozali komona na nxela na yo.	\N	2022-05-18 04:11:34	2022-05-18 04:11:35
+107	0x6b	k	19699	10892274	lin	Meka kokanisa nani mosusu alongwi kovanda na Boston.	\N	2022-06-06 06:21:39	2022-06-06 06:21:42
+108	0x6c	l	16279	10891941	lin	"Céléno moto ya somo, atelemelaki bilako na bango, / moto moko amekaki koyebisa ngai kanda ya likolo, pe kokanela mikolo na ngai ya nzala ya koboma moto. / Loba: ete po na libaku na ngai bwanya bwayo mokokana. "	\N	2022-06-06 05:50:45	2022-06-06 05:50:48
+109	0x6d	m	15621	10833692	lin	Avandaki na nganda, kolandisa nkopo ya masanga makasi moko nsima ya mosusu.	\N	2022-05-16 05:15:27	2022-05-16 05:15:29
+110	0x6e	n	23697	10845405	lin	Toza na tango ya kokoso, mpe kobongola ya salo, mpe kokende ya solo ekokismi nanu te.	\N	2022-05-21 04:02:24	2022-05-21 04:02:26
+111	0x6f	o	33032	10888948	lin	"Na bobimi ya Illion, epai tokovanda kala, /(ntango mosusu boyebi bobola ya Illion) / kowayawaya na bibale na bomoyi ya mitungisi, / na nsuka londende ya nkanda ebwakaki ngai na bisaka oyo. "	\N	2022-06-05 04:46:49	2022-06-05 04:46:50
+112	0x70	p	3881	10891736	lin	"Kasi nani akokaki na mosika boye ko zelela etenyi? / Mpe nani andimelaki Kasandra na ba tango wana ya pasi? /To mi tika na mobeko ya mbese, totosa ba nzambe. "	\N	2022-06-06 05:32:03	2022-06-06 05:32:04
+113	0x71	q	67	10815603	lin	Azali na mashini ya kosukola ya automatique.	\N	2022-05-10 03:51:27	2022-05-10 03:51:28
+114	0x72	r	1293	10853093	lin	Bango mibale basalaki mingi na mambi maleka ya Europa.	\N	2022-05-24 03:35:41	2022-05-24 03:35:42
+115	0x73	s	10190	10804455	lin	Soki ekoki kosalema, ba Japonais balingaka kopona balongami oyo bakokani na bango, koluka lolenge moko ya kimia oyo ekowumela mpe komatisa mutu malembe malembe kasi malamu mpe kotia nkita na bango na banque.	\N	2022-05-05 05:43:41	2022-05-05 05:43:42
+116	0x74	t	9117	10830725	lin	Soki osepeli na bomoyi na yo moko te, napesi yo toli ya komikomisa na Facebook. Ezali nzela ya malamu ya kotika yango.	\N	2022-05-15 05:07:46	2022-05-15 05:07:47
+117	0x75	u	5247	10804429	lin	Martin Luther King Junior azalaki mwana ya Pasteur ya lomposo mwindo.	\N	2022-05-05 05:42:18	2022-05-05 05:42:19
+118	0x76	v	209	10877772	lin	Yerusalemu ezalaki mboka ya kimia, na pona azala na "kimia" esengeli ko boma ba nkolo Palestine nionso oyo baza ko vanda kuna, tina na ba oyo bavandaki kuna mpe ba kundami kuna.	\N	2022-06-01 05:09:01	2022-06-01 05:09:02
+119	0x77	w	1655	10835663	lin	Moto oyo amibengi mondimi mwa demokrasi mpe azui ngolu ya kobika kati ya demokrasi, kasi ntango nyonso akonyonga na nkombo ya bato ya politiki, mpe amikotisi ye moko na politiki te ye, asosoli mpenza malamu te ntina ya liloba "demokrasi".	\N	2022-05-17 05:37:05	2022-05-17 05:37:06
+120	0x78	x	46	10826924	lin	Ba voisins bazali Pomona ete exila ya boyambi mikanda ezali polele te.	\N	2022-05-14 05:19:35	2022-05-14 05:19:36
+121	0x79	y	11356	10835837	lin	Auti epai ya notaire. Akendaki kotia mokoloto na mikanda oyo mitalaki nkita ya tata mwasi na ye.	\N	2022-05-17 05:47:14	2022-05-17 05:47:15
+122	0x7a	z	5037	10835574	lin	Mikolo minso ya lomingo, nakendeke na tempelo ya mayembi ya bouddha na esika ebombana. Nakumbaka na lombango penza, na muziki ya se.	\N	2022-05-17 05:32:10	2022-05-17 05:32:11
 160	0xa0	 	44	10880941	lin	« Na kanisi ete bokokaki ko sala libala kitoko. » « Hein ?! »	\N	2022-06-02 05:25:10	2022-06-02 05:25:11
 167	0xa7	§	5	10843036	lin	Mateya mitano ya bomoi : §1 Kokanisa te ! §2 Ntango ozali kokanisa, koloba te ! §3 Ntango ozali koloba, kokoma te ! §4 Ntango ozali kokoma, kotiya mokoloto te ! §5 Ntango otie mokoloto, sikoyo kokamwa te !	\N	2022-05-20 05:04:54	2022-05-20 05:04:56
-171	0xab	«	146	10865971	lin	« Oyo, ezali foto tango yaya na ngai ya mobali ayaki kotala ngai. « « Ah, akokani nayo lokola matanga mibale ya mayi! Ezali yo, awa? » « Ezangi! Ngai, nazali awa. »	\N	2022-05-28 05:32:05	2022-05-28 05:32:06
-187	0xbb	»	155	10865971	lin	« Oyo, ezali foto tango yaya na ngai ya mobali ayaki kotala ngai. « « Ah, akokani nayo lokola matanga mibale ya mayi! Ezali yo, awa? » « Ezangi! Ngai, nazali awa. »	\N	2022-05-28 05:32:05	2022-05-28 05:32:06
+171	0xab	«	146	10896063	lin	« Okokoka kokotisa monkanda na yo ekomami na maboko na ngonga oyo esengeli ? » « Eh boye, esengeli ezala bongo. Elaka ezali elaka. »	\N	2022-06-08 05:10:04	2022-06-08 05:10:05
+187	0xbb	»	155	10869228	lin	Ata soki nalingaki koloba « ekoki kosalema soki mukie te! », ntangu misusu, ata soki nalingi te nasukaka kaka nakoyanola « likambo eza te! ».	\N	2022-05-29 06:06:03	2022-05-29 06:06:05
 194	0xc2	Â	1	10835188	lin	Na Angleterre na Moyen Âge, bingumba binso bizalaki kosakana lisano ya motope mokolo ya mosala te, ntango mosusu kino basakani nkama mitano mbala moko.	\N	2022-05-17 05:10:47	2022-05-17 05:10:48
-201	0xc9	É	20	10869461	lin	Bakangemi mibale bakimaki boloko oyo ezali ya kokengelama makasi na États-Unis, na engumba ya New York.	\N	2022-05-29 06:18:43	2022-05-29 06:18:44
+201	0xc9	É	20	10858316	lin	Ozali kosilika mpe koseka yo moko, Éthel ; ozali na esengo, mpamba te ozali kosilikela te maye maleka, mpe ozali koseka mpo na maye makoya.	\N	2022-05-26 05:09:57	2022-05-26 05:09:58
 211	0xd3	Ó	1	3649455	lin	Óyo mpɔ́sɔ ya mísátu.	\N	2014-11-21 21:51:07	2015-10-19 01:50:37
-224	0xe0	à	10	10884152	lin	Azali na bilembo ya rouge-à-lèvre na matama naye.	\N	2022-06-03 04:28:38	2022-06-03 04:28:39
-225	0xe1	á	133	10804339	lin	Koma makomi oyo na bokuse na maloba nkámá míbalé.	\N	2022-05-05 05:37:17	2022-05-05 05:37:18
-226	0xe2	â	3	10886264	lin	Boninga ya solo eza oyo elekela mpe elongâ bileko ya mpasi.	\N	2022-06-04 04:05:27	2022-06-04 04:05:29
-231	0xe7	ç	10	10886714	lin	Na sima ya kotika mokonzi oyo atali makambu ya bitumba, Bolkonsky akendaki na butu na likanisi ya kokota mapinga, oyo ayebaki lisusu te esika ya kokutana na bango, mpe azalaki na bobangi ete akweyisama na maboko ya ba Français.	\N	2022-06-04 04:55:05	2022-06-04 04:55:08
-232	0xe8	è	35	10839718	lin	Yambo ya kotiya biloko na disque, esengeli yambo okabola yango, na nsima système ya lisanga ya nkasa na likolo, mpe na nsuka kotiya système ya lisanga ya nkasa.	\N	2022-05-19 04:07:58	2022-05-19 04:07:59
-233	0xe9	é	243	10874793	lin	Esengeli ko balola, ko sapola, ko sakola, ko komisa, ko komisa mbala mosusu, clicher, stéréotyper, ko koma na bililingi, ko kabola, ko ganga, ko limbola, ko tanga, ko tangà, ko pesa na banso, ko pesa na ntalo moke, ko pesa na ntalo ya suka, ko pesa pamba, bayembi nyoso, bayi-makanisi.	\N	2022-05-31 05:28:26	2022-05-31 05:28:27
+224	0xe0	à	10	10878043	lin	« What à Wonderful World » ezali moko yaba nzembo nalingaka mingi.	\N	2022-06-01 05:24:08	2022-06-01 05:24:10
+225	0xe1	á	133	9525868	lin	Nazalí kolúka motongi mpó atongá ngáí elambá mɔ̌kɔ́ mpó ná fɛ́tí ya mama lɛ́ki ná ngáí.	ActelOc	2020-12-23 13:57:46	2020-12-23 13:58:01
+226	0xe2	â	3	10827391	lin	Boyi ya muasi akotaki na gâteau azalaki komema.	\N	2022-05-14 05:44:15	2022-05-14 05:44:16
+231	0xe7	ç	10	10863416	lin	lolenge oyo yako simba piano ekeseni te na lolenge ya ba Français.	\N	2022-05-27 04:48:14	2022-05-27 04:48:15
+232	0xe8	è	35	10838109	lin	Atako nazali na lipolome ya université te, nazwaki ebonga ya likolo na Académie Royale des Sciences na Suède mpe nakoki ata kozala mpo na kozwa mokano na oyo etali prix Nobel.	\N	2022-05-18 04:51:10	2022-05-18 04:51:11
+233	0xe9	é	243	10842779	lin	Na nsima ya mibu, na esika ya « Monoko ya mokili mobimba ya monganga Espéranto» nkombo mokuse ya « espérato » ekolobama. Na mokolo oyo tozali kosepela bongo mibu nkama ntuku mibale na mitano ya mbotama ya espéranto na mokili mobimba.	\N	2022-05-20 04:50:05	2022-05-20 04:50:06
 234	0xea	ê	4	10898766	lin	Alfabet ya bakurde ezali na bilembo ntuku misantu na moko : a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	\N	2022-06-09 07:13:11	2022-06-09 07:13:13
-235	0xeb	ë	7	10869776	lin	Tom alobaki ete alingaki kokende kotala Père Noël na Pôle Nord.	\N	2022-05-29 06:35:02	2022-05-29 06:35:03
-237	0xed	í	81	3649591	lin	Akeí ndɔ́bɔ.	ActelOc	2014-11-21 23:01:45	2020-12-23 11:43:20
-238	0xee	î	3	10827103	lin	île oyo ekambamaki na France na eleko mosusu.	\N	2022-05-14 05:29:27	2022-05-14 05:29:28
+235	0xeb	ë	7	10886207	lin	Na yango, soki neige ezali kokweya kaka, père Noël akokoka kokoma na ntangu te.	\N	2022-06-04 03:59:08	2022-06-04 03:59:11
+237	0xed	í	81	9525868	lin	Nazalí kolúka motongi mpó atongá ngáí elambá mɔ̌kɔ́ mpó ná fɛ́tí ya mama lɛ́ki ná ngáí.	ActelOc	2020-12-23 13:57:46	2020-12-23 13:58:01
+238	0xee	î	3	10898766	lin	Alfabet ya bakurde ezali na bilembo ntuku misantu na moko : a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	\N	2022-06-09 07:13:11	2022-06-09 07:13:13
 239	0xef	ï	9	10855964	lin	Nani azali moninga ya etumba ya États-Unis ontei ya oyo babengi "etumba pona kolonga terrorisme" soki ezalaki al-Qaïda te ? Bisika inso États-Unis alingaki kobeta, bazalaki kopesa ntina ya bozali ya al-Qaïda. Yango, toloba nini États-Unis elingaki ezala soki al-Qaïda ezalaki te ?	\N	2022-05-25 05:21:03	2022-05-25 05:21:04
-243	0xf3	ó	73	9525717	lin	Mótuka bwa tatá eza mombwé.	ActelOc	2020-12-23 12:40:59	2020-12-23 13:03:59
-244	0xf4	ô	9	10889220	lin	" Kasi bino, soki nasaleli biso, ô baTroyens ya mitema malamu ! / soki nabikisi mikolo na bino, babikisa mpe ya ngai. "	\N	2022-06-05 05:02:27	2022-06-05 05:02:28
-250	0xfa	ú	49	9525748	lin	Likɔ́mbɔ ya kala eyebí bitutú niɔ́nsɔ ya súku mɔ̌kɔ́ kasi óyo ya siká ekɔmbela koleka.	ActelOc	2020-12-23 12:48:23	2020-12-23 13:02:34
-251	0xfb	û	2	10898766	lin	Alfabet ya bakurde ezali na bilembo ntuku misantu na moko : a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	\N	2022-06-09 07:13:11	2022-06-09 07:13:13
+243	0xf3	ó	73	3196605	lin	Mbóte, nkómbó na ngáí Pekka. Nkómbó na yó náni?	ActelOc	2014-04-24 03:33:11	2020-12-23 11:40:56
+244	0xf4	ô	9	10881157	lin	Parc naturel oyo ye etuka ya Camargue, bisika ya minene oyo ezali na delta ya Rhône, ezali kitoko !	\N	2022-06-02 05:36:53	2022-06-02 05:36:54
+250	0xfa	ú	49	3647285	lin	Mwána ya mobáli aákozóngisa na motúna.	\N	2014-11-20 23:01:44	2015-10-19 01:50:40
+251	0xfb	û	2	10845815	lin	Crambé maritime, oyo ezali na nsunga kitoko mpe goût ya choux na noisette, kasi ezali na nzela yako limwa, pamba te boloni mya yango mazali pasi pona kosala mombongo, kasi mokonzi Louis XIV zalaki kosenga myango mazanga te na bilanga mya ye.	\N	2022-05-21 04:26:04	2022-05-21 04:26:05
 265	0x109	ĉ	1	10840315	lin	Alphabet ya lokoto espéranto ezali naba lettres tuku mibale n'a mwambe : a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-05-19 04:41:48	2022-05-19 04:41:49
 283	0x11b	ě	6	9525316	lin	Amɔ́ní yě kokúmba mótuka ná yě ya síká.	ActelOc	2020-12-23 10:48:09	2020-12-23 13:11:18
 285	0x11d	ĝ	1	10840315	lin	Alphabet ya lokoto espéranto ezali naba lettres tuku mibale n'a mwambe : a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-05-19 04:41:48	2022-05-19 04:41:49
@@ -107,18 +107,18 @@
 305	0x131	ı	6	10888928	lin	Lokumu moko ya mpete ezalaki na nsango na ye : / azali koloba, azali kolembisa Carthage, / mokonzi na ye ya mwası ya kitoko azalaki kopesa lolendo, / mpe ba Troyens bazalaki kobongama mpo na koyamba ye malamu.	\N	2022-06-05 04:45:41	2022-06-05 04:45:42
 309	0x135	ĵ	1	10840315	lin	Alphabet ya lokoto espéranto ezali naba lettres tuku mibale n'a mwambe : a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-05-19 04:41:48	2022-05-19 04:41:49
 349	0x15d	ŝ	1	10840315	lin	Alphabet ya lokoto espéranto ezali naba lettres tuku mibale n'a mwambe : a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-05-19 04:41:48	2022-05-19 04:41:49
-351	0x15f	ş	2	10840346	lin	Na mokanda ya kofuta ekomami : lifuta ya monene mpe lifuta ya şoke nsima ya kofuta mpako.	\N	2022-05-19 04:43:35	2022-05-19 04:43:36
+351	0x15f	ş	2	10898766	lin	Alfabet ya bakurde ezali na bilembo ntuku misantu na moko : a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	\N	2022-06-09 07:13:11	2022-06-09 07:13:13
 365	0x16d	ŭ	1	10840315	lin	Alphabet ya lokoto espéranto ezali naba lettres tuku mibale n'a mwambe : a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-05-19 04:41:48	2022-05-19 04:41:49
 462	0x1ce	ǎ	1	9525565	lin	Ndeko na ngáí ya mwǎsí ya libosó atekaka mapápa pɛnɛ.	ActelOc	2020-12-23 11:54:07	2020-12-23 13:48:32
-596	0x254	ɔ	56	9525440	lin	Moto akoboma yɔ̌ óyo olíyaka ná yě.	ActelOc	2020-12-23 11:32:46	2020-12-23 13:08:06
-603	0x25b	ɛ	44	3647259	lin	Tozalí kokɛndɛ na ndáko.	\N	2014-11-20 22:55:38	2015-10-19 01:50:51
-769	0x301	́	48	9525537	lin	Oza ná etánda ya kitɔ́kɔ ná ngúmba, madésu, litungúlu mpé pilipíli.	ActelOc	2020-12-23 11:50:20	2020-12-23 14:00:50
-780	0x30c	̌	9	9525326	lin	Amɔ́nákí yě kolíya liyóto mɔ̌kɔ́.	ActelOc	2020-12-23 10:54:28	2020-12-23 13:11:01
+596	0x254	ɔ	56	3649459	lin	Malámu, mɔkɔlɔ níni tokosolola malámu, mpóo, naákokɛndɛ mbángu na mosálá.	ActelOc	2014-11-21 21:52:53	2020-12-23 11:43:23
+603	0x25b	ɛ	44	9525572	lin	Libosó ókɛndɛ, sombɛla ngáí eloko.	ActelOc	2020-12-23 11:55:18	2020-12-23 11:55:18
+769	0x301	́	48	3647124	lin	Baákobénga yɔ́ na tɛlɛfɔ́n.	\N	2014-11-20 21:31:49	2015-10-19 01:50:59
+780	0x30c	̌	9	9525748	lin	Likɔ́mbɔ ya kala eyebí bitutú niɔ́nsɔ ya súku mɔ̌kɔ́ kasi óyo ya siká ekɔmbela koleka.	ActelOc	2020-12-23 12:48:23	2020-12-23 13:02:34
 8201	0x2009	 	2	10844895	lin	Album ya sika ya « Take That », ezali kitoko !	\N	2022-05-21 03:32:47	2022-05-21 03:32:48
 8211	0x2013	–	3	10863304	lin	Soki mokolo moko na maloba ya ba mindele epukani, na mokolo wana – eyo kaka makanisi mpe projet – ekosila ko exister.	\N	2022-05-27 04:41:47	2022-05-27 04:41:48
 8212	0x2014	—	7	10881069	lin	Frantz de Galais, muana ya ekpangba — oyo azalaki moyekolo to mutu ya masuwa to tango mususu oyo aza na posa yako koma mutu ya masuwa, to yebaki na biso te...— akendaki na Bourges pona ko luka muasi mpe ko bala ye.	\N	2022-06-02 05:32:06	2022-06-02 05:32:08
 8216	0x2018	‘	2	10827250	lin	Moto ya soloka Sarah. Liboso, basusu babengaka ye ‘‘Moto ya soloka monene'' to mpe nkombo moko songolo.	\N	2022-05-14 05:37:04	2022-05-14 05:37:06
 8220	0x201c	“	1	10835514	lin	Soki esengeli tobenga mboka na mboka na nkombo oyo toyokaka bato balobaka mingi, Angleterre elingaki ebengama “damn it”.	\N	2022-05-17 05:28:52	2022-05-17 05:28:53
 8221	0x201d	”	1	10835514	lin	Soki esengeli tobenga mboka na mboka na nkombo oyo toyokaka bato balobaka mingi, Angleterre elingaki ebengama “damn it”.	\N	2022-05-17 05:28:52	2022-05-17 05:28:53
-8239	0x202f	 	36	10826969	lin	Hé, nini esalemaki ?	\N	2022-05-14 05:22:04	2022-05-14 05:22:06
+8239	0x202f	 	36	10831103	lin	He ! Tala eloko nini amemi!	\N	2022-05-15 05:28:02	2022-05-15 05:28:03
 8482	0x2122	™	1	10839719	lin	Eloko na ngai oyo esungaka ngai na boyebi ba egbongolo maye ya lokuta version 3000 ya génération ya sika, édition ya luxe™ emonisaki motifi soko moko te « à la bora » kati ya ezaleli na yango.	\N	2022-05-19 04:08:01	2022-05-19 04:08:03
