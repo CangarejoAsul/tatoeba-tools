@@ -9,16 +9,9 @@ from random import randint, shuffle
 from re import findall, I, search, sub
 from regex import findall as find
 
-def cleanupforsplitting(text):
-  text = sub(r"[‐‑−]", "-", text)
-  text = sub(r"[‘’]", "'", text)
-  text = sub(r"\.{2,}", "…", text)
-  text = sub(r"-{2,}", "—", text)
-  return text
-
 def cleanupforsorting(word):
   word = word.lower()
-  word = sub(r"[-‐‑−'‘’@&%#°€$£¢¥₣₤₩₪₫€₰₳₴₵₹,:.]", "", word)
+  word = sub(r"\W", "", word)
   word = sub(r"[àáâãä]", "a", word)
   word = sub(r"[ç]", "c", word)
   word = sub(r"[èéêẽë]", "e", word)
@@ -26,6 +19,14 @@ def cleanupforsorting(word):
   word = sub(r"[òóôõö]", "o", word)
   word = sub(r"[ùúûũü]", "u", word)
   return word
+
+def cleanupforsplitting(text):
+  text = sub(r"[\u00AD\u200B-\u200D\uFEFF]", "", text)
+  text = sub(r"[\u2010-\u2013\u2212]", "-", text)
+  text = sub(r"[\u2018\u2019\u2032]", "'", text)
+  text = sub(r"\.{2,}", "…", text)
+  text = sub(r"-{2,}", "—", text)
+  return text
 
 def loadlanguageset():
   print("Loading language set...")
@@ -48,10 +49,23 @@ def loadlanguagemap():
   return language
 
 def getwords(text):
-  return findall(r"[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹-][\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹·',:.-]*[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹-]|[\w@&%#§°€$£¢¥₣₤₩₪₫₰₳₴₵₹]", text)
+  return findall(
+    r"""[(][^\s—―…]+[)][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
+    r"""[\[][^\s—―…]+[\]][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
+    r"""["][^\s—―…]+["][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
+    r"""[*][^\s—―…]+[*][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
+    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[(][^\s—―…]+[)]|"""
+    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[\[][^\s—―…]+[\]]|"""
+    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*["][^\s—―…]+["]|"""
+    r"""(?<![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])[/][^\s—―…]+[/](?![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])|"""
+    r"""(?<![/])[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[.][^\s—―…]*[/](?![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])|"""
+    r"""(?:[^\W\d]\.){2,}(?:[^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])?|"""
+    r"""(?:[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*)?(?:[^\W\d]\.){2,}|"""
+    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
+    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹]"""
+  , cleanupforsplitting(text))
 
 def getwordsinlanguage(janome, kkma, language, text):
-  text = cleanupforsplitting(text)
   words = set()
   if language == "cmn":
     for token in cut(text):
@@ -72,7 +86,7 @@ def loadspellchecker(language):
   except:
     return lambda word: True
   else:
-    print("Loading spellchecker...")
+    print("Loading spellchecker (" + language + ")...")
     dictionary = set()
     for line in file:
       dictionary.update(findall(r"\w+", line.lower()))
@@ -479,7 +493,7 @@ def analyzepunctuation():
   print("Analyzing punctuation...")
   if not isdir("problematic"):
     makedirs("problematic")
-  for language in ("cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "glg", "hun", "ita", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "slk", "spa", "swe", "tok", "tur", "vie"):
+  for language in ("cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "gle", "glg", "hun", "ita", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "slk", "spa", "swe", "tok", "tur", "vie"):
     print("Writing sentences (" + language + ")...")
     read = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
     write = open("problematic/problematic-" + language + ".txt", "w", encoding = "utf-8")
@@ -520,19 +534,19 @@ def analyzepunctuation():
       if findall(r""",[^\W\d]""", fields[2], flags = I):
         print("Comma: succeeded by letter", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""[a-z][\u0430-\u044F]|[\u0430-\u044F][a-z]""", fields[2]):
+      if findall(r"""[a-z][\u0430-\u044F]|[\u0430-\u044F][a-z]""", fields[2], flags = I):
         print("Cyrillic characters: possible homoglyphs", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""\u2033""", fields[2]):
+      if findall(r"""\u2033""", fields[2], flags = I):
         print("Double prime: possible homoglyph", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""([^.]|^)\.\.([^.]|$)""", fields[2]):
+      if findall(r"""([^.]|^)\.\.([^.]|$)""", fields[2], flags = I):
         print("Ellipsis: too short", line, sep = "\t", end = "", file = write)
 
-      # if findall(r"""--|(\s|^)-(\s|$)""", fields[2]):
+      # if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
       #   print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
-      # if findall(r"""\d-\d""", fields[2]):
+      # if findall(r"""\d-\d""", fields[2], flags = I):
       #   print("En dash: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("fra",) and findall(r"""\w[!]""", fields[2], flags = I):
@@ -541,23 +555,23 @@ def analyzepunctuation():
         print("Exclamation mark: preceeded by space", line, sep = "\t", end = "", file = write)
       if findall(r"""[!]\w""", fields[2], flags = I):
         print("Exclamation mark: succeeded by letter or digit", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""\w[¡]""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""\w[¡]""", fields[2], flags = I):
         print("Inverted exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""[¡]\s""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""[¡]\s""", fields[2], flags = I):
         print("Inverted exclamation mark: succeeded by space", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""^[^¡!]*[!]""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""^[^¡!]*[!]""", fields[2], flags = I):
         print("Exclamation mark: unopened exclamation mark", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""[¡][^¡!]*$""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""[¡][^¡!]*$""", fields[2], flags = I):
         print("Exclamation mark: unclosed exclamation mark", line, sep = "\t", end = "", file = write)
-      if language not in ("glg", "spa") and findall(r"""[¡]""", fields[2], flags = I):
+      if language not in ("spa",) and findall(r"""[¡]""", fields[2], flags = I):
         print("Inverted exclamation mark: not used", line, sep = "\t", end = "", file = write)
 
-      if language == "kor" and findall(r"""\w[^.…?!‽~]*$""", fields[2], flags = I):
+      if language == "kor" and findall(r"""\w[^.…?!‽？~]*$""", fields[2], flags = I):
         print("Final punctuation", line, sep = "\t", end = "", file = write)
       if language != "kor" and findall(r"""\w[^.…?!‽]*$""", fields[2], flags = I):
         print("Final punctuation", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""[a-z][α-ω]|[α-ω][a-z]""", fields[2]):
+      if findall(r"""[a-z][α-ω]|[α-ω][a-z]""", fields[2], flags = I):
         print("Greek characters: possible homoglyphs", line, sep = "\t", end = "", file = write)
 
       if language in ("fin", "swe"):
@@ -572,13 +586,13 @@ def analyzepunctuation():
       if language in ("cat", "epo", "est", "glg", "ita", "nob", "por", "ron", "spa", "tur"):
         for message in breaksrulesofsymmetricwrappingmarks("Guillemets", r"«", r"»", fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("eng", "kor", "lat", "lit", "lvs", "nld", "tok") and findall(r"""[«»]""", fields[2]):
+      if language in ("eng", "gle", "kor", "lat", "lit", "lvs", "nld", "tok") and findall(r"""[«»]""", fields[2], flags = I):
         print("Guillemets: not used", line, sep = "\t", end = "", file = write)
 
       if findall(r"""\u200E""", fields[2], flags = I):
         print("Left-to-right mark", line, sep = "\t", end = "", file = write)
 
-      if language not in ("glg", "ita", "por", "spa") and findall(r"""º""", fields[2]):
+      if language not in ("glg", "ita", "por", "spa") and findall(r"""º""", fields[2], flags = I):
         print("Ordinal indicator: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       for message in breaksrulesofsymmetricwrappingmarks("Parentheses", r"\(", r"\)", fields[2]):
@@ -591,7 +605,7 @@ def analyzepunctuation():
       if language != "eng" and findall(r"""\D[.]\d""", fields[2], flags = I):
         print("Period: not preceeded by digit", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""\u2032""", fields[2]):
+      if findall(r"""\u2032""", fields[2], flags = I):
         print("Prime: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("fra",) and findall(r"""\w[?]""", fields[2], flags = I):
@@ -600,18 +614,18 @@ def analyzepunctuation():
         print("Question mark: preceeded by space", line, sep = "\t", end = "", file = write)
       if findall(r"""[?]\w""", fields[2], flags = I):
         print("Question mark: succeeded by letter or digit", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""\w[¿]""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""\w[¿]""", fields[2], flags = I):
         print("Inverted question mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""[¿]\s""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""[¿]\s""", fields[2], flags = I):
         print("Inverted question mark: succeeded by space", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""^[^¿?]*[?]""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""^[^¿?]*[?]""", fields[2], flags = I):
         print("Question mark: unopened question mark", line, sep = "\t", end = "", file = write)
-      if language in ("glg", "spa") and findall(r"""[¿][^¿?]*$""", fields[2], flags = I):
+      if language in ("spa",) and findall(r"""[¿][^¿?]*$""", fields[2], flags = I):
         print("Question mark: unclosed question mark", line, sep = "\t", end = "", file = write)
-      if language not in ("glg", "spa") and findall(r"""[¿]""", fields[2], flags = I):
+      if language not in ("spa",) and findall(r"""[¿]""", fields[2], flags = I):
         print("Inverted question mark: not used", line, sep = "\t", end = "", file = write)
 
-      if language in ("cat", "dan", "eng", "epo", "fra", "glg", "ita", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
+      if language in ("cat", "dan", "eng", "epo", "fra", "gle", "glg", "ita", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
         for message in breaksrulesofenglishquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
       if language in ("fin", "swe"):
