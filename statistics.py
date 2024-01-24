@@ -8,6 +8,15 @@ from os.path import isdir
 from random import randint, shuffle
 from re import findall, I, search, sub
 from regex import findall as find
+from unicodedata import normalize
+
+def cleanupforhashing(text):
+  text = normalize("NFKC", text)
+  # text = sub(r"""\s+""", "", text)
+  # text = sub(r"""[\u2010-\u2015\u2212]+""", "-", text)
+  # text = sub(r"""[<>‹›«»'"\u2018-\u201F]+""", "'", text)
+  text = cleanupforsorting(text)
+  return text
 
 def cleanupforsorting(word):
   word = word.lower()
@@ -21,7 +30,7 @@ def cleanupforsorting(word):
   return word
 
 def cleanupforsplitting(text):
-  text = sub(r"[\u00AD\u200B-\u200D\uFEFF]", "", text)
+  text = sub(r"[\u00AD\u200B-\u200E\uFEFF]", "", text)
   text = sub(r"[\u2010-\u2013\u2212]", "-", text)
   text = sub(r"[\u2018\u2019\u2032]", "'", text)
   text = sub(r"\.{2,}", "…", text)
@@ -49,6 +58,24 @@ def loadlanguagemap():
   return language
 
 def getwords(text):
+  return findall(r"""(?:[\w#@-][\w#@'()/,:.-]*)?[\w#@-]""", cleanupforsplitting(text))
+  return findall(
+    r"""[\w#@(-][\w#@'()/,:.-]*[)][\w#@'()/,:.-]*[\w#@-]|"""
+    r"""[\w#@-][\w#@'()/,:.-]*[(][\w#@'()/,:.-]*[\w#@)-]|"""
+    r"""(?:[\w#@-][\w#@'()/,:.-]*)?(?:[^\W\d][.]){2,}(?![\w#@-])|"""
+    r"""(?:[\w#@-][\w#@'()/,:.-]*)?[\w#@-]"""
+  , cleanupforsplitting(text))
+
+def getwordsinenglish(text):
+  return findall(r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""", cleanupforsplitting(text))
+  return findall(r"""(?:[^\s—―…'‘"“<«(\[{][^\s—―…]*)?[^\s—―…'’"”>»)\]},:;.?!‽؟]""", cleanupforsplitting(text))
+  return findall(
+    r"""[^\s—―…/'‘"“<«\[{][^\s—―…]*[)][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
+    r"""[^\s—―…/'‘"“<«(\[{][^\s—―…]*[(][^\s—―…]*[^\s—―…/'’"”>»\]},:;.?!‽؟]|"""
+    r"""(?:[^\s—―…/'‘"“<«(\[{][^\s—―…]*)?(?:[^\W\d]\.){2,}(?![^\s—―…/'’"”>»)\]},:;.?!‽؟])|"""
+    r"""(?:[^\s—―…/'‘"“<«(\[{][^\s—―…]*)?[^\s—―…/'’"”>»)\]},:;.?!‽؟]"""
+  , cleanupforsplitting(text))
+  return findall(r"[\w#@-](?:[\w#@'()/,:.-]*[\w#@-])?", cleanupforsplitting(text))
   return findall(
     r"""[(][^\s—―…]+[)][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
     r"""[\[][^\s—―…]+[\]][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
@@ -59,10 +86,18 @@ def getwords(text):
     r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*["][^\s—―…]+["]|"""
     r"""(?<![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])[/][^\s—―…]+[/](?![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])|"""
     r"""(?<![/])[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[.][^\s—―…]*[/](?![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])|"""
-    r"""(?:[^\W\d]\.){2,}(?:[^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])?|"""
     r"""(?:[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*)?(?:[^\W\d]\.){2,}|"""
     r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
     r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹]"""
+  , cleanupforsplitting(text))
+  return findall(
+    r"""[^\s—―…/<«'‘“([{][^\s—―…]*["][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
+    r"""[^\s—―…/<«'‘"“[{][^\s—―…]*[)][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
+    r"""[^\s—―…/<«'‘"“([{][^\s—―…]*[(][^\s—―…]*[^\s—―…/'’"”>»\]},:;.?!‽؟]|"""
+    r"""[^\s—―…/<«'‘"“([{][^\s—―…]*[\[][^\s—―…]*[^\s—―…/'’"”>»)},:;.?!‽؟]|"""
+    r"""(?:[^\s—―…/<«'‘"“([{][^\s—―…]*)?(?:[^\W\d]\.){2,}|"""
+    r"""[^\s—―…/<«'‘"“([{][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
+    r"""[^\s—―…/<«'‘"“([{'’"”>»)\]},:;.?!‽؟]"""
   , cleanupforsplitting(text))
 
 def getwordsinlanguage(janome, kkma, language, text):
@@ -70,12 +105,16 @@ def getwordsinlanguage(janome, kkma, language, text):
   if language == "cmn":
     for token in cut(text):
       words.update(getwords(token))
+  elif language == "eng":
+    words.update(getwordsinenglish(text))
   elif language == "jpn":
     for token in janome.tokenize(text):
       words.update(getwords(token))
   elif language == "kor":
     for token in kkma.morphs(text):
       words.update(getwords(token))
+  elif language == "por":
+    words.update(getwordsinenglish(text))
   else:
     words.update(getwords(text))
   return words
@@ -493,7 +532,7 @@ def analyzepunctuation():
   print("Analyzing punctuation...")
   if not isdir("problematic"):
     makedirs("problematic")
-  for language in ("cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "gle", "glg", "hun", "ita", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "slk", "spa", "swe", "tok", "tur", "vie"):
+  for language in ("ber", "cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "gle", "glg", "hun", "isl", "ita", "kab", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "slk", "spa", "swe", "tgl", "tok", "tur", "vie"):
     print("Writing sentences (" + language + ")...")
     read = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
     write = open("problematic/problematic-" + language + ".txt", "w", encoding = "utf-8")
@@ -516,15 +555,15 @@ def analyzepunctuation():
 
       if findall(r"""\D:\d""", fields[2], flags = I):
         print("Colon: not preceeded by digit", line, sep = "\t", end = "", file = write)
-      if language == "fra" and findall(r"""[^\s\d]:""", fields[2], flags = I):
+      if language in ("ber", "fra", "kab") and findall(r"""[^\s\d]:""", fields[2], flags = I):
         print("Colon: preceeded by letter or punctuation", line, sep = "\t", end = "", file = write)
-      if language != "fra" and findall(r"""\s:""", fields[2], flags = I):
+      if language not in ("ber", "fra", "kab") and findall(r"""\s:""", fields[2], flags = I):
         print("Colon: preceeded by space", line, sep = "\t", end = "", file = write)
       if language in ("fin", "swe") and findall(r""":[^\w\s]""", fields[2], flags = I):
         print("Colon: succeeded by punctuation", line, sep = "\t", end = "", file = write)
       if language not in ("fin", "swe") and findall(r""":[^\d\s]""", fields[2], flags = I):
         print("Colon: succeeded by letter or punctuation", line, sep = "\t", end = "", file = write)
-      if language == "fra" and findall(r"""\d:\D""", fields[2], flags = I):
+      if language in ("ber", "fra", "kab") and findall(r"""\d:\D""", fields[2], flags = I):
         print("Colon: not succeeded by digit", line, sep = "\t", end = "", file = write)
 
       if findall(r"""\s,""", fields[2], flags = I):
@@ -549,9 +588,9 @@ def analyzepunctuation():
       # if findall(r"""\d-\d""", fields[2], flags = I):
       #   print("En dash: possible homoglyph", line, sep = "\t", end = "", file = write)
 
-      if language in ("fra",) and findall(r"""\w[!]""", fields[2], flags = I):
+      if language in ("ber", "fra", "kab") and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
-      if language not in ("fra",) and findall(r"""\s[!]""", fields[2], flags = I):
+      if language not in ("ber", "fra", "kab") and findall(r"""\s[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by space", line, sep = "\t", end = "", file = write)
       if findall(r"""[!]\w""", fields[2], flags = I):
         print("Exclamation mark: succeeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -577,7 +616,7 @@ def analyzepunctuation():
       if language in ("fin", "swe"):
         for message in breaksrulesoffinnishguillemets(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("fra", "vie"):
+      if language in ("ber", "fra", "kab", "vie"):
         for message in breaksrulesoffrenchguillemets(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
       if language in ("ces", "dan", "deu", "hun", "pol", "slk"):
@@ -586,8 +625,11 @@ def analyzepunctuation():
       if language in ("cat", "epo", "est", "glg", "ita", "nob", "por", "ron", "spa", "tur"):
         for message in breaksrulesofsymmetricwrappingmarks("Guillemets", r"«", r"»", fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("eng", "gle", "kor", "lat", "lit", "lvs", "nld", "tok") and findall(r"""[«»]""", fields[2], flags = I):
+      if language in ("eng", "gle", "isl", "kor", "lat", "lit", "lvs", "nld", "tok") and findall(r"""[«»]""", fields[2], flags = I):
         print("Guillemets: not used", line, sep = "\t", end = "", file = write)
+
+      if findall(r"""\u05C1|\u05C2""", fields[2], flags = I):
+        print("Hebrew dot", line, sep = "\t", end = "", file = write)
 
       if findall(r"""\u200E""", fields[2], flags = I):
         print("Left-to-right mark", line, sep = "\t", end = "", file = write)
@@ -608,9 +650,9 @@ def analyzepunctuation():
       if findall(r"""\u2032""", fields[2], flags = I):
         print("Prime: possible homoglyph", line, sep = "\t", end = "", file = write)
 
-      if language in ("fra",) and findall(r"""\w[?]""", fields[2], flags = I):
+      if language in ("ber", "fra", "kab") and findall(r"""\w[?]""", fields[2], flags = I):
         print("Question mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
-      if language not in ("fra",) and findall(r"""\s[?]""", fields[2], flags = I):
+      if language not in ("ber", "fra", "kab") and findall(r"""\s[?]""", fields[2], flags = I):
         print("Question mark: preceeded by space", line, sep = "\t", end = "", file = write)
       if findall(r"""[?]\w""", fields[2], flags = I):
         print("Question mark: succeeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -625,7 +667,7 @@ def analyzepunctuation():
       if language not in ("spa",) and findall(r"""[¿]""", fields[2], flags = I):
         print("Inverted question mark: not used", line, sep = "\t", end = "", file = write)
 
-      if language in ("cat", "dan", "eng", "epo", "fra", "gle", "glg", "ita", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
+      if language in ("ber", "cat", "dan", "eng", "epo", "fra", "gle", "glg", "ita", "kab", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
         for message in breaksrulesofenglishquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
       if language in ("fin", "swe"):
@@ -634,10 +676,10 @@ def analyzepunctuation():
       if language in ("hun", "pol", "ron"):
         for message in breaksrulesofpolishquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("ces", "deu", "est", "lit", "slk"):
+      if language in ("ces", "deu", "est", "isl", "lit", "slk"):
         for message in breaksrulesofgermanquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
-      if language in ("cat", "dan", "eng", "epo", "fra", "glg", "ita", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
+      if language in ("ber", "cat", "dan", "eng", "epo", "fra", "glg", "ita", "kab", "kor", "lat", "lvs", "nld", "nob", "por", "spa", "tok", "tur", "vie"):
         for message in breaksrulesofstraightquotationmarks(fields[2]):
           print(message, line, sep = "\t", end = "", file = write)
       if findall(r""",,|''""", fields[2], flags = I):
@@ -645,9 +687,9 @@ def analyzepunctuation():
       if findall(r"""[‘’“”].*['"]|['"].*[‘’“”]""", fields[2], flags = I):
         print("Quotation marks: mixed curly and straight", line, sep = "\t", end = "", file = write)
 
-      if language == "fra" and findall(r"""\S;""", fields[2], flags = I):
+      if language in ("ber", "fra", "kab") and findall(r"""\S;""", fields[2], flags = I):
         print("Semicolon: not preceeded by space", line, sep = "\t", end = "", file = write)
-      if language != "fra" and findall(r"""\s;""", fields[2], flags = I):
+      if language not in ("ber", "fra", "kab") and findall(r"""\s;""", fields[2], flags = I):
         print("Semicolon: preceeded by space", line, sep = "\t", end = "", file = write)
       if findall(r""";\w""", fields[2], flags = I):
         print("Semicolon: succeeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -656,6 +698,31 @@ def analyzepunctuation():
         print("Zero-width space", line, sep = "\t", end = "", file = write)
     read.close()
     write.close()
+
+def findduplicates():
+  print("Writing duplicates...")
+  read = open("sentences_detailed.csv", "r", encoding = "utf-8")
+  language = {}
+  seen = {}
+  if not isdir("duplicates"): 
+    makedirs("duplicates")
+  same = open("duplicates/duplicates-same.txt", "w", encoding = "utf-8")
+  different = open("duplicates/duplicates-different.txt", "w", encoding = "utf-8")
+  for line in read:
+    fields = findall(r"[^\t\n]+", line)
+    if fields[1] not in language:
+      language[fields[1]] = fields[1]
+    sentence = hash(cleanupforhashing(fields[2]))
+    if sentence in seen:
+      if seen[sentence][1] == fields[1]:
+        print(str(seen[sentence][0]), fields[0], sep = "\t", file = same)
+      else:
+        print(str(seen[sentence][0]), fields[0], sep = "\t", file = different)
+    else:
+      seen[sentence] = (int(fields[0]), language[fields[1]])
+  read.close()
+  same.close()
+  different.close()
 
 writelanguageset()
 print("")
@@ -674,3 +741,5 @@ print("")
 selectsentences()
 print("")
 analyzepunctuation()
+print("")
+findduplicates()
