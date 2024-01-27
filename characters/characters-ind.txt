@@ -1,93 +1,93 @@
-32	0x20	 	100138	7883150	ind	Saya heran mengapa Tom membutuhkannya.	dbahasa	2019-05-02 04:11:38	2019-05-02 04:11:38
-33	0x21	!	812	11231216	ind	Selamat malam!	Pacific	2022-11-06 01:35:43	2022-11-06 01:35:43
-34	0x22	"	665	11778735	ind	Plakat tersebut bertuliskan "Selamat datang di Itu!"	Pacific	2023-05-20 12:17:32	2023-05-20 12:17:32
+32	0x20	 	100292	11520055	ind	Anakku sayang, ini bukan bintang. Ini bulan purnama.	Pacific	2023-02-08 15:14:37	2023-02-08 15:14:37
+33	0x21	!	813	4689850	ind	Berdiri!	Bilmanda	2015-11-09 21:51:15	2015-11-09 21:51:15
+34	0x22	"	665	4717229	ind	Apa cuma kebetulan kalau "banality", ketika dianagram, bacanya "Ban Italy"?	Bilmanda	2015-11-22 02:59:34	2016-04-28 00:53:23
 35	0x23	#	1	11255339	ind	C# mirip dengan Java.	Pacific	2022-11-18 13:56:39	2022-11-18 13:56:39
-36	0x24	$	5	3483985	ind	Tom menjual rumahnya $300000.	lewis	2014-09-09 21:37:36	2014-09-09 21:37:36
+36	0x24	$	5	4582706	ind	Aku membayar $200 untuk pajak.	Bilmanda	2015-10-06 09:38:24	2015-10-06 09:38:24
 37	0x25	%	7	5106298	ind	Amerika Serikat berkeinginan untuk mencapai target ekonomi skala luasnya, yakni mengurangi emisi mereka sebesar 26%-28% di bawah level tahun 2005 di tahun 2025 dan berupaya keras untuk mengurangi emisinya sebesar 28%. Tiongkok berkeinginan untuk mencapai puncak emisi CO2 sekitar tahun 2030 dan akan berupaya keras untuk mencapainya lebih awal, serta meningkatkan jumlah bahan bakar non-fosil sekitar 20% dalam konsumsi utama energi di tahun 2030.	Bilmanda	2016-05-03 08:55:31	2016-05-03 08:55:31
 38	0x26	&	2	11570415	ind	Video ini disponsori oleh Tom & Mary.	Pacific	2023-03-01 16:23:37	2023-03-01 16:23:37
-39	0x27	'	30	3885836	ind	Pertanyaan yang sulit adalah 'kenapa'.	Bilmanda	2015-02-22 07:00:25	2015-02-22 07:00:25
-40	0x28	(	21	2167997	ind	Menariknya, pemain Quidditch di Hogwarts boleh menggunakan sapu yang mana yang mereka suka atau sponsornya mampu, walaupun sapu lebih mahal sering memberi keuntungan besar (dan mungkin tidak adil) dengan kecepatan dan cara mengerakkan.	morgyn	2013-01-26 13:09:28	2013-01-26 13:09:28
-41	0x29	)	21	6940220	ind	Semua mahasiswa yang telah menyelesaikan studi Bahasa Inggris di Universitas dengan seorang asli (yang berbicara Inggris) dalam waktu sekurang-kurangnya 2 tahun.	ccxex29	2018-06-11 17:24:14	2018-06-11 17:24:14
+39	0x27	'	30	11783103	ind	"Katakan 'Aku mencintaimu' dalam bahasa Prancis." "Je t'aime." "Terima kasih, aku juga mencintaimu."	Pacific	2023-05-22 05:27:48	2023-05-22 05:27:48
+40	0x28	(	21	3371506	ind	Hai, namaku Pekka, siapa nama anda/ (namamu) ?	nasirusman	2014-07-10 18:01:43	2014-07-10 18:02:24
+41	0x29	)	21	3371506	ind	Hai, namaku Pekka, siapa nama anda/ (namamu) ?	nasirusman	2014-07-10 18:01:43	2014-07-10 18:02:24
 42	0x2a	*	1	6481421	ind	Nges*k dengan gelora malam ini	LeeSooHa	2017-11-24 13:18:49	2017-11-24 13:18:49
-43	0x2b	+	6	11209506	ind	Bilangan kompleks adalah bilangan yang dapat dinyatakan dalam bentuk "a + bi".	Pacific	2022-10-27 03:00:13	2022-11-15 06:36:02
-44	0x2c	,	2295	4318601	ind	Maaf, bolehkah saya meminjam toiletnya?	Bilmanda	2015-06-30 09:40:52	2015-06-30 09:40:52
-45	0x2d	-	1461	3878536	ind	Jet-jet tempur telah mengudara.	Bilmanda	2015-02-19 05:30:51	2015-02-19 05:30:51
-46	0x2e	.	18151	4027257	ind	Dia benar-benar manis sekali.	Bilmanda	2015-04-03 06:29:02	2015-04-03 06:29:02
-47	0x2f	/	20	4062643	ind	Baik digunakan sebelum 09/01/2010.	Bilmanda	2015-04-11 21:43:12	2015-04-11 21:43:12
-48	0x30	0	276	9973734	ind	Kadar CO₂ tidak pernah naik melebihi 280 bagian per juta hingga tahun 1950.	HAGNi	2021-04-20 16:35:46	2021-04-20 16:35:46
-49	0x31	1	211	3495085	ind	Perang dunia pertama dimulai pada tahun 1914 dan berakhir pada tahun 1918.	lewis	2014-09-14 10:07:54	2014-09-14 10:07:54
-50	0x32	2	172	11156722	ind	"kami sudah tidak bertemu dari 2009." "bukankah itu sudah lama?"	Laudabant	2022-10-04 03:06:57	2022-10-04 03:06:57
-51	0x33	3	100	11479341	ind	George Washington lahir pada tahun 1732.	Pacific	2023-01-23 01:47:25	2023-01-23 01:47:25
-52	0x34	4	39	336222	ind	Karena hanya satu menit, berharga hampir 4 pound.	qsanta	2009-10-03 14:40:19	2014-05-25 14:53:19
-53	0x35	5	74	1800253	ind	Kakek saya sudah meninggal semenjak 5 tahun yang lalu.	menyo	2012-08-27 12:11:35	2012-08-27 12:11:35
-54	0x36	6	62	4164082	ind	Jumlah penduduk Amerika yang berusia lebih dari 65 tahun adalah 12.5% dari total populasi.	Bilmanda	2015-05-09 03:30:33	2016-06-09 22:18:35
-55	0x37	7	31	11571195	ind	Kubilai Khan mendirikan Dinasti Yuan pada tahun 1271.	Pacific	2023-03-02 03:47:05	2023-09-25 14:33:26
-56	0x38	8	65	4793914	ind	Hukum Moore menyatakan bahwa massa jenis transistor menjadi dua kali lipat setiap 18 sampai 24 bulan.	amangimam	2015-12-27 03:36:09	2015-12-27 03:36:09
-57	0x39	9	83	12069060	ind	Amerika Serikat menjatuhkan bom atom di Nagasaki pada tanggal 9 Agustus 1945.	Pacific	2023-09-21 13:14:06	2023-09-21 13:14:06
-58	0x3a	:	30	9848333	ind	Ngoko: Awakmu ketoke radha lara. Krama: Panjenengan ketingal gerah.	bpranoto	2021-03-17 14:06:44	2021-03-17 14:07:34
-59	0x3b	;	11	3960312	ind	Saya menyikat gigi saya; saya menyisir rambut saya.	Bilmanda	2015-03-15 09:31:29	2015-03-15 09:31:29
+43	0x2b	+	6	10716503	ind	Tentukan himpunan nilai dari konstan k yang memenuhi pertidaksamaan kuadrat x² + kx - 3k > 0 untuk semua nilai ril dari x.	arozian	2022-03-13 11:25:21	2022-03-13 11:25:21
+44	0x2c	,	2297	11663850	ind	Sami sangat, sangat lelah.	Pacific	2023-04-07 15:37:14	2023-04-07 15:37:14
+45	0x2d	-	1463	4389242	ind	Dia berkelana ke penjuru Eropa selama berbulan-bulan lamanya.	Bilmanda	2015-07-20 06:22:56	2015-07-20 06:22:56
+46	0x2e	.	18196	2767462	ind	Bersiap siap untuk evakuasi.	deel	2013-09-30 20:31:08	2013-09-30 20:31:08
+47	0x2f	/	20	1033736	ind	Paul lebih semangat/kuat dibanding Marc.	pryo	2011-08-09 07:22:54	2011-08-09 07:22:54
+48	0x30	0	279	11978305	ind	Ada lebih dari 3.000 murid di sekolah Tom.	Pacific	2023-08-03 12:30:59	2023-08-03 12:30:59
+49	0x31	1	211	10016791	ind	Koala tidur selama 18 hingga 22 jam per hari.	HAGNi	2021-05-09 02:29:19	2021-05-09 02:29:19
+50	0x32	2	174	11471397	ind	Bill Gates lahir di Seattle, Washington pada tanggal 28 Oktober 1955.	Pacific	2023-01-20 02:51:21	2023-01-20 02:51:21
+51	0x33	3	101	10671823	ind	Pada tanggal 13 Februari, aku akan bisa berkata bahwa aku sudah berumur 35 tahun.	HAGNi	2022-02-13 05:13:11	2022-02-13 05:13:11
+52	0x34	4	40	11652630	ind	Amerika Serikat menjatuhkan bom atom di Hiroshima pada tanggal 6 Agustus 1945.	Pacific	2023-04-04 06:49:47	2023-06-04 15:32:07
+53	0x35	5	76	12068479	ind	Perang Jepang-Rusia berakhir pada tahun 1905.	HAGNi	2023-09-21 08:11:16	2023-09-21 08:11:16
+54	0x36	6	62	1815099	ind	Saya akan kembali pada pukul 6.	menyo	2012-09-03 19:48:13	2012-09-03 19:48:13
+55	0x37	7	31	12245350	ind	Saya berusia 27 tahun.	Pacific	2024-01-01 01:39:11	2024-01-01 01:39:11
+56	0x38	8	65	4552681	ind	Saya berusia 18 tahun.	Bilmanda	2015-09-25 03:23:11	2015-09-25 03:23:11
+57	0x39	9	83	638802	ind	Columbus menemukan Amerika pada tahun 1492.	noniq	2010-11-28 07:18:32	2010-11-28 07:18:32
+58	0x3a	:	30	6473118	ind	Lalu aku melihat: aku mendengar seekor burung nasar terbang di tengah langit dan berkata dengan suara nyaring: “Celaka, celaka, celakalah mereka yang diam di atas bumi oleh karena bunyi sangkakala ketiga malaikat lain, yang masih akan meniup sangkakalanya.”	LeeSooHa	2017-11-19 12:23:44	2017-11-19 12:23:44
+59	0x3b	;	11	8389312	ind	Ajarkan; Kasih tahu.	rizkisaid	2019-12-18 13:39:43	2019-12-18 13:39:43
 62	0x3e	>	1	10716503	ind	Tentukan himpunan nilai dari konstan k yang memenuhi pertidaksamaan kuadrat x² + kx - 3k > 0 untuk semua nilai ril dari x.	arozian	2022-03-13 11:25:21	2022-03-13 11:25:21
-63	0x3f	?	3371	11087795	ind	Dia ada di taman, kan?	HAGNi	2022-08-30 13:20:32	2022-08-30 13:20:32
-65	0x41	A	5520	3478579	ind	Anak kucing minum susu di bawah meja.	lewis	2014-09-07 20:11:27	2014-09-07 20:11:27
-66	0x42	B	1725	11901152	ind	Boston tidak jauh dari sini.	Pacific	2023-07-03 07:52:47	2023-07-03 07:52:47
-67	0x43	C	266	4557528	ind	Bea dan Cukai akan meminta bukti pembayaran.	dbahasa	2015-09-26 15:24:11	2015-09-26 15:24:11
-68	0x44	D	2250	4446068	ind	Dia sedang memakan sebuah apel.	Bilmanda	2015-08-11 07:50:54	2015-08-11 07:50:54
-69	0x45	E	131	2727542	ind	Di kota saya tidak ada sekolah untuk belajar bahasa Esperanto.	orion17	2013-09-08 18:08:11	2013-09-08 18:08:11
-70	0x46	F	104	3806656	ind	Apakah kamu pernah melihat UFO?	orion17	2015-01-29 05:16:16	2015-01-29 05:16:16
-71	0x47	G	197	8220321	ind	He! Gue bilangin ya! Lu nggak pantes sama Radit! Gue yang pantes! Ngerti? Ngomong sama tangan!	LeeSooHa	2019-09-29 22:48:42	2019-09-29 22:48:42
-72	0x48	H	450	12147018	ind	Hari ini aku membeli susu di supermarket.	HAGNi	2023-11-05 12:48:05	2023-11-05 12:48:05
-73	0x49	I	1248	3878511	ind	Ini keputusan yang tepat. Dengan ini tidak ada pihak yang merasa dirugikan.	Bilmanda	2015-02-19 04:56:09	2016-05-19 20:46:14
-74	0x4a	J	920	4609927	ind	Apa Joe bersamamu kemarin sore?	Bilmanda	2015-10-15 06:13:03	2015-10-15 06:13:03
-75	0x4b	K	2752	4076520	ind	Kamu hanya harus belajar dengan keras.	Bilmanda	2015-04-15 20:57:01	2016-06-10 22:46:45
-76	0x4c	L	355	9990652	ind	Lagu ini sangat populer di Jepang.	HAGNi	2021-04-27 13:24:28	2021-04-27 13:24:28
-77	0x4d	M	2147	4555934	ind	Murid itu pergi tanpa berkata sesuatu.	dbahasa	2015-09-26 05:32:40	2015-09-26 05:32:40
-78	0x4e	N	279	7062022	ind	Novel ini membosankan.	purichan	2018-08-15 08:09:57	2018-08-15 08:09:57
-79	0x4f	O	210	4556770	ind	Omong kosong!	dbahasa	2015-09-26 13:21:21	2015-09-26 13:21:21
-80	0x50	P	1123	10969618	ind	Pernahkah kamu bekerja di akhir pekan?	HAGNi	2022-07-07 04:29:36	2022-07-07 04:29:36
-81	0x51	Q	5	11875677	ind	Tanpa disadari, kita menggunakan bahasa Arab setiap hari ketika bersalat dan membaca Al-Quran.	Pacific	2023-06-25 22:40:37	2023-06-25 22:40:37
-82	0x52	R	338	3478677	ind	Rumah ini memiliki dua kamar mandi.	lewis	2014-09-07 20:26:17	2014-09-07 20:26:17
-83	0x53	S	3213	4287351	ind	Saya belajar bahasa Inggris dari penutur asli selama 4 tahun.	Bilmanda	2015-06-20 04:34:40	2015-06-20 04:34:40
-84	0x54	T	4301	11536908	ind	Tom adalah ayah terbaik yang aku kenal.	HAGNi	2023-02-14 15:07:01	2023-02-14 15:07:01
-85	0x55	U	119	2696567	ind	Ucapkan selamat tinggal.	orion17	2013-08-24 12:40:21	2013-08-24 12:40:21
-86	0x56	V	73	4613082	ind	Cepat atau lambat kita harus membeli TV baru, karena TV kita yang sekarang model lama.	Bilmanda	2015-10-15 22:40:36	2015-10-15 22:40:36
-87	0x57	W	117	331471	ind	Wanita yang ingin bertemu denganmu sudah datang.	umarsaid	2009-02-08 02:59:02	2010-01-18 02:50:19
+63	0x3f	?	3373	11248753	ind	Apakah operator bisa mengoperasikan mesin dengan sebelah tangan?	rizkisaid	2022-11-15 06:33:09	2022-11-15 06:33:09
+65	0x41	A	5532	4219620	ind	Anak-anak dilarang merokok; itu tidak legal.	Bilmanda	2015-05-24 03:01:05	2015-05-24 03:01:05
+66	0x42	B	1730	12164340	ind	Buku ini harganya 4 dolar.	HAGNi	2023-11-16 17:31:57	2023-11-16 17:31:57
+67	0x43	C	266	4402781	ind	Apa kau memiliki CD?	Bilmanda	2015-07-24 09:52:48	2015-07-24 09:52:48
+68	0x44	D	2254	11295370	ind	Dia menciumnya.	HAGNi	2022-12-05 07:50:35	2022-12-05 07:50:35
+69	0x45	E	131	12161371	ind	Esnya sangat tebal.	HAGNi	2023-11-14 15:19:01	2023-11-14 15:19:01
+70	0x46	F	104	10671833	ind	Apakah Ferhat Mehenni memiliki laman Bandcamp?	HAGNi	2022-02-13 05:21:50	2022-04-01 00:11:40
+71	0x47	G	198	11649019	ind	Bahkan Google Translate tidak akan memikirkan sesuatu seperti ini.	vanzasetia	2023-04-03 06:40:00	2023-04-03 06:40:00
+72	0x48	H	451	4476978	ind	Saya pernah berada di Hokkaido.	menyo	2015-08-28 04:44:35	2021-04-27 04:57:14
+73	0x49	I	1252	7965037	ind	Itu adalah pertama kali saya pernah mengemudikan mobil	kistijantoro	2019-06-08 06:52:30	2019-06-08 06:52:30
+74	0x4a	J	920	4622856	ind	Kami memilih John untuk menjadi kapten kami.	Bilmanda	2015-10-19 08:37:20	2015-10-19 08:37:20
+75	0x4b	K	2754	8216905	ind	Kayak gue, dia sering liburan ke Nunukan.	LeeSooHa	2019-09-28 13:26:27	2019-09-28 13:26:27
+76	0x4c	L	357	10930601	ind	Luxembourg adalah salah satu negara terkaya di dunia.	joses	2022-06-22 13:05:47	2022-06-22 13:05:47
+77	0x4d	M	2149	3970746	ind	Kami kehilangan Mary.	Bilmanda	2015-03-19 00:58:16	2015-03-19 00:58:16
+78	0x4e	N	282	10064200	ind	Nanas kaya akan asam sitrat.	HAGNi	2021-05-26 07:08:20	2021-05-26 07:08:20
+79	0x4f	O	212	12112067	ind	Orang Islam tidak makan ular.	HAGNi	2023-10-17 14:27:19	2023-10-17 14:27:19
+80	0x50	P	1125	3806666	ind	Pernah ke Amerika?	orion17	2015-01-29 05:23:11	2015-01-29 05:23:11
+81	0x51	Q	5	11406888	ind	Tom memindai kode QR itu dengan ponselnya.	Pacific	2023-01-03 03:43:51	2023-01-03 03:43:51
+82	0x52	R	339	1257149	ind	Ruangan ini cukup besar.	Archangelix	2011-11-23 11:00:27	2011-11-23 11:00:27
+83	0x53	S	3218	11472231	ind	Salju menyelimuti bis itu.	dbahasa	2023-01-20 13:02:58	2023-01-20 13:02:58
+84	0x54	T	4313	4790487	ind	Tak seorangpun menyangsikan bahwa Mary mengatakan hal yang sebenarnya, namun cara dia menyampaikanny membuat orang lain tidak nyaman	Renzonokuken	2015-12-25 15:48:58	2015-12-25 15:48:58
+85	0x55	U	119	3479041	ind	Uang telah menghilang.	lewis	2014-09-07 21:57:31	2014-09-07 21:57:31
+86	0x56	V	74	11894570	ind	Aku bukan Darth Vader.	Pacific	2023-06-30 17:54:30	2023-06-30 17:54:34
+87	0x57	W	117	3901600	ind	Pak Wilson marah pada Dennis.	Bilmanda	2015-02-28 11:33:01	2015-02-28 11:33:01
 88	0x58	X	1	12050629	ind	Sepertinya Xbox 360 saya rusak.	Pacific	2023-09-12 14:08:24	2023-09-12 14:08:24
-89	0x59	Y	176	4607123	ind	Siapa yang lebih bisa berbahasa Inggris, Yoko atau Yumi?	Bilmanda	2015-10-14 08:39:55	2015-10-14 08:39:55
-90	0x5a	Z	55	11470357	ind	Nama saya Ziri, bukan Jerry.	Pacific	2023-01-19 14:13:19	2023-01-19 14:13:19
-91	0x5b	[	2	1502709	ind	ia orang yang slalu mengikuti trendi masa kini [ia peka terhadap trend terbaru]	holger_reinherzen	2012-03-25 15:54:35	2012-03-25 15:54:35
-93	0x5d	]	2	1502725	ind	Orang harus mengambil pelajaran [menelaah dan mengambil hikmah] dari segala kisah kesulitan dan kerumitan yang menimpa dirinya.	holger_reinherzen	2012-03-25 16:05:24	2012-03-25 16:45:41
-97	0x61	a	133185	12059123	ind	Restoran ini sudah berada di sini sejak dulu.	HAGNi	2023-09-17 03:33:47	2023-09-17 03:33:47
-98	0x62	b	17683	11062777	ind	Kau beruntung kau tidak terbunuh.	HAGNi	2022-08-15 13:51:42	2022-08-15 13:51:42
-99	0x63	c	3539	4331612	ind	Apa kamu sudah selesai membaca novel itu?	Bilmanda	2015-07-03 10:57:15	2015-07-03 10:57:15
-100	0x64	d	22281	5268273	ind	Bisakah saudaramu mengendarai mobil?	anod	2016-07-12 12:55:22	2016-07-12 12:55:22
-101	0x65	e	46788	4031611	ind	Apakah cermin tembus pandang itu sebenarnya adalah cermin biasa?	Bilmanda	2015-04-04 02:59:20	2015-04-04 02:59:20
-102	0x66	f	664	4568384	ind	Apa olahraga favoritmu?	Bilmanda	2015-09-30 09:02:23	2015-09-30 09:02:23
-103	0x67	g	23504	4390298	ind	Itu ditulis dengan menggunakan bahasa Inggris sederhana.	Bilmanda	2015-07-20 09:09:44	2015-07-20 09:09:44
-104	0x68	h	16864	3864865	ind	Siapa yang berlari lebih cepat, Yumi atau Keiko?	orion17	2015-02-12 23:48:09	2015-02-12 23:48:09
-105	0x69	i	52336	3478161	ind	Tom tidak berusaha melindungi dirinya sendiri.	lewis	2014-09-07 17:55:18	2014-09-07 17:55:18
-106	0x6a	j	4828	7062003	ind	Jika aku bisa terlahir kembali, aku ingin jadi kucing.	purichan	2018-08-15 07:55:35	2018-08-15 07:55:35
-107	0x6b	k	38447	3478385	ind	Jadi kamu dalang dibalik semua ini!	lewis	2014-09-07 19:25:34	2014-09-07 19:25:34
-108	0x6c	l	20240	11613964	ind	Alhamdulillah.	Pacific	2023-03-22 01:09:46	2023-03-22 01:09:46
-109	0x6d	m	33247	3864953	ind	Jimmy terbiasa diolok-olok teman-temannya.	orion17	2015-02-13 00:22:57	2015-02-13 00:22:57
-110	0x6e	n	59579	4230547	ind	saya ingin bertemu denganmu sekali lagi	ver50n	2015-05-28 04:26:38	2015-05-28 04:26:38
-111	0x6f	o	11709	11796521	ind	Mary mengajar di sekolah Kurcaci di hutan Peri.	Pacific	2023-05-27 15:48:05	2023-05-27 15:48:05
-112	0x70	p	16357	3971340	ind	Aku tidak akan pergi sampai kau memberitahuku apa yang ingin ku ketahui.	Bilmanda	2015-03-19 09:16:53	2015-03-19 09:17:16
-113	0x71	q	6	3988936	ind	Donostia itu suatu kota di negeri Basque.	User65345	2015-03-25 23:48:28	2015-03-25 23:48:28
-114	0x72	r	29058	3900576	ind	Aku tertidur dengan mengenakan sebuah sweter.	Bilmanda	2015-02-28 00:42:46	2015-02-28 00:42:46
-115	0x73	s	23365	785925	ind	Saya suka membaca buku cerita.	windra	2011-03-09 14:36:20	2011-03-09 14:36:20
-116	0x74	t	29762	9153620	ind	Ini terlalu membosankan	henrywijaya001	2020-10-17 08:44:48	2020-10-17 08:44:48
-117	0x75	u	40219	3937252	ind	Mary menabur gandum di ladangnya.	Bilmanda	2015-03-07 12:58:15	2015-03-07 12:58:15
-118	0x76	v	277	3478465	ind	Tom memecahkan vas ming dari cina milik Mary yang mahal	lewis	2014-09-07 19:39:25	2014-09-07 19:39:25
-119	0x77	w	1796	1065559	ind	Nama "Kleopatra" menjadi persamaan kata dengan wanita yang cantik	pryo	2011-08-26 07:32:33	2011-08-26 07:34:51
-120	0x78	x	39	3478384	ind	Saya ingin mengunjungi Luxembourg.	lewis	2014-09-07 19:25:17	2014-09-07 19:25:17
-121	0x79	y	13263	12033291	ind	Orang-orang itu berbahaya.	HAGNi	2023-09-03 07:16:58	2023-09-03 07:16:58
-122	0x7a	z	146	7847417	ind	Pak guru, izinkan saya pergi ke kamar kecil.	dbahasa	2019-04-12 01:56:24	2019-04-12 01:56:24
+89	0x59	Y	177	11884751	ind	Ada banyak restoran Jepang di New York.	Pacific	2023-06-28 14:00:38	2023-06-28 14:00:38
+90	0x5a	Z	55	10930698	ind	Ziri adalah seorang remaja.	joses	2022-06-22 13:53:52	2022-06-22 13:53:52
+91	0x5b	[	2	1502725	ind	Orang harus mengambil pelajaran [menelaah dan mengambil hikmah] dari segala kisah kesulitan dan kerumitan yang menimpa dirinya.	holger_reinherzen	2012-03-25 16:05:24	2012-03-25 16:45:41
+93	0x5d	]	2	1502709	ind	ia orang yang slalu mengikuti trendi masa kini [ia peka terhadap trend terbaru]	holger_reinherzen	2012-03-25 15:54:35	2012-03-25 15:54:35
+97	0x61	a	133348	4607180	ind	Tom tidak berlari secepat Bill.	Bilmanda	2015-10-14 08:59:26	2015-10-14 08:59:26
+98	0x62	b	17702	11644521	ind	Tokyo, kota terbesar dan ibu kota Jepang, terletak di pesisir timur Honshu, pulau terbesar dari empat pulau utama di kepulauan Jepang.	Pacific	2023-04-01 17:52:42	2023-04-01 17:52:42
+99	0x63	c	3542	3978509	ind	Mereka berkeinginan untuk mengubah pandangan dan rencana mereka.	Bilmanda	2015-03-22 05:26:33	2015-03-22 05:26:55
+100	0x64	d	22317	12090675	ind	Tak seorang pun boleh ditangkap, ditahan atau dibuang dengan sewenang-wenang.	Pacific	2023-10-01 13:04:35	2023-10-01 13:04:35
+101	0x65	e	46849	331569	ind	Sebanyak 150 penumpang naik pesawat.	umarsaid	2009-02-11 13:28:49	2009-02-11 13:28:49
+102	0x66	f	665	3934376	ind	Aku suka dengan sifat optimismu.	Bilmanda	2015-03-06 03:24:29	2015-03-06 03:24:29
+103	0x67	g	23537	4453156	ind	Kau bisa makan apapun yang kau inginkan.	Bilmanda	2015-08-15 04:05:16	2015-08-15 04:05:16
+104	0x68	h	16890	11239881	ind	Brad Pitt adalah seorang aktor.	Pacific	2022-11-10 13:06:48	2022-11-10 13:06:48
+105	0x69	i	52427	11062754	ind	Tidak ada yang tahu berapa banyak waktu yang dibutuhkan untuk ini.	HAGNi	2022-08-15 13:31:43	2022-08-15 13:31:43
+106	0x6a	j	4837	11591684	ind	Tom tidak menjawab.	Pacific	2023-03-12 23:42:56	2023-03-12 23:42:56
+107	0x6b	k	38495	3897703	ind	Bisakah Anda mundur ke belakang?	Bilmanda	2015-02-26 23:26:48	2015-02-26 23:26:48
+108	0x6c	l	20276	7842031	ind	Pabrik ini beroperasi meskipun di malam hari.	Bilmanda	2019-04-08 17:21:34	2019-04-08 17:21:34
+109	0x6d	m	33295	10332235	ind	Darah berwarna merah.	HAGNi	2021-09-30 13:13:04	2021-09-30 13:13:04
+110	0x6e	n	59654	3493948	ind	Ilmuwan tersebut tidak hanya terkenal di Jepang tetapi juga di negara-negara asing.	orion17	2014-09-13 22:24:07	2014-09-13 22:24:07
+111	0x6f	o	11734	5871028	ind	Tolong diam sebentar.	Bilmanda	2017-02-16 03:40:36	2017-02-16 03:40:36
+112	0x70	p	16381	1257078	ind	Saya mendengarnya berbicara dengan bahasa Inggris dengan lancar seperti orang Amerika.	Archangelix	2011-11-23 10:39:54	2011-11-23 10:39:54
+113	0x71	q	6	5386273	ind	Kita berputar bersama dalil dimana saja dalil tersebut berputar, dan tidaklah kita berfanatik terhadap tokoh, dan tidak pula berpihak kepada seorangpun kecuali kepada Al-haq.	aboubasha	2016-08-31 05:10:07	2016-08-31 05:14:51
+114	0x72	r	29094	10502809	ind	Persegi panjang dan belah ketupat adalah jajaran genjang.	Tanama	2021-11-12 12:12:51	2021-11-12 12:12:51
+115	0x73	s	23412	7021355	ind	Sudah sepuluh tahun sejak ayahku meninggal.	purichan	2018-07-26 03:38:14	2018-07-26 03:38:14
+116	0x74	t	29822	11132557	ind	dimohon cepat	Laudabant	2022-09-21 09:10:30	2022-09-21 09:10:30
+117	0x75	u	40294	4184306	ind	Romeo jatuh cinta pada Juliet seketika itu juga.	Bilmanda	2015-05-14 03:46:15	2015-05-14 03:46:15
+118	0x76	v	277	4153196	ind	Saya menonton televisi sebelum belajar.	Bilmanda	2015-05-05 23:30:06	2015-05-05 23:30:06
+119	0x77	w	1799	986161	ind	Berapa lama waktu yang dibutuhkan?	windra	2011-07-12 04:41:36	2011-07-12 04:41:36
+120	0x78	x	39	4308992	ind	Mari kita naik kereta Intercity-Express.	Bilmanda	2015-06-27 03:16:00	2015-06-27 03:16:00
+121	0x79	y	13279	12112230	ind	Tidak ada yang sedang bekerja. Semua orang sedang menonton Piala Dunia.	HAGNi	2023-10-17 15:17:12	2023-10-17 15:17:12
+122	0x7a	z	146	10970827	ind	Rok mini sudah ketinggalan zaman.	HAGNi	2022-07-07 09:40:38	2022-07-07 09:40:42
 126	0x7e	~	1	8539324	ind	Imut~	Jepang	2020-02-09 21:42:33	2020-02-09 21:42:33
 160	0xa0	 	1	11863368	ind	Australia adalah tempat yang berbahaya.	Pacific	2023-06-21 15:40:28	2023-06-21 15:40:28
-176	0xb0	°	4	9934275	ind	Jumlah sudut dalam sebuah segi delapan adalah 1080°.	HAGNi	2021-04-03 09:05:51	2021-04-03 09:05:51
+176	0xb0	°	4	779083	ind	Suhu minimum hari ini 3 °C.	windra	2011-03-05 04:26:45	2011-03-05 04:26:45
 178	0xb2	²	1	10716503	ind	Tentukan himpunan nilai dari konstan k yang memenuhi pertidaksamaan kuadrat x² + kx - 3k > 0 untuk semua nilai ril dari x.	arozian	2022-03-13 11:25:21	2022-03-13 11:25:21
 215	0xd7	×	1	11781751	ind	a×b disingkat menjadi ab.	Pacific	2023-05-21 16:54:57	2023-09-25 14:36:01
-233	0xe9	é	3	1019408	ind	Hai. Nama saya José Silva. Siapa nama Anda?	pryo	2011-08-03 05:19:21	2011-08-03 05:19:21
+233	0xe9	é	3	11970397	ind	Beyoncé dan Jay-Z menamai putri mereka Blue Ivy.	Pacific	2023-07-31 06:06:07	2023-07-31 06:06:07
 234	0xea	ê	1	3363016	ind	Saya punya teman orang Vietnam. Namanya Tiên.	dbahasa	2014-07-06 10:32:36	2014-07-06 10:32:36
 248	0xf8	ø	1	12059129	ind	Jørgen belajar bahasa Yunani.	HAGNi	2023-09-17 03:38:35	2023-09-17 03:38:35
 252	0xfc	ü	1	3515739	ind	Besok kami akan pergi dari Frankfurt ke München.	lewis	2014-09-24 00:17:22	2014-10-11 16:27:19

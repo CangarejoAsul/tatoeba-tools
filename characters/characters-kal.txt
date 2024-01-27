@@ -1,53 +1,53 @@
-32	0x20	 	210	12096487	kal	Siumut, Demokraatit aamma Naleraq tamarmik isumaqarput, arnanut spiralilersorneqarsimasunut suliaq piaartumik aalajangerneqartariaqartoq.	VoiceLessQ	2023-10-04 23:22:06	2023-10-04 23:22:06
-33	0x21	!	16	5893978	kal	Ilumut!	zorgzikhnit	2017-02-22 21:40:39	\N
-44	0x2c	,	5	12097251	kal	Politiit inuusuttunik pingasunik ujaarinnipput, taakku pisiniarfimmit tillitanik nassarlutik qimaasimapput.	VoiceLessQ	2023-10-05 11:12:31	2023-10-05 11:12:31
-45	0x2d	-	6	5893868	kal	Aluu, qanoq-ippit?	zorgzikhnit	2017-02-22 21:12:54	\N
-46	0x2e	.	122	12097632	kal	Kalaallit Nunaanni Aalisarsinnaanermut Akuersissutinik Nakkutilliisoqarfiup sinerissap qanittuani sapaatip akunnerani pisarineqartut nalunaarsortuaannarpai.	VoiceLessQ	2023-10-05 13:56:07	2023-10-05 13:56:07
+32	0x20	 	210	12097632	kal	Kalaallit Nunaanni Aalisarsinnaanermut Akuersissutinik Nakkutilliisoqarfiup sinerissap qanittuani sapaatip akunnerani pisarineqartut nalunaarsortuaannarpai.	VoiceLessQ	2023-10-05 13:56:07	2023-10-05 13:56:07
+33	0x21	!	16	3036551	kal	Qujanarsuaq!	biibi	2014-02-08 14:13:06	2014-02-08 14:13:16
+44	0x2c	,	5	12096487	kal	Siumut, Demokraatit aamma Naleraq tamarmik isumaqarput, arnanut spiralilersorneqarsimasunut suliaq piaartumik aalajangerneqartariaqartoq.	VoiceLessQ	2023-10-04 23:22:06	2023-10-04 23:22:06
+45	0x2d	-	6	5893426	kal	Qanoq-ippit?	zorgzikhnit	2017-02-22 18:26:18	\N
+46	0x2e	.	122	5093704	kal	Barack Obama kristumiuuvoq.	daina	2016-04-29 00:38:51	2016-04-29 00:38:51
 48	0x30	0	1	12097346	kal	Qilalukkat 20-it unioqqutitsilluni pisarineqartut - inuit qulingiluat pasineqarput.	VoiceLessQ	2023-10-05 11:56:58	2023-10-05 11:56:58
 50	0x32	2	1	12097346	kal	Qilalukkat 20-it unioqqutitsilluni pisarineqartut - inuit qulingiluat pasineqarput.	VoiceLessQ	2023-10-05 11:56:58	2023-10-05 11:56:58
 55	0x37	7	1	3030037	kal	Normuga tassa 789.	biibi	2014-02-05 03:39:21	2014-02-05 03:39:32
 56	0x38	8	1	3030037	kal	Normuga tassa 789.	biibi	2014-02-05 03:39:21	2014-02-05 03:39:32
 57	0x39	9	1	3030037	kal	Normuga tassa 789.	biibi	2014-02-05 03:39:21	2014-02-05 03:39:32
-63	0x3f	?	23	5403253	kal	Torrarujuut?	User73201	2016-09-05 14:55:42	2016-09-05 14:55:48
-65	0x41	A	43	12095987	kal	Affaq.	VoiceLessQ	2023-10-04 16:22:51	2023-10-04 16:23:21
-66	0x42	B	4	5093704	kal	Barack Obama kristumiuuvoq.	daina	2016-04-29 00:38:51	2016-04-29 00:38:51
-67	0x43	C	3	5093688	kal	Computereqarpunga.	daina	2016-04-29 00:25:19	2016-04-29 00:25:19
-68	0x44	D	2	12096487	kal	Siumut, Demokraatit aamma Naleraq tamarmik isumaqarput, arnanut spiralilersorneqarsimasunut suliaq piaartumik aalajangerneqartariaqartoq.	VoiceLessQ	2023-10-04 23:22:06	2023-10-04 23:22:06
+63	0x3f	?	23	11281157	kal	Qaqqat taakkua takusinnaavigit?	\N	2022-12-01 05:16:25	2022-12-01 05:16:51
+65	0x41	A	43	12097632	kal	Kalaallit Nunaanni Aalisarsinnaanermut Akuersissutinik Nakkutilliisoqarfiup sinerissap qanittuani sapaatip akunnerani pisarineqartut nalunaarsortuaannarpai.	VoiceLessQ	2023-10-05 13:56:07	2023-10-05 13:56:07
+66	0x42	B	4	5256289	kal	Burj Khalifap nunarsuarmi illorsuarnik massakkut anginerpaagallarpoq.	Balamax	2016-07-06 15:27:49	2016-07-06 15:28:45
+67	0x43	C	3	3030028	kal	Canadamiinnikuuit?	biibi	2014-02-05 03:07:54	2014-02-05 03:08:05
+68	0x44	D	2	11275975	kal	Danmarkimi nunaqarpunga.	barndomsven	2022-11-29 06:56:15	2022-11-29 06:56:15
 69	0x45	E	5	11275998	kal	Eqqaamasinnaavinga?	barndomsven	2022-11-29 07:14:22	2022-11-29 07:14:22
 70	0x46	F	1	11275972	kal	Finlandimi nunaqarpunga.	barndomsven	2022-11-29 06:55:07	2022-11-29 06:55:07
 72	0x48	H	1	5894003	kal	Hej.	zorgzikhnit	2017-02-22 21:46:34	\N
-73	0x49	I	18	11281031	kal	Ippassaq tunnulimmik takuvunga.	barndomsven	2022-12-01 01:31:21	2022-12-01 01:31:21
+73	0x49	I	18	3030036	kal	Ikiortissamik!	biibi	2014-02-05 03:34:56	2014-02-05 03:35:04
 74	0x4a	J	1	3030051	kal	Jack-imik ateqarpunga.	biibi	2014-02-05 04:06:12	2014-02-05 04:06:23
-75	0x4b	K	11	12097617	kal	Kalaallit Nunaat nunarsuarmi qeqertat annersaraat	VoiceLessQ	2023-10-05 13:48:54	2023-10-05 14:38:17
+75	0x4b	K	11	12096471	kal	Kaffisorusuppit?	VoiceLessQ	2023-10-04 22:48:36	2023-10-04 22:48:41
 77	0x4d	M	2	11277046	kal	Meeqqat tallimat pigaakka.	barndomsven	2022-11-29 17:56:17	2022-11-29 19:26:26
-78	0x4e	N	28	12097617	kal	Kalaallit Nunaat nunarsuarmi qeqertat annersaraat	VoiceLessQ	2023-10-05 13:48:54	2023-10-05 14:38:17
-79	0x4f	O	2	5093704	kal	Barack Obama kristumiuuvoq.	daina	2016-04-29 00:38:51	2016-04-29 00:38:51
-80	0x50	P	11	12096488	kal	Politikikkut isumaqatigiittoqarpoq.	VoiceLessQ	2023-10-04 23:22:19	2023-10-04 23:22:19
-81	0x51	Q	24	5893426	kal	Qanoq-ippit?	zorgzikhnit	2017-02-22 18:26:18	\N
-83	0x53	S	12	5893948	kal	Sussa.	zorgzikhnit	2017-02-22 21:29:32	\N
-84	0x54	T	18	5893429	kal	Takuss!	zorgzikhnit	2017-02-22 18:28:36	\N
-85	0x55	U	9	3030027	kal	Ulloq atorluariuk.	biibi	2014-02-05 03:01:45	2014-02-05 03:01:54
+78	0x4e	N	28	10314130	kal	Nerivoq.	AstronautKangaroo	2021-09-22 18:43:02	2021-09-22 18:43:02
+79	0x4f	O	2	12097284	kal	Oqallinneq malinnaaffigalugulu peqataaffigerusukkukku cookies akuerissavat.	VoiceLessQ	2023-10-05 11:39:21	2023-10-05 11:39:57
+80	0x50	P	11	3030052	kal	Pujortarneq ajorpoq.	biibi	2014-02-05 04:08:30	2014-02-05 04:08:40
+81	0x51	Q	24	5403249	kal	Qungujulavormi	User73201	2016-09-05 14:54:08	2016-09-05 14:54:12
+83	0x53	S	12	12096487	kal	Siumut, Demokraatit aamma Naleraq tamarmik isumaqarput, arnanut spiralilersorneqarsimasunut suliaq piaartumik aalajangerneqartariaqartoq.	VoiceLessQ	2023-10-04 23:22:06	2023-10-04 23:22:06
+84	0x54	T	18	12096469	kal	Tom-ip nalunngilaa kinaasunga.	VoiceLessQ	2023-10-04 22:47:50	2023-10-04 22:47:50
+85	0x55	U	9	12252070	kal	Uii Polenimiuupput.	qitsuk	2024-01-05 04:30:11	2024-01-05 04:30:11
 89	0x59	Y	1	5893439	kal	Yataroumik ateqarpunga.	zorgzikhnit	2017-02-22 18:35:30	\N
-97	0x61	a	761	5893919	kal	Ambassademi sulivunga.	zorgzikhnit	2017-02-22 21:22:49	\N
+97	0x61	a	761	11277401	kal	Qatanngutiga naartuvoq.	barndomsven	2022-11-29 20:22:58	2022-11-29 20:22:58
 98	0x62	b	2	5893919	kal	Ambassademi sulivunga.	zorgzikhnit	2017-02-22 21:22:49	\N
-99	0x63	c	4	5093704	kal	Barack Obama kristumiuuvoq.	daina	2016-04-29 00:38:51	2016-04-29 00:38:51
-100	0x64	d	5	11275972	kal	Finlandimi nunaqarpunga.	barndomsven	2022-11-29 06:55:07	2022-11-29 06:55:07
-101	0x65	e	104	12097628	kal	Aalisarnermut Piniarnermullu Naalakkersuisoqarfik.	VoiceLessQ	2023-10-05 13:55:19	2023-10-05 13:55:19
+99	0x63	c	4	12097284	kal	Oqallinneq malinnaaffigalugulu peqataaffigerusukkukku cookies akuerissavat.	VoiceLessQ	2023-10-05 11:39:21	2023-10-05 11:39:57
+100	0x64	d	5	3030028	kal	Canadamiinnikuuit?	biibi	2014-02-05 03:07:54	2014-02-05 03:08:05
+101	0x65	e	104	12252163	kal	Sami aningaasaqarnerorusuppoq.	qitsuk	2024-01-05 07:17:23	2024-01-05 07:17:23
 102	0x66	f	34	12097636	kal	Annerusumik paasisaqarusukkuit Aalisarnermut Piniarnermullu Naalakkersuisoqarfimmut saaffiginnittoqarsinnaavoq.	VoiceLessQ	2023-10-05 13:56:53	2023-10-05 13:56:53
-103	0x67	g	112	5893446	kal	Suminngaaneerpit?	zorgzikhnit	2017-02-22 18:37:27	\N
-104	0x68	h	2	5256289	kal	Burj Khalifap nunarsuarmi illorsuarnik massakkut anginerpaagallarpoq.	Balamax	2016-07-06 15:27:49	2016-07-06 15:28:45
-105	0x69	i	469	11277073	kal	Tuluit oqaasiinik oqalussinnaavit?	barndomsven	2022-11-29 18:10:58	2022-11-29 18:10:58
-106	0x6a	j	26	3030052	kal	Pujortarneq ajorpoq.	biibi	2014-02-05 04:08:30	2014-02-05 04:08:40
-107	0x6b	k	156	12096488	kal	Politikikkut isumaqatigiittoqarpoq.	VoiceLessQ	2023-10-04 23:22:19	2023-10-04 23:22:19
-108	0x6c	l	201	11275997	kal	Sianiilliorpoq serpik.	barndomsven	2022-11-29 07:12:57	2022-11-29 07:12:57
-109	0x6d	m	138	12097636	kal	Annerusumik paasisaqarusukkuit Aalisarnermut Piniarnermullu Naalakkersuisoqarfimmut saaffiginnittoqarsinnaavoq.	VoiceLessQ	2023-10-05 13:56:53	2023-10-05 13:56:53
-110	0x6e	n	342	3030032	kal	Nerilluarina.	biibi	2014-02-05 03:27:57	2014-02-05 03:28:57
-111	0x6f	o	134	12096457	kal	Uffarfiup kuuffia ajorpoq	VoiceLessQ	2023-10-04 22:12:24	2023-10-04 22:12:24
-112	0x70	p	140	12097632	kal	Kalaallit Nunaanni Aalisarsinnaanermut Akuersissutinik Nakkutilliisoqarfiup sinerissap qanittuani sapaatip akunnerani pisarineqartut nalunaarsortuaannarpai.	VoiceLessQ	2023-10-05 13:56:07	2023-10-05 13:56:07
-113	0x71	q	187	11933204	kal	Ernera aaffanniaavoq.	OlaafSoren	2023-07-16 05:23:23	2023-07-16 05:23:23
-114	0x72	r	243	12097632	kal	Kalaallit Nunaanni Aalisarsinnaanermut Akuersissutinik Nakkutilliisoqarfiup sinerissap qanittuani sapaatip akunnerani pisarineqartut nalunaarsortuaannarpai.	VoiceLessQ	2023-10-05 13:56:07	2023-10-05 13:56:07
-115	0x73	s	212	12252180	kal	Pinnertumik nassaarisaqarpunga.	qitsuk	2024-01-05 07:31:10	2024-01-05 07:31:10
-116	0x74	t	262	3030052	kal	Pujortarneq ajorpoq.	biibi	2014-02-05 04:08:30	2014-02-05 04:08:40
-117	0x75	u	351	5093710	kal	Atuakkamik atuarput.	daina	2016-04-29 00:47:12	2016-04-29 00:47:12
-118	0x76	v	43	11277330	kal	Napparsimmavimmi sulivunga.	barndomsven	2022-11-29 19:43:56	2022-11-29 19:43:56
+103	0x67	g	112	5403249	kal	Qungujulavormi	User73201	2016-09-05 14:54:08	2016-09-05 14:54:12
+104	0x68	h	2	12096468	kal	Tom ved præcis, hvem jeg er.	VoiceLessQ	2023-10-04 22:47:30	2023-10-04 22:47:30
+105	0x69	i	469	12095906	kal	Angut marloriarluni pinngitsaaliisimasutut tigummigallarneqartoq.	VoiceLessQ	2023-10-04 15:49:30	2023-10-04 16:19:05
+106	0x6a	j	26	5893981	kal	Qujanaq!	zorgzikhnit	2017-02-22 21:41:02	\N
+107	0x6b	k	156	11933209	kal	Aalisakkat qimerluliupput masillit.	OlaafSoren	2023-07-16 05:28:46	2023-07-16 05:28:46
+108	0x6c	l	201	12095906	kal	Angut marloriarluni pinngitsaaliisimasutut tigummigallarneqartoq.	VoiceLessQ	2023-10-04 15:49:30	2023-10-04 16:19:05
+109	0x6d	m	138	12096487	kal	Siumut, Demokraatit aamma Naleraq tamarmik isumaqarput, arnanut spiralilersorneqarsimasunut suliaq piaartumik aalajangerneqartariaqartoq.	VoiceLessQ	2023-10-04 23:22:06	2023-10-04 23:22:06
+110	0x6e	n	342	3030034	kal	Tassani issiasoqanngila?	biibi	2014-02-05 03:30:10	2014-02-05 03:30:18
+111	0x6f	o	134	5093713	kal	Tom atuakkamik atuarpoq.	daina	2016-04-29 00:53:39	2016-04-29 00:55:34
+112	0x70	p	140	5093662	kal	Qimmeqarpunga.	daina	2016-04-29 00:08:53	2016-04-29 00:08:53
+113	0x71	q	187	3030052	kal	Pujortarneq ajorpoq.	biibi	2014-02-05 04:08:30	2014-02-05 04:08:40
+114	0x72	r	243	5403223	kal	Eqqarsaatiginaveersaaginnassavat	User73201	2016-09-05 14:47:28	2016-09-05 14:47:47
+115	0x73	s	212	12261107	kal	Tom toqutsisuuvoq.	qitsuk	2024-01-10 07:23:58	2024-01-10 07:23:58
+116	0x74	t	262	5893997	kal	Kasuutta!	zorgzikhnit	2017-02-22 21:44:22	\N
+117	0x75	u	351	11929236	kal	Iipilit pingasut pisiarinikuuakka.	OlaafSoren	2023-07-14 03:19:00	2023-07-14 03:19:00
+118	0x76	v	43	5403231	kal	Arnaatigikkaangavipajuk	User73201	2016-09-05 14:50:32	2016-09-05 14:50:36
 230	0xe6	æ	1	12096468	kal	Tom ved præcis, hvem jeg er.	VoiceLessQ	2023-10-04 22:47:30	2023-10-04 22:47:30

@@ -1,83 +1,83 @@
-32	0x20	 	13103	8971818	sqi	Ju duhet të përfitoni nga kjo mundësi, sepse ndoshta nuk shfaqet sërisht.	Redux	2020-08-12 01:22:24	2020-08-12 01:22:24
-33	0x21	!	97	8971824	sqi	Le të fillojnë pushimet!	Redux	2020-08-12 01:25:46	2020-08-12 01:25:46
-34	0x22	"	193	9017891	sqi	"Të ç'farë kombësie janë gjyshet e sajë?" "Serbe"	Redux	2020-09-05 19:12:42	2020-09-05 19:12:42
-39	0x27	'	100	7005447	sqi	Duhet t'i kushtosh vëmendje mësueses.	aln	2018-07-19 16:15:13	2018-07-19 16:15:13
+32	0x20	 	13103	4731420	sqi	Kur u ktheva në shtëpi, ai po gatuante darkë.	hajenso	2015-11-28 10:17:50	2015-11-28 10:17:50
+33	0x21	!	97	380581	sqi	Gëzuar ditëlindjen Muriel!	kellenparker	2010-04-19 04:06:15	2010-04-25 04:07:20
+34	0x22	"	193	6992780	sqi	"Nuk jam i lodhur." "As unë."	aln	2018-07-13 14:49:34	2018-07-13 14:49:34
+39	0x27	'	100	9018374	sqi	Ç'farë kënaqësi!	Redux	2020-09-05 22:02:09	2020-09-05 22:02:09
 40	0x28	(	3	2365565	sqi	Z(oti). Brown është babai i saj.	iliri	2013-04-08 01:04:27	2013-04-08 01:05:04
 41	0x29	)	3	6275874	sqi	Sos - jap fund diçkaje, nuk lë me asnjë grimë a asnjë pikë, mbaroj. E sosi tërë miellin (bukën, lakrorin, gjellën, verën, ujin).	Feri5	2017-09-01 08:53:20	2017-09-01 08:53:20
-44	0x2c	,	240	4731324	sqi	Tomi e bëri me qëllim, mendoj.	hajenso	2015-11-28 09:46:26	2015-11-28 09:46:26
-45	0x2d	-	25	9018171	sqi	"Do ti bësh detyrat e shtëpisë pas darkës?" - "Po do i bëj."	Redux	2020-09-05 20:54:54	2020-09-05 20:54:54
-46	0x2e	.	2062	2941355	sqi	Ti gjithmonë ishe një djalë shumë i lumtur.	hajenso	2013-12-26 02:00:30	2013-12-26 02:00:30
+44	0x2c	,	240	8971703	sqi	Të lutem, më trego menunë.	Redux	2020-08-12 00:36:53	2020-08-12 00:36:53
+45	0x2d	-	25	1978816	sqi	Unë kam një llogari Facebook-u.	Ylberi	2012-11-03 15:09:27	2012-11-03 15:09:27
+46	0x2e	.	2062	7003381	sqi	Dimri është i gjatë.	aln	2018-07-18 11:18:09	2018-07-18 11:18:09
 47	0x2f	/	1	2365580	sqi	Mirë, koha mbaroi. / Mirë, boll me kaq. Le të mbarojmë mësimin tani.	iliri	2013-04-08 01:21:55	2013-04-08 01:21:55
-48	0x30	0	9	7005564	sqi	Gjithmonë zgjohem në 6:30.	aln	2018-07-19 16:45:57	2018-07-19 16:45:57
-49	0x31	1	9	1978817	sqi	Ivy Bean, perodoruesi me i vjeter i Facebook dhe Twitter , vdekur 104 vjec.	Ylberi	2012-11-03 15:10:20	2012-11-03 15:10:20
-50	0x32	2	5	4543751	sqi	Numri im i telefonit është 9876-5432.	Ricardo14	2015-09-22 04:08:00	2015-09-22 18:37:41
+48	0x30	0	9	4731298	sqi	Babi im nuk kthehej kurrë para orës 9 apo 10.	hajenso	2015-11-28 09:40:00	2015-11-28 09:40:00
+49	0x31	1	9	4731404	sqi	Ai numëroi deri në 100.	hajenso	2015-11-28 10:12:50	2015-11-28 10:12:50
+50	0x32	2	5	6982812	sqi	Le të fillojmë në 2:30.	aln	2018-07-08 13:55:34	2018-07-08 13:55:34
 51	0x33	3	6	7003337	sqi	Alfabeti vllah ka 33 shkronja.	aln	2018-07-18 11:09:55	2018-07-18 11:09:55
-52	0x34	4	3	1978817	sqi	Ivy Bean, perodoruesi me i vjeter i Facebook dhe Twitter , vdekur 104 vjec.	Ylberi	2012-11-03 15:10:20	2012-11-03 15:10:20
+52	0x34	4	3	9018041	sqi	Vazhdoi bashkëpunimin me gazetat më të rëndësishme italiane në 1974.	Redux	2020-09-05 20:24:15	2020-09-05 20:24:15
 53	0x35	5	2	4543751	sqi	Numri im i telefonit është 9876-5432.	Ricardo14	2015-09-22 04:08:00	2015-09-22 18:37:41
-54	0x36	6	5	1727606	sqi	Ne moshen 6 vjece ai kishte mesuar to perdorte makinen e shkrimit dhe i tregoi mesuesit qe nuk kishte nevoje te mesonte te shkruante me duar.	Ylberi	2012-07-26 12:33:12	2012-07-26 12:33:12
+54	0x36	6	5	1183589	sqi	Kur Di Ma provoi për të 966-tën herë, kishte tashmë filluar të humbiste shpresat.	Cherubian	2011-10-18 20:19:15	2011-10-18 20:19:15
 55	0x37	7	3	9018511	sqi	Shkolla jonë fillon në 7:15.	Redux	2020-09-05 22:55:42	2020-09-05 22:55:42
 56	0x38	8	1	4543751	sqi	Numri im i telefonit është 9876-5432.	Ricardo14	2015-09-22 04:08:00	2015-09-22 18:37:41
-57	0x39	9	6	1456326	sqi	Nënë Tereza u lind në Jugosllavi në vitin 1910.	Balamax	2012-02-26 06:48:25	2012-02-26 06:48:25
-58	0x3a	:	4	8971726	sqi	Unë thashë: 'Unë do të ngjytem në palmë, dhe do të kapem në degët e saj'.	Redux	2020-08-12 00:50:26	2020-08-12 00:50:26
+57	0x39	9	6	4543751	sqi	Numri im i telefonit është 9876-5432.	Ricardo14	2015-09-22 04:08:00	2015-09-22 18:37:41
+58	0x3a	:	4	9018511	sqi	Shkolla jonë fillon në 7:15.	Redux	2020-09-05 22:55:42	2020-09-05 22:55:42
 59	0x3b	;	3	7003283	sqi	Unë nuk jam kush mendon ti se jam; Nuk jam kush mendoj se jam; Jam kush mendoj se ti mendon që jam.	aln	2018-07-18 10:45:22	2018-07-18 10:45:22
-63	0x3f	?	469	5250515	sqi	Nëse nuk të pëlqen aq shumë mënyra ime për të bërë gjërat, pse nuk i bën vetë?	hajenso	2016-07-03 22:33:42	2016-07-03 22:33:42
-65	0x41	A	275	1934378	sqi	Ajo cfare ju thate eshte shum e ndryshme nga ajo qe degjova nga ai.	Ylberi	2012-10-18 22:45:27	2012-10-18 22:45:27
-66	0x42	B	90	3307660	sqi	Esperanto, gjuhë zyrtare e Bashkimit Evropian, tani!	Malape	2014-06-11 05:11:04	2014-06-11 05:11:04
-67	0x43	C	13	2420307	sqi	Cili ushqim ju pëlqen më shumë?	\N	2013-05-05 22:40:58	2013-05-05 22:40:58
-68	0x44	D	195	6981369	sqi	Dua të vdes.	aln	2018-07-07 13:36:32	2018-07-07 13:36:32
-69	0x45	E	109	7005598	sqi	E sheh qiellin?	aln	2018-07-19 16:59:14	2018-07-19 16:59:14
+63	0x3f	?	469	8972198	sqi	Nuk shkon të ndërtojë banka në Bullgari?	Redux	2020-08-12 08:52:15	2020-08-12 08:52:15
+65	0x41	A	275	6982729	sqi	A është ajo e martuar?	aln	2018-07-08 13:25:51	2018-07-08 13:25:51
+66	0x42	B	90	10003018	sqi	Gratë shqiptare nuk dalin nga shtëpia pa Burrin, Babanë, Vëllain ose Bijtë e tyre.	QAzaqQA	2021-05-02 11:50:15	2021-05-02 11:50:15
+67	0x43	C	13	9023081	sqi	Cila ju pëlqen më shumë, pula apo peshku?	Redux	2020-09-07 22:33:05	2020-09-07 22:33:05
+68	0x44	D	195	8973081	sqi	Do shkosh të ndërtosh shtëpi në Meksikë?	Redux	2020-08-12 20:39:33	2020-08-12 20:39:33
+69	0x45	E	109	7005542	sqi	Epo, le të shohim.	aln	2018-07-19 16:40:49	2018-07-19 16:40:49
 70	0x46	F	52	7005596	sqi	Familja është e rëndësishme.	aln	2018-07-19 16:58:33	2018-07-19 16:58:33
-71	0x47	G	59	9018104	sqi	Po shkoj të ndërtoj fushëlojëra në Greqi?	Redux	2020-09-05 20:39:55	2020-09-05 20:39:55
+71	0x47	G	59	6982098	sqi	Genci u ngjit në një pemë të lartë.	aln	2018-07-07 19:56:26	2018-07-07 19:56:26
 72	0x48	H	22	4963633	sqi	Heshtja nuk është marrëveshje.	drilon90	2016-03-09 10:31:18	2016-03-09 10:31:18
-73	0x49	I	68	9023076	sqi	I keni dhënë ndonjë herë makinës?	Redux	2020-09-07 22:31:58	2020-09-07 22:31:58
-74	0x4a	J	129	7005458	sqi	Je mirë?	aln	2018-07-19 16:19:18	2018-07-19 16:19:18
-75	0x4b	K	233	9018113	sqi	Kuptova që isha i bllokuar te ky këndi i humbur për shumë kohë.	Redux	2020-09-05 20:41:34	2020-09-05 20:41:34
-76	0x4c	L	38	4731253	sqi	Shkuam bashkë në Laramie, por pastaj u ndamë.	hajenso	2015-11-28 09:22:29	2015-11-28 09:22:29
-77	0x4d	M	294	6981508	sqi	Mua më pëlqejnë të gjitha gjuhët.	aln	2018-07-07 14:51:11	2018-07-07 14:51:11
-78	0x4e	N	362	9018011	sqi	Nuk mendoj se Tomi dhe Maary janë të pafajshëm.	Redux	2020-09-05 20:16:40	2020-09-05 20:16:40
-79	0x4f	O	13	6981420	sqi	O Zot, qeni im do të binte në dashuri me ty.	aln	2018-07-07 14:08:59	2018-07-07 14:08:59
-80	0x50	P	188	8973022	sqi	Përse jeni të prirura ta bëni?	Redux	2020-08-12 20:22:55	2020-08-12 20:22:55
-81	0x51	Q	16	6983166	sqi	Qesha.	aln	2018-07-08 17:29:52	2018-07-08 17:29:52
-82	0x52	R	40	9018087	sqi	Po shkon të japësh mësim në Zelandën e Re?	Redux	2020-09-05 20:36:42	2020-09-05 20:36:42
-83	0x53	S	222	10003005	sqi	Shqiptarët janë besimtarë të flaktë të Islamit.	QAzaqQA	2021-05-02 11:43:46	2021-05-02 11:43:46
-84	0x54	T	430	2424246	sqi	Tungjatjeta. Unë quhem José Silva. Si të quajnë?	ecorralest101	2013-05-08 10:20:43	2023-01-07 16:12:30
-85	0x55	U	166	10002932	sqi	Unë agjëroj në Ramazan.	QAzaqQA	2021-05-02 11:09:21	2021-05-04 08:48:09
-86	0x56	V	49	6981471	sqi	Vetëm pse është e mundur për ta bërë, nuk do të thotë që duhet ta bësh.	aln	2018-07-07 14:35:40	2018-07-07 14:35:40
+73	0x49	I	68	8766990	sqi	Isha vertete shume pa fat.	dq	2020-05-16 22:23:12	2020-05-16 22:23:12
+74	0x4a	J	129	9018134	sqi	Ju jam në borxh për xhentilecën tuaj.	Redux	2020-09-05 20:48:18	2020-09-05 20:48:18
+75	0x4b	K	233	2365586	sqi	Ku janë paratë e mia?	iliri	2013-04-08 01:25:53	2013-04-08 01:25:53
+76	0x4c	L	38	7005535	sqi	Llogaria juaj është e zbrazur.	aln	2018-07-19 16:37:05	2018-07-19 16:37:05
+77	0x4d	M	294	7005461	sqi	Më do?	aln	2018-07-19 16:19:50	2018-07-19 16:19:50
+78	0x4e	N	362	9018000	sqi	Nuk e kam bërë ende.	Redux	2020-09-05 20:14:12	2020-09-05 20:14:12
+79	0x4f	O	13	6276022	sqi	Droga s'ka të sosur. (Sosur - Veprimi sipas kuptimeve të foljeve SOS, SOSEM. S'ka të sosur)	Feri5	2017-09-01 10:02:03	2017-09-01 10:02:03
+80	0x50	P	188	9005003	sqi	Pseudonimi im është Tom.	lindamema	2020-08-30 21:46:56	2020-08-30 22:41:42
+81	0x51	Q	16	6983238	sqi	Qetësohu!	aln	2018-07-08 17:46:22	2018-07-08 17:46:22
+82	0x52	R	40	9017782	sqi	Nuk do të shkoj të ndërtoj spitale në Zelandën e Re.	Redux	2020-09-05 18:45:27	2020-09-05 18:45:27
+83	0x53	S	222	6274948	sqi	SOS - Arrin diçka në pikën më të lartë sa s'mund të përmbahet më.	Feri5	2017-09-01 04:14:57	2017-09-01 04:14:57
+84	0x54	T	430	6982730	sqi	Tomi do të përfundojë në burg.	aln	2018-07-08 13:25:59	2018-07-08 13:25:59
+85	0x55	U	166	8972234	sqi	Do të shkoni të jepni mësim në Ukrainë?	Redux	2020-08-12 09:32:11	2020-08-12 09:32:11
+86	0x56	V	49	2942656	sqi	Vazhdo drejtë!	hajenso	2013-12-26 20:45:22	2013-12-26 20:45:22
 87	0x57	W	1	8971867	sqi	Mirëseerdhe në Wikipedia, enciklopedia e lirë që kushdo mund ta ndryshojë.	Redux	2020-08-12 01:40:25	2020-08-12 01:40:25
-88	0x58	X	8	9018272	sqi	Po thërras Salvuccion me telefonin e Xhulias.	Redux	2020-09-05 21:20:12	2020-09-05 21:20:12
-89	0x59	Y	4	1183494	sqi	Yangzi iu shmang pyetjes që i bëra unë.	Cherubian	2011-10-18 18:42:22	2011-10-18 19:45:51
-90	0x5a	Z	22	6983196	sqi	Zgjidh një.	aln	2018-07-08 17:34:32	2018-07-08 17:34:32
+88	0x58	X	8	9017710	sqi	Ka dikush tjetër që e pa përveç Xhim-it?	Redux	2020-09-05 18:32:11	2020-09-05 18:32:11
+89	0x59	Y	4	6983135	sqi	Rrugët e New Yorkut janë shumë të gjera.	aln	2018-07-08 17:24:25	2018-07-08 17:24:25
+90	0x5a	Z	22	6983223	sqi	Zhduku!	aln	2018-07-08 17:44:06	2018-07-08 17:44:06
 96	0x60	`	1	4963676	sqi	Tomi nuk me lejon t`i përgjigjem pyetjes së Merit.	drilon90	2016-03-09 10:44:43	2016-03-09 10:44:43
-97	0x61	a	4440	7003381	sqi	Dimri është i gjatë.	aln	2018-07-18 11:18:09	2018-07-18 11:18:09
-98	0x62	b	643	9017981	sqi	Ai mbërriti te stacioni.	Redux	2020-09-05 20:10:07	2020-09-05 20:10:07
-99	0x63	c	154	1723485	sqi	Nje qen vrapon pas nje mace, dhe nje mace pas nje mini.	Ylberi	2012-07-24 23:47:18	2012-07-24 23:47:18
-100	0x64	d	1829	9018025	sqi	Ka patur shumë ankesa ditët e fundit rreth sasisë së zhurmës së ardhur nga apartamenti jot.	Redux	2020-09-05 20:19:20	2020-09-05 20:19:20
-101	0x65	e	5304	2941361	sqi	Ajo kishte shumë nevojë për paratë.	hajenso	2013-12-26 02:03:20	2013-12-26 02:03:20
-102	0x66	f	539	8971785	sqi	Tani shkruaj me një font të ri.	Redux	2020-08-12 01:11:40	2020-08-12 01:11:40
-103	0x67	g	773	6982076	sqi	Pagova një gjobë.	aln	2018-07-07 19:40:33	2018-07-07 19:40:33
-104	0x68	h	3165	4731206	sqi	Ai hëngri kërpudha helmuese.	hajenso	2015-11-28 08:57:00	2015-11-28 08:57:00
-105	0x69	i	4385	9018019	sqi	Vazhdojnë të flasin për të.	Redux	2020-09-05 20:17:37	2020-09-05 20:17:37
-106	0x6a	j	2847	2204947	sqi	Mos shkruani asnjëherë fjalët "supë me panxhar" dhe "supë me lakra" në gjermanisht!	Balamax	2013-02-09 12:50:31	2013-02-09 12:50:31
-107	0x6b	k	2327	6982075	sqi	Loja ishte e shkëlqyeshme.	aln	2018-07-07 19:39:57	2018-07-07 19:39:57
-108	0x6c	l	1310	6997330	sqi	Biftek, të lutem.	aln	2018-07-15 20:21:35	2018-07-15 20:21:35
-109	0x6d	m	2735	4731342	sqi	Tomi doli jashtë për të ngrënë.	hajenso	2015-11-28 09:51:17	2015-11-28 09:51:17
-110	0x6e	n	4215	9018120	sqi	Lajmërohet gjithmonë e më shkatërrimtar?	Redux	2020-09-05 20:43:48	2020-09-05 20:43:48
-111	0x6f	o	3006	4731201	sqi	Ajo gjithmonë vishet shumë thjesht.	hajenso	2015-11-28 08:55:43	2015-11-28 08:55:43
-112	0x70	p	1474	9018334	sqi	"Ku do të shkojmë për pushime?" "Në Finlandë."	Redux	2020-09-05 21:41:41	2020-09-05 21:41:41
-113	0x71	q	595	3518980	sqi	Sot nuk është aq e ftohtë.	\N	2014-09-25 13:27:58	2015-11-28 09:54:58
-114	0x72	r	3672	3517739	sqi	Athina është në Greqi.	aln	2014-09-24 21:09:02	2018-07-08 18:14:01
-115	0x73	s	3419	8741129	sqi	Ku është motra ime?	Solana	2020-05-06 04:18:03	2020-05-06 04:18:03
-116	0x74	t	5027	4731183	sqi	Tomi punon aq shumë sa çdonjeri tjetër.	hajenso	2015-11-28 08:43:57	2015-11-28 08:43:57
-117	0x75	u	2925	8972189	sqi	Kush bën zanatin e dikujt tjetër, s'e bën mirë.	Redux	2020-08-12 08:48:56	2020-08-12 08:48:56
-118	0x76	v	596	9018405	sqi	Tomi nuk është më i vjetër se Mary	Redux	2020-09-05 22:23:09	2020-09-05 22:23:09
-119	0x77	w	9	9090948	sqi	Do një tjetër sandwich?	Redux	2020-10-01 15:48:40	2020-10-01 15:48:40
-120	0x78	x	61	9018069	sqi	Burri që po më përshëndet është xhaxhai im.	Redux	2020-09-05 20:31:33	2020-09-05 20:31:33
-121	0x79	y	340	8971691	sqi	Pyetja e dytë është jo e drejtpërdrejtë për të bërë pohimin "nuk është e vërtet".	Redux	2020-08-12 00:31:06	2020-08-12 00:31:06
-122	0x7a	z	332	6981402	sqi	Njerëzit janë miqësorë këtu.	aln	2018-07-07 13:56:18	2018-07-07 13:56:18
-199	0xc7	Ç	44	9090857	sqi	Ç'farë mund të bëjmë për ti ndaluar?	Redux	2020-10-01 15:29:39	2020-10-01 15:29:39
-203	0xcb	Ë	42	9018305	sqi	Është me të vërtetë me fat.	Redux	2020-09-05 21:31:39	2020-09-05 21:31:39
+97	0x61	a	4440	9017819	sqi	Pse këto gjëra të ndodhin gjithmonë ty?	Redux	2020-09-05 18:52:46	2020-09-05 18:52:46
+98	0x62	b	643	8973067	sqi	Të enjten do bëjmë matematikë?	Redux	2020-08-12 20:35:40	2020-08-12 20:35:40
+99	0x63	c	154	9023239	sqi	Juve ju pëlqen Kawaguchi.	Redux	2020-09-07 23:11:29	2020-09-07 23:11:29
+100	0x64	d	1829	9018390	sqi	Mosmarrëveshjet ndërkombëtare duhet të zgjidhen në një klimë të qetë.	Redux	2020-09-05 22:19:22	2020-09-05 22:19:22
+101	0x65	e	5304	7005586	sqi	Ai ishte shumë i durueshëm.	aln	2018-07-19 16:54:03	2018-07-19 16:54:03
+102	0x66	f	539	6982744	sqi	Ai vdiq nga i ftohti mbrëmë.	aln	2018-07-08 13:29:33	2018-07-08 13:29:33
+103	0x67	g	773	9018175	sqi	Bëj kujdes me atë gjë.	Redux	2020-09-05 20:55:55	2020-09-05 20:55:55
+104	0x68	h	3165	4731192	sqi	Emri i përhapur në anglisht i pitaja-s, "fruta dragua", e pasqyron emrin e saj popullor në shumë gjuhë aziatike.	hajenso	2015-11-28 08:51:34	2015-11-28 08:51:34
+105	0x69	i	4385	9023068	sqi	Nuk është e stilit tim.	Redux	2020-09-07 22:29:03	2020-09-07 22:29:03
+106	0x6a	j	2847	2864470	sqi	Një gjuhë asnjëherë nuk është mjaft.	\N	2013-11-20 11:29:37	2015-02-02 16:09:12
+107	0x6b	k	2327	6982106	sqi	Ajo vdiq e bashkë me të edhe ëndërrat e saj.	aln	2018-07-07 19:59:44	2018-07-07 19:59:44
+108	0x6c	l	1310	6982068	sqi	Kush do të luajë rolin e princeshës?	aln	2018-07-07 19:35:27	2018-07-07 19:35:27
+109	0x6d	m	2735	4731190	sqi	Tomi më kërkoi ta zgjoj në orën gjashtë e gjysëm.	hajenso	2015-11-28 08:49:12	2015-11-28 08:49:12
+110	0x6e	n	4215	7003342	sqi	Nëna ime.	aln	2018-07-18 11:11:06	2018-07-18 11:11:06
+111	0x6f	o	3006	6982765	sqi	Nuk mund të shkosh në Boston këtë fundjavë.	aln	2018-07-08 13:38:28	2018-07-08 13:38:28
+112	0x70	p	1474	9017528	sqi	Shoku im nuk është palestinez.	Redux	2020-09-05 18:05:57	2020-09-05 18:05:57
+113	0x71	q	595	8971684	sqi	Thuajini që kam nevojë për pak para.	Redux	2020-08-12 00:26:10	2020-08-12 00:26:10
+114	0x72	r	3672	8973068	sqi	Mbreti u rrethua nga terroristë.	Redux	2020-08-12 20:35:57	2020-08-12 20:35:57
+115	0x73	s	3419	2421455	sqi	Psherëtima e parë e dashurisë është e fundit e urtësisë.	\N	2013-05-06 17:20:08	2013-05-06 17:20:08
+116	0x74	t	5027	8971686	sqi	Nuk mundeshim ta imagjinonim se c'farë Pauli donte të bënte.	Redux	2020-08-12 00:27:10	2020-08-12 00:27:10
+117	0x75	u	2925	9023092	sqi	Pës studim shkojnë në Suedi.	Redux	2020-09-07 22:36:18	2020-09-07 22:36:18
+118	0x76	v	596	5528486	sqi	Të pasurit kanë nevojë për mua, të varfërit kanë shumë nga unë dhe në qoftë se unë e ha atë do të vdes. Kush jam unë?	Ylberi	2016-10-18 17:19:05	2016-10-18 17:19:05
+119	0x77	w	9	2365565	sqi	Z(oti). Brown është babai i saj.	iliri	2013-04-08 01:04:27	2013-04-08 01:05:04
+120	0x78	x	61	4731538	sqi	Nuk lexova asnjë libër dje.	hajenso	2015-11-28 10:59:00	2015-11-28 10:59:00
+121	0x79	y	340	8971610	sqi	Tomi ndryshon mendim shumë herë.	Redux	2020-08-11 23:59:32	2020-08-11 23:59:32
+122	0x7a	z	332	9017590	sqi	Treni nuk ndaloi por vazhdoi rrugën e tij.	Redux	2020-09-05 18:13:09	2020-09-05 18:13:09
+199	0xc7	Ç	44	11074112	sqi	Çfarë duhet të bëj deri në orën tetë?	janTuki	2022-08-21 22:13:46	2022-08-21 22:13:46
+203	0xcb	Ë	42	6983011	sqi	Është serioze sëmundja e Tomit?	aln	2018-07-08 16:24:23	2018-07-08 16:24:23
 226	0xe2	â	1	6981487	sqi	Rumania quhet "România" në rumanisht.	aln	2018-07-07 14:44:09	2018-07-07 14:44:09
-231	0xe7	ç	149	10003032	sqi	Burrat shqiptarë lejojnë që vajzat e tyre të martohen me çdo mysliman që do të kujdeset mirë për vajzën e tij.	QAzaqQA	2021-05-02 11:55:24	2021-05-04 05:34:05
+231	0xe7	ç	149	4963690	sqi	Pse gjithçka po shkon keq?	drilon90	2016-03-09 10:52:20	2016-03-09 10:52:20
 233	0xe9	é	1	2424246	sqi	Tungjatjeta. Unë quhem José Silva. Si të quajnë?	ecorralest101	2013-05-08 10:20:43	2023-01-07 16:12:30
-235	0xeb	ë	6688	10002937	sqi	Shqiptarët e Maqedonisë e duan Shqipërinë.	QAzaqQA	2021-05-02 11:12:20	2021-05-02 11:12:20
+235	0xeb	ë	6688	2942813	sqi	Një krim i caktuar është i dënueshm nëse je përjekur, por jo e dënueshme nëse kryer. Çfarë është kjo?	Ylberi	2013-12-26 21:44:32	2013-12-26 21:44:32
 287	0x11f	ğ	1	9523066	sqi	Erdoğan është presidenti i Turqisë.	\N	2020-12-22 19:19:11	2021-01-04 05:42:12

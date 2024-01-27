@@ -223,6 +223,9 @@ English quotation marks: unclosed opening mark	812065	epo	“En“ estas prepozi
 English quotation marks: unbalanced opening marks	812065	epo	“En“ estas prepozicio.	rado	2011-03-26 10:38:13	2011-03-26 10:38:13
 Colon: preceeded by space	818518	epo	Nia teamo privenkis la kontraŭulojn per 5 : 4.	sigfrido	2011-03-31 11:19:29	2011-03-31 11:19:29
 Capitalization	819765	epo	"iPhone" estas eksterordinara poŝtelefono.	GrizaLeono	2011-04-01 12:33:36	2011-04-01 12:33:36
+English quotation marks: unopened closing mark	843094	epo	Antaŭ nelonge la asocio „Tipografoj por Comic Sans” refoje okazigis kunsidon — en telefonbudo.	PaulP	2011-04-18 17:24:08	2024-01-23 08:12:21
+Low quotation mark: not used	843094	epo	Antaŭ nelonge la asocio „Tipografoj por Comic Sans” refoje okazigis kunsidon — en telefonbudo.	PaulP	2011-04-18 17:24:08	2024-01-23 08:12:21
+Low quotation mark: not used	843094	epo	Antaŭ nelonge la asocio „Tipografoj por Comic Sans” refoje okazigis kunsidon — en telefonbudo.	PaulP	2011-04-18 17:24:08	2024-01-23 08:12:21
 Guillemets: opening mark succeeded by space	896052	epo	»Kiu estas tiu knabino?« »Tiu estas Keiko.«	votuporangano	2011-05-17 02:16:31	2011-10-11 01:31:07
 Guillemets: closing mark preceeded by space	896052	epo	»Kiu estas tiu knabino?« »Tiu estas Keiko.«	votuporangano	2011-05-17 02:16:31	2011-10-11 01:31:07
 Guillemets: closing mark succeeded by letter or digit	896052	epo	»Kiu estas tiu knabino?« »Tiu estas Keiko.«	votuporangano	2011-05-17 02:16:31	2011-10-11 01:31:07
@@ -1456,7 +1459,6 @@ English quotation marks: unopened closing mark	5134282	epo	„Ho! Se mi edziĝas
 English quotation marks: unbalanced closing marks	5134282	epo	„Ho! Se mi edziĝas kun li, li estos feliĉa ...” – „Ĉu feliĉa? ... Li ne amas vin.”	gege_veggie	2016-05-13 00:58:20	2021-02-14 09:35:15
 Low quotation mark: not used	5134282	epo	„Ho! Se mi edziĝas kun li, li estos feliĉa ...” – „Ĉu feliĉa? ... Li ne amas vin.”	gege_veggie	2016-05-13 00:58:20	2021-02-14 09:35:15
 Low quotation mark: not used	5134282	epo	„Ho! Se mi edziĝas kun li, li estos feliĉa ...” – „Ĉu feliĉa? ... Li ne amas vin.”	gege_veggie	2016-05-13 00:58:20	2021-02-14 09:35:15
-Final punctuation	5138563	epo	Aktinio vaporiĝas ĉe tri mil cent naŭdek ok celsiaj gradoj	GrizaLeono	2016-05-14 15:31:44	2016-05-14 15:31:44
 Final punctuation	5146433	epo	La grizigitaj tradukoj estas nerektaj tradukoj. Alivorte ili estas tradukoj de tradukoj, kaj ne tradukoj de la ĉefa frazo (la ĉefa frazo estas la frazo aperanta en grandaj literoj)	nimfeo	2016-05-17 16:57:52	2016-05-17 16:57:52
 English quotation marks: unopened closing mark	5157663	epo	„Esti aŭ ne esti”, jen la vortoj de Ŝekspiro, kiuj plej ofte estas citataj.	PaulP	2016-05-22 11:02:55	2016-05-22 11:02:55
 Low quotation mark: not used	5157663	epo	„Esti aŭ ne esti”, jen la vortoj de Ŝekspiro, kiuj plej ofte estas citataj.	PaulP	2016-05-22 11:02:55	2016-05-22 11:02:55
@@ -4319,7 +4321,6 @@ English quotation marks: unclosed opening mark	10901942	epo	Ĉiam estis klare, k
 Low quotation mark: not used	10901942	epo	Ĉiam estis klare, ke „Stutgarto 21“ estos falpuŝiĝoŝtono en la intertraktadoj kun la SPD. Sed tie ĉi validas la sama: Bona stumblanto ne falas.	Esperantostern	2022-06-11 05:35:17	2022-06-12 05:25:36
 Low quotation mark: not used	10901942	epo	Ĉiam estis klare, ke „Stutgarto 21“ estos falpuŝiĝoŝtono en la intertraktadoj kun la SPD. Sed tie ĉi validas la sama: Bona stumblanto ne falas.	Esperantostern	2022-06-11 05:35:17	2022-06-12 05:25:36
 Final punctuation	10925843	epo	Mi jam timis, ke io tia okazos,	GrizaLeono	2022-06-20 14:14:34	2022-06-20 14:14:34
-Final punctuation	10925885	epo	Eminjo skribis la frazon	GrizaLeono	2022-06-20 14:38:01	2022-06-20 14:38:01
 English quotation marks: unopened closing mark	10945962	epo	La rumana vorto „sarma” estas pruntita el la turka.	PaulP	2022-06-28 09:16:48	2022-06-28 09:16:48
 Low quotation mark: not used	10945962	epo	La rumana vorto „sarma” estas pruntita el la turka.	PaulP	2022-06-28 09:16:48	2022-06-28 09:16:48
 Low quotation mark: not used	10945962	epo	La rumana vorto „sarma” estas pruntita el la turka.	PaulP	2022-06-28 09:16:48	2022-06-28 09:16:48
@@ -4702,10 +4703,6 @@ Final punctuation	12067427	epo	Amhistorioj	pliiganto	2023-09-20 19:50:18	2023-09
 Final punctuation	12067431	epo	Amaj historioj	pliiganto	2023-09-20 19:50:40	2023-09-20 19:50:40
 Final punctuation	12067434	epo	Priamaj historioj	pliiganto	2023-09-20 19:51:13	2023-09-20 19:51:13
 Final punctuation	12072018	epo	Tomo falis tra la glacio;	GrizaLeono	2023-09-22 17:43:05	2023-09-22 17:43:05
-Final punctuation	12077036	epo	Estigo de uzanta konto	pliiganto	2023-09-25 06:10:16	2023-09-25 06:10:16
-Final punctuation	12077038	epo	Ekestigo de uzanta konto	pliiganto	2023-09-25 06:10:28	2023-09-25 06:10:28
-Final punctuation	12077040	epo	Kreo de uzanta konto	pliiganto	2023-09-25 06:10:42	2023-09-25 06:10:42
-Final punctuation	12077042	epo	Kreado de uzanta konto	pliiganto	2023-09-25 06:10:50	2023-09-25 06:10:50
 Final punctuation	12077045	epo	Amo ĝis la morto	pliiganto	2023-09-25 06:11:34	2023-09-25 06:11:34
 Final punctuation	12078572	epo	Bela aŭtuna tago	pliiganto	2023-09-25 20:38:15	2023-09-25 20:38:15
 Ellipsis: too short	12082976	epo	Mi envias la kapablon de Tomo simple transloĝiĝi al alia lando kiam ajn li volas, sen la bezono zorgi pri medikamentoj, kuracistoj, ktp..	shekitten	2023-09-27 14:21:30	2023-09-27 14:21:30
@@ -4771,4 +4768,7 @@ Guillemets: closing mark succeeded by letter or digit	12231741	epo	La dana vorto
 Guillemets: unclosed opening mark	12231741	epo	La dana vorto »marsvin« signifas kaj focenon kaj kobajon.	danepo	2023-12-26 13:25:04	2023-12-26 13:25:04
 Guillemets: unopened closing mark	12231741	epo	La dana vorto »marsvin« signifas kaj focenon kaj kobajon.	danepo	2023-12-26 13:25:04	2023-12-26 13:25:04
 Final punctuation	12247082	epo	Mi scias, kio okazis al ili	marafon	2024-01-01 21:37:21	2024-01-01 21:37:21
-Question mark: preceeded by space	12275500	epo	Kiu fermis la fenestron ?	HaleBopp	2024-01-19 18:32:41	2024-01-19 18:32:41
+English quotation marks: unopened closing mark	12276129	epo	„Kie denove mi lasis miajn okulvitrojn?” – „Rigardu ĉu sur la servicoŝranko.”	PaulP	2024-01-20 07:41:04	2024-01-20 07:42:11
+English quotation marks: unbalanced closing marks	12276129	epo	„Kie denove mi lasis miajn okulvitrojn?” – „Rigardu ĉu sur la servicoŝranko.”	PaulP	2024-01-20 07:41:04	2024-01-20 07:42:11
+Low quotation mark: not used	12276129	epo	„Kie denove mi lasis miajn okulvitrojn?” – „Rigardu ĉu sur la servicoŝranko.”	PaulP	2024-01-20 07:41:04	2024-01-20 07:42:11
+Low quotation mark: not used	12276129	epo	„Kie denove mi lasis miajn okulvitrojn?” – „Rigardu ĉu sur la servicoŝranko.”	PaulP	2024-01-20 07:41:04	2024-01-20 07:42:11

@@ -1,65 +1,65 @@
-32	0x20	 	4016	5163534	nst	Tsängxshiq räq phan vi tälawx.	Khamlan	2016-05-24 20:13:15	2016-05-24 20:13:15
-33	0x21	!	45	5083086	nst	Kecyu mäq ngax läq!	RobKham	2016-04-25 01:57:13	2016-04-25 01:57:13
-34	0x22	"	14	5017523	nst	"Ngiz kä mintsax vax li." "Mintsax! Yam shämx väx täz?"	RobKham	2016-03-28 11:42:45	2016-04-29 13:25:04
+32	0x20	 	4016	5006908	nst	Ümznäq räq ngiz yamtä väx hiaz laüx?	RobKham	2016-03-25 04:56:49	2016-04-24 15:05:15
+33	0x21	!	45	5064616	nst	Cyawcyi cyängz Khärisämat liiz!	RobKham	2016-04-15 01:08:48	2016-04-24 14:14:23
+34	0x22	"	14	5043305	nst	"Tesawra." "Täox täkängx."	RobKham	2016-04-06 01:09:04	2016-04-06 01:09:10
 39	0x27	'	3	5932712	nst	Thawmz kä bas'noztoz law mäk rätawx.	Khamlan	2017-03-09 21:27:43	\N
-44	0x2c	,	79	5064635	nst	Kecyu thaq, ngiz mäx tälawq kuq vanx phä.	RobKham	2016-04-15 01:15:39	2016-04-24 14:54:10
-45	0x2d	-	83	5830834	nst	Thawmz kä lüzshawq äpyäox-äläox nguztä ähüz.	Khamlan	2017-02-05 18:47:54	2017-02-05 18:47:54
-46	0x2e	.	568	5248870	nst	Thawmz kä hia täliix nawx. Yaqshämx rü nä mänz äkai maix nawx.	Khamlan	2016-07-03 09:47:43	2016-07-03 09:47:43
-48	0x30	0	2	5836142	nst	Thawmz räq cyawngx kä, ngiz kä minit 30 täyai kängx nguz väz.	Khamlan	2017-02-07 14:05:43	2017-02-07 14:05:43
+44	0x2c	,	79	5163483	nst	Nämzshiq kä Thawmz cyawngmang, rämäk shäx?	Khamlan	2016-05-24 20:03:34	2016-05-24 20:03:34
+45	0x2d	-	83	5168199	nst	Ngiz iz-kawfi nä ngaxcyuq väyamx thii kängx.	Khamlan	2016-05-26 22:20:17	2016-05-26 22:20:17
+46	0x2e	.	568	5163580	nst	Iz-dzänz nä mänz käkhäx siix diax.	Khamlan	2016-05-24 20:19:31	2016-05-24 20:19:31
+48	0x30	0	2	5094236	nst	Cyezpat ranaiq shiz tähawng naxrix 2 rix minit 30 nä ümznäq ümbaz nä väx?	Khamlan	2016-04-29 10:07:36	2016-04-29 10:07:36
 49	0x31	1	2	5081427	nst	Äpaiq kä viix shixmax 19 nä cyii tawx.	Khamlan	2016-04-24 06:50:39	2016-04-24 06:50:39
 50	0x32	2	1	5094236	nst	Cyezpat ranaiq shiz tähawng naxrix 2 rix minit 30 nä ümznäq ümbaz nä väx?	Khamlan	2016-04-29 10:07:36	2016-04-29 10:07:36
-51	0x33	3	2	5836142	nst	Thawmz räq cyawngx kä, ngiz kä minit 30 täyai kängx nguz väz.	Khamlan	2017-02-07 14:05:43	2017-02-07 14:05:43
-57	0x39	9	2	5081427	nst	Äpaiq kä viix shixmax 19 nä cyii tawx.	Khamlan	2016-04-24 06:50:39	2016-04-24 06:50:39
-63	0x3f	?	190	5006988	nst	Ümznäq mängx yamkhäx väx?	RobKham	2016-03-25 06:31:57	2016-03-25 06:32:12
-65	0x41	A	9	5056096	nst	Awz.	RobKham	2016-04-11 08:19:31	2016-04-11 08:19:36
-66	0x42	B	7	5268047	nst	Thawmz räq tämaz kä ümznäq kä Bawtsäton nä nguztä.	Khamlan	2016-07-12 11:22:27	2016-07-12 11:22:27
-67	0x43	C	11	5007022	nst	Ümznäq Cyexpanx bawmx bawmdzinx tälaüx shäx?	RobKham	2016-03-25 07:41:30	2016-03-25 07:41:38
-68	0x44	D	5	5163641	nst	Dazku räq ümz-va rava naizshiq rüp tawx.	Khamlan	2016-05-24 20:34:31	2016-05-24 20:34:31
-70	0x46	F	7	5083349	nst	Thawmz räq Färenz bawmx äsäp shäx?	RobKham	2016-04-25 05:52:41	2016-04-25 05:52:41
+51	0x33	3	2	5094236	nst	Cyezpat ranaiq shiz tähawng naxrix 2 rix minit 30 nä ümznäq ümbaz nä väx?	Khamlan	2016-04-29 10:07:36	2016-04-29 10:07:36
+57	0x39	9	2	5081426	nst	Äpaiq kä viix shixmax 19 nä äcyii.	Khamlan	2016-04-24 06:50:16	2016-04-24 06:50:16
+63	0x3f	?	190	5064596	nst	Rätä yamlai väx?	RobKham	2016-04-15 00:44:38	2016-04-24 14:35:21
+65	0x41	A	9	5043331	nst	Awx, äbix naq lap kiq yawx.	RobKham	2016-04-06 01:31:28	2016-04-06 01:31:35
+66	0x42	B	7	5267798	nst	Thawmz kä ümzcyaüx Bawtsäton nä si tälawx.	Khamlan	2016-07-12 09:59:03	2016-07-12 09:59:03
+67	0x43	C	11	5064616	nst	Cyawcyi cyängz Khärisämat liiz!	RobKham	2016-04-15 01:08:48	2016-04-24 14:14:23
+68	0x44	D	5	5062890	nst	Dzäkdzi rämri!	RobKham	2016-04-14 08:28:06	2016-04-24 14:36:23
+70	0x46	F	7	5172145	nst	Thawmz kä Färenz bawmx viix äshaqpuq nawx tälängz tälawx.	Khamlan	2016-05-28 17:29:16	2016-05-28 17:29:16
 71	0x47	G	2	5836165	nst	Naizshiq kä minphawngz mäx Chak cyezsengx naix Gril nä rähumx kaix.	Khamlan	2017-02-07 14:06:58	2017-02-07 14:06:58
-72	0x48	H	4	5006835	nst	Hawkhamnyungz kä Hawkhamvez phaix nä cyap tawx.	RobKham	2016-03-25 02:28:44	2016-04-24 15:06:16
-73	0x49	I	23	5083216	nst	Iz-yaq nä läkkiiz äsi.	RobKham	2016-04-25 04:50:07	2016-04-25 04:50:07
+72	0x48	H	4	5006986	nst	Hanzsängx shäx?	RobKham	2016-03-25 06:30:08	2016-03-25 06:30:18
+73	0x49	I	23	5056035	nst	Iz-mängx kä Jek.	RobKham	2016-04-11 08:04:58	2016-04-11 08:05:04
 74	0x4a	J	4	5056035	nst	Iz-mängx kä Jek.	RobKham	2016-04-11 08:04:58	2016-04-11 08:05:04
-75	0x4b	K	59	5815238	nst	Kiqkap nguztä ngawx rawx.	Khamlan	2017-01-31 17:42:13	2017-01-31 17:42:13
-76	0x4c	L	6	5017547	nst	Ümznäq kä London cyezla nä shäx?	RobKham	2016-03-28 11:46:59	2016-04-29 13:25:04
-77	0x4d	M	39	5163670	nst	Maiq äpaz kaw kä chiz maix shaq li.	Khamlan	2016-05-24 20:49:35	2016-05-24 20:49:35
-78	0x4e	N	213	5836135	nst	Ngiz räq tämaz kä kärä kä langx mäx ära sham nguztä.	Khamlan	2017-02-07 14:04:59	2017-02-07 14:04:59
+75	0x4b	K	59	5083074	nst	Kecyu mäq, kixlü shaq läq!	RobKham	2016-04-25 01:30:01	2016-04-25 01:30:01
+76	0x4c	L	6	5043349	nst	Laizdap kä dazra thaq nä.	RobKham	2016-04-06 02:19:45	2016-04-06 02:19:49
+77	0x4d	M	39	5083428	nst	Ärä kä iz-naw, Meriz.	RobKham	2016-04-25 06:16:17	2016-04-25 06:16:17
+78	0x4e	N	213	5017509	nst	Ngiz räq yamlai väx kälawz vanx kängx kärä thunx mäx ngiz äbix lap täkängx.	RobKham	2016-03-28 11:40:02	2016-04-29 13:25:04
 79	0x4f	O	1	5064661	nst	Oix, hiazshiz.	RobKham	2016-04-15 01:22:59	2016-04-24 14:13:18
-80	0x50	P	15	5083064	nst	Ümznäq thiadap Phesäbuk nä shäx?	RobKham	2016-04-25 01:24:45	2016-04-25 01:24:45
-82	0x52	R	22	5049668	nst	Ra ümzcyu väx si laüx?	RobKham	2016-04-08 07:13:09	2016-04-08 07:13:15
-83	0x53	S	8	5016996	nst	Naizshiq Säping bawmx tälängz täkaix.	RobKham	2016-03-28 09:43:16	2016-04-29 13:25:04
-84	0x54	T	176	5267799	nst	Thawmz kä ädziax cyängz lamlux raläng äsi shaq.	Khamlan	2016-07-12 10:00:08	2016-07-12 10:00:08
-86	0x56	V	12	5049679	nst	Vaz rawngx phä!	RobKham	2016-04-08 07:19:00	2016-04-08 07:19:05
-88	0x58	X	9	5083265	nst	XXX kärä Ningxraxtsix bawmx mäq yamkhäx väx nguz tälaüx?	RobKham	2016-04-25 05:12:50	2016-04-25 05:12:50
-89	0x59	Y	21	5083071	nst	Yam väx ra täq?	RobKham	2016-04-25 01:28:26	2016-04-25 01:28:26
-97	0x61	a	2171	5083071	nst	Yam väx ra täq?	RobKham	2016-04-25 01:28:26	2016-04-25 01:28:26
-98	0x62	b	89	5168228	nst	Irä kä tsawm bäliiq dawngxdiix.	Khamlan	2016-05-26 22:29:56	2016-05-26 22:29:56
-99	0x63	c	225	5294643	nst	Thawmz kä yu räq mänz yäm kixlü shaq mäk cyezla rän sez äshiz nä si tälawx.	Khamlan	2016-07-22 15:46:02	2016-07-22 15:46:02
-100	0x64	d	124	5062890	nst	Dzäkdzi rämri!	RobKham	2016-04-14 08:28:06	2016-04-24 14:36:23
-101	0x65	e	190	5064634	nst	Kecyu thaq, ngiz mäx map kuq vanx phä.	RobKham	2016-04-15 01:15:32	2016-04-24 14:53:57
-102	0x66	f	5	5168199	nst	Ngiz iz-kawfi nä ngaxcyuq väyamx thii kängx.	Khamlan	2016-05-26 22:20:17	2016-05-26 22:20:17
-103	0x67	g	709	5043297	nst	Ngiz cyawng nä kiz rawx mängx.	RobKham	2016-04-06 00:56:59	2016-04-06 00:57:07
-104	0x68	h	911	5083321	nst	Äpaiq känä läkphat hiazshiz viazshiz ngax ruq ngax tälawx.	RobKham	2016-04-25 05:38:29	2016-04-25 05:38:29
-105	0x69	i	1612	5268079	nst	Nazshiq kä dzänztsinz.	Khamlan	2016-07-12 11:39:01	2016-07-12 11:39:01
+80	0x50	P	15	5267740	nst	Pati kä yu mäx väx?	Khamlan	2016-07-12 09:48:50	2016-07-12 09:48:50
+82	0x52	R	22	5043343	nst	Rawq shiz, rawq shiz rix äshiz, rawq shiz rix änaix, rawq shiz rix ädzäm, rawq shiz rix bälaix, rawq shiz rix bängix, rawq shiz rix tärawk, rawq shiz rix mäshi, rawq shiz rix täcyat, rawq shiz rix täkaüz, rawq naix.	RobKham	2016-04-06 01:58:52	2016-04-24 14:57:51
+83	0x53	S	8	5062847	nst	Shäm rawngx i.	RobKham	2016-04-14 08:13:40	2016-04-24 14:41:50
+84	0x54	T	176	5062830	nst	Tädza rawngx phä.	RobKham	2016-04-14 08:09:32	2016-04-24 14:44:11
+86	0x56	V	12	5062826	nst	Vänumz rawngx phä.	RobKham	2016-04-14 08:08:57	2016-04-24 14:44:33
+88	0x58	X	9	5083264	nst	Ningxraxtsix bawmx mäq XXX kärä yamkhäx väx nguz tälaüx?	RobKham	2016-04-25 05:12:11	2016-04-25 05:12:11
+89	0x59	Y	21	5064671	nst	Yamlai?	RobKham	2016-04-15 01:25:55	2016-04-24 14:12:06
+97	0x61	a	2171	5064656	nst	Ümznäq äkawnx cyängz nawx.	RobKham	2016-04-15 01:20:31	2016-04-24 14:13:40
+98	0x62	b	89	5043342	nst	Äshiz, änaix, ädzäm, bälaix, bängix, tärawk, mäshi, täcyat, täkaüz, rawq shiz.	RobKham	2016-04-06 01:56:45	2016-04-24 14:58:09
+99	0x63	c	225	5168220	nst	Ümznäq yaq nä vazcyü äsi shaq li shäx?	Khamlan	2016-05-26 22:27:45	2016-05-26 22:27:45
+100	0x64	d	124	5836230	nst	Ngiz huzsi mäq dizai äklawz ha.	Khamlan	2017-02-07 14:12:37	2017-02-07 14:12:37
+101	0x65	e	190	5156610	nst	Ümznäq Cyexpanx bawmx dzinx tälaüx shäx?	Khamlan	2016-05-21 19:10:27	2016-05-21 19:10:27
+102	0x66	f	5	5083082	nst	Ümznäq yaq nä mozbai fon äsi shäx?	RobKham	2016-04-25 01:53:32	2016-04-25 01:53:32
+103	0x67	g	709	5007000	nst	Ngiz räq säp mängx.	RobKham	2016-03-25 06:41:44	2016-03-25 06:41:52
+104	0x68	h	911	5253861	nst	Nämz-mängx mi cyawng kuq lawt hän shäx?	Khamlan	2016-07-05 15:29:38	2016-07-05 15:29:38
+105	0x69	i	1612	5083049	nst	Ngiz yamlai cyawngx cyängz väx säp mängx.	RobKham	2016-04-25 01:12:45	2016-04-25 01:12:45
 106	0x6a	j	1	5043314	nst	Burj Khalifa kä ümzcyaüx ümzcyaüx mungkang nä äluz pinzthum racyux kätex yäm rätawx.	RobKham	2016-04-06 01:18:35	2016-04-06 01:18:41
-107	0x6b	k	896	5083418	nst	Ngiz mä tsaixyix tähawx kuq läq näx?	RobKham	2016-04-25 06:13:38	2016-04-25 06:13:38
-108	0x6c	l	478	5932702	nst	Ümz-kiimx si lomxbot kä yamlai väx?	Khamlan	2017-03-09 21:23:47	\N
-109	0x6d	m	1211	5168229	nst	Ngiz Thawmz mäx yam mänz kuq mängx.	Khamlan	2016-05-26 22:30:25	2016-05-26 22:30:25
-110	0x6e	n	1332	5156546	nst	Ümz-mängx yamkhäx väx?	Khamlan	2016-05-21 18:24:19	2016-05-21 18:24:19
-111	0x6f	o	57	5006980	nst	Äshazhoix!	RobKham	2016-03-25 06:26:17	2016-03-25 06:26:27
-112	0x70	p	259	5836204	nst	Ümznäq kä ngawxhiax diax phyenzlaz yax rawx shäx?	Khamlan	2017-02-07 14:10:20	2017-02-07 14:10:20
-113	0x71	q	856	5253862	nst	Ngiz cyiiz nä kiz mängx diax, kaiq hiax khamäq.	Khamlan	2016-07-05 15:30:28	2016-07-05 15:30:28
-114	0x72	r	769	5042368	nst	Tsängxshiq kä yüräyuz ria rätawx.	Khamlan	2016-04-05 16:55:16	2016-04-05 17:00:19
-115	0x73	s	523	5081398	nst	Änyängx mäx phanshizraz lamz läq.	Khamlan	2016-04-24 05:53:53	2016-04-24 05:53:53
-116	0x74	t	684	5172130	nst	Maix raü yäq, läpan ranaiqshiz täsii nä kiz räx.	Khamlan	2016-05-28 17:19:32	2016-05-28 17:19:32
-117	0x75	u	321	5062882	nst	Ngiz naiyumz naiyix räkängx.	RobKham	2016-04-14 08:24:49	2016-04-24 14:37:46
-118	0x76	v	277	5062839	nst	Ümznäq yamtä väx vänumx raix tälaüx?	RobKham	2016-04-14 08:12:12	2016-04-24 14:42:58
-119	0x77	w	764	5248870	nst	Thawmz kä hia täliix nawx. Yaqshämx rü nä mänz äkai maix nawx.	Khamlan	2016-07-03 09:47:43	2016-07-03 09:47:43
-120	0x78	x	1658	5083051	nst	Thawmz kä mintsax, käkhäx khamäq ümznäq raix räbawmx lap mäk.	RobKham	2016-04-25 01:14:18	2016-04-25 01:14:18
-121	0x79	y	502	5083214	nst	Iz-yaq nä noztoz äsi.	RobKham	2016-04-25 04:48:23	2016-04-25 04:48:23
-122	0x7a	z	1353	5043342	nst	Äshiz, änaix, ädzäm, bälaix, bängix, tärawk, mäshi, täcyat, täkaüz, rawq shiz.	RobKham	2016-04-06 01:56:45	2016-04-24 14:58:09
-196	0xc4	Ä	81	5156604	nst	Ärä kä iz-nyiz, Mezriz.	Khamlan	2016-05-21 19:07:52	2016-05-21 19:07:52
-220	0xdc	Ü	165	5267743	nst	Ümznäq äphax nä äkhäx yiiqshiz mänz chiz maüx shaqli mäk shäx?	Khamlan	2016-07-12 09:50:02	2016-07-12 09:50:02
-228	0xe4	ä	2738	5083287	nst	Naz-nyungz räq nazshiq mäx kuxkux sez mi ri kuq.	RobKham	2016-04-25 05:27:58	2016-04-25 05:27:58
+107	0x6b	k	896	5083323	nst	Äpaiq kä yamlai väx shäm täläq?	RobKham	2016-04-25 05:39:26	2016-04-25 05:39:26
+108	0x6c	l	478	5169609	nst	Ümznäq räq Thawmz mäx dzänz nawx täbix laüx känäz.	Khamlan	2016-05-27 15:19:45	2016-05-27 15:19:45
+109	0x6d	m	1211	5169440	nst	Maiqpaq maiqlaq linx rätawx.	Khamlan	2016-05-27 14:36:29	2016-05-27 14:36:29
+110	0x6e	n	1332	5169528	nst	Ngiz kä Thawmz namx mäx mänz Färenz bawmx ähia linx mi bawmx dzü ha nguztä tämaz täkängx.	Khamlan	2016-05-27 14:58:32	2016-05-27 14:58:32
+111	0x6f	o	57	5081407	nst	Äshazhoix, ümz-mängx yamkhäx väx?	Khamlan	2016-04-24 06:13:35	2016-04-24 06:13:35
+112	0x70	p	259	5246141	nst	Kämänäx, Thawmz kä pedziz naix viashaüz-nyiimyaq li phaq tälawx ikhäx.	Khamlan	2016-07-01 21:19:55	2016-07-01 21:19:55
+113	0x71	q	856	5815334	nst	Täyai raix kängx laz nä tähängzkuq vanx phä.	Khamlan	2017-01-31 18:09:19	2017-01-31 18:10:21
+114	0x72	r	769	5062878	nst	Äpaiq khawqriiq hiax naiyumz naiyix rätawx.	RobKham	2016-04-14 08:24:12	2016-04-24 14:38:19
+115	0x73	s	523	5836230	nst	Ngiz huzsi mäq dizai äklawz ha.	Khamlan	2017-02-07 14:12:37	2017-02-07 14:12:37
+116	0x74	t	684	5172135	nst	Tsängxshiq räq naizshiq mäx ärawt rätawx.	Khamlan	2016-05-28 17:21:23	2016-05-28 17:21:23
+117	0x75	u	321	5815308	nst	Ümznäq räq Thawmz mäx khrumxkuq rawx tälaüx nguztä ngiz räq äsäp ha.	Khamlan	2017-01-31 18:01:54	2017-01-31 18:01:54
+118	0x76	v	277	5083238	nst	Yamkhäx väx ngiz mäx tächix kuq läq.	RobKham	2016-04-25 04:58:26	2016-04-25 04:58:26
+119	0x77	w	764	5043308	nst	Äluz nä kiz haw läq.	RobKham	2016-04-06 01:11:56	2016-04-06 01:12:03
+120	0x78	x	1658	5168204	nst	Thawmz kä tämaitaiz raix tawx.	Khamlan	2016-05-26 22:21:44	2016-05-26 22:21:44
+121	0x79	y	502	5049668	nst	Ra ümzcyu väx si laüx?	RobKham	2016-04-08 07:13:09	2016-04-08 07:13:15
+122	0x7a	z	1353	5172113	nst	Ngiz äpaiq mäx yiiqnaix yiiqdzäm nawx rähumx täkängx.	Khamlan	2016-05-28 17:08:55	2016-05-28 17:09:12
+196	0xc4	Ä	81	5164764	nst	Äthiiz kätinx khanx kaü kä tsinz mäk.	Khamlan	2016-05-25 13:53:21	2016-05-25 13:53:21
+220	0xdc	Ü	165	5815271	nst	Ümznäq räq yamlai väx rawx tälaüx ngiz räq tak mängx.	Khamlan	2017-01-31 17:52:04	2017-01-31 17:52:04
+228	0xe4	ä	2738	5064635	nst	Kecyu thaq, ngiz mäx tälawq kuq vanx phä.	RobKham	2016-04-15 01:15:39	2016-04-24 14:54:10
 246	0xf6	ö	1	5156559	nst	Nöx känä liix läq!	Khamlan	2016-05-21 18:35:41	2016-05-21 18:35:41
-252	0xfc	ü	289	5055912	nst	Phaxcyet kä yürähex cyängz khawk nä.	Khamlan	2016-04-11 07:25:02	2016-04-11 07:25:11
+252	0xfc	ü	289	5294590	nst	Ngiz kä ümzcyaüx rava kawnz lawt mängx mi räq.	Khamlan	2016-07-22 15:36:09	2016-07-22 15:36:09

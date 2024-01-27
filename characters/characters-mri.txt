@@ -1,60 +1,60 @@
-32	0x20	 	3104	6911134	mri	Hei aha tō kamakama. Ki te kore koe e pukumahi, e kore rawa koe e angitu.	iarere91	2018-05-25 12:47:30	2018-05-25 12:48:52
-33	0x21	!	7	5020849	mri	Nau mai ki Tatoeba!	\N	2016-03-29 08:07:03	2016-03-29 08:07:25
+32	0x20	 	3104	4462388	mri	Kātahi anō a ia ka kai. E kai ana au i ngā wā katoa.	iarere91	2015-08-20 10:29:59	2015-08-20 10:29:59
+33	0x21	!	7	4441464	mri	Kaua e whakararuraru i a au!	iarere91	2015-08-09 12:10:54	2015-08-09 12:10:54
 34	0x22	"	8	5607368	mri	"I kihia koe e ia ki hea?" "Ki ōku ngutu." "Kao, me kī, i hea koe i te wā i kihia ai koe e ia?"	iarere91	2016-11-14 04:52:25	2016-11-14 04:52:25
 39	0x27	'	2	5607366	mri	Kāore i te mea whakamataku ko te mahi tā ngā rata e mahi ana e kīia ana ko te 'parakitihi'?	iarere91	2016-11-14 04:51:05	2016-11-14 04:51:05
-44	0x2c	,	52	4844533	mri	I kaha taku oma, engari i mahue ahau i te tereina.	iarere91	2016-01-20 00:40:31	2016-01-20 00:40:31
-46	0x2e	.	352	3081435	mri	E rua aku ngeru.	\N	2014-03-07 15:26:32	2016-01-17 12:40:46
-47	0x2f	/	6	4458613	mri	He mea tāhae nā rāua/rātou tana kopa i runga i te tereina.	iarere91	2015-08-18 13:43:30	2015-08-18 13:45:49
+44	0x2c	,	52	4458462	mri	He kiri māia ahau ia rā, ia rā.	iarere91	2015-08-18 11:31:02	2015-08-20 09:51:35
+46	0x2e	.	352	4463853	mri	I titiro mākutu a Tom ki te whakaahua.	iarere91	2015-08-21 11:00:22	2015-08-21 11:00:22
+47	0x2f	/	6	4460570	mri	Nā te āwhā rāua/rātou i tae tōmuri mai ai.	iarere91	2015-08-19 10:02:22	2015-08-19 10:03:17
 48	0x30	0	3	4458589	mri	E 3,000 yen e nama ana au ki a koe.	iarere91	2015-08-18 13:04:03	2015-08-18 13:04:03
 49	0x31	1	1	4844523	mri	E 15 ōna tau, i oma atu ia i te kāinga.	iarere91	2016-01-20 00:31:07	2016-11-14 05:13:15
 51	0x33	3	1	4458589	mri	E 3,000 yen e nama ana au ki a koe.	iarere91	2015-08-18 13:04:03	2015-08-18 13:04:03
 53	0x35	5	1	4844523	mri	E 15 ōna tau, i oma atu ia i te kāinga.	iarere91	2016-01-20 00:31:07	2016-11-14 05:13:15
-63	0x3f	?	53	4463719	mri	He aha i kore ai koe e rata mai ki a māua?	iarere91	2015-08-21 08:55:19	2015-08-21 08:55:35
-65	0x41	A	4	4458593	mri	Ahakoa he aha ngā mea ka pīkauria e tātou, he mea nui te pukumahitanga.	iarere91	2015-08-18 13:08:44	2015-08-18 13:42:00
+63	0x3f	?	53	4465072	mri	I rongo kōrero koe mō te ahi o nanahi?	iarere91	2015-08-22 08:06:36	2015-08-22 08:06:36
+65	0x41	A	4	4517180	mri	Aroha mai, engari me haere koe.	iarere91	2015-09-12 05:06:28	2015-09-12 05:06:28
 66	0x42	B	3	11491747	mri	I whakatau ia ki te neke ki Belgium.	janTuki	2023-01-28 13:27:49	2023-01-28 13:27:49
 67	0x43	C	1	4441438	mri	E hiahia ana ahau ki te pokanga Caesarian.	iarere91	2015-08-09 11:56:25	2015-08-09 11:56:25
 68	0x44	D	1	4517706	mri	Kāore kau a Dan i utu i tana reti ki a Linda.	iarere91	2015-09-12 12:07:48	2015-09-13 09:02:02
-69	0x45	E	53	4462402	mri	E hiahia ana ahau kia whakatā koe mō tētahi wā.	iarere91	2015-08-20 10:39:00	2015-08-20 10:39:00
+69	0x45	E	53	4517563	mri	Kaua e rorirori. E mōhiotia ana e koe e arohaina ana koe e au.	iarere91	2015-09-12 10:13:35	2015-09-12 10:13:35
 70	0x46	F	1	4463733	mri	Whakamahi ai au i te Firefox.	iarere91	2015-08-21 09:03:28	2015-08-21 09:03:28
-72	0x48	H	89	1434635	mri	He tere ia.	Quabazaa	2012-02-14 13:26:46	2012-02-14 13:26:50
-73	0x49	I	89	4463984	mri	I kai ahau i tērā āporo.	iarere91	2015-08-21 12:13:11	2015-08-21 12:13:11
+72	0x48	H	89	4441489	mri	I pēhea koe i uru mai ai? He kī tāu?	iarere91	2015-08-09 12:24:01	2015-08-20 10:23:20
+73	0x49	I	89	4517725	mri	I kitea e koe te whitinga o te rā i mua nei? I tino ātaahua.	iarere91	2015-09-12 12:21:27	2015-09-12 12:21:27
 74	0x4a	J	1	4518032	mri	I noho tahi a Tom rāua ko John i te wā o te kāreti.	iarere91	2015-09-12 15:03:50	2015-09-13 03:07:44
-75	0x4b	K	137	1434642	mri	Ka haere ahau i te tekau karaka.	Quabazaa	2012-02-14 13:31:46	2012-02-14 13:31:50
+75	0x4b	K	137	4844527	mri	Kāore koe i te ngenge, nē?	iarere91	2016-01-20 00:34:25	2016-01-20 00:34:25
 76	0x4c	L	1	4517706	mri	Kāore kau a Dan i utu i tana reti ki a Linda.	iarere91	2015-09-12 12:07:48	2015-09-13 09:02:02
-77	0x4d	M	30	4519772	mri	I hoatu a Tom i tētahi kawhe wera ki a Mary.	iarere91	2015-09-13 09:16:29	2015-09-13 09:16:29
-78	0x4e	N	15	4517565	mri	Nā Tom tērā mahi i mahi.	iarere91	2015-09-12 10:14:51	2015-09-12 10:14:51
+77	0x4d	M	30	4458413	mri	Ko te manga "One Piece" e tino paingia ana ki Malaysia.	iarere91	2015-08-18 10:42:30	2015-08-18 10:42:30
+78	0x4e	N	15	3083915	mri	Nāku tēnei kurī.	\N	2014-03-08 19:00:46	2016-01-17 12:41:26
 79	0x4f	O	1	4458413	mri	Ko te manga "One Piece" e tino paingia ana ki Malaysia.	iarere91	2015-08-18 10:42:30	2015-08-18 10:42:30
-80	0x50	P	3	4458413	mri	Ko te manga "One Piece" e tino paingia ana ki Malaysia.	iarere91	2015-08-18 10:42:30	2015-08-18 10:42:30
-82	0x52	R	4	4458400	mri	I haere ia ki Rānana ako ai i te reo Pākehā.	iarere91	2015-08-18 10:33:49	2015-08-19 06:23:12
-84	0x54	T	96	4830416	mri	Whakapau ai a Tom i te nuinga o tana wā wātea e whakaharatau ana i te rakuraku.	iarere91	2016-01-14 04:10:01	2016-01-14 04:10:01
-87	0x57	W	5	4830416	mri	Whakapau ai a Tom i te nuinga o tana wā wātea e whakaharatau ana i te rakuraku.	iarere91	2016-01-14 04:10:01	2016-01-14 04:10:01
-97	0x61	a	2254	8981472	mri	Ehara ahau i te rata.	\N	2020-08-17 21:44:49	2020-11-07 21:51:32
-98	0x62	b	5	5020849	mri	Nau mai ki Tatoeba!	\N	2016-03-29 08:07:03	2016-03-29 08:07:25
-99	0x63	c	3	4460587	mri	He tangata tino pai a Hideyo Noguchi i tōna wā.	iarere91	2015-08-19 10:39:57	2015-08-19 10:39:57
-100	0x64	d	4	4844521	mri	Ka tae mai a Tākuta Rueda.	iarere91	2016-01-20 00:29:14	2016-01-20 00:29:14
-101	0x65	e	1168	4441403	mri	E rua tāra te utu mō te pukapuka.	iarere91	2015-08-09 11:40:47	2015-08-09 11:40:47
-102	0x66	f	2	4230488	mri	Ko Burj Khalifa te hangatanga nui o te ao i tēnei wā.	Balamax	2015-05-28 02:53:37	2015-05-28 02:59:02
-103	0x67	g	204	4462451	mri	I whakatūria e māua he waea i waenganui i ngā pou e rua.	iarere91	2015-08-20 11:29:22	2015-10-21 04:42:15
-104	0x68	h	654	8981477	mri	Kua kore ahau i tōu kaiako.	\N	2020-08-17 21:50:08	2020-11-07 21:51:30
-105	0x69	i	1225	4465024	mri	I whakatūria ā mātou tēneti e mātou i mua i te pō.	iarere91	2015-08-22 07:39:07	2015-08-22 07:39:07
+80	0x50	P	3	4458438	mri	Pōuri atu, kei pūhia koe e au.	iarere91	2015-08-18 11:09:34	2015-08-18 11:09:34
+82	0x52	R	4	2716918	mri	Ko Roberto ahau.	\N	2013-09-03 01:47:40	2016-01-17 12:40:57
+84	0x54	T	96	4517692	mri	I mārama te kitea i te matekiri a Tom	iarere91	2015-09-12 12:00:58	2017-08-09 10:31:52
+87	0x57	W	5	4517585	mri	Hei tā ētahi, e takahia ana te Whakatikatikatanga Tuawhā e ngā mīhini matawai i te katoa o te tinana.	iarere91	2015-09-12 10:22:50	2015-09-12 10:28:01
+97	0x61	a	2254	6911134	mri	Hei aha tō kamakama. Ki te kore koe e pukumahi, e kore rawa koe e angitu.	iarere91	2018-05-25 12:47:30	2018-05-25 12:48:52
+98	0x62	b	5	4462447	mri	He tere a Albert ki te ako.	iarere91	2015-08-20 11:25:48	2015-08-20 11:25:48
+99	0x63	c	3	6824282	mri	Ko Ricardo ahau.	Ricardo14	2018-04-07 12:26:36	2018-04-07 12:26:36
+100	0x64	d	4	4517706	mri	Kāore kau a Dan i utu i tana reti ki a Linda.	iarere91	2015-09-12 12:07:48	2015-09-13 09:02:02
+101	0x65	e	1168	4458590	mri	Ko tēnei te ngeru tino nui kua kitea e au.	iarere91	2015-08-18 13:06:06	2015-08-18 13:06:06
+102	0x66	f	2	4463733	mri	Whakamahi ai au i te Firefox.	iarere91	2015-08-21 09:03:28	2015-08-21 09:03:28
+103	0x67	g	204	4517985	mri	Kua toru ngā rā a Tom e ngaro ana i te kura.	iarere91	2015-09-12 14:38:24	2015-09-12 14:38:24
+104	0x68	h	654	4517594	mri	Ko ngā kaipānui o taua pukapuka e whakapono ana he mātanga rātou.	iarere91	2015-09-12 10:31:03	2015-09-12 10:31:03
+105	0x69	i	1225	4517207	mri	I uru atu ia ki te ngahere ki te kimi i tana tamariki e ngaro ana.	iarere91	2015-09-12 05:34:02	2015-09-12 05:34:02
 106	0x6a	j	1	4230488	mri	Ko Burj Khalifa te hangatanga nui o te ao i tēnei wā.	Balamax	2015-05-28 02:53:37	2015-05-28 02:59:02
-107	0x6b	k	750	4458587	mri	I whākina atu e Tom te kōrero muna ki a Mary.	iarere91	2015-08-18 13:01:43	2015-08-18 13:01:43
+107	0x6b	k	750	4458593	mri	Ahakoa he aha ngā mea ka pīkauria e tātou, he mea nui te pukumahitanga.	iarere91	2015-08-18 13:08:44	2015-08-18 13:42:00
 108	0x6c	l	4	4230488	mri	Ko Burj Khalifa te hangatanga nui o te ao i tēnei wā.	Balamax	2015-05-28 02:53:37	2015-05-28 02:59:02
-109	0x6d	m	376	4458519	mri	I kōrapa a Tom.	iarere91	2015-08-18 12:36:55	2015-08-18 12:36:55
-110	0x6e	n	553	4830418	mri	Ko Tom te hoa kotahi o Mary nōna i te kura kōhungahunga.	iarere91	2016-01-14 04:11:32	2016-01-14 04:11:32
-111	0x6f	o	684	4844516	mri	Ko Tom tētahi o ngā ringatoi moroki tino rongonui o te ao.	iarere91	2016-01-20 00:23:37	2016-01-20 00:24:45
-112	0x70	p	196	4441457	mri	He roa atu te wā e whakapaua ana e ētahi kaimahi hauora e wherawhera pepa ana, i te wā e manaaki ana i ngā tūroro.	iarere91	2015-08-09 12:06:21	2015-08-19 09:39:29
-114	0x72	r	594	4458519	mri	I kōrapa a Tom.	iarere91	2015-08-18 12:36:55	2015-08-18 12:36:55
+109	0x6d	m	376	4517736	mri	He mea āhua rerekē tā Tom i tūmanako ai.	iarere91	2015-09-12 12:25:24	2015-09-12 12:28:12
+110	0x6e	n	553	4458626	mri	I kōhurutia e Mary tana tāne, he tūturu te kōrero nei?	iarere91	2015-08-18 13:52:08	2015-08-19 06:19:57
+111	0x6f	o	684	4519381	mri	I kī mai a Tom ki a au kua kōwhiria e Mary ki te kai i ngā kai whakatinanga.	iarere91	2015-09-13 05:54:16	2015-09-13 07:07:26
+112	0x70	p	196	4462452	mri	Kua tino rerekē te papa kāinga i ngā tau tekau kua taha atu.	iarere91	2015-08-20 11:31:11	2015-08-20 11:31:11
+114	0x72	r	594	4441403	mri	E rua tāra te utu mō te pukapuka.	iarere91	2015-08-09 11:40:47	2015-08-09 11:40:47
 115	0x73	s	2	4458413	mri	Ko te manga "One Piece" e tino paingia ana ki Malaysia.	iarere91	2015-08-18 10:42:30	2015-08-18 10:42:30
-116	0x74	t	1024	4518019	mri	I taea e Tom te kite i te tangi a Mary.	iarere91	2015-09-12 14:50:39	2015-09-12 14:50:39
-117	0x75	u	655	4441489	mri	I pēhea koe i uru mai ai? He kī tāu?	iarere91	2015-08-09 12:24:01	2015-08-20 10:23:20
-119	0x77	w	242	4460570	mri	Nā te āwhā rāua/rātou i tae tōmuri mai ai.	iarere91	2015-08-19 10:02:22	2015-08-19 10:03:17
+116	0x74	t	1024	4441462	mri	Mahia ai he taputapu i roto i tā mātou wheketere.	iarere91	2015-08-09 12:09:55	2015-08-18 10:20:28
+117	0x75	u	655	4441407	mri	I whakatangitangihia e rāua/rātou te rakuraku me te akōtiana.	iarere91	2015-08-09 11:42:19	2015-08-09 11:46:37
+119	0x77	w	242	4844531	mri	Kāore mātou i whawhai.	iarere91	2016-01-20 00:35:45	2016-01-20 00:35:45
 120	0x78	x	1	4463733	mri	Whakamahi ai au i te Firefox.	iarere91	2015-08-21 09:03:28	2015-08-21 09:03:28
-121	0x79	y	20	4519761	mri	I hoatu a Tom i tētahi kawhe ki a Mary.	iarere91	2015-09-13 09:13:21	2015-09-13 09:13:21
-160	0xa0	 	3	3091041	mri	E whā tekau mā whā ō tātou manuhiri.	\N	2014-03-12 22:07:01	2016-01-17 12:41:53
-256	0x100	Ā	3	4459772	mri	Ākene pea kei te hē koe.	iarere91	2015-08-19 04:02:48	2015-08-19 04:02:48
-257	0x101	ā	460	2716916	mri	He āporo māku.	\N	2013-09-03 01:45:03	2014-01-15 20:14:15
-275	0x113	ē	124	9870695	mri	Ko tāku ngeru tēnei.	\N	2021-03-26 01:30:16	2021-03-31 17:12:10
-299	0x12b	ī	36	4517536	mri	I ngaro tā rāua kurī i a rāua.	iarere91	2015-09-12 10:03:06	2015-09-12 10:03:06
-333	0x14d	ō	142	4459877	mri	Maharatia ki te kite i a ia āpōpō.	iarere91	2015-08-19 05:56:15	2015-08-19 05:56:15
-363	0x16b	ū	41	4459986	mri	I tērā wiki tōku whaea i pāngia ai e te whurū.	iarere91	2015-08-19 06:25:19	2015-08-20 09:35:35
+121	0x79	y	20	6186271	mri	Ko te āhua nei he pakeke ake a Mary i te rima tekau tau.	iarere91	2017-08-09 09:31:53	2017-08-09 09:31:53
+160	0xa0	 	3	3091028	mri	E hia ngā pereti, e hia ngā kapu?	\N	2014-03-12 22:04:09	2016-01-17 12:42:06
+256	0x100	Ā	3	10766356	mri	He tāone a Ākarana.	janTuki	2022-04-13 19:08:26	2022-04-13 19:08:26
+257	0x101	ā	460	4459804	mri	Te āhua nei i karo ia i te tūtaki mai ki a au.	iarere91	2015-08-19 04:37:04	2015-08-19 05:09:55
+275	0x113	ē	124	4517727	mri	I te tuatahi, i pōhēhē ahau ko koe tō tuakana.	iarere91	2015-09-12 12:22:23	2015-09-12 12:22:23
+299	0x12b	ī	36	1434653	mri	He ngeru, he kurī rānei?	Quabazaa	2012-02-14 13:38:47	2012-02-14 13:38:53
+333	0x14d	ō	142	4518027	mri	E hiahia ana a Tom ki te mōhio ā hea koe haere mai ai.	iarere91	2015-09-12 14:58:45	2015-09-12 14:59:07
+363	0x16b	ū	41	4464840	mri	I tonoa e ia he pūtea nui i a rātou, engari auare ake.	iarere91	2015-08-22 03:12:05	2015-08-22 03:13:51

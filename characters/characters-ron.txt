@@ -1,113 +1,113 @@
-32	0x20	 	175814	5319095	ron	Tom nu locuiește încă în Boston.	fathe	2016-08-05 08:14:41	2016-08-05 08:14:41
-33	0x21	!	1145	6607677	ron	Sunt foarte ocupat astăzi. Vino mâine!	CataG	2018-01-15 16:17:31	2018-01-15 16:17:31
-34	0x22	"	191	11514872	ron	"Are gust bun?" "Da, are."	megamanenm	2023-02-06 16:21:25	2023-02-06 16:21:25
+32	0x20	 	175969	1555902	ron	Sora mea este mai tânără ca mine.	kibabubu	2012-04-29 22:18:29	2012-04-29 22:18:29
+33	0x21	!	1145	9400536	ron	Chiar după colț!	elenacristina260	2020-11-29 08:55:36	2020-11-29 08:55:36
+34	0x22	"	191	8741653	ron	"Cine este Ina?" "Este mama mea."	elenacristina260	2020-05-06 08:17:55	2020-05-06 08:17:55
 36	0x24	$	2	1186837	ron	A plătit 20$ pentru ruj.	ijikure2	2011-10-20 18:41:42	2013-06-30 02:35:01
-37	0x25	%	20	5095871	ron	Mai mult de 75% dintre ferme au crescut porci și vaci pentru lapte.	fathe	2016-04-29 20:07:36	2016-04-29 20:07:36
+37	0x25	%	20	8606919	ron	Lira sterlină s-a devalorizat cu 15%.	CataG	2020-03-11 09:04:30	2020-03-11 09:04:30
 39	0x27	'	12	5026484	ron	Fish'n'chips este cea mai faimoasă mâncare englezească.	elenacristina260	2016-03-31 06:10:14	2016-03-31 06:10:22
-40	0x28	(	19	10450560	ron	Sunt iubit(ă) de bunicii mei.	Simply_Sardine	2021-10-21 19:29:39	2021-10-21 19:29:39
-41	0x29	)	23	10450100	ron	Scopul meu este să devin fericit(ă).	Simply_Sardine	2021-10-21 17:36:08	2021-10-21 17:36:08
+40	0x28	(	19	11674304	ron	Erau surori, cele patru profesoare pe care le-am avut în școala primară, în anii 1940 (Iracema), 1941 (Helena), 1942 (Corália) și 1943 (Miriam).	carlosalberto	2023-04-11 13:25:58	2023-04-11 13:25:58
+41	0x29	)	23	12057939	ron	(Ea) a cumpărat o pisică.	vladimir520	2023-09-16 08:00:32	2023-09-16 08:00:32
 43	0x2b	+	3	12197787	ron	Algebră elementară: a) fie x numărul de propoziții în limba galică; b) fie x + 700 numărul de propoziții în limba română; c) astăzi, x + 700 = 2x; d) care este valoarea lui x? Rezolvare: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Concluzie: astăzi sunt 700 de propoziții în limba galică și 1.400 de propoziții în română.	carlosalberto	2023-12-06 19:26:07	2023-12-06 19:26:07
-44	0x2c	,	3477	5681036	ron	Lui Tom îi place să doarmă gol dar, eu prefer să port pijama.	elenacristina260	2016-12-13 09:04:16	2017-12-02 13:10:19
-45	0x2d	-	7110	11474784	ron	Tom n-a putut uita niciodată ororile războiului.	ridisegnandone	2023-01-21 11:50:34	2023-01-21 11:50:54
-46	0x2e	.	28371	6136802	ron	Există excepții.	radubradu	2017-06-08 10:51:02	2020-05-18 16:31:37
+44	0x2c	,	3477	610846	ron	Muzica clasică mă linişteşte, pe când cea modernă îmi creează efectul opus.	adynee	2010-11-09 19:18:25	2010-11-09 19:18:25
+45	0x2d	-	7112	4539095	ron	Eu n-am promis așa ceva.	mailohilohi	2015-09-20 09:27:53	2015-09-20 09:27:53
+46	0x2e	.	28393	8762558	ron	Dragostea aparține celor care cred în ea.	elenacristina260	2020-05-15 05:51:41	2020-05-15 05:51:41
 47	0x2f	/	4	12170158	ron	Trăiesc aiurea căutând / Pe cineva care să-mi înțeleagă iubirea / Și văd că destinul meu este să sufăr / Este să sufere - să nu găsesc / Pe cineva care să-l înțeleagă pe trubadur.	carlosalberto	2023-11-20 19:21:02	2023-11-20 19:21:02
-48	0x30	0	287	8940871	ron	Preîncălzește cuptorul la 130 de grade.	CataG	2020-07-26 08:40:05	2020-07-26 08:40:05
-49	0x31	1	218	6536083	ron	Câștig 100€ pe zi.	elenacristina260	2017-12-03 14:54:40	2017-12-03 14:56:28
-50	0x32	2	135	11674304	ron	Erau surori, cele patru profesoare pe care le-am avut în școala primară, în anii 1940 (Iracema), 1941 (Helena), 1942 (Corália) și 1943 (Miriam).	carlosalberto	2023-04-11 13:25:58	2023-04-11 13:25:58
-51	0x33	3	100	5041258	ron	1 aprilie 2013 este o zi de luni.	elenacristina260	2016-04-05 09:34:11	2016-04-05 09:34:11
-52	0x34	4	56	5120537	ron	Al Doilea Război Mondial s-a sfârșit în 1945.	fathe	2016-05-07 10:56:25	2016-05-07 10:56:25
-53	0x35	5	84	1153767	ron	Pentru această rasă, persoanele sub 35 de ani (inclusiv 35) intră în grupul tinerilor, persoanele între 36 și 50 de ani intră în grupul vârstei medii și persoanele de 51 și peste intră în grupul celor în vârstă.	ijikure2	2011-10-05 20:12:50	2023-11-10 07:04:34
-54	0x36	6	43	11707941	ron	Cu prestații de mare acuratețe din partea ambilor jucători, cea de-a unsprezecea partidă din cadrul Campionatului Mondial de Șah FIDE 2023 s-a încheiat la egalitate. Acum (24 aprilie): Nepo 6, Ding Liren 5. Pentru rus, încă trei remize vor fi suficiente pentru a ajunge la scorul (7,5) care îi va oferi titlul de campion mondial.	carlosalberto	2023-04-24 19:32:32	2023-04-24 19:32:32
-55	0x37	7	42	488116	ron	Vă mulțumim pentru a ne fi înștiințat că imprimanta Model 600-J nu va fi disponibilă până pe 4 Mai 1997.	koosy	2010-08-30 14:58:14	2023-12-17 05:53:19
-56	0x38	8	41	3282935	ron	A pierdut trenul de 8:30.	ijikure	2014-05-28 18:22:10	2014-05-28 18:22:10
-57	0x39	9	87	6867585	ron	Criza a fost cea care a condus la Tratatul de Neproliferare Nucleară din 1968.	elenacristina260	2018-05-02 20:57:09	2018-05-02 20:57:09
-58	0x3a	:	91	11184957	ron	Ce zici de 12:45?	fathe	2022-10-17 09:02:50	2022-10-17 09:02:50
-59	0x3b	;	58	6705666	ron	Cea mai desăvârșită maimuță nu poate desena o maimuță; doar omul poate face asta; dar, de asemenea, numai omul consideră abilitatea de a face acest lucru, ca fiind un semn al superiorității.	elenacristina260	2018-02-23 07:29:51	2022-07-19 13:00:05
+48	0x30	0	287	12170258	ron	Sri Ramana Maharshi (30.12.1879-14.04.1950), care a murit de cancer, când discipolii săi îl întrebau dacă simte vreo durere, el obișnuia să răspundă: Există durere în corpul meu. A scris cartea "Cine sunt eu?".	carlosalberto	2023-11-20 19:56:56	2023-11-20 19:56:56
+49	0x31	1	218	5068568	ron	Alegerile prezidențiale din 1876 au fost foarte strânse.	fathe	2016-04-17 09:28:47	2016-04-17 09:28:47
+50	0x32	2	135	8772880	ron	Brazilia e împărțită în 26 de state și un district federal.	Luna_Sasha	2020-05-19 09:13:28	2020-05-19 09:13:28
+51	0x33	3	100	5082171	ron	Tom nu se va întoarce înainte de 2:30.	fathe	2016-04-24 14:11:12	2016-04-24 14:11:12
+52	0x34	4	56	9288032	ron	Potrivit Grupului interguvernamental privind schimbările climatice, trebuie să reducem emisiile de gaze cu efect de seră cu cel puțin 40% până în 2050.	elenacristina260	2020-11-12 20:25:51	2020-11-12 20:25:51
+53	0x35	5	84	1555897	ron	Această bere conţine 5 % alcool.	kibabubu	2012-04-29 22:14:03	2017-10-19 16:33:23
+54	0x36	6	43	5033421	ron	Unele dintre taxe ajungeau și la 60%.	fathe	2016-04-02 17:19:25	2016-04-02 17:19:25
+55	0x37	7	42	10362052	ron	În 1497, Jean Cabot a explorat Canada.	radubradu	2021-10-14 12:44:52	2021-10-14 12:45:12
+56	0x38	8	41	1059522	ron	Oamenii sub 18 ani nu se pot căsători.	poxa	2011-08-22 22:26:13	2011-08-22 22:26:13
+57	0x39	9	87	1136625	ron	În caz de incendiu sunați la 119.	ijikure2	2011-09-30 02:03:17	2023-11-09 10:05:26
+58	0x3a	:	91	6909027	ron	Este deja 2:30 și Tom și Mary nu sunt încă aici.	CataG	2018-05-24 11:07:50	2018-05-24 13:03:26
+59	0x3b	;	59	1136605	ron	Nu puteți folosi acest robinet; este stricat.	ijikure2	2011-09-30 01:51:46	2023-11-10 06:38:49
 61	0x3d	=	4	12197787	ron	Algebră elementară: a) fie x numărul de propoziții în limba galică; b) fie x + 700 numărul de propoziții în limba română; c) astăzi, x + 700 = 2x; d) care este valoarea lui x? Rezolvare: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Concluzie: astăzi sunt 700 de propoziții în limba galică și 1.400 de propoziții în română.	carlosalberto	2023-12-06 19:26:07	2023-12-06 19:26:07
-63	0x3f	?	4363	1138129	ron	Ai vreun indiciu pentru mister?	ijikure2	2011-09-30 17:32:29	2013-06-30 02:33:05
+63	0x3f	?	4365	11526728	ron	Îți va lipsi Tom?	megamanenm	2023-02-10 20:24:03	2023-02-10 20:24:03
 64	0x40	@	1	8914739	ron	Adresa mea de e-mail este abcde@example.com.	elenacristina260	2020-07-14 05:38:57	2020-07-14 05:38:57
-65	0x41	A	4904	1142920	ron	Am auzit că tocmai s-a deschis un magazin de vată de zahăr. Hai să mergem, băieți.	ijikure2	2011-10-02 15:33:32	2023-11-09 06:40:54
-66	0x42	B	632	702195	ron	Betty nu poate deosebi binele de rău.	koosy	2011-01-07 14:31:57	2011-01-07 14:31:57
-67	0x43	C	3298	2800678	ron	Casa cunoscutului meu este de vânzare.	carlosalberto	2013-10-20 16:07:20	2014-08-09 20:35:15
-68	0x44	D	1673	10845909	ron	Mitul lui Dracula are la bază influența legendelor și credințelor populare transilvane despre stafii și vampiri.	elenacristina260	2022-05-21 05:34:35	2022-05-21 05:34:35
-69	0x45	E	3726	11759752	ron	Ea îi dă lui un șoarece și nouă ne dă o pisică.	carlosalberto	2023-05-13 13:18:39	2023-05-13 13:19:14
-70	0x46	F	643	11354345	ron	Fac asta de foarte mult timp.	CataG	2022-12-20 17:18:16	2022-12-20 17:18:16
-71	0x47	G	202	4204045	ron	Sora lui George mi-a făcut niște sandvișuri.	AlbertaJ	2015-05-19 09:08:46	2015-05-19 09:08:46
-72	0x48	H	188	8938532	ron	Hainele tale sunt murdare.	CataG	2020-07-25 09:57:29	2020-07-25 09:57:29
-73	0x49	I	560	7749237	ron	Iarna se înnoptează repede.	CataG	2019-01-24 15:02:19	2019-01-24 15:02:19
-74	0x4a	J	243	9408710	ron	Bărbații s-au uitat la Jessie în tăcere.	elenacristina260	2020-11-30 05:58:03	2020-11-30 05:58:03
-75	0x4b	K	71	2568507	ron	Negând că era anarhistă, Katja a susținut că ea doar a dorit să facă schimbări în guvernul nostru, nu să-l distrugă.	ijikure	2013-07-05 19:34:48	2013-07-05 19:34:48
-76	0x4c	L	826	5681035	ron	Lui Tom îi place să doarmă dezbrăcat, dar eu prefer să port pijama.	elenacristina260	2016-12-13 09:03:59	2017-12-02 13:09:59
-77	0x4d	M	2734	12169782	ron	Mingea este rotundă.	megamanenm	2023-11-20 14:14:13	2023-11-20 14:14:13
-78	0x4e	N	3692	4934365	ron	Nu îți face griji pentru Tom.	elenacristina260	2016-02-25 11:16:29	2016-02-25 11:16:29
-79	0x4f	O	535	5848061	ron	Ochi pentru ochi și dinte pentru dinte.	Balamax	2017-02-10 22:35:32	2017-02-16 02:22:54
-80	0x50	P	1859	11890695	ron	Putem vorbi aici?	carlosalberto	2023-06-29 23:45:35	2023-06-29 23:45:35
-81	0x51	Q	2	8741716	ron	"Locuiești în Montreal?" „În Quebec, de fapt.”	elenacristina260	2020-05-06 08:34:10	2020-05-06 08:34:18
-82	0x52	R	383	8746440	ron	Anglia și Scoția au fost unificate la 1 mai 1707, pentru a forma Regatul Marii Britanii.	elenacristina260	2020-05-08 08:14:53	2020-05-08 08:14:53
-83	0x53	S	2216	3415549	ron	Sunteți ocupat?	elenacristina260	2014-08-09 10:31:26	2020-05-14 07:07:38
-84	0x54	T	6405	4901729	ron	Tom nu știe nici măcar de ce a fost expulzat din școală.	elenacristina260	2016-02-10 14:20:02	2016-02-10 14:20:02
-85	0x55	U	620	9230906	ron	Unde ai putea începe?	CataG	2020-11-02 15:44:06	2020-11-02 15:44:06
-86	0x56	V	1238	6709965	ron	Viscolul s-a potolit treptat.	elenacristina260	2018-02-24 20:14:49	2018-02-24 20:14:49
-87	0x57	W	32	2429174	ron	Zilele acestea, răsfoind Wikipedia, am dat de Esperanto.	Ion	2013-05-12 17:38:06	2013-05-12 17:38:06
-88	0x58	X	26	8863123	ron	Cum se spune XXX în engleză?	elenacristina260	2020-06-21 16:33:10	2020-06-21 16:33:10
-89	0x59	Y	51	8412903	ron	Yenul este mai slab decât dolarul.	fathe	2019-12-29 08:07:04	2019-12-29 08:07:04
-90	0x5a	Z	111	10788217	ron	Ziri a fost un bărbat sexy.	megamanenm	2022-04-26 09:06:45	2022-04-26 09:06:45
-97	0x61	a	90213	11469009	ron	Tom și Maria s-au căsătorit fără consințământul părinților lor.	ridisegnandone	2023-01-18 17:56:24	2023-01-18 17:56:24
-98	0x62	b	9790	10785009	ron	Bărbatul s-a uitat la ceas.	megamanenm	2022-04-25 08:58:05	2022-04-25 08:58:05
-99	0x63	c	44726	7115113	ron	Frica este durerea ce apare din anticiparea răului.	fathe	2018-09-02 11:23:39	2018-09-02 11:23:39
-100	0x64	d	22997	8961858	ron	Nivelul apei este foarte ridicat.	elenacristina260	2020-08-06 18:41:30	2020-08-06 18:41:30
-101	0x65	e	104031	1567562	ron	Am pierdut cerionul meu.	Max_Hydrogen	2012-05-11 22:15:47	2012-05-11 22:15:47
-102	0x66	f	11333	5001597	ron	În afară de moarte și taxe, orice altceva este minciună.	elenacristina260	2016-03-23 10:14:30	2016-03-23 10:14:51
-103	0x67	g	7265	9622574	ron	Sunt destul de sigură că Tom încerca să ne spună ceva.	elenacristina260	2021-01-09 12:09:49	2021-01-09 12:09:49
-104	0x68	h	2248	11163057	ron	Care este vârsta celui mai vechi?	fathe	2022-10-07 19:41:58	2022-10-07 19:41:58
-105	0x69	i	81210	1136980	ron	Mi-a prezentat-o pe fiica sa.	ijikure2	2011-09-30 04:43:01	2013-06-30 02:18:37
-106	0x6a	j	2093	11573397	ron	Ați ajuta un străin?	carlosalberto	2023-03-03 11:14:08	2023-03-03 11:14:08
-107	0x6b	k	306	8843880	ron	Vreau să vizitez Parisul, New York-ul și Tokyo într-o zi.	elenacristina260	2020-06-14 18:18:06	2020-06-14 18:18:06
-108	0x6c	l	34672	8573981	ron	I-am dat drumul.	fathe	2020-02-24 07:01:51	2020-02-24 07:01:51
-109	0x6d	m	35597	2977804	ron	Îmi pare rău că mi-am pierdut stăpânirea de sine.	ijikure	2014-01-11 20:36:29	2014-01-11 20:36:29
-110	0x6e	n	52273	10313176	ron	Vântul s-a întețit.	elenacristina260	2021-09-22 10:52:08	2021-09-22 10:52:08
-111	0x6f	o	40886	1138076	ron	Ceea ce avem noi acum nevoie este o perioadă de odihnă.	ijikure2	2011-09-30 17:09:54	2013-06-30 02:28:19
-112	0x70	p	25284	8734488	ron	Îmi place foarte mult să studiez limbile străine.	elenacristina260	2020-05-03 08:13:51	2020-05-03 08:13:51
-113	0x71	q	4	5159080	ron	În matematică, un quiver este un graf orientat.	fathe	2016-05-23 08:13:12	2016-05-23 08:13:12
-114	0x72	r	55047	8624657	ron	Tom părea să fie fericit.	CataG	2020-03-21 14:52:31	2020-03-21 14:52:31
-115	0x73	s	41846	9098207	ron	Nu îmi este somn chiar deloc.	CataG	2020-10-03 11:40:27	2020-10-03 11:40:27
-116	0x74	t	64916	11516413	ron	Tom este special.	megamanenm	2023-02-07 01:55:51	2023-02-07 01:55:53
-117	0x75	u	56289	9763583	ron	Mary știa că probabil nu va putea să-l convingă pe Tom să o ajute.	elenacristina260	2021-02-14 17:51:20	2021-02-14 17:51:20
-118	0x76	v	11130	10362344	ron	În sfârșit, ai venit.	radubradu	2021-10-14 16:25:47	2021-10-14 16:25:47
-119	0x77	w	79	705997	ron	Ai avut un weekend plăcut?	koosy	2011-01-10 16:35:00	2011-01-10 17:31:12
-120	0x78	x	927	11487759	ron	Există o stație de autobus peste drum.	ridisegnandone	2023-01-26 17:55:39	2023-01-26 17:55:56
-121	0x79	y	1107	3165550	ron	Tom este agentul lui Mary.	cezar57	2014-04-10 22:00:51	2014-04-10 22:00:51
-122	0x7a	z	6788	1186861	ron	M-am grăbit către stație pentru a nu pierde ultimul autobuz.	ijikure2	2011-10-20 18:47:07	2023-11-09 10:42:07
-160	0xa0	 	11	1201196	ron	Lumea e luminată de soare.	ijikure2	2011-10-27 16:54:51	2013-06-30 02:20:06
-206	0xce	Î	1277	6856618	ron	Îl voi susține.	elenacristina260	2018-04-25 19:56:40	2018-04-25 19:56:40
+65	0x41	A	4904	8436187	ron	Aerisește salteaua.	fathe	2020-01-08 12:28:04	2020-01-08 12:28:04
+66	0x42	B	633	9479957	ron	Capitala Mongoliei este Ulan Bator.	elenacristina260	2020-12-15 08:32:06	2020-12-15 08:32:06
+67	0x43	C	3301	4303259	ron	Clasa aceasta conține patruzeci de elevi.	adikinzor	2015-06-24 19:18:31	2023-07-20 14:04:52
+68	0x44	D	1675	5214331	ron	De ce nu-l chemi pe Tom?	fathe	2016-06-15 07:08:11	2016-06-15 07:08:11
+69	0x45	E	3729	6871567	ron	Ea a încercat să simuleze indiferența.	elenacristina260	2018-05-03 07:39:44	2018-05-03 07:39:44
+70	0x46	F	646	712075	ron	Am vizitat Fukuoka acum zece ani.	dmf	2011-01-15 19:56:48	2011-01-15 19:56:48
+71	0x47	G	202	2536647	ron	Guvernul francez a lansat un joc online care provoacă contribuabilii să echilibreze bugetul național.	ijikure	2013-06-30 22:20:07	2013-06-30 22:20:07
+72	0x48	H	188	7992883	ron	PHP este un limbaj de programare web.	CataG	2019-06-21 16:28:09	2019-06-21 16:28:09
+73	0x49	I	560	6700238	ron	Impactul științei asupra societății este mare.	elenacristina260	2018-02-20 07:19:38	2018-02-20 07:19:38
+74	0x4a	J	243	11082020	ron	Care este diferența dintre Judo și Ju-jitsu?	adamtrousers	2022-08-27 00:54:49	2022-08-27 00:54:49
+75	0x4b	K	71	6826662	ron	Uniunea Kalmar, ce cuprindea Suedia, Danemarca și Norvegia, s-a destrămat în 1523.	elenacristina260	2018-04-08 19:41:15	2018-04-08 19:41:15
+76	0x4c	L	827	11734498	ron	Limba latină este vie în Tatoeba.	carlosalberto	2023-05-03 16:00:56	2023-05-03 16:31:19
+77	0x4d	M	2734	8608232	ron	Și Tom și Mary au rămas tăcuți pentru ceva timp.	CataG	2020-03-12 07:40:33	2020-03-12 07:40:33
+78	0x4e	N	3695	9813142	ron	Nu am încetat niciodată să te iubesc.	elenacristina260	2021-02-28 16:31:04	2021-02-28 16:31:04
+79	0x4f	O	536	1183166	ron	Orbii dezvoltă uneori o abilitate compensatorie de percepere a apropierii obiectelor din jurul lor.	ijikure2	2011-10-18 14:19:01	2013-06-30 02:14:50
+80	0x50	P	1860	5195214	ron	Păsărilor le era foame.	fathe	2016-06-05 15:52:58	2016-06-05 15:52:58
+81	0x51	Q	2	3209111	ron	Locuiesc în Qatar.	ijikure	2014-04-27 16:42:03	2014-04-27 16:42:03
+82	0x52	R	383	5144467	ron	Dacă vii la Rio, nu uita să mă suni ca să fiu ghidul tău.	elenacristina260	2016-05-17 06:35:33	2016-05-17 06:35:33
+83	0x53	S	2219	6914655	ron	Sfatul său este foarte util.	CataG	2018-05-26 09:56:59	2018-05-26 09:56:59
+84	0x54	T	6409	8410728	ron	Tom ne cunoaște sistemul.	fathe	2019-12-28 10:50:26	2019-12-28 10:50:26
+85	0x55	U	620	9479957	ron	Capitala Mongoliei este Ulan Bator.	elenacristina260	2020-12-15 08:32:06	2020-12-15 08:32:06
+86	0x56	V	1238	8427422	ron	Vrei să ai ceva companie?	fathe	2020-01-04 11:33:41	2020-01-04 11:33:41
+87	0x57	W	32	8773495	ron	Mătușă Wang, eu sunt.	radubradu	2020-05-19 12:34:23	2020-05-19 12:34:23
+88	0x58	X	26	1327060	ron	Individualismul este boala veacului al XX-lea.	kibabubu	2011-12-28 22:47:27	2011-12-28 22:47:27
+89	0x59	Y	51	1138194	ron	Domnule Yamada, sunteți chemat la telefon.	ijikure2	2011-09-30 18:07:00	2023-11-09 08:17:36
+90	0x5a	Z	111	10788216	ron	Ziri era un bărbat sexy.	megamanenm	2022-04-26 09:06:36	2022-04-26 09:06:36
+97	0x61	a	90293	5123518	ron	Toată lumea are defecte.	fathe	2016-05-08 13:59:10	2016-05-08 13:59:10
+98	0x62	b	9797	11520668	ron	Oare ar trebui să plec?	megamanenm	2023-02-08 19:05:19	2023-02-08 19:05:19
+99	0x63	c	44755	8931276	ron	Sunt cu toții înspăimântați.	CataG	2020-07-22 09:11:25	2020-07-22 09:11:25
+100	0x64	d	23016	4303225	ron	Viaţa mea ar fi fost, probabil, extrem de diferita daca m-aș fi născut o lună mai târziu.	adikinzor	2015-06-24 19:08:45	2023-07-20 14:11:14
+101	0x65	e	104145	585966	ron	Asta e cheia pe care o cauţi?	adynee	2010-10-25 19:10:36	2010-10-25 19:10:36
+102	0x66	f	11345	5120641	ron	Muncitorii schimbă cadrele ferestrelor.	fathe	2016-05-07 11:20:17	2016-05-07 11:20:17
+103	0x67	g	7271	8571450	ron	Am pus unul pe fugă.	fathe	2020-02-23 07:37:02	2020-02-23 07:37:02
+104	0x68	h	2249	4303241	ron	Bunica mea a fost supusă unei intervenţii chirurgicale în Germania.	adikinzor	2015-06-24 19:14:03	2015-06-24 19:14:03
+105	0x69	i	81280	8622478	ron	Tom ar trebui să iasă din închisoare de acum.	CataG	2020-03-20 08:58:43	2020-03-20 08:58:43
+106	0x6a	j	2094	8411954	ron	Întărește-ți mijlocul.	fathe	2019-12-28 19:40:36	2019-12-28 19:40:36
+107	0x6b	k	308	1136987	ron	Sunteți din Hokkaido, nu-i așa?	ijikure2	2011-09-30 04:44:08	2023-11-10 08:14:21
+108	0x6c	l	34704	9288046	ron	Trebuia să fi telefonat în prelabil.	elenacristina260	2020-11-12 20:29:21	2020-11-12 20:29:21
+109	0x6d	m	35622	708951	ron	El a venit ca martor să depună mărturie asupra acelei lumini.	koosy	2011-01-12 17:48:56	2011-01-12 17:48:56
+110	0x6e	n	52326	12169648	ron	Vor găti pentru tine.	megamanenm	2023-11-20 13:34:16	2023-11-20 13:34:16
+111	0x6f	o	40926	2603466	ron	Alcoolul nu rezolvă nicio problemă.	elenacristina260	2013-07-19 20:26:02	2016-03-14 09:41:44
+112	0x70	p	25304	7058618	ron	Cred că este prea devreme să ne pronunțăm.	CataG	2018-08-13 09:30:58	2018-08-13 09:30:58
+113	0x71	q	4	3118897	ron	După o zi petrecută pe scaun, la birou, printre provocări, responsabilități și decizii, ce ți s-ar potrivi mai bine decât o oră în care să te destinzi în pași de rumba, quickstep sau tango?	radubradu	2014-03-23 10:43:55	2020-05-14 12:59:42
+114	0x72	r	55090	7634288	ron	A venit în dormitor.	CataG	2018-12-21 13:41:46	2018-12-21 13:41:46
+115	0x73	s	41877	10674759	ron	Această regulă este valabilă doar pentru străini.	elenacristina260	2022-02-15 08:58:22	2022-02-15 08:58:22
+116	0x74	t	64968	8399614	ron	Ai putea te rog să vorbești mai încet?	fathe	2019-12-23 16:32:26	2019-12-23 16:32:26
+117	0x75	u	56331	584323	ron	Dacă putem compara o limba maternă cu un copac, care s-a dezvoltat de-a lungul timpului, Esperanto poate fi comparată cu un copac artificial, care a fost creat artificial.	adynee	2010-10-24 21:23:34	2010-10-24 21:23:34
+118	0x76	v	11137	8389670	ron	Uraganele sunt furtuni violente.	CataG	2019-12-18 18:08:20	2019-12-18 18:08:20
+119	0x77	w	79	1136739	ron	Stătea la bar dând peste cap pahar după pahar de whisky.	ijikure2	2011-09-30 02:57:39	2013-06-30 02:11:39
+120	0x78	x	927	5684301	ron	Au existat mai multe lucrări scrise despre homosexualitate.	elenacristina260	2016-12-14 15:34:08	2016-12-14 15:34:08
+121	0x79	y	1107	7361815	ron	Știe Mary ce face?	CataG	2018-10-30 12:22:44	2018-10-30 12:23:30
+122	0x7a	z	6795	12163047	ron	Foarte devreme a devenit fascinat. Mai târziu și-a dat seama cât de falsă era.	carlosalberto	2023-11-15 18:31:32	2023-11-15 18:31:32
+160	0xa0	 	11	2150521	ron	Nu îmi place zăpada.	balkanbalkan	2013-01-17 21:42:14	2013-02-09 11:54:05
+206	0xce	Î	1277	5044150	ron	În luna septembrie 2015, rata șomajului în Japonia a fost de 3,4 la sută.	elenacristina260	2016-04-06 08:01:06	2016-04-06 08:01:15
 225	0xe1	á	3	11674304	ron	Erau surori, cele patru profesoare pe care le-am avut în școala primară, în anii 1940 (Iracema), 1941 (Helena), 1942 (Corália) și 1943 (Miriam).	carlosalberto	2023-04-11 13:25:58	2023-04-11 13:25:58
-226	0xe2	â	6119	4948851	ron	Când vor începe orele de japoneză?	elenacristina260	2016-03-02 08:47:23	2016-03-02 08:47:23
-227	0xe3	ã	8	10306823	ron	Tu nu ești student de grãdiniţã.	saverius	2021-09-20 08:31:27	2021-09-20 08:31:27
+226	0xe2	â	6121	7749222	ron	Ne-am întâlnit iarna.	CataG	2019-01-24 14:56:20	2019-01-24 14:56:20
+227	0xe3	ã	8	10306740	ron	Voi sunteți în mașinã.	saverius	2021-09-20 08:23:31	2021-09-20 08:23:31
 233	0xe9	é	3	11751915	ron	Unchiul meu José Canuto, fratele tatălui meu, avea una dintre cele mai frumoase voci (era tenor) pe care le-am auzit în toată viața.	carlosalberto	2023-05-10 13:14:08	2023-05-10 13:14:08
-237	0xed	í	2	2797762	ron	Capitala Braziliei este Brasília.	carlosalberto	2013-10-18 18:10:13	2013-11-30 11:36:25
-238	0xee	î	8651	5001211	ron	Din câte îmi amintesc, în sat au rămas douăzeci de persoane.	elenacristina260	2016-03-23 06:45:13	2023-11-13 06:14:34
+237	0xed	í	2	2797879	ron	Cuvântul „Brasília” are patru silabe și opt litere.	carlosalberto	2013-10-18 19:48:29	2013-11-30 11:32:01
+238	0xee	î	8658	10535233	ron	Elevii au izbucnit în râs.	CataG	2021-11-29 07:45:43	2021-11-29 07:45:43
 248	0xf8	ø	1	12049382	ron	Jørgen învață greacă.	enebi	2023-09-11 22:02:13	2023-09-11 22:02:13
-258	0x102	Ă	34	3607912	ron	Ăsta e un autobuz sau o mașină?	xLilithx	2014-11-05 00:55:01	2015-01-25 10:52:13
-259	0x103	ă	37077	5090342	ron	Ne-am întâlnit după-amiaza la ora două.	fathe	2016-04-27 21:26:10	2016-04-27 21:26:10
+258	0x102	Ă	34	5113132	ron	Ăștia sunt toți banii pe care îi am.	fathe	2016-05-05 05:58:06	2016-05-05 05:58:06
+259	0x103	ă	37103	10738514	ron	Tom nu are de gând să meargă la Boston cu noi.	megamanenm	2022-03-26 16:02:44	2022-03-26 16:02:44
 281	0x119	ę	1	4961111	ron	Numele soției mele este Lidia Zarębowa.	elenacristina260	2016-03-08 09:15:06	2016-03-08 09:15:06
 305	0x131	ı	2	11191225	ron	Visul meu este să studiez limba kurdă la Diyarbakır.	janTuki	2022-10-19 18:41:37	2022-10-19 18:41:37
-350	0x15e	Ş	8	10820071	ron	Şoarecele este sub podea.	elenacristina260	2022-05-11 16:01:51	2022-05-11 16:01:51
-351	0x15f	ş	370	1279290	ron	Mă enervează, dacă vorbeşti engleza ta americană, fără să deschizi gura.	Johano	2011-12-04 20:31:50	2011-12-12 05:46:13
+350	0x15e	Ş	8	1279122	ron	Şi eu vreau obiectul acesta!	Johano	2011-12-04 19:02:26	2011-12-12 06:12:56
+351	0x15f	ş	370	610855	ron	La începutul fiecărui sfârşit de săptămână sunt în acelaşi timp obosit şi bucuros.	adynee	2010-11-09 19:24:15	2010-11-09 19:24:15
 353	0x161	š	1	10952178	ron	Numele meu este Dušana.	GabrielPires	2022-06-30 18:05:03	2022-06-30 18:05:03
 354	0x162	Ţ	2	670685	ron	Ţi-aş da orice însă nu şi ăsta.	Dacian	2010-12-17 08:59:45	2011-02-25 16:26:53
-355	0x163	ţ	379	4303241	ron	Bunica mea a fost supusă unei intervenţii chirurgicale în Germania.	adikinzor	2015-06-24 19:14:03	2015-06-24 19:14:03
-536	0x218	Ș	458	12148417	ron	Șoimul este o pasăre de pradă.	CataG	2023-11-06 07:41:49	2023-11-06 07:41:49
-537	0x219	ș	8823	6620852	ron	De ce ești așa de certăreț?	elenacristina260	2018-01-20 21:14:32	2018-01-20 21:14:32
-538	0x21a	Ț	133	7589300	ron	Ține-mă mai strâns.	CataG	2018-12-17 18:08:55	2018-12-17 18:08:55
-539	0x21b	ț	8809	5141447	ron	El a fost forțat să lucreze peste program.	fathe	2016-05-15 18:44:44	2016-05-15 18:44:44
+355	0x163	ţ	379	2837196	ron	Arată-mi faţa ta şi lasă-mă să-ţi aud glasul, căci glasul tău este dulce, iar faţa ta este încântătoare!	carlosalberto	2013-11-08 19:01:42	2013-11-08 19:01:42
+536	0x218	Ș	459	10734147	ron	Șeful său a fost foarte impresionat.	megamanenm	2022-03-24 10:58:55	2022-03-24 10:58:55
+537	0x219	ș	8828	4993134	ron	Oficialii chinezi spun că creșterea economică a scăzut la minimul ultimilor trei ani din cauza economiei globale.	fathe	2016-03-20 10:22:29	2016-03-20 10:22:29
+538	0x21a	Ț	133	8585101	ron	Ține-te departe de foc.	fathe	2020-02-29 14:41:10	2020-02-29 14:41:10
+539	0x21b	ț	8820	10269980	ron	Ea este frumoasă, dar miroase foarte puternic a țigară.	\N	2021-08-30 18:09:18	2022-07-04 11:49:58
 1077	0x435	е	1	5908654	ron	Ce vreme е azi?	astru	2017-03-01 18:47:42	\N
-8206	0x200e	‎	10	5914825	ron	Rugina mănâncă din fier.‎	astru	2017-03-03 18:59:21	\N
-8212	0x2014	—	12	2807026	ron	Aţi spus cuiva secretul? — Nu, nu l-am spus nimănui.	carlosalberto	2013-10-24 20:39:21	2013-10-24 20:39:21
+8206	0x200e	‎	10	5906347	ron	Trebuie să mănânc ceva.‎	astru	2017-02-28 22:58:43	\N
+8212	0x2014	—	12	501535	ron	Cel care, mai ieri, socotea că îndrumă, conduce — se pomenește dintr-o dată întins țeapăn într-o cutie de lemn, iar cei din jur, dându-și seama că nu mai e bun de nimic, îl ard într-un cuptor.	koosy	2010-09-06 17:16:09	2023-12-17 05:52:07
 8217	0x2019	’	1	448190	ron	La dracu’ cu tine!	ijikure2	2010-08-01 19:23:32	2013-06-30 02:20:32
 8220	0x201c	“	4	9479959	ron	„Este timpul.“ „Timpul pentru ce?“	elenacristina260	2020-12-15 08:32:40	2020-12-15 08:32:40
-8221	0x201d	”	96	8760585	ron	Amnezia înseamnă „pierderea memoriei”.	elenacristina260	2020-05-14 06:47:21	2020-05-14 06:47:21
-8222	0x201e	„	89	7115236	ron	Apare întrebarea: „Este de asemenea Internetul un mijloc de comunicare în masă?”	fathe	2018-09-02 12:22:00	2018-09-02 12:22:00
-8230	0x2026	…	2	8580240	ron	M-am sculat atunci şi am cutreierat cetatea, uliţele şi pieţele, şi am căutat pe iubitul inimii mele…	Txoria	2020-02-27 10:21:40	2020-02-27 10:21:40
+8221	0x201d	”	97	399594	ron	„Mulțumesc.” — „Cu plăcere.”	Dorenda	2010-06-05 15:33:16	2010-06-05 15:33:16
+8222	0x201e	„	90	2536699	ron	Într-un dicționar ca acesta ar trebui să existe cel puțin două propoziții cu „frigider”.	ijikure	2013-06-30 22:30:28	2013-06-30 22:30:28
+8230	0x2026	…	2	2536116	ron	Atunci e o problemă…	ijikure	2013-06-30 20:11:41	2013-06-30 20:11:41
 8361	0x20a9	₩	1	1185121	ron	Won-ul este folosit atât în Coreea de Nord, cât și în Coreea de Sud. Simbolul său este "₩".	ijikure2	2011-10-19 19:10:17	2023-11-10 09:09:30
 8364	0x20ac	€	1	6536083	ron	Câștig 100€ pe zi.	elenacristina260	2017-12-03 14:54:40	2017-12-03 14:56:28
 10140	0x279c	➜	2	12197787	ron	Algebră elementară: a) fie x numărul de propoziții în limba galică; b) fie x + 700 numărul de propoziții în limba română; c) astăzi, x + 700 = 2x; d) care este valoarea lui x? Rezolvare: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Concluzie: astăzi sunt 700 de propoziții în limba galică și 1.400 de propoziții în română.	carlosalberto	2023-12-06 19:26:07	2023-12-06 19:26:07

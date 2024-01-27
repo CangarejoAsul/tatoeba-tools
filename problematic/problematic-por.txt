@@ -272,6 +272,7 @@ Exclamation mark: preceeded by space	5046300	por	Está muito frio hoje !	Mahlusi
 Greek characters: possible homoglyphs	5049073	por	"A sua namorada é bem bonita!" "Εla não é a minha namorada."	Ricardo14	2016-04-07 23:48:17	2016-04-07 23:48:17
 Comma: succeeded by letter	5052963	por	Não ingere veneno,porque você morrerá.	Enrike90	2016-04-09 19:28:21	2016-04-09 22:54:41
 Colon: succeeded by letter or punctuation	5080574	por	Nosso website http://www.exemplo.com.br irá te dizer tudo o que você precisa saber.	Ricardo14	2016-04-23 18:26:57	2019-07-05 23:35:02
+Final punctuation	5080994	por	Os Balcãs não devem ser confundidos com os Países Bálticos	Ricardo14	2016-04-23 20:41:51	2024-01-26 11:25:37
 Final punctuation	5082126	por	Acho que já está na hora de ir,	markpalmer	2016-04-24 13:39:20	2016-04-24 13:39:20
 Final punctuation	5111383	por	Retire-o	AndrePaulo	2016-05-04 17:46:19	2016-05-04 17:46:19
 Final punctuation	5111809	por	Tom quitou as suas dívidas	bill	2016-05-04 20:07:04	2016-05-04 20:07:04
@@ -562,8 +563,6 @@ Quotation marks: mixed curly and straight	6777463	por	Vendo-os assim reunidos e 
 English quotation marks: unopened closing mark	6777593	por	"Para os vencidos que não têm mais esperança, / o remédio é só um: desesperar-se.”	carlosalberto	2018-03-17 15:10:12	2018-03-17 15:33:32
 Straight quotation marks: odd number	6777593	por	"Para os vencidos que não têm mais esperança, / o remédio é só um: desesperar-se.”	carlosalberto	2018-03-17 15:10:12	2018-03-17 15:33:32
 Quotation marks: mixed curly and straight	6777593	por	"Para os vencidos que não têm mais esperança, / o remédio é só um: desesperar-se.”	carlosalberto	2018-03-17 15:10:12	2018-03-17 15:33:32
-Final punctuation	6780652	por	Você vai ficar com saudades de mim	Ricardo14	2018-03-19 02:03:03	2018-03-19 02:03:03
-Final punctuation	6780790	por	Tom está jogando	Ricardo14	2018-03-19 02:06:28	2018-03-19 02:06:28
 Final punctuation	6780796	por	Tom está indo bem;	Ricardo14	2018-03-19 02:06:29	2018-03-19 02:06:29
 Final punctuation	6780827	por	Tenho que dizer não	Ricardo14	2018-03-19 02:06:33	2018-03-19 02:06:33
 Final punctuation	6780969	por	O Tom está lá	Ricardo14	2018-03-19 02:09:44	2018-03-19 02:09:44
@@ -647,7 +646,6 @@ Ellipsis: too short	6937453	por	Eu te falei que isso não funcionou..	Ricardo14	
 Final punctuation	6956413	por	O Tom vai nos encontrar,	Ricardo14	2018-06-22 04:55:57	2018-06-22 04:55:57
 Final punctuation	6959104	por	Você mereceu isso	vekiano	2018-06-23 12:55:17	2018-06-23 12:55:17
 Final punctuation	6959771	por	Eu não estou nem um pouco preocupado	Ricardo14	2018-06-24 02:15:14	2018-06-24 02:15:14
-Final punctuation	6959772	por	Não estou nem um pouco preocupado	Ricardo14	2018-06-24 02:15:20	2018-06-24 02:15:20
 Final punctuation	6969280	por	Essa não é a hora e nem o lugar,	Ricardo14	2018-06-29 09:28:32	2018-06-29 09:28:32
 Final punctuation	6970159	por	Mal terminava, eis de repente tudo em volta / sinto tremer – umbrais, o bosque de loureiros / do deus, o monte inteiro – qual em curso / um terremoto, e no santuário, agora aberto, / ouço gemer a trípode febeia. / Humildes prosternamo-nos e ouvimos / uma voz que nos diz:	carlosalberto	2018-06-29 21:31:04	2018-06-29 22:11:43
 English quotation marks: unclosed opening mark	6977985	por	Então meu pai, velhas histórias recordando, / diz: “Escutai-me, ó grandes chefes, e tomai / conhecimento do que vos espera."	carlosalberto	2018-07-04 21:08:40	2018-07-04 21:08:40
@@ -674,7 +672,6 @@ Quotation marks: mixed curly and straight	7020052	por	Apenas uma pousa no alto d
 English quotation marks: unopened closing mark	7020656	por	"Porém, não cingireis de muros a cidade / que vos é destinada, antes que a fome / mais pungente vos force, por castigo / desse ataque ultrajante que sofremos, / a roer e devorar as vossas próprias mesas.”	carlosalberto	2018-07-25 18:27:51	2018-07-25 18:27:51
 Straight quotation marks: odd number	7020656	por	"Porém, não cingireis de muros a cidade / que vos é destinada, antes que a fome / mais pungente vos force, por castigo / desse ataque ultrajante que sofremos, / a roer e devorar as vossas próprias mesas.”	carlosalberto	2018-07-25 18:27:51	2018-07-25 18:27:51
 Quotation marks: mixed curly and straight	7020656	por	"Porém, não cingireis de muros a cidade / que vos é destinada, antes que a fome / mais pungente vos force, por castigo / desse ataque ultrajante que sofremos, / a roer e devorar as vossas próprias mesas.”	carlosalberto	2018-07-25 18:27:51	2018-07-25 18:27:51
-Final punctuation	7028334	por	Você pode andar com a minha bicicleta se você quiser,	Ricardo14	2018-07-28 21:15:41	2018-07-28 21:15:44
 Final punctuation	7033427	por	O Tom é incrivelmente ingênuo,	Ricardo14	2018-07-30 23:55:23	2018-07-30 23:55:23
 Final punctuation	7033428	por	O Tom é inacreditavelmente ingênuo,	Ricardo14	2018-07-30 23:55:41	2018-07-30 23:55:41
 Final punctuation	7041831	por	Quando me vê chegar acompanhado / de guerreiros troianos, toma um susto / tão grande, que desmaia, o calor lhe fugindo / de todo o corpo; só depois de muito tempo / consegue recobrar-se e me dizer:	carlosalberto	2018-08-03 20:10:02	2018-08-03 20:10:02
@@ -739,7 +736,6 @@ Straight quotation marks: odd number	7760369	por	"E aí"?" "Nada demais, apenas 
 Ellipsis: too short	7760374	por	Se.. Se! Meu avô não estivesse morto, ele ainda estaria vivo.	pedrolima	2019-02-02 15:30:39	2019-02-02 15:30:39
 Colon: succeeded by letter or punctuation	7784726	por	Abraão passou a chamar aquele lugar de "O Senhor Proverá", de sorte que se diz hoje:"Sobre a montanha, o Senhor proverá".	carlosalberto	2019-02-21 21:21:07	2019-02-21 21:21:07
 Straight quotation marks: preceeded and succeeded by space	7819294	por	"Onde você está indo?" "Eu estou indo para lá. "	Ricardo14	2019-03-21 17:53:32	2019-03-21 17:53:32
-Straight quotation marks: preceeded and succeeded by space	7819295	por	"Onde você está indo?" "Estou indo para lá. "	Ricardo14	2019-03-21 17:53:41	2019-03-21 17:53:41
 Final punctuation	7822111	por	Desculpe, eu não vou jogar bola hoje,	Ricardo14	2019-03-23 18:19:13	2019-03-23 18:19:13
 Question mark: preceeded by space	7850281	por	"Eu realmente suspirei ?" "Enquanto dava uma aura de infelicidade."	JGGG	2019-04-13 18:43:59	2019-04-13 18:43:59
 Final punctuation	7856388	por	Marvilhoso	vilut9	2019-04-17 07:25:10	2019-04-17 07:25:10
@@ -919,7 +915,6 @@ English quotation marks: unclosed opening mark	10540676	por	A professora: “Qua
 Quotation marks: mixed curly and straight	10540676	por	A professora: “Quando dois triângulos são congruentes, Anna?" Anna: "Quando os três lados têm o mesmo comprimento." A professora: "Correto. Quando mais, Paulo?" Paulo: "Não sei, professora." "A professora: "Tânia!" Daniel: "Quando dois lados e o ângulo que eles formam são iguais!" A professora: "Certo, mas seu nome é Tânia? Não precisa responder! Tânia, você conhece outra lei da congruência?"	carlosalberto	2021-12-02 13:03:16	2021-12-02 13:03:16
 Question mark: preceeded by space	10571535	por	Sim, eu sou José. E você é... ?	Ricardo14	2021-12-20 16:31:19	2021-12-20 16:31:19
 Final punctuation	10573186	por	Os níveis de hCG sobem e descem, mas são detectados durante toda a gravidez, estando, então, sempre de plantão para proteger o bebê de rejeição pelo sistema imunológico da mãe	carlosalberto	2021-12-21 19:37:31	2021-12-21 19:37:31
-Parentheses: opening mark preceeded by letter or digit	10633745	por	Eu amo você mais do que ele(a).	User102463	2022-01-21 13:27:43	2022-01-21 13:27:43
 Parentheses: opening mark preceeded by letter or digit	10633746	por	Ele(a) está bem?	User102463	2022-01-21 13:28:03	2022-01-21 13:28:03
 Capitalization	10645774	por	qual é o objetivo do mercado de ações?	pedromagia	2022-01-27 11:05:16	2022-01-27 11:05:16
 Straight quotation marks: preceeded and succeeded by space	10659215	por	"Muito bem, acho que concordarás com este." "NÃO me vou vestir de banana." "Os póneis equestrianos querem que te vistas de banana. É o teu dever cívico... Olha, tenho feito cedências. A minha nova proposta apenas te obriga a vestires-te de banana durante as funções estatais." "Isso não devia estar num plano orçamental, Luna." "Bem, de que outra forma sou suposto conseguir que te vistas de banana? Recusaste a estar aberto a negociações!" " Sabes que temos duas semanas para chegar a acordo sobre um orçamento adequado." Duas semanas mais tarde, depois de não ter sido possível chegar a acordo, a violência começou.	Luciferous	2022-02-04 21:13:06	2022-02-05 10:35:08
@@ -1019,3 +1014,4 @@ Capitalization	12168775	por	isso é comida canadense.	rianpoccnr	2023-11-19 20:0
 Parentheses: unopened closing mark	12197776	por	Álgebra elementar: a) seja x o número de frases em galego; b) seja x + 700 o número de frases em romeno; c) hoje, x + 700 = 2x; d) qual é o valor de x ? Solução: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusão: hoje há 700 frases em galego e 1.400 frases em romeno.	carlosalberto	2023-12-06 19:17:52	2023-12-06 19:20:05
 Parentheses: unbalanced closing marks	12197776	por	Álgebra elementar: a) seja x o número de frases em galego; b) seja x + 700 o número de frases em romeno; c) hoje, x + 700 = 2x; d) qual é o valor de x ? Solução: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusão: hoje há 700 frases em galego e 1.400 frases em romeno.	carlosalberto	2023-12-06 19:17:52	2023-12-06 19:20:05
 Question mark: preceeded by space	12197776	por	Álgebra elementar: a) seja x o número de frases em galego; b) seja x + 700 o número de frases em romeno; c) hoje, x + 700 = 2x; d) qual é o valor de x ? Solução: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusão: hoje há 700 frases em galego e 1.400 frases em romeno.	carlosalberto	2023-12-06 19:17:52	2023-12-06 19:20:05
+Final punctuation	12285244	por	Ajuda	DAVID_SP	2024-01-25 17:23:04	2024-01-25 17:23:04

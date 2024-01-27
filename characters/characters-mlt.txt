@@ -1,77 +1,77 @@
-32	0x20	 	1670	3231124	mlt	Is-Sena t-Tajba!	biber	2014-05-04 13:04:50	2014-05-04 13:04:50
-33	0x21	!	24	941336	mlt	Bħalissa s-siegħa ta' filgħodu u għandi ngħas li ma ngħidlekx!	Hazevi	2011-06-17 00:49:06	2013-03-19 11:55:31
-34	0x22	"	10	2307582	mlt	Tista' almenu tgħid "grazzi".	scutajar	2013-03-15 13:56:55	2013-03-15 14:12:20
+32	0x20	 	1670	11667369	mlt	Ziri jista' jafda Rima.	Amastan	2023-04-09 07:15:37	2023-04-09 07:15:37
+33	0x21	!	24	1387583	mlt	Il-Milied it-tajjeb!	enteka	2012-01-22 17:59:54	2013-03-19 11:59:02
+34	0x22	"	10	7682523	mlt	Is-surmast saqsieni: "Il-gimgħa d-diehla se tkun vaganza?"	abadf	2019-01-03 13:04:26	2019-01-03 13:04:26
 36	0x24	$	1	2318702	mlt	Il-kont ġie iktar minn $25.	scutajar	2013-03-19 10:50:41	2013-03-19 10:50:41
-39	0x27	'	78	11673137	mlt	Ziri jrid jisma' l-istorja.	Amastan	2023-04-11 08:10:31	2023-04-11 08:10:31
-44	0x2c	,	22	1387528	mlt	Tajjeb, grazzi!	enteka	2012-01-22 17:35:03	2013-03-19 11:57:22
-45	0x2d	-	279	6195984	mlt	Il-fkieren m'għandhomx snien.	Balamax	2017-08-12 21:44:04	2018-12-30 17:43:39
-46	0x2e	.	567	10469996	mlt	Il-qtates jaħkmu d-dinja.	koala	2021-10-29 18:07:59	2021-10-29 18:07:59
+39	0x27	'	78	2307582	mlt	Tista' almenu tgħid "grazzi".	scutajar	2013-03-15 13:56:55	2013-03-15 14:12:20
+44	0x2c	,	22	7741895	mlt	It-tfal qed jieħdu zokkor ħafna aktar mil-limitu, jiġifieri dak ta’ 30 gramma ta’ zokkor.	abadf	2019-01-19 20:54:02	2019-01-19 20:54:02
+45	0x2d	-	279	11652684	mlt	Ziri ħabbat il-bieb.	Amastan	2023-04-04 07:14:00	2023-04-04 07:14:00
+46	0x2e	.	567	11658898	mlt	Ziri kien dejjem jagħmel dan waħdu.	Amastan	2023-04-06 06:50:44	2023-04-06 06:50:44
 48	0x30	0	1	7741895	mlt	It-tfal qed jieħdu zokkor ħafna aktar mil-limitu, jiġifieri dak ta’ 30 gramma ta’ zokkor.	abadf	2019-01-19 20:54:02	2019-01-19 20:54:02
 49	0x31	1	1	7745959	mlt	15-il sena ilu.	abadf	2019-01-22 18:32:05	2019-01-22 18:32:05
 50	0x32	2	1	2318702	mlt	Il-kont ġie iktar minn $25.	scutajar	2013-03-19 10:50:41	2013-03-19 10:50:41
 51	0x33	3	1	7741895	mlt	It-tfal qed jieħdu zokkor ħafna aktar mil-limitu, jiġifieri dak ta’ 30 gramma ta’ zokkor.	abadf	2019-01-19 20:54:02	2019-01-19 20:54:02
 53	0x35	5	2	7745959	mlt	15-il sena ilu.	abadf	2019-01-22 18:32:05	2019-01-22 18:32:05
-58	0x3a	:	3	7682523	mlt	Is-surmast saqsieni: "Il-gimgħa d-diehla se tkun vaganza?"	abadf	2019-01-03 13:04:26	2019-01-03 13:04:26
-63	0x3f	?	48	1816749	mlt	X’jismek?	pne	2012-09-04 13:41:57	2013-03-19 11:54:54
+58	0x3a	:	3	7682520	mlt	Is-surmast qal: "Il-gimgħa d-dieħla se tkun vaganza"	abadf	2019-01-03 13:02:36	2019-01-03 13:02:36
+63	0x3f	?	48	11964487	mlt	Għaliex xtrajt biljett?	Amastan	2023-07-28 12:11:26	2023-07-28 12:11:26
 65	0x41	A	13	7745934	mlt	Fil-bidu Alla ħalaq is-sema u l-art.	abadf	2019-01-22 18:26:39	2019-01-22 18:26:39
-66	0x42	B	8	941336	mlt	Bħalissa s-siegħa ta' filgħodu u għandi ngħas li ma ngħidlekx!	Hazevi	2011-06-17 00:49:06	2013-03-19 11:55:31
-68	0x44	D	5	2307583	mlt	Dan ix-xogħol vera faċli.	scutajar	2013-03-15 13:57:51	2013-03-15 14:12:24
-69	0x45	E	15	3307658	mlt	Esperanto, il-lingwa uffiċjali tal-Unjoni Ewropea, issa!	Malape	2014-06-11 05:09:55	2014-06-11 05:10:03
-70	0x46	F	14	3694818	mlt	Fil-ktieb hemm għaxart eżerċizzji.	\N	2014-12-15 22:24:43	2019-04-16 10:45:43
-71	0x47	G	16	3081425	mlt	Għandi żewġ qtates.	\N	2014-03-07 15:25:04	2019-04-16 10:46:38
-72	0x48	H	30	3717156	mlt	Hemm gżejjer fil-baħar.	\N	2014-12-29 17:53:13	2019-04-16 10:45:45
-73	0x49	I	76	1388552	mlt	Is-sħana llum.	enteka	2012-01-23 01:20:33	2013-03-19 11:57:01
-74	0x4a	J	18	5813471	mlt	Jien differenti minn ġuvintur oħra.	jbor0081	2017-01-30 20:49:58	2017-01-30 20:49:58
-75	0x4b	K	17	2318701	mlt	Kont ili nafha għaxar snin meta żżewwiġtha.	scutajar	2013-03-19 10:49:42	2013-03-19 10:49:42
-76	0x4c	L	13	7682544	mlt	L-arloġġ qiegħed fuq il-mejda.	abadf	2019-01-03 13:14:53	2019-01-03 13:16:46
-77	0x4d	M	39	941342	mlt	Malli wasal fil-karozza, nduna li nesa' jitfi d-dwal tal-kċina.	Hazevi	2011-06-17 00:53:11	2013-03-19 11:54:25
+66	0x42	B	8	4222619	mlt	Bħalissa Burj Khalifa huwa wieħed mill-itwal skajskrejper fid-dinja.	Balamax	2015-05-25 00:33:41	2015-05-25 00:34:33
+68	0x44	D	5	11451709	mlt	Dħaqna.	Amastan	2023-01-11 07:06:29	2023-01-11 07:06:29
+69	0x45	E	15	1388519	mlt	Ejja hawn!	enteka	2012-01-23 01:00:36	2013-03-19 14:54:41
+70	0x46	F	14	1388406	mlt	Fuq din naqbel miegħek.	enteka	2012-01-22 23:44:48	2013-03-19 14:53:11
+71	0x47	G	16	11697494	mlt	Għid lit-tabib tiegħek.	Amastan	2023-04-20 14:28:25	2023-04-20 14:28:25
+72	0x48	H	30	2675702	mlt	Huwa suppost għandu jkun id-dar illum.	RYZIGER	2013-08-14 13:11:57	2013-08-14 13:11:57
+73	0x49	I	76	11697523	mlt	It-tabib tiegħu Alġerin.	Amastan	2023-04-20 14:55:33	2023-04-20 14:55:33
+74	0x4a	J	18	941344	mlt	Jekk qed tħossok miġugħ jew mdejjaq, tiddejjaqx tkellimni, ħabib!	Hazevi	2011-06-17 00:54:17	2013-03-19 11:54:39
+75	0x4b	K	17	1387696	mlt	Kif inti?	enteka	2012-01-22 19:02:33	2013-03-19 23:27:40
+76	0x4c	L	13	7682549	mlt	L-arloġġ qiegħed fuq il-mejda?	abadf	2019-01-03 13:16:52	2019-01-03 13:16:52
+77	0x4d	M	39	1388584	mlt	Ma nitkellimx bl-Ispanjol.	enteka	2012-01-23 01:55:13	2023-03-31 00:42:58
 78	0x4e	N	9	2321872	mlt	Nirringrazzjawk ħafna!	scutajar	2013-03-20 11:38:49	2013-03-20 11:38:49
 79	0x4f	O	5	1388629	mlt	Ommu titkellem bit-Taljan.	enteka	2012-01-23 02:31:30	2013-03-19 23:07:05
-80	0x50	P	10	11652973	mlt	Paul fetaħ gwardarobba tiegħu.	Amastan	2023-04-04 08:36:33	2023-04-04 08:36:33
-81	0x51	Q	2	11492469	mlt	Qed tara l-aħbarijiet?	janTuki	2023-01-28 22:43:50	2023-01-28 22:43:50
+80	0x50	P	10	11652702	mlt	Paul iħobb jivvjaġġa.	Amastan	2023-04-04 07:26:42	2023-04-04 07:26:42
+81	0x51	Q	2	7792456	mlt	Qatt ma għoġobni l-bioloġija.	\N	2019-02-28 20:29:01	2019-04-16 10:59:13
 82	0x52	R	63	11662565	mlt	Ziri pprova jinsa Rima.	Amastan	2023-04-07 08:06:29	2023-04-07 08:06:29
-83	0x53	S	25	11652668	mlt	Staqsi Ziri.	Amastan	2023-04-04 07:07:46	2023-04-04 07:07:46
-84	0x54	T	28	2307582	mlt	Tista' almenu tgħid "grazzi".	scutajar	2013-03-15 13:56:55	2013-03-15 14:12:20
+83	0x53	S	25	11697529	mlt	Salas ra lit-tabib.	Amastan	2023-04-20 14:58:47	2023-04-20 14:58:47
+84	0x54	T	28	1388474	mlt	Titkellem bl-Ingliż?	enteka	2012-01-23 00:19:52	2013-03-19 14:52:57
 85	0x55	U	1	3307658	mlt	Esperanto, il-lingwa uffiċjali tal-Unjoni Ewropea, issa!	Malape	2014-06-11 05:09:55	2014-06-11 05:10:03
-87	0x57	W	3	4256156	mlt	Merħba fil-Wikipedija.	DetErMinNavn	2015-06-05 15:44:16	2015-06-05 15:44:16
-88	0x58	X	6	3229249	mlt	Xi trid tagħmel?	biber	2014-05-03 20:14:14	2014-05-03 20:14:14
-89	0x59	Y	11	11652636	mlt	Yanni fl-aħħar mar jorqod.	Amastan	2023-04-04 06:52:09	2023-04-04 06:52:09
-90	0x5a	Z	328	11451670	mlt	Ziri rebaħ.	Amastan	2023-01-11 06:50:57	2023-01-11 06:50:57
-97	0x61	a	1303	11662556	mlt	Ziri pprova jiffoka.	Amastan	2023-04-07 08:01:08	2023-04-07 08:01:08
-98	0x62	b	329	7741897	mlt	Man-nofs zokkor li jieħdu t-tfal ġej mix-xorb, il-ħelu, iċ-ċereali u l-yoghurts.	abadf	2019-01-19 20:54:52	2019-01-19 20:54:52
-99	0x63	c	12	11695552	mlt	Enrico sab xi ħaġa.	Amastan	2023-04-20 07:21:28	2023-04-20 07:21:28
-100	0x64	d	425	7682549	mlt	L-arloġġ qiegħed fuq il-mejda?	abadf	2019-01-03 13:16:52	2019-01-03 13:16:52
-101	0x65	e	731	11658885	mlt	Ziri ħasel snienu.	Amastan	2023-04-06 06:42:23	2023-04-06 06:42:23
-102	0x66	f	156	11652652	mlt	Ziri offra biex jgħin fix-xogħol.	Amastan	2023-04-04 07:00:35	2023-04-04 07:00:35
-103	0x67	g	199	11673141	mlt	Ziri jrid ikun koreografu.	Amastan	2023-04-11 08:11:47	2023-04-11 08:11:47
-104	0x68	h	90	3229122	mlt	Il-flixkun huwa vojt.	biber	2014-05-03 19:53:35	2014-05-03 19:53:35
-105	0x69	i	1931	11697518	mlt	Min hu it-tabib tiegħek?	Amastan	2023-04-20 14:52:03	2023-04-20 14:52:03
-106	0x6a	j	663	11672999	mlt	Ziri jrid jiżfen.	Amastan	2023-04-11 07:10:47	2023-04-11 07:10:47
-107	0x6b	k	283	7682530	mlt	Ikkmandah imur id-dar.	abadf	2019-01-03 13:10:27	2019-01-03 13:10:27
-108	0x6c	l	663	7792459	mlt	Jiena ukoll għalliema.	\N	2019-02-28 20:31:12	2019-04-16 10:59:16
-109	0x6d	m	428	941339	mlt	Kull meta nqum filgħodu, nħoss uġieħ tremend ġo nofs dahri.	Hazevi	2011-06-17 00:51:34	2013-03-19 11:54:19
-110	0x6e	n	512	3230412	mlt	M'iniex tabiba.	biber	2014-05-04 08:49:06	2014-05-04 08:49:06
-111	0x6f	o	346	11451679	mlt	Ziri ħolom.	Amastan	2023-01-11 06:55:34	2023-01-11 06:55:34
-112	0x70	p	132	11652659	mlt	Ziri rkupra.	Amastan	2023-04-04 07:04:15	2023-04-04 07:04:15
-113	0x71	q	152	7682555	mlt	Ħriġtux mill-forn kmieni wisq?	abadf	2019-01-03 13:19:29	2019-01-03 13:19:29
-114	0x72	r	867	11658885	mlt	Ziri ħasel snienu.	Amastan	2023-04-06 06:42:23	2023-04-06 06:42:23
-115	0x73	s	337	3231165	mlt	Ir-riħa hija diżgustanti.	biber	2014-05-04 13:15:58	2014-05-04 13:15:58
-116	0x74	t	556	11667324	mlt	Ziri jista' jitkellem.	Amastan	2023-04-09 06:57:08	2023-04-09 06:57:08
-117	0x75	u	318	11673111	mlt	Ziri jrid jaħsel xagħru.	Amastan	2023-04-11 08:04:41	2023-04-11 08:04:41
-118	0x76	v	53	11451686	mlt	Ziri pprova.	Amastan	2023-01-11 06:58:29	2023-01-11 06:58:29
-119	0x77	w	130	11673043	mlt	Ziri jrid waħda minn dawk.	Amastan	2023-04-11 07:22:59	2023-04-11 07:23:02
-120	0x78	x	131	11658894	mlt	Ziri dejjem jaħsad l-ħaxix tiegħu.	Amastan	2023-04-06 06:47:36	2023-04-06 06:47:36
-121	0x79	y	5	11655438	mlt	Hu jħobb jqatta' ix-xahar tar-Ramadan fil-Kabylie.	Amastan	2023-04-05 06:17:14	2023-04-05 06:17:14
-122	0x7a	z	73	2321872	mlt	Nirringrazzjawk ħafna!	scutajar	2013-03-20 11:38:49	2013-03-20 11:38:49
+87	0x57	W	3	7792104	mlt	Wasalt ukoll.	\N	2019-02-28 16:42:13	2019-04-16 10:45:51
+88	0x58	X	6	3229252	mlt	Xi trid tagħmel illum?	biber	2014-05-03 20:15:09	2014-05-03 20:15:09
+89	0x59	Y	11	11658886	mlt	Yanni dejjem jaħsel snienu.	Amastan	2023-04-06 06:42:49	2023-04-06 06:42:49
+90	0x5a	Z	328	11672996	mlt	Ziri jrid pizza tal-pepperoni.	Amastan	2023-04-11 07:09:46	2023-04-11 07:09:46
+97	0x61	a	1303	11695530	mlt	Ziri għarrex Rima.	Amastan	2023-04-20 07:04:32	2023-04-20 07:04:32
+98	0x62	b	329	11655430	mlt	Ziri jħobb jieħu r-riskji.	Amastan	2023-04-05 06:09:52	2023-04-05 06:09:52
+99	0x63	c	12	11694666	mlt	Enrico kompla jaqra kotba.	Amastan	2023-04-19 15:17:48	2023-04-19 15:17:48
+100	0x64	d	425	3231427	mlt	Il-kelma biex tidħol hija twila.	biber	2014-05-04 16:21:25	2014-05-04 16:21:25
+101	0x65	e	731	1388590	mlt	Fejn hu l-bank?	enteka	2012-01-23 02:08:03	2013-03-19 23:06:48
+102	0x66	f	156	11964425	mlt	Huwa jgħix fuq.	Amastan	2023-07-28 11:58:03	2023-07-28 11:58:03
+103	0x67	g	199	11655456	mlt	Yanni jħobb jagħmel il-biċċa l-kbira tal-affarijiet waħdu.	Amastan	2023-04-05 06:19:30	2023-04-05 06:19:30
+104	0x68	h	90	11673099	mlt	Kull ma jrid Ziri huwa ftit privatezza.	Amastan	2023-04-11 07:56:53	2023-04-11 07:56:53
+105	0x69	i	1931	11662620	mlt	Ziri jiftakar.	Amastan	2023-04-07 08:31:55	2023-04-07 08:31:55
+106	0x6a	j	663	11964433	mlt	Missieru jixrob.	Amastan	2023-07-28 12:00:46	2023-07-28 12:00:46
+107	0x6b	k	283	11673098	mlt	Ziri jrid ikompli dik il-konversazzjoni.	Amastan	2023-04-11 07:55:23	2023-04-11 07:55:23
+108	0x6c	l	663	4222619	mlt	Bħalissa Burj Khalifa huwa wieħed mill-itwal skajskrejper fid-dinja.	Balamax	2015-05-25 00:33:41	2015-05-25 00:34:33
+109	0x6d	m	428	11695527	mlt	Ziri ta daqqa lil Rima.	Amastan	2023-04-20 07:02:10	2023-04-20 07:02:10
+110	0x6e	n	512	1388474	mlt	Titkellem bl-Ingliż?	enteka	2012-01-23 00:19:52	2013-03-19 14:52:57
+111	0x6f	o	346	11662552	mlt	Ziri pprova kollox.	Amastan	2023-04-07 07:58:53	2023-04-07 07:58:53
+112	0x70	p	132	1388584	mlt	Ma nitkellimx bl-Ispanjol.	enteka	2012-01-23 01:55:13	2023-03-31 00:42:58
+113	0x71	q	152	11694666	mlt	Enrico kompla jaqra kotba.	Amastan	2023-04-19 15:17:48	2023-04-19 15:17:48
+114	0x72	r	867	4222619	mlt	Bħalissa Burj Khalifa huwa wieħed mill-itwal skajskrejper fid-dinja.	Balamax	2015-05-25 00:33:41	2015-05-25 00:34:33
+115	0x73	s	337	11662627	mlt	Ziri nesa.	Amastan	2023-04-07 08:36:49	2023-04-07 08:36:49
+116	0x74	t	556	11964460	mlt	Ixrob tazza.	Amastan	2023-07-28 12:07:10	2023-07-28 12:07:10
+117	0x75	u	318	2718361	mlt	Jien kuntenti.	\N	2013-09-03 23:22:10	2019-04-16 10:51:12
+118	0x76	v	53	11658901	mlt	Ziri kien dejjem jara t-televixin waħdu.	Amastan	2023-04-06 06:51:51	2023-04-06 06:51:51
+119	0x77	w	130	11658861	mlt	Ziri kien dejjem joqgħod waħdu.	Amastan	2023-04-06 06:20:23	2023-04-06 06:20:23
+120	0x78	x	131	3229294	mlt	Ix-xarabank huwa bil-mod.	biber	2014-05-03 20:20:30	2014-05-03 20:20:30
+121	0x79	y	5	2318695	mlt	Mary rasha iebsa wisq biex tiskuza ruħha.	scutajar	2013-03-19 10:47:36	2013-03-19 10:47:36
+122	0x7a	z	73	3231179	mlt	It-traduzzjoni hija preċiża.	biber	2014-05-04 13:19:29	2014-05-04 13:19:29
 225	0xe1	á	1	7725021	mlt	Luis Suárez huwa urugwajani.	marvinibahs	2019-01-15 02:17:27	2019-01-15 02:29:22
-232	0xe8	è	2	11673070	mlt	Ziri jrid kafè fih.	Amastan	2023-04-11 07:34:42	2023-04-11 07:34:42
+232	0xe8	è	2	11673027	mlt	Ziri jrid ftit kafè.	Amastan	2023-04-11 07:18:46	2023-04-11 07:18:46
 266	0x10a	Ċ	2	1387561	mlt	Ċaw!	enteka	2012-01-22 17:53:13	2013-03-19 11:57:54
-267	0x10b	ċ	33	11655456	mlt	Yanni jħobb jagħmel il-biċċa l-kbira tal-affarijiet waħdu.	Amastan	2023-04-05 06:19:30	2023-04-05 06:19:30
+267	0x10b	ċ	33	11658883	mlt	Ziri kien dejjem jċempel lil ommu.	Amastan	2023-04-06 06:41:12	2023-04-06 06:41:12
 288	0x120	Ġ	2	1388648	mlt	Berlin hija l-belt kapitali Ġermaniża.	enteka	2012-01-23 02:39:27	2013-03-19 23:07:15
-289	0x121	ġ	102	11662611	mlt	Ziri ġie.	Amastan	2023-04-07 08:27:20	2023-04-07 08:27:20
+289	0x121	ġ	102	2307587	mlt	Ħriġt?	scutajar	2013-03-15 13:59:47	2013-03-15 14:12:30
 294	0x126	Ħ	4	2307587	mlt	Ħriġt?	scutajar	2013-03-15 13:59:47	2013-03-15 14:12:30
-295	0x127	ħ	344	5813483	mlt	Kważi għandi kull ma neħtieġ.	jbor0081	2017-01-30 20:53:26	2017-01-30 20:53:26
+295	0x127	ħ	344	11658859	mlt	Ziri kien dejjem jgħum waħdu.	Amastan	2023-04-06 06:19:21	2023-04-06 06:19:21
 379	0x17b	Ż	1	11697509	mlt	Żżewġet mill-ġdid.	Amastan	2023-04-20 14:41:07	2023-04-20 14:41:07
-380	0x17c	ż	72	11964411	mlt	Hu jixrob ż-żejt taż-żebbuġa.	Amastan	2023-07-28 11:54:19	2023-07-28 11:54:19
-700	0x2bc	ʼ	5	11652712	mlt	Ziri tlewwem maʼ imħallef.	Amastan	2023-04-04 07:32:33	2023-04-04 07:32:33
-8217	0x2019	’	7	1816749	mlt	X’jismek?	pne	2012-09-04 13:41:57	2013-03-19 11:54:54
+380	0x17c	ż	72	11697510	mlt	It-tabib eżaminani.	Amastan	2023-04-20 14:46:23	2023-04-20 14:46:23
+700	0x2bc	ʼ	5	11694674	mlt	Ziri ltaqaʼ maʼ Rima.	Amastan	2023-04-19 15:23:28	2023-04-19 15:23:28
+8217	0x2019	’	7	11467883	mlt	Ziri reġa’ żżewweġ.	Amastan	2023-01-18 10:01:41	2023-01-18 10:01:41

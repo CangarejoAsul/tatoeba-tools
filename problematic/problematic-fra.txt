@@ -3761,7 +3761,6 @@ Question mark: preceeded by letter or digit	7644379	fra	Que fais-tu dans le gren
 Exclamation mark: preceeded by letter or digit	7644386	fra	Je suis si heureux que vous soyez là!	tras	2018-12-22 20:22:31	2018-12-22 20:22:31
 Exclamation mark: preceeded by letter or digit	7644415	fra	Désordre sur la table, désordre dans la tête!	tras	2018-12-22 20:30:32	2018-12-22 20:37:00
 Quotation marks: mixed curly and straight	7644758	fra	Je n'ai pas l’habitude de dormir dans une tente.	tras	2018-12-23 06:55:54	2018-12-23 06:55:54
-Question mark: preceeded by letter or digit	7644765	fra	Salut, je suis Tom. Quel est ton nom?	tras	2018-12-23 07:08:22	2018-12-23 10:06:25
 Question mark: preceeded by letter or digit	7644771	fra	Tes parents sont-ils toujours en vie?	tras	2018-12-23 07:16:17	2018-12-23 07:16:17
 Question mark: preceeded by letter or digit	7644772	fra	As-tu des parents?	tras	2018-12-23 07:16:41	2018-12-23 07:16:41
 Question mark: preceeded by letter or digit	7644785	fra	Tu ne comprends pas ce qui se passe, non?	tras	2018-12-23 07:33:30	2018-12-23 07:41:51
@@ -4936,7 +4935,6 @@ Capitalization	12148856	fra	votre comportement est votre identité.	LdjuherTaqva
 Final punctuation	12149876	fra	Il ira à El kseur	Tighra_tlelli	2023-11-07 05:54:53	2023-11-07 05:54:53
 Guillemets: closing mark not preceeded by space	12150517	fra	Comment vous devez écrire « COVID-19» en kabyle ?	LdjuherTaqvaylit	2023-11-07 15:28:26	2023-11-07 15:28:26
 Capitalization	12152038	fra	nous nous sommes surpris.	Aghanim	2023-11-08 15:38:19	2023-11-08 15:38:19
-Final punctuation	12156036	fra	Arrêtez d'être arrogant	Taibouche	2023-11-11 06:28:00	2023-11-11 06:28:00
 Final punctuation	12158311	fra	Ne soit pas ennuyeux	slahatuvelli	2023-11-12 11:14:50	2023-11-12 11:14:50
 Exclamation mark: preceeded by letter or digit	12160204	fra	Tous mes vœux!	Taibouche	2023-11-13 18:56:19	2023-11-13 18:56:19
 Exclamation mark: preceeded by letter or digit	12160210	fra	Comme tu es belle!	Taibouche	2023-11-13 18:59:28	2023-11-13 18:59:28
@@ -4973,8 +4971,10 @@ Colon: succeeded by letter or punctuation	12252299	fra	Idir a dit :« Tu sais ma
 Guillemets: closing mark not preceeded by space	12252421	fra	Alors comment écrivez-vous « feuille» en estonie.	slahatuvelli	2024-01-05 12:10:29	2024-01-05 12:12:29
 Capitalization	12255873	fra	bell hooks ne capitalise pas son nom de plume.	menaud	2024-01-07 04:25:24	2024-01-07 04:25:24
 Question mark: preceeded by letter or digit	12258204	fra	Comment elles doivent écrire « application » en thaï?	LdjuherTaqvaylit	2024-01-08 00:46:46	2024-01-08 00:46:46
-Capitalization	12266406	fra	ça a l'air délicieux.	LdjuherTaqvaylit	2024-01-14 01:20:01	2024-01-14 01:20:01
-Capitalization	12267853	fra	j'ignore comment tout cela va se terminer.	madjidoumnia	2024-01-14 22:34:55	2024-01-14 22:34:55
-Capitalization	12269219	fra	vous croyez que la vie n'est que paroles en l'air.	Tighra_tlelli	2024-01-15 20:23:11	2024-01-15 20:23:11
-Question mark: preceeded by letter or digit	12272667	fra	Elles n'ont pas bu d'eau aujourd'hui?	LdjuherTaqvaylit	2024-01-17 23:04:23	2024-01-17 23:04:23
-Guillemets: closing mark not preceeded by space	12274859	fra	Matoub a dit : « La profusion des mosqués est un moyen de camoufler la misère, la profusion des mosqués est un signe de la prolifération de la misère.»	slahatuvelli	2024-01-19 12:03:21	2024-01-19 12:03:21
+Guillemets: closing mark not preceeded by space	12274859	fra	Matoub a dit : « La profusion des mosquées est un moyen de camoufler la misère, la profusion des mosquées est un indice de prolifération de la misère.»	slahatuvelli	2024-01-19 12:03:21	2024-01-20 10:35:28
+Final punctuation	12280082	fra	Tu n'es pas allé à Béjaïa	Tighra_tlelli	2024-01-22 07:06:18	2024-01-22 07:06:18
+Final punctuation	12280990	fra	Elles sont fières de leur mère	Aghanim	2024-01-22 17:17:02	2024-01-22 17:17:08
+Quotation marks: mixed curly and straight	12281969	fra	Il est dans la nature de l’idéal qu’il ne se laisse réaliser ; son rôle consiste à s'élever au-delà de la réalité.	Rovo	2024-01-23 10:55:26	2024-01-23 10:55:26
+Quotation marks: mixed curly and straight	12286219	fra	Les soldats de l’agresseur n’étaient rien d'autre que des voleurs, des meurtriers et des violeurs en uniforme.	Rovo	2024-01-26 14:43:13	2024-01-26 14:43:13
+Capitalization	12286518	fra	je ne me souviens pas comment je me suis retrouvé par terre.	Aghanim	2024-01-26 17:25:27	2024-01-26 17:25:27
+Quotation marks: mixed curly and straight	12286618	fra	Mon arrière-grand-père n’avait pas grande estime pour les voitures automobiles. Jusqu'à la fin, il roula en voiture hippomobile.	Rovo	2024-01-26 19:23:53	2024-01-26 19:23:53

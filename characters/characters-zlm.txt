@@ -1,103 +1,103 @@
-32	0x20	 	13181	4563555	zlm	Saya dah siapkan buat kerja sebelum makan malam.	LeeSooHa	2015-09-28 06:11:32	2016-03-23 17:26:35
-33	0x21	!	39	10905532	zlm	Fuyoh, awek cun!	LeeSooHa	2022-06-12 11:42:49	2022-06-12 11:42:49
+32	0x20	 	13181	10655146	zlm	Tom ajak aku pegi Australia dengan Mary summer depan.	imperiex	2022-02-02 11:18:36	2022-02-02 11:18:36
+33	0x21	!	39	10732567	zlm	Kau dah kenapa pelan sangat?!	imperiex	2022-03-24 00:01:47	2022-03-24 00:01:47
 34	0x22	"	30	6314637	zlm	"Boleh aku minta kah?" "Ikut keadaan."	Dusun_Les	2017-09-19 04:16:53	2017-09-19 04:16:53
-39	0x27	'	3	3936344	zlm	Awak 'okay'?	buddy6621	2015-03-06 23:54:53	2016-05-05 02:08:19
-44	0x2c	,	297	11187987	zlm	Nak guna boleh, tak guna pun takpe.	imperiex	2022-10-18 03:56:52	2022-10-18 03:56:52
-45	0x2d	-	213	11380291	zlm	Seingat aku dulu ada je petugas suruh beratur elok-elok.	imperiex	2022-12-28 02:40:28	2022-12-28 02:40:28
-46	0x2e	.	1929	10727673	zlm	Tom cakap kat Mary toksah cium dia depan orang lagi dah.	imperiex	2022-03-21 00:08:48	2022-03-21 00:08:48
-48	0x30	0	19	11029266	zlm	Ada kemungkinan Tom tak masuk kerja 20 haribulan sepuluh nanti.	imperiex	2022-07-28 00:01:52	2022-07-28 00:01:52
-49	0x31	1	8	11521628	zlm	Paling tinggi pun dalam RM1500 je.	imperiex	2023-02-09 00:27:36	2023-02-09 00:27:36
-50	0x32	2	12	11516623	zlm	Takkan 24 jam nak serius je?	imperiex	2023-02-07 04:04:57	2023-02-07 04:04:57
-51	0x33	3	10	10778253	zlm	Setiap pagi Tom pegi kerja pukul 6:30.	imperiex	2022-04-22 01:47:11	2022-04-22 01:47:11
-52	0x34	4	3	11368227	zlm	Nombor plat dia ABC 1234 kalau tak silap.	imperiex	2022-12-25 01:52:02	2022-12-25 01:52:02
-53	0x35	5	3	11365011	zlm	Paling mahal pun dalam RM50 kot.	imperiex	2022-12-24 02:03:51	2022-12-24 02:03:51
+39	0x27	'	3	10732632	zlm	Aku tak sabar nak Valentine's Day!	imperiex	2022-03-24 00:17:05	2022-03-24 00:17:05
+44	0x2c	,	297	6380155	zlm	Kalau kau merokok disini, pi lah luar!	LeeSooHa	2017-10-13 13:46:26	2017-10-13 13:46:26
+45	0x2d	-	213	9724748	zlm	Budak-budak ada sikit je gigi.	imperiex	2021-02-04 22:35:44	2021-02-04 22:35:44
+46	0x2e	.	1929	11187940	zlm	Bukan sekali dua dengar ada bos macam ni.	imperiex	2022-10-18 03:28:54	2022-10-18 03:28:54
+48	0x30	0	19	10684031	zlm	Nak repair benda tu kena dalam 2,000 yen.	imperiex	2022-02-21 03:47:16	2022-02-21 03:47:16
+49	0x31	1	8	11187917	zlm	Kau ingat ni tahun 1980an ke apa?	imperiex	2022-10-18 03:17:53	2022-10-18 03:17:53
+50	0x32	2	12	10200794	zlm	Tom sampai sini lebih kurang 2:30.	Kazuki278	2021-07-30 17:55:20	2021-07-30 17:55:20
+51	0x33	3	10	10200794	zlm	Tom sampai sini lebih kurang 2:30.	Kazuki278	2021-07-30 17:55:20	2021-07-30 17:55:20
+52	0x34	4	3	9724616	zlm	Tom cakap dah 24 jam dia tak tido.	imperiex	2021-02-04 22:13:01	2021-02-04 22:13:01
+53	0x35	5	3	11521628	zlm	Paling tinggi pun dalam RM1500 je.	imperiex	2023-02-09 00:27:36	2023-02-09 00:27:36
 54	0x36	6	1	10778253	zlm	Setiap pagi Tom pegi kerja pukul 6:30.	imperiex	2022-04-22 01:47:11	2022-04-22 01:47:11
 56	0x38	8	2	11395999	zlm	Dia dah umur 38 memang la kena fikir pasal duit.	imperiex	2022-12-31 10:13:31	2022-12-31 10:13:31
 57	0x39	9	1	11187917	zlm	Kau ingat ni tahun 1980an ke apa?	imperiex	2022-10-18 03:17:53	2022-10-18 03:17:53
-58	0x3a	:	5	9689097	zlm	Rupanya Tom tunggu kau sampai pukul 2:30.	imperiex	2021-01-24 22:08:47	2021-01-24 22:08:47
+58	0x3a	:	5	9714075	zlm	Dia tengking budak tu: "Diam la!"	imperiex	2021-02-02 23:08:42	2021-02-02 23:08:42
 59	0x3b	;	1	10732568	zlm	Kau takyah dengar cakap dia! Kau dengar cakap aku; dia tu sembang kuat je.	imperiex	2022-03-24 00:02:16	2022-03-24 00:02:16
-63	0x3f	?	321	8223091	zlm	Kau pernah tak bakar kot kau ngan sebatang rokok?	LeeSooHa	2019-10-01 11:05:33	2019-10-01 11:05:33
-65	0x41	A	524	9700522	zlm	Aku akan kilatkan kasut kau.	imperiex	2021-01-28 22:29:58	2021-01-28 22:29:58
-66	0x42	B	180	11380336	zlm	Berapa kali dia kena tegur sebab naik kepala.	imperiex	2022-12-28 03:10:44	2022-12-28 03:10:44
-67	0x43	C	29	11187936	zlm	Cakap je tak guna, tunjuk la bukti.	imperiex	2022-10-18 03:27:29	2022-10-18 03:27:29
-68	0x44	D	176	11380278	zlm	Dia macam ni tau.	imperiex	2022-12-28 02:34:47	2022-12-28 02:34:47
-69	0x45	E	16	11540089	zlm	Nasihat tak nak dengar, pastu meroyan. Elok.	imperiex	2023-02-16 01:31:12	2023-02-16 01:31:12
+63	0x3f	?	321	4563544	zlm	Dah makan malam ke?	LeeSooHa	2015-09-28 06:05:55	2016-03-23 17:27:20
+65	0x41	A	524	11368260	zlm	Kalau mahal, beli kat tempat lain. Apa susah.	imperiex	2022-12-25 01:58:36	2022-12-25 01:58:36
+66	0x42	B	180	10700791	zlm	Boleh tak kau ajar aku camna nak buat benda tu?	imperiex	2022-03-03 12:42:46	2022-03-03 12:42:46
+67	0x43	C	29	9695937	zlm	Charles hidup penuh dosa masa dia muda.	imperiex	2021-01-26 23:00:58	2021-01-26 23:00:58
+68	0x44	D	176	11187964	zlm	Sekali satu ofis kena COVID.	imperiex	2022-10-18 03:41:34	2022-10-18 03:41:34
+69	0x45	E	16	11376491	zlm	Sepanjang dia duduk UK takde pulak dia nak cakap English.	imperiex	2022-12-27 02:43:48	2022-12-27 02:43:48
 70	0x46	F	5	10700306	zlm	Banyak restorang sekarang ada Wi-Fi free.	imperiex	2022-03-03 01:55:59	2022-03-03 01:55:59
-71	0x47	G	8	10729085	zlm	Gitar ni berapa lama?	imperiex	2022-03-22 00:06:09	2022-03-22 00:06:09
-72	0x48	H	19	11368250	zlm	Hangin pulak aku.	imperiex	2022-12-25 01:56:20	2022-12-25 01:56:20
-73	0x49	I	26	11518682	zlm	Ikut suka dia la nak pakai baju apa pun.	imperiex	2023-02-08 01:06:09	2023-02-08 01:06:09
+71	0x47	G	8	9689218	zlm	Google tak kena block kat Algeria.	imperiex	2021-01-24 22:35:54	2021-01-24 22:35:54
+72	0x48	H	19	11376537	zlm	Hoi, tu kakak kau, bukan bibik kau nak arah-arah.	imperiex	2022-12-27 02:53:57	2022-12-27 02:53:57
+73	0x49	I	26	10789983	zlm	Tom tak payah ada kat sini hari Isnin.	imperiex	2022-04-26 23:48:15	2022-04-26 23:48:15
 74	0x4a	J	48	11373303	zlm	Jenis tak boleh tengok orang lebih sikit, ada je yang dengki.	imperiex	2022-12-26 05:37:55	2022-12-26 05:37:55
-75	0x4b	K	362	10684021	zlm	Kau ingat aku kisah sangat ke apa benda yang jadi?	imperiex	2022-02-21 03:42:55	2022-02-21 03:42:55
-76	0x4c	L	41	10156928	zlm	Sami tak tau Laila ni orang Islam.	Kazuki278	2021-07-07 15:26:11	2021-07-07 15:26:11
-77	0x4d	M	280	10180830	zlm	Macam membazir je bunyinya.	Kazuki278	2021-07-19 20:04:36	2021-07-19 20:04:36
-78	0x4e	N	83	9695929	zlm	Ni semua salah aku!	imperiex	2021-01-26 22:59:19	2021-01-26 22:59:19
-79	0x4f	O	31	10727675	zlm	Orang luar susah nak biasa dengan makanan Jepun.	imperiex	2022-03-21 00:09:34	2022-03-21 00:09:34
-80	0x50	P	85	11518898	zlm	Macam ni nak menang Piala Malaysia?	imperiex	2023-02-08 03:15:19	2023-02-08 03:15:19
+75	0x4b	K	362	10724963	zlm	Tom lega bila nampak Mary OK.	imperiex	2022-03-18 23:11:07	2022-03-18 23:11:07
+76	0x4c	L	41	11029431	zlm	Last-last Tom buat benda tu sendiri.	imperiex	2022-07-28 00:51:58	2022-07-28 00:51:58
+77	0x4d	M	280	9724577	zlm	Aku nak tau betul ke Tom dengan Mary boleh buat benda tu dengan sendiri betul-betul.	imperiex	2021-02-04 22:03:45	2021-02-04 22:03:45
+78	0x4e	N	83	11365036	zlm	Ni aku malas nak makan kat kedai mamak ni.	imperiex	2022-12-24 02:17:25	2022-12-24 02:17:25
+79	0x4f	O	31	9689111	zlm	Orang selalunya jarang berjaya kecuali kalau diorang seronok dengan apa yang diorang buat.	imperiex	2021-01-24 22:11:15	2021-01-24 22:11:15
+80	0x50	P	85	10126058	zlm	Pandemik tu apa?	Kazuki278	2021-06-24 10:30:32	2021-06-24 10:30:32
 81	0x51	Q	1	10653423	zlm	Aku dah baca Quran.	imperiex	2022-02-01 09:11:56	2022-02-01 09:11:56
-82	0x52	R	24	11518810	zlm	Rindu nak lepak dengan member.	imperiex	2023-02-08 03:02:27	2023-02-08 03:02:27
-83	0x53	S	136	11380291	zlm	Seingat aku dulu ada je petugas suruh beratur elok-elok.	imperiex	2022-12-28 02:40:28	2022-12-28 02:40:28
-84	0x54	T	764	9714050	zlm	Tom mungkin datang naik teksi.	imperiex	2021-02-02 23:02:47	2021-02-02 23:02:47
-85	0x55	U	4	11535543	zlm	Aku tau pasal dia ni sebab dia bertanding PRU hari tu.	imperiex	2023-02-14 03:09:11	2023-02-14 03:09:11
-86	0x56	V	7	9724727	zlm	Tom tak tengok TV.	imperiex	2021-02-04 22:31:24	2021-02-04 22:31:24
-87	0x57	W	5	11187914	zlm	Masa sembang kat Whatsapp takde pun cakap pape.	imperiex	2022-10-18 03:16:56	2022-10-18 03:16:56
-89	0x59	Y	17	11029359	zlm	Yanni duduk kat hotel ni.	imperiex	2022-07-28 00:29:52	2022-07-28 00:29:52
+82	0x52	R	24	10732597	zlm	Rumah ni daftar atas nama aku.	imperiex	2022-03-24 00:08:41	2022-03-24 00:08:41
+83	0x53	S	136	4609684	zlm	Saya ni cuma kebudakan je.	LeeSooHa	2015-10-15 03:59:11	2016-03-23 13:39:34
+84	0x54	T	764	10677763	zlm	Tom pulak yang kena.	imperiex	2022-02-17 08:38:21	2022-02-17 08:38:21
+85	0x55	U	4	11480738	zlm	Untung jadi student zaman sekarang.	imperiex	2023-01-23 23:22:50	2023-01-23 23:22:50
+86	0x56	V	7	9713972	zlm	Apa game TV yang korang semua ada?	imperiex	2021-02-02 22:41:48	2021-02-02 22:41:48
+87	0x57	W	5	11521596	zlm	Wi-Fi ni macam ada takde je.	imperiex	2023-02-09 00:03:47	2023-02-09 00:03:47
+89	0x59	Y	17	11029330	zlm	Yanni takde masa.	imperiex	2022-07-28 00:23:04	2022-07-28 00:23:04
 90	0x5a	Z	2	10732570	zlm	Ziri tengok banyak cerita hantu.	imperiex	2022-03-24 00:02:43	2022-03-24 00:02:43
-97	0x61	a	14390	10690070	zlm	Tom tak berdiri belakang Mary.	imperiex	2022-02-25 01:33:28	2022-02-25 01:33:28
-98	0x62	b	1821	9700498	zlm	Aku harap Tom tak terbeban dengan benda tu.	imperiex	2021-01-28 22:22:57	2021-01-28 22:22:57
-99	0x63	c	638	9724602	zlm	Tom tak tau kenapa dia kena buat macam tu.	imperiex	2021-02-04 22:10:22	2021-02-04 22:10:22
-100	0x64	d	2095	11373332	zlm	Sana sini jual durian, sampai dah muaklah bau durian.	imperiex	2022-12-26 06:03:24	2022-12-26 06:03:24
-101	0x65	e	3480	10688597	zlm	Dia kena penjara sebab merompak.	imperiex	2022-02-24 01:37:43	2022-02-24 01:37:43
-102	0x66	f	47	10730626	zlm	Masa aku kecik, semua orang dalam family aku kena kongsi satu komputer.	imperiex	2022-03-23 00:10:42	2022-03-23 00:10:42
-103	0x67	g	2334	9700574	zlm	Berapa tahun lagi kau rasa Tom kena buat macam tu?	imperiex	2021-01-28 22:40:56	2021-01-28 22:40:56
-104	0x68	h	1427	9689308	zlm	Aku pasti kalau ada masalah, mesti dia dah telefon.	imperiex	2021-01-24 22:54:30	2021-01-24 22:54:30
-105	0x69	i	3769	9695672	zlm	Dia ahli keluarga Muslim yang besar.	imperiex	2021-01-26 22:13:38	2021-01-26 22:13:38
-106	0x6a	j	652	11380291	zlm	Seingat aku dulu ada je petugas suruh beratur elok-elok.	imperiex	2022-12-28 02:40:28	2022-12-28 02:40:28
-107	0x6b	k	5304	11535479	zlm	Lepas ni kalau jadi jugak, tak tau la nak cakap apa.	imperiex	2023-02-14 01:55:20	2023-02-14 01:55:20
-108	0x6c	l	2082	11380327	zlm	Tengok la beratur panjang macam mana.	imperiex	2022-12-28 03:06:43	2022-12-28 03:06:43
-109	0x6d	m	2413	9714105	zlm	Bila Tom cakap Perancis, dia macam bertukar jadi orang lain.	imperiex	2021-02-02 23:15:29	2021-02-02 23:15:29
-110	0x6e	n	5116	9699556	zlm	Bila dia buat benda tu, Tom terus sakit.	imperiex	2021-01-28 12:55:54	2021-01-28 12:55:54
-111	0x6f	o	1688	9695662	zlm	Selalu berapa kali kau potong rambut?	imperiex	2021-01-26 22:11:58	2021-01-26 22:11:58
-112	0x70	p	2006	10724941	zlm	Pastikan tempat kerja kau kemas.	imperiex	2022-03-18 23:03:10	2022-03-18 23:03:10
-114	0x72	r	2133	10653418	zlm	Diorang tak hisap rokok, kan?	imperiex	2022-02-01 09:10:11	2022-02-01 09:10:11
-115	0x73	s	2079	10727764	zlm	Kitorang tengok movie ni teruk gila semalam.	imperiex	2022-03-21 03:49:14	2022-03-21 03:49:14
-116	0x74	t	3811	9700608	zlm	Sepatutnya Tom buat benda tu untuk kita.	imperiex	2021-01-28 22:47:36	2021-01-28 22:47:36
-117	0x75	u	4617	9713985	zlm	Luka tu keluar nanah.	imperiex	2021-02-02 22:45:39	2021-02-02 22:45:39
-118	0x76	v	21	11518714	zlm	Elok dapat belajar overseas, dia pegi buat hal pulak.	imperiex	2023-02-08 01:45:55	2023-02-08 01:45:55
-119	0x77	w	133	10729093	zlm	Aku tau Tom dengan Mary dua-dua tak kawin lagi.	imperiex	2022-03-22 00:08:16	2022-03-22 00:08:16
-120	0x78	x	4	10724942	zlm	Aku ingatkan Tom nampak excited.	imperiex	2022-03-18 23:03:21	2022-03-18 23:03:21
-121	0x79	y	842	11395938	zlm	Tapi tu lah, jadi kaya ni sebenarnya lagi banyak masalah dari jadi miskin.	imperiex	2022-12-31 10:07:05	2022-12-31 10:07:05
-122	0x7a	z	19	11521601	zlm	Takpelah takde rezeki, cuba lain kali pulak.	imperiex	2023-02-09 00:07:57	2023-02-09 00:07:57
+97	0x61	a	14390	11521604	zlm	Yang kelakarnya, aku email pagi, petang baru dapat reply.	imperiex	2023-02-09 00:10:10	2023-02-09 00:10:10
+98	0x62	b	1821	11373290	zlm	Kenapa majikan yang kena bayar, kenapa tak kerajaan?	imperiex	2022-12-26 05:29:12	2022-12-26 05:29:12
+99	0x63	c	638	9689218	zlm	Google tak kena block kat Algeria.	imperiex	2021-01-24 22:35:54	2021-01-24 22:35:54
+100	0x64	d	2095	8216893	zlm	Dia tertidur kat bawah pokok.	LeeSooHa	2019-09-28 13:18:15	2019-09-28 13:18:15
+101	0x65	e	3480	10784309	zlm	Aku lega pencuri-pencuri tu dah kena tangkap.	imperiex	2022-04-25 02:13:47	2022-04-25 02:13:47
+102	0x66	f	47	11365005	zlm	Takut dah takde kat Netflix.	imperiex	2022-12-24 02:00:07	2022-12-24 02:00:07
+103	0x67	g	2334	11535547	zlm	Apa kau tunggu lagi?	imperiex	2023-02-14 03:12:10	2023-02-14 03:12:17
+104	0x68	h	1427	11365031	zlm	Harap-harap takde la ramai orang kat sana nanti.	imperiex	2022-12-24 02:14:19	2022-12-24 02:14:19
+105	0x69	i	3769	11373317	zlm	Jangan la mengada nak pilih sangat kerja tu.	imperiex	2022-12-26 05:55:52	2022-12-26 05:55:52
+106	0x6a	j	652	9695874	zlm	Aku dengar anjing aku tercungap-cungap.	imperiex	2021-01-26 22:50:18	2021-01-26 22:50:18
+107	0x6b	k	5304	10724937	zlm	Bagi la kat orang yang lagi perlukan.	imperiex	2022-03-18 23:01:53	2022-03-18 23:01:53
+108	0x6c	l	2082	9695715	zlm	Dia rasa lagu tu lama sangat kalau nak nyanyi zaman sekarang ni.	imperiex	2021-01-26 22:21:51	2021-01-26 22:21:51
+109	0x6d	m	2413	9708923	zlm	Tom nampak Mary tengah cium John.	imperiex	2021-01-31 22:01:04	2021-01-31 22:01:04
+110	0x6e	n	5116	9714005	zlm	Hari ni mak aku nak datang rumah.	imperiex	2021-02-02 22:50:49	2021-02-02 22:50:49
+111	0x6f	o	1688	11029393	zlm	Dia tu kuat berdosa.	imperiex	2022-07-28 00:41:24	2022-07-28 00:41:24
+112	0x70	p	2006	9695861	zlm	Anak perempuan dia baru je meninggal tahun lepas.	imperiex	2021-01-26 22:48:04	2021-01-26 22:48:04
+114	0x72	r	2133	11516635	zlm	Dah terjaga ni susah pulak nak tido balik.	imperiex	2023-02-07 04:14:16	2023-02-07 04:14:16
+115	0x73	s	2079	11516635	zlm	Dah terjaga ni susah pulak nak tido balik.	imperiex	2023-02-07 04:14:16	2023-02-07 04:14:16
+116	0x74	t	3811	9700522	zlm	Aku akan kilatkan kasut kau.	imperiex	2021-01-28 22:29:58	2021-01-28 22:29:58
+117	0x75	u	4617	10789943	zlm	Kau la orang yang bagi kitorang semua ni.	imperiex	2022-04-26 23:36:57	2022-04-26 23:36:57
+118	0x76	v	21	9695738	zlm	Ada live band atau DJ tak kat kelab ni?	imperiex	2021-01-26 22:28:28	2021-01-26 22:28:28
+119	0x77	w	133	11376572	zlm	Kalau aku jadi awek dia aku blah dah.	imperiex	2022-12-27 03:01:58	2022-12-27 03:01:58
+120	0x78	x	4	11365005	zlm	Takut dah takde kat Netflix.	imperiex	2022-12-24 02:00:07	2022-12-24 02:00:07
+121	0x79	y	842	10678812	zlm	Dia bangga dengan markah dia yang tinggi tu.	imperiex	2022-02-18 02:57:05	2022-02-18 02:57:05
+122	0x7a	z	19	10666268	zlm	Muzium tu bukak bila?	imperiex	2022-02-09 00:46:28	2022-02-09 00:46:28
 1548	0x60c	،	1	10503485	zlm	كنڤ دڠن كاو ني، اد مسئله ک؟ چر چريتا سيكيت.	Kazuki278	2021-11-12 18:27:18	2021-11-12 18:27:18
-1567	0x61f	؟	21	10509817	zlm	كاو بوليه باچ توليسن ني تق؟	Kazuki278	2021-11-15 14:03:17	2021-11-15 14:03:17
-1569	0x621	ء	3	10163696	zlm	دوءيت اكو كنا چوري.	Kazuki278	2021-07-11 12:52:58	2021-07-11 12:52:58
+1567	0x61f	؟	21	10126210	zlm	اڤ نام كاو؟	Kazuki278	2021-06-24 11:15:34	2021-06-24 11:15:34
+1569	0x621	ء	3	10158827	zlm	باݢي باليق دوءيت اکو.	Kazuki278	2021-07-08 13:59:39	2021-07-08 13:59:39
 1573	0x625	إ	1	10156929	zlm	سامي تق تاهو لايلا ني اورڠ إسلام.	Kazuki278	2021-07-07 15:26:42	2021-07-17 17:55:50
 1574	0x626	ئ	1	10503485	zlm	كنڤ دڠن كاو ني، اد مسئله ک؟ چر چريتا سيكيت.	Kazuki278	2021-11-12 18:27:18	2021-11-12 18:27:18
-1575	0x627	ا	200	10176921	zlm	سمالم⹁ اکو ݢي مندي دکت سوڠاي.	Kazuki278	2021-07-17 18:14:48	2021-07-17 18:14:48
-1576	0x628	ب	42	11970849	zlm	کاو اد راکيت سبيجيق ماچم اکو ڤوڽ.	Kazuki278	2023-07-31 08:43:07	2023-07-31 08:43:07
-1578	0x62a	ت	108	10158828	zlm	تق.	Kazuki278	2021-07-08 14:03:28	2021-07-08 14:03:28
-1580	0x62c	ج	13	10157041	zlm	تقد ساڤ ݢون باڠونن تو سجق 2013.	Kazuki278	2021-07-07 16:49:08	2021-07-07 16:49:08
+1575	0x627	ا	200	10167107	zlm	كيت كنا بلي ميسين باسوه بارو.	Kazuki278	2021-07-13 00:28:37	2021-07-13 00:28:37
+1576	0x628	ب	42	10126244	zlm	اكو راس نق بوات ويبساءيت بارو.	Kazuki278	2021-06-24 11:32:19	2021-07-17 18:10:30
+1578	0x62a	ت	108	10156327	zlm	اکو ڤستي توم دان ماري سهاج ڤرلو بواتڽ.	Kazuki278	2021-07-07 08:06:01	2021-07-17 18:12:16
+1580	0x62c	ج	13	10156327	zlm	اکو ڤستي توم دان ماري سهاج ڤرلو بواتڽ.	Kazuki278	2021-07-07 08:06:01	2021-07-17 18:12:16
 1581	0x62d	ح	1	10511298	zlm	دروسيا اد تق انيمي حيوان؟	Kazuki278	2021-11-16 06:27:16	2021-11-16 06:27:16
-1583	0x62f	د	53	10126067	zlm	توم تاكوت ڤندميک.	Kazuki278	2021-06-24 10:32:41	2021-07-17 18:09:46
+1583	0x62f	د	53	10156920	zlm	تاهو تق توم دودوق دمان؟	Kazuki278	2021-07-07 15:19:52	2021-07-07 15:20:21
 1584	0x630	ذ	1	10180835	zlm	ماچم ممبذير ج بوڽيڽ.	Kazuki278	2021-07-19 20:04:59	2021-07-19 20:04:59
-1585	0x631	ر	51	10509788	zlm	اكو بارو ج تادي نمڤق توم دان ماري.	Kazuki278	2021-11-15 13:54:19	2021-11-15 13:54:19
-1587	0x633	س	53	10156929	zlm	سامي تق تاهو لايلا ني اورڠ إسلام.	Kazuki278	2021-07-07 15:26:42	2021-07-17 17:55:50
+1585	0x631	ر	51	10229422	zlm	اكو راس كيت تق ڤاتوت ڤرچاي توم.	Kazuki278	2021-08-09 15:56:47	2021-08-09 15:56:47
+1587	0x633	س	53	10167107	zlm	كيت كنا بلي ميسين باسوه بارو.	Kazuki278	2021-07-13 00:28:37	2021-07-13 00:28:37
 1588	0x634	ش	1	10157239	zlm	دوق اومه لاما٢ ڤيشڠ دوه.	Kazuki278	2021-07-07 18:07:30	2021-07-07 18:07:30
 1589	0x635	ص	1	10152773	zlm	کاو صبر⹁ کاو برجاي.	Kazuki278	2021-07-05 18:21:15	2021-07-17 18:08:22
-1602	0x642	ق	53	11970976	zlm	تاو لا کاو تو سيڠݢل⹁ تق ڤايه لا نق دڠکي.	Kazuki278	2023-07-31 08:52:55	2023-07-31 08:53:43
-1603	0x643	ك	46	10504496	zlm	مان كاو تاهو بندا تو بتول كالاو كاو سنديري ڤون تق ڤرنه نمڤق؟	Kazuki278	2021-11-13 09:51:32	2021-11-13 09:51:32
-1604	0x644	ل	47	10156327	zlm	اکو ڤستي توم دان ماري سهاج ڤرلو بواتڽ.	Kazuki278	2021-07-07 08:06:01	2021-07-17 18:12:16
-1605	0x645	م	69	10152820	zlm	سمالم اکو ده داڤت سورت کاو.	Kazuki278	2021-07-05 18:31:44	2021-07-17 18:11:37
-1606	0x646	ن	78	10158650	zlm	اد ک ايات يڠ لڠسوڠ تق بوليه دترجمهکن؟	Kazuki278	2021-07-08 10:52:41	2021-07-08 10:52:41
-1607	0x647	ه	32	10503485	zlm	كنڤ دڠن كاو ني، اد مسئله ک؟ چر چريتا سيكيت.	Kazuki278	2021-11-12 18:27:18	2021-11-12 18:27:18
-1608	0x648	و	168	10167111	zlm	دي ده تق دودوق سيني.	Kazuki278	2021-07-13 00:37:04	2021-07-13 00:37:04
-1610	0x64a	ي	116	10508990	zlm	اكو نق بونوه ديري.	Kazuki278	2021-11-15 02:30:03	2021-11-15 02:30:03
+1602	0x642	ق	53	10163647	zlm	تيڠوق بلاكڠ كاو. اڤ تو؟	Kazuki278	2021-07-11 12:35:31	2021-07-11 12:35:31
+1603	0x643	ك	46	10509817	zlm	كاو بوليه باچ توليسن ني تق؟	Kazuki278	2021-11-15 14:03:17	2021-11-15 14:03:17
+1604	0x644	ل	47	10175899	zlm	لڤس سكوله بوات اڤ؟	Kazuki278	2021-07-17 00:15:01	2021-07-17 00:15:01
+1605	0x645	م	69	10156920	zlm	تاهو تق توم دودوق دمان؟	Kazuki278	2021-07-07 15:19:52	2021-07-07 15:20:21
+1606	0x646	ن	78	10503485	zlm	كنڤ دڠن كاو ني، اد مسئله ک؟ چر چريتا سيكيت.	Kazuki278	2021-11-12 18:27:18	2021-11-12 18:27:18
+1607	0x647	ه	32	10302212	zlm	اكو ده لوڤا نق چاكڤ اڤ.	Kazuki278	2021-09-18 08:50:59	2021-09-18 08:50:59
+1608	0x648	و	168	10126176	zlm	اڤ كابو؟	Kazuki278	2021-06-24 10:50:55	2021-06-24 10:50:55
+1610	0x64a	ي	116	10125994	zlm	سامي تق راس لايلا اكن بوات ماچم تو.	Kazuki278	2021-06-24 10:13:54	2021-07-17 18:09:06
 1634	0x662	٢	3	10157239	zlm	دوق اومه لاما٢ ڤيشڠ دوه.	Kazuki278	2021-07-07 18:07:30	2021-07-07 18:07:30
-1670	0x686	چ	21	10509817	zlm	كاو بوليه باچ توليسن ني تق؟	Kazuki278	2021-11-15 14:03:17	2021-11-15 14:03:17
+1670	0x686	چ	21	10156193	zlm	ني كالي ڤرتام كاو چوبا ماكنن جڤون ک؟	Kazuki278	2021-07-07 06:54:40	2021-07-07 06:54:40
 1696	0x6a0	ڠ	34	10126007	zlm	سموا اورڠ توڠڬو اونتوق تيڠوق اڤ يڠ توم نق بوات.	Kazuki278	2021-06-24 10:16:27	2021-07-17 18:09:19
-1700	0x6a4	ڤ	57	10302177	zlm	كاو تق ڤايه بوات ڤون.	Kazuki278	2021-09-18 08:36:42	2021-09-18 08:36:42
-1705	0x6a9	ک	43	10126053	zlm	ڤندميک تق سرونوق.	Kazuki278	2021-06-24 10:28:14	2021-07-17 18:09:35
-1708	0x6ac	ڬ	7	10126117	zlm	ماس دڤن الڬيريا چره.	Kazuki278	2021-06-24 10:42:15	2021-07-17 18:07:08
-1725	0x6bd	ڽ	6	11970849	zlm	کاو اد راکيت سبيجيق ماچم اکو ڤوڽ.	Kazuki278	2023-07-31 08:43:07	2023-07-31 08:43:07
+1700	0x6a4	ڤ	57	10158865	zlm	اڤ هل؟	Kazuki278	2021-07-08 14:28:33	2021-07-08 14:28:48
+1705	0x6a9	ک	43	10337831	zlm	ايات اڤ يڠ کاو سوک دري موۏي تو؟	Kazuki278	2021-10-03 11:02:31	2021-10-03 11:02:31
+1708	0x6ac	ڬ	7	10126075	zlm	ڤندميک لڤس ني مستي لاڬي تروق.	Kazuki278	2021-06-24 10:35:20	2021-07-17 18:10:14
+1725	0x6bd	ڽ	6	11971086	zlm	اکو ده دڠر سمواڽ.	Kazuki278	2023-07-31 09:01:05	2023-07-31 09:01:05
 1743	0x6cf	ۏ	1	10337831	zlm	ايات اڤ يڠ کاو سوک دري موۏي تو؟	Kazuki278	2021-10-03 11:02:31	2021-10-03 11:02:31
-1890	0x762	ݢ	5	10337858	zlm	اکو ايڠتکن توم ني دولوڽ چيقݢو ڤرنچيس.	Kazuki278	2021-10-03 11:07:06	2021-10-03 11:07:06
-11841	0x2e41	⹁	4	10152773	zlm	کاو صبر⹁ کاو برجاي.	Kazuki278	2021-07-05 18:21:15	2021-07-17 18:08:22
+1890	0x762	ݢ	5	10157041	zlm	تقد ساڤ ݢون باڠونن تو سجق 2013.	Kazuki278	2021-07-07 16:49:08	2021-07-07 16:49:08
+11841	0x2e41	⹁	4	11970976	zlm	تاو لا کاو تو سيڠݢل⹁ تق ڤايه لا نق دڠکي.	Kazuki278	2023-07-31 08:52:55	2023-07-31 08:53:43
