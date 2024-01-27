@@ -59,53 +59,16 @@ def loadlanguagemap():
 
 def getwords(text):
   return findall(r"""(?:[\w#@-][\w#@'()/,:.-]*)?[\w#@-]""", cleanupforsplitting(text))
-  return findall(
-    r"""[\w#@(-][\w#@'()/,:.-]*[)][\w#@'()/,:.-]*[\w#@-]|"""
-    r"""[\w#@-][\w#@'()/,:.-]*[(][\w#@'()/,:.-]*[\w#@)-]|"""
-    r"""(?:[\w#@-][\w#@'()/,:.-]*)?(?:[^\W\d][.]){2,}(?![\w#@-])|"""
-    r"""(?:[\w#@-][\w#@'()/,:.-]*)?[\w#@-]"""
-  , cleanupforsplitting(text))
 
 def getwordsinenglish(text):
   return findall(r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""", cleanupforsplitting(text))
-  return findall(r"""(?:[^\s—―…'‘"“<«(\[{][^\s—―…]*)?[^\s—―…'’"”>»)\]},:;.?!‽؟]""", cleanupforsplitting(text))
-  return findall(
-    r"""[^\s—―…/'‘"“<«\[{][^\s—―…]*[)][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
-    r"""[^\s—―…/'‘"“<«(\[{][^\s—―…]*[(][^\s—―…]*[^\s—―…/'’"”>»\]},:;.?!‽؟]|"""
-    r"""(?:[^\s—―…/'‘"“<«(\[{][^\s—―…]*)?(?:[^\W\d]\.){2,}(?![^\s—―…/'’"”>»)\]},:;.?!‽؟])|"""
-    r"""(?:[^\s—―…/'‘"“<«(\[{][^\s—―…]*)?[^\s—―…/'’"”>»)\]},:;.?!‽؟]"""
-  , cleanupforsplitting(text))
-  return findall(r"[\w#@-](?:[\w#@'()/,:.-]*[\w#@-])?", cleanupforsplitting(text))
-  return findall(
-    r"""[(][^\s—―…]+[)][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
-    r"""[\[][^\s—―…]+[\]][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
-    r"""["][^\s—―…]+["][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
-    r"""[*][^\s—―…]+[*][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
-    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[(][^\s—―…]+[)]|"""
-    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[\[][^\s—―…]+[\]]|"""
-    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*["][^\s—―…]+["]|"""
-    r"""(?<![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])[/][^\s—―…]+[/](?![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])|"""
-    r"""(?<![/])[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[.][^\s—―…]*[/](?![\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-])|"""
-    r"""(?:[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*)?(?:[^\W\d]\.){2,}|"""
-    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-][^\s—―…]*[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹-]|"""
-    r"""[\w#$%&@¢£¤¥§©®°¶‰€™₣₤₩₪₫₰₳₴₵₹]"""
-  , cleanupforsplitting(text))
-  return findall(
-    r"""[^\s—―…/<«'‘“([{][^\s—―…]*["][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
-    r"""[^\s—―…/<«'‘"“[{][^\s—―…]*[)][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
-    r"""[^\s—―…/<«'‘"“([{][^\s—―…]*[(][^\s—―…]*[^\s—―…/'’"”>»\]},:;.?!‽؟]|"""
-    r"""[^\s—―…/<«'‘"“([{][^\s—―…]*[\[][^\s—―…]*[^\s—―…/'’"”>»)},:;.?!‽؟]|"""
-    r"""(?:[^\s—―…/<«'‘"“([{][^\s—―…]*)?(?:[^\W\d]\.){2,}|"""
-    r"""[^\s—―…/<«'‘"“([{][^\s—―…]*[^\s—―…/'’"”>»)\]},:;.?!‽؟]|"""
-    r"""[^\s—―…/<«'‘"“([{'’"”>»)\]},:;.?!‽؟]"""
-  , cleanupforsplitting(text))
 
 def getwordsinlanguage(janome, kkma, language, text):
   words = set()
   if language == "cmn":
     for token in cut(text):
       words.update(getwords(token))
-  elif language == "eng":
+  elif language in ("eng", "por"):
     words.update(getwordsinenglish(text))
   elif language == "jpn":
     for token in janome.tokenize(text):
@@ -113,8 +76,6 @@ def getwordsinlanguage(janome, kkma, language, text):
   elif language == "kor":
     for token in kkma.morphs(text):
       words.update(getwords(token))
-  elif language == "por":
-    words.update(getwordsinenglish(text))
   else:
     words.update(getwords(text))
   return words
@@ -703,6 +664,7 @@ def findduplicates():
   print("Writing duplicates...")
   read = open("sentences_detailed.csv", "r", encoding = "utf-8")
   language = {}
+  user = {}
   seen = {}
   if not isdir("duplicates"): 
     makedirs("duplicates")
@@ -712,14 +674,16 @@ def findduplicates():
     fields = findall(r"[^\t\n]+", line)
     if fields[1] not in language:
       language[fields[1]] = fields[1]
+    if fields[3] not in user:
+      user[fields[3]] = fields[3]
     sentence = hash(cleanupforhashing(fields[2]))
     if sentence in seen:
       if seen[sentence][1] == fields[1]:
-        print(str(seen[sentence][0]), fields[0], sep = "\t", file = same)
+        print(str(seen[sentence][0]), seen[sentence][1], seen[sentence][2], fields[0], fields[1], fields[3], sep = "\t", file = same)
       else:
-        print(str(seen[sentence][0]), fields[0], sep = "\t", file = different)
+        print(str(seen[sentence][0]), seen[sentence][1], seen[sentence][2], fields[0], fields[1], fields[3], sep = "\t", file = different)
     else:
-      seen[sentence] = (int(fields[0]), language[fields[1]])
+      seen[sentence] = (int(fields[0]), language[fields[1]], user[fields[3]])
   read.close()
   same.close()
   different.close()
