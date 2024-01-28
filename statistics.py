@@ -543,11 +543,11 @@ def analyzepunctuation():
       if findall(r"""([^.]|^)\.\.([^.]|$)""", fields[2], flags = I):
         print("Ellipsis: too short", line, sep = "\t", end = "", file = write)
 
-      # if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
-      #   print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
+      if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
+        print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
-      # if findall(r"""\d-\d""", fields[2], flags = I):
-      #   print("En dash: possible homoglyph", line, sep = "\t", end = "", file = write)
+      if findall(r"""\d-\d""", fields[2], flags = I):
+        print("En dash: homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("ber", "fra", "kab") and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -594,6 +594,9 @@ def analyzepunctuation():
 
       if findall(r"""\u200E""", fields[2], flags = I):
         print("Left-to-right mark", line, sep = "\t", end = "", file = write)
+
+      if findall(r"""x\d|\dx""", fields[2], flags = I):
+        print("Multiplication sign: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language not in ("glg", "ita", "por", "spa") and findall(r"""º""", fields[2], flags = I):
         print("Ordinal indicator: possible homoglyph", line, sep = "\t", end = "", file = write)
