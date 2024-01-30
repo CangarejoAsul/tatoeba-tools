@@ -511,6 +511,8 @@ def analyzepunctuation():
       if language not in ("nld", "tok") and find(r"""^((?!\.\.\.)(?!…)\W)*\p{Ll}""", fields[2]):
         print("Capitalization", line, sep = "\t", end = "", file = write)
 
+      if language in ("por",) and findall(r"""ç[ei]""", fields[2], flags = I):
+        print("Cedilla: followed by e or i", line, sep = "\t", end = "", file = write)
       if language in ("ron",) and findall(r"""[şţ]""", fields[2], flags = I):
         print("Cedilla: possible homoglyph", line, sep = "\t", end = "", file = write)
 
@@ -536,6 +538,9 @@ def analyzepunctuation():
 
       if findall(r"""[a-z][\u0430-\u044F]|[\u0430-\u044F][a-z]""", fields[2], flags = I):
         print("Cyrillic characters: possible homoglyphs", line, sep = "\t", end = "", file = write)
+
+      if language in ("por",) and findall(r"""ü""", fields[2], flags = I):
+        print("Dieresis: not used", line, sep = "\t", end = "", file = write)
 
       if findall(r"""\u2033""", fields[2], flags = I):
         print("Double prime: possible homoglyph", line, sep = "\t", end = "", file = write)
@@ -663,16 +668,16 @@ def analyzepunctuation():
     read.close()
     write.close()
 
-def findduplicates():
-  print("Writing duplicates...")
+def findsimilar():
+  print("Writing similar...")
   read = open("sentences_detailed.csv", "r", encoding = "utf-8")
   language = {}
   user = {}
   seen = {}
-  if not isdir("duplicates"): 
-    makedirs("duplicates")
-  same = open("duplicates/duplicates-same.txt", "w", encoding = "utf-8")
-  different = open("duplicates/duplicates-different.txt", "w", encoding = "utf-8")
+  if not isdir("similar"): 
+    makedirs("similar")
+  write = {}
+  write["!"] = open("similar/similar.txt", "w", encoding = "utf-8")
   for line in read:
     fields = findall(r"[^\t\n]+", line)
     if fields[1] not in language:
@@ -682,14 +687,16 @@ def findduplicates():
     sentence = hash(cleanupforhashing(fields[2]))
     if sentence in seen:
       if seen[sentence][1] == fields[1]:
-        print(str(seen[sentence][0]), seen[sentence][1], seen[sentence][2], fields[0], fields[1], fields[3], sep = "\t", file = same)
+        if fields[1] not in write:
+          write[fields[1]] = open("similar/similar-" + fields[1] + ".txt", "w", encoding = "utf-8")
+        print(str(seen[sentence][0]), seen[sentence][2], fields[0], fields[3], sep = "\t", file = write[fields[1]])
       else:
-        print(str(seen[sentence][0]), seen[sentence][1], seen[sentence][2], fields[0], fields[1], fields[3], sep = "\t", file = different)
+        print(str(seen[sentence][0]), seen[sentence][1], seen[sentence][2], fields[0], fields[1], fields[3], sep = "\t", file = write["!"])
     else:
       seen[sentence] = (int(fields[0]), language[fields[1]], user[fields[3]])
   read.close()
-  same.close()
-  different.close()
+  for tongue in write:
+    write[tongue].close()
 
 writelanguageset()
 print("")
@@ -709,4 +716,4 @@ selectsentences()
 print("")
 analyzepunctuation()
 print("")
-findduplicates()
+findsimilar()
