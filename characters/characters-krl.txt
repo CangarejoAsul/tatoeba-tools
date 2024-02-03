@@ -1,71 +1,71 @@
-32	0x20	 	502	7321845	krl	Minun nimi on Hopkins.	\N	2018-10-21 11:56:35	2018-12-20 10:02:25
-33	0x21	!	30	12201692	krl	Muu!	polski_ren	2023-12-09 14:05:54	2023-12-09 14:05:54
+32	0x20	 	502	7321315	krl	Šeizov külä joven rannalla.	\N	2018-10-21 10:38:16	2018-12-20 10:03:19
+33	0x21	!	30	9934829	krl	Ole hyvä!	Thanuir	2021-04-03 15:12:26	2021-04-03 15:12:26
 34	0x22	"	2	7321663	krl	Kui sanuo "ikkuna" karjalakse?	\N	2018-10-21 11:27:14	2020-02-11 19:01:04
 39	0x27	'	4	7321323	krl	Šielä on nel'l'äkümmendä taluo.	\N	2018-10-21 10:39:04	2018-12-20 10:02:28
-44	0x2c	,	62	7321737	krl	Kymmene, yksitostu, kaksitostu, kolmetostu, nellitostu, viizitostu, kuuzitostu, seiččietostu, kaheksatostu, yheksätostu, kaksikymmen.	\N	2018-10-21 11:36:57	2018-12-20 10:02:54
-46	0x2e	.	150	10232376	krl	Mečoin kannat ollah kazvettu jo nellätty vuottu peräkkäi.	Thanuir	2021-08-10 13:54:46	2021-08-10 13:54:57
+44	0x2c	,	62	7321503	krl	Hyviä yödy, Tom.	\N	2018-10-21 11:05:30	2018-12-20 10:01:53
+46	0x2e	.	150	7327919	krl	Šie et ole vanha.	\N	2018-10-22 17:40:19	2018-12-20 10:02:18
 48	0x30	0	10	9833799	krl	Suomes eläy 10 000 saamelastu.	Thanuir	2021-03-09 13:58:09	2021-03-09 13:58:15
-49	0x31	1	7	8679208	krl	Ken kuoli 16. tuhukuudu?	Thanuir	2020-04-14 08:52:21	2020-04-14 08:52:21
+49	0x31	1	7	8633602	krl	Talvisoda loppih rauhah 13.3.1940.	Thanuir	2020-03-25 18:55:12	2020-03-25 18:55:12
 50	0x32	2	4	8636726	krl	Kanduarvivon mugah kezäl oli 32 ilvesty.	Thanuir	2020-03-26 20:11:18	2020-03-26 20:11:22
-51	0x33	3	4	8636726	krl	Kanduarvivon mugah kezäl oli 32 ilvesty.	Thanuir	2020-03-26 20:11:18	2020-03-26 20:11:22
-52	0x34	4	2	8661023	krl	Valdivon pinduala on 2472,7 km².	Thanuir	2020-04-06 13:29:14	2020-04-06 13:29:20
+51	0x33	3	4	8679169	krl	Kettunen on roinnuhes vuvvennu 1937.	Thanuir	2020-04-14 06:48:40	2020-04-14 06:48:40
+52	0x34	4	2	8633602	krl	Talvisoda loppih rauhah 13.3.1940.	Thanuir	2020-03-25 18:55:12	2020-03-25 18:55:12
 53	0x35	5	1	8679189	krl	Ken rodihes 25. oraskuudu?	Thanuir	2020-04-14 07:57:31	2020-04-14 07:57:31
-54	0x36	6	2	9042294	krl	Infl’acii oli 0,6 prosentua.	Thanuir	2020-09-16 10:25:25	2020-09-16 10:25:31
+54	0x36	6	2	8679208	krl	Ken kuoli 16. tuhukuudu?	Thanuir	2020-04-14 08:52:21	2020-04-14 08:52:21
 55	0x37	7	3	8661023	krl	Valdivon pinduala on 2472,7 km².	Thanuir	2020-04-06 13:29:14	2020-04-06 13:29:20
-57	0x39	9	2	8633602	krl	Talvisoda loppih rauhah 13.3.1940.	Thanuir	2020-03-25 18:55:12	2020-03-25 18:55:12
+57	0x39	9	2	8679169	krl	Kettunen on roinnuhes vuvvennu 1937.	Thanuir	2020-04-14 06:48:40	2020-04-14 06:48:40
 63	0x3f	?	19	7321832	krl	Kus on Jim?	\N	2018-10-21 11:53:24	2018-12-20 10:01:36
-65	0x41	A	5	7321436	krl	Jiägiä tervehekse, Anna!	\N	2018-10-21 10:56:50	2018-12-20 10:03:37
+65	0x41	A	5	7321864	krl	Avvutakkua!	\N	2018-10-21 12:01:54	2018-12-20 10:02:04
 67	0x43	C	1	7321420	krl	Terveh, Chicago!	Thanuir	2018-10-21 10:54:39	2019-03-06 14:17:48
 68	0x44	D	1	7321507	krl	Hyviä yödy, Dan.	\N	2018-10-21 11:06:02	2018-12-20 10:03:23
 69	0x45	E	1	9143780	krl	Enzimäine lumi on tulemas.	Thanuir	2020-10-14 14:21:08	2020-10-14 14:21:14
-72	0x48	H	28	8679179	krl	Hora oli enzimäine Karjalas.	Thanuir	2020-04-14 07:22:55	2020-04-14 07:22:55
-73	0x49	I	5	5192311	krl	Ihaloiče kaikkie, midä on ymbäri.	sikmir	2016-06-04 20:32:09	2016-06-04 20:43:43
-74	0x4a	J	11	7321430	krl	Jiägiä tervehekse, Sayoko.	\N	2018-10-21 10:56:12	2018-12-20 10:01:56
-75	0x4b	K	29	7321832	krl	Kus on Jim?	\N	2018-10-21 11:53:24	2018-12-20 10:01:36
-76	0x4c	L	4	8634862	krl	Lapsi on miärätty karantiinah.	Thanuir	2020-03-26 06:14:47	2020-03-26 06:14:53
-77	0x4d	M	39	7321853	krl	Minun nimi on Henry.	\N	2018-10-21 11:57:28	2018-12-20 10:01:50
-78	0x4e	N	3	9559963	krl	Niilöis tuotetah sähkyö.	Thanuir	2020-12-30 11:00:01	2020-12-30 11:00:08
-79	0x4f	O	7	7321861	krl	Ole hyvä, pagize hillembäh!	\N	2018-10-21 12:00:56	2018-12-20 10:02:23
-80	0x50	P	14	10754182	krl	Pagomatkat kestettih mondu päiviä.	Thanuir	2022-04-05 06:07:58	2022-04-05 06:08:04
+72	0x48	H	28	5192378	krl	Hyviä Kalevalan päiviä!	sikmir	2016-06-04 21:11:22	2016-06-04 21:11:29
+73	0x49	I	5	5192331	krl	Ihastu päivänpastuo.	sikmir	2016-06-04 20:42:50	2016-06-04 20:43:09
+74	0x4a	J	11	7321427	krl	Jiägiä tervehekse!	\N	2018-10-21 10:55:46	2018-12-20 10:02:07
+75	0x4b	K	29	7321830	krl	Kus on Pariisi?	\N	2018-10-21 11:53:15	2018-12-20 10:01:41
+76	0x4c	L	4	10834369	krl	Lapset opastutah pyöräilemäh.	Thanuir	2022-05-16 11:47:12	2022-05-16 11:47:12
+77	0x4d	M	39	7327829	krl	Mie en ole nuori.	\N	2018-10-22 17:16:11	2018-12-20 10:01:31
+78	0x4e	N	3	8636744	krl	Tazavallan prezidentu on Sauli Niinistö.	Thanuir	2020-03-26 20:20:36	2020-03-26 20:20:42
+79	0x4f	O	7	7321862	krl	Ole hyvä, pagize hillembäh.	\N	2018-10-21 12:01:12	2018-12-20 10:02:56
+80	0x50	P	14	10597376	krl	Pruazniekku on perävytetty.	Thanuir	2021-12-31 10:56:56	2021-12-31 10:56:56
 82	0x52	R	3	9230550	krl	Riäpöi on kala.	Thanuir	2020-11-02 12:30:55	2020-11-02 12:31:04
-83	0x53	S	15	9768798	krl	Se on suuri iloviesti.	Thanuir	2021-02-16 10:52:43	2021-02-16 10:52:51
-84	0x54	T	43	7327921	krl	Työ että ole vanha.	\N	2018-10-22 17:40:36	2018-12-20 10:02:15
+83	0x53	S	15	5192337	krl	Seizo oigieh.	sikmir	2016-06-04 20:45:49	2016-06-04 21:00:25
+84	0x54	T	43	7327895	krl	Tämä kukka on vihandu.	\N	2018-10-22 17:29:32	2018-12-20 10:03:25
 85	0x55	U	1	10329189	krl	Uskon.	Thanuir	2021-09-29 16:02:27	2021-09-29 16:02:27
-86	0x56	V	8	9722358	krl	Vien piäl on lumikerros.	Thanuir	2021-02-04 12:03:06	2021-02-04 12:03:12
+86	0x56	V	8	8636770	krl	Viizan suau viijekse vuottu.	Thanuir	2020-03-26 20:34:54	2020-03-26 20:34:54
 87	0x57	W	1	7321850	krl	Minun nimi on Wang.	\N	2018-10-21 11:57:08	2018-12-20 10:03:08
-89	0x59	Y	5	7321702	krl	Yksi, kaksi, kolme, nelli, viizi, kuuzi, seiččie, kaheksa, yheksä, kymmene.	\N	2018-10-21 11:31:58	2018-12-20 10:01:20
-97	0x61	a	301	7327870	krl	Tämä kukka on oranževoi.	\N	2018-10-22 17:24:54	2018-12-20 10:02:06
-98	0x62	b	15	5192333	krl	Juo enämbi vetty.	sikmir	2016-06-04 20:44:22	2016-06-04 20:44:33
-99	0x63	c	4	9042294	krl	Infl’acii oli 0,6 prosentua.	Thanuir	2020-09-16 10:25:25	2020-09-16 10:25:31
-100	0x64	d	66	7321846	krl	Minun nimi on Yamada.	\N	2018-10-21 11:56:43	2018-12-20 10:03:15
-101	0x65	e	324	7321451	krl	Hyviä huondestu, Mike.	\N	2018-10-21 10:58:48	2018-12-20 10:02:02
-102	0x66	f	2	7327872	krl	Tämä kukka on fiolietovoi.	\N	2018-10-22 17:25:48	2018-12-20 10:03:36
+89	0x59	Y	5	7321816	krl	Ylen hyvin.	\N	2018-10-21 11:49:28	2018-12-20 10:01:30
+97	0x61	a	301	8679204	krl	Valdivo rajoittuu valdumerenke.	Thanuir	2020-04-14 08:51:22	2020-04-14 08:51:22
+98	0x62	b	15	7321861	krl	Ole hyvä, pagize hillembäh!	\N	2018-10-21 12:00:56	2018-12-20 10:02:23
+99	0x63	c	4	7321844	krl	Minun nimi on Jack.	\N	2018-10-21 11:56:23	2018-12-20 10:03:11
+100	0x64	d	66	10460374	krl	Kanduarvivo on pienennyh.	Thanuir	2021-10-25 12:33:12	2021-10-25 12:33:12
+101	0x65	e	324	7327916	krl	Myö emmä ole vanha.	\N	2018-10-22 17:38:22	2018-12-20 10:03:20
+102	0x66	f	2	9042294	krl	Infl’acii oli 0,6 prosentua.	Thanuir	2020-09-16 10:25:25	2020-09-16 10:25:31
 103	0x67	g	36	7321428	krl	Jiägiä tervehekse.	\N	2018-10-21 10:55:59	2018-12-20 10:02:22
-104	0x68	h	103	7321415	krl	Terveh.	Thanuir	2018-10-21 10:53:50	2019-03-06 14:26:24
-105	0x69	i	413	7321308	krl	Puasinkoi on pieni karielan külä Tverin mualla.	\N	2018-10-21 10:36:04	2018-12-20 10:01:25
-106	0x6a	j	26	8636770	krl	Viizan suau viijekse vuottu.	Thanuir	2020-03-26 20:34:54	2020-03-26 20:34:54
-107	0x6b	k	201	7321767	krl	Kymmene, kaksikymmen, kolmekymmen, nellikymmen, viizikymmen, kuuzikymmen, seiččiekymmen, kaheksakymmen, yheksäkymmen, sada.	\N	2018-10-21 11:41:56	2018-12-20 10:01:52
-108	0x6c	l	183	5192385	krl	Tänäpäi tuulou pohjazespäi.	sikmir	2016-06-04 21:13:04	2016-06-04 21:13:13
-109	0x6d	m	119	7327870	krl	Tämä kukka on oranževoi.	\N	2018-10-22 17:24:54	2018-12-20 10:02:06
-110	0x6e	n	311	8633642	krl	Rajanylityspaikku hillenöy.	Thanuir	2020-03-25 19:17:56	2020-03-25 19:18:02
-111	0x6f	o	266	7321323	krl	Šielä on nel'l'äkümmendä taluo.	\N	2018-10-21 10:39:04	2018-12-20 10:02:28
-112	0x70	p	51	9602370	krl	Tädä oigevustu ei sua käyttiä tagahajamizes, ku toven sen perustehennu on ebäpoliittine pahanruado, libo tego, kudai ei sovi Yhtistynnyzien Kanzukundien Organizatsien tavoittehih da printsippoih.	Thanuir	2021-01-07 09:25:12	2021-01-07 09:25:20
-114	0x72	r	99	7321427	krl	Jiägiä tervehekse!	\N	2018-10-21 10:55:46	2018-12-20 10:02:07
-115	0x73	s	150	7321737	krl	Kymmene, yksitostu, kaksitostu, kolmetostu, nellitostu, viizitostu, kuuzitostu, seiččietostu, kaheksatostu, yheksätostu, kaksikymmen.	\N	2018-10-21 11:36:57	2018-12-20 10:02:54
-116	0x74	t	211	7321510	krl	Kuibo dielot?	Thanuir	2018-10-21 11:06:54	2019-11-20 12:33:23
-117	0x75	u	258	9602370	krl	Tädä oigevustu ei sua käyttiä tagahajamizes, ku toven sen perustehennu on ebäpoliittine pahanruado, libo tego, kudai ei sovi Yhtistynnyzien Kanzukundien Organizatsien tavoittehih da printsippoih.	Thanuir	2021-01-07 09:25:12	2021-01-07 09:25:20
-118	0x76	v	133	7321767	krl	Kymmene, kaksikymmen, kolmekymmen, nellikymmen, viizikymmen, kuuzikymmen, seiččiekymmen, kaheksakymmen, yheksäkymmen, sada.	\N	2018-10-21 11:41:56	2018-12-20 10:01:52
-121	0x79	y	98	7321767	krl	Kymmene, kaksikymmen, kolmekymmen, nellikymmen, viizikymmen, kuuzikymmen, seiččiekymmen, kaheksakymmen, yheksäkymmen, sada.	\N	2018-10-21 11:41:56	2018-12-20 10:01:52
-122	0x7a	z	40	7321767	krl	Kymmene, kaksikymmen, kolmekymmen, nellikymmen, viizikymmen, kuuzikymmen, seiččiekymmen, kaheksakymmen, yheksäkymmen, sada.	\N	2018-10-21 11:41:56	2018-12-20 10:01:52
+104	0x68	h	103	7321702	krl	Yksi, kaksi, kolme, nelli, viizi, kuuzi, seiččie, kaheksa, yheksä, kymmene.	\N	2018-10-21 11:31:58	2018-12-20 10:01:20
+105	0x69	i	413	7321621	krl	Pagizetko sinä angliekse?	\N	2018-10-21 11:24:00	2018-12-20 10:03:13
+106	0x6a	j	26	7321599	krl	Minä en pagize karjalakse.	\N	2018-10-21 11:22:04	2018-12-20 10:02:00
+107	0x6b	k	201	7321844	krl	Minun nimi on Jack.	\N	2018-10-21 11:56:23	2018-12-20 10:03:11
+108	0x6c	l	183	10044247	krl	Pellastuslaitos sammutti tulipalon.	Thanuir	2021-05-17 17:42:46	2021-05-17 17:42:52
+109	0x6d	m	119	9512778	krl	Häi tiedäy, midä pagizou.	Thanuir	2020-12-21 13:27:13	2020-12-21 13:27:23
+110	0x6e	n	311	7321860	krl	Minä tulin Shikoku.	\N	2018-10-21 11:59:47	2018-12-20 10:01:29
+111	0x6f	o	266	7321830	krl	Kus on Pariisi?	\N	2018-10-21 11:53:15	2018-12-20 10:01:41
+112	0x70	p	51	7321845	krl	Minun nimi on Hopkins.	\N	2018-10-21 11:56:35	2018-12-20 10:02:25
+114	0x72	r	99	8679189	krl	Ken rodihes 25. oraskuudu?	Thanuir	2020-04-14 07:57:31	2020-04-14 07:57:31
+115	0x73	s	150	7321599	krl	Minä en pagize karjalakse.	\N	2018-10-21 11:22:04	2018-12-20 10:02:00
+116	0x74	t	211	7321446	krl	Hyviä huondestu.	\N	2018-10-21 10:58:22	2018-12-20 10:02:24
+117	0x75	u	258	7321477	krl	Hyviä ildua.	\N	2018-10-21 11:01:58	2018-12-20 10:01:19
+118	0x76	v	133	7327921	krl	Työ että ole vanha.	\N	2018-10-22 17:40:36	2018-12-20 10:02:15
+121	0x79	y	98	7321867	krl	Teijän tervehyökse!	\N	2018-10-21 12:02:42	2018-12-20 10:02:57
+122	0x7a	z	40	7321315	krl	Šeizov külä joven rannalla.	\N	2018-10-21 10:38:16	2018-12-20 10:03:19
 178	0xb2	²	1	8661023	krl	Valdivon pinduala on 2472,7 km².	Thanuir	2020-04-06 13:29:14	2020-04-06 13:29:20
 196	0xc4	Ä	3	7321786	krl	Äijygo vuottu sinul on, Tom?	Thanuir	2018-10-21 11:45:33	2019-11-20 09:03:55
-228	0xe4	ä	165	5192359	krl	Terväh tulou kezä.	sikmir	2016-06-04 21:01:43	2016-06-04 21:01:58
-246	0xf6	ö	20	7321499	krl	Hyviä yödy!	\N	2018-10-21 11:04:53	2018-12-20 10:01:37
-252	0xfc	ü	4	7321308	krl	Puasinkoi on pieni karielan külä Tverin mualla.	\N	2018-10-21 10:36:04	2018-12-20 10:01:25
-269	0x10d	č	15	7321702	krl	Yksi, kaksi, kolme, nelli, viizi, kuuzi, seiččie, kaheksa, yheksä, kymmene.	\N	2018-10-21 11:31:58	2018-12-20 10:01:20
-352	0x160	Š	7	7321323	krl	Šielä on nel'l'äkümmendä taluo.	\N	2018-10-21 10:39:04	2018-12-20 10:02:28
-353	0x161	š	8	7327911	krl	Mieš on vanha.	\N	2018-10-22 17:36:24	2018-12-20 10:01:34
-382	0x17e	ž	6	7321809	krl	Minul on žiäli.	\N	2018-10-21 11:48:30	2018-12-20 10:03:26
+228	0xe4	ä	165	5192341	krl	Igä elä – igä opastu.	sikmir	2016-06-04 20:47:42	2016-06-04 20:47:46
+246	0xf6	ö	20	7327944	krl	Työ oletta vanha.	\N	2018-10-22 17:45:00	2018-12-20 10:02:55
+252	0xfc	ü	4	8196106	krl	Hüviä uuttu vuottu!	Thanuir	2019-09-19 13:25:43	2019-09-19 13:25:46
+269	0x10d	č	15	5192311	krl	Ihaloiče kaikkie, midä on ymbäri.	sikmir	2016-06-04 20:32:09	2016-06-04 20:43:43
+352	0x160	Š	7	7327943	krl	Šie olet vanha.	\N	2018-10-22 17:44:25	2018-12-20 10:02:59
+353	0x161	š	8	7327822	krl	Tämä naine ei ole šoma.	\N	2018-10-22 17:12:42	2018-12-20 10:01:40
+382	0x17e	ž	6	7321811	krl	Minul on žiäli!	\N	2018-10-21 11:48:41	2018-12-20 10:02:01
 1072	0x430	а	3	9059608	krl	юмолануолиїнимижи ноулисѣханолиомобоу юмоласоудьнииохови	Thanuir	2020-09-22 10:56:12	2020-09-22 10:56:12
 1073	0x431	б	1	9059608	krl	юмолануолиїнимижи ноулисѣханолиомобоу юмоласоудьнииохови	Thanuir	2020-09-22 10:56:12	2020-09-22 10:56:12
 1074	0x432	в	1	9059608	krl	юмолануолиїнимижи ноулисѣханолиомобоу юмоласоудьнииохови	Thanuir	2020-09-22 10:56:12	2020-09-22 10:56:12
@@ -84,4 +84,4 @@
 1111	0x457	ї	1	9059608	krl	юмолануолиїнимижи ноулисѣханолиомобоу юмоласоудьнииохови	Thanuir	2020-09-22 10:56:12	2020-09-22 10:56:12
 1123	0x463	ѣ	1	9059608	krl	юмолануолиїнимижи ноулисѣханолиомобоу юмоласоудьнииохови	Thanuir	2020-09-22 10:56:12	2020-09-22 10:56:12
 8211	0x2013	–	1	5192341	krl	Igä elä – igä opastu.	sikmir	2016-06-04 20:47:42	2016-06-04 20:47:46
-8217	0x2019	’	4	10020570	krl	Kil’l’uihanhi on varavonalaine.	Thanuir	2021-05-10 10:42:09	2021-05-10 10:42:16
+8217	0x2019	’	4	9042294	krl	Infl’acii oli 0,6 prosentua.	Thanuir	2020-09-16 10:25:25	2020-09-16 10:25:31

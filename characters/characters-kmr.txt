@@ -1,109 +1,109 @@
-32	0x20	 	42868	9696682	kmr	Li ser mirov tesîreke pir xweş çê dike.	CrowdsourceKurdish	2021-01-27 10:14:17	2021-01-27 10:14:17
-33	0x21	!	198	9727492	kmr	Li min porkurê!	CrowdsourceKurdish	2021-02-05 19:00:16	2021-02-05 19:00:16
-34	0x22	"	117	11017451	kmr	"Mamosteyên we ji ku derê bûn?" "Fînlandiya."	CrowdsourceKurdish	2022-07-23 14:50:02	2022-07-23 14:50:02
-39	0x27	'	28	11024921	kmr	Min tu di PES'ê de girtî.	janTuki	2022-07-26 00:40:06	2022-07-26 00:40:06
+32	0x20	 	42868	11448505	kmr	Min navê wî ji bîr kir.	janTuki	2023-01-09 19:34:55	2023-01-09 19:34:55
+33	0x21	!	198	9728176	kmr	Bi dilekî mezin ez hêviyê ji bo te dixwazim!	CrowdsourceKurdish	2021-02-05 20:52:25	2021-02-05 20:52:25
+34	0x22	"	117	8350734	kmr	"Eşq" bi fransî çi ye?	Adelpa	2019-11-27 19:43:29	2020-10-13 03:21:45
+39	0x27	'	28	11607409	kmr	William'î bi tevahî vê çalakiyê ji bîr kir.	janTuki	2023-03-20 00:58:26	2023-03-20 00:58:26
 40	0x28	(	4	8752499	kmr	Yek xulek ji 60 çirkeyan (saniyan) pêk tê.	Cibrani	2020-05-10 21:47:18	2020-10-26 08:16:54
-41	0x29	)	4	8752499	kmr	Yek xulek ji 60 çirkeyan (saniyan) pêk tê.	Cibrani	2020-05-10 21:47:18	2020-10-26 08:16:54
-44	0x2c	,	1032	9616417	kmr	Ji bo çûn û hatineke biewle, hinek pîvanên veguhezînê hene.	CrowdsourceKurdish	2021-01-08 21:09:19	2021-01-08 21:09:19
-45	0x2d	-	11	8393828	kmr	Nur-Sultan paytexta Qazaxistanê ye.	Adelpa	2019-12-20 21:34:16	2020-10-13 03:37:17
-46	0x2e	.	8877	9815053	kmr	Li bebekê miqate be.	Cibrani	2021-03-01 09:18:48	2021-03-01 09:18:48
+41	0x29	)	4	9141420	kmr	Êdî kurdî(kurmancî) jî di tatoebayê de ye.	CrowdsourceKurdish	2020-10-13 13:52:56	2020-10-13 13:53:11
+44	0x2c	,	1032	8342986	kmr	Yek, dido, sisê, çar, pênc, şeş, heft, heşt, neh, deh.	Adelpa	2019-11-23 20:31:41	2020-10-12 21:44:48
+45	0x2d	-	11	8410977	kmr	Nur-Sultan serbajarê Qazaxistanê ye.	Adelpa	2019-12-28 12:37:57	2020-10-13 03:40:55
+46	0x2e	.	8877	9697009	kmr	Ji bo dîtina aliyan, amûra herî bibawer û baş, pisûle ye.	CrowdsourceKurdish	2021-01-27 11:55:56	2021-01-27 11:55:56
 47	0x2f	/	1	9164267	kmr	Tu şaş ê/î.	HusseinHasso	2020-10-19 18:45:13	2020-10-26 08:17:29
-48	0x30	0	20	9006756	kmr	Lingên min 40 nimre ye.	Cibrani	2020-08-31 20:46:11	2020-10-26 08:17:00
+48	0x30	0	20	9815081	kmr	Tom ji min rica kir ku ez wî saet di 2:30an de hişyar bikim.	Cibrani	2021-03-01 09:28:41	2021-03-01 09:28:41
 49	0x31	1	25	11011844	kmr	Dema ku beşa dawî ya "The Sopranos"ê di sala 2007an de hatibû weşandin, berê 11,9 milyon Amerîkiyan dabû ber televîzyonê.	CrowdsourceKurdish	2022-07-21 18:26:41	2022-08-01 14:42:19
-50	0x32	2	16	9815081	kmr	Tom ji min rica kir ku ez wî saet di 2:30an de hişyar bikim.	Cibrani	2021-03-01 09:28:41	2021-03-01 09:28:41
-51	0x33	3	9	9969139	kmr	Kiloxê mirov ji 23 hestiyan pêk tê.	biyolojiyabikurdi	2021-04-18 18:30:48	2021-04-18 18:30:48
-52	0x34	4	9	1498032	kmr	Automobîlê de 4 mirov hebun kengî wê qeza kir.	Keder	2012-03-22 02:32:48	2020-10-26 08:15:51
-53	0x35	5	8	10484876	kmr	Tenê 250 saetên me mane.	Sarchia	2021-11-04 16:53:14	2021-11-04 16:53:14
-54	0x36	6	8	9615638	kmr	Li kantona me, zarokên ku temenê wan dibin 6 sal, navê xwe tomar dikin.	CrowdsourceKurdish	2021-01-08 19:56:46	2021-01-08 19:56:46
-55	0x37	7	4	10725120	kmr	Di sala 1071an de deriyên Anatolyayê ji tirkan re hatin vekirin.	janTuki	2022-03-19 05:52:16	2022-03-19 05:52:16
-56	0x38	8	5	9392912	kmr	Hejmara vê otobusê 38 e.	CrowdsourceKurdish	2020-11-28 01:55:02	2021-02-06 09:53:37
-57	0x39	9	9	10724489	kmr	Ez di 12ê pûşperê 1998an de hatime dinyayê.	janTuki	2022-03-18 19:25:48	2022-03-18 19:25:48
-58	0x3a	:	14	9158949	kmr	Tu zanê tê çawa şagirtekî serkeftî bê? Hevalekî min ev piřsa ji min piřsî û eva hîşt ku ez vê gotarê binivîsim. Bona min, bingeha zêřîn ev e : Ji hostêd xwe fêr bibe û ji ezmûnê xwe řa řind bixûne. Ji hostêd xwe piřsa bipiřse heger tu ne piştrast bê ji tiştekî û beşdarî ke di waneya da. Di paşîyê da, tê bi şagirtekî serkeftî bê heger tu pêşketê bi heval û mamostêd xwe řa.	HusseinHasso	2020-10-18 00:46:12	2020-10-26 08:17:20
-59	0x3b	;	11	9155789	kmr	Ew qet fêm nake; serê wî weke kevirekî hişk e.	Gavbigav	2020-10-17 16:31:12	2020-10-26 08:17:14
-63	0x3f	?	1081	8705432	kmr	Ji bo çi bikî hatî li vir ?	brzn	2020-04-23 19:12:15	2020-10-26 08:16:36
-65	0x41	A	161	9696899	kmr	Ava ku em vedixwin jî pêwîst e paqij be.	CrowdsourceKurdish	2021-01-27 11:25:28	2021-01-27 11:25:28
-66	0x42	B	526	9144054	kmr	Bi rastî jî ez heyranê wî me.	CrowdsourceKurdish	2020-10-14 17:25:43	2020-10-14 17:25:43
-67	0x43	C	90	9616622	kmr	Yekşema duyem ji heyva gulanê, Cejna Dayîkê ye.	CrowdsourceKurdish	2021-01-08 21:19:50	2021-01-08 21:19:50
-68	0x44	D	705	9819502	kmr	Dema ez xwendekarek bûm, min gelek caran jê re nivîsand.	Cibrani	2021-03-03 08:36:24	2021-03-03 08:36:24
-69	0x45	E	2940	8327333	kmr	Ez pir birçî me.	Adelpa	2019-11-16 22:18:46	2020-10-12 21:40:55
-70	0x46	F	57	8786701	kmr	Hûn bi xêr hatin Fransa!	dilo1	2020-05-24 12:47:25	2020-10-26 08:16:56
-71	0x47	G	133	9727219	kmr	Gelek kes nanê sêlê difiroşin û bi vî awayî dahata malbata xwe dabîn dikin.	CrowdsourceKurdish	2021-02-05 18:38:40	2021-02-05 18:38:40
-72	0x48	H	685	9766343	kmr	Hûn ê biajon.	CrowdsourceKurdish	2021-02-15 18:18:32	2021-02-15 18:18:32
-73	0x49	I	10	8411002	kmr	Bexda serbajarê Iraqê ye.	Adelpa	2019-12-28 12:49:18	2020-10-13 03:41:57
-74	0x4a	J	327	9823194	kmr	Ji sedî şêst û şeş ê mêvanan biyanî ne.	Cibrani	2021-03-04 19:37:46	2021-03-04 19:37:46
-75	0x4b	K	333	8665317	kmr	Kombersa min bi hêz e.	Cibrani	2020-04-08 19:30:49	2020-10-26 08:16:33
-76	0x4c	L	241	10537587	kmr	Li malê odeya min a razanê heye.	Sarchia	2021-11-30 14:58:08	2021-11-30 14:58:08
-77	0x4d	M	917	1552748	kmr	Tom da Mary hin pendên pratîk.	Keder	2012-04-28 00:15:42	2020-10-26 08:16:05
-78	0x4e	N	259	11056980	kmr	Nîşana li ser derî çi dibêje?	Sarchia	2022-08-12 14:07:39	2022-08-12 14:07:39
-79	0x4f	O	30	9729777	kmr	Odeyên we yên vala hene?	CrowdsourceKurdish	2021-02-06 08:23:43	2021-02-06 08:23:43
-80	0x50	P	275	9696825	kmr	Piştre min bi malbata xwe re taştê xwar.	CrowdsourceKurdish	2021-01-27 10:47:53	2021-01-27 10:47:53
-81	0x51	Q	42	9729713	kmr	Qewet be ji we re.	CrowdsourceKurdish	2021-02-06 08:16:38	2021-02-06 08:16:38
-82	0x52	R	165	9616564	kmr	Her sal di cotmehê de duşema despêkê, weke Roja Zarokên Cîhanî tê pîrozkirin.	CrowdsourceKurdish	2021-01-08 21:17:23	2021-01-08 21:17:23
-83	0x53	S	274	10552790	kmr	Samî derî girt.	Sarchia	2021-12-09 16:20:14	2021-12-09 16:20:14
-84	0x54	T	1474	9820453	kmr	Min doh bi Tom re şer kir.	Cibrani	2021-03-03 18:47:11	2021-03-03 18:47:11
-85	0x55	U	3	3469821	kmr	Xweda got: "Ronahî bila werin!" U ronî hat.	Kadar	2014-09-04 02:32:20	2020-10-26 08:16:14
-86	0x56	V	44	9728085	kmr	Vî karî berdewam bike.	CrowdsourceKurdish	2021-02-05 20:44:09	2021-02-05 20:44:09
-87	0x57	W	722	10019771	kmr	Wan got ew ê meyldar bibûna vê çê bikin.	canistrophedon	2021-05-10 08:09:50	2021-05-10 08:09:50
-88	0x58	X	178	9697744	kmr	Xwendekar di hundirê lîstikgehê de bi serbestî belav dibin.	CrowdsourceKurdish	2021-01-27 17:29:55	2021-01-27 17:29:55
-89	0x59	Y	49	11607418	kmr	Yên ku ne ronakbîr in her dem feqîr in.	janTuki	2023-03-20 01:06:59	2023-03-20 01:06:59
-90	0x5a	Z	106	10826635	kmr	Zikê min diêşe.	janTuki	2022-05-14 03:04:41	2022-05-14 03:04:41
-97	0x61	a	16448	9802379	kmr	Tenê bi rêber re tu vê têketina taybet bi dest dixî.	CrowdsourceKurdish	2021-02-24 17:48:54	2021-02-24 17:48:54
-98	0x62	b	8555	9152754	kmr	Mary li te borî.	Kadar	2020-10-17 00:44:02	2020-10-26 08:17:11
-99	0x63	c	930	1510895	kmr	Ez dixwazim bixwazim chi ku tu dixwazî.	Keder	2012-03-31 18:11:56	2020-10-26 08:15:56
-100	0x64	d	7892	9797795	kmr	Ew ê baz nedin.	CrowdsourceKurdish	2021-02-23 16:05:37	2021-02-23 16:05:37
-101	0x65	e	24374	9727560	kmr	Xweş tê guhê mere!	CrowdsourceKurdish	2021-02-05 19:06:57	2021-02-05 19:06:57
-102	0x66	f	726	11013379	kmr	Li Fal kafeyê li fala xwe da nêrîn.	CrowdsourceKurdish	2022-07-22 04:43:05	2022-07-22 04:43:05
-103	0x67	g	1641	9825578	kmr	Heke ne pirsgirêk be, ez ê aniha veqetim.	Cibrani	2021-03-05 19:55:19	2021-03-05 19:55:19
-104	0x68	h	3556	1526168	kmr	Shev bash, dayê.	Keder	2012-04-10 23:02:07	2020-10-26 08:15:59
-105	0x69	i	23474	8723104	kmr	Li bajarê me pirtûkxaneyek heye.	dilo1	2020-04-28 13:22:27	2020-10-26 08:16:42
-106	0x6a	j	2823	9969193	kmr	Yanni ji herriyê hestiyek rakir.	biyolojiyabikurdi	2021-04-18 18:51:39	2021-04-18 18:51:39
-107	0x6b	k	7784	9697317	kmr	Piranî jin û karker çalakî û şahiyan li dar dixin.	CrowdsourceKurdish	2021-01-27 14:27:26	2021-01-27 14:27:26
-108	0x6c	l	3920	8874582	kmr	Kesek li malê bû?	Kurd2020	2020-06-26 19:59:42	2020-10-26 08:16:58
-109	0x6d	m	7807	9697388	kmr	Kinc, xwarin, lîstok, stran û awazên me çanda me ne.	CrowdsourceKurdish	2021-01-27 14:42:23	2021-01-27 14:42:23
-110	0x6e	n	15959	9728453	kmr	Kolanên Merdînê teng û zirav in.	CrowdsourceKurdish	2021-02-05 21:23:29	2021-02-05 21:23:29
-111	0x6f	o	3361	8304959	kmr	Elfabeya kurdî ji sî û yek herfan hevedudanî ye: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Adelpa	2019-11-05 20:24:36	2020-10-12 21:51:16
-112	0x70	p	1622	9729894	kmr	Hûn kîjan xwarinê pêşniyar dikin?	CrowdsourceKurdish	2021-02-06 08:59:08	2021-02-06 08:59:08
-113	0x71	q	668	9728066	kmr	Careke din qal neke.	CrowdsourceKurdish	2021-02-05 20:43:22	2021-02-05 20:43:22
-114	0x72	r	11336	2899507	kmr	Îro ji rojan çi ye?	CrowdsourceKurdish	2013-12-03 15:40:00	2021-02-06 09:53:47
-115	0x73	s	3962	9152807	kmr	Eva ku dinivîsim ne englîzî ye.	Kadar	2020-10-17 01:08:48	2020-10-26 08:17:11
-116	0x74	t	5900	9152324	kmr	Ên li jêr ji ketinê natiřsin.	HusseinHasso	2020-10-16 20:50:57	2020-10-26 08:17:10
-117	0x75	u	2521	9802154	kmr	Tu çima napeyivî.	CrowdsourceKurdish	2021-02-24 17:12:45	2021-02-24 17:12:55
-118	0x76	v	3730	10549372	kmr	Ez tenê du gavan dûrî vir dijîm.	Sarchia	2021-12-07 15:28:37	2021-12-07 15:28:37
-119	0x77	w	5248	9697165	kmr	Lawir û mirov jiyana xwe bi şînatiyan didomînin.	CrowdsourceKurdish	2021-01-27 12:33:45	2021-01-27 12:33:45
-120	0x78	x	2982	9006758	kmr	Wî wextî her kes mîmarê dîwarê xwe ye.	Cibrani	2020-08-31 20:46:31	2020-10-26 08:17:00
-121	0x79	y	4949	9698092	kmr	Xwezaya welatê me çawa ye?	CrowdsourceKurdish	2021-01-27 19:07:27	2021-01-27 19:07:27
-122	0x7a	z	3682	9730162	kmr	Parka zarokan li hêla çiyê ye.	CrowdsourceKurdish	2021-02-06 09:29:33	2021-02-06 09:29:33
-160	0xa0	 	39	9727353	kmr	Kevçiyekî bişon.	CrowdsourceKurdish	2021-02-05 18:51:54	2021-02-05 18:51:54
-199	0xc7	Ç	196	9697650	kmr	Çalakiyeke serbest e ku xwendekar di dawiyê de, pêk tînin.	CrowdsourceKurdish	2021-01-27 17:15:21	2021-01-27 17:15:21
+50	0x32	2	16	11011844	kmr	Dema ku beşa dawî ya "The Sopranos"ê di sala 2007an de hatibû weşandin, berê 11,9 milyon Amerîkiyan dabû ber televîzyonê.	CrowdsourceKurdish	2022-07-21 18:26:41	2022-08-01 14:42:19
+51	0x33	3	9	9209789	kmr	3 zarokan dilîst û 2 zarokên din tevlî wan bûn.	CrowdsourceKurdish	2020-10-30 16:59:51	2020-10-30 16:59:51
+52	0x34	4	9	9006756	kmr	Lingên min 40 nimre ye.	Cibrani	2020-08-31 20:46:11	2020-10-26 08:17:00
+53	0x35	5	8	9209792	kmr	5 çûk li ser darê hebûn.	CrowdsourceKurdish	2020-10-30 17:01:27	2020-10-30 17:01:27
+54	0x36	6	8	8752499	kmr	Yek xulek ji 60 çirkeyan (saniyan) pêk tê.	Cibrani	2020-05-10 21:47:18	2020-10-26 08:16:54
+55	0x37	7	4	6156993	kmr	Qiralê Swêd bi serdana fermî tê Finlanda di 17ê tebaxê de.	Kadar	2017-07-13 22:49:30	2020-10-26 08:16:29
+56	0x38	8	5	10724489	kmr	Ez di 12ê pûşperê 1998an de hatime dinyayê.	janTuki	2022-03-18 19:25:48	2022-03-18 19:25:48
+57	0x39	9	9	9825583	kmr	Samî li 911ê geriya û xet vekirî hişt.	Cibrani	2021-03-05 19:56:22	2021-03-05 19:56:22
+58	0x3a	:	14	8304959	kmr	Elfabeya kurdî ji sî û yek herfan hevedudanî ye: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Adelpa	2019-11-05 20:24:36	2020-10-12 21:51:16
+59	0x3b	;	11	9697170	kmr	Hinek jî; hem li avê, hem jî li bejahiyê dijîn.	CrowdsourceKurdish	2021-01-27 12:34:24	2021-01-27 12:34:24
+63	0x3f	?	1081	9727994	kmr	Tu qerfên xwe bi min dikî?	CrowdsourceKurdish	2021-02-05 20:37:55	2021-02-05 20:37:55
+65	0x41	A	161	9697651	kmr	Armanc jê zêdekirina amadekirina wan e.	CrowdsourceKurdish	2021-01-27 17:15:31	2021-01-27 17:15:31
+66	0x42	B	526	10535618	kmr	Bi rastî ez birçî me!	Sarchia	2021-11-29 13:11:20	2021-11-29 13:11:20
+67	0x43	C	90	10549366	kmr	Carinan êşa min heye.	Sarchia	2021-12-07 15:25:49	2021-12-07 15:25:49
+68	0x44	D	705	9727190	kmr	Derbarê vê çandê de zanyariyên we hebin, binivîsin.	CrowdsourceKurdish	2021-02-05 18:35:32	2021-02-05 18:35:32
+69	0x45	E	2940	8386892	kmr	Ez ermenî fêr dibim.	Adelpa	2019-12-16 19:52:07	2020-10-13 03:34:14
+70	0x46	F	57	9209904	kmr	Fêkî ji bo tendirustiya me pir girîng e.	CrowdsourceKurdish	2020-10-30 17:22:18	2021-01-12 19:06:19
+71	0x47	G	133	9209720	kmr	Gewdeyê darê çi reng e?	CrowdsourceKurdish	2020-10-30 16:51:51	2020-10-30 16:51:51
+72	0x48	H	685	9730272	kmr	Hirç daketiye gund.	CrowdsourceKurdish	2021-02-06 09:40:56	2021-02-06 09:40:56
+73	0x49	I	10	8330860	kmr	Navê min Ivan e.	Adelpa	2019-11-18 13:46:29	2020-10-12 21:37:37
+74	0x4a	J	327	9696882	kmr	Ji bo ku em nexweş nekevin û bi tendurist mezin bibin.	CrowdsourceKurdish	2021-01-27 11:19:15	2021-01-27 11:19:15
+75	0x4b	K	333	9167180	kmr	Kî dizane?	Gavbigav	2020-10-20 11:56:08	2020-10-26 08:17:31
+76	0x4c	L	241	6176180	kmr	"Lê ez berdanê na xwazim", qîriya Tom u kela girî ket qirika wî, lê Marî demo ne bir guhan.	Kadar	2017-08-05 21:45:57	2020-10-26 08:16:30
+77	0x4d	M	917	9730122	kmr	Min deriyê hewşê vekirî hiştibû.	CrowdsourceKurdish	2021-02-06 09:26:15	2021-02-06 09:26:15
+78	0x4e	N	259	9698271	kmr	Nêçîrvan çawa kevok xapandin?	CrowdsourceKurdish	2021-01-27 19:43:57	2021-01-27 19:43:57
+79	0x4f	O	30	9614024	kmr	Tom gote min ku ewî nedixwest heře Ostralyayê.	HusseinHasso	2021-01-08 14:23:00	2021-01-08 14:23:00
+80	0x50	P	275	8335548	kmr	Pedro kî ye?	Adelpa	2019-11-20 20:00:22	2020-10-12 21:41:41
+81	0x51	Q	42	9726153	kmr	Qûnek.	CrowdsourceKurdish	2021-02-05 11:51:16	2021-02-06 09:56:31
+82	0x52	R	165	9698270	kmr	Refa kevokan rizgar bû.	CrowdsourceKurdish	2021-01-27 19:43:48	2021-01-27 19:43:48
+83	0x53	S	274	11013670	kmr	Serê min û Tom di belayê de ye.	CrowdsourceKurdish	2022-07-22 08:41:23	2022-07-22 08:41:23
+84	0x54	T	1474	9697412	kmr	Televizyon, amûra ragihandinê ya herî zêde tê bikaranîn.	CrowdsourceKurdish	2021-01-27 14:45:53	2021-01-27 14:45:53
+85	0x55	U	3	9158952	kmr	Tu dibêjê çemêd mey û araqiyê di buhuştê da diheřikin, ma ev buhuşt e lê meyxan e, û du peřî jî li hêvîya bawermenda ne, ma ev buhuşt e lê kûndexan e. Umerê Xeyam	HusseinHasso	2020-10-18 00:47:03	2020-10-26 08:17:20
+86	0x56	V	44	11607421	kmr	Vê pirtûkê nexwîne!	janTuki	2023-03-20 01:09:32	2023-03-20 01:09:32
+87	0x57	W	722	9798020	kmr	We bernedaye.	CrowdsourceKurdish	2021-02-23 16:39:09	2021-02-23 16:39:09
+88	0x58	X	178	9822365	kmr	Xwendekaran ezmûna neheq protesto kirin.	Cibrani	2021-03-04 14:06:19	2021-03-04 14:06:19
+89	0x59	Y	49	10020069	kmr	Yê ku tîne hişa te Tom vê yekî çê kiriye çi ye?	canistrophedon	2021-05-10 09:19:38	2021-05-10 09:19:38
+90	0x5a	Z	106	11026808	kmr	Navê dotxala min Zozan e.	janTuki	2022-07-26 17:43:26	2022-07-26 17:43:26
+97	0x61	a	16448	10782509	kmr	Ev bername di moda DOS de nikare bê xebitandin.	janTuki	2022-04-24 11:01:46	2022-04-24 11:01:46
+98	0x62	b	8555	9985771	kmr	Dilê wî bi lez lê da.	biyolojiyabikurdi	2021-04-25 12:54:15	2021-04-25 12:54:15
+99	0x63	c	930	9766305	kmr	Tu dê aciz bibî.	CrowdsourceKurdish	2021-02-15 18:15:22	2021-02-15 18:15:22
+100	0x64	d	7892	9728143	kmr	Dev ji van xebatan berde.	CrowdsourceKurdish	2021-02-05 20:49:16	2021-02-05 20:49:16
+101	0x65	e	24374	9814866	kmr	Qehwe amade ye.	Cibrani	2021-03-01 09:14:26	2021-03-01 09:14:26
+102	0x66	f	726	9616552	kmr	Li Cîhanê zarokeke bi tenê, heger ne kêfxweş be, pêşveçûn û vedîtinên mezin, bêwate ne.	CrowdsourceKurdish	2021-01-08 21:16:47	2021-01-08 21:16:47
+103	0x67	g	1641	1542769	kmr	Dema ew wenda bu, ew ramiya "xweziya min guhdarî shîret a wê kir baya"	Keder	2012-04-20 22:41:57	2020-10-26 08:16:03
+104	0x68	h	3556	8406432	kmr	Heşt birayên min hene.	Adelpa	2019-12-26 16:54:01	2020-10-13 03:39:24
+105	0x69	i	23474	1543033	kmr	Wê xuyanî dikir bedew u durist.	Keder	2012-04-21 00:29:05	2020-10-26 08:16:03
+106	0x6a	j	2823	9825625	kmr	Tu dixwazî seyehatê bikî? Ez jî.	Cibrani	2021-03-05 20:06:20	2021-03-05 20:06:20
+107	0x6b	k	7784	9697034	kmr	Lê ev parvekirin ne wek hev e; hin caran roj dirêj in.	CrowdsourceKurdish	2021-01-27 12:00:30	2021-01-27 12:00:30
+108	0x6c	l	3920	9735037	kmr	Wey li min!	CrowdsourceKurdish	2021-02-07 22:08:22	2021-02-07 22:08:22
+109	0x6d	m	7807	9818590	kmr	Ez li bendê mam û mam û di dawiyê de John hat.	Cibrani	2021-03-02 21:42:01	2021-03-02 21:42:01
+110	0x6e	n	15959	8389425	kmr	Xwîn bi xwînê nayê şuştin.	Adelpa	2019-12-18 15:32:45	2020-10-13 03:35:47
+111	0x6f	o	3361	3850592	kmr	Komputera min heye.	Adelpa	2015-02-07 21:09:44	2020-10-13 03:49:34
+112	0x70	p	1622	8835793	kmr	Koronavîrusa nû pir jêkvegir e.	CrowdsourceKurdish	2020-06-11 18:47:21	2021-02-06 09:54:37
+113	0x71	q	668	9813502	kmr	Kêfa min ji wan tiştên diqewimin re nayê.	Cibrani	2021-02-28 18:00:02	2021-02-28 18:00:02
+114	0x72	r	11336	1596471	kmr	Ez herdem shiyar dibim demjimêr 6 di sibehê de.	Keder	2012-05-27 22:04:38	2020-10-26 08:16:08
+115	0x73	s	3962	9797915	kmr	We behs kir.	CrowdsourceKurdish	2021-02-23 16:23:55	2021-02-23 16:23:55
+116	0x74	t	5900	9825547	kmr	Ji bo seyehata min pere têra min nake.	Cibrani	2021-03-05 19:48:27	2021-03-05 19:48:27
+117	0x75	u	2521	3710129	kmr	Hêza min nîn e ku rajim vî kevirî.	Kadar	2014-12-25 20:29:57	2020-10-26 08:16:17
+118	0x76	v	3730	10724454	kmr	Divê Tom planên xwe biguherîne.	janTuki	2022-03-18 18:59:55	2022-03-18 18:59:55
+119	0x77	w	5248	9729706	kmr	Hemû hêviyên min wenda bûn.	CrowdsourceKurdish	2021-02-06 08:15:44	2021-02-06 08:15:44
+120	0x78	x	2982	10561948	kmr	Ew di wê cilê de xweşik xuya dike.	Sarchia	2021-12-14 16:57:15	2021-12-14 16:57:15
+121	0x79	y	4949	9697320	kmr	Pêkhateyên her olekê cejina ola xwe pîroz dikin.	CrowdsourceKurdish	2021-01-27 14:27:54	2021-01-27 14:27:54
+122	0x7a	z	3682	9813254	kmr	Ez bêhal im. Ez radikevim.	Cibrani	2021-02-28 16:54:34	2021-02-28 16:54:34
+160	0xa0	 	39	9727382	kmr	Doktor birînan baş dikin.	CrowdsourceKurdish	2021-02-05 18:53:47	2021-02-05 18:53:47
+199	0xc7	Ç	196	9728301	kmr	Çi ji te re tu xwe pê eleqedar dikî.	CrowdsourceKurdish	2021-02-05 21:04:34	2021-02-05 21:04:34
 202	0xca	Ê	28	9696748	kmr	Êzing malê germ dikin.	CrowdsourceKurdish	2021-01-27 10:31:01	2021-01-27 10:31:01
-206	0xce	Î	88	9697325	kmr	Cejina Rojbûna Pêxember Îsa cejineke xiristiyanan e.	CrowdsourceKurdish	2021-01-27 14:28:36	2021-01-27 14:28:36
-219	0xdb	Û	6	9698226	kmr	Û waneyên nû jî bi hev re dixwendin.	CrowdsourceKurdish	2021-01-27 19:37:16	2021-01-27 19:37:16
+206	0xce	Î	88	9730249	kmr	Îro rojbûna delala min e.	CrowdsourceKurdish	2021-02-06 09:38:14	2021-02-06 09:38:14
+219	0xdb	Û	6	9229008	kmr	Û xwedanêd te? Kînga wê bi vir gên?	HusseinHasso	2020-11-01 23:43:26	2020-11-15 13:37:44
 228	0xe4	ä	1	1695878	kmr	Ji cilekä rical cedibe.	kara_melek	2012-07-15 10:47:34	2020-10-26 08:16:09
-231	0xe7	ç	1296	9663229	kmr	Ew bi çavên şîn e.	biyolojiyabikurdi	2021-01-15 12:11:23	2021-01-15 12:11:23
+231	0xe7	ç	1296	9639632	kmr	Xwînhênerok û xwînberok lûleyên xwînê yên bi tîreya piçûk in ko mûlûleyan bi xwînber û xwînhêneran ve girê dide.	biyolojiyabikurdi	2021-01-12 20:58:25	2021-01-12 20:58:25
 232	0xe8	è	1	3050806	kmr	Tom dirêj dike simbèlan.	Keder	2014-02-16 23:51:55	2020-10-26 08:16:12
-233	0xe9	é	4	5284360	kmr	Dîn lé dîn tirse, biaqil lé dîn tirse.	Miremir	2016-07-18 15:19:20	2020-10-26 08:16:19
-234	0xea	ê	9799	9969498	kmr	Dara sêvê, dara sêvê min veşêre, ko pîrhebok nikaribe min bibîne, heke min bibîne hestiyên min derdixîne, û min di bin kevirên mermer de binerd dike.	biyolojiyabikurdi	2021-04-18 21:00:14	2021-04-18 21:00:14
+233	0xe9	é	4	3469756	kmr	Ez im doktoré te.	Kadar	2014-09-04 02:01:51	2020-10-26 08:16:14
+234	0xea	ê	9799	9729954	kmr	Şensa me îro trafîk heye, em ê dereng bigihîjin malê.	CrowdsourceKurdish	2021-02-06 09:04:49	2021-02-06 09:04:49
 237	0xed	í	1	3469749	kmr	Ji ber min re pere nín in, Ez nikarim werim wir.	Kadar	2014-09-04 01:56:45	2020-10-26 08:16:13
-238	0xee	î	7328	10495161	kmr	Ma coronavirus bi rastî çekek biyokîmyayî ye?	Sarchia	2021-11-08 18:19:51	2021-11-08 18:19:51
+238	0xee	î	7328	9772491	kmr	Wî alî te nekir.	CrowdsourceKurdish	2021-02-17 16:56:54	2021-02-17 16:56:54
 246	0xf6	ö	4	3045228	kmr	Ez kuhdar dikim ana li strana Björk a herî nû.	Keder	2014-02-14 00:57:58	2020-10-26 08:16:11
-251	0xfb	û	2590	9802364	kmr	Zik û pişta wî bûye yek.	CrowdsourceKurdish	2021-02-24 17:47:31	2021-02-24 17:47:31
+251	0xfb	û	2590	8874557	kmr	Derî girtî bûn.	Kurd2020	2020-06-26 19:52:35	2020-10-26 08:16:57
 281	0x119	ę	1	9638106	kmr	Ew di nihînęn dijiyan.	jj07	2021-01-12 10:26:58	2021-01-12 10:26:58
-305	0x131	ı	4	9638675	kmr	Ez te hezdıkım.	jj07	2021-01-12 14:57:22	2021-01-12 14:57:22
-344	0x158	Ř	4	9163177	kmr	Řoja te çawa bû?	HusseinHasso	2020-10-19 10:56:14	2020-10-26 08:17:26
-345	0x159	ř	90	9164243	kmr	Min dolarekê li ser řekê dît.	HusseinHasso	2020-10-19 18:39:52	2020-10-26 08:17:29
-350	0x15e	Ş	73	9727227	kmr	Em îro bi dengê dengbêjê nemir Şakiro dest bi roja xwe dikin.	CrowdsourceKurdish	2021-02-05 18:39:36	2021-02-05 18:39:36
-351	0x15f	ş	2049	9698063	kmr	Me pir bi lîstikên cuda yên mîna veşartok û bezê lîst.	CrowdsourceKurdish	2021-01-27 19:04:07	2021-01-27 19:04:07
+305	0x131	ı	4	9697345	kmr	Ev cejın weke rojên aramî û aşîtiyê tên dîtin.	CrowdsourceKurdish	2021-01-27 14:36:06	2021-01-27 14:36:06
+344	0x158	Ř	4	9158917	kmr	Řapêşî hêja bû. Gerek e te bidîtîya.	HusseinHasso	2020-10-18 00:21:00	2020-10-26 08:17:19
+345	0x159	ř	90	9158949	kmr	Tu zanê tê çawa şagirtekî serkeftî bê? Hevalekî min ev piřsa ji min piřsî û eva hîşt ku ez vê gotarê binivîsim. Bona min, bingeha zêřîn ev e : Ji hostêd xwe fêr bibe û ji ezmûnê xwe řa řind bixûne. Ji hostêd xwe piřsa bipiřse heger tu ne piştrast bê ji tiştekî û beşdarî ke di waneya da. Di paşîyê da, tê bi şagirtekî serkeftî bê heger tu pêşketê bi heval û mamostêd xwe řa.	HusseinHasso	2020-10-18 00:46:12	2020-10-26 08:17:20
+350	0x15e	Ş	73	9639489	kmr	Şane ji xaneyan pêk tên.	biyolojiyabikurdi	2021-01-12 19:36:08	2021-01-12 19:36:08
+351	0x15f	ş	2049	10537592	kmr	Çi ecêb e ku diya te bi şeş zimanan dipeyive!	Sarchia	2021-11-30 15:00:31	2021-11-30 15:00:31
 1575	0x627	ا	4	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
-1576	0x628	ب	2	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
+1576	0x628	ب	2	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1578	0x62a	ت	2	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1581	0x62d	ح	1	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1582	0x62e	خ	1	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1585	0x631	ر	1	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
 1588	0x634	ش	1	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1601	0x641	ف	1	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
-1605	0x645	م	2	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
-1606	0x646	ن	3	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
-1607	0x647	ه	2	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
+1605	0x645	م	2	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
+1606	0x646	ن	3	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
+1607	0x647	ه	2	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1608	0x648	و	1	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53
 1670	0x686	چ	1	10552788	kmr	فێری هیچ نابم.	Sarchia	2021-12-09 16:19:03	2021-12-09 16:19:03
 1717	0x6b5	ڵ	1	10105897	kmr	خۆشحاڵم بە هاتنەوەتان.	Sarchia	2021-06-14 17:03:53	2021-06-14 17:03:53

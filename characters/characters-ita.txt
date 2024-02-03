@@ -1,172 +1,172 @@
-32	0x20	 	4311218	3056463	ita	Tom è più vecchio di me.	Guybrush88	2014-02-19 14:45:39	2014-02-19 14:45:39
-33	0x21	!	29325	1434458	ita	Usi il video per dichiarare il suo amore!	Guybrush88	2012-02-14 11:07:01	2012-02-14 11:07:01
-34	0x22	"	89914	2038226	ita	"Centrali nucleari" è un anagramma di "i cancri e la rovina".	Guybrush88	2012-11-25 20:49:22	2012-11-25 20:49:22
+32	0x20	 	4311989	2189197	ita	Ha lavorato duramente per mantenere il Kansas pacifico.	Guybrush88	2013-02-04 14:07:13	2013-02-04 14:07:13
+33	0x21	!	29366	3401866	ita	È nato nostro figlio!	Guybrush88	2014-08-04 00:38:05	2014-08-04 00:38:05
+34	0x22	"	89914	6752820	ita	"Di che nazionalità erano i vostri insegnanti?" "Cinese."	Guybrush88	2018-03-09 17:52:33	2018-03-09 17:52:33
 35	0x23	#	2	2842997	ita	C# assomiglia a Java.	Guybrush88	2013-11-11 12:43:49	2013-11-11 12:43:49
-36	0x24	$	73	9575861	ita	Hanno venduto la loro casa per 300.000$.	Guybrush88	2021-01-02 00:30:02	2021-01-02 00:30:02
-37	0x25	%	123	6219063	ita	L'evaporazione di oceani, laghi e fiumi forma il 90% di tutta l'acqua nell'atmosfera.	dnnywld	2017-08-31 08:11:51	2017-08-31 08:11:51
-38	0x26	&	15	3409564	ita	L'Inghilterra è sinonimo di calcio, fish & chips e la Regina.	Guybrush88	2014-08-06 15:47:21	2014-08-06 15:47:21
-39	0x27	'	88518	2578705	ita	C'era del sangue dappertutto.	Guybrush88	2013-07-09 12:42:24	2013-07-09 12:42:24
-40	0x28	(	180	2147845	ita	Scelga qualche frase casuale (soltanto 2 o 3), le registri e ci invii l'audio a team@tatoeba.org con il titolo "Audio for Tatoeba in <nome della lingua>.	Guybrush88	2013-01-16 15:21:41	2013-01-16 15:22:01
-41	0x29	)	185	11974486	ita	L'azienda ha migliorato la tracciabilità delle merci attraverso l'implementazione di una tecnologia di identificazione a radiofrequenza (RFID).	Guybrush88	2023-08-01 15:25:16	2023-08-01 15:25:16
-42	0x2a	*	4	3814630	ita	Io ho ** anni.	Johnny2014	2015-01-31 11:06:03	2015-01-31 11:06:03
-43	0x2b	+	38	3336862	ita	Il professore di informatica ha organizzato un corso di C++.	bailujia	2014-06-23 13:24:54	2014-06-23 13:24:54
-44	0x2c	,	64787	4526121	ita	La Coca Cola, il tè, il caffè e naturalmente l'acqua sono tra le bibite più bevute al mondo.	aldolit58	2015-09-15 17:34:29	2015-09-15 17:34:29
-45	0x2d	-	1723	11573667	ita	Ho controllato le mie e-mail.	Nuel	2023-03-03 13:11:38	2023-03-03 13:11:38
-46	0x2e	.	675053	9937927	ita	Il mio armadio ha quattro ante e due specchi. È stato prodotto da un'azienda svedese, il cui nome contiene tre vocali e una consonante.	Guybrush88	2021-04-04 22:44:46	2021-04-04 22:44:46
-47	0x2f	/	80	10000420	ita	Qual è il rapporto studenti/insegnanti nella vostra scuola?	Guybrush88	2021-05-01 10:31:55	2021-05-01 10:31:55
-48	0x30	0	3247	5494088	ita	Sono stata con Tom dalle 8:30 alle 2:30.	dnnywld	2016-10-05 06:39:42	2016-10-05 06:39:42
-49	0x31	1	2373	3662720	ita	Io ho un debito verso mio zio di 10.000$.	Guybrush88	2014-11-28 14:29:49	2014-11-28 14:29:49
-50	0x32	2	1564	3317120	ita	Appena 529 spettatori guardarono la partita.	Guybrush88	2014-06-15 12:03:05	2014-06-15 12:03:05
-51	0x33	3	1293	2433119	ita	Harvard fu fondata nel 1636.	Guybrush88	2013-05-15 16:18:28	2013-05-15 16:18:28
-52	0x34	4	576	975372	ita	La nostra classe consiste di 40 ragazzi.	riccioberto	2011-07-04 14:28:59	2011-07-04 14:28:59
-53	0x35	5	846	635872	ita	Devo riportare i libri alla biblioteca prima del 25 gennaio.	Guybrush88	2010-11-25 23:36:42	2011-02-10 11:49:04
-54	0x36	6	475	5632322	ita	Lui deve avere più di 60 anni.	dnnywld	2016-11-23 11:54:21	2016-11-23 11:54:21
-55	0x37	7	422	10815055	ita	Ivan è arrivato qui il 7 maggio.	carlosalberto	2022-05-09 17:48:59	2022-05-09 17:48:59
-56	0x38	8	640	3148895	ita	Morì a 83 anni.	Guybrush88	2014-04-04 15:18:00	2014-04-04 15:18:00
-57	0x39	9	1061	4543719	ita	Il mio numero di telefono è 9876-5432.	Ricardo14	2015-09-22 03:56:43	2015-09-22 03:56:50
-58	0x3a	:	1330	1803893	ita	Io ribalterei la frase: Una buona politica sociale è anche una buona politica economica.	al_ex_an_der	2012-08-28 23:41:25	2012-08-28 23:43:35
-59	0x3b	;	720	11566275	ita	Gli dissi di andare avanti; lo avrei aiutato con il suo progetto.	Nuel	2023-02-27 18:42:22	2023-02-27 18:42:22
-60	0x3c	<	11	2147839	ita	Scegliete qualche frase casuale (solamente 2 o 3), registratele e inviateci l'audio a team@tatoeba.org con il titolo "Audio for Tatoeba in <nome della lingua>.	Guybrush88	2013-01-16 15:20:57	2013-01-16 15:22:16
-61	0x3d	=	11	1152736	ita	Esempio: per esprimere la direzione, aggiungiamo alla parola la lettera finale "n"; quindi "tie" (= in quel luogo), "tien" (= verso quel luogo); alla stessa maniera diciamo "la birdo flugis en la ĝardenon, sur la tablon" e le parole "ĝardenon" e "tablon" hanno qui la forma accusativa non perché le preposizioni "en" e "sur" lo richiedano, ma perché vogliamo esprimere la direzione, cioè indicare che l'uccello all'inizio non si trovava nel giardino o sulla tavola e ivi volava, ma che da un altro posto è volato al giardino o sulla tavola (vogliamo indicare che il giardino e la tavola non erano il luogo del volo, ma l'obiettivo del volo). In tali casi usiamo la finale "n" indipendentemente dal fatto che ci sia o no una preposizione.	xicotenga	2011-10-05 09:44:15	2012-03-17 12:41:41
-62	0x3e	>	12	2147845	ita	Scelga qualche frase casuale (soltanto 2 o 3), le registri e ci invii l'audio a team@tatoeba.org con il titolo "Audio for Tatoeba in <nome della lingua>.	Guybrush88	2013-01-16 15:21:41	2013-01-16 15:22:01
-63	0x3f	?	198561	6883056	ita	Quanti ve ne mancano? Dai, aggiungo io.	dnnywld	2018-05-09 08:42:31	2018-05-09 08:42:31
-64	0x40	@	15	5114913	ita	Come si pronuncia il segno "@" nella tua lingua?	WM3DAS	2016-05-05 15:16:30	2016-05-05 15:16:30
-65	0x41	A	58961	7614489	ita	Non vanno a costruire ponti in Austria?	Guybrush88	2018-12-20 13:40:57	2018-12-20 13:40:57
-66	0x42	B	19016	2972780	ita	Volete davvero abitare a Boston?	Guybrush88	2014-01-09 17:05:53	2014-01-09 17:05:53
-67	0x43	C	54775	653735	ita	Tra Scilla e Cariddi.	Guybrush88	2010-12-07 10:25:10	2010-12-07 10:25:10
-68	0x44	D	55599	10905277	ita	Dite a tutte loro di aspettare.	Guybrush88	2022-06-12 09:26:45	2022-06-12 09:26:45
-69	0x45	E	17796	10905085	ita	Ecco una battuta che mi piace.	Guybrush88	2022-06-12 08:44:51	2022-06-12 08:44:51
-70	0x46	F	14454	12256498	ita	Farlo probabilmente non sarà così facile.	Guybrush88	2024-01-07 10:49:59	2024-01-07 10:49:59
-71	0x47	G	18511	6810959	ita	Gurada tutto con un'altra prospettiva.	dnnywld	2018-03-30 10:58:04	2018-03-30 10:58:04
-72	0x48	H	39673	8087046	ita	Ha bisogno di aggiornare il suo sito web.	Guybrush88	2019-08-02 08:42:07	2019-08-02 08:42:07
-73	0x49	I	92080	5475108	ita	Ieri sera Tom è arrivato a casa ubriaco fradicio.	dnnywld	2016-09-27 14:42:41	2016-09-27 14:42:41
-74	0x4a	J	2766	643161	ita	La ragazza con i capelli lunghi è Judy.	Guybrush88	2010-12-01 18:25:36	2010-12-01 18:25:36
-75	0x4b	K	1830	1246794	ita	Ken mi ha battuto agli scacchi.	Guybrush88	2011-11-18 17:42:41	2011-11-18 17:42:41
-76	0x4c	L	100434	5711110	ita	Lei ci è mancata.	Guybrush88	2016-12-27 12:07:20	2016-12-27 12:07:20
-77	0x4d	M	61564	5909040	ita	Mia moglie vuole adottare un bambino.	Guybrush88	2017-03-01 21:45:41	\N
-78	0x4e	N	118870	4175737	ita	Non leggono nemmeno ed esprimono giudizi?	Guybrush88	2015-05-11 15:35:23	2015-05-11 15:35:23
-79	0x4f	O	9071	425873	ita	Il nome di questa canzone è "Only You".	Pharamp	2010-07-13 22:43:15	2010-07-13 22:43:15
-80	0x50	P	60519	4263988	ita	Potete andare lì.	Guybrush88	2015-06-09 11:55:18	2015-06-09 11:55:22
-81	0x51	Q	31589	10885063	ita	Quando è sorta la democrazia?	dnnywld	2022-06-03 08:25:19	2022-06-03 08:25:19
-82	0x52	R	11996	5884103	ita	Fadil presentò Layla a Rami.	Guybrush88	2017-02-19 16:50:27	\N
-83	0x53	S	94273	7602064	ita	Vanno a cercare qualcuno in Scozia.	Guybrush88	2018-12-19 14:07:30	2018-12-19 14:07:30
-84	0x54	T	134255	5946848	ita	Tom è egoista, vero?	Guybrush88	2017-03-13 15:33:24	\N
-85	0x55	U	12121	7612225	ita	Non andate a costruire edifici in Ucraina.	Guybrush88	2018-12-20 13:35:43	2018-12-20 13:35:43
-86	0x56	V	54315	7606685	ita	Vanno a fare amicizie in Inghilterra.	Guybrush88	2018-12-19 15:45:51	2018-12-19 15:45:51
-87	0x57	W	579	2745669	ita	Wow! Il colore scarlatto è bello.	Guybrush88	2013-09-17 23:12:52	2013-09-17 23:12:52
-88	0x58	X	124	1988723	ita	Si è dimenticata di dividere per X qui.	Guybrush88	2012-11-07 16:22:15	2012-11-07 16:22:15
-89	0x59	Y	1389	11839896	ita	Yanni era triste.	Guybrush88	2023-06-12 06:46:45	2023-06-12 06:46:45
-90	0x5a	Z	2614	10992493	ita	Ziri ha spiegato il film in berbero.	Guybrush88	2022-07-15 11:52:56	2022-07-15 11:52:56
-91	0x5b	[	8	1101598	ita	Molti germanofoni dicono [ˌd͡ʒɔʁnaˈlɪsmʊs], e molti dicono [ʒelanˈtiːnə], senza alcun motivo comprensibile.	riccioberto	2011-09-13 14:16:24	2011-09-13 14:16:24
+36	0x24	$	73	1539199	ita	Tom non vuol spendere più di $300 per un motore usato.	Guybrush88	2012-04-18 21:05:55	2018-03-21 10:09:46
+37	0x25	%	123	741498	ita	Vorremmo chiedervi di ridurre del 5% il prezzo di listino di STL@3456.	StefanoC	2011-02-04 16:03:16	2011-02-04 16:03:16
+38	0x26	&	15	4418706	ita	Canta delle canzoni di Simon & Garfunkel.	Guybrush88	2015-07-30 14:47:54	2015-07-30 14:47:54
+39	0x27	'	88530	3084252	ita	Questo paio di scarpe è un po' lasco.	bailujia	2014-03-08 21:48:11	2014-03-08 21:48:11
+40	0x28	(	180	12022589	ita	La LIM (Lettura ad Impatto Modulato) è una tecnica di analisi spettroscopica.	Guybrush88	2023-08-29 07:20:46	2023-08-29 07:20:46
+41	0x29	)	185	12170282	ita	Sri Ramana Maharshi (30.12.1879-14.04.1950), che morì di cancro, quando i suoi discepoli gli chiedevano se sentiva dolore, era solito rispondere: C'è dolore nel mio corpo. Ha scritto il libro "Chi sono io?".	carlosalberto	2023-11-20 20:05:38	2023-11-20 20:05:38
+42	0x2a	*	4	11954274	ita	Gli algoritmi di ricerca informata, come l'algoritmo A*, utilizzano informazioni sulla distanza stimata per raggiungere una soluzione più velocemente.	Guybrush88	2023-07-24 13:16:08	2023-07-24 13:16:08
+43	0x2b	+	38	7274804	ita	La colonna vertebrale ha 24+5 vertebre: 7 cervicali, 12 toraciche, 5 lombari e 5 sacrali.	Nantalbroi	2018-10-10 08:07:01	2022-05-13 21:18:10
+44	0x2c	,	64795	6697840	ita	Per favore, balli con Tom.	Guybrush88	2018-02-18 22:45:38	2018-02-18 22:45:38
+45	0x2d	-	1723	5399160	ita	"E Tom dov'è?" - "Dorme".	dnnywld	2016-09-04 10:03:23	2016-09-04 10:03:23
+46	0x2e	.	675213	6973535	ita	Sono stata ad Amburgo.	dnnywld	2018-07-02 07:23:26	2018-07-02 07:23:26
+47	0x2f	/	80	11271255	ita	Hot dog, noci e semi, pezzi di carne o formaggio, uva intera, caramelle dure/appiccicose o collose, popcorn, pezzi di burro di arachidi, verdure crude, uvetta, gomme da masticare e marshmallow sono noti rischi di soffocamento per i bambini.	Guybrush88	2022-11-27 12:40:58	2022-11-27 12:40:58
+48	0x30	0	3247	3102572	ita	Da consumarsi prima del 01/09/2010.	Guybrush88	2014-03-17 15:52:43	2014-03-17 15:52:43
+49	0x31	1	2373	7031909	ita	Achille nacque a 1908 a Parigi.	Guybrush88	2018-07-30 11:12:56	2018-07-30 11:12:56
+50	0x32	2	1564	1905177	ita	Comprammo la macchina per 12.000$.	Guybrush88	2012-10-08 15:58:55	2012-10-08 15:58:55
+51	0x33	3	1293	7994178	ita	Tom morì il 20 ottobre 2013 a Boston.	Guybrush88	2019-06-22 09:52:36	2019-06-22 09:52:36
+52	0x34	4	576	3116188	ita	La prima operetta romena fu eseguita a Iaşi nel 1848.	Guybrush88	2014-03-22 09:48:03	2014-03-22 09:48:03
+53	0x35	5	846	3020683	ita	I grammatici che verranno studiati saranno del 1500-1600.	Guybrush88	2014-02-01 00:23:22	2014-02-01 00:23:22
+54	0x36	6	475	3689329	ita	Tom Clancy è deceduto a 66 anni.	Guybrush88	2014-12-12 18:49:52	2014-12-12 18:49:52
+55	0x37	7	422	2131264	ita	Tom utilizza Windows 7.	Guybrush88	2013-01-08 13:04:37	2013-01-08 13:04:37
+56	0x38	8	640	8424236	ita	So che aggiungere frasi soltanto nella sua lingua madre o nella sua lingua più forte non è probabilmente divertente quanto esercitarsi a scrivere in lingue straniere, ma, per piacere, non aggiunga frasi nel corpus di Tatoeba se non è assolutamente sicuro che siano corrette. Se vuole praticare le lingue che sta studiando, per piacere, lo faccia utilizzando un sito web progettato a tale scopo come www.lang-8.com.	Guybrush88	2020-01-02 23:31:36	2020-01-02 23:31:36
+57	0x39	9	1061	4510373	ita	Nel 1939, come nel 1914, il mondo era sull'orlo della guerra.	Guybrush88	2015-09-08 22:06:22	2015-09-08 22:06:22
+58	0x3a	:	1330	2970948	ita	Dovevi essere lì per le 2:30.	Guybrush88	2014-01-08 12:56:03	2014-01-08 12:56:03
+59	0x3b	;	720	1549921	ita	È inutile piangere; non ti sentirà nessuno.	Guybrush88	2012-04-26 02:15:39	2018-03-21 16:41:18
+60	0x3c	<	11	2147833	ita	Scegli qualche frase casuale (soltanto 2 o 3), registrale e inviaci l'audio a team@tatoeba.org con il titolo "Audio for Tatoeba in <nome della lingua>.	Guybrush88	2013-01-16 15:20:24	2013-01-16 15:22:36
+61	0x3d	=	11	5632946	ita	Calcolate il valore della funzione f(x) = x² nel punto x=3.	dnnywld	2016-11-23 18:54:38	2016-11-23 18:54:38
+62	0x3e	>	12	2147843	ita	Scelga qualche frase casuale (solo 2 o 3), le registri e ci invii l'audio a team@tatoeba.org con il titolo "Audio for Tatoeba in <nome della lingua>.	Guybrush88	2013-01-16 15:21:34	2013-01-16 15:22:05
+63	0x3f	?	198589	3875052	ita	Era troppo?	Guybrush88	2015-02-17 16:07:37	2015-02-17 16:07:37
+64	0x40	@	15	2147839	ita	Scegliete qualche frase casuale (solamente 2 o 3), registratele e inviateci l'audio a team@tatoeba.org con il titolo "Audio for Tatoeba in <nome della lingua>.	Guybrush88	2013-01-16 15:20:57	2013-01-16 15:22:16
+65	0x41	A	58983	9821644	ita	Appendete il vostro asciugamano di fianco al mio.	Guybrush88	2021-03-04 09:27:14	2021-03-04 09:27:14
+66	0x42	B	19017	6744511	ita	Tom è in prigione a Boston.	Guybrush88	2018-03-09 12:44:27	2018-03-09 12:44:27
+67	0x43	C	54790	2728603	ita	Chiamarono il loro cane Rex.	Guybrush88	2013-09-09 11:59:26	2013-09-09 11:59:26
+68	0x44	D	55602	8362755	ita	Dice che è arrabbiato.	Guybrush88	2019-12-03 18:05:05	2019-12-03 18:05:05
+69	0x45	E	17808	2217997	ita	Ero felice di aiutarvi.	Guybrush88	2013-02-13 10:28:36	2013-02-13 10:28:36
+70	0x46	F	14458	4736351	ita	Forse è uno stato mentale.	Guybrush88	2015-11-30 16:16:16	2015-11-30 16:16:16
+71	0x47	G	18513	7598504	ita	Va a imparare qualcosa in Giappone?	Guybrush88	2018-12-19 13:28:43	2018-12-19 13:28:43
+72	0x48	H	39686	6727141	ita	Ho detto a Tom che sarei subito tornato.	dnnywld	2018-03-01 09:42:51	2018-03-01 09:42:51
+73	0x49	I	92098	6742785	ita	Io voglio che Tom torni a Boston.	Guybrush88	2018-03-08 22:48:59	2018-03-08 22:48:59
+74	0x4a	J	2767	2874973	ita	Io sono un grande fan di Getter Jaani.	Guybrush88	2013-11-24 10:01:38	2013-11-24 10:01:38
+75	0x4b	K	1830	6707458	ita	Sì, OK, ma cosa le dico?	Guybrush88	2018-02-23 23:35:19	2018-02-23 23:35:19
+76	0x4c	L	100453	3003926	ita	La strada è libera dalla neve adesso.	Guybrush88	2014-01-23 16:53:01	2014-01-23 16:53:01
+77	0x4d	M	61575	3139603	ita	Tom ha chiesto a Mary di aspettarlo davanti alla biblioteca.	Guybrush88	2014-03-30 19:30:51	2021-10-17 13:30:54
+78	0x4e	N	118890	6988774	ita	Non vogliamo andare in Romania.	Guybrush88	2018-07-10 20:58:14	2018-07-10 20:58:14
+79	0x4f	O	9072	3333202	ita	Oggi è proprio una magnifica giornata.	bailujia	2014-06-22 09:43:06	2014-06-22 09:43:06
+80	0x50	P	60522	4564176	ita	Prova duramente.	Guybrush88	2015-09-28 11:37:32	2015-09-28 11:37:32
+81	0x51	Q	31602	10073051	ita	Quello è un ravanello.	Guybrush88	2021-05-29 19:52:42	2021-05-29 19:52:42
+82	0x52	R	12001	7598605	ita	Andate a imparare qualcosa in Regno Unito?	Guybrush88	2018-12-19 13:28:47	2018-12-19 13:28:47
+83	0x53	S	94303	4904561	ita	Sarà un buon marito per lei.	Mauro86web	2016-02-11 18:56:45	2016-02-11 18:56:45
+84	0x54	T	134270	5985807	ita	Sei quasi alto come Tom.	Guybrush88	2017-03-29 15:39:16	\N
+85	0x55	U	12121	7614435	ita	Non andate a costruire ponti in Uganda?	Guybrush88	2018-12-20 13:40:56	2018-12-20 13:40:56
+86	0x56	V	54322	2611684	ita	Va a scuola.	Guybrush88	2013-07-22 12:04:18	2013-07-22 12:04:18
+87	0x57	W	585	4394610	ita	Wolverine è un X-Man.	Guybrush88	2015-07-21 12:24:57	2015-07-21 12:24:57
+88	0x58	X	124	5152009	ita	Papa Benedetto XVI è arrivato in Germania in visita ufficiale.	Guybrush88	2016-05-19 20:29:39	2016-05-19 20:29:39
+89	0x59	Y	1390	7800316	ita	Yankev e Sheyne sono amici.	Guybrush88	2019-03-08 07:55:39	2019-03-08 07:55:39
+90	0x5a	Z	2615	7660218	ita	Va a costruire arene in Nuova Zelanda?	Guybrush88	2018-12-25 22:12:04	2018-12-25 22:12:04
+91	0x5b	[	8	1841128	ita	"La gelosia a volte mi spezza il cuore ma la amo e la vita con lei mi piace ma la lotta con il rivale mi sta distruggendo e non so se posso reggere ancora tanto. [...] Ma perché va da lui?" — "Va da lui perché lui le piace, perché la fa impazzire, perché sente un desiderio che non ha mai provato."	al_ex_an_der	2012-09-15 01:47:27	2012-09-15 01:47:27
 93	0x5d	]	8	3320563	ita	"Sono molto preoccupato per l'accordo del presidente al disegno di legge [l'aumento del salario minimo], che impedisce il funzionamento del programma che avevamo firmato. In queste circostanze, temo sia molto difficile portare a termine la prossima revisione del programma", dice allora l'ex direttore Dominique Strauss-Kahn Fund, che a sua volta ha aumentato il proprio stipendio di oltre il 7% al suo arrivo alla guida del FMI.	Guybrush88	2014-06-16 22:28:59	2014-06-16 22:28:59
-95	0x5f	_	20	5528838	ita	Ah_ah. Ora è chiaro.	dnnywld	2016-10-18 19:00:38	2016-10-18 19:00:38
-96	0x60	`	2	11034398	ita	Questo romanzo è molto pi`u lungo di quello.	ml_tatoeba	2022-07-30 11:41:23	2022-07-30 11:41:23
-97	0x61	a	2812626	4634596	ita	Io sono rimasto sorpreso quando Tom ha detto che stava facendo domanda per un posto di lavoro presso la nostra azienda.	Guybrush88	2015-10-22 20:36:10	2015-10-22 20:36:10
-98	0x62	b	245726	3803522	ita	Pare che non sia più un problema italiano.	Guybrush88	2015-01-27 16:17:11	2015-01-27 16:17:11
-99	0x63	c	960352	7612621	ita	Andate a costruire edifici a Cipro?	Guybrush88	2018-12-20 13:36:11	2018-12-20 13:36:11
-100	0x64	d	691452	6875164	ita	Non stai ancora lavorando a Boston?	Guybrush88	2018-05-04 19:51:30	2018-05-04 19:51:30
-101	0x65	e	2455942	6605353	ita	Mi spieghi perché sei così bigio?	Guybrush88	2018-01-14 19:14:11	2018-01-14 19:14:11
-102	0x66	f	227748	6961303	ita	Cosa fate dopo le lezioni all'università?	dnnywld	2018-06-25 09:14:42	2018-06-25 09:14:42
-103	0x67	g	352364	9714940	ita	Ho ricevuto un paio dei suoi messaggi.	Guybrush88	2021-02-03 08:55:26	2021-02-03 08:55:26
-104	0x68	h	314142	3016893	ita	Sei uno che ha una cultura da fare impallidire molti di noi, compresa me.	Guybrush88	2014-01-30 08:31:03	2014-01-30 08:31:03
-105	0x69	i	2384110	5543555	ita	Tom dovrebbe sostituire i lucchetti.	dnnywld	2016-10-23 18:08:38	2016-10-23 18:08:38
-106	0x6a	j	1030	7239845	ita	Possiede un jet privato.	Guybrush88	2018-09-30 22:28:58	2018-09-30 22:28:58
-107	0x6b	k	9058	7625312	ita	Va a costruire stadi in Pakistan.	Guybrush88	2018-12-20 17:05:39	2018-12-20 17:05:39
-108	0x6c	l	1116156	10547769	ita	Il loro amico è più alto di Paolo.	Guybrush88	2021-12-06 17:49:27	2021-12-06 17:49:27
-109	0x6d	m	708417	4182898	ita	Tom vuole vedere come faremo a farlo.	valealb	2015-05-13 14:55:22	2015-05-13 14:55:22
-110	0x6e	n	1744801	6986849	ita	Volete andare in Grecia.	Guybrush88	2018-07-10 19:48:34	2018-07-10 19:48:34
-111	0x6f	o	2624997	3671311	ita	Stanno avvicinando la paglia al fuoco in ogni tipo di situazione e ovunque?	Guybrush88	2014-12-03 13:57:13	2014-12-03 13:57:13
-112	0x70	p	568400	3403587	ita	Tom sta preparando dello stufato per noi.	Guybrush88	2014-08-04 13:09:52	2014-08-04 13:09:52
-113	0x71	q	94669	9753959	ita	Il minuto o due che Tom ha trascorso ad aspettare gli è sembrato un'eternità mentre continuava a cercare di non guardare la macchina che lo aveva portato lì, gli altri liceali che lo fissavano mentre poggiavano i piedi su lattine di birra schiacciate e scatole di pizza. "Perché lo sto facendo?" si è chiesto. "I poliziotti mi prenderanno e quando lo faranno non potrò mai entrare al MIT."	Guybrush88	2021-02-12 19:18:09	2021-02-12 19:18:09
-114	0x72	r	1545369	2555830	ita	Non comprate quello.	Guybrush88	2013-07-02 14:45:02	2013-07-02 14:45:02
-115	0x73	s	1218334	2575198	ita	Loro staranno aspettando.	Guybrush88	2013-07-08 12:27:21	2013-07-08 12:27:21
-116	0x74	t	1473861	5330773	ita	Andai a fare trekking con il gruppo.	Guybrush88	2016-08-09 22:41:26	2016-08-09 22:41:26
-117	0x75	u	751964	5680260	ita	Di quali animali avete paura?	Guybrush88	2016-12-12 21:56:28	2016-12-12 21:56:28
-118	0x76	v	460171	7624955	ita	Non va a costruire grattacieli in Brasile?	Guybrush88	2018-12-20 17:04:37	2018-12-20 17:04:37
-119	0x77	w	3762	1999661	ita	Mi racconti cos'ha fatto alle Hawaii.	Guybrush88	2012-11-11 21:58:36	2012-11-11 21:58:36
-120	0x78	x	1339	4816108	ita	È la vostra ex moglie.	Guybrush88	2016-01-07 11:21:14	2016-01-07 11:21:14
-121	0x79	y	27948	6795598	ita	Tom e Mary sentono la mancanza dei genitori.	dnnywld	2018-03-25 14:15:12	2018-03-25 14:15:12
-122	0x7a	z	151321	3484484	ita	Mi scusi, avete questo modello in magazzino?	Guybrush88	2014-09-10 00:59:21	2014-09-10 00:59:21
+95	0x5f	_	20	1651618	ita	Il nostro argomento della settimana è: _____.	Guybrush88	2012-06-28 13:28:10	2012-06-28 13:28:10
+96	0x60	`	2	1558446	ita	Studiare l`olandese non è difficile.	dreamemole	2012-05-01 17:10:23	2012-05-01 17:10:23
+97	0x61	a	2813121	4162075	ita	Marie ha piegato gli asciugamani.	Guybrush88	2015-05-08 14:30:32	2015-05-08 14:30:32
+98	0x62	b	245788	4036722	ita	Potrebbe vendicarsi.	Guybrush88	2015-04-04 22:04:11	2015-04-04 22:04:11
+99	0x63	c	960535	393459	ita	È impossibile leggere la sua scrittura.	Pharamp	2010-05-25 14:37:13	2010-05-25 14:37:13
+100	0x64	d	691556	622240	ita	Lei è sempre vestita di nero.	rado	2010-11-15 23:39:01	2010-11-15 23:39:01
+101	0x65	e	2456394	3740793	ita	Non c'è da stupirsi che lui sia morto giovane.	Guybrush88	2015-01-02 18:33:42	2015-01-02 18:33:42
+102	0x66	f	227805	5899810	ita	Per favore, prepari del caffè.	Guybrush88	2017-02-25 10:56:00	\N
+103	0x67	g	352437	7591607	ita	Perché state guardando questa spazzatura?	Guybrush88	2018-12-18 20:25:22	2018-12-18 20:25:22
+104	0x68	h	314189	9575319	ita	Si sono sbottonate le giacche.	Guybrush88	2021-01-01 22:49:27	2021-01-01 22:49:27
+105	0x69	i	2384570	750418	ita	Descrivi un'attrazione turistica che vorresti visitare.	Guybrush88	2011-02-10 23:28:37	2011-02-10 23:28:37
+106	0x6a	j	1030	4212101	ita	Tom indossava dei jeans neri.	Guybrush88	2015-05-22 07:07:30	2015-05-22 07:07:30
+107	0x6b	k	9057	6374124	ita	Andate spesso a Tokyo?	Guybrush88	2017-10-10 09:43:32	2017-10-10 09:43:32
+108	0x6c	l	1116379	677381	ita	È piccolo e debole.	Guybrush88	2010-12-21 09:37:05	2012-06-27 10:48:15
+109	0x6d	m	708559	5563566	ita	Immagino che voi giochiate ancora a golf.	Guybrush88	2016-10-30 12:58:06	2016-10-30 12:58:06
+110	0x6e	n	1745107	1122314	ita	Sapete contare in italiano?	Guybrush88	2011-09-22 21:27:04	2011-09-22 21:27:04
+111	0x6f	o	2625490	5512159	ita	Da allora sono passati molti anni.	dnnywld	2016-10-12 08:23:21	2016-10-12 08:23:21
+112	0x70	p	568519	7969257	ita	Ho bisogno di tempo e spazio.	Guybrush88	2019-06-09 22:06:04	2019-06-09 22:06:04
+113	0x71	q	94676	4107194	ita	Sono qui per salvarti.	valealb	2015-04-24 13:36:36	2015-04-24 13:36:36
+114	0x72	r	1545648	3781418	ita	Lo script di cui Tatoeba ha più bisogno il rivelatore di madrelingua.	Guybrush88	2015-01-20 13:35:34	2015-01-20 13:35:34
+115	0x73	s	1218540	2477486	ita	Io entrai in contatto in maniera frequente con degli studenti stranieri.	Guybrush88	2013-06-04 10:07:40	2013-06-04 10:07:40
+116	0x74	t	1474154	5172968	ita	Imparerete l'inglese?	Guybrush88	2016-05-29 08:48:02	2016-05-29 08:48:02
+117	0x75	u	752095	615327	ita	Questo è un DVD.	rado	2010-11-12 19:39:54	2010-11-12 19:39:54
+118	0x76	v	460253	7020590	ita	Tom voleva che cantassi.	Guybrush88	2018-07-25 18:20:59	2018-07-25 18:20:59
+119	0x77	w	3764	4402288	ita	Ho trascorso l'intero weekend a casa al computer.	Guybrush88	2015-07-24 07:14:59	2015-07-24 07:14:59
+120	0x78	x	1339	1614068	ita	L'autobus era affollatissimo. Se solo avessi preso il taxi.	hitori37	2012-06-08 16:34:59	2012-06-08 16:34:59
+121	0x79	y	27949	7624416	ita	Non vanno a costruire grattacieli in Paraguay.	Guybrush88	2018-12-20 17:03:57	2018-12-20 17:03:57
+122	0x7a	z	151360	6215389	ita	In cosa dovrebbe consistere una colazione salutare?	Guybrush88	2017-08-29 14:55:41	2017-08-29 14:55:41
 124	0x7c	|	2	4183288	ita	Devo dire che mi ha proprio convinto|	Guybrush88	2015-05-13 16:58:33	2015-05-13 16:58:33
-160	0xa0	 	149	3235901	ita	Maxim è un po' sbilanciato.	carlosalberto	2014-05-06 23:34:56	2014-05-06 23:34:56
+160	0xa0	 	149	5167001	ita	È malattia essere ossessionati dalla vittoria, è malattia essere ossessionati dall'utilizzo delle arti marziali, ed è malattia essere ossessionati dal presentare tutto quello che si ha imparato. È malattia essere ossessionati con l'attacco, ed è malattia anche essere ossessionati dalla difesa. È malattia anche essere ossessionati dallo sbarazzarsi della malattia. Fissare la mente ossessivamente su qualsiasi cosa è considerato malattia.	Guybrush88	2016-05-26 14:11:07	2016-05-26 14:11:07
 161	0xa1	¡	1	10837056	ita	¡Come carne!	JSKabylie	2022-05-17 21:42:41	2022-05-17 21:42:41
 163	0xa3	£	1	2796607	ita	Le tasse universitarie in Gran Bretagna costano circa 9.000£ all'anno.	Guybrush88	2013-10-18 11:05:50	2013-10-18 11:05:50
-171	0xab	«	77	11002995	ita	«Sta cercando qualcosa?» «No, so stolo guardando.»	ml_tatoeba	2022-07-18 20:11:29	2022-07-18 20:11:29
-176	0xb0	°	32	3334476	ita	Imparando delle lezioni dall'Europa, il Giappone deve cambiare la sua politica orientata all'economia con una consapevole dei consumatori, al fine di far fronte all'avvento della società che invecchia senza precedenti verso il 21° secolo.	Guybrush88	2014-06-22 14:15:39	2014-06-22 14:15:39
-178	0xb2	²	5	4722436	ita	La Città del Vaticano, con i suoi 0,44 km², è lo Stato più piccolo del mondo.	Guybrush88	2015-11-24 09:03:33	2015-11-24 09:03:33
+171	0xab	«	77	5632102	ita	«Ma perché voi siete così!» - «"Voi" chi?» - «La vostra generazione».	dnnywld	2016-11-23 09:53:14	2016-11-23 09:53:41
+176	0xb0	°	32	3313929	ita	La gente pensava che il teletrasporto fosse impossibile, ma dal 24° secolo il teletrasporto di oggetti di grandi dimensioni e anche di persone è diventato comune, tanto quanto il forno a microonde indietro nel 21° secolo.	Guybrush88	2014-06-13 14:09:48	2014-06-13 14:10:00
+178	0xb2	²	5	5873952	ita	Nel VII secolo, il matematico indiano Brahmagupta trovò la più piccola soluzione intera positiva della equazione x²-92y²=1.	WM3DAS	2017-02-16 20:11:27	2017-02-16 20:11:27
 179	0xb3	³	1	5646244	ita	La densità dell'alluminio è di 2.700 kg/m³.	dnnywld	2016-11-29 14:04:21	2016-11-29 14:04:27
-180	0xb4	´	7	4371577	ita	L´ammiragliato esercita il comando supremo della marina militare di uno Stato.	saverius	2015-07-14 17:19:16	2015-07-14 17:20:16
+180	0xb4	´	7	4371606	ita	L´allodola canta bene.	saverius	2015-07-14 17:39:20	2015-07-14 17:39:24
 183	0xb7	·	1	3558120	ita	È il mio ragazzo ideale·	Guybrush88	2014-10-14 20:45:30	2014-10-14 20:45:30
 186	0xba	º	2	640594	ita	Abraham Lincoln, il 16º Presidente degli Stati Uniti, è nato in una capanna di tronchi nel Kentucky.	Guybrush88	2010-11-29 15:26:03	2012-02-06 00:07:20
-187	0xbb	»	79	8872697	ita	«Dov'è la tua mamma, Tom?» — «È al negozio con la mia sorella maggiore».	Valdast	2020-06-25 16:43:57	2020-06-25 16:43:57
-191	0xbf	¿	2	5393379	ita	¿Sabe usted cómo manejar esta cosa?	Leono	2016-09-02 13:14:42	2016-09-02 13:14:42
-193	0xc1	Á	2	2159760	ita	Álvaro viene dal Venezuela. È venezuelano.	Guybrush88	2013-01-22 17:42:25	2013-01-22 17:42:25
+187	0xbb	»	79	10993547	ita	«Dammi qualcosa con cui scrivere» «Va bene questa penna a sfera?»	ml_tatoeba	2022-07-15 21:13:24	2022-07-15 21:13:24
+191	0xbf	¿	2	5393378	ita	¿Sabes cómo manejar esta cosa?	Leono	2016-09-02 13:14:29	2016-09-02 13:14:29
+193	0xc1	Á	2	2159763	ita	Álvaro viene dal Venezuela. Lui è venezuelano.	Guybrush88	2013-01-22 17:42:33	2013-01-22 17:42:33
 199	0xc7	Ç	1	897135	ita	Scriviamo Çorum "Ĉorum" in esperanto.	Guybrush88	2011-05-17 22:38:43	2011-05-17 22:38:50
-200	0xc8	È	26640	4515467	ita	È ora di andarsene.	Guybrush88	2015-09-11 08:26:21	2015-09-11 08:26:21
+200	0xc8	È	26664	9708579	ita	È un gemello.	Guybrush88	2021-01-31 19:20:24	2021-01-31 19:20:24
 201	0xc9	É	6	3700238	ita	Émilie è carina.	Guybrush88	2014-12-19 14:10:23	2014-12-19 14:10:23
 205	0xcd	Í	1	3883880	ita	L'Islanda si chiama "Ísland" in islandese.	Guybrush88	2015-02-21 13:04:39	2015-02-21 13:04:39
 206	0xce	Î	1	11489635	ita	"Unde se duc în vacanță?" "În Vietnam."	ridisegnandone	2023-01-27 13:44:05	2023-01-27 13:44:05
 214	0xd6	Ö	7	4958439	ita	Lei lo sapeva che Mesut Özil, il famoso calciatore tedesco, è anche turco?	Guybrush88	2016-03-06 23:37:09	2016-03-06 23:37:09
 218	0xda	Ú	1	990635	ita	Per ora, tutto quello che sappiamo è che Úrsula è morta.	riccioberto	2011-07-14 19:34:51	2011-07-14 19:34:51
 223	0xdf	ß	4	828363	ita	La tastiera svizzera non ha ß.	riccioberto	2011-04-07 13:25:48	2011-04-07 13:25:48
-224	0xe0	à	55133	12139516	ita	Spesso, il vecchio libro ha pagine che si corrugano a causa dell'umidità.	Guybrush88	2023-11-01 11:03:13	2023-11-01 11:03:13
-225	0xe1	á	38	8080701	ita	Chi non legge, a 70 anni avrà vissuto una sola vita: la propria! Chi legge avrá vissuto 5000 anni: c'era quando Caino uccise Abele, quando Renzo sposó Lucia, quando Leopardi ammirava l'infinito... perché la lettura è una immortalità all'indietro.	carlosalberto	2019-07-28 13:09:05	2019-07-28 13:09:05
+224	0xe0	à	55145	4259267	ita	In realtà dimostrare il contrario si può.	Guybrush88	2015-06-06 22:08:08	2015-06-06 22:08:08
+225	0xe1	á	38	2159768	ita	Antonio Guzmán Blanco salì al potere in Venezuela nel 1870.	Guybrush88	2013-01-22 17:43:25	2013-01-22 17:43:25
 226	0xe2	â	2	1549870	ita	La pâte brisée, per essere buona, deve essere friabile e leggera.	Guybrush88	2012-04-26 01:52:35	2018-03-21 16:40:41
-227	0xe3	ã	16	9965828	ita	Secondo Rafael Leitão, è molto difficile per un giocatore di scacchi professionista ottenere una sponsorizzazione in Brasile, perché gli scacchi non sono popolari nel nostro paese.	carlosalberto	2021-04-17 20:41:10	2021-04-17 20:41:10
+227	0xe3	ã	16	2520780	ita	Vivo a Ribeirão Preto.	Guybrush88	2013-06-24 10:17:22	2013-06-24 10:17:22
 228	0xe4	ä	6	1719096	ita	Hai mai salutato Pfirsichbäumchen in tedesco?	Guybrush88	2012-07-23 11:35:45	2012-07-23 11:35:45
-230	0xe6	æ	2	2448091	ita	La Svezia è pronunciata "'sværjə" in svedese.	Guybrush88	2013-05-22 11:09:21	2013-05-22 11:09:21
-231	0xe7	ç	18	10323601	ita	Ho appena visto una partita a dama, giocata da Françualdo Gonçalves de Souza nel 1997, più bella della partita a scacchi chiamata Immortale, giocata da Adolf Anderssen nel 1895.	carlosalberto	2021-09-26 16:10:10	2021-09-26 16:10:10
-232	0xe8	è	109200	6944629	ita	Quanto tempo vi ci è voluto per stilare questo rapporto?	dnnywld	2018-06-14 09:20:11	2018-06-14 09:20:11
-233	0xe9	é	19873	8014727	ita	Perché non volete farlo?	Guybrush88	2019-07-01 22:19:34	2019-07-01 22:19:34
-234	0xea	ê	10	3119682	ita	La Brasserie du Pêcheur produceva birra e la importava in Germania.	Guybrush88	2014-03-23 15:07:31	2014-03-23 15:07:31
-235	0xeb	ë	11	11722087	ita	Chiamami Ismaël.	Guybrush88	2023-04-29 12:47:53	2023-04-29 12:47:53
-236	0xec	ì	20460	10790817	ita	Sai cosa c'è scritto lì?	dnnywld	2022-04-27 14:54:09	2022-04-27 14:54:09
-237	0xed	í	26	3236443	ita	Tímea è un'ungherese che vive in Polonia.	Guybrush88	2014-05-07 10:44:45	2014-05-07 10:44:45
-238	0xee	î	27	2521149	ita	Dov'è Nîmes?	Guybrush88	2013-06-24 13:08:37	2013-06-24 13:08:37
+230	0xe6	æ	2	2448092	ita	La Svezia si pronuncia "'sværjə" in svedese.	Guybrush88	2013-05-22 11:09:30	2013-05-22 11:09:30
+231	0xe7	ç	18	2837096	ita	Telefonerà a Pierre e Françoise.	Guybrush88	2013-11-08 18:24:22	2013-11-08 18:24:35
+232	0xe8	è	109230	5357041	ita	Qual è il tuo condimento della pizza preferito?	Guybrush88	2016-08-20 15:22:32	2016-08-20 15:22:32
+233	0xe9	é	19873	6289171	ita	Mi dica perché non l'ha chiesto a lei.	Guybrush88	2017-09-04 15:21:21	2017-09-04 15:21:21
+234	0xea	ê	10	3119686	ita	La Brasserie du Pêcheur vuole un risarcimento dalla Germania per non aver potuto importare la propria birra.	Guybrush88	2014-03-23 15:07:31	2014-03-23 15:07:31
+235	0xeb	ë	11	2456483	ita	Signor Gorbačëv, apra questa porta. Signor Gorbačëv, Signor Gorbačëv, abbatta questo muro!	Guybrush88	2013-05-26 03:30:12	2018-03-23 08:28:45
+236	0xec	ì	20472	8303999	ita	Morì il suo trentesimo compleanno.	Guybrush88	2019-11-05 12:47:24	2019-11-05 12:47:24
+237	0xed	í	26	11554367	ita	Reykjavík è la capitale più settentrionale.	Guybrush88	2023-02-21 19:43:44	2023-02-21 19:43:44
+238	0xee	î	27	11489621	ita	Tom îi spuse Mariei să se ducă în camera sa.	ridisegnandone	2023-01-27 13:41:42	2023-01-27 13:41:42
 239	0xef	ï	1	1257065	ita	Nella maggior parte dei casi, la gente, anche la più viziosa, è molto più naïf e sempliciotta di quanto noi supponiamo che sia. E questo vale anche per noi stessi.	riccioberto	2011-11-23 10:36:30	2011-11-23 10:36:30
-241	0xf1	ñ	6	2572710	ita	Mi auguro che tu ti imbatta in un banco di piraña mentre stai sguazzando in mare.	Guybrush88	2013-07-07 12:48:06	2013-07-07 12:48:06
-242	0xf2	ò	40622	8611690	ita	Qualcuno cercò di sparare a Tom.	Guybrush88	2020-03-14 00:15:50	2020-03-14 00:15:50
-243	0xf3	ó	21	5393378	ita	¿Sabes cómo manejar esta cosa?	Leono	2016-09-02 13:14:29	2016-09-02 13:14:29
+241	0xf1	ñ	6	3743121	ita	Vorrei una piña colada.	Guybrush88	2015-01-03 20:56:21	2015-01-03 20:56:21
+242	0xf2	ò	40624	6367425	ita	Tom può cantare.	Guybrush88	2017-10-06 08:18:26	2017-10-06 08:18:26
+243	0xf3	ó	21	9927794	ita	La giocatrice di scacchi ungherese Judit Polgár è considerata la giocatrice più forte nella storia degli scacchi. Anche le sue due sorelle Zsófia e Zsuzsa sono giocatrici molto dotate.	carlosalberto	2021-03-30 15:15:46	2021-03-30 21:17:39
 244	0xf4	ô	1	10286831	ita	Millôr Fernandes, che tradusse in portoghese quattro delle opere di Shakespeare (Amleto, La bisbetica domata, Re Lear e Le allegre comari di Windsor), non parlava inglese.	carlosalberto	2021-09-10 15:43:34	2021-09-10 15:43:34
-246	0xf6	ö	14	3275472	ita	La A 7 Kassel in direzione di Hannover è bloccata a livello dell'uscita Göttingen Nord a causa di un incidente.	Guybrush88	2014-05-24 12:53:02	2014-05-24 12:53:31
-248	0xf8	ø	2	4465266	ita	Una corona e cinquanta øre.	Guybrush88	2015-08-22 09:15:24	2015-08-22 09:15:24
-249	0xf9	ù	18965	3639695	ita	Mettetevi in testa che non gliene frega nulla a nessuno del fatto che non andate a votare. Specie ai vecchi politici. Gliene importerà qualcosa solo se lo farete votando non più loro.	Guybrush88	2014-11-17 14:59:11	2014-11-17 14:59:11
-250	0xfa	ú	11	9144129	ita	Piú dentro!	maaster	2020-10-14 17:59:25	2020-10-14 17:59:33
+246	0xf6	ö	14	690236	ita	I miei vicini mi hanno già spiegato chi è Björk.	Guybrush88	2010-12-28 23:47:15	2010-12-28 23:47:15
+248	0xf8	ø	2	3215943	ita	Jørgen sta imparando il greco.	Guybrush88	2014-04-29 22:13:51	2014-04-29 22:13:51
+249	0xf9	ù	18972	2366661	ita	Andatela a vedere se non volete mai più dormire!	Guybrush88	2013-04-08 20:52:10	2013-04-08 20:52:10
+250	0xfa	ú	11	2349015	ita	Adempiendo il piano divino,Gesú mori nelle stesse ore in cui gli Ebrei celebravano la pascua.	elchapi_1	2013-03-31 15:09:27	2013-03-31 15:09:27
 251	0xfb	û	1	4991483	ita	Roberd non sa come si scrive 'crème brûlée'.	Guybrush88	2016-03-19 20:02:24	2016-03-19 20:02:24
-252	0xfc	ü	28	1832635	ita	Ho trovato il volapük molto complicato, contrariamente all'esperanto, che è molto facile.	Guybrush88	2012-09-11 11:08:12	2012-09-11 11:08:12
+252	0xfc	ü	28	2760376	ita	L'esperanto, l'ido, l'interlingua, il klingon, il lojban, il na'vi e il volapük sono delle lingue artificiali.	Guybrush88	2013-09-26 09:02:26	2013-09-26 09:02:26
 257	0x101	ā	4	2018446	ita	Gli Emirati Arabi Uniti si chiamano "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah" in arabo.	Guybrush88	2012-11-18 14:01:18	2012-11-18 14:01:18
-259	0x103	ă	26	11489643	ita	Rezistența la stres e o componentă foarte cerută.	ridisegnandone	2023-01-27 13:45:45	2023-01-27 13:45:45
+259	0x103	ă	26	11489611	ita	Bea o cană de apă.	ridisegnandone	2023-01-27 13:39:52	2023-01-27 13:39:52
 264	0x108	Ĉ	1	897135	ita	Scriviamo Çorum "Ĉorum" in esperanto.	Guybrush88	2011-05-17 22:38:43	2011-05-17 22:38:50
-265	0x109	ĉ	5	6672289	ita	L'alfabeto dell'esperanto ha 28 lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2018-02-04 17:08:33	2018-02-04 17:08:33
+265	0x109	ĉ	5	7551331	ita	Nuntempe eblas famigi ĉiun masegon de porkaĵo, televide montrante ĝin dum minuto.	GrizaLeono	2018-12-02 19:12:29	2018-12-02 19:12:29
 268	0x10c	Č	2	5643838	ita	Tom chiama affettuosamente Mary "mia Čeburaška"	dnnywld	2016-11-28 14:01:10	2016-11-28 14:01:10
 269	0x10d	č	8	2456483	ita	Signor Gorbačëv, apra questa porta. Signor Gorbačëv, Signor Gorbačëv, abbatta questo muro!	Guybrush88	2013-05-26 03:30:12	2018-03-23 08:28:45
 275	0x113	ē	1	3349755	ita	Andris Bērziņš diventerà il nuovo presidente della Lettonia.	Guybrush88	2014-06-29 19:23:50	2014-06-29 19:23:50
-279	0x117	ė	2	7554283	ita	Ulan-Udė è la capitale della Repubblica di Buriazia.	dnnywld	2018-12-04 08:05:08	2018-12-04 08:05:08
-281	0x119	ę	2	2695410	ita	Mia moglie si chiama Lidia Zarębowa.	Guybrush88	2013-08-23 18:49:34	2013-08-23 18:49:34
-285	0x11d	ĝ	7	6672289	ita	L'alfabeto dell'esperanto ha 28 lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2018-02-04 17:08:33	2018-02-04 17:08:33
+279	0x117	ė	2	3460065	ita	Purtroppo la depressione ė una brutta bestia, solo se ci sei passato puoi capire il perché succedono queste cose.	Guybrush88	2014-08-30 03:08:13	2014-08-30 03:08:13
+281	0x119	ę	2	2695409	ita	Il nome di mia moglie è Lidia Zarębowa.	Guybrush88	2013-08-23 18:49:29	2013-08-23 18:49:29
+285	0x11d	ĝ	7	1152736	ita	Esempio: per esprimere la direzione, aggiungiamo alla parola la lettera finale "n"; quindi "tie" (= in quel luogo), "tien" (= verso quel luogo); alla stessa maniera diciamo "la birdo flugis en la ĝardenon, sur la tablon" e le parole "ĝardenon" e "tablon" hanno qui la forma accusativa non perché le preposizioni "en" e "sur" lo richiedano, ma perché vogliamo esprimere la direzione, cioè indicare che l'uccello all'inizio non si trovava nel giardino o sulla tavola e ivi volava, ma che da un altro posto è volato al giardino o sulla tavola (vogliamo indicare che il giardino e la tavola non erano il luogo del volo, ma l'obiettivo del volo). In tali casi usiamo la finale "n" indipendentemente dal fatto che ci sia o no una preposizione.	xicotenga	2011-10-05 09:44:15	2012-03-17 12:41:41
 287	0x11f	ğ	1	9464327	ita	Erdoğan è il presidente della Turchia.	Guybrush88	2020-12-11 19:28:30	2021-01-04 23:47:00
-293	0x125	ĥ	3	6672289	ita	L'alfabeto dell'esperanto ha 28 lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2018-02-04 17:08:33	2018-02-04 17:08:33
-299	0x12b	ī	2	2134660	ita	Singapore si chiama "Xīnjiāpō" in cinese.	Guybrush88	2013-01-10 00:20:00	2013-01-10 00:20:00
+293	0x125	ĥ	3	1440647	ita	L'alfabeto dell'esperanto comprende ventotto lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2012-02-17 14:14:02	2012-02-17 14:14:02
+299	0x12b	ī	2	2134661	ita	Singapore è chiamata "Xīnjiāpō" in cinese.	Guybrush88	2013-01-10 00:20:08	2013-01-10 00:20:08
 305	0x131	ı	2	3883868	ita	Cipro si chiama "Kıbrıs" in turco.	Guybrush88	2015-02-21 13:01:27	2015-02-21 13:01:27
-309	0x135	ĵ	4	6672289	ita	L'alfabeto dell'esperanto ha 28 lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2018-02-04 17:08:33	2018-02-04 17:08:33
-322	0x142	ł	2	990321	ita	Bronisław ha 18 anni.	riccioberto	2011-07-14 18:18:31	2011-07-14 18:18:31
+309	0x135	ĵ	4	1440647	ita	L'alfabeto dell'esperanto comprende ventotto lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2012-02-17 14:14:02	2012-02-17 14:14:02
+322	0x142	ł	2	4982027	ita	Stanisław Jerzy Lec una volta disse: "Capita di dover tacere per essere ascoltati".	aldolit58	2016-03-16 18:16:23	2016-03-17 07:25:25
 326	0x146	ņ	1	3349755	ita	Andris Bērziņš diventerà il nuovo presidente della Lettonia.	Guybrush88	2014-06-29 19:23:50	2014-06-29 19:23:50
-333	0x14d	ō	8	5529052	ita	Non mi aspettavo che il tōfu fosse così buono.	dnnywld	2016-10-18 20:09:31	2016-10-18 20:09:31
+333	0x14d	ō	8	4284042	ita	Il nō è una forma d'arte giapponese tradizionale.	bailujia	2015-06-18 15:13:22	2015-06-18 15:13:22
 335	0x14f	ŏ	1	3883983	ita	La Corea del Nord si chiama "Chosŏn" in coreano.	Guybrush88	2015-02-21 13:23:56	2015-02-21 13:23:56
 339	0x153	œ	1	3885985	ita	Il Crèvecœur è una razza rara di pollo francese.	Guybrush88	2015-02-22 09:09:51	2015-02-22 09:09:51
 349	0x15d	ŝ	4	6672289	ita	L'alfabeto dell'esperanto ha 28 lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2018-02-04 17:08:33	2018-02-04 17:08:33
-351	0x15f	ş	5	3898383	ita	Non ho mai visitato Kagoşima ma sto pianificando di farlo quest'estate.	valealb	2015-02-27 11:53:40	2015-02-27 11:53:40
+351	0x15f	ş	5	3116190	ita	La prima operetta romena venne eseguita a Iaşi nel 1848.	Guybrush88	2014-03-22 09:48:08	2014-03-22 09:48:08
 352	0x160	Š	3	11954744	ita	Chissà dove si trova la tomba di Taras Ševčenko?	Rovo	2023-07-24 15:21:30	2023-07-24 15:21:30
-353	0x161	š	14	5385325	ita	Il boršč è in frigorifero.	dnnywld	2016-08-30 19:32:34	2016-08-30 19:32:34
+353	0x161	š	14	2172407	ita	Mi chiamo Dušana.	Guybrush88	2013-01-28 13:12:28	2013-01-28 13:12:28
 363	0x16b	ū	1	3884400	ita	L'Arabia Saudita si chiama "Al-Mamlakah Al-‘Arabiyyah As-Sa‘ūdiyyah" in arabo.	Guybrush88	2015-02-21 15:41:43	2015-02-21 15:41:43
-365	0x16d	ŭ	4	7577470	ita	Aŭskultante Mahler-on, Lunjo ĉiam pensis pri la morto kaj la senfina vivo.	GrizaLeono	2018-12-11 08:34:33	2018-12-11 08:34:33
-382	0x17e	ž	2	5503026	ita	L'8 ottobre è il giorno della memoria del monaco Sergio di Radonež.	dnnywld	2016-10-08 11:35:42	2016-10-08 11:35:42
+365	0x16d	ŭ	4	1440647	ita	L'alfabeto dell'esperanto comprende ventotto lettere: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Guybrush88	2012-02-17 14:14:02	2012-02-17 14:14:02
+382	0x17e	ž	2	11661799	ita	L'alfabeto sloveno si compone di 25 lettere: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.	Adelpa	2023-04-06 19:28:53	2023-04-06 19:28:53
 536	0x218	Ș	1	11489618	ita	Știți unde pot să-l găsesc?	ridisegnandone	2023-01-27 13:41:00	2023-01-27 13:41:00
 537	0x219	ș	1	11489626	ita	De ce vă machiați așa de mult?	ridisegnandone	2023-01-27 13:42:32	2023-01-27 13:42:32
-539	0x21b	ț	9	11489635	ita	"Unde se duc în vacanță?" "În Vietnam."	ridisegnandone	2023-01-27 13:44:05	2023-01-27 13:44:05
+539	0x21b	ț	9	11489620	ita	Are nevoie să facă un pic de exerciții.	ridisegnandone	2023-01-27 13:41:18	2023-01-27 13:41:18
 596	0x254	ɔ	1	1101598	ita	Molti germanofoni dicono [ˌd͡ʒɔʁnaˈlɪsmʊs], e molti dicono [ʒelanˈtiːnə], senza alcun motivo comprensibile.	riccioberto	2011-09-13 14:16:24	2011-09-13 14:16:24
-601	0x259	ə	6	2749284	ita	L'Azerbaijan viene chiamato "Azərbaycan" in azero.	Guybrush88	2013-09-19 18:44:59	2013-09-19 18:44:59
-611	0x263	ɣ	3	12076006	ita	"Aɣrum" vuol dire pane in berbero.	Guybrush88	2023-09-24 15:35:52	2023-09-24 15:35:52
+601	0x259	ə	6	2448092	ita	La Svezia si pronuncia "'sværjə" in svedese.	Guybrush88	2013-05-22 11:09:30	2013-05-22 11:09:30
+611	0x263	ɣ	3	12076007	ita	"Aɣrum" vuole dire pane in berbero.	Guybrush88	2023-09-24 15:35:56	2023-09-24 15:35:56
 618	0x26a	ɪ	1	1101598	ita	Molti germanofoni dicono [ˌd͡ʒɔʁnaˈlɪsmʊs], e molti dicono [ʒelanˈtiːnə], senza alcun motivo comprensibile.	riccioberto	2011-09-13 14:16:24	2011-09-13 14:16:24
 641	0x281	ʁ	1	1101598	ita	Molti germanofoni dicono [ˌd͡ʒɔʁnaˈlɪsmʊs], e molti dicono [ʒelanˈtiːnə], senza alcun motivo comprensibile.	riccioberto	2011-09-13 14:16:24	2011-09-13 14:16:24
 650	0x28a	ʊ	1	1101598	ita	Molti germanofoni dicono [ˌd͡ʒɔʁnaˈlɪsmʊs], e molti dicono [ʒelanˈtiːnə], senza alcun motivo comprensibile.	riccioberto	2011-09-13 14:16:24	2011-09-13 14:16:24
@@ -178,7 +178,7 @@
 916	0x394	Δ	1	10149856	ita	"Δ" è una lettera greca.	Guybrush88	2021-07-04 17:03:55	2021-07-04 17:03:55
 960	0x3c0	π	9	5551628	ita	Il valore della funzione coseno si ripete con periodo 2π.	dnnywld	2016-10-26 09:46:38	2016-10-26 09:46:38
 1054	0x41e	О	1	2802954	ita	Оggi al mercato ho comprato una felpa con cappuccio, taglia XL.	korobo4ka	2013-10-21 23:35:36	2013-10-21 23:35:36
-1072	0x430	а	4	534552	ita	Avete aggiunto un commento, non una traduzione. Per aggiungere una traduzione, cliccate sul il simbolo «あ→а» sopra la frase.	Pharamp	2010-09-26 18:06:24	2010-09-26 18:06:24
+1072	0x430	а	4	1866272	ita	Ha aggiunto un commento, non una traduzione. Per aggiungere una traduzione, clicchi sul il simbolo «あ→а» sopra la frase.	Guybrush88	2012-09-25 23:04:59	2012-09-25 23:04:59
 1077	0x435	е	1	11058900	ita	In Toki Pona, "telo" significa "acqua". In russo, "тело" significa "corpo". E l'acqua è il principale componente del corpo (umano).	carlosalberto	2022-08-13 11:10:35	2022-08-13 11:10:35
 1080	0x438	и	1	5458986	ita	Il carattere «&» sta per «и».	dnnywld	2016-09-21 12:40:03	2016-09-21 12:40:03
 1083	0x43b	л	1	11058900	ita	In Toki Pona, "telo" significa "acqua". In russo, "тело" significa "corpo". E l'acqua è il principale componente del corpo (umano).	carlosalberto	2022-08-13 11:10:35	2022-08-13 11:10:35
@@ -187,26 +187,26 @@
 1105	0x451	ё	2	5517765	ita	Ho letto da qualche parte che secondo le regole la lettera ё, nei testi per i bambini e per gli stranieri che studiano la lingua russa, deve essere scritta esattamente come ё e non come e.	dnnywld	2016-10-14 16:00:24	2016-10-14 16:00:24
 7716	0x1e24	Ḥ	1	7831667	ita	Ḥader a Tom!	Amastan	2019-03-31 14:23:29	2019-03-31 14:23:29
 7717	0x1e25	ḥ	2	2018446	ita	Gli Emirati Arabi Uniti si chiamano "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah" in arabo.	Guybrush88	2012-11-18 14:01:18	2012-11-18 14:01:18
-7771	0x1e5b	ṛ	4	1980247	ita	Il Marocco si chiama "Meṛṛuk" in berbero.	Guybrush88	2012-11-03 21:52:42	2012-11-03 21:52:42
+7771	0x1e5b	ṛ	4	1980248	ita	Il Marocco è chiamato "Meṛṛuk" in berbero.	Guybrush88	2012-11-03 21:52:50	2012-11-03 21:52:50
 7843	0x1ea3	ả	1	1765031	ita	Che rivista legge il signor Hải?	scooby	2012-08-10 00:51:38	2012-08-10 00:51:38
-8203	0x200b	​	38	1794366	ita	Dio solo sa se ​​riesco a sopravvivere al 20° secolo.	hitori37	2012-08-24 12:46:20	2012-08-24 12:46:20
+8203	0x200b	​	38	11190909	ita	I bambini sono arrivati ​​sani e salvi a Berlino. Ora sono sollevato.	Guybrush88	2022-10-19 11:32:37	2022-10-19 11:32:37
 8206	0x200e	‎	1	1280946	ita	‎Certe volte la gente mente soltando tacendo.	Guybrush88	2011-12-05 16:15:39	2011-12-05 16:15:39
-8211	0x2013	–	53	8837627	ita	È castana, bionda o dai capelli rossi? – Non lo so.	carlosalberto	2020-06-12 14:49:42	2020-06-12 14:49:42
-8212	0x2014	—	193	3049953	ita	Hai presentato la tua nuova amica a tuo padre? — Sì, gliel'ho già presentata.	rado	2014-02-16 14:04:58	2014-02-16 14:05:12
-8216	0x2018	‘	11	3884400	ita	L'Arabia Saudita si chiama "Al-Mamlakah Al-‘Arabiyyah As-Sa‘ūdiyyah" in arabo.	Guybrush88	2015-02-21 15:41:43	2015-02-21 15:41:43
-8217	0x2019	’	499	794193	ita	Questa clessidra, l’abbiamo costruita affinché fosse una prigione di vetro per il tempo, per poterlo almeno tenere in mano, visto che trattenerlo è impossibile.	Pharamp	2011-03-15 16:37:25	2011-03-15 16:37:25
-8220	0x201c	“	55	1859924	ita	È appena arrivata una copia fresca di stampa del libro “L’utile e il dilettevole“.	al_ex_an_der	2012-09-23 01:27:44	2014-06-24 17:14:37
-8221	0x201d	”	37	1333015	ita	È notte e un uomo cammina carponi sul marciapiede, nei pressi di un lampione. “Ha forse perso qualcosa?” gli domanda un passante. “Sì, un bottone della camicia.” “Ed è sicuro di averlo perso proprio qui?” “No, un po' più indietro. Ma qui c’è più luce per cercarlo.”	rado	2012-01-01 16:48:18	2012-01-01 17:33:21
+8211	0x2013	–	53	8843459	ita	È dolce sognare, amare, cantare – vivere!	carlosalberto	2020-06-14 14:03:32	2020-06-14 14:03:32
+8212	0x2014	—	193	3044486	ita	Perché non hai dormito? — Non ho dormito perché non avevo sonno.	rado	2014-02-13 17:53:44	2014-02-13 17:53:44
+8216	0x2018	‘	11	2018446	ita	Gli Emirati Arabi Uniti si chiamano "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah" in arabo.	Guybrush88	2012-11-18 14:01:18	2012-11-18 14:01:18
+8217	0x2019	’	499	1775290	ita	Risanare l’Europa è molto più che stabilizzare l’euro.	al_ex_an_der	2012-08-15 02:45:10	2012-08-15 02:45:10
+8220	0x201c	“	55	3394025	ita	Ai suoi occhi, il predominio della lingua inglese, non soltanto costituisce una minaccia per il patrimonio dell’umanità, ma è carico di un rischio ben più grave: lo sfociare di questa “lingua unica” su un “pensiero unico”, ossessionato dal denaro e dal consumismo.	Malape	2014-07-23 22:57:42	2014-07-23 22:57:42
+8221	0x201d	”	37	1777042	ita	“Che cosa può essere?” si chiese Maria, fissando con grande attenzione una macchia nera.	al_ex_an_der	2012-08-15 21:24:15	2012-08-15 21:26:36
 8222	0x201e	„	4	5332202	ita	„Ecco, uno scoiattolo!“ – „Cosa? Dove?“ – „Lassù sull'albero. Lo vedi?“ – „Sì, lo vedo!“	Sciuro_Kvar	2016-08-10 14:54:44	2016-08-10 14:54:44
-8230	0x2026	…	10	3756003	ita	Meno male che non era una ricerca sugli uccelli…	Guybrush88	2015-01-09 18:22:14	2015-01-09 18:22:14
-8322	0x2082	₂	3	9329806	ita	I livelli di CO₂ non sono mai aumentati di oltre 280 parti per milione fino al 1950.	Guybrush88	2020-11-18 23:46:10	2020-11-18 23:46:10
+8230	0x2026	…	10	4964340	ita	Forse se iniziasse a darti retta sarebbe meglio…	Guybrush88	2016-03-09 18:47:17	2016-03-09 18:47:17
+8322	0x2082	₂	3	9329808	ita	I livelli di CO₂ non aumentarono mai di oltre 280 parti per milione fino al 1950.	Guybrush88	2020-11-18 23:46:21	2020-11-18 23:46:21
 8356	0x20a4	₤	1	706716	ita	La precedente valuta italiana è la lira e il suo simbolo "₤". Non è legata alla lira turca.	Heracleum	2011-01-10 21:52:07	2011-01-10 21:52:07
-8364	0x20ac	€	16	2793085	ita	I kiwi vengono 3€ al chilo.	Guybrush88	2013-10-15 21:12:30	2013-10-15 21:12:30
+8364	0x20ac	€	16	1979375	ita	Per comprare il mio computer, ho dovuto pagare 100€.	Guybrush88	2012-11-03 19:28:54	2012-11-03 19:28:54
 8377	0x20b9	₹	2	11292213	ita	Questa biro costa 10₹.	Guybrush88	2022-12-04 10:46:28	2022-12-04 10:46:28
 8594	0x2192	→	3	534552	ita	Avete aggiunto un commento, non una traduzione. Per aggiungere una traduzione, cliccate sul il simbolo «あ→а» sopra la frase.	Pharamp	2010-09-26 18:06:24	2010-09-26 18:06:24
 9773	0x262d	☭	1	9860985	ita	☭ è un simbolo del comunismo.	Bethanielle	2021-03-22 21:26:50	2021-03-22 21:26:50
 9815	0x2657	♗	2	9967692	ita	Ruy López de Segura, un prete e un famoso giocatore di scacchi spagnolo del XVI secolo, ha scritto un libro di 150 pagine, chiamato Libro del Ajedrez, sugli studi esaurienti che ha fatto sull'apertura (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5) che prende il nome da lui.	carlosalberto	2021-04-18 11:38:59	2021-09-08 20:45:04
-9816	0x2658	♘	4	9967692	ita	Ruy López de Segura, un prete e un famoso giocatore di scacchi spagnolo del XVI secolo, ha scritto un libro di 150 pagine, chiamato Libro del Ajedrez, sugli studi esaurienti che ha fatto sull'apertura (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5) che prende il nome da lui.	carlosalberto	2021-04-18 11:38:59	2021-09-08 20:45:04
+9816	0x2658	♘	4	9967578	ita	L'apertura Ruy López, nota anche come apertura spagnola (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5), è forse la più famosa e certamente una delle linee di scacchi più studiate.	carlosalberto	2021-04-18 10:52:56	2021-09-08 20:51:39
 10140	0x279c	➜	2	12197801	ita	Algebra elementare: a) sia x il numero di frasi in galiziano; b) sia x + 700 il numero di frasi in rumeno; c) oggi, x + 700 = 2x; d) quanto vale x? Soluzione: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusione: oggi ci sono 700 frasi in galiziano e 1.400 frasi in rumeno.	carlosalberto	2023-12-06 19:32:47	2023-12-06 19:32:47
 12288	0x3000	　	1	10987605	ita	Non sei　più un bambino.	ml_tatoeba	2022-07-13 21:16:14	2022-07-13 21:16:14
 12293	0x3005	々	1	7299430	ita	"々" significa la ripetizione del kanji precedente.	dnnywld	2018-10-16 09:12:50	2018-10-16 09:12:50

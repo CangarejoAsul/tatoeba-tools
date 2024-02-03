@@ -1,95 +1,95 @@
-32	0x20	 	25298	6763975	eus	Ez naiz desagertuko.	emigonza	2018-03-11 09:26:54	2018-03-11 09:26:54
-33	0x21	!	312	6638493	eus	Pentsatu!	NaiaJS	2018-01-30 14:25:09	2018-01-30 14:25:09
-34	0x22	"	154	5149395	eus	"Noiz hil da?" "Orain dela gutxi"	gabrielmoc_04	2016-05-18 17:18:24	2016-05-19 07:38:49
+32	0x20	 	25298	6636146	eus	Zein da txakur bat zigortzeko modurik onena?	JUNE_EUSKARA1	2018-01-29 10:09:21	2018-01-29 10:09:21
+33	0x21	!	312	4838237	eus	Tranpa bat da!	basaundi	2016-01-17 03:37:38	2016-01-17 03:37:38
+34	0x22	"	154	3388053	eus	"Zer ordu da?" "Hamar eta erdiak dira."	eneko	2014-07-20 00:02:45	2014-07-20 00:02:45
 37	0x25	%	15	884925	eus	2006ko datuen arabera, Euskal Herriko 15 urtetik gorako biztanleen %25,7 elebiduna da (1991n baino 3,4 puntu gehiago -%22,3-), %15,4 elebidun hartzailea eta %58,9 erdaldun elebakarra.	gorkaazk	\N	\N
-39	0x27	'	10	5164933	eus	Dislexia daukagun guztiok ez genuen txikitan 'd' eta 'b' nahasten.	gorkaazk	2016-05-25 17:13:11	2016-05-25 17:13:11
-40	0x28	(	15	4083488	eus	Sinu eta kosinu funtzioek -1 eta 1 arteko balioak hartzen dituzte (-1 eta 1 barne).	eneko	2015-04-18 00:00:58	2015-04-18 00:00:58
-41	0x29	)	15	884926	eus	Lurraldeka, EAEn 15 urtetik gorako elebidunak %30,1 dira (1991n baino 6 puntu gehiago -%24,1-), Iparraldean %22,5 (1991n baino 11 puntu gutxiago -%33,1-) eta Nafarroan %11,1 (1991n baino 1,6 puntu gehiago -%9,5-).	gorkaazk	\N	\N
+39	0x27	'	10	6876577	eus	Apaiz katolikoek ''cellibato''a praktikatzen dute	saraheviaeuskara	2018-05-05 15:09:09	2018-05-05 15:09:09
+40	0x28	(	15	884908	eus	Tipologia lanek bi alineazio-sistema bereizten dituzte hizkuntza ergatibodunetan aditz iragangaitzen jokamoldearen arabera: (i) ergatiboa propio, non aditz iragangaitzek portaera bateratua duten, eta (ii) aktibo-ezaktiboa, non aditz iragangaitzak erdibituta dauden. (Pello Salaburu).	gorkaazk	\N	\N
+41	0x29	)	15	884908	eus	Tipologia lanek bi alineazio-sistema bereizten dituzte hizkuntza ergatibodunetan aditz iragangaitzen jokamoldearen arabera: (i) ergatiboa propio, non aditz iragangaitzek portaera bateratua duten, eta (ii) aktibo-ezaktiboa, non aditz iragangaitzak erdibituta dauden. (Pello Salaburu).	gorkaazk	\N	\N
 43	0x2b	+	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
-44	0x2c	,	868	1332956	eus	Bat batean, min bizi bat somatu nuen sabelean.	txoriburu	2012-01-01 16:23:09	2012-01-01 16:23:09
-45	0x2d	-	259	2709837	eus	Zenbat ahizpa-neba dituzu?	wallebot	2013-08-31 00:01:11	2013-08-31 00:01:24
-46	0x2e	.	4705	1333156	eus	Parisen nago.	txoriburu	2012-01-01 18:09:55	2012-01-01 18:09:55
+44	0x2c	,	868	5149382	eus	Hiru gehi lau egiten baduzu, zazpi edukiko dituzu.	gabrielmoc_04	2016-05-18 17:10:35	2016-05-19 07:43:32
+45	0x2d	-	259	6845233	eus	Dei ezazu 1-800 TATOEBA -ra doako esaldi bat lortzeko.	Markel	2018-04-19 07:00:50	2018-04-26 07:20:40
+46	0x2e	.	4705	6157339	eus	Badirudi eskoila osoa eskua altxatu zuela.	mikel	2017-07-14 12:06:54	2017-07-25 18:13:05
 47	0x2f	/	1	941924	eus	Munduko herrialderik zabalena Errusia da. 21, Gustazen zaizu neska/mutil hori?	melissa83	2011-06-17 13:05:49	2011-06-17 13:05:49
-48	0x30	0	61	1332958	eus	1940ko maiatzaren 31an jaio nintzen.	txoriburu	2012-01-01 16:24:06	2012-01-01 16:24:06
-49	0x31	1	83	884859	eus	Munduko hizkuntza guztien %10-20 izango dira, ziurrenik, ergatiboak.	gorkaazk	\N	\N
-50	0x32	2	35	941924	eus	Munduko herrialderik zabalena Errusia da. 21, Gustazen zaizu neska/mutil hori?	melissa83	2011-06-17 13:05:49	2011-06-17 13:05:49
-51	0x33	3	34	3388055	eus	"Zer ordu da orain?" "3:30ak dira."	eneko	2014-07-20 00:04:33	2014-07-20 00:04:33
-52	0x34	4	11	1332958	eus	1940ko maiatzaren 31an jaio nintzen.	txoriburu	2012-01-01 16:24:06	2012-01-01 16:24:06
-53	0x35	5	24	884925	eus	2006ko datuen arabera, Euskal Herriko 15 urtetik gorako biztanleen %25,7 elebiduna da (1991n baino 3,4 puntu gehiago -%22,3-), %15,4 elebidun hartzailea eta %58,9 erdaldun elebakarra.	gorkaazk	\N	\N
-54	0x36	6	17	5164333	eus	Lehenengo aldiz, duela 6 urte baino gehiago, langabezi tasa %6aren azpitik dago.	oihaneleioa	2016-05-25 08:44:34	2016-05-25 08:44:34
-55	0x37	7	13	3375828	eus	Osakan jaio nintzen 1977an.	eneko	2014-07-13 00:40:53	2014-07-13 00:40:53
-56	0x38	8	16	3372796	eus	Bulgariak 1908ko urrian aldarrikatu zuen bere independentzia.	eneko	2014-07-11 12:03:32	2014-07-11 12:03:32
-57	0x39	9	45	1332948	eus	1974-ko ekainaren 4an jaio nintzen.	txoriburu	2012-01-01 16:20:00	2012-01-01 16:20:00
-58	0x3a	:	26	938726	eus	Del Nido: "Real Madridek ez du Negredo berreskuratuko".	josebleimer1995	2011-06-14 11:08:48	2011-06-14 11:08:48
-59	0x3b	;	14	5152258	eus	Gizonek eta emakumeek, ezkontadinetik aurrera, ezkontzeko eta familia aratzeko eskubidea dute, arraza, herritartasun edo erlijioagatiko inolako mugarik gabe; eta, ezkontzari dagokionez, eskubide berberak dituzte bai ezkonduta jarraituz gero eta bai ezkontza-lotura ezabatuz gero ere.	gorkaazk	2016-05-19 21:52:44	2016-05-19 21:52:44
+48	0x30	0	61	1361430	eus	Milia batek 1600 metro inguru egiten ditu.	txoriburu	2012-01-14 21:47:57	2012-01-14 21:47:57
+49	0x31	1	83	2099774	eus	100 yen ordaindu zituen liburu horrengatik.	NGM	2012-12-23 23:53:21	2012-12-23 23:53:21
+50	0x32	2	35	3372795	eus	Armeniak 1918ko maiatzaren 26an aldarrikatu zuen bere independentzia.	eneko	2014-07-11 12:03:01	2014-07-11 12:03:01
+51	0x33	3	34	884926	eus	Lurraldeka, EAEn 15 urtetik gorako elebidunak %30,1 dira (1991n baino 6 puntu gehiago -%24,1-), Iparraldean %22,5 (1991n baino 11 puntu gutxiago -%33,1-) eta Nafarroan %11,1 (1991n baino 1,6 puntu gehiago -%9,5-).	gorkaazk	\N	\N
+52	0x34	4	11	3375824	eus	Hiroshiman jaio nintzen 1945. urtean.	eneko	2014-07-13 00:39:15	2014-07-13 00:39:15
+53	0x35	5	24	6879285	eus	Nire aita esan zidan II. mundu gerra 1945. urtean bukatu zela.	Claudia63d	2018-05-07 08:45:05	2018-05-07 08:45:05
+54	0x36	6	17	5178985	eus	16 urte beteko ditut hurrengo hilean.	Raquelremen	2016-05-31 13:23:00	2016-05-31 13:23:00
+55	0x37	7	13	884928	eus	Hamasei urtetik gorako biztanleen artean 1991n baino 137.200 elebidun gehiago daude 2006an.	gorkaazk	\N	\N
+56	0x38	8	16	3375825	eus	Kyoton jaio nintzen 1980. urtean.	eneko	2014-07-13 00:39:34	2014-07-13 00:39:34
+57	0x39	9	45	3372795	eus	Armeniak 1918ko maiatzaren 26an aldarrikatu zuen bere independentzia.	eneko	2014-07-11 12:03:01	2014-07-11 12:03:01
+58	0x3a	:	26	863424	eus	Olerki laburrenaren bertsorik politenak bi hitz baino ez ditu: Maite zaitut.	Leynaf	2011-04-28 13:58:32	2011-04-28 13:58:32
+59	0x3b	;	14	5152217	eus	Inor ez da izango besteren esklabo edo uztarpeko; debekatuta dago esklabotza eta esklaboen salerosketa oro.	gorkaazk	2016-05-19 21:30:57	2016-05-19 21:30:57
 60	0x3c	<	4	5188607	eus	<<Nola zaude?>> <<Ondo nago, eskerrik asko.>>	AsierTru	2016-06-03 13:56:10	2016-06-03 13:56:10
 61	0x3d	=	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
 62	0x3e	>	4	5188607	eus	<<Nola zaude?>> <<Ondo nago, eskerrik asko.>>	AsierTru	2016-06-03 13:56:10	2016-06-03 13:56:10
-63	0x3f	?	1080	6924634	eus	Soinekoa zuria duzu?	Alejo42aa	2018-06-01 15:02:44	2018-06-01 15:02:44
-65	0x41	A	436	4083424	eus	Austronauta izan nahi dut.	eneko	2015-04-17 23:15:04	2015-04-17 23:15:04
-66	0x42	B	699	3372116	eus	Betaurrekoak hautsi ditut.	eneko	2014-07-11 04:36:24	2014-07-11 04:36:24
-67	0x43	C	29	938716	eus	Thiagok leku-aldatzea eskatuko du Barcelonak Cesc fitxatuz gero.	josebleimer1995	2011-06-14 11:06:03	2011-06-14 11:06:03
-68	0x44	D	117	6610049	eus	Denbora galtze izugarria da.	Aletxu45D	2018-01-16 14:41:20	2018-01-16 14:41:20
-69	0x45	E	1011	5999964	eus	Euria egingo du?	ireneg45D	2017-04-06 19:57:41	\N
-70	0x46	F	63	6933750	eus	Paris Frantzian dago.	Leire45D	2018-06-07 16:19:40	2018-06-07 16:19:40
-71	0x47	G	402	2633451	eus	Gauero egarri izaten naiz.	noitartsinimda	2013-08-01 05:26:50	2013-08-01 05:26:50
-72	0x48	H	541	6845202	eus	Hamahiru urterekin hasi nintzen frantsesa ikasten.	Markel	2018-04-19 06:49:32	2018-04-19 06:49:32
-73	0x49	I	268	857871	eus	Istripu honen erantzunkizuna duzu.	KitanoGirl	2011-04-26 16:19:45	2011-04-26 16:19:45
-74	0x4a	J	163	5188709	eus	Tom Australiatik Japonera etorri zen.	AsierTru	2016-06-03 14:41:15	2016-06-03 14:41:15
-75	0x4b	K	212	6020506	eus	Kalifornia famatua da bere frutengatik.	JUNE_EUSKARA	2017-04-18 08:11:05	\N
-76	0x4c	L	307	6071007	eus	Layla jadanik biktima zen.	Mireen10	2017-05-11 16:25:43	\N
-77	0x4d	M	338	6833354	eus	Metal bat bezalakoa naiz.	Diego64D	2018-04-13 06:58:36	2018-04-13 06:58:36
-78	0x4e	N	582	6700943	eus	Neskatilek arraina jango lukete?	alaitzub	2018-02-20 16:25:51	2018-02-20 16:25:51
-79	0x4f	O	192	6088931	eus	Orain hasi behar dugu.	Amaia45d	2017-05-19 10:12:46	\N
-80	0x50	P	157	6775014	eus	San Pablon jaio nintzen baina Rion bizi izan naiz	GorkaDTS	2018-03-16 08:19:28	2018-03-16 08:19:28
-81	0x51	Q	2	11758746	eus	Gora Quebec Askatuta!	Fenrir	2023-05-12 22:41:03	2023-05-12 22:41:03
-82	0x52	R	31	938651	eus	Casilla: "Agüerorentzat ez litzateke erraza Real Madridekin sinatzea".	josebleimer1995	2011-06-14 10:50:25	2011-06-14 10:50:25
-83	0x53	S	228	6636549	eus	Segapoto bat dut gelan.	Another_Trans_Boy	2018-01-29 15:40:54	2018-02-02 08:04:48
-84	0x54	T	700	6000803	eus	Tomek egun osoa igaro zuen hondartzan.	aialanaiara	2017-04-07 10:14:11	\N
-85	0x55	U	123	11372151	eus	Unibertsitateko irakaslea naiz.	Txoria	2022-12-25 17:09:11	2022-12-25 17:09:11
-86	0x56	V	11	884897	eus	Valdés: aurretikere nik ez nuen inolako harremanik real madrideko jokalariekin	jose_bleimer	\N	\N
+63	0x3f	?	1080	941826	eus	Zer nahi duzu?	rachid	2011-06-17 12:37:36	2011-06-17 12:37:46
+65	0x41	A	436	1361339	eus	Ados al zaudete?	txoriburu	2012-01-14 20:58:01	2012-01-14 20:58:01
+66	0x42	B	699	4031369	eus	Banoa.	eneko	2015-04-04 01:44:01	2015-04-04 01:44:01
+67	0x43	C	29	933214	eus	Gazteak Louis, bakarrik hamasei urte zituela, bere aitaren oinordekoa izan Zen seme zaharrena eta bere bi anaia gazteenak, Henry eta Conrad Rasponi bakoitzak jaso prerogative bat, Conde de izenburua, eta Landgrave alderdi Estatu baten gobernuan, Turingia etxea erabilita.	rachid	2011-06-10 19:43:30	2011-06-10 19:43:30
+68	0x44	D	117	927686	eus	Esango zenidake Tokyo Dorrerako bidea nondik den?	gorkaazk	2011-06-07 11:01:58	2011-06-07 11:01:58
+69	0x45	E	1011	922362	eus	Euskararen sustrairik zaharrenak (Erromatar Inperioaren aurretikoak) Akitaniakoa da.	melissa83	2011-06-03 12:37:47	2011-06-03 12:37:47
+70	0x46	F	63	6831748	eus	Felinoek sabanan egiten dute korrika.	Asierkami7	2018-04-12 06:54:24	2018-04-12 06:54:24
+71	0x47	G	402	861565	eus	Gizon aberats batekin ezkondu zuen alaba.	Sorgintxue	2011-04-27 15:59:14	2011-04-27 15:59:14
+72	0x48	H	541	932312	eus	Hark edukazio ona ikasi du.	vane	2011-06-10 12:06:29	2011-06-10 12:06:29
+73	0x49	I	268	6700733	eus	Ikasleak dira?	Gorane	2018-02-20 14:42:33	2018-02-20 14:42:33
+74	0x4a	J	163	6626604	eus	Joan zaitez izotza erostera.	marina_ruiiz	2018-01-23 11:23:34	2018-01-23 11:30:13
+75	0x4b	K	212	6886256	eus	Kondoirik baradamazu?	Heyitsane	2018-05-11 07:21:37	2018-05-11 07:21:37
+76	0x4c	L	307	865595	eus	Laranjak gustatzen al zaizkizue?	Leynaf	2011-04-29 16:46:53	2011-04-29 16:46:53
+77	0x4d	M	338	6938135	eus	Musika entzuten dut nire gelan.	Camilaportugalete	2018-06-10 15:54:18	2018-06-10 15:54:18
+78	0x4e	N	582	6831757	eus	Non erosi dituzu zure soinekoak?	zaloaz	2018-04-12 06:58:38	2018-04-12 06:58:38
+79	0x4f	O	192	6945424	eus	Oso garestia da	joelganchozo	2018-06-14 17:41:49	2018-06-14 17:41:49
+80	0x50	P	157	862339	eus	Partida bikaina izan zen.	garikolc	2011-04-27 20:45:29	2011-04-27 20:45:29
+81	0x51	Q	2	667872	eus	Ekuadorreko hiribura Quito da, mendialdeko Pichincha probintzian.	melissa83	2010-12-15 13:50:14	2010-12-15 13:50:14
+82	0x52	R	31	669363	eus	Munduko jokalaririk onena Cristiano Ronaldo da.	Jose_Gomez	2010-12-16 16:15:11	2010-12-16 16:15:11
+83	0x53	S	228	858587	eus	S.E.S.B. Sobietar Errepublika Sozialisten Batasuna esan nahi du.	KitanoGirl	2011-04-26 20:05:35	2011-04-26 20:06:01
+84	0x54	T	700	5999431	eus	Tom droga gaindosi batek jota hil zen.	Gonzalo45D	2017-04-06 12:59:04	\N
+85	0x55	U	123	5180104	eus	Urtxintxak hurrak jan zituen.	Oier25	2016-05-31 17:37:27	2016-05-31 17:37:27
+86	0x56	V	11	667992	eus	Vatikano da munduko estaturik aberatsena eta Zimbabwe da munduko estaturik txiroena.	melissa83	2010-12-15 13:59:14	2010-12-15 13:59:14
 87	0x57	W	8	884847	eus	Tipologia lanek erakusten dutenez, (WALSeko 98-100 ezaugarriak), zabaldu samar daude munduan zehar hizkuntza ergatiboak.	gorkaazk	\N	\N
-88	0x58	X	5	627530	eus	Barkatu, Xinqiao jatetzea hemendik urrun dago?	Txopi	2010-11-19 10:02:04	2010-11-19 10:02:04
-89	0x59	Y	7	1361431	eus	Yarda bat hiru oin dira.	txoriburu	2012-01-14 21:48:56	2012-01-14 21:48:56
-90	0x5a	Z	601	862289	eus	Zoragarria!	garikolc	2011-04-27 20:16:40	2011-04-27 20:16:40
+88	0x58	X	5	6000784	eus	Xake-piezak dira peoia, zaldia, alfila, dorrea, dama eta erregea.	Mikel45D	2017-04-07 10:11:40	\N
+89	0x59	Y	7	863455	eus	New York Times-a irakurtsen dut.	Leynaf	2011-04-28 14:10:49	2011-04-28 14:10:49
+90	0x5a	Z	601	3486466	eus	Zer da sabai berdea duen eraikin hori?	Euskaranto	2014-09-11 00:53:39	2014-09-11 00:53:39
 95	0x5f	_	1	6782226	eus	Noiz aurkitu zuen Tomek Mary John_ekin ikusten ari zela?	Danel_Leon	2018-03-19 09:57:05	2018-03-19 09:57:05
-97	0x61	a	26068	1361293	eus	Nun dago farmazia bat?	txoriburu	2012-01-14 20:43:18	2012-01-14 20:43:18
-98	0x62	b	3973	5187610	eus	Goizean banoa.	AsierTru	2016-06-03 06:53:11	2016-06-03 06:53:11
-99	0x63	c	56	5166427	eus	Ez nioke inoiz nire Porschea ukitzen utziko.	gorkaazk	2016-05-26 11:12:50	2016-05-26 11:12:50
-100	0x64	d	6958	6328964	eus	Tomem dio gurasoek nahi duena egiten uzten diotela.	Laquin	2017-09-26 20:53:31	2017-09-26 20:53:31
-101	0x65	e	19491	1332389	eus	Alhambra Nazar sultanaren agindupean eraikitzen hasi zen eta hamalaugarren menderarte iraun zuten lanek.	txoriburu	2011-12-31 14:25:24	2011-12-31 14:25:24
-102	0x66	f	256	3004547	eus	Zenbatean dago trukatze tarifa?	\N	2014-01-23 22:39:38	2015-03-10 15:52:45
-103	0x67	g	4785	5200546	eus	Hau zure garaipena da.	naroaruiz	2016-06-08 08:52:27	2016-06-08 08:52:27
-104	0x68	h	2704	6638576	eus	Buruko min handia dut	itsasojimenez	2018-01-30 14:52:14	2018-01-30 14:52:14
-105	0x69	i	14942	3259790	eus	Gomendatu ahal didazu joko egokiren bat?	gorkaazk	2014-05-17 17:21:03	2014-05-17 17:24:14
-106	0x6a	j	614	1076223	eus	Goizero parkera joaten da.	Ederra	2011-09-01 16:03:36	2011-09-01 16:03:36
-107	0x6b	k	7679	5187612	eus	Film asko ikusten ditut.	olaialeioa	2016-06-03 06:53:17	2016-06-03 06:53:17
-108	0x6c	l	4045	716589	eus	Zer ordutan duzu euskara eskola?	melissa83	2011-01-19 13:31:46	2011-01-19 13:31:46
-109	0x6d	m	2160	6691775	eus	Mesedez, moz ezazu pizza hiru zatitan.	Haizea63J	2018-02-15 10:46:30	2018-02-15 10:46:30
-110	0x6e	n	12854	5152222	eus	Pertsona orok du Konstituzioak edo legeek gizon-emakumeei aitortzen dizkieten oinarrizko eskubideak hausten dituzten ekintzetatik babesteko, norbere herrialdeko auzitegi aginpidedunetan errekurtso eraginkorra jartzeko eskubidea.	gorkaazk	2016-05-19 21:34:49	2016-05-19 21:34:49
-111	0x6f	o	9495	426656	eus	Gaur naizena nire osabari sor diot.	jmli	2010-07-15 20:44:24	2010-07-15 20:44:24
-112	0x70	p	1028	3372269	eus	Zoaz popatik hartzera!	eneko	2014-07-11 07:12:39	2014-07-11 07:12:39
-113	0x71	q	5	6104969	eus	Goazen aquariumera	Alejo45D	2017-05-26 10:36:13	\N
-114	0x72	r	12409	6879327	eus	Halakorik ez da hemen gertatu.	ekeno	2018-05-07 08:57:28	2018-05-07 08:57:28
-115	0x73	s	3903	6115197	eus	Samik erruduntasuna onartu zuen.	Mireen10	2017-05-30 18:28:03	\N
-116	0x74	t	12165	6000879	eus	Hobeto jokatzen dugu.	victor45d	2017-04-07 10:35:07	\N
-117	0x75	u	10477	412619	eus	Hartu liburu bat eta irakur ezazu!	jmli	2010-06-26 16:19:31	2010-06-29 00:10:55
-118	0x76	v	23	933214	eus	Gazteak Louis, bakarrik hamasei urte zituela, bere aitaren oinordekoa izan Zen seme zaharrena eta bere bi anaia gazteenak, Henry eta Conrad Rasponi bakoitzak jaso prerogative bat, Conde de izenburua, eta Landgrave alderdi Estatu baten gobernuan, Turingia etxea erabilita.	rachid	2011-06-10 19:43:30	2011-06-10 19:43:30
-119	0x77	w	12	5166422	eus	Euri asko egiten du Okinawan.	gorkaazk	2016-05-26 11:11:12	2016-05-26 11:11:12
-120	0x78	x	675	6631202	eus	Asko sentitzen dut baina gure afariak bihar arte itxaron beharko du.	Another_Trans_Boy	2018-01-26 07:52:15	2018-02-02 08:10:28
-121	0x79	y	224	3386987	eus	Tom eta Mary kanadarrak dira.	eneko	2014-07-19 00:31:25	2014-07-19 00:31:25
-122	0x7a	z	9508	5180021	eus	Jar ezazu termometro hau mingainapean, mesedez.	Oier25	2016-05-31 17:22:48	2016-05-31 17:22:48
+97	0x61	a	26068	659439	eus	Hamaikak dira jada. Oraintxe joan beharra dut.	Txopi	2010-12-10 11:47:42	2010-12-10 11:47:42
+98	0x62	b	3973	6891525	eus	Bere helbidea aldatu zuen.	Quibia	2018-05-14 17:45:31	2018-05-14 17:45:31
+99	0x63	c	56	669263	eus	Munduko errekorra hamar solairutako castell bat izan omen da	aye1995	2010-12-16 15:47:29	2010-12-16 15:47:29
+100	0x64	d	6958	6138285	eus	Tomek eta Marik hori egiten ari dira.	2013ik65	2017-06-09 10:36:59	\N
+101	0x65	e	19491	6886220	eus	Gure etxetik joan zaitez	Quibia	2018-05-11 07:10:27	2018-05-11 07:10:27
+102	0x66	f	256	6000822	eus	Kafea nahiko zenuke ?	Natxo45D	2017-04-07 10:19:58	\N
+103	0x67	g	4785	6891564	eus	Jende gehiegi ezagutu nituen guztien inzenetaz gogoratzeko.	Quibia	2018-05-14 18:13:23	2018-05-14 18:13:23
+104	0x68	h	2704	5188576	eus	Bonba hain zuzen ere desaktibatu zen minutuak lehertu baino lehen.	AsierTru	2016-06-03 13:39:28	2016-06-03 13:39:28
+105	0x69	i	14942	6698716	eus	Liburutegian egongo naiz.	JUNE_EUSKARA1	2018-02-19 09:38:19	2018-02-19 09:38:19
+106	0x6a	j	614	927740	eus	Lan guztia aurretik egindako beste lanetan oinarritzen direlako, kopiatzeari mugak jartzea sormena mugatzea da.	gorkaazk	2011-06-07 11:10:45	2011-06-07 11:10:45
+107	0x6b	k	7679	941945	eus	Non hitz egiten da euskaraz?	melissa83	2011-06-17 13:08:29	2011-06-17 13:08:29
+108	0x6c	l	4045	1333117	eus	Nola esaten da "Milesker" japonieraz?	txoriburu	2012-01-01 17:34:10	2012-01-01 17:34:10
+109	0x6d	m	2160	6933984	eus	Irudimen berekoa naiz	Leire45D	2018-06-07 17:33:45	2018-06-07 17:33:45
+110	0x6e	n	12854	677702	eus	Ikasi irribarre egiten, nahiz eta negar egiteko gogoa izan.	Jose_Gomez	2010-12-21 11:42:02	2010-12-21 11:42:02
+111	0x6f	o	9495	884908	eus	Tipologia lanek bi alineazio-sistema bereizten dituzte hizkuntza ergatibodunetan aditz iragangaitzen jokamoldearen arabera: (i) ergatiboa propio, non aditz iragangaitzek portaera bateratua duten, eta (ii) aktibo-ezaktiboa, non aditz iragangaitzak erdibituta dauden. (Pello Salaburu).	gorkaazk	\N	\N
+112	0x70	p	1028	5152598	eus	Pertsona orori dagozkio atsedenerako eskubidea, aisiarakoa, lanaldiaren iraupen mugatua izatekoa eta aldian-aldian ordaindutako oporrak izatekoa.	gorkaazk	2016-05-19 23:08:21	2016-05-19 23:08:21
+113	0x71	q	5	932190	eus	Piquék Mouri: "Isilik hobe".	josebleimer1995	2011-06-10 10:49:48	2011-06-10 10:49:48
+114	0x72	r	12409	3375823	eus	Hiroshiman jaio nintzen 1945ean.	eneko	2014-07-13 00:39:03	2014-07-13 00:39:03
+115	0x73	s	3903	5152390	eus	Herriaren borondatea da botere publikoaren agintearen oinarria; borondate hori aldian-aldian egingo diren benetako hauteskundeetan adieraziko da. Hauteskundeok bozketa orokor eta berdinez eta isilpeko boto bidez egingo dira, edo boto askatasuna bermatzen duen beste bide batez.	gorkaazk	2016-05-19 23:02:47	2016-05-19 23:02:47
+116	0x74	t	12165	3375841	eus	Australia herrialde polita da.	eneko	2014-07-13 00:48:48	2014-07-13 00:48:48
+117	0x75	u	10477	863303	eus	Kaixo, ze izen duzu?	Leynaf	2011-04-28 12:26:17	2011-04-28 12:26:17
+118	0x76	v	23	6924660	eus	Kaixo. Nire izena da Joseba Silva. Zein da zure izena?	Alejo42aa	2018-06-01 15:10:23	2018-06-01 15:11:47
+119	0x77	w	12	863455	eus	New York Times-a irakurtsen dut.	Leynaf	2011-04-28 14:10:49	2011-04-28 14:10:49
+120	0x78	x	675	1332476	eus	Gutxigatik gainditu dinat azterketa.	txoriburu	2011-12-31 14:54:21	2011-12-31 14:54:21
+121	0x79	y	224	6700703	eus	Tom eta Mary lagunak dira benetan?	Gorane	2018-02-20 14:24:04	2018-02-20 14:24:04
+122	0x7a	z	9508	6892623	eus	Azalaren kolorea, hizkuntzak, eta erligioak ez dira genetika taldeak.	BegoArana	2018-05-15 13:38:37	2018-05-15 13:38:37
 178	0xb2	²	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
 179	0xb3	³	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
-191	0xbf	¿	2	8939169	eus	Estoy siendo paranoide, ¿no?	GoiKira	2020-07-25 15:26:48	2020-07-25 15:27:02
+191	0xbf	¿	2	5187573	eus	¿Benetan diru zerbait egin nahi duzula?	AsierTru	2016-06-03 06:39:32	2016-06-03 06:39:32
 193	0xc1	Á	1	6924626	eus	Ángela Merkel alemaniako politika da.	aiinaara19	2018-06-01 14:57:49	2018-06-01 14:57:49
 223	0xdf	ß	1	920679	eus	Suitzar giltzadiak ez du ß giltzarik.	josebleimer1995	2011-06-02 13:42:28	2011-06-02 13:42:28
 225	0xe1	á	1	930888	eus	Zortzi milioi bereizten dute Bartzelonatik Alexis Sánchez	josebleimer1995	2011-06-09 13:25:39	2011-06-09 13:25:39
 227	0xe3	ã	1	6000865	eus	Bi aukera dituzu: São Paulo edo Rio de Janeiro.	victor45d	2017-04-07 10:30:03	\N
 231	0xe7	ç	1	646319	eus	Ecen baldin cembeit trabaillatu nahi ezpada, ian-ere ezteçan.	aandrusiak	2010-12-03 20:40:53	2010-12-03 20:40:53
-233	0xe9	é	5	932169	eus	Aguero: " Nire etorkizuna Copa América bukatzen denean ebatziko da".	josebleimer1995	2011-06-10 10:45:40	2011-06-10 10:45:40
+233	0xe9	é	5	884897	eus	Valdés: aurretikere nik ez nuen inolako harremanik real madrideko jokalariekin	jose_bleimer	\N	\N
 237	0xed	í	1	3384760	eus	En la carnicería tienen carne.	emigonza	2014-07-17 05:59:38	2014-07-17 05:59:38
-241	0xf1	ñ	3	6892352	eus	Gustatzen zait andereñoa izatea.	KamilaTymchuk	2018-05-15 10:11:26	2018-05-15 10:11:26
+241	0xf1	ñ	3	667586	eus	2010 urteko urrianren 13 an Briñasera joan ginen.	Nina_1A	2010-12-15 10:43:43	2010-12-15 10:43:43
 252	0xfc	ü	2	938651	eus	Casilla: "Agüerorentzat ez litzateke erraza Real Madridekin sinatzea".	josebleimer1995	2011-06-14 10:50:25	2011-06-14 10:50:25
 353	0x161	š	1	11372177	eus	Dušana dut izena.	Txoria	2022-12-25 17:15:10	2022-12-25 17:15:10
 8322	0x2082	₂	1	7886473	eus	CO₂ horrek lotura handia du negutegi efektuarekin.	gorkaazk	2019-05-03 22:29:26	2019-05-03 22:29:26

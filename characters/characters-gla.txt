@@ -1,70 +1,70 @@
-32	0x20	 	5746	3476011	gla	Dùin an doras sin.	Catriona	2014-09-06 20:54:16	2017-01-08 21:55:32
-33	0x21	!	47	4195586	gla	Tuigidh mi sin!	stevegrant	2015-05-17 12:09:55	2015-05-17 12:09:55
-34	0x22	"	200	5884704	gla	"Am b' ann fon bhòrd a bha an cù?" "B' ann."	Catriona	2017-02-19 18:53:10	\N
-39	0x27	'	285	5881646	gla	Dè a dh'òl Tòmas?	Catriona	2017-02-18 23:32:49	2017-02-18 23:32:49
-44	0x2c	,	84	5919644	gla	Cha tèid agam air tighinn ann, duilich.	Catriona	2017-03-05 05:50:20	\N
-45	0x2d	-	272	852081	gla	'S e Diluain a tha ann an-diugh agus 's e Dimàirt a bhios ann a-màireach.	marloncori	2011-04-24 22:30:37	2012-08-13 02:44:44
-46	0x2e	.	817	772670	gla	Dh'èist mi ri òran glè bhòidheach an-dè.	marloncori	2011-02-27 19:55:50	2012-08-13 03:00:32
+32	0x20	 	5746	5884224	gla	'S dòcha leam gu bheil gràdh agad oirre.	Catriona	2017-02-19 17:14:45	\N
+33	0x21	!	47	1516594	gla	Na gabhaibh dragh!	Cainntear	2012-04-05 10:55:05	2012-04-05 10:55:05
+34	0x22	"	200	5885762	gla	"An tèid sibh dhan Eilean Sgiathanach anns an Lùnastal?" "Thèid."	Catriona	2017-02-20 03:12:36	\N
+39	0x27	'	285	5919022	gla	Faodaidh sinn am bus fhaighinn às a' bhaile seo.	Catriona	2017-03-04 22:16:48	\N
+44	0x2c	,	84	5919756	gla	Thèid prògram telebhisein seo leth riumsa, co-dhiù.	Catriona	2017-03-05 08:08:31	\N
+45	0x2d	-	272	5745509	gla	Tha an t-uisge ann.	Catriona	2017-01-07 01:09:34	2017-01-07 01:09:34
+46	0x2e	.	817	4189006	gla	Tha deagh shìde ann.	stevegrant	2015-05-15 11:56:30	2015-05-15 12:27:46
 49	0x31	1	1	5751261	gla	Choinnich Tàmas ri Màiri ann an 1972.	Catriona	2017-01-08 18:10:14	2017-01-08 18:10:14
 50	0x32	2	2	5751261	gla	Choinnich Tàmas ri Màiri ann an 1972.	Catriona	2017-01-08 18:10:14	2017-01-08 18:10:14
 51	0x33	3	1	3456328	gla	Ruigidh mi air a' 23mh dhen Chèitean.	\N	2014-08-27 18:56:28	2016-01-28 19:47:27
 55	0x37	7	1	5751261	gla	Choinnich Tàmas ri Màiri ann an 1972.	Catriona	2017-01-08 18:10:14	2017-01-08 18:10:14
 57	0x39	9	1	5751261	gla	Choinnich Tàmas ri Màiri ann an 1972.	Catriona	2017-01-08 18:10:14	2017-01-08 18:10:14
 59	0x3b	;	1	2425975	gla	Ar n-Athair a tha air nèamh, Gu naomhaichear d'ainm. Thigeadh do rìoghachd. Dèanar do thoil air an talamh, mar a nìthear air nèamh. Tabhair dhuinn an-diugh ar n-aran làitheil. Agus maith dhuinn ar fiachan, amhail a mhaitheas sinne dar luchd-fiach. Agus na leig ann am buaireadh sinn; ach saor sinn o olc	bionicboy	2013-05-09 02:57:56	2013-05-09 02:57:56
-63	0x3f	?	248	5884278	gla	A bheil fearg agad?	Catriona	2017-02-19 17:23:15	\N
-65	0x41	A	151	5881884	gla	—An toigh leat bàrdachd a dhèanamh? —'S toigh.	Catriona	2017-02-19 02:56:01	2017-02-19 02:56:01
-66	0x42	B	123	5884120	gla	Bu chuimhne leam far na thogadh mi.	Catriona	2017-02-19 16:57:12	\N
-67	0x43	C	250	5882389	gla	"Nach can tusa gun robh mi ceart gu leòr?" "Canaidh."	Catriona	2017-02-19 09:11:59	\N
-68	0x44	D	74	878423	gla	'S ann an-dè a cheannaich mi carbaid ann an Doire.	Cainntear	\N	\N
-69	0x45	E	5	5919794	gla	Eil thu airson tighinn?	Catriona	2017-03-05 08:28:24	\N
-70	0x46	F	55	5768343	gla	Am bi Tòmas a' dol dhan clas Fraingis?	Catriona	2017-01-14 15:08:09	2017-01-14 15:08:17
-71	0x47	G	36	9256399	gla	Tha i ag ionnsachadh Gàidhlig.	megamanenm	2020-11-07 20:28:17	2020-11-07 20:28:17
-72	0x48	H	7	1516599	gla	Halò, a h-uile duine.	Cainntear	2012-04-05 10:56:42	2012-04-05 10:56:42
-73	0x49	I	36	5809806	gla	Is beag feum a tha ort.	Catriona	2017-01-29 03:51:06	2017-01-29 03:51:06
+63	0x3f	?	248	877871	gla	Am faca sibh cangarù riamh?	Cainntear	\N	\N
+65	0x41	A	151	5919652	gla	"Am bi an deuchainn doirbh?" "Bidh nas doirbhe na fear sa chaidh."	Catriona	2017-03-05 06:11:13	\N
+66	0x42	B	123	9276360	gla	Bha sinn ga thuigsinn.	megamanenm	2020-11-10 18:53:30	2020-11-10 18:53:30
+67	0x43	C	250	770451	gla	Chaidh i a-steach anns an tacsaidh.	marloncori	2011-02-26 07:19:29	2012-08-13 03:26:29
+68	0x44	D	74	5881857	gla	—Dè ur cor? —Droch chor. —Nach bochd sin.	Catriona	2017-02-19 02:33:55	2017-02-19 02:33:55
+69	0x45	E	5	3475977	gla	Bha Eamag ag èisteachd ri ceòl.	\N	2014-09-06 20:41:31	2016-01-28 19:47:36
+70	0x46	F	55	882027	gla	Tha i a' teagaisg na Fraingis dhuinn.	Cainntear	1970-01-01 01:00:00	1970-01-01 01:00:00
+71	0x47	G	36	5749908	gla	Chan eil ach beagan Gàidhlig na h-Èireann agam.	Catriona	2017-01-08 05:36:06	2017-01-08 05:36:06
+72	0x48	H	7	5768377	gla	Tha mi ann an Hong Kong an-dràsta.	Cainntear	2017-01-14 15:55:24	2017-01-14 15:55:24
+73	0x49	I	36	5884125	gla	Is coma leam uighean.	Catriona	2017-02-19 16:59:00	\N
 74	0x4a	J	5	1514043	gla	Thuirt Juliana dhomh gur ann à São Paulo a tha sibh.	Cainntear	2012-04-02 21:33:08	2012-04-02 21:33:08
-75	0x4b	K	6	1515924	gla	Tha Nara cho sean ri Kyoto.	Cainntear	2012-04-04 16:32:03	2012-04-04 16:32:03
-76	0x4c	L	7	5897274	gla	Gheibh thu leabhar innteanach ma thig thu do Chomhairle nan Leabhraichean!	Catriona	2017-02-24 05:08:04	\N
-77	0x4d	M	47	5881852	gla	Meal ur naidheachd.	Catriona	2017-02-19 02:31:09	2017-02-19 02:31:21
-78	0x4e	N	32	773242	gla	Na dèan cadal trom.	marloncori	2011-02-28 02:12:18	2011-02-28 02:12:36
-79	0x4f	O	4	878809	gla	Tha dà bhrathair aige. Tha fear dhiubh a' fuireach ann an Osaka agus am fear eile ann an Kobe.	Cainntear	\N	\N
-80	0x50	P	5	9042968	gla	Cò a th' ann am Pedro?	Cainntear	2020-09-16 16:18:30	2020-09-16 16:18:30
-82	0x52	R	14	5884410	gla	Rugadh is thogadh mise ann an Astràilia.	Catriona	2017-02-19 17:46:00	\N
-83	0x53	S	126	5765549	gla	'S mise Sasha.	Catriona	2017-01-13 05:37:29	2017-01-13 05:37:39
-84	0x54	T	461	4207027	gla	Tha mi gu math!	stevegrant	2015-05-19 18:37:30	2015-05-19 18:37:30
+75	0x4b	K	6	5217659	gla	'S e Burj Khalifa an togalach as airde san t-saoghal.	Balamax	2016-06-16 17:12:43	2016-06-16 17:12:43
+76	0x4c	L	7	852073	gla	'S e Latha na Sàbaid a bh' ann an-dè.	marloncori	2011-04-24 22:28:11	2012-08-13 02:50:31
+77	0x4d	M	47	5881735	gla	—Am bu toil leat Màiri a phòsadh? —Bu toil.	Catriona	2017-02-19 01:07:20	2017-02-19 01:07:20
+78	0x4e	N	32	5223670	gla	Nach eil fhios gu bheil.	Cainntear	2016-06-19 13:38:22	2016-06-19 13:38:22
+79	0x4f	O	4	877952	gla	Oidhche mhath.	Cainntear	\N	\N
+80	0x50	P	5	3454994	gla	Cò tha Pedro?	\N	2014-08-26 22:27:07	2016-01-28 19:46:57
+82	0x52	R	14	1516347	gla	Rugadh mi ann an Osaka.	Cainntear	2012-04-04 22:15:09	2012-04-04 22:15:09
+83	0x53	S	126	879554	gla	Stad e ri taobh cathair Thòmais.	Cainntear	\N	2017-01-09 14:41:56
+84	0x54	T	461	773210	gla	Tha mi a' smaoineachadh gur e deagh spòrs a bh' ann, gu dearbh!	marloncori	2011-02-28 02:03:12	2012-08-13 03:11:10
 85	0x55	U	3	5919642	gla	An tèid aig Tòmas air tighinn ann? Nach tèid? Uill, tha sin duilich.	Catriona	2017-03-05 05:49:43	\N
 86	0x56	V	1	883331	gla	'S e DVD a th' ann.	Cainntear	\N	\N
-97	0x61	a	4695	770529	gla	Thug brathair mo mhathar preasant dha.	marloncori	2011-02-26 08:43:12	2012-08-13 03:22:36
-98	0x62	b	627	5919652	gla	"Am bi an deuchainn doirbh?" "Bidh nas doirbhe na fear sa chaidh."	Catriona	2017-03-05 06:11:13	\N
-99	0x63	c	870	5884230	gla	'S dòcha leam gu bheil gaol agad air.	Catriona	2017-02-19 17:15:29	\N
-100	0x64	d	1154	5881698	gla	Am bu toil leibh ar faicinn an-diugh?	Catriona	2017-02-19 00:25:58	2017-02-19 00:50:39
-101	0x65	e	1339	3047423	gla	Tha na h-eòin a' seinn.	\N	2014-02-15 11:24:15	2016-01-17 17:52:52
-102	0x66	f	256	1516515	gla	'S ann agamsa a tha am fear dubh.	Cainntear	2012-04-05 09:17:32	2012-04-05 09:28:30
-103	0x67	g	917	5918880	gla	"An gabh thu uisge-beatha neo fìon?" "Cha gabh idir, tapadh leat."	Catriona	2017-03-04 19:05:18	\N
-104	0x68	h	3090	5881873	gla	Tha feum aig Tòmas air àite-fuirich.	Catriona	2017-02-19 02:45:29	2017-02-19 02:45:29
-105	0x69	i	2697	4217776	gla	An gabh thu sin?	stevegrant	2015-05-23 12:44:58	2015-05-23 12:44:58
+97	0x61	a	4695	852126	gla	Tha thu trang an-dràsda, nach eil?	marloncori	2011-04-24 22:49:00	2012-08-13 02:46:56
+98	0x62	b	627	5745682	gla	Cha bhi 'm bochd soghail, saibhir.	Catriona	2017-01-07 02:06:19	2017-01-07 02:06:19
+99	0x63	c	870	5897288	gla	Thachair mi ri poileas ach cha do thug e toighe dhomhsa idir.	Catriona	2017-02-24 05:22:58	\N
+100	0x64	d	1154	5881720	gla	Bhithinn toilichte do chuideachadh.	Catriona	2017-02-19 00:57:51	2017-02-19 00:59:26
+101	0x65	e	1339	5884148	gla	A bheil cuimhne agad oirnn?	Catriona	2017-02-19 17:04:21	\N
+102	0x66	f	256	5919022	gla	Faodaidh sinn am bus fhaighinn às a' bhaile seo.	Catriona	2017-03-04 22:16:48	\N
+103	0x67	g	917	852119	gla	Am bi thu ag obair aig an taigh-osda a-màireach anns a' mhadainn?	marloncori	2011-04-24 22:46:15	2012-08-13 02:47:07
+104	0x68	h	3090	877961	gla	Tha biadh gu leòr againn.	Cainntear	\N	\N
+105	0x69	i	2697	5769078	gla	Is neònach leam nach do dh'ionnsaich Tòmas an cànan a tha aig a h-uile duine.	Catriona	2017-01-14 20:18:51	2017-01-14 20:19:06
 106	0x6a	j	1	5217659	gla	'S e Burj Khalifa an togalach as airde san t-saoghal.	Balamax	2016-06-16 17:12:43	2016-06-16 17:12:43
-107	0x6b	k	8	878347	gla	Tha mi à Siakoku.	Cainntear	\N	2016-06-19 10:49:31
-108	0x6c	l	951	5745477	gla	Càite a bheil do ghùnan sìod?	Catriona	2017-01-07 01:04:20	2017-01-07 07:45:03
-109	0x6d	m	930	1514154	gla	Tha feum agam air stampa.	Cainntear	2012-04-02 22:27:58	2012-04-02 22:27:58
-110	0x6e	n	2237	5884647	gla	'S le Tòmas an sealbh seo.	Catriona	2017-02-19 18:32:42	\N
-111	0x6f	o	856	5884738	gla	Nach shaoileadh duine gur e Tòmas a rinn e?	Catriona	2017-02-19 19:01:03	\N
-112	0x70	p	47	773261	gla	Tha mo theaghlach gu math, tapadh leat.	marloncori	2011-02-28 02:23:14	2012-08-13 03:08:25
-114	0x72	r	1241	1514060	gla	Nach toir thu dhomh glainne bainne a bharrachd?	Cainntear	2012-04-02 21:43:19	2012-04-02 21:43:19
-115	0x73	s	1104	770443	gla	Trobhad an-seo 's cuidich leam.	marloncori	2011-02-26 07:14:18	2012-08-13 03:26:35
-116	0x74	t	1040	878421	gla	Tha fear aig an doras a tha ag iarraidh bruidhinn riut.	Cainntear	\N	\N
-117	0x75	u	788	5751731	gla	Bha Tàmas an dùil gun robh Màiri gu sunndach.	Catriona	2017-01-08 21:02:03	2017-01-08 21:02:03
-121	0x79	y	6	1514168	gla	Mharbh Betty e.	Cainntear	2012-04-02 22:34:13	2012-04-02 22:34:13
+107	0x6b	k	8	878809	gla	Tha dà bhrathair aige. Tha fear dhiubh a' fuireach ann an Osaka agus am fear eile ann an Kobe.	Cainntear	\N	\N
+108	0x6c	l	951	8109607	gla	An toil leat càise?	SteCymru14	2019-08-16 12:11:35	2019-08-16 12:11:35
+109	0x6d	m	930	5884214	gla	'S dòcha leam.	Catriona	2017-02-19 17:13:46	\N
+110	0x6e	n	2237	8692640	gla	Tha latha brèagha ann.	canan	2020-04-19 12:12:58	2020-04-19 12:12:58
+111	0x6f	o	856	5768579	gla	An do ghabh Tòmas gaol air Màiri?	Catriona	2017-01-14 16:54:52	2017-01-14 16:54:52
+112	0x70	p	47	5881714	gla	Bha dùil aig Tòmas Màiri a phòsadh, ach cha robh aice ris a phòsadh agus cha do phòs.	Catriona	2017-02-19 00:49:46	2017-02-19 00:49:46
+114	0x72	r	1241	5751747	gla	Suidh aig ceann a' bhùird.	Catriona	2017-01-08 21:17:19	2017-01-08 21:17:19
+115	0x73	s	1104	3077690	gla	Tha mi ag òl uisge anns an cidsin.	\N	2014-03-05 17:12:35	2016-01-17 17:58:28
+116	0x74	t	1040	4217757	gla	Tha mi ro thrang aig m' obair.	stevegrant	2015-05-23 12:41:59	2015-05-23 12:41:59
+117	0x75	u	788	1525534	gla	Dè rinn thu leis a' chàr ud?	Cainntear	2012-04-10 17:06:27	2012-04-10 17:06:27
+121	0x79	y	6	1515927	gla	A bheil fios agad càite bheil tùr Tokyo?	Cainntear	2012-04-04 16:34:16	2012-04-04 16:34:38
 160	0xa0	 	1	3838480	gla	Chunnaic mi e le m’ shùilean fhèin.	\N	2015-02-03 19:36:57	2015-02-03 19:39:05
-200	0xc8	È	6	5752892	gla	S' e Èirisgeach a th' ann an Tàmas.	Catriona	2017-01-09 08:27:14	2017-01-09 08:27:14
-210	0xd2	Ò	2	5768335	gla	Òlaidh ise fìon dearg.	Catriona	2017-01-14 15:00:43	2017-01-14 15:00:48
-224	0xe0	à	321	5745610	gla	B' fheàrr Iùdas làmh rium.	Catriona	2017-01-07 01:36:42	2017-01-07 01:36:42
-227	0xe3	ã	2	1514042	gla	Thuirt Juliana dhomh gur ann à São Paulo a tha thu.	Cainntear	2012-04-02 21:32:42	2012-04-02 21:32:42
-232	0xe8	è	189	5881743	gla	—Am bu chòir dhomh sin a dhèanamh? —Cha bu choir.	Catriona	2017-02-19 01:11:18	2017-02-19 01:11:24
-233	0xe9	é	9	5754212	gla	Cheannaich mi leabhar an-dé.	Cainntear	2017-01-09 15:13:52	2017-01-09 15:13:52
-236	0xec	ì	91	5918946	gla	Tha mi an aghaidh a pheantadh a-rithist a chionn ’s gun deach e a' peantadh dìreach an-uiridh.	Catriona	2017-03-04 20:35:34	\N
-242	0xf2	ò	315	5884629	gla	'S e taigh Thòmais a tha ann.	Catriona	2017-02-19 18:27:25	\N
+200	0xc8	È	6	5749912	gla	A bheil Gàidhlig na h-Èireann agad?	Catriona	2017-01-08 05:36:49	2017-01-08 05:36:49
+210	0xd2	Ò	2	5883769	gla	"An òl thu fìon?" "Òlaidh."	Catriona	2017-02-19 15:38:12	\N
+224	0xe0	à	321	8759752	gla	Càit' a bheil an t-aran?	\N	2020-05-13 18:43:39	2020-05-13 18:43:42
+227	0xe3	ã	2	1514043	gla	Thuirt Juliana dhomh gur ann à São Paulo a tha sibh.	Cainntear	2012-04-02 21:33:08	2012-04-02 21:33:08
+232	0xe8	è	189	5881889	gla	Tha mòran obair ga dhèanamh.	Catriona	2017-02-19 03:09:10	\N
+233	0xe9	é	9	770508	gla	Tha an t-éigh glè thiugh.	marloncori	2011-02-26 08:18:45	2012-08-13 03:24:45
+236	0xec	ì	91	5881708	gla	Tha Tòmas a' dol a-nìos an staidhre.	Catriona	2017-02-19 00:44:38	2017-02-19 00:44:38
+242	0xf2	ò	315	1516532	gla	B' àbhaist dha leann òl.	Cainntear	2012-04-05 09:55:12	2012-04-05 09:55:12
 243	0xf3	ó	1	5754290	gla	A bheil fón-laimh agad?	Cainntear	2017-01-09 15:45:16	2017-01-09 15:45:16
-249	0xf9	ù	75	851926	gla	Tha an taigh ùr faisg air an allt luath.	marloncori	2011-04-24 21:55:24	2012-08-13 02:55:26
-8212	0x2014	—	22	5881857	gla	—Dè ur cor? —Droch chor. —Nach bochd sin.	Catriona	2017-02-19 02:33:55	2017-02-19 02:33:55
+249	0xf9	ù	75	5919634	gla	Cha robh smùid air Tòmas.	Catriona	2017-03-05 05:36:31	\N
+8212	0x2014	—	22	5881738	gla	—An aithne dhut Tòmas? —Chan aithne.	Catriona	2017-02-19 01:08:26	2017-02-19 01:08:30
 8216	0x2018	‘	2	5745677	gla	Breac à linne, slat à coille ‘s fiadh à fìreach - mèirle às nach do ghabh Gàidheal a-riamh nàire.	Catriona	2017-01-07 02:04:36	2017-01-07 02:04:36
-8217	0x2019	’	62	851891	gla	Bha ròn ann air a’ chladach.	marloncori	2011-04-24 21:49:37	2012-08-13 02:53:24
+8217	0x2019	’	62	3573509	gla	B’fheàrr leam a bhith a’ siubhal ‘nam aonar.	emigonza	2014-10-22 11:23:42	2014-10-22 11:23:42

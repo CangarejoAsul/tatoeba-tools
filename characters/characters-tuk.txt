@@ -1,128 +1,128 @@
-32	0x20	 	28292	7941577	tuk	Sen bize doly ynanañok, şeýle dälmi?	6nay	2019-05-28 12:31:24	2019-05-28 12:31:24
-33	0x21	!	232	7922745	tuk	Işle!	Jum	2019-05-20 14:06:54	2019-05-20 14:06:54
-34	0x22	"	67	7888391	tuk	"Hawa, öz ylmy taslamam babatynda seniň maslahytyňy almak islärdim ..." "Gel, göreli. Hmm, sen ösümlikleri gülletmegi derňeýärsiň, onda."	Ogulkeyik	2019-05-04 19:37:33	2019-05-04 19:37:33
-36	0x24	$	7	7939027	tuk	Tom ýylda $10,000 köp işleýär	Yulduz	2019-05-27 14:12:52	2019-05-27 14:12:52
-37	0x25	%	2	7897555	tuk	Men ulagy 10% arzanladyş bilen satyn aldym.	Ogulkeyik	2019-05-08 22:24:20	2019-05-08 22:24:20
-40	0x28	(	30	7896419	tuk	Onuň (oglanyň) köp zehini bar.	Ogulkeyik	2019-05-08 09:48:05	2019-05-08 09:48:05
-41	0x29	)	30	7894693	tuk	Ol(gyz) onuň(oglan) ejesini söýüpdi.	mahri_gurbanova	2019-05-07 11:53:30	2019-05-07 11:54:16
-44	0x2c	,	490	7932933	tuk	Men saňa iň soňky gezek gitmäge rugsat berýärin,	Ogulkeyik	2019-05-25 09:54:31	2019-05-25 09:54:31
-45	0x2d	-	248	7940782	tuk	Bu çeper eser ýa-da degişme däl, hakyky bolan waka	Myahri	2019-05-28 05:40:36	2019-05-28 05:40:36
-46	0x2e	.	5367	7951667	tuk	Olara näme bolandygyna br seret.	aztkm	2019-06-01 12:50:46	2019-06-01 12:50:46
-47	0x2f	/	23	7938430	tuk	.Hakykatdan hem soragym ýok/	usmanmasaripov	2019-05-27 11:51:55	2019-05-27 11:51:55
-48	0x30	0	74	7915224	tuk	Bärden pyýada 30 minut töweregi.	Jum	2019-05-16 21:08:52	2019-05-16 21:08:52
-49	0x31	1	29	7932466	tuk	Men 12 sagat yatanyma seretmezden, men henizem ukyda	Shirina	2019-05-25 04:20:46	2019-05-25 04:20:46
-50	0x32	2	30	7940931	tuk	Petek 29-njy aprele çenli ýaramlydyr.	Jum	2019-05-28 07:04:29	2019-05-28 07:07:31
-51	0x33	3	43	7923446	tuk	Tom we Mary 3 ýyldan bäri Bostonda ýaşaýarlar.	usmanmasaripov	2019-05-20 19:43:31	2019-05-20 19:43:31
+32	0x20	 	28292	7918417	tuk	Oñünden sagboluñ berjek jogabyñyz üçin.	Myahri	2019-05-18 09:12:12	2019-05-18 09:12:12
+33	0x21	!	232	7922712	tuk	Aýdym aýt!	Jum	2019-05-20 13:59:11	2019-05-20 13:59:11
+34	0x22	"	67	7930554	tuk	"Bu gulaklar kimiňki?" "Olar Mikki Mausyňky."	Ogulkeyik	2019-05-24 12:39:59	2019-05-24 12:39:59
+36	0x24	$	7	7939029	tuk	Tom ýylda $10,000 az gazanýar	Yulduz	2019-05-27 14:13:11	2019-05-27 14:13:11
+37	0x25	%	2	7885482	tuk	Beýni bedeniň energiýasynyň 25%-ni ulanýar.	User83413	2019-05-03 10:46:38	2019-05-03 10:46:38
+40	0x28	(	30	7932787	tuk	Ol(gyz) seniň ýaşyňa garanok.	usmanmasaripov	2019-05-25 07:55:09	2019-05-25 07:55:09
+41	0x29	)	30	7932787	tuk	Ol(gyz) seniň ýaşyňa garanok.	usmanmasaripov	2019-05-25 07:55:09	2019-05-25 07:55:09
+44	0x2c	,	490	7940421	tuk	Seniň üçin haýsy has amatly bolar, ertirmi ýa-da ertirden soňky gün?	Yulduz	2019-05-27 21:24:51	2019-05-27 21:24:56
+45	0x2d	-	248	7929547	tuk	Ýalňyş otla mündigimi ýuwaş-ýuwaş düşündim.	Jum	2019-05-23 20:42:07	2019-05-23 20:42:07
+46	0x2e	.	5367	7915774	tuk	Diňe ýüregiňi diňle.	Jum	2019-05-17 09:13:36	2019-05-17 09:13:36
+47	0x2f	/	23	7907436	tuk	Tom hiç wagt/ hiç haçan hiç kimi öldürmedi.	Yulduz	2019-05-13 18:02:09	2019-05-13 18:02:14
+48	0x30	0	74	7911888	tuk	Otly wagtdan 10 minut yzda galdy.	usmanmasaripov	2019-05-15 13:56:09	2019-05-15 13:56:09
+49	0x31	1	29	7924503	tuk	Hälleýiň kometasy 2061-nji ýylda gaýdyp geler.	Ogulkeyik	2019-05-21 11:06:48	2019-05-21 11:06:48
+50	0x32	2	30	8581990	tuk	Mustafa Kemal Atatürk 1923-nji ýylda Türkiýe Respublikasyny yglan etdi.	Balamax	2020-02-28 01:20:26	2020-02-28 01:20:26
+51	0x33	3	43	7931338	tuk	Gitler 1939-njy ýylda Polşany eýeledi.	usmanmasaripov	2019-05-24 16:41:23	2019-05-24 16:41:23
 52	0x34	4	3	7939627	tuk	Eger sen 17 ýaşyñda bolsañ, sen 40 ýaşdan ulularyñ ýagdaýlaryna düşünmersiñ.	Myahri	2019-05-27 17:15:23	2019-05-27 17:15:23
-53	0x35	5	6	7941551	tuk	150 ýaşamak bolmajak zatmyka?	Ogulkeyik	2019-05-28 12:25:14	2019-05-28 12:27:41
-54	0x36	6	4	7938980	tuk	"Juçklins"Opie Read tarapyndan ýazylan 1896 nowelladyr.Ol şol wagt iň köp satylan kitapdy.	usmanmasaripov	2019-05-27 14:01:22	2019-05-27 14:01:22
-55	0x37	7	2	7905409	tuk	Gruppa 1791-de ir ýapyldy.	usmanmasaripov	2019-05-12 18:28:40	2019-05-12 18:28:47
-56	0x38	8	5	7885007	tuk	Men maşyn sürmegi öwrenip, 18 ýaşymda sürüjilik prawasyny aldym.	User83413	2019-05-03 07:13:59	2019-05-03 07:13:59
-57	0x39	9	10	7936636	tuk	Döwlet 1990-njy ýyllarda ylmy barlag işlerine üýtgedişler girizdi.	Ogulkeyik	2019-05-26 15:22:46	2019-05-26 15:22:46
-58	0x3a	:	30	7915188	tuk	Edil häzir 2:30.	Jum	2019-05-16 20:46:11	2019-05-16 20:46:11
-59	0x3b	;	4	7939989	tuk	Meñ endamym süýt ýaly ak, saçlarym bişen bugdaý ýaly altyn; Men ýazyñ ýapragy ýaly terje.	Guljeren	2019-05-27 18:40:16	2019-05-27 18:40:16
-63	0x3f	?	1013	7934613	tuk	O:t üçin odun getirip bilerdiňmi?	Ogulkeyik	2019-05-25 17:27:47	2019-05-25 17:27:47
-65	0x41	A	255	7905245	tuk	Belkim indiki ýyl Awstraliýa gideris.	usmanmasaripov	2019-05-12 18:01:05	2019-05-12 18:01:08
-66	0x42	B	802	7940389	tuk	Bägüller Samidandyr.	Yulduz	2019-05-27 21:12:08	2019-05-27 21:12:08
-67	0x43	C	6	7937982	tuk	Calt gel!	Shirina	2019-05-27 04:13:32	2019-05-27 04:13:32
-68	0x44	D	173	7918309	tuk	Díñle näçe köp diñläsiñ gelse.	Myahri	2019-05-18 08:41:09	2019-05-18 08:41:09
-69	0x45	E	129	7932913	tuk	Eger ol horlanmasa, özüniň başga bir ýürek tutmasynyň töwekgelçiligini artdyrýandygyny lukman oňa aýtdy.	Ogulkeyik	2019-05-25 09:45:34	2019-05-25 09:45:34
-70	0x46	F	71	7885408	tuk	Bu ýerde sen Fransuzça gürlemeli.	User83413	2019-05-03 10:00:34	2019-05-03 10:00:42
-71	0x47	G	271	7939901	tuk	Georgler ol ýerde naçe ýyl ýaşadylar?	Myahri	2019-05-27 18:17:36	2019-05-27 18:17:49
-72	0x48	H	278	7932978	tuk	Her kim sen dälisiň diýip pikir edýändir öýdemok.	Ogulkeyik	2019-05-25 10:10:48	2019-05-25 10:10:48
-73	0x49	I	113	7939465	tuk	Elbetde bu meniñ hakyky maşgalam. Isleseñiz meniñ pasportymdan görup bilersiñiz.	Myahri	2019-05-27 16:36:36	2019-05-27 16:36:36
-74	0x4a	J	59	7905383	tuk	Tom Meridan ol işi Jonyň deregine etmegini sorajak bolýar.	Yulduz	2019-05-12 18:24:36	2019-05-12 18:24:41
-75	0x4b	K	125	11688265	tuk	Klawdiý köne öýünde ýaşaýardy.	enebi	2023-04-16 21:26:13	2023-04-16 21:26:13
-76	0x4c	L	103	7929583	tuk	Lukmana görünmelidigimi aýtdylar.	Jum	2019-05-23 21:03:08	2019-05-23 21:03:08
-77	0x4d	M	1988	7941728	tuk	Men ony Tom edendir öýdemok.	Guljeren	2019-05-28 13:21:01	2019-05-28 13:21:01
-78	0x4e	N	106	7937968	tuk	Nahili erbet!	Shirina	2019-05-27 04:06:09	2019-05-27 04:06:09
-79	0x4f	O	855	7939728	tuk	Ol muny isleýär.	usmanmasaripov	2019-05-27 17:35:09	2019-05-27 17:35:09
-80	0x50	P	51	7896463	tuk	Polisiýa bizi tussaglady.	Ogulkeyik	2019-05-08 10:07:09	2019-05-08 10:07:09
-82	0x52	R	17	7941594	tuk	Gel, Roždestwo agajyny şu ýerde goýaly.	Ogulkeyik	2019-05-28 12:35:26	2019-05-28 12:35:26
-83	0x53	S	945	7939895	tuk	Siz şu wagt başlarsyñyz	Myahri	2019-05-27 18:14:20	2019-05-27 18:14:20
-84	0x54	T	1719	7941034	tuk	Tom pianinony menden gowy çalýar.	Ogulkeyik	2019-05-28 08:05:56	2019-05-28 08:05:56
-85	0x55	U	31	7939316	tuk	Uruş käwagt gerekli gazap bolup bilýär. Emma näçe gerekli bolsada ol elmydama gazapdyr, hiç wagt gowluga däl. Biz bir-birimiziñ çagalarymyzy öldürip bile asudalykda ýaşamany öwrenip bilmeris	Guljeren	2019-05-27 16:02:18	2019-05-27 16:02:18
-87	0x57	W	24	7887341	tuk	Waheý	Yusup	2019-05-04 11:00:46	2019-05-04 11:00:46
-89	0x59	Y	22	7887281	tuk	Ynanyp bolmajak	Yusup	2019-05-04 10:45:39	2019-05-04 10:45:39
-90	0x5a	Z	11	7951654	tuk	Zalda telefon bar.	aztkm	2019-06-01 12:44:05	2019-06-01 12:44:05
+53	0x35	5	6	7885482	tuk	Beýni bedeniň energiýasynyň 25%-ni ulanýar.	User83413	2019-05-03 10:46:38	2019-05-03 10:46:38
+54	0x36	6	4	7941745	tuk	Men Tomy öz diýişi ýaly 6:30-da oýarmadym	Guljeren	2019-05-28 13:26:33	2019-05-28 13:26:33
+55	0x37	7	2	7939627	tuk	Eger sen 17 ýaşyñda bolsañ, sen 40 ýaşdan ulularyñ ýagdaýlaryna düşünmersiñ.	Myahri	2019-05-27 17:15:23	2019-05-27 17:15:23
+56	0x38	8	5	3834994	tuk	Ony 8-nji klasdan bäri öwrenip ýörün.	Lehceler	2015-02-02 17:11:53	2015-04-27 15:33:51
+57	0x39	9	10	7931338	tuk	Gitler 1939-njy ýylda Polşany eýeledi.	usmanmasaripov	2019-05-24 16:41:23	2019-05-24 16:41:23
+58	0x3a	:	30	7934611	tuk	O:t üçin biraz odun getirip bilerdiňizmi?	Ogulkeyik	2019-05-25 17:27:26	2019-05-25 17:27:36
+59	0x3b	;	4	7924649	tuk	Men siziň özüňizi her gün diňe üç ýa dört setir, islendik kitapdan, islendik dilde, kelläňize gelibiläýjek iň dogry we iň kaşaň iňlis diline terjime etmäge ulanmagyňyzy islärdim; munuň siziň stiliňizi döretjekdigini siz duýmarsyňyzam we ol size endige öwrülen nepislik berer. Bu siziň günde on bäş minudyňyzam almaz.	Ogulkeyik	2019-05-21 12:24:27	2019-05-21 12:24:27
+63	0x3f	?	1013	12022087	tuk	Indiki stansiýada düşüp bilerinmi?	enebi	2023-08-28 23:31:30	2023-08-28 23:31:30
+65	0x41	A	255	7885010	tuk	Awstraliýa Ýaponiýadan 20 esseden gowrak uludyr.	User83413	2019-05-03 07:14:52	2019-05-03 07:14:56
+66	0x42	B	802	7940310	tuk	Biz ylalaşyga geldik.	Ogulkeyik	2019-05-27 20:46:24	2019-05-27 20:46:24
+67	0x43	C	6	7898951	tuk	Baltika deňzinde suwuň temperaturasy käbir ýerlerde 23°C-dan geçdi.	Ogulkeyik	2019-05-09 16:30:47	2019-05-09 16:30:47
+68	0x44	D	173	7965249	tuk	Düýnki duşan oglan maña hakyky adyny aýtmady.	Guljeren	2019-06-08 09:47:02	2019-06-08 09:47:32
+69	0x45	E	129	4380993	tuk	Ejeň nirede ýaşaýar?	Jum	2015-07-17 14:24:22	2019-05-24 19:56:50
+70	0x46	F	71	7941371	tuk	Futbola gitjek dälmi sen?	usmanmasaripov	2019-05-28 11:05:45	2019-05-28 11:05:45
+71	0x47	G	271	7938772	tuk	Gaplary aýyrmagy Tomdan soraň.	Jum	2019-05-27 13:27:42	2019-05-27 13:27:42
+72	0x48	H	278	7898400	tuk	Howa maglumaty ýagyş ýagjakdygyny aýtdy.	Yusup	2019-05-09 11:49:10	2019-05-09 11:49:10
+73	0x49	I	113	7938624	tuk	Onuñ Isleýän zady entek onda ýok.	Guljeren	2019-05-27 12:57:42	2019-05-27 12:57:42
+74	0x4a	J	59	7907652	tuk	Tom Jaksona beýleki maglumatlar üçin habarlaşyň/ ýüz tutuň.	Yulduz	2019-05-13 19:01:23	2019-05-13 19:01:30
+75	0x4b	K	125	3881616	tuk	Häzirki wagtda Burj Khalifa dünýäniň iň uzyn binasydyr.	Balamax	2015-02-20 15:03:57	2016-07-30 07:11:39
+76	0x4c	L	103	7929575	tuk	Lukman bolmak isläpdim.	Jum	2019-05-23 20:59:14	2019-05-23 20:59:14
+77	0x4d	M	1988	7937605	tuk	Men adatça fransuzça gürlämok.	Myahri	2019-05-26 18:56:45	2019-05-26 18:56:45
+78	0x4e	N	106	7939548	tuk	Nähili ýygylykda zatlary ýitirýärsiňiz?	Jum	2019-05-27 16:57:32	2021-06-30 19:11:47
+79	0x4f	O	855	7940403	tuk	Ol köplenç özüniň syýahaty barada gürrüň berdi.	Yulduz	2019-05-27 21:18:31	2019-05-27 21:18:31
+80	0x50	P	51	11609661	tuk	Puly gizlediňmi?	janTuki	2023-03-20 20:40:57	2023-03-20 20:40:57
+82	0x52	R	17	8581990	tuk	Mustafa Kemal Atatürk 1923-nji ýylda Türkiýe Respublikasyny yglan etdi.	Balamax	2020-02-28 01:20:26	2020-02-28 01:20:26
+83	0x53	S	945	7933396	tuk	Size meniň razylygym gerek däl.	Ogulkeyik	2019-05-25 12:05:02	2019-05-25 12:05:02
+84	0x54	T	1719	7923268	tuk	Tom hakykatdan hem şadyýan.	usmanmasaripov	2019-05-20 18:56:39	2019-05-20 18:56:39
+85	0x55	U	31	7937971	tuk	Uns beriñ, hayys!	Shirina	2019-05-27 04:07:47	2019-05-27 04:07:47
+87	0x57	W	24	7937011	tuk	We kim bizi duruzjak bolýar?	Myahri	2019-05-26 17:01:27	2019-05-26 17:01:27
+89	0x59	Y	22	7941133	tuk	Ysy ýaramazdy.	usmanmasaripov	2019-05-28 09:33:27	2019-05-28 09:33:27
+90	0x5a	Z	11	7940993	tuk	Zatlar ep-esli çalt bolup geçýärdi.	Ogulkeyik	2019-05-28 07:39:17	2019-05-28 07:39:17
 91	0x5b	[	1	7951646	tuk	Me[ pikirimçe Tom bu gün saýawanyny ulanmasa gerek.	aztkm	2019-06-01 12:38:15	2019-06-01 12:38:15
-97	0x61	a	19592	7914493	tuk	Wagtyň geçmegi bilen, onuň sylagy söýgä öwrüldi.	mergen_Annaseyidov_	2019-05-16 14:51:11	2019-05-16 14:51:11
-98	0x62	b	4655	7937478	tuk	Men kitaplaryñ men barada ýazylan bolmagyny isleýän.	Guljeren	2019-05-26 18:27:11	2019-05-26 18:27:11
-99	0x63	c	38	7932456	tuk	Mende masynym ucin hic hili zynjyrym yok.	Shirina	2019-05-25 04:08:03	2019-05-25 04:08:03
-100	0x64	d	9712	7929649	tuk	Makedonça gürleýärmisiňiz?	Jum	2019-05-23 21:26:18	2019-05-23 21:26:18
-101	0x65	e	16727	7941473	tuk	Sen näme üçin meniñ et diýen zadymy etmeýärsiñ?	6nay	2019-05-28 11:50:20	2019-05-28 11:50:45
-102	0x66	f	144	7917393	tuk	Tom şu formlary doldurmaga bize kömege bärik geldi.	Jum	2019-05-18 00:22:04	2019-05-18 00:22:04
-103	0x67	g	6806	7941273	tuk	Gözleriňde gorky görýärin.	usmanmasaripov	2019-05-28 10:26:46	2019-05-28 10:26:46
-104	0x68	h	1716	7940339	tuk	Meniň pikirimçe Tom henizem gaharly.	Ogulkeyik	2019-05-27 20:52:37	2019-05-27 20:52:37
-105	0x69	i	16898	7940434	tuk	Meniň bilen tans edeniňiz üçin sag boluň.	Ogulkeyik	2019-05-27 21:28:24	2019-05-27 21:28:24
-106	0x6a	j	993	7939428	tuk	Bu ýerlerde welosipet kireýine alyp biljegim ýer barmy?	usmanmasaripov	2019-05-27 16:28:34	2019-05-27 16:28:34
-107	0x6b	k	5372	7905339	tuk	Onuň esasy gyzyklanmasy taryhdadyr.	Yulduz	2019-05-12 18:16:32	2019-05-12 18:16:32
-108	0x6c	l	11098	7940341	tuk	Edil şol ýerde deşik bar.	Ogulkeyik	2019-05-27 20:52:56	2019-05-27 20:52:56
-109	0x6d	m	10101	7932468	tuk	Tom ol yere wagtyna bardymy?	Shirina	2019-05-25 04:21:44	2019-05-25 04:21:44
-110	0x6e	n	13474	7918394	tuk	Ol oglan ýylanlary halanok.	Myahri	2019-05-18 09:00:20	2019-05-18 09:00:20
-111	0x6f	o	6353	7931658	tuk	Tom bilen Mery nirede bolmalylaryny bilýändirler diýip pikir edemok.	Guljeren	2019-05-24 18:21:46	2019-05-24 18:21:46
-112	0x70	p	2466	7931211	tuk	Ol garşy durup bilmedi.	rahmanow	2019-05-24 16:15:18	2019-05-24 16:15:18
-114	0x72	r	11027	7938391	tuk	Meniñ jigim iñlis dilini öwrenýär.	jahana	2019-05-27 11:02:19	2019-05-27 11:02:19
-115	0x73	s	4331	12128722	tuk	Tom Merýemiň adamsyny tanaýar.	enebi	2023-10-26 08:55:27	2023-10-26 08:55:27
-116	0x74	t	4918	7951675	tuk	Siziň işiňiz adatça maňa seredeňdäkinden köpräk.	aztkm	2019-06-01 12:53:02	2019-06-01 12:53:02
-117	0x75	u	3562	12175751	tuk	Angliýada haýsy walýuta ulanylýar?	Iye_Tete	2023-11-24 12:06:33	2023-11-24 12:06:33
-118	0x76	v	5	7929078	tuk	Eurovisiony men şonuñ üçin halaýaryn.	Myahri	2019-05-23 16:19:28	2019-05-23 16:19:28
-119	0x77	w	1581	7941016	tuk	Sen maňa hatda iki esse artyk tölänem bolsaň, men Awstraliýada işlemezdim.	Ogulkeyik	2019-05-28 07:56:23	2019-05-28 07:56:23
+97	0x61	a	19592	7940543	tuk	Tom bilen Meri aşhanada çaýlaşyp we çagalary barada gürleşip oturdylar.	Ogulkeyik	2019-05-28 01:40:59	2019-05-28 01:40:59
+98	0x62	b	4655	7942003	tuk	Tom ikimiz bile syýahat etmegi meýilleşdiremizok.	6nay	2019-05-28 14:14:24	2019-05-28 14:14:24
+99	0x63	c	38	7937944	tuk	Hic kim gelmedi.	Shirina	2019-05-27 03:48:32	2019-05-27 03:48:32
+100	0x64	d	9712	7938832	tuk	Tom şuny etmek isleýändigiňi aýdanlaryň biri däl.	Jum	2019-05-27 13:39:32	2019-05-27 13:39:32
+101	0x65	e	16727	7951635	tuk	Tom size hiç wagt ýöne ýere ýeňdiräýmez.	aztkm	2019-06-01 12:32:23	2019-06-01 12:32:23
+102	0x66	f	144	7938838	tuk	Tom konferensiýa otagynda, duşuşyk üçin taýýarlyk görýär.	Jum	2019-05-27 13:41:11	2019-05-27 13:41:11
+103	0x67	g	6806	7941086	tuk	Tomuň özini öldürjekdigini gördüm.	usmanmasaripov	2019-05-28 09:10:16	2019-05-28 09:10:16
+104	0x68	h	1716	7888391	tuk	"Hawa, öz ylmy taslamam babatynda seniň maslahytyňy almak islärdim ..." "Gel, göreli. Hmm, sen ösümlikleri gülletmegi derňeýärsiň, onda."	Ogulkeyik	2019-05-04 19:37:33	2019-05-04 19:37:33
+105	0x69	i	16898	7939709	tuk	Ol meñ teklibim däldi.	Guljeren	2019-05-27 17:32:10	2019-05-27 17:32:10
+106	0x6a	j	993	7931034	tuk	Öz maşgalaň hakynda birazajyk gürrüň ber.	Sahragul	2019-05-24 15:07:47	2019-05-24 15:07:47
+107	0x6b	k	5372	7937961	tuk	Semi hiç wagt hakykaty aýtmady.	Guljeren	2019-05-27 04:02:14	2019-05-27 04:02:14
+108	0x6c	l	11098	3936642	tuk	Men öýlenemok.	Balamax	2015-03-07 07:19:48	2015-03-07 07:19:48
+109	0x6d	m	10101	7886208	tuk	Tom hirurg bolmak islänok.	Ogulkeyik	2019-05-03 19:48:04	2019-05-03 19:48:04
+110	0x6e	n	13474	7937282	tuk	Sen näme üçin agajy kesdiñ? Ol seni bir ýol bilen gaharlandyrdymy?	Myahri	2019-05-26 17:56:36	2019-05-26 17:56:36
+111	0x6f	o	6353	7931425	tuk	Tom gözlerini zordan ýumdy.	Myahri	2019-05-24 17:02:47	2019-05-24 17:02:47
+112	0x70	p	2466	7929575	tuk	Lukman bolmak isläpdim.	Jum	2019-05-23 20:59:14	2019-05-23 20:59:14
+114	0x72	r	11027	7923481	tuk	Mary,Tomuň oňa beren gülleriniň baldaklaryny gyrkdy,şeýlelikde waza sygyp bilerdi.	usmanmasaripov	2019-05-20 19:54:59	2019-05-20 19:54:59
+115	0x73	s	4331	7934966	tuk	Men Toma ulanylan ulagy satyn almazlygy maslahat berdim.	Guljeren	2019-05-25 20:06:46	2019-05-25 20:06:46
+116	0x74	t	4918	7939434	tuk	Sizi şu ýerde öýümde tapmaklygymyň garaşylmadyk hormatyny men nämä borçly?	Ogulkeyik	2019-05-27 16:29:22	2019-05-27 16:29:22
+117	0x75	u	3562	7978915	tuk	Señ bar etmeli zadyñ şu düwmäni basaýmaly.	Guljeren	2019-06-14 15:04:46	2019-06-14 15:04:46
+118	0x76	v	5	7929082	tuk	Şonuñ üçin men Eurovisiony gowy görýärin.	Myahri	2019-05-23 16:20:05	2019-05-23 16:20:05
+119	0x77	w	1581	7887590	tuk	Tom we Meri Jona o zady edesi gelmeýändigini aýtdylar.	polyglot_v	2019-05-04 12:27:46	2019-05-04 12:27:46
 120	0x78	x	1	7885646	tuk	Exceli ulanmak aňsat däl.	bagul_baygeldieva	2019-05-03 12:41:49	2019-05-03 12:41:49
-121	0x79	y	11635	7941041	tuk	Ol çagalygyndan bäri hekaýa ýazmagyň arzuwyndady.	Ogulkeyik	2019-05-28 08:12:06	2019-05-28 08:12:06
-122	0x7a	z	3455	7905231	tuk	Biziň üçümiz hem şol ýygnaga gitmelidiris.	Yulduz	2019-05-12 17:58:52	2019-05-12 17:58:55
+121	0x79	y	11635	7938207	tuk	Sen we Tom öň dostduňyz.Näme boldy?	usmanmasaripov	2019-05-27 08:09:08	2019-05-27 08:09:08
+122	0x7a	z	3455	7905235	tuk	Onuň kitaplary gyzyklydyr.	Yulduz	2019-05-12 17:59:46	2019-05-12 17:59:46
 176	0xb0	°	1	7898951	tuk	Baltika deňzinde suwuň temperaturasy käbir ýerlerde 23°C-dan geçdi.	Ogulkeyik	2019-05-09 16:30:47	2019-05-09 16:30:47
-196	0xc4	Ä	9	3720400	tuk	Är kişi güýçli.	\N	2014-12-31 20:52:22	2016-03-18 10:25:04
-199	0xc7	Ç	49	7936399	tuk	Men Bostonda iki sapar Çikagoda bolsa 1 sapar boldum.	Guljeren	2019-05-26 14:21:19	2019-05-26 14:21:19
-214	0xd6	Ö	51	7922708	tuk	Öldir!	Jum	2019-05-20 13:58:19	2019-05-20 13:58:23
-220	0xdc	Ü	17	7937002	tuk	Üç adam ýok.	Myahri	2019-05-26 16:59:29	2019-05-26 16:59:29
-221	0xdd	Ý	107	7933084	tuk	Ýalňyz goý.	Sahragul	2019-05-25 10:44:58	2019-05-25 10:44:58
+196	0xc4	Ä	9	7898897	tuk	Äýnegimiň nirededigini bilýäňizmi?	Ogulkeyik	2019-05-09 16:17:33	2019-05-09 16:17:33
+199	0xc7	Ç	49	7941820	tuk	Çadyrymy nniredn gursam gowy bolar öýdýäñ?	Guljeren	2019-05-28 13:39:30	2019-05-28 13:39:30
+214	0xd6	Ö	51	7918204	tuk	Öñünden Tañyry ýalkasyn jogap bereniñiz üçin.	Myahri	2019-05-18 08:17:42	2019-05-18 08:24:07
+220	0xdc	Ü	17	7940571	tuk	Üç adam geldi.	Ogulkeyik	2019-05-28 02:26:19	2019-05-28 02:26:19
+221	0xdd	Ý	107	7887369	tuk	Ýatla!	Yusup	2019-05-04 11:08:13	2019-05-04 11:08:13
 224	0xe0	à	1	7918374	tuk	Bu surady kiçeltsen biz gowy gorüp bilýàris.	Myahri	2019-05-18 08:54:09	2019-05-18 08:54:09
-228	0xe4	ä	3518	7885132	tuk	Okamaga degýän kitap, iki gezek okamaga-da degýär.	User83413	2019-05-03 07:43:47	2019-05-03 07:43:47
-231	0xe7	ç	2074	7935931	tuk	Biz haçan sapaklara gatnap başlarys?	Ogulkeyik	2019-05-26 11:26:24	2019-05-26 11:26:24
-237	0xed	í	7	7918309	tuk	Díñle näçe köp diñläsiñ gelse.	Myahri	2019-05-18 08:41:09	2019-05-18 08:41:09
-241	0xf1	ñ	1554	7941797	tuk	Sen meñ bilen bolmagy halaýañmy?	Guljeren	2019-05-28 13:36:32	2019-05-28 13:36:32
+228	0xe4	ä	3518	7932882	tuk	Sämi öz güjügini binanyň töwereginde gezdirdi.	Ogulkeyik	2019-05-25 09:28:00	2019-05-25 09:28:00
+231	0xe7	ç	2074	7931428	tuk	Sen näme üçin dogryñy aýdañok.	Myahri	2019-05-24 17:03:31	2019-05-24 17:03:31
+237	0xed	í	7	7939878	tuk	Bular sizíñ üçin gaty kiçi	Myahri	2019-05-27 18:09:40	2019-05-27 18:09:40
+241	0xf1	ñ	1554	7930605	tuk	Bagyşlañ! Men gowy düşündirip bilemok.	Myahri	2019-05-24 12:58:42	2019-05-24 12:58:42
 245	0xf5	õ	1	7939826	tuk	Men otagyñ içine seredişdirdim, ýõne Tomy görmedim.	Guljeren	2019-05-27 17:52:29	2019-05-27 17:52:29
-246	0xf6	ö	2236	7931797	tuk	Men ýaňyja özüme täze žaket satyn aldym.	Nepes	2019-05-24 19:11:42	2019-05-24 19:11:42
-252	0xfc	ü	2404	7937159	tuk	Tom bütin gün öýde bolar.	Myahri	2019-05-26 17:25:04	2019-05-26 17:25:04
-253	0xfd	ý	6783	7888463	tuk	Tom agşamlyk naharyny üçin öýde bolmajagyny aýtmak üçin aýalyna jaň etdi.	altyn_gd98	2019-05-04 20:29:08	2019-05-04 20:29:08
-255	0xff	ÿ	4	7908270	tuk	Deñiz iymiti örän süÿji bolÿar.	jahana	2019-05-14 04:31:25	2019-05-14 04:31:25
-259	0x103	ă	8	7884779	tuk	Ýaz paslynda tebigat örăn owadan	jahana	2019-05-03 03:23:10	2019-05-03 03:23:10
+246	0xf6	ö	2236	7940609	tuk	Tom bilen Mery Jonyñ özlerine näme diýendigini ýadyna salyp bilmediler.	Guljeren	2019-05-28 03:22:15	2019-05-28 03:22:15
+252	0xfc	ü	2404	7894577	tuk	Onuñ golýazmasy düŝnükli.	jahana	2019-05-07 10:53:18	2019-05-07 10:53:18
+253	0xfd	ý	6783	7930611	tuk	Tom bu ýerdäki adamlaryñ hemmesinden uly.	Myahri	2019-05-24 13:00:00	2019-05-24 13:00:00
+255	0xff	ÿ	4	7893767	tuk	Meniñ ÿagdaÿym boljak	altyn_gd98	2019-05-06 21:51:16	2019-05-06 21:51:16
+259	0x103	ă	8	7913333	tuk	Kellăm agyrýar.	jahana	2019-05-16 03:58:52	2019-05-16 03:58:52
 287	0x11f	ğ	1	7931094	tuk	Men özümi aýnada ğörýärin.	Myahri	2019-05-24 15:35:34	2019-05-24 15:35:34
 305	0x131	ı	1	7914908	tuk	Men Turkmenıstanda ýaşaýaryn	usmanmasaripov	2019-05-16 18:02:42	2019-05-16 18:02:42
-328	0x148	ň	3067	7938802	tuk	Sen özüňi oňa barýandygyňy göz öňüňe getirip bilýärmiň?	Yulduz	2019-05-27 13:32:47	2019-05-27 13:32:47
-337	0x151	ő	3	7892822	tuk	Tomusda kőplenç doňdurma iýýăris.	jahana	2019-05-06 12:04:13	2019-05-06 12:04:13
+328	0x148	ň	3067	7939444	tuk	Tom Meriniň şony ýaňyja edip bolandygyny aýtdy.	Ogulkeyik	2019-05-27 16:31:51	2019-05-27 16:31:51
+337	0x151	ő	3	7913345	tuk	Kőp ýagyş ýagýar.	jahana	2019-05-16 04:11:20	2019-05-16 04:11:20
 349	0x15d	ŝ	1	7894577	tuk	Onuñ golýazmasy düŝnükli.	jahana	2019-05-07 10:53:18	2019-05-07 10:53:18
-350	0x15e	Ş	97	7941699	tuk	Şuny siziň edendigiňizi bilýärin.	Ogulkeyik	2019-05-28 13:10:08	2019-05-28 13:10:08
-351	0x15f	ş	2548	7942611	tuk	Gitjek wagtyňyz işigi açyklygyna galdyryň.	Yulduz	2019-05-28 19:19:48	2019-05-28 19:19:48
+350	0x15e	Ş	97	7886403	tuk	Şuny meniň üçin barlap düzediş girizip bilerdiňizmi?	Ogulkeyik	2019-05-03 21:00:18	2019-05-03 21:00:18
+351	0x15f	ş	2548	7936929	tuk	Tom öz geçmişini ýatlamagy halanok.	Myahri	2019-05-26 16:44:31	2019-05-26 16:44:31
 353	0x161	š	1	7929635	tuk	Evelina Sašenkony söýýärin.	Jum	2019-05-23 21:23:13	2019-05-23 21:23:13
 357	0x165	ť	1	7939973	tuk	Men Tomdan öťünç soraýan	Myahri	2019-05-27 18:36:34	2019-05-27 18:36:34
 377	0x179	Ź	1	7961291	tuk	Źiraf nirede?	Guljeren	2019-06-06 14:08:41	2019-06-08 17:02:57
 381	0x17d	Ž	2	7939084	tuk	Žurnalistler bolup geçýän hadysalaryň has hakyky tarapyny üpjün etmek maksady bilen informasiýa ýygnaýarlar.	Yulduz	2019-05-27 14:33:40	2019-05-27 14:33:40
-382	0x17e	ž	29	7939036	tuk	Alžir uludyr	Yulduz	2019-05-27 14:16:51	2019-05-27 14:16:51
-1052	0x41c	М	3	9641396	tuk	Мениң чагам бар.	TurkishReform	2021-01-13 09:54:44	2021-01-13 09:54:44
-1054	0x41e	О	2	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
+382	0x17e	ž	29	7930560	tuk	Köp adamyñ wyždany ýok.	Myahri	2019-05-24 12:41:17	2019-05-24 12:41:17
+1052	0x41c	М	3	9641397	tuk	Мең чагам бар.	TurkishReform	2021-01-13 09:54:54	2021-01-13 09:54:54
+1054	0x41e	О	2	9641386	tuk	Окувчының китабы ниреде?	TurkishReform	2021-01-13 09:51:47	2021-01-13 09:51:47
 1063	0x427	Ч	1	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1072	0x430	а	16	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1073	0x431	б	5	9641386	tuk	Окувчының китабы ниреде?	TurkishReform	2021-01-13 09:51:47	2021-01-13 09:51:47
-1074	0x432	в	3	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
-1075	0x433	г	3	9641397	tuk	Мең чагам бар.	TurkishReform	2021-01-13 09:54:54	2021-01-13 09:54:54
-1076	0x434	д	5	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1077	0x435	е	11	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
-1080	0x438	и	5	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
-1082	0x43a	к	7	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
+1072	0x430	а	16	9641397	tuk	Мең чагам бар.	TurkishReform	2021-01-13 09:54:54	2021-01-13 09:54:54
+1073	0x431	б	5	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
+1074	0x432	в	3	9641348	tuk	Мен окувчы дәл.	TurkishReform	2021-01-13 09:38:36	2021-01-13 09:38:36
+1075	0x433	г	3	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
+1076	0x434	д	5	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
+1077	0x435	е	11	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
+1080	0x438	и	5	9641386	tuk	Окувчының китабы ниреде?	TurkishReform	2021-01-13 09:51:47	2021-01-13 09:51:47
+1082	0x43a	к	7	9641348	tuk	Мен окувчы дәл.	TurkishReform	2021-01-13 09:38:36	2021-01-13 09:38:36
 1083	0x43b	л	4	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1084	0x43c	м	3	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1085	0x43d	н	7	9641396	tuk	Мениң чагам бар.	TurkishReform	2021-01-13 09:54:44	2021-01-13 09:54:44
+1084	0x43c	м	3	9641397	tuk	Мең чагам бар.	TurkishReform	2021-01-13 09:54:54	2021-01-13 09:54:54
+1085	0x43d	н	7	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
 1086	0x43e	о	1	9641348	tuk	Мен окувчы дәл.	TurkishReform	2021-01-13 09:38:36	2021-01-13 09:38:36
 1087	0x43f	п	1	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1088	0x440	р	9	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
+1088	0x440	р	9	9641386	tuk	Окувчының китабы ниреде?	TurkishReform	2021-01-13 09:51:47	2021-01-13 09:51:47
 1089	0x441	с	1	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1090	0x442	т	4	9641386	tuk	Окувчының китабы ниреде?	TurkishReform	2021-01-13 09:51:47	2021-01-13 09:51:47
-1091	0x443	у	6	9641386	tuk	Окувчының китабы ниреде?	TurkishReform	2021-01-13 09:51:47	2021-01-13 09:51:47
-1095	0x447	ч	5	9641397	tuk	Мең чагам бар.	TurkishReform	2021-01-13 09:54:54	2021-01-13 09:54:54
-1099	0x44b	ы	11	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
+1090	0x442	т	4	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
+1091	0x443	у	6	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
+1095	0x447	ч	5	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
+1099	0x44b	ы	11	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
 1105	0x451	ё	1	9642974	tuk	Чагаларың беден температурасы улуларыңкыдан ёкары.	TurkishReform	2021-01-13 19:26:20	2021-01-13 19:26:23
-1187	0x4a3	ң	6	9641385	tuk	Окувчың китабы ниреде?	TurkishReform	2021-01-13 09:51:36	2021-01-13 09:51:40
+1187	0x4a3	ң	6	9641397	tuk	Мең чагам бар.	TurkishReform	2021-01-13 09:54:54	2021-01-13 09:54:54
 1241	0x4d9	ә	1	9641348	tuk	Мен окувчы дәл.	TurkishReform	2021-01-13 09:38:36	2021-01-13 09:38:36
-8211	0x2013	–	2	1184286	tuk	Är-aýalyň uruşy – ýaz gününiň ýagyşy.	Imp	2011-10-19 08:11:44	2011-10-19 08:11:44
+8211	0x2013	–	2	7931830	tuk	Suw damjasy – altyn dänesi.	Jum	2019-05-24 19:32:58	2019-05-24 19:32:58

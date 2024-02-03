@@ -1,78 +1,78 @@
-32	0x20	 	6001	4711264	pam	Lungúb ka, makábusní ya.	jeronimoconstantina	2015-11-19 11:35:39	2015-11-19 11:35:39
-33	0x21	!	36	4604556	pam	Makó tána!	jeronimoconstantina	2015-10-13 11:14:40	2015-10-13 11:15:07
-34	0x22	"	26	4654999	pam	"Lakwán mukúng díli ku," ngána.	jeronimoconstantina	2015-10-30 05:35:54	2015-10-30 05:35:54
-39	0x27	'	9	4706391	pam	Lálákad kung adwáng púlung mílya aldó'ldo.	jeronimoconstantina	2015-11-17 10:49:43	2015-11-17 10:49:43
-44	0x2c	,	91	4649985	pam	Úli ning pámisápungán, míbalugsé ya paluál ing métung karíng pasáhérus.	jeronimoconstantina	2015-10-28 06:45:05	2015-10-28 06:45:05
-45	0x2d	-	40	4680573	pam	Malíno ing kákung pámag-ispliká?	jeronimoconstantina	2015-11-06 07:40:11	2015-11-06 07:40:11
-46	0x2e	.	1188	4680771	pam	Páramán daká kétang pérang burí mu.	jeronimoconstantina	2015-11-06 10:47:41	2015-11-06 10:47:41
-48	0x30	0	5	4655279	pam	Éke buríng mayári ing 2013.	jeronimoconstantina	2015-10-30 08:13:30	2015-10-30 08:13:30
+32	0x20	 	6001	4633170	pam	Misán ya parúminggúng mánalbeng síne.	jeronimoconstantina	2015-10-22 11:55:33	2015-10-22 11:55:33
+33	0x21	!	36	4566339	pam	Máyap a yábak!	jeronimoconstantina	2015-09-29 08:07:56	2015-10-13 19:33:25
+34	0x22	"	26	4696469	pam	"Kíkyak ya i Tom." "Bálu ku."	jeronimoconstantina	2015-11-12 11:29:43	2015-11-12 11:29:43
+39	0x27	'	9	4677421	pam	Aldó'ldó yang mágobra pwéra neng Duminggú.	jeronimoconstantina	2015-11-05 04:05:30	2015-11-05 04:05:30
+44	0x2c	,	91	4652699	pam	Nung makanyán, nánung kabáldúgan na?	jeronimoconstantina	2015-10-29 09:19:33	2015-10-29 09:19:33
+45	0x2d	-	40	4629286	pam	Atín kayúng pasáing pang-istúdyánte?	jeronimoconstantina	2015-10-21 07:01:09	2015-10-21 07:01:09
+46	0x2e	.	1188	4696631	pam	Salámat king kékang pamálak.	jeronimoconstantina	2015-11-12 12:50:50	2015-11-12 12:50:50
+48	0x30	0	5	4629914	pam	Ugáli nang Bob ing matudtúd 10:00.	jeronimoconstantina	2015-10-21 10:17:45	2015-10-21 10:17:45
 49	0x31	1	2	4629914	pam	Ugáli nang Bob ing matudtúd 10:00.	jeronimoconstantina	2015-10-21 10:17:45	2015-10-21 10:17:45
 50	0x32	2	2	4688513	pam	Dápat 2:30 mékaúli ne i Tom.	jeronimoconstantina	2015-11-09 10:34:51	2015-11-09 10:34:51
-51	0x33	3	2	4688513	pam	Dápat 2:30 mékaúli ne i Tom.	jeronimoconstantina	2015-11-09 10:34:51	2015-11-09 10:34:51
-58	0x3a	:	3	4629914	pam	Ugáli nang Bob ing matudtúd 10:00.	jeronimoconstantina	2015-10-21 10:17:45	2015-10-21 10:17:45
-63	0x3f	?	267	4566323	pam	Sigúrádu ka?	jeronimoconstantina	2015-09-29 07:55:44	2015-09-29 07:55:58
-65	0x41	A	184	4655206	pam	Agyáng kapilán púpunta ku king bébe dáyatmálat.	jeronimoconstantina	2015-10-30 07:21:58	2015-10-30 07:21:58
-66	0x42	B	142	4652325	pam	Atlú kung banwáng ménuknángan king Boston.	jeronimoconstantina	2015-10-29 05:43:37	2015-10-29 05:43:37
+51	0x33	3	2	4655279	pam	Éke buríng mayári ing 2013.	jeronimoconstantina	2015-10-30 08:13:30	2015-10-30 08:13:30
+58	0x3a	:	3	4647903	pam	Isípan mū mû: dóktor ya, óneng sísindí ya.	jeronimoconstantina	2015-10-27 09:29:54	2015-10-27 09:29:54
+63	0x3f	?	267	4711045	pam	Ot ináus mukú kéni?	jeronimoconstantina	2015-11-19 09:51:41	2015-11-19 09:51:41
+65	0x41	A	184	4629998	pam	Atín kang ikét?	jeronimoconstantina	2015-10-21 10:39:01	2015-10-21 10:39:01
+66	0x42	B	142	4635866	pam	Iní ing ásu nang Bayang.	jeronimoconstantina	2015-10-23 06:19:55	2015-10-23 06:19:55
 67	0x43	C	2	4690686	pam	Mánuknángan ya king maranglé king California.	jeronimoconstantina	2015-11-10 12:30:28	2015-11-10 12:30:28
-68	0x44	D	44	4566356	pam	Danúpan ka?	jeronimoconstantina	2015-09-29 08:36:50	2015-09-29 08:37:09
-69	0x45	E	43	4692900	pam	E kaylángang tumágun king púlung ngéni i Tom.	jeronimoconstantina	2015-11-11 07:58:38	2015-11-11 07:58:38
+68	0x44	D	44	4693632	pam	Makó ku keng tútukíng Duminggú.	jeronimoconstantina	2015-11-11 11:36:22	2015-11-11 11:36:22
+69	0x45	E	43	4672507	pam	E ligtás keng babái ing lumwál dilí na nung mábéngi na.	jeronimoconstantina	2015-11-03 09:42:12	2015-11-03 10:01:44
 70	0x46	F	2	4591474	pam	E ya mu magsalitang Inglis, nune French.	jeronimoconstantina	2015-10-09 12:42:27	2015-10-09 12:42:32
-71	0x47	G	21	4680792	pam	Gáwan mung pasíbáyu itá?	jeronimoconstantina	2015-11-06 11:05:16	2015-11-06 11:05:16
-72	0x48	H	3	4626531	pam	Masayá ya king pánga-Húdyu na.	jeronimoconstantina	2015-10-20 11:34:32	2015-10-20 11:34:32
-73	0x49	I	80	4672670	pam	Inamúyut miyáng muntá i Tom.	jeronimoconstantina	2015-11-03 11:35:13	2015-11-03 11:35:13
-74	0x4a	J	10	4647561	pam	Kawángis neng Tom i John.	jeronimoconstantina	2015-10-27 06:12:50	2015-10-27 06:12:50
-75	0x4b	K	127	4652967	pam	Kaylángan ku nang gáwan ngéne?	jeronimoconstantina	2015-10-29 10:14:28	2015-10-29 10:14:28
-76	0x4c	L	43	4695681	pam	Línub la ngan.	jeronimoconstantina	2015-11-12 05:22:46	2015-11-12 05:22:46
-77	0x4d	M	335	4678266	pam	Méyna ka pámikákatáwan uli ning sakít.	jeronimoconstantina	2015-11-05 12:42:33	2015-11-05 12:42:33
-78	0x4e	N	88	4697878	pam	Nánung malyáring misnáng kagrábi?	jeronimoconstantina	2015-11-13 04:50:17	2015-11-13 04:50:17
-79	0x4f	O	21	4711046	pam	Ot pípilíng ka?	jeronimoconstantina	2015-11-19 09:52:40	2015-11-19 09:52:40
-80	0x50	P	134	4692732	pam	Póta ásópan ke.	jeronimoconstantina	2015-11-11 06:19:46	2015-11-11 06:19:46
+71	0x47	G	21	4633118	pam	Gáwan mu na.	jeronimoconstantina	2015-10-22 11:46:11	2015-10-22 11:46:11
+72	0x48	H	3	4652653	pam	Óbat karakál mu bálu tungkúl king kasalésáyan ning Hapón?	jeronimoconstantina	2015-10-29 09:02:32	2015-10-29 09:02:32
+73	0x49	I	80	4680521	pam	Ing Vegemite kabalítan yang pámangan ibát king Australia.	jeronimoconstantina	2015-11-06 07:25:13	2015-11-06 07:25:13
+74	0x4a	J	10	4633521	pam	Betérináryu ya i John.	jeronimoconstantina	2015-10-22 14:04:32	2015-10-22 14:04:32
+75	0x4b	K	127	4636182	pam	Karatáng na, ményangkáp kung kapé.	jeronimoconstantina	2015-10-23 08:29:31	2015-10-23 08:29:31
+76	0x4c	L	43	4693513	pam	Lukás me.	jeronimoconstantina	2015-11-11 10:57:12	2015-11-11 10:57:12
+77	0x4d	M	335	4650074	pam	Míparakál ku péngan.	jeronimoconstantina	2015-10-28 07:17:09	2015-10-28 07:17:09
+78	0x4e	N	88	4753843	pam	Núkarín ya makátuknáng i Tom?	jeronimoconstantina	2015-12-09 13:31:32	2015-12-09 13:31:32
+79	0x4f	O	21	4654981	pam	Ot kakálkalán me ing busún nang Maria?	jeronimoconstantina	2015-10-30 05:09:30	2015-10-30 05:09:30
+80	0x50	P	134	4696542	pam	Paréu kamíng manérbyus Tom.	jeronimoconstantina	2015-11-12 12:25:57	2015-11-12 12:25:57
 82	0x52	R	2	4680814	pam	Regálu ya.	jeronimoconstantina	2015-11-06 11:19:11	2015-11-06 11:19:11
-83	0x53	S	116	4635601	pam	Sabián mung pasibáyu káku nung nínung sumáup kékatámu.	jeronimoconstantina	2015-10-23 04:17:04	2015-10-23 04:17:04
-84	0x54	T	313	4713517	pam	Mintá ya king balé ku i Tom nabéngi.	jeronimoconstantina	2015-11-20 09:58:34	2015-11-20 09:58:34
-85	0x55	U	6	4629914	pam	Ugáli nang Bob ing matudtúd 10:00.	jeronimoconstantina	2015-10-21 10:17:45	2015-10-21 10:17:45
-86	0x56	V	5	4632990	pam	Mánalbé yang TV i Tom ngéni.	jeronimoconstantina	2015-10-22 11:01:28	2015-10-22 11:01:28
+83	0x53	S	116	4632523	pam	Sínalí yang kárni ampóng ébun ba yang makápaglútung tórta.	jeronimoconstantina	2015-10-22 07:29:17	2015-10-22 07:29:17
+84	0x54	T	313	4728569	pam	E marapát kang Tom itá.	jeronimoconstantina	2015-11-27 04:02:53	2015-11-27 04:02:53
+85	0x55	U	6	4713492	pam	Ustú na!	jeronimoconstantina	2015-11-20 09:40:29	2015-11-20 09:40:29
+86	0x56	V	5	4680521	pam	Ing Vegemite kabalítan yang pámangan ibát king Australia.	jeronimoconstantina	2015-11-06 07:25:13	2015-11-06 07:25:13
 87	0x57	W	1	4568740	pam	Wa.	jeronimoconstantina	2015-09-30 10:48:58	2015-09-30 10:49:08
-89	0x59	Y	10	4635784	pam	Yan mu ing sabián mu kakó?	jeronimoconstantina	2015-10-23 05:24:17	2015-10-23 05:24:17
-97	0x61	a	4455	4695578	pam	Itá ing sasabyán ning bálang métung.	jeronimoconstantina	2015-11-12 03:54:21	2015-11-12 03:54:21
-98	0x62	b	749	4632994	pam	Lálbe yang TV i Tom ngéni.	jeronimoconstantina	2015-10-22 11:03:26	2015-10-22 11:03:26
-99	0x63	c	45	4677753	pam	Míminúm kung alcohol.	jeronimoconstantina	2015-11-05 06:35:24	2015-11-05 06:35:24
-100	0x64	d	540	4655634	pam	Ému darámdamán itá?	jeronimoconstantina	2015-10-30 10:31:45	2015-10-30 10:31:45
-101	0x65	e	590	4629625	pam	Balámu e interesádu kanyán i Tom.	jeronimoconstantina	2015-10-21 08:59:13	2015-10-21 08:59:13
-102	0x66	f	6	4653067	pam	Makánánu meng ilíkas ing "Pfirsichbaeumchen" king Berber?	jeronimoconstantina	2015-10-29 12:03:34	2015-10-29 12:03:34
-103	0x67	g	2911	4706622	pam	Alás singkú yang dátang kéni.	jeronimoconstantina	2015-11-17 12:41:19	2015-11-17 12:41:19
-104	0x68	h	43	4607474	pam	Ing Burj Khalifa ing pékamátas a skyscraper ngéni.	jeronimoconstantina	2015-10-14 11:18:46	2015-10-14 11:18:46
-105	0x69	i	2094	4652978	pam	King palagé mu ligtás gáwan itá?	jeronimoconstantina	2015-10-29 10:18:34	2015-10-29 10:18:34
-106	0x6a	j	2	4607474	pam	Ing Burj Khalifa ing pékamátas a skyscraper ngéni.	jeronimoconstantina	2015-10-14 11:18:46	2015-10-14 11:18:46
-107	0x6b	k	2274	4655108	pam	Sabián ku karélang mináus ka.	jeronimoconstantina	2015-10-30 06:43:39	2015-10-30 06:43:39
-108	0x6c	l	1461	4629079	pam	Bísa kang mangán king balé ko?	jeronimoconstantina	2015-10-21 04:56:12	2015-10-21 04:56:12
-109	0x6d	m	1602	4591444	pam	Magaling yang mamyalung.	jeronimoconstantina	2015-10-09 12:34:53	2015-10-09 12:34:57
-110	0x6e	n	4730	4696508	pam	Burén yukúng mag-ispliká.	jeronimoconstantina	2015-11-12 11:58:32	2015-11-12 11:58:32
-111	0x6f	o	480	4753601	pam	Pénaya neng mibálik Tom i Mary.	jeronimoconstantina	2015-12-09 10:22:12	2015-12-09 10:22:12
-112	0x70	p	713	4753564	pam	Éku ágawâ iní nuné king sáup mu.	jeronimoconstantina	2015-12-09 10:02:46	2015-12-09 10:02:46
-114	0x72	r	814	4677886	pam	Géwa ke yan pará kéka.	jeronimoconstantina	2015-11-05 07:14:59	2015-11-05 07:14:59
-115	0x73	s	921	4692618	pam	Bísa ka pang patátas?	jeronimoconstantina	2015-11-11 04:59:36	2015-11-11 04:59:36
-116	0x74	t	1357	4655206	pam	Agyáng kapilán púpunta ku king bébe dáyatmálat.	jeronimoconstantina	2015-10-30 07:21:58	2015-10-30 07:21:58
-117	0x75	u	1681	4722640	pam	Mágtaká kamí nung núkarín ka ibát.	jeronimoconstantina	2015-11-24 12:17:30	2015-11-24 12:17:30
+89	0x59	Y	10	4647905	pam	Yan ing inórder ku.	jeronimoconstantina	2015-10-27 09:32:35	2015-10-27 09:32:35
+97	0x61	a	4455	4672526	pam	Métung yang máginû i Tom.	jeronimoconstantina	2015-11-03 10:30:03	2015-11-03 10:30:03
+98	0x62	b	749	4626623	pam	Burí ku básan neng Tom iní.	jeronimoconstantina	2015-10-20 12:06:38	2015-10-20 12:06:38
+99	0x63	c	45	4591497	pam	Mág-exercise ku úling bísa kung manátíling masánting mabúlas.	jeronimoconstantina	2015-10-09 12:48:03	2015-10-09 12:48:07
+100	0x64	d	540	4692672	pam	Alá kung dadaláng kwálta.	jeronimoconstantina	2015-11-11 05:38:50	2015-11-11 05:38:50
+101	0x65	e	590	4549844	pam	Aliwa neng tau ketang kakilala ku.	jeronimoconstantina	2015-09-24 06:06:35	2015-10-09 12:35:10
+102	0x66	f	6	4607474	pam	Ing Burj Khalifa ing pékamátas a skyscraper ngéni.	jeronimoconstantina	2015-10-14 11:18:46	2015-10-14 11:18:46
+103	0x67	g	2911	4680680	pam	Librí miyáng gáwan iní.	jeronimoconstantina	2015-11-06 09:01:55	2015-11-06 09:01:55
+104	0x68	h	43	4590482	pam	Burí mu ing mágbyáhe?	jeronimoconstantina	2015-10-09 07:41:43	2015-10-09 07:41:49
+105	0x69	i	2094	4635756	pam	Nánung sabián ku kayá?	jeronimoconstantina	2015-10-23 05:09:07	2015-10-23 05:09:07
+106	0x6a	j	2	4680645	pam	Tukí-tukí lang sínulagpó deng jet.	jeronimoconstantina	2015-11-06 08:25:05	2015-11-06 08:25:05
+107	0x6b	k	2274	4635830	pam	Burí rakáng kutnán tungkúl kang Tom.	jeronimoconstantina	2015-10-23 05:41:32	2015-10-23 05:41:32
+108	0x6c	l	1461	4654995	pam	Susuglúng neng Tom ing kayáng teléponú king Aptás.	jeronimoconstantina	2015-10-30 05:30:17	2015-10-30 05:30:17
+109	0x6d	m	1602	4677920	pam	Gísan neng Tom ing kapé na at méko ya bang magóbra.	jeronimoconstantina	2015-11-05 08:15:12	2015-11-05 08:15:12
+110	0x6e	n	4730	4677753	pam	Míminúm kung alcohol.	jeronimoconstantina	2015-11-05 06:35:24	2015-11-05 06:35:24
+111	0x6f	o	480	4552647	pam	Bálu kung imposíbli itá.	jeronimoconstantina	2015-09-25 02:47:19	2015-10-09 12:54:20
+112	0x70	p	713	4695643	pam	Ékuna daptán pasíbáyu itá.	jeronimoconstantina	2015-11-12 04:47:17	2015-11-12 04:47:17
+114	0x72	r	814	4681121	pam	Aláng sampágang tútúbu king Mars.	jeronimoconstantina	2015-11-06 12:58:26	2015-11-06 12:58:26
+115	0x73	s	921	4647995	pam	Neng kwarénta mágumpisá ing bye.	jeronimoconstantina	2015-10-27 11:34:33	2015-10-27 11:34:33
+116	0x74	t	1357	4629022	pam	Atín kung aísip a báyung úkul.	jeronimoconstantina	2015-10-21 03:43:12	2015-10-21 03:43:12
+117	0x75	u	1681	4677678	pam	Burí ku sâ atyú ku Boston.	jeronimoconstantina	2015-11-05 05:46:27	2015-11-05 05:46:27
 118	0x76	v	1	4677927	pam	Manibát anyáng méte i táta na, asnanéng kalungkút i David.	jeronimoconstantina	2015-11-05 08:23:02	2015-11-05 08:23:02
-119	0x77	w	282	4632539	pam	Pané yang malínis ing kwártu ku.	jeronimoconstantina	2015-10-22 07:50:19	2015-10-22 07:50:19
-120	0x78	x	6	4591470	pam	Mibagsak ya king "entrance examination".	jeronimoconstantina	2015-10-09 12:41:28	2015-10-09 12:41:34
-121	0x79	y	961	4629273	pam	Mas anák ya késa káku.	jeronimoconstantina	2015-10-21 06:53:05	2015-10-21 06:53:05
+119	0x77	w	282	4650835	pam	Maránun ing kasíbul ngéning banwá nung pakíyantí mu king banwáng métung.	jeronimoconstantina	2015-10-28 12:44:37	2015-10-28 12:44:37
+120	0x78	x	6	4695637	pam	Éne man tinext Tom i Mary a mitawlí ya.	jeronimoconstantina	2015-11-12 04:42:53	2015-11-12 04:42:53
+121	0x79	y	961	4762698	pam	Kaylángan yang larínan iníng trak.	jeronimoconstantina	2015-12-13 09:18:44	2015-12-13 09:18:44
 122	0x7a	z	2	4652675	pam	Ot e támu mag-order pizza?	jeronimoconstantina	2015-10-29 09:10:52	2015-10-29 09:10:52
-193	0xc1	Á	29	4653087	pam	Ápakísabián me?	jeronimoconstantina	2015-10-29 12:19:06	2015-10-29 12:19:06
-201	0xc9	É	149	4630377	pam	Éku makálákad a aláng túkud.	jeronimoconstantina	2015-10-21 11:42:44	2015-10-21 11:42:44
-205	0xcd	Í	5	4633030	pam	Íka ing mamáyad.	jeronimoconstantina	2015-10-22 11:22:41	2015-10-22 11:22:41
+193	0xc1	Á	29	4646032	pam	Álus kasíndagúl ne ning Grécia ing Estádo ning New York.	jeronimoconstantina	2015-10-26 14:48:28	2015-10-26 14:48:28
+201	0xc9	É	149	4696556	pam	Éku kasalánan iní, e wári?	jeronimoconstantina	2015-11-12 12:35:17	2015-11-12 12:35:17
+205	0xcd	Í	5	4753535	pam	Íka ing migdalá káku kéni.	jeronimoconstantina	2015-12-09 09:40:02	2015-12-09 09:40:02
 211	0xd3	Ó	3	4652312	pam	Óyni ing métung a ákalingwán ku.	jeronimoconstantina	2015-10-29 04:50:53	2015-10-29 04:50:53
 218	0xda	Ú	1	4649985	pam	Úli ning pámisápungán, míbalugsé ya paluál ing métung karíng pasáhérus.	jeronimoconstantina	2015-10-28 06:45:05	2015-10-28 06:45:05
-225	0xe1	á	2538	4630401	pam	Makápanáya kang mangá métung a óras?	jeronimoconstantina	2015-10-21 11:46:28	2015-10-21 11:46:28
-226	0xe2	â	54	4590660	pam	Anák ka pâ.	jeronimoconstantina	2015-10-09 09:13:17	2015-10-09 09:13:31
-233	0xe9	é	659	4652724	pam	E tútúbu karéng pun dútung ing spaghetti.	jeronimoconstantina	2015-10-29 09:25:17	2015-10-29 09:25:17
-234	0xea	ê	3	4696558	pam	Bag me iní, alê?	jeronimoconstantina	2015-11-12 12:36:44	2015-11-12 12:36:44
-237	0xed	í	823	4654986	pam	Idáyu me kékamí.	jeronimoconstantina	2015-10-30 05:18:41	2015-10-30 05:18:41
-238	0xee	î	25	4753819	pam	Iní ing tútukî!	jeronimoconstantina	2015-12-09 13:23:58	2015-12-09 13:23:58
-243	0xf3	ó	185	4677675	pam	Iní ing kálugúran kung Apón.	jeronimoconstantina	2015-11-05 05:43:25	2015-11-05 05:43:25
+225	0xe1	á	2538	4706614	pam	Alá ya ang inámin.	jeronimoconstantina	2015-11-17 12:38:55	2015-11-17 12:38:55
+226	0xe2	â	54	4692598	pam	Kínyak ya anyáng dimdám na ing grábing balítâ.	jeronimoconstantina	2015-11-11 04:43:49	2015-11-11 04:43:49
+233	0xe9	é	659	4654995	pam	Susuglúng neng Tom ing kayáng teléponú king Aptás.	jeronimoconstantina	2015-10-30 05:30:17	2015-10-30 05:30:17
+234	0xea	ê	3	4696553	pam	Éku kasalánan iní, alê?	jeronimoconstantina	2015-11-12 12:33:51	2015-11-12 12:34:17
+237	0xed	í	823	4647903	pam	Isípan mū mû: dóktor ya, óneng sísindí ya.	jeronimoconstantina	2015-10-27 09:29:54	2015-10-27 09:29:54
+238	0xee	î	25	4652291	pam	Burí mung gáwan iné o alî?	jeronimoconstantina	2015-10-29 04:29:17	2015-10-29 04:29:17
+243	0xf3	ó	185	4607377	pam	Sakóru!	jeronimoconstantina	2015-10-14 10:24:22	2015-10-14 10:24:22
 244	0xf4	ô	1	4607452	pam	Tutô?	jeronimoconstantina	2015-10-14 10:58:34	2015-10-14 10:58:34
-250	0xfa	ú	587	4566356	pam	Danúpan ka?	jeronimoconstantina	2015-09-29 08:36:50	2015-09-29 08:37:09
-251	0xfb	û	41	4647903	pam	Isípan mū mû: dóktor ya, óneng sísindí ya.	jeronimoconstantina	2015-10-27 09:29:54	2015-10-27 09:29:54
-257	0x101	ā	7	4650033	pam	Atín yang pákisabián i Tom ngéni. Makāpanáya ka?	jeronimoconstantina	2015-10-28 07:00:43	2015-10-28 07:00:43
-363	0x16b	ū	3	4647903	pam	Isípan mū mû: dóktor ya, óneng sísindí ya.	jeronimoconstantina	2015-10-27 09:29:54	2015-10-27 09:29:54
+250	0xfa	ú	587	4692918	pam	Múmúna, pisabyán tála deng ekspériméntung gagáwan da karéng laboratóryu.	jeronimoconstantina	2015-11-11 08:19:29	2015-11-11 08:19:29
+251	0xfb	û	41	4693076	pam	Lubús mukúng talásúyû.	jeronimoconstantina	2015-11-11 09:13:34	2015-11-11 09:13:34
+257	0x101	ā	7	4690694	pam	Pantásya yā mú.	jeronimoconstantina	2015-11-10 12:34:33	2015-11-10 12:34:33
+363	0x16b	ū	3	4655014	pam	Burí kū mung ábálu mung ligtás ya i Tom.	jeronimoconstantina	2015-10-30 05:59:28	2015-10-30 05:59:28

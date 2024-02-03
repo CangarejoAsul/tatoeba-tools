@@ -1,47 +1,47 @@
-32	0x20	 	245	3126064	pdc	Sehn dich schpeeder!	Theocracy	2014-03-25 21:23:47	2014-03-30 08:17:46
-33	0x21	!	8	5749704	pdc	Guder Daag!	Theocracy	2017-01-07 21:43:50	2017-01-07 21:43:59
+32	0x20	 	245	5819708	pdc	Der zwitte vun Hanning iss Grundsau Daag.	Theocracy	2017-02-02 04:52:00	2017-02-02 04:54:54
+33	0x21	!	8	5749703	pdc	Guder Mariye!	Theocracy	2017-01-07 21:42:45	2017-01-07 21:42:45
 34	0x22	"	8	3123780	pdc	"Wie bischt du?" "Ich bin gut, danke."	Theocracy	2014-03-25 03:10:07	2014-03-27 20:55:46
 39	0x27	'	1	5738627	pdc	Mach's gut.	Theocracy	2017-01-05 02:19:52	2017-01-05 02:19:52
-44	0x2c	,	39	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-46	0x2e	.	29	4647513	pdc	Selli sinn meene Schuhe.	Theocracy	2015-10-27 05:19:55	2015-10-27 16:44:43
-63	0x3f	?	22	3123809	pdc	Was iss dei Naame?	Theocracy	2014-03-25 03:27:29	2014-03-26 03:36:28
+44	0x2c	,	39	3123784	pdc	Guder daag, wie bischt?	Theocracy	2014-03-25 03:13:47	2014-03-27 21:02:44
+46	0x2e	.	29	3196479	pdc	Ich lieb keen Kees.	Theocracy	2014-04-23 22:47:58	2015-10-23 20:07:11
+63	0x3f	?	22	3241168	pdc	Bischt du seine Mudder?	Theocracy	2014-05-09 20:15:28	2014-05-09 20:15:28
 65	0x41	A	4	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
-66	0x42	B	7	3203579	pdc	Wu iss es Briwwi?	Theocracy	2014-04-25 22:18:34	2014-04-25 22:18:34
-68	0x44	D	22	5749704	pdc	Guder Daag!	Theocracy	2017-01-07 21:43:50	2017-01-07 21:43:59
-69	0x45	E	5	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
-70	0x46	F	7	4629050	pdc	Sei, oddah naett sei, dee is di Fraag.	Theocracy	2015-10-21 04:10:01	2015-10-21 06:09:02
-71	0x47	G	8	3123784	pdc	Guder daag, wie bischt?	Theocracy	2014-03-25 03:13:47	2014-03-27 21:02:44
-72	0x48	H	10	5845240	pdc	Hoscht du en Maschien?	Theocracy	2017-02-10 10:09:02	2017-02-10 10:09:20
-73	0x49	I	8	5738635	pdc	Ich winsch eich all en glicklich nei Yaahr.	Theocracy	2017-01-05 02:27:53	2017-01-05 02:27:53
+66	0x42	B	7	5738634	pdc	Bischt du froh?	Theocracy	2017-01-05 02:27:01	2017-01-05 02:27:01
+68	0x44	D	22	5834774	pdc	Der Tom wuhnt auf die anneri Seit vun es Daal.	Theocracy	2017-02-07 01:45:26	2017-02-07 01:45:26
+69	0x45	E	5	5745565	pdc	Ich schwetz keen Englisch.	Theocracy	2017-01-07 01:20:19	2017-01-07 01:20:19
+70	0x46	F	7	5745391	pdc	Mundaag, Dinschdaag, Mittwoch, Dunnerschdaag, Freidaag, Samschdaag un Sunndaag sin die siwwe Daage im Woch.	Theocracy	2017-01-06 23:44:49	2017-01-07 19:50:50
+71	0x47	G	8	5749706	pdc	Guder Owed!	Theocracy	2017-01-07 21:47:03	2017-01-07 21:47:16
+72	0x48	H	10	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
+73	0x49	I	8	5051330	pdc	Ich heisse der Tom.	Theocracy	2016-04-08 22:28:54	2016-04-08 22:35:43
 75	0x4b	K	1	3196479	pdc	Ich lieb keen Kees.	Theocracy	2014-04-23 22:47:58	2015-10-23 20:07:11
-77	0x4d	M	14	5745391	pdc	Mundaag, Dinschdaag, Mittwoch, Dunnerschdaag, Freidaag, Samschdaag un Sunndaag sin die siwwe Daage im Woch.	Theocracy	2017-01-06 23:44:49	2017-01-07 19:50:50
+77	0x4d	M	14	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
 78	0x4e	N	7	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-79	0x4f	O	5	5749706	pdc	Guder Owed!	Theocracy	2017-01-07 21:47:03	2017-01-07 21:47:16
-83	0x53	S	14	5745391	pdc	Mundaag, Dinschdaag, Mittwoch, Dunnerschdaag, Freidaag, Samschdaag un Sunndaag sin die siwwe Daage im Woch.	Theocracy	2017-01-06 23:44:49	2017-01-07 19:50:50
-84	0x54	T	7	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-87	0x57	W	17	3241735	pdc	Wie schpot iss es?	Theocracy	2014-05-10 01:58:06	2014-05-10 01:58:06
+79	0x4f	O	5	4948142	pdc	Di Furcht fumm Hah is da Ohfang funn Eisicht.	Theocracy	2016-03-01 21:35:36	2016-03-01 21:35:52
+83	0x53	S	14	4647513	pdc	Selli sinn meene Schuhe.	Theocracy	2015-10-27 05:19:55	2015-10-27 16:44:43
+84	0x54	T	7	5051330	pdc	Ich heisse der Tom.	Theocracy	2016-04-08 22:28:54	2016-04-08 22:35:43
+87	0x57	W	17	3123798	pdc	Wu wuhnscht du?	Theocracy	2014-03-25 03:23:33	2014-03-27 21:02:50
 89	0x59	Y	8	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
-90	0x5a	Z	3	3241740	pdc	Was fer Zeit hemmer?	Theocracy	2014-05-10 02:00:10	2014-05-10 02:00:10
-97	0x61	a	93	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-98	0x62	b	15	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-99	0x63	c	63	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-100	0x64	d	61	3241168	pdc	Bischt du seine Mudder?	Theocracy	2014-05-09 20:15:28	2014-05-09 20:15:28
-101	0x65	e	179	4647513	pdc	Selli sinn meene Schuhe.	Theocracy	2015-10-27 05:19:55	2015-10-27 16:44:43
-102	0x66	f	15	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-103	0x67	g	30	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
-104	0x68	h	91	3165658	pdc	Des is mein Broodah.	Theocracy	2014-04-11 00:24:40	2015-01-20 04:47:01
-105	0x69	i	127	4823802	pdc	Ich weiss naett.	Theocracy	2016-01-10 23:12:53	2016-01-10 23:13:03
-107	0x6b	k	10	5745565	pdc	Ich schwetz keen Englisch.	Theocracy	2017-01-07 01:20:19	2017-01-07 01:20:19
-108	0x6c	l	30	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-109	0x6d	m	39	5749708	pdc	Guder Nummidaag!	Theocracy	2017-01-07 21:49:29	2017-01-07 21:49:29
-110	0x6e	n	83	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
-111	0x6f	o	29	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
-112	0x70	p	7	5745036	pdc	Welli Sprooch schwetzt dihr am Heemet?	Theocracy	2017-01-06 23:14:13	2017-01-06 23:14:53
-114	0x72	r	70	5745035	pdc	Welli Sprooch schwetscht du am Heemet?	Theocracy	2017-01-06 23:12:46	2017-01-06 23:12:52
-115	0x73	s	96	5745036	pdc	Welli Sprooch schwetzt dihr am Heemet?	Theocracy	2017-01-06 23:14:13	2017-01-06 23:14:53
-116	0x74	t	61	4823802	pdc	Ich weiss naett.	Theocracy	2016-01-10 23:12:53	2016-01-10 23:13:03
-117	0x75	u	65	3132971	pdc	Wu kummscht du bei?	Theocracy	2014-03-28 00:32:00	2014-04-02 13:00:50
-118	0x76	v	7	5845247	pdc	Wieviel Maschiene hoscht du?	Theocracy	2017-02-10 10:15:07	2017-02-10 10:16:46
-119	0x77	w	35	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-121	0x79	y	3	3123812	pdc	"Wu wuhnscht du?" "Ich wuhn in Tokyo."	Theocracy	2014-03-25 03:28:38	2014-03-30 08:18:01
-122	0x7a	z	10	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
+90	0x5a	Z	3	5738638	pdc	Was fer Zeit hawwe mer?	Theocracy	2017-01-05 02:36:56	2017-01-05 02:36:56
+97	0x61	a	93	3165658	pdc	Des is mein Broodah.	Theocracy	2014-04-11 00:24:40	2015-01-20 04:47:01
+98	0x62	b	15	3123780	pdc	"Wie bischt du?" "Ich bin gut, danke."	Theocracy	2014-03-25 03:10:07	2014-03-27 20:55:46
+99	0x63	c	63	4869956	pdc	Wie heischt du?	Theocracy	2016-01-29 22:31:14	2016-01-29 22:31:20
+100	0x64	d	61	3123790	pdc	Sehnt die Grundsau ihre Shadde?	Theocracy	2014-03-25 03:18:13	2014-03-27 23:37:00
+101	0x65	e	179	5845240	pdc	Hoscht du en Maschien?	Theocracy	2017-02-10 10:09:02	2017-02-10 10:09:20
+102	0x66	f	15	5738634	pdc	Bischt du froh?	Theocracy	2017-01-05 02:27:01	2017-01-05 02:27:01
+103	0x67	g	30	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
+104	0x68	h	91	5749993	pdc	Des do Bett iss fer mir ze weech.	Theocracy	2017-01-08 06:56:28	2017-01-08 06:56:44
+105	0x69	i	127	5819708	pdc	Der zwitte vun Hanning iss Grundsau Daag.	Theocracy	2017-02-02 04:52:00	2017-02-02 04:54:54
+107	0x6b	k	10	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+108	0x6c	l	30	5738635	pdc	Ich winsch eich all en glicklich nei Yaahr.	Theocracy	2017-01-05 02:27:53	2017-01-05 02:27:53
+109	0x6d	m	39	5749993	pdc	Des do Bett iss fer mir ze weech.	Theocracy	2017-01-08 06:56:28	2017-01-08 06:56:44
+110	0x6e	n	83	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+111	0x6f	o	29	3176983	pdc	Wilkumm bei Tatoeba.	Theocracy	2014-04-14 22:12:31	2014-04-14 22:12:31
+112	0x70	p	7	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+114	0x72	r	70	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+115	0x73	s	96	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+116	0x74	t	61	4869956	pdc	Wie heischt du?	Theocracy	2016-01-29 22:31:14	2016-01-29 22:31:20
+117	0x75	u	65	5738627	pdc	Mach's gut.	Theocracy	2017-01-05 02:19:52	2017-01-05 02:19:52
+118	0x76	v	7	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
+119	0x77	w	35	5749706	pdc	Guder Owed!	Theocracy	2017-01-07 21:47:03	2017-01-07 21:47:16
+121	0x79	y	3	5749703	pdc	Guder Mariye!	Theocracy	2017-01-07 21:42:45	2017-01-07 21:42:45
+122	0x7a	z	10	3250883	pdc	Eens, zwee, drei, vier, fimf, sechs, siwwe, acht, nein, zehe.	Theocracy	2014-05-13 22:46:36	2014-05-13 22:46:36

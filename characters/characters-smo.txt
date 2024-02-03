@@ -1,41 +1,41 @@
-32	0x20	 	263	7350092	smo	Ou te 'ino'ino Ile mea lena!	\N	2018-10-27 16:34:39	2018-12-20 10:05:24
-33	0x21	!	12	7349341	smo	Ia manuia lau malaga!	\N	2018-10-27 12:28:39	2018-12-20 10:05:16
-39	0x27	'	35	7350014	smo	O ia 'oe la'u tusi?	\N	2018-10-27 15:57:13	2018-12-20 10:05:20
+32	0x20	 	263	7350025	smo	O ai lou igoa?	\N	2018-10-27 16:01:13	2018-12-20 10:04:35
+33	0x21	!	12	7349348	smo	Sesē!	\N	2018-10-27 12:31:30	2018-12-20 10:05:21
+39	0x27	'	35	7350073	smo	O le tama e 'aitele.	\N	2018-10-27 16:31:25	2018-12-20 10:04:15
 44	0x2c	,	39	7349407	smo	Tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:49:24	2018-12-20 10:05:07
-46	0x2e	.	45	7349368	smo	Ia manuia le aso.	\N	2018-10-27 12:41:40	2018-12-20 10:04:59
+46	0x2e	.	45	7350071	smo	E 'ai tele le tama.	\N	2018-10-27 16:31:17	2018-12-20 10:04:46
 58	0x3a	:	1	7725009	smo	O le masina o le tausaga: Ianuari, Fepuari, Mati, Aperila, Me, Iuni, Iulai, Aokuso, Setema, Oketopa, Novema ma Tesema.	marvinibahs	2019-01-15 02:12:21	2019-01-15 02:32:14
-63	0x3f	?	23	7350024	smo	E fia le tau?	\N	2018-10-27 16:00:51	2018-12-20 10:04:19
-65	0x41	A	6	7350003	smo	Aisea e te fa'anoanoa ai?	\N	2018-10-27 15:55:02	2018-12-20 10:04:25
-69	0x45	E	15	7349955	smo	E le taitai ona ou ula tapa'a.	\N	2018-10-27 15:38:56	2018-12-20 10:04:53
-70	0x46	F	9	7349372	smo	Fa'afetai tele lava!	\N	2018-10-27 12:43:14	2018-12-20 10:04:34
-73	0x49	I	13	7349368	smo	Ia manuia le aso.	\N	2018-10-27 12:41:40	2018-12-20 10:04:59
+63	0x3f	?	23	7349997	smo	O fea?	\N	2018-10-27 15:53:36	2018-12-20 10:04:41
+65	0x41	A	6	7349995	smo	Aisea?	\N	2018-10-27 15:53:23	2018-12-20 10:04:37
+69	0x45	E	15	7350017	smo	E mafai ona ou fesoasoani ia 'oe?	\N	2018-10-27 15:57:48	2018-12-20 10:04:17
+70	0x46	F	9	11046690	smo	Fa‘afetai lava.	lightswitch	2022-08-07 05:57:15	2022-08-07 05:57:15
+73	0x49	I	13	7350082	smo	Ua matou fa'amagalo I le tama.	\N	2018-10-27 16:33:34	2018-12-20 10:04:23
 76	0x4c	L	2	7349392	smo	Leai!	\N	2018-10-27 12:46:20	2018-12-20 10:04:33
 77	0x4d	M	3	7350135	smo	Matou te malamalam I lena.	\N	2018-10-27 16:42:31	2018-12-20 10:05:08
 78	0x4e	N	3	7350142	smo	Na matou talanoa ai.	\N	2018-10-27 16:44:20	2018-12-20 10:05:19
-79	0x4f	O	26	7349997	smo	O fea?	\N	2018-10-27 15:53:36	2018-12-20 10:04:41
+79	0x4f	O	26	3708473	smo	Ou te lē fia alu i le āʻoga.	\N	2014-12-24 18:00:22	2021-01-22 15:35:57
 82	0x52	R	1	6824286	smo	O aʻu o Ricardo.	Ricardo14	2018-04-07 12:27:46	2018-04-07 12:27:46
 83	0x53	S	8	7349347	smo	Sesē.	\N	2018-10-27 12:31:19	2018-12-20 10:04:52
-84	0x54	T	7	7349334	smo	Tai lava!	\N	2018-10-27 12:25:46	2018-12-20 10:04:36
-85	0x55	U	6	7350022	smo	Ua ta se fia?	\N	2018-10-27 16:00:10	2018-12-20 10:04:56
-97	0x61	a	279	7349346	smo	Sa'o!	\N	2018-10-27 12:30:09	2018-12-20 10:04:43
+84	0x54	T	7	7349407	smo	Tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:49:24	2018-12-20 10:05:07
+85	0x55	U	6	7349981	smo	Ua matou ma'alili.	\N	2018-10-27 15:46:58	2018-12-20 10:04:45
+97	0x61	a	279	7350015	smo	E tele fa'apefea?	\N	2018-10-27 15:57:33	2018-12-20 10:04:22
 99	0x63	c	1	6824286	smo	O aʻu o Ricardo.	Ricardo14	2018-04-07 12:27:46	2018-04-07 12:27:46
 100	0x64	d	1	6824286	smo	O aʻu o Ricardo.	Ricardo14	2018-04-07 12:27:46	2018-04-07 12:27:46
-101	0x65	e	135	7349392	smo	Leai!	\N	2018-10-27 12:46:20	2018-12-20 10:04:33
-102	0x66	f	57	7349405	smo	Selo, tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:48:37	2018-12-20 10:04:48
-103	0x67	g	8	7350025	smo	O ai lou igoa?	\N	2018-10-27 16:01:13	2018-12-20 10:04:35
-105	0x69	i	112	7349980	smo	Ua 'ou ma'alili.	\N	2018-10-27 15:46:40	2018-12-20 10:04:20
-107	0x6b	k	4	7349952	smo	O ia o le teine Amerika.	\N	2018-10-27 15:37:29	2018-12-20 10:04:55
-108	0x6c	l	110	7350097	smo	E mafai ona ou lagonaina.	\N	2018-10-27 16:35:04	2018-12-20 10:04:11
-109	0x6d	m	59	7349951	smo	O ia o le tama mai Amerika.	\N	2018-10-27 15:37:10	2018-12-20 10:05:10
-110	0x6e	n	47	7350086	smo	Ou te 'ino'ino Ile mea lena.	\N	2018-10-27 16:34:11	2018-12-20 10:04:50
-111	0x6f	o	89	7350107	smo	Tatou o loa.	\N	2018-10-27 16:36:35	2018-12-20 10:04:28
+101	0x65	e	135	7350024	smo	E fia le tau?	\N	2018-10-27 16:00:51	2018-12-20 10:04:19
+102	0x66	f	57	7349421	smo	Sefulu, sefulutasi, sefululua, sefulutolu, sefulufā, sefululima, sefuluono, sefulufitu, sefuluvalu, sefuluiva, luasefulu.	\N	2018-10-27 12:53:08	2018-12-20 10:05:14
+103	0x67	g	8	7349341	smo	Ia manuia lau malaga!	\N	2018-10-27 12:28:39	2018-12-20 10:05:16
+105	0x69	i	112	7350014	smo	O ia 'oe la'u tusi?	\N	2018-10-27 15:57:13	2018-12-20 10:05:20
+107	0x6b	k	4	7725009	smo	O le masina o le tausaga: Ianuari, Fepuari, Mati, Aperila, Me, Iuni, Iulai, Aokuso, Setema, Oketopa, Novema ma Tesema.	marvinibahs	2019-01-15 02:12:21	2019-01-15 02:32:14
+108	0x6c	l	110	7349407	smo	Tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:49:24	2018-12-20 10:05:07
+109	0x6d	m	59	7350082	smo	Ua matou fa'amagalo I le tama.	\N	2018-10-27 16:33:34	2018-12-20 10:04:23
+110	0x6e	n	47	7350137	smo	E manana'o iai latou I lena.	\N	2018-10-27 16:42:53	2018-12-20 10:04:24
+111	0x6f	o	89	7349407	smo	Tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:49:24	2018-12-20 10:05:07
 112	0x70	p	6	7349991	smo	Fa'apefea?	\N	2018-10-27 15:51:51	2018-12-20 10:05:09
 114	0x72	r	6	7725009	smo	O le masina o le tausaga: Ianuari, Fepuari, Mati, Aperila, Me, Iuni, Iulai, Aokuso, Setema, Oketopa, Novema ma Tesema.	marvinibahs	2019-01-15 02:12:21	2019-01-15 02:32:14
-115	0x73	s	36	7349995	smo	Aisea?	\N	2018-10-27 15:53:23	2018-12-20 10:04:37
-116	0x74	t	68	7350029	smo	Ou te taliaina lena.	\N	2018-10-27 16:04:17	2018-12-20 10:04:57
-117	0x75	u	94	7349421	smo	Sefulu, sefulutasi, sefululua, sefulutolu, sefulufā, sefululima, sefuluono, sefulufitu, sefuluvalu, sefuluiva, luasefulu.	\N	2018-10-27 12:53:08	2018-12-20 10:05:14
-118	0x76	v	12	7349405	smo	Selo, tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:48:37	2018-12-20 10:04:48
-257	0x101	ā	7	11046075	smo	'O ā mai 'oe?	lightswitch	2022-08-06 15:57:18	2022-08-06 15:57:18
-275	0x113	ē	3	7349347	smo	Sesē.	\N	2018-10-27 12:31:19	2018-12-20 10:04:52
-699	0x2bb	ʻ	5	3709802	smo	ʻOu te fia ʻai.	\N	2014-12-25 16:57:34	2015-10-15 15:51:56
+115	0x73	s	36	7725009	smo	O le masina o le tausaga: Ianuari, Fepuari, Mati, Aperila, Me, Iuni, Iulai, Aokuso, Setema, Oketopa, Novema ma Tesema.	marvinibahs	2019-01-15 02:12:21	2019-01-15 02:32:14
+116	0x74	t	68	7349372	smo	Fa'afetai tele lava!	\N	2018-10-27 12:43:14	2018-12-20 10:04:34
+117	0x75	u	94	7349382	smo	Fa'amalie atu!	\N	2018-10-27 12:44:58	2018-12-20 10:04:38
+118	0x76	v	12	7349372	smo	Fa'afetai tele lava!	\N	2018-10-27 12:43:14	2018-12-20 10:04:34
+257	0x101	ā	7	7349405	smo	Selo, tasi, lua, tolu, fā, lima, ono, fitu, valu, iva, sefulu.	\N	2018-10-27 12:48:37	2018-12-20 10:04:48
+275	0x113	ē	3	7349348	smo	Sesē!	\N	2018-10-27 12:31:30	2018-12-20 10:05:21
+699	0x2bb	ʻ	5	6824286	smo	O aʻu o Ricardo.	Ricardo14	2018-04-07 12:27:46	2018-04-07 12:27:46
 8216	0x2018	‘	1	11046690	smo	Fa‘afetai lava.	lightswitch	2022-08-07 05:57:15	2022-08-07 05:57:15

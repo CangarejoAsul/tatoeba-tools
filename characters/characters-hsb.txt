@@ -1,97 +1,97 @@
-32	0x20	 	4623	1812594	hsb	Přikłady w tutym słowniku so hodźa lochko rozumić.	Tlustulimu	2012-09-02 14:32:04	2012-09-02 14:32:04
-33	0x21	!	53	3807400	hsb	Haj, přińdu!	Tlustulimu	2015-01-29 14:41:29	2015-01-29 14:41:29
+32	0x20	 	4623	1246335	hsb	Před korčmu hižo su někotre z piwom wopite leželi.	Tlustulimu	2011-11-18 16:00:01	2011-11-18 16:00:05
+33	0x21	!	53	9833938	hsb	Bohužel!	Dominika7	2021-03-09 15:56:07	2021-03-09 15:56:07
 34	0x22	"	2	3834188	hsb	Psy njemóžeja rěčeć, ale je so zdało, jako by wóčce psa prajiłoj: "Ně, nimam doma.".	Tlustulimu	2015-02-02 13:07:12	2015-02-02 13:10:32
-44	0x2c	,	279	3794443	hsb	Myslu, zo wón je zbožowny.	Tlustulimu	2015-01-24 22:05:12	2015-01-24 22:05:12
-45	0x2d	-	3	1255987	hsb	Móžeš to z e-mejlku pósłać?	Tlustulimu	2011-11-22 20:05:20	2011-11-22 20:06:47
-46	0x2e	.	1202	3816572	hsb	Dyrbiš twojeho psa dohladować.	Tlustulimu	2015-01-31 18:08:30	2015-01-31 18:08:30
-49	0x31	1	2	3812332	hsb	Kotryž tajne słowo „123456“ wužiwa, tón njech so třěli na měsačk dla hrubeje lochkomyslnosće.	Tlustulimu	2015-01-30 16:20:28	2015-01-30 16:23:50
+44	0x2c	,	279	1197229	hsb	Znaju hólca, wo kotrymž ničo njewěš.	Tlustulimu	2011-10-25 15:33:03	2011-10-25 15:34:12
+45	0x2d	-	3	3784535	hsb	W sewjerje zymy su dołhe, ale lěća - krótke.	Tlustulimu	2015-01-21 13:18:05	2015-01-21 13:18:05
+46	0x2e	.	1202	10013731	hsb	Sym hordy na waju.	Dominika7	2021-05-07 16:26:14	2021-05-07 16:26:14
+49	0x31	1	2	3812307	hsb	Wón je so dnja 28. julija 1888 narodźił.	Tlustulimu	2015-01-30 16:05:06	2015-01-30 16:05:06
 50	0x32	2	2	3812307	hsb	Wón je so dnja 28. julija 1888 narodźił.	Tlustulimu	2015-01-30 16:05:06	2015-01-30 16:05:06
-51	0x33	3	2	3812332	hsb	Kotryž tajne słowo „123456“ wužiwa, tón njech so třěli na měsačk dla hrubeje lochkomyslnosće.	Tlustulimu	2015-01-30 16:20:28	2015-01-30 16:23:50
+51	0x33	3	2	9832085	hsb	Hornjoserbski alfabet wobsteji z 34 pismikow: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:50:32	2021-03-08 16:50:32
 52	0x34	4	3	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 53	0x35	5	1	3812332	hsb	Kotryž tajne słowo „123456“ wužiwa, tón njech so třěli na měsačk dla hrubeje lochkomyslnosće.	Tlustulimu	2015-01-30 16:20:28	2015-01-30 16:23:50
 54	0x36	6	2	3812332	hsb	Kotryž tajne słowo „123456“ wužiwa, tón njech so třěli na měsačk dla hrubeje lochkomyslnosće.	Tlustulimu	2015-01-30 16:20:28	2015-01-30 16:23:50
 56	0x38	8	4	3812307	hsb	Wón je so dnja 28. julija 1888 narodźił.	Tlustulimu	2015-01-30 16:05:06	2015-01-30 16:05:06
-58	0x3a	:	5	3834188	hsb	Psy njemóžeja rěčeć, ale je so zdało, jako by wóčce psa prajiłoj: "Ně, nimam doma.".	Tlustulimu	2015-02-02 13:07:12	2015-02-02 13:10:32
+58	0x3a	:	5	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 59	0x3b	;	5	10065091	hsb	Prošće, a wam budźe date; pytajće a namakaće; kłapajće a wam budźe wotewrjene. Přetož kóždy, kiž prosy, dóstanje; a štóž pyta, namaka; a kłapacemu so wotewri.	Dominika7	2021-05-26 15:47:50	2021-05-26 15:47:50
-63	0x3f	?	277	3801749	hsb	Čehodla njeńdźeš do łoža?	Tlustulimu	2015-01-26 22:27:34	2015-01-26 22:27:34
-65	0x41	A	16	2128175	hsb	Andorra je małe wjerchowstwo wupřestrjewa so mjez Španiskej a Francoskej.	Balamax	2013-01-07 07:53:10	2013-01-07 07:53:10
-66	0x42	B	45	1262106	hsb	Bohužel je so dešćowało.	Tlustulimu	2011-11-25 19:27:05	2011-11-25 19:27:09
-67	0x43	C	28	3807081	hsb	Chcu, zo by ty spěwała.	Tlustulimu	2015-01-29 11:29:32	2015-01-29 11:29:32
-68	0x44	D	55	9837375	hsb	Dźesać, dwaceći, třiceći, štyrceći, pjećedźesat, šěsćdźesat, sydomdźesat, wosomdźesat, dźewjećdźesat, sto.	Dominika7	2021-03-11 14:27:55	2021-03-11 14:27:55
-69	0x45	E	8	1203139	hsb	Esperanto ma wjele korjenjow słowow z indoeuropskich rěčow.	Tlustulimu	2011-10-28 17:25:53	2011-10-28 17:27:44
-70	0x46	F	11	1253065	hsb	Faluje nuznikowa papjera.	Tlustulimu	2011-11-21 14:51:56	2011-11-21 14:52:04
+63	0x3f	?	277	1256247	hsb	Kelko rěčow je w Europje?	Tlustulimu	2011-11-22 22:01:07	2011-11-22 22:01:12
+65	0x41	A	16	3798230	hsb	Tež Arnošt pochadźa z Łužicy.	Tlustulimu	2015-01-25 19:18:27	2015-01-25 19:18:27
+66	0x42	B	45	3798399	hsb	Budź kedźbny! Nóž je jara wótry.	Tlustulimu	2015-01-25 20:09:22	2015-01-25 20:09:22
+67	0x43	C	28	1249673	hsb	Chcu w hrodźe bydlić.	Tlustulimu	2011-11-20 00:37:43	2011-11-20 00:37:49
+68	0x44	D	55	2164207	hsb	Dźěći Toma a Marije rady jědźa truskalcy.	Tlustulimu	2013-01-24 16:27:09	2013-01-24 16:27:09
+69	0x45	E	8	10011896	hsb	Sće Etiopjanka?	Dominika7	2021-05-06 15:21:34	2021-05-06 15:21:34
+70	0x46	F	11	10004094	hsb	Sym Finka.	Dominika7	2021-05-02 21:07:11	2021-05-02 21:07:11
 71	0x47	G	6	3797843	hsb	W Grönlandskej je bóle zyma hač w Němskej.	Tlustulimu	2015-01-25 17:38:53	2015-01-25 17:38:53
-72	0x48	H	87	10072886	hsb	Hólc pisa.	Dominika7	2021-05-29 18:56:39	2021-05-29 18:56:39
-73	0x49	I	3	10021548	hsb	Sym z Italskeje.	Dominika7	2021-05-10 18:31:41	2021-05-10 18:31:41
-74	0x4a	J	123	9870284	hsb	Jutře póńdźemy do dźiwadła.	Dominika7	2021-03-25 19:49:55	2021-03-25 19:49:55
-75	0x4b	K	92	9860633	hsb	Kniha je čorna.	Dominika7	2021-03-22 18:20:45	2021-03-22 18:20:45
-76	0x4c	L	6	10064372	hsb	Leža na blidźe.	Dominika7	2021-05-26 10:22:58	2021-05-26 10:22:58
-77	0x4d	M	160	3784192	hsb	Myslu, zo mój kompjuter bě tróšku dróši hač twój.	Tlustulimu	2015-01-21 11:10:34	2015-01-21 11:10:34
-78	0x4e	N	136	3787008	hsb	Na tutym wobrazu widźimy słona.	Tlustulimu	2015-01-22 11:35:28	2021-05-10 08:23:45
+72	0x48	H	87	4780573	hsb	Hdźe je hamor?	aldar	2015-12-20 23:34:56	2015-12-20 23:34:56
+73	0x49	I	3	10008569	hsb	Malajzija mjezuje z Indoneskej.	Dominika7	2021-05-05 07:14:49	2021-05-05 07:14:49
+74	0x4a	J	123	9970833	hsb	Je njedźela.	Dominika7	2021-04-19 11:54:09	2021-04-19 11:54:09
+75	0x4b	K	92	1197557	hsb	Kelko cokora wužiwaš?	Tlustulimu	2011-10-25 19:33:20	2011-10-25 19:33:23
+76	0x4c	L	6	10064377	hsb	Ležitej na blidźe.	Dominika7	2021-05-26 10:23:45	2021-05-26 10:23:45
+77	0x4d	M	160	10005103	hsb	Ma bratra abo sotru?	Dominika7	2021-05-03 09:17:07	2021-05-03 09:17:07
+78	0x4e	N	136	3811473	hsb	Njepotrjebuju wjace kredit.	Tlustulimu	2015-01-30 12:52:02	2015-01-30 12:52:02
 79	0x4f	O	2	1253342	hsb	Pawoł je mudriši hač Otto.	Tlustulimu	2011-11-21 16:34:52	2011-11-21 16:34:56
-80	0x50	P	80	1253600	hsb	Pawlina ma róžojtu čapku.	Tlustulimu	2011-11-21 17:42:29	2011-11-21 17:42:29
-82	0x52	R	74	10008602	hsb	Rěčiće słowjensce?	Dominika7	2021-05-05 07:24:30	2021-05-05 07:24:30
-83	0x53	S	177	10004094	hsb	Sym Finka.	Dominika7	2021-05-02 21:07:11	2021-05-02 21:07:11
-84	0x54	T	228	10057609	hsb	To je vietnamske mjeno.	Dominika7	2021-05-23 11:17:48	2021-05-23 11:17:48
-87	0x57	W	222	1201870	hsb	Woda mjerznješe.	Tlustulimu	2011-10-27 22:23:59	2011-10-27 22:24:02
+80	0x50	P	80	3801680	hsb	Potrjebuju wjace přikładow, zo by rozumił, kak tute słowo so wužiwa.	Tlustulimu	2015-01-26 22:06:27	2015-01-26 22:06:39
+82	0x52	R	74	10146653	hsb	Rěču uzbeksce.	Dominika7	2021-07-03 10:39:16	2021-07-03 10:39:16
+83	0x53	S	177	3794111	hsb	Sym francošćinu w Parisu wuknył.	Tlustulimu	2015-01-24 20:23:39	2015-01-24 20:23:39
+84	0x54	T	228	9952151	hsb	Tom pije čaj.	Dominika7	2021-04-12 12:56:17	2021-04-12 12:56:17
+87	0x57	W	222	1555175	hsb	Wokolina je jara zajimawa.	a07	2012-04-29 14:33:15	2012-04-29 14:33:15
 89	0x59	Y	1	1197357	hsb	Yen je słabši hač dolar.	Tlustulimu	2011-10-25 17:44:33	2011-10-25 17:44:37
-90	0x5a	Z	24	3787069	hsb	Znajeće jeho bratra?	Tlustulimu	2015-01-22 12:24:41	2015-01-22 12:24:41
-97	0x61	a	2614	9835602	hsb	Nimam žanoho bratra a žanu sotru.	Dominika7	2021-03-10 15:09:10	2021-03-10 15:09:10
-98	0x62	b	442	9835547	hsb	Twoja swójba je wulka.	Dominika7	2021-03-10 14:50:55	2021-03-10 14:50:55
-99	0x63	c	444	9944472	hsb	Rěčiće hindisce?	Dominika7	2021-04-08 21:01:35	2021-04-08 21:01:35
-100	0x64	d	925	9837375	hsb	Dźesać, dwaceći, třiceći, štyrceći, pjećedźesat, šěsćdźesat, sydomdźesat, wosomdźesat, dźewjećdźesat, sto.	Dominika7	2021-03-11 14:27:55	2021-03-11 14:27:55
-101	0x65	e	2531	9852755	hsb	Budźemy Awstraliju wopytować.	Dolgopavel	2021-03-19 17:03:57	2021-03-19 17:03:57
-102	0x66	f	57	9852724	hsb	Njeje wam tón film so lubił?	Dolgopavel	2021-03-19 16:56:04	2021-03-19 16:56:04
-103	0x67	g	40	3808669	hsb	To je rostlina družiny Schlumbergera truncata.	Tlustulimu	2015-01-29 21:31:31	2015-01-29 21:31:31
-104	0x68	h	579	3829452	hsb	Njejsym wěsty, hač chcu to wědźeć.	Tlustulimu	2015-02-01 17:59:53	2015-02-01 17:59:53
-105	0x69	i	1188	9846629	hsb	Što słyšiće?	Dominika7	2021-03-16 18:13:58	2021-03-16 18:13:58
-106	0x6a	j	2008	9860821	hsb	Kajke wjedro budźe jutře?	Dominika7	2021-03-22 19:49:48	2021-03-22 19:49:48
-107	0x6b	k	874	10172131	hsb	Moja kóčka je hłódna.	Dominika7	2021-07-15 18:03:25	2021-07-15 18:03:25
-108	0x6c	l	584	3801227	hsb	To je hólc, kotryž kaž holca wupada.	Tlustulimu	2015-01-26 19:09:34	2015-01-26 19:09:34
-109	0x6d	m	1071	9970658	hsb	Tom ma krótke włosy.	Dominika7	2021-04-19 10:40:28	2021-04-19 10:40:28
-110	0x6e	n	1406	1258081	hsb	Mam jenož małku zahrodu.	Tlustulimu	2011-11-23 21:15:52	2011-11-23 21:15:55
-111	0x6f	o	2141	9929012	hsb	Wona rěči pólsce.	Dominika7	2021-03-31 12:55:25	2021-03-31 12:55:25
-112	0x70	p	459	1195901	hsb	Potrjebuju twój pućowanski pas a tři fota.	Tlustulimu	2011-10-24 22:15:07	2011-10-24 22:15:28
+90	0x5a	Z	24	3805630	hsb	Znajeće mnje?	Tlustulimu	2015-01-28 16:04:38	2015-01-28 16:04:38
+97	0x61	a	2614	1892576	hsb	Tuta wučbnica je zestarjena.	Tlustulimu	2012-10-04 17:46:49	2012-10-04 17:46:49
+98	0x62	b	442	1812937	hsb	Wón je mój młódši bratr.	Tlustulimu	2012-09-02 19:44:43	2012-09-02 19:44:43
+99	0x63	c	444	9970806	hsb	Koža je mjechka.	Dominika7	2021-04-19 11:41:47	2021-04-19 11:41:47
+100	0x64	d	925	3829363	hsb	Widźimy jeho kóždy dźeń.	Tlustulimu	2015-02-01 17:41:18	2015-02-01 17:41:18
+101	0x65	e	2531	1245792	hsb	Najskerje wón njebudźe žadyn wuspěch měć.	Tlustulimu	2011-11-18 11:33:56	2011-11-18 11:33:56
+102	0x66	f	57	3798470	hsb	Banka ma filiale we wšěch dźělach kraja.	Tlustulimu	2015-01-25 20:22:32	2015-01-25 20:22:32
+103	0x67	g	40	9832085	hsb	Hornjoserbski alfabet wobsteji z 34 pismikow: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:50:32	2021-03-08 16:50:32
+104	0x68	h	579	1197198	hsb	Chowaj je na chłódnym městnje.	Tlustulimu	2011-10-25 15:01:48	2011-10-25 15:01:53
+105	0x69	i	1188	1464214	hsb	Tysacy słowow sym kaž paćerki stykał na swoje lĕta a na kóncu spóznał, zo ani jednoho słowa njeje, kotrež by jeho w ćĕle a duši we wšej wĕrnosći wĕrnje pomjenowało.	al_ex_an_der	2012-03-01 14:37:56	2013-01-09 12:10:54
+106	0x6a	j	2008	3829789	hsb	Tom njeje runje doma.	Tlustulimu	2015-02-01 19:10:09	2015-02-01 19:10:09
+107	0x6b	k	874	4332285	hsb	Čehodla najwjetše kubołćiki su tak małke?	Tlustulimu	2015-07-03 15:17:45	2015-07-03 15:17:52
+108	0x6c	l	584	1255926	hsb	Wón derje jendźelšćinu rěči.	Tlustulimu	2011-11-22 19:50:31	2011-11-22 19:50:31
+109	0x6d	m	1071	3811746	hsb	Hólc je muske dźěćo.	Tlustulimu	2015-01-30 13:55:41	2015-01-30 13:55:41
+110	0x6e	n	1406	8651126	hsb	Tom je sylny.	Tlustulimu	2020-04-01 17:09:31	2020-04-01 17:09:31
+111	0x6f	o	2141	1197241	hsb	Ty słucha twoju mać.	Tlustulimu	2011-10-25 15:38:52	2011-10-25 15:38:57
+112	0x70	p	459	3829524	hsb	Hdy póńdźeš domoj?	Tlustulimu	2015-02-01 18:11:23	2015-02-01 18:11:23
 113	0x71	q	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-114	0x72	r	945	3784948	hsb	Ja sym mojeho bratra přerěčał, zo by sobu činił.	Tlustulimu	2015-01-21 15:37:39	2015-01-21 15:37:39
-115	0x73	s	1013	3834188	hsb	Psy njemóžeja rěčeć, ale je so zdało, jako by wóčce psa prajiłoj: "Ně, nimam doma.".	Tlustulimu	2015-02-02 13:07:12	2015-02-02 13:10:32
-116	0x74	t	955	1197396	hsb	Prašejće jeho, hdy sćěhowace lětadło dźe.	Tlustulimu	2011-10-25 18:24:00	2011-10-25 18:25:44
-117	0x75	u	1073	2164148	hsb	Tom ma wulkej, módrej wuši.	Tlustulimu	2013-01-24 16:07:51	2013-01-24 16:07:51
-118	0x76	v	5	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-119	0x77	w	1098	9833349	hsb	Trjebam přestawku.	Dominika7	2021-03-09 07:43:47	2021-03-09 08:00:23
-120	0x78	x	4	9940855	hsb	Rěčiće luxemburgsce?	Dominika7	2021-04-06 16:12:58	2021-04-06 16:12:58
-121	0x79	y	794	3812559	hsb	Kubłanski system dyrbi bóle fleksibelny być.	Tlustulimu	2015-01-30 19:06:57	2015-01-30 19:06:57
-122	0x7a	z	415	1246165	hsb	Za čas zymy často mam zymnej noze.	Tlustulimu	2011-11-18 14:19:33	2011-11-18 14:20:07
+114	0x72	r	945	3807329	hsb	Tom derje rěči francošćinu, ale nic perfektnje.	Tlustulimu	2015-01-29 14:09:45	2015-01-29 14:09:45
+115	0x73	s	1013	3798253	hsb	Njejsym widźał, zo sy tak dobry kuchar.	Tlustulimu	2015-01-25 19:26:44	2015-01-25 19:27:05
+116	0x74	t	955	3833463	hsb	Mjetel pjerchota.	Tlustulimu	2015-02-02 10:00:49	2015-02-02 10:00:49
+117	0x75	u	1073	9860821	hsb	Kajke wjedro budźe jutře?	Dominika7	2021-03-22 19:49:48	2021-03-22 19:49:48
+118	0x76	v	5	3812505	hsb	Salvador Dalí bě spaniski wuměłc.	Tlustulimu	2015-01-30 18:40:06	2015-01-30 18:40:06
+119	0x77	w	1098	10008766	hsb	Wulki róžk, mały róžk, nalětnik, jutrownik, róžownik, smažnik, pražnik, žnjenc, požnjenc, winowc, nazymnik, hodownik.	Dominika7	2021-05-05 09:43:20	2021-05-05 09:43:20
+120	0x78	x	4	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
+121	0x79	y	794	9983409	hsb	Čakamy.	Dominika7	2021-04-24 19:12:38	2021-04-24 19:12:38
+122	0x7a	z	415	9832085	hsb	Hornjoserbski alfabet wobsteji z 34 pismikow: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:50:32	2021-03-08 16:50:32
 225	0xe1	á	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 228	0xe4	ä	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 233	0xe9	é	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-237	0xed	í	2	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-243	0xf3	ó	380	1245698	hsb	Dalokož wěm wón je kriminelny.	Tlustulimu	2011-11-18 10:50:32	2011-11-18 10:50:32
+237	0xed	í	2	3812505	hsb	Salvador Dalí bě spaniski wuměłc.	Tlustulimu	2015-01-30 18:40:06	2015-01-30 18:40:06
+243	0xf3	ó	380	3785026	hsb	Wón rěči spěšnišo, hač wón mysli.	Tlustulimu	2015-01-21 15:59:37	2015-01-21 15:59:37
 244	0xf4	ô	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 246	0xf6	ö	1	3797843	hsb	W Grönlandskej je bóle zyma hač w Němskej.	Tlustulimu	2015-01-25 17:38:53	2015-01-25 17:38:53
 250	0xfa	ú	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 253	0xfd	ý	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-262	0x106	Ć	2	9853248	hsb	Ćah přijědźe pozdźišo.	Dominika7	2021-03-19 20:14:34	2021-03-19 20:14:34
-263	0x107	ć	453	10033417	hsb	Štrusy su najwjetše ptaki na swěće.	Dominika7	2021-05-14 12:19:18	2021-05-14 12:19:18
-268	0x10c	Č	50	3815525	hsb	Čakaj minutu… Myslu, zo by ty z nimi hić dyrbjał.	Tlustulimu	2015-01-31 13:56:15	2015-01-31 13:56:15
-269	0x10d	č	357	1197553	hsb	Dóstanu často list wot njeho.	Tlustulimu	2011-10-25 19:24:25	2011-10-25 19:26:30
+262	0x106	Ć	2	9854300	hsb	Ćah ma zapozdźenje.	Dominika7	2021-03-20 13:37:35	2021-03-20 13:37:35
+263	0x107	ć	453	2885710	hsb	Hdy budźe słónco eksplodować?	Tlustulimu	2013-11-28 19:16:33	2013-11-28 19:16:33
+268	0x10c	Č	50	1256218	hsb	Čehodla koalamjedwjedźe nimaja pupk?	Tlustulimu	2011-11-22 21:33:06	2011-11-22 21:33:10
+269	0x10d	č	357	1253639	hsb	Afriske słony maja wjetšej wuši hač aziske słony.	Tlustulimu	2011-11-21 17:54:27	2011-11-21 17:54:32
 271	0x10f	ď	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 277	0x115	ĕ	4	1464214	hsb	Tysacy słowow sym kaž paćerki stykał na swoje lĕta a na kóncu spóznał, zo ani jednoho słowa njeje, kotrež by jeho w ćĕle a duši we wšej wĕrnosći wĕrnje pomjenowało.	al_ex_an_der	2012-03-01 14:37:56	2013-01-09 12:10:54
-283	0x11b	ě	551	9960172	hsb	Zjěm jabłuko.	Dominika7	2021-04-15 16:18:43	2021-04-15 16:18:43
+283	0x11b	ě	551	3798134	hsb	Smy z Němskeje.	Tlustulimu	2015-01-25 18:47:47	2015-01-25 18:47:47
 314	0x13a	ĺ	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 318	0x13e	ľ	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 321	0x141	Ł	3	3798182	hsb	We Łužicy Serbja su žiwi.	Tlustulimu	2015-01-25 18:59:27	2015-01-25 19:00:34
-322	0x142	ł	431	1197128	hsb	Bych so lubował.	Tlustulimu	2011-10-25 14:26:45	2011-10-25 14:26:50
-324	0x144	ń	43	1245674	hsb	Kóždy znaje zakoń.	Tlustulimu	2011-11-18 10:40:35	2011-11-18 10:40:39
+322	0x142	ł	431	3829911	hsb	Što sy tam namakał?	Tlustulimu	2015-02-01 19:29:12	2015-02-01 19:29:12
+324	0x144	ń	43	1279223	hsb	Kóń dźeše přez mój dom.	Tlustulimu	2011-12-04 19:45:41	2011-12-04 19:45:46
 328	0x148	ň	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
 341	0x155	ŕ	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-345	0x159	ř	118	1279223	hsb	Kóń dźeše přez mój dom.	Tlustulimu	2011-12-04 19:45:41	2011-12-04 19:45:46
-352	0x160	Š	40	10069716	hsb	Šiještaj.	Dominika7	2021-05-28 17:30:10	2021-05-28 17:30:10
-353	0x161	š	398	9846631	hsb	Što słyšitaj?	Dominika7	2021-03-16 18:14:09	2021-03-16 18:14:09
+345	0x159	ř	118	1812594	hsb	Přikłady w tutym słowniku so hodźa lochko rozumić.	Tlustulimu	2012-09-02 14:32:04	2012-09-02 14:32:04
+352	0x160	Š	40	10069714	hsb	Šijachu.	Dominika7	2021-05-28 17:29:30	2021-05-28 17:29:30
+353	0x161	š	398	2164157	hsb	Marija ma jara šwižnej noze.	Tlustulimu	2013-01-24 16:12:14	2013-01-24 16:12:14
 357	0x165	ť	1	9832091	hsb	Słowakski alfabet wobsteji z 46 pismikow: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 17:03:17	2021-03-08 17:03:17
-378	0x17a	ź	380	1812933	hsb	Wona je so w Americe narodźiła.	Tlustulimu	2012-09-02 19:40:42	2012-09-02 19:40:42
-381	0x17d	Ž	7	1892743	hsb	Žiwjenje je jara překrótke za wšě dobre, kotrež by činić móhli.	Tlustulimu	2012-10-04 19:35:51	2012-10-04 19:36:44
-382	0x17e	ž	277	1256237	hsb	Bě tak zymno, zo njemóžach spać.	Tlustulimu	2011-11-22 21:49:37	2011-11-22 21:49:41
+378	0x17a	ź	380	4332308	hsb	Tom ma dwě dźěsći.	Tlustulimu	2015-07-03 15:31:15	2015-07-03 15:31:15
+381	0x17d	Ž	7	1256419	hsb	Žony, kotrež jabłuka z štomow zešćipachu, spěwachu wjesołe ludowe spěwy, mjeztym zo pilne kaž pčołki dźěłachu.	Tlustulimu	2011-11-23 00:45:13	2011-11-23 00:49:25
+382	0x17e	ž	277	3786996	hsb	Bohužel słon njeje žiwy w překrasnym serbskim kraju.	Tlustulimu	2015-01-22 11:31:24	2015-01-22 11:31:24
 8211	0x2013	–	1	3838932	hsb	„Su to jabłuka?“ – „Ně, to su tomaty.“	Tlustulimu	2015-02-03 21:04:46	2015-02-04 08:10:02
 8220	0x201c	“	3	3838932	hsb	„Su to jabłuka?“ – „Ně, to su tomaty.“	Tlustulimu	2015-02-03 21:04:46	2015-02-04 08:10:02
 8222	0x201e	„	3	3838932	hsb	„Su to jabłuka?“ – „Ně, to su tomaty.“	Tlustulimu	2015-02-03 21:04:46	2015-02-04 08:10:02
