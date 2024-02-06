@@ -334,6 +334,58 @@ def counttranslations():
             print(word, sentences[word], translations[idiom][word] if word in translations[idiom] else 0, "+" if spellchecks(word) else "−", identification[word], owner[word], sep = "\t", file = write)
           write.close()
 
+def counttranslationsuser(source, target, user):
+  print("Counting translations...")
+  janome = Tokenizer(wakati = True)
+  kkma = Kkma()
+  spellchecks = loadspellchecker(source)
+
+  print("Reading links (" + source + ")...")
+  linked = {}
+  read = open("temporary/links/" + source + "/" + target + ".txt", "r", encoding = "utf-8")
+  linked[target] = set()
+  for line in read:
+    fields = findall(r"[^\t\n]+", line)
+    linked[target].add(fields[0])
+  read.close()
+
+  print("Reading words (" + source + ")...")
+  read = open("temporary/sentences/" + source + ".txt", "r", encoding = "utf-8")
+  words = set()
+  sentences = {}
+  translations = {}
+  identification = {}
+  owner = {}
+  translations[target] = {}
+  for line in read:
+    fields = findall(r"[^\t\n]+", line)
+    sentence = getwordsinlanguage(janome, kkma, source, fields[2].lower())
+    for word in sentence:
+      words.add(word)
+      if word not in sentences:
+        sentences[word] = 0
+      sentences[word] += 1
+      if randint(1, sentences[word]) == 1:
+        identification[word] = fields[0]
+        owner[word] = fields[3]
+      if fields[3] == user:
+        if fields[0] in linked[target]:
+          if word not in translations[target]:
+            translations[target][word] = 0
+          translations[target][word] += 1
+  read.close()
+  words = list(words)
+  words.sort()
+  words.sort(key = lambda word: cleanupforsorting(word))
+
+  print("Writing words (" + source + ")...")
+  if not isdir("translations-user/" + source):
+    makedirs("translations-user/" + source)
+  write = open("translations-user/" + source + "/translations-" + source + "-" + target + ".txt", "w", encoding = "utf-8")
+  for word in words:
+    print(word, sentences[word], translations[target][word] if word in translations[target] else 0, "+" if spellchecks(word) else "−", identification[word], owner[word], sep = "\t", file = write)
+  write.close()
+
 def selectsentences():
   print("Selecting sentences...")
 
@@ -552,7 +604,7 @@ def analyzepunctuation():
         print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
       if findall(r"""\d-\d""", fields[2], flags = I):
-        print("En dash: homoglyph", line, sep = "\t", end = "", file = write)
+        print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("ber", "fra", "kab") and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -600,7 +652,7 @@ def analyzepunctuation():
       if findall(r"""\u200E""", fields[2], flags = I):
         print("Left-to-right mark", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""x\d|\dx""", fields[2], flags = I):
+      if findall(r"""x\d|\dx|\d\s*x\s*\d""", fields[2], flags = I):
         print("Multiplication sign: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language not in ("glg", "ita", "por", "spa") and findall(r"""º""", fields[2], flags = I):
@@ -711,6 +763,8 @@ print("")
 countwords()
 print("")
 counttranslations()
+print("")
+counttranslationsuser("eng", "por", "Cangarejo")
 print("")
 selectsentences()
 print("")
