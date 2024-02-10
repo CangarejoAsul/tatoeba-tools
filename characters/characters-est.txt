@@ -1,88 +1,88 @@
-32	0x20	 	21446	11320496	est	Mis korvis on?	twentyplus	2022-12-11 23:02:16	2022-12-11 23:02:16
-33	0x21	!	238	11280381	est	Vaata seda koera!	twentyplus	2022-11-30 21:22:35	2022-11-30 21:22:35
-34	0x22	"	60	11280958	est	"Miks sa vihane oled?" "Ma ei ole vihane!"	twentyplus	2022-12-01 00:57:11	2022-12-01 00:57:11
+32	0x20	 	21508	11355112	est	Olen seda raamatut lugenud: See on huvitav.	twentyplus	2022-12-20 21:44:55	2022-12-20 21:44:55
+33	0x21	!	239	11278558	est	Ole minu Valentin!	twentyplus	2022-11-30 12:56:20	2022-11-30 12:56:20
+34	0x22	"	60	2801368	est	"Peeglike, peeglike seina peal. Kes on kauneim kogu maal?" Ja peeglike alati vastab: "Teie, mu kuninganna, olete kauneim kogu maal."	Maasikas	2013-10-20 21:13:55	2013-10-20 21:14:04
 36	0x24	$	1	2694616	est	Kui sa laenad kellelegi $20 ja ei näe seda inimest enam kunagi, siis tõenäoliselt see oli väärt seda.	Maasikas	2013-08-23 11:41:34	2013-08-23 11:41:44
 39	0x27	'	5	5925003	est	Räägime Skype's.	Paabel09	2017-03-07 07:28:14	\N
 43	0x2b	+	1	3855931	est	Google + on uus sotsiaalvõrgustik.	Maasikas	2015-02-09 18:53:47	2015-02-09 18:53:47
-44	0x2c	,	891	4450137	est	Hei, ära mind sellesse sega.	keegi	2015-08-13 11:49:44	2015-08-13 11:49:44
-45	0x2d	-	37	9203878	est	Võib-olla keegi teine ei näinud seda, mis toimus.	Reesi	2020-10-29 08:20:19	2020-10-29 08:20:19
-46	0x2e	.	4655	11310395	est	Lilled on kollased.	twentyplus	2022-12-08 21:14:07	2022-12-08 21:14:07
-48	0x30	0	19	11355254	est	Tom on elanud Bostonis alates 2013. aastast.	twentyplus	2022-12-20 22:20:53	2022-12-20 22:20:53
-49	0x31	1	16	2788226	est	Eesti rahvaarv on umbes 1,3 miljonit inimest.	hubin	2013-10-13 10:31:47	2016-04-22 10:02:10
-50	0x32	2	8	4649133	est	Tal oli raskes haigus 1823 aasta sügisel.	Maasikas	2015-10-27 20:49:15	2015-10-27 20:49:15
-51	0x33	3	17	5923883	est	Nupud tekivad, kui vajutad ekraanile ja kaovad uuesti 3 sekundi pärast.	Paabel09	2017-03-06 18:55:05	\N
-52	0x34	4	4	4425158	est	Mul on 64-bitine protsessor.	keegi	2015-08-02 08:44:11	2015-08-02 08:44:11
-53	0x35	5	6	11390188	est	Kõik minu patsiendid on üle 75 aasta vanad.	twentyplus	2022-12-29 23:04:38	2022-12-29 23:04:38
-54	0x36	6	5	4425158	est	Mul on 64-bitine protsessor.	keegi	2015-08-02 08:44:11	2015-08-02 08:44:11
-55	0x37	7	8	11319402	est	Kas sa oled 17?	twentyplus	2022-12-11 18:04:26	2022-12-11 18:04:26
-56	0x38	8	4	11320234	est	Nad kuulutasid iseseisvuse välja 1847. aastal.	twentyplus	2022-12-11 22:07:53	2022-12-11 22:07:53
-57	0x39	9	7	948478	est	Ma olen Kylie Minogue'i uskunud alates 12. juunist 1998.	hubin	2011-06-21 19:02:19	2020-07-05 12:09:17
-58	0x3a	:	8	2801368	est	"Peeglike, peeglike seina peal. Kes on kauneim kogu maal?" Ja peeglike alati vastab: "Teie, mu kuninganna, olete kauneim kogu maal."	Maasikas	2013-10-20 21:13:55	2013-10-20 21:14:04
-63	0x3f	?	979	3858823	est	Miks Tom nii hiljaks jääb?	Maasikas	2015-02-10 20:22:29	2015-02-10 20:22:29
-65	0x41	A	144	11317131	est	Kas olete kindel, et Tom läks Austraaliasse?	twentyplus	2022-12-11 08:17:13	2022-12-11 08:17:13
-66	0x42	B	57	9072193	est	Toomas on sünnist saati elanud Bostonis.	Xonok	2020-09-25 17:48:34	2020-09-25 17:48:34
-67	0x43	C	12	11310308	est	Tomi vanemad saatsid ta Bostonisse, sest ta sattus Chicagos pidevalt hätta.	twentyplus	2022-12-08 20:38:12	2022-12-08 20:38:12
-68	0x44	D	9	11853970	est	Prantsuse Afarite ja Issade Territooriumist sai 1977. aastal Djibouti.	Wezel	2023-06-18 08:07:10	2023-06-18 08:07:10
-69	0x45	E	98	11308839	est	Elu koosneb paljudest tegevustest.	twentyplus	2022-12-08 12:25:13	2022-12-08 12:25:13
-70	0x46	F	8	11390158	est	Ma lähen Fukuisse.	twentyplus	2022-12-29 22:55:32	2022-12-29 22:55:32
-71	0x47	G	13	2536085	est	Grammatika on sul parem kui hingamine!	dipdowel	2013-06-30 19:59:12	2013-07-23 11:50:16
-72	0x48	H	96	11319388	est	Hoian kõik oma telefonikviitungid selles karbis.	twentyplus	2022-12-11 17:56:58	2022-12-11 17:56:58
-73	0x49	I	74	11309893	est	Iga küürakas pole pühak.	twentyplus	2022-12-08 18:19:56	2022-12-08 18:19:56
-74	0x4a	J	128	8916778	est	Jää minuga siia.	Xonok	2020-07-15 10:55:45	2020-07-15 10:55:45
-75	0x4b	K	992	3663279	est	Kas see on tõesti teadus?	hubin	2014-11-28 20:32:39	2016-04-22 10:04:47
-76	0x4c	L	142	11281494	est	Vilnius on Leedu pealinn.	twentyplus	2022-12-01 10:29:10	2022-12-01 10:29:10
-77	0x4d	M	1894	2787051	est	Ma ei ole halb inimene.	hubin	2013-10-12 17:22:40	2016-04-22 10:23:18
-78	0x4e	N	184	12170779	est	Ta elab New Yorgis.	mhr	2023-11-21 06:17:56	2023-11-21 06:17:56
-79	0x4f	O	119	11280015	est	Oli pime, kui ma jõudsin hotelli.	twentyplus	2022-11-30 18:50:07	2022-11-30 18:50:07
-80	0x50	P	217	9289449	est	Palun võtke kingad jalast.	Reesi	2020-11-13 09:27:49	2020-11-13 09:27:49
-82	0x52	R	58	4721245	est	Räägime sellest.	hubin	2015-11-23 19:38:32	2015-11-23 19:38:32
-83	0x53	S	636	2786861	est	See raamat on ülekaalulisuse kohta.	hubin	2013-10-12 15:52:53	2016-04-22 10:27:32
-84	0x54	T	1431	3401577	est	Ta ei teinud seda.	lablanu	2014-08-03 22:39:48	2014-08-03 22:39:48
-85	0x55	U	24	1476355	est	Usk teeb imesid!	Balamax	2012-03-09 17:26:43	2012-03-09 17:26:43
-86	0x56	V	134	11497774	est	Vajame kirurgi.	janTuki	2023-01-31 01:13:49	2023-01-31 01:13:49
+44	0x2c	,	892	2709526	est	Need kõlavad nii sarnaselt, et neid on raske eristada.	Maasikas	2013-08-30 21:26:31	2013-08-30 21:26:31
+45	0x2d	-	37	4439941	est	Võib-olla oligi Tom selle ära teeninud.	keegi	2015-08-08 21:06:49	2015-08-08 21:06:49
+46	0x2e	.	4680	9289480	est	Pane kingad jalga.	Reesi	2020-11-13 09:30:37	2020-11-13 09:30:37
+48	0x30	0	19	4649086	est	Tom ütles, et ta võtab mu peale kell 6.00.	Maasikas	2015-10-27 20:29:31	2015-10-27 20:29:31
+49	0x31	1	16	11319402	est	Kas sa oled 17?	twentyplus	2022-12-11 18:04:26	2022-12-11 18:04:26
+50	0x32	2	8	2700089	est	Mis sa arvad, kui kohtuks homme päeval 2-3 ajal , et süüa lõunat?	Maasikas	2013-08-26 16:32:45	2013-08-26 16:32:45
+51	0x33	3	17	5077926	est	Eesti elanikkonna suurus on umbes 1,3 miljonit inimest.	hubin	2016-04-22 10:04:03	2016-04-22 10:04:03
+52	0x34	4	4	11320234	est	Nad kuulutasid iseseisvuse välja 1847. aastal.	twentyplus	2022-12-11 22:07:53	2022-12-11 22:07:53
+53	0x35	5	6	11320304	est	5000 jüaani on suur raha.	twentyplus	2022-12-11 22:20:54	2022-12-11 22:20:54
+54	0x36	6	5	11354924	est	See linn asub 1600 meetri kõrgusel merepinnast.	twentyplus	2022-12-20 20:02:00	2022-12-20 20:02:00
+55	0x37	7	8	11853970	est	Prantsuse Afarite ja Issade Territooriumist sai 1977. aastal Djibouti.	Wezel	2023-06-18 08:07:10	2023-06-18 08:07:10
+56	0x38	8	4	4649133	est	Tal oli raskes haigus 1823 aasta sügisel.	Maasikas	2015-10-27 20:49:15	2015-10-27 20:49:15
+57	0x39	9	7	4432733	est	Olen 19 aastat vana.	keegi	2015-08-05 10:35:50	2015-08-05 10:35:50
+58	0x3a	:	8	2710672	est	Koer kohtub krokodilliga. Krokodill ütleb koerale: " Tere, kirbukott!" ja koer vastab:" Tere, käekott!"	Maasikas	2013-08-31 15:45:16	2013-08-31 15:45:25
+63	0x3f	?	984	2786898	est	Kas ma olen valmis?	hubin	2013-10-12 16:05:12	2016-04-22 10:27:11
+65	0x41	A	144	4432891	est	Aita mind!	keegi	2015-08-05 11:32:41	2015-08-05 11:32:41
+66	0x42	B	57	11363053	est	Kas Tom on endiselt huvitatud meiega Bostonisse minemisest?	twentyplus	2022-12-23 06:28:19	2022-12-23 06:28:19
+67	0x43	C	12	11281514	est	Chopin oli Poola helilooja.	twentyplus	2022-12-01 10:36:09	2022-12-01 10:36:09
+68	0x44	D	9	11330882	est	Daam kandis prille.	twentyplus	2022-12-14 16:19:37	2022-12-14 16:19:37
+69	0x45	E	98	12268110	est	Ei olnud veel pime.	mhr	2024-01-15 06:13:09	2024-01-15 06:13:09
+70	0x46	F	9	11354828	est	Fadil peab Daniat ilusaks.	twentyplus	2022-12-20 19:33:25	2022-12-20 19:33:25
+71	0x47	G	15	5093071	est	Gallialaste väed olid väsinud.	morel	2016-04-28 18:17:29	2016-04-28 18:17:29
+72	0x48	H	98	12244632	est	Madrid on Hispaania pealinn.	mhr	2023-12-31 18:47:30	2023-12-31 18:47:30
+73	0x49	I	74	4689607	est	Inimesed, kel on puue, ei talu, kui neid haletsetakse.	Maasikas	2015-11-09 19:13:40	2015-11-09 19:13:40
+74	0x4a	J	130	11281400	est	Jorge räägib nelja keelt.	twentyplus	2022-12-01 09:14:27	2022-12-01 09:14:27
+75	0x4b	K	997	3858808	est	Kes see veel on?	Maasikas	2015-02-10 20:20:03	2015-02-10 20:20:03
+76	0x4c	L	144	4441501	est	Laual on süüa.	keegi	2015-08-09 12:26:33	2015-08-09 12:26:33
+77	0x4d	M	1897	11280755	est	Me läheme turule.	twentyplus	2022-11-30 23:21:54	2022-11-30 23:21:54
+78	0x4e	N	184	11380375	est	Nüüd vaatame neid ükshaaval.	twentyplus	2022-12-28 03:39:03	2022-12-28 03:39:03
+79	0x4f	O	120	11290544	est	Oli pime, ilma kuuta öö.	twentyplus	2022-12-03 18:55:52	2022-12-03 18:56:42
+80	0x50	P	217	11319411	est	Poistest saavad poisid ja tüdrukutest tüdrukud.	twentyplus	2022-12-11 18:07:05	2022-12-11 18:07:05
+82	0x52	R	58	4425086	est	Roomajate kehad on soomustega kaetud.	keegi	2015-08-02 08:30:28	2015-08-02 08:30:28
+83	0x53	S	637	5843689	est	Siin ei ole raudteed.	Paabel09	2017-02-09 14:43:21	2017-02-09 17:56:04
+84	0x54	T	1444	2801321	est	Tom tahab sulle midagi öelda.	Maasikas	2013-10-20 20:52:26	2013-10-20 20:52:26
+85	0x55	U	24	11230874	est	Ukraina keelt õpitakse selles koolis alates 5. klassist.	Pan_Guarde	2022-11-05 20:35:10	2022-11-05 20:35:10
+86	0x56	V	134	11390186	est	Vaatame, kas Tom peatub selles hotellis.	twentyplus	2022-12-29 23:03:49	2022-12-29 23:03:49
 87	0x57	W	2	11355626	est	Ziri on Walidi lapsepõlvesõber.	twentyplus	2022-12-21 00:20:59	2022-12-21 00:20:59
 89	0x59	Y	7	11351754	est	Yanni on kindel, et Skura on üksi.	twentyplus	2022-12-19 23:13:40	2022-12-19 23:13:40
-90	0x5a	Z	9	11359026	est	Ziri võitles teise poisiga.	twentyplus	2022-12-21 22:25:05	2022-12-21 22:25:05
-97	0x61	a	17201	4649071	est	Kiirabi saabus koheselt.	Maasikas	2015-10-27 20:26:49	2015-10-27 20:26:49
-98	0x62	b	1169	11319388	est	Hoian kõik oma telefonikviitungid selles karbis.	twentyplus	2022-12-11 17:56:58	2022-12-11 17:56:58
-99	0x63	c	32	2710703	est	Tere. Kas sa oled Jackie Scott?	Maasikas	2013-08-31 15:55:56	2013-08-31 15:56:03
-100	0x64	d	4674	1403735	est	Need pildid on ilusad.	Nuella	2012-01-30 20:28:02	2012-01-30 20:28:02
-101	0x65	e	13635	11280851	est	Selles metsas pole hunte ega karusid.	twentyplus	2022-12-01 00:03:41	2022-12-01 00:03:41
-102	0x66	f	64	1499962	est	Burj Khalīfah on praegu maailma kõrgeim pilvelõhkuja.	Balamax	2012-03-23 19:00:10	2012-03-23 19:00:10
-103	0x67	g	2111	4425028	est	Grammatika on väga raske.	keegi	2015-08-02 08:19:38	2015-08-02 08:19:38
-104	0x68	h	1895	9125759	est	Tema hobune hüppas üle aia.	Reesi	2020-10-09 12:15:54	2020-10-09 12:15:54
-105	0x69	i	11427	3858787	est	Kas on midagi erilist, mida ma sinu heaks teha saaksin?	Maasikas	2015-02-10 20:15:38	2015-02-10 20:15:38
-106	0x6a	j	1331	11354684	est	Tom on tõenäoliselt näljane.	twentyplus	2022-12-20 18:45:47	2022-12-20 18:45:47
-107	0x6b	k	4771	5076886	est	See on üks maailma suurimaid linnu.	hubin	2016-04-21 20:25:34	2016-04-21 20:25:34
-108	0x6c	l	8037	4425154	est	Ilus olemisel on palju häid külgi.	keegi	2015-08-02 08:43:30	2015-08-02 08:43:30
-109	0x6d	m	5313	11355159	est	Kus sa oma poisiga tutvusid?	twentyplus	2022-12-20 21:56:13	2022-12-20 21:56:13
-110	0x6e	n	7255	9289292	est	Ma ei räägi jaapani keelt.	Reesi	2020-11-13 08:54:23	2020-11-13 08:54:23
-111	0x6f	o	6010	10046863	est	Tom on minu õpetaja.	sakslane	2021-05-18 20:07:17	2021-05-18 20:07:17
-112	0x70	p	1963	11281879	est	Ma olen põhimõteteta inimene.	twentyplus	2022-12-01 14:28:14	2022-12-01 14:28:14
+90	0x5a	Z	9	11320491	est	Ziri küsis Rimalt fotosid.	twentyplus	2022-12-11 23:00:15	2022-12-11 23:00:15
+97	0x61	a	17260	12299892	est	Lumi sulas ära.	mhr	2024-02-04 14:35:11	2024-02-04 14:35:11
+98	0x62	b	1174	5131499	est	Meil saab väga lõbus olema.	morel	2016-05-11 18:33:57	2016-05-11 18:33:57
+99	0x63	c	32	2350749	est	Francis Crick oli üks DNA struktuuri avastajatest.	Nuella	2013-04-01 17:04:10	2013-04-01 17:04:10
+100	0x64	d	4685	9289756	est	Sa ei pea mind selle eest tänama.	Reesi	2020-11-13 10:19:59	2020-11-13 10:19:59
+101	0x65	e	13671	4436725	est	Tom pani ukse ketti.	keegi	2015-08-07 10:46:58	2015-08-07 10:46:58
+102	0x66	f	64	4430802	est	Mis mulle filmist kõige rohkem meelde jäi, oli viimane stseen.	keegi	2015-08-04 13:36:35	2015-08-04 13:36:44
+103	0x67	g	2115	956230	est	Ta mängib jalgpalli.	hubin	2011-06-24 22:18:24	2016-04-21 21:33:43
+104	0x68	h	1896	11308574	est	Tom tahab sulle rääkida sellest, mis juhtus.	twentyplus	2022-12-08 11:08:02	2022-12-08 11:08:02
+105	0x69	i	11455	2801317	est	Tom tahab sind näha nii ruttu kui võimalik.	Maasikas	2013-10-20 20:51:20	2013-10-20 20:51:27
+106	0x6a	j	1337	4340598	est	Mulle tundub, et ma lisasin liiga palju suhkrut.	keegi	2015-07-05 19:40:34	2015-07-05 19:40:34
+107	0x6b	k	4781	11333806	est	Tom kasvab suureks.	twentyplus	2022-12-15 12:52:31	2022-12-15 12:52:31
+108	0x6c	l	8058	11338213	est	Kelle kord on täna õhtusööki teha?	twentyplus	2022-12-16 14:14:34	2022-12-16 14:14:34
+109	0x6d	m	5331	11290692	est	Tom tahab õppida lumelauaga sõitma.	twentyplus	2022-12-03 20:12:18	2022-12-03 20:12:18
+110	0x6e	n	7295	4696596	est	Mulle ei meeldi su ettepanek.	hubin	2015-11-12 12:43:38	2015-11-12 12:43:38
+111	0x6f	o	6037	11327359	est	Seda me ootamegi.	twentyplus	2022-12-13 17:41:53	2022-12-13 17:41:53
+112	0x70	p	1977	4440048	est	Sul on asjad tagurpidi.	keegi	2015-08-08 21:33:26	2015-08-08 21:33:26
 113	0x71	q	1	4430795	est	Ainult mina elan koos oma lastega Urumqis.	keegi	2015-08-04 13:33:49	2015-08-04 13:33:49
-114	0x72	r	3330	9929304	est	Oleme orvud.	twentyplus	2021-03-31 15:56:13	2022-11-29 08:57:18
-115	0x73	s	10005	12031097	est	Kas teile meeldivad prantsuse veinid?	enebi	2023-09-02 12:11:15	2023-09-02 12:11:15
-116	0x74	t	7424	346614	est	Teatud mõttes mõjub viisakas kõnestiil hävitavalt suhtlusõhkkonna siirusele.	indoraq	2010-01-01 19:54:29	2010-01-01 20:00:55
-117	0x75	u	6582	5092204	est	See raamat kirjeldab ühe juudi perekonna elu natsiperioodil.	morel	2016-04-28 13:42:57	2016-04-28 13:42:57
-118	0x76	v	2208	9141175	est	Ma magasin eile öösel väga hästi.	Reesi	2020-10-13 11:55:40	2020-10-13 11:55:56
-119	0x77	w	8	5139202	est	See kõlab nagu Hollywoodi filmi süžee.	hubin	2016-05-14 19:25:59	2016-05-14 19:25:59
+114	0x72	r	3340	4689610	est	3.detsember on Rahvusvaheline puuetega inimeste päev.	Maasikas	2015-11-09 19:14:26	2015-11-09 19:14:26
+115	0x73	s	10032	5077046	est	Milline sport sulle kõige rohkem meeldib?	hubin	2016-04-21 21:07:34	2016-04-21 21:07:34
+116	0x74	t	7436	949053	est	Tema hooletus põhjustas õnnetuse.	hubin	2011-06-22 00:55:19	2020-07-05 12:05:14
+117	0x75	u	6601	2787017	est	Ma pean nüüd koju minema.	hubin	2013-10-12 17:12:28	2016-04-22 10:25:42
+118	0x76	v	2217	11354326	est	Sami oli viisteist, kuusteist.	twentyplus	2022-12-20 17:14:40	2022-12-20 17:14:40
+119	0x77	w	8	2719454	est	New York on tohutult suur linn.	Maasikas	2013-09-04 15:45:22	2013-09-04 15:45:27
 120	0x78	x	3	956049	est	Phoenix on Arizona osariigi pealinn.	hubin	2011-06-24 20:25:02	2016-04-21 21:33:22
-121	0x79	y	116	11391174	est	Tom ei rääkinud Maryle kõike.	twentyplus	2022-12-30 08:49:20	2022-12-30 08:49:20
-122	0x7a	z	5	12245056	est	Phoenix on Arizona pealinn.	mhr	2023-12-31 22:07:51	2023-12-31 22:07:51
-196	0xc4	Ä	52	2700138	est	Ära seisa seal lihtsalt niisama! Aita mul see ära koristada!	Maasikas	2013-08-26 17:01:05	2013-08-26 17:01:10
-213	0xd5	Õ	21	11320325	est	Õppige oma keelt.	twentyplus	2022-12-11 22:25:38	2022-12-11 22:25:38
+121	0x79	y	116	11354814	est	Sami ja Layla jagavad tuba.	twentyplus	2022-12-20 19:28:38	2022-12-20 19:28:38
+122	0x7a	z	5	11351851	est	Mozart on üks mu lemmikheliloojaid.	twentyplus	2022-12-20 00:24:16	2022-12-20 00:24:16
+196	0xc4	Ä	53	1566294	est	Ärge noid aknaid avage.	maari	2012-05-09 16:57:03	2012-05-09 16:57:03
+213	0xd5	Õ	21	11281610	est	Õpi inglise keelt iga päev.	twentyplus	2022-12-01 11:40:19	2022-12-01 11:40:19
 214	0xd6	Ö	2	10171995	est	Öelge talle, et ma joon ainult rohelist teed.	Wezel	2021-07-15 15:55:05	2021-07-15 15:55:05
-220	0xdc	Ü	29	956271	est	Ameerika Ühendriigid koosnevad 50-st osariigist.	hubin	2011-06-24 22:35:34	2020-07-05 12:07:31
-228	0xe4	ä	2088	4425031	est	Me peaksime tõenäoliselt Tomilt küsima.	keegi	2015-08-02 08:20:25	2015-08-02 08:20:25
+220	0xdc	Ü	29	949026	est	Üks, kaks, kolm, neli, viis, kuus, seitse, kaheksa, üheksa, kümme.	hubin	2011-06-22 00:42:46	2016-04-21 21:25:21
+228	0xe4	ä	2104	11278571	est	Ei, tänan.	twentyplus	2022-11-30 12:57:32	2022-11-30 12:57:32
 231	0xe7	ç	1	11281499	est	Timuçin õpib poola keelt.	twentyplus	2022-12-01 10:31:24	2022-12-01 10:31:24
-245	0xf5	õ	1279	2775945	est	Kui palju sul Facebookis sõpru on?	hubin	2013-10-06 14:39:47	2016-04-21 21:59:49
-246	0xf6	ö	444	2787371	est	Karu sööb õuna.	hubin	2013-10-12 20:24:50	2016-04-22 10:07:12
-252	0xfc	ü	853	11280672	est	Türgi on ilus maa.	twentyplus	2022-11-30 22:50:12	2022-11-30 22:50:12
+245	0xf5	õ	1279	11308647	est	Kas sa usud lihavõttejänkusse?	twentyplus	2022-12-08 11:34:10	2022-12-08 11:34:10
+246	0xf6	ö	446	9141318	est	Ma läksin eile pärast tööd poodi.	Reesi	2020-10-13 13:28:06	2020-10-13 13:28:06
+252	0xfc	ü	856	3858736	est	Ma oleksin pidanud ei ütlema.	Maasikas	2015-02-10 20:02:08	2015-02-10 20:02:08
 287	0x11f	ğ	1	9521841	est	Erdoğan on Türgi president.	twentyplus	2020-12-22 17:24:29	2022-11-30 22:41:04
 299	0x12b	ī	1	1499962	est	Burj Khalīfah on praegu maailma kõrgeim pilvelõhkuja.	Balamax	2012-03-23 19:00:10	2012-03-23 19:00:10
-352	0x160	Š	5	11279924	est	Šimpansid võivad visata kividega, kui nad tunnevad ennast ohus.	twentyplus	2022-11-30 18:41:11	2022-11-30 18:41:11
-353	0x161	š	22	4721397	est	Manchester United võitis matši seisuga neli kahele.	hubin	2015-11-23 20:06:54	2015-11-23 20:06:54
-382	0x17e	ž	14	12275838	est	Iževsk on Udmurdi Vabariigi pealinn.	mhr	2024-01-19 20:55:26	2024-01-19 22:23:57
+352	0x160	Š	5	11281525	est	Šveits ei ole Rootsi.	twentyplus	2022-12-01 10:41:29	2022-12-01 10:41:29
+353	0x161	š	22	11351813	est	Ma pole veel duši all käinud.	twentyplus	2022-12-19 23:41:20	2022-12-19 23:41:20
+382	0x17e	ž	14	11280146	est	Miks sa sööd hommikusööki pidžaamas?	twentyplus	2022-11-30 19:17:51	2022-11-30 19:17:51
 8203	0x200b	​	2	11354939	est	Kas sul on triikrauda, ​​mida ma saaksin laenata?	twentyplus	2022-12-20 20:05:56	2022-12-20 20:05:56
 8211	0x2013	–	1	3663282	est	Ta kannab punast särki – see on märk!	hubin	2014-11-28 20:33:08	2016-04-22 10:05:38
 8212	0x2014	—	4	2710705	est	Ma ei pea minema — ma tahan minna.	hubin	2013-08-31 15:56:18	2016-04-21 21:57:35

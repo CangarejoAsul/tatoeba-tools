@@ -1,56 +1,56 @@
-32	0x20	 	1636	11128522	srn	Di un ben go onti, un ben meki wan pikin afdaki fu sribi.	deanoeba	2022-09-19 23:00:09	2022-09-19 23:00:09
-33	0x21	!	7	11128625	srn	M'o ankra dyaso, yèrè!	deanoeba	2022-09-19 23:15:39	2022-09-19 23:15:39
+32	0x20	 	1636	11128645	srn	Di mi yere san a boi fu mi du, a broko mi ati.	deanoeba	2022-09-19 23:17:53	2022-09-19 23:17:53
+33	0x21	!	7	11128571	srn	No piri yu ai so gi mi!	deanoeba	2022-09-19 23:07:32	2022-09-19 23:07:32
 34	0x22	"	4	11128485	srn	Dan a taki: "Boi, sanede yu e syen?"	deanoeba	2022-09-19 22:52:02	2022-09-19 22:52:02
-39	0x27	'	19	11128511	srn	Di a fufuruman dyompo abra a fensre go na dorosei, a dyompo let' ini anu fu skowtu.	deanoeba	2022-09-19 22:58:58	2022-09-19 22:58:58
-44	0x2c	,	61	11128502	srn	Skowtu ben lontu a oso fu ala sei, ma den fufuruman no ben wani gi densrefi abra.	deanoeba	2022-09-19 22:58:15	2022-09-19 22:58:15
-45	0x2d	-	6	11128611	srn	Fa mi skin firi so anga-anga tide?	deanoeba	2022-09-19 23:13:57	2022-09-19 23:13:57
-46	0x2e	.	175	11128488	srn	Dan zuster poti dresi gi mi.	deanoeba	2022-09-19 22:52:24	2022-09-19 22:52:24
-58	0x3a	:	2	11128485	srn	Dan a taki: "Boi, sanede yu e syen?"	deanoeba	2022-09-19 22:52:02	2022-09-19 22:52:02
-63	0x3f	?	16	11128612	srn	Luku bun wan griep e freiri mi?	deanoeba	2022-09-19 23:14:04	2022-09-19 23:14:04
-65	0x41	A	43	11128638	srn	A man disi bigi leki asaw.	deanoeba	2022-09-19 23:17:05	2022-09-19 23:17:05
-66	0x42	B	7	11128458	srn	Bika mi denki taki Daniel e nyan esi moro mi.	deanoeba	2022-09-19 22:45:57	2022-09-19 22:45:57
-68	0x44	D	43	11128655	srn	Den bakba fu mi switi, den no abi ati.	deanoeba	2022-09-19 23:19:04	2022-09-19 23:19:04
-69	0x45	E	4	11128505	srn	Efu yu wani abra, yu mu leri yu les.	deanoeba	2022-09-19 22:58:31	2022-09-19 22:58:31
-70	0x46	F	8	11128475	srn	Fa a waka na datra?	deanoeba	2022-09-19 22:49:15	2022-09-19 22:49:15
+39	0x27	'	19	11128658	srn	Son sma no man gi den srudati pardon fu den hat' sani san den ben du den sma.	deanoeba	2022-09-19 23:19:30	2022-09-19 23:19:30
+44	0x2c	,	61	11128463	srn	Mi no go na doro, ma mi tnapu e luku fa mi sisa e puru a nyanyan	deanoeba	2022-09-19 22:46:46	2022-09-19 22:46:46
+45	0x2d	-	6	11128614	srn	Mi no lobi te krosi e anga-anga ini a kamra.	deanoeba	2022-09-19 23:14:22	2022-09-19 23:14:22
+46	0x2e	.	175	11128576	srn	Aka a doro gi mi, noso dyonsro a o naki tapu.	deanoeba	2022-09-19 23:08:32	2022-09-19 23:08:32
+58	0x3a	:	2	11128457	srn	Dan mi taki: "No. Mi no wani."	deanoeba	2022-09-19 22:45:45	2022-09-19 22:45:45
+63	0x3f	?	16	11128485	srn	Dan a taki: "Boi, sanede yu e syen?"	deanoeba	2022-09-19 22:52:02	2022-09-19 22:52:02
+65	0x41	A	43	11128644	srn	Ala leisi te mi umapikin e go na strati nanga brom, mi ati de na dyompo.	deanoeba	2022-09-19 23:17:47	2022-09-19 23:17:47
+66	0x42	B	7	11128661	srn	Baka di a m'ma bari a boi, a boi puru en atibron tapu a dagu.	deanoeba	2022-09-19 23:20:14	2022-09-19 23:20:14
+68	0x44	D	43	11128645	srn	Di mi yere san a boi fu mi du, a broko mi ati.	deanoeba	2022-09-19 23:17:53	2022-09-19 23:17:53
+69	0x45	E	4	11128572	srn	Efu yu no piri ai gi a pikin, sani no o waka bun nanga en.	deanoeba	2022-09-19 23:07:40	2022-09-19 23:07:40
+70	0x46	F	8	11128496	srn	Fosi yu ben e pai den botoman wan kwartyi fu abra a liba.	deanoeba	2022-09-19 22:53:38	2022-09-19 22:53:38
 71	0x47	G	3	11128538	srn	Mi Gado, mi Masra, luku.	deanoeba	2022-09-19 23:02:41	2022-09-19 23:02:41
 72	0x48	H	1	11128447	srn	Di Hendrik doro tide, a no taki no wan sma odi.	deanoeba	2022-09-19 22:43:40	2022-09-19 22:43:40
-73	0x49	I	5	11128563	srn	I no ben sribi?	deanoeba	2022-09-19 23:06:18	2022-09-19 23:06:18
+73	0x49	I	5	11128641	srn	I sabi fa en mofo asranti!	deanoeba	2022-09-19 23:17:24	2022-09-19 23:17:24
 74	0x4a	J	1	11128442	srn	Joe wani dringi wan sani?	deanoeba	2022-09-19 22:40:55	2022-09-19 22:40:55
-75	0x4b	K	3	11128683	srn	Kowru yu ati.	deanoeba	2022-09-19 23:34:58	2022-09-19 23:34:58
-76	0x4c	L	4	11128612	srn	Luku bun wan griep e freiri mi?	deanoeba	2022-09-19 23:14:04	2022-09-19 23:14:04
-77	0x4d	M	50	11128523	srn	Mi feni wan pikin afdaki fu sutu mi ede.	deanoeba	2022-09-19 23:00:20	2022-09-19 23:00:20
-78	0x4e	N	11	11128624	srn	No fergiti fu ankra a boto fosi yu kon na syoro.	deanoeba	2022-09-19 23:15:32	2022-09-19 23:15:32
-80	0x50	P	5	11128440	srn	Pe joe e go?	deanoeba	2022-09-19 22:40:29	2022-09-19 22:40:29
-83	0x53	S	5	11128502	srn	Skowtu ben lontu a oso fu ala sei, ma den fufuruman no ben wani gi densrefi abra.	deanoeba	2022-09-19 22:58:15	2022-09-19 22:58:15
-84	0x54	T	8	11128517	srn	Tamara mi sisa e go na abrawatra.	deanoeba	2022-09-19 22:59:33	2022-09-19 22:59:33
+75	0x4b	K	3	11128649	srn	Kowru yu ati fosi.	deanoeba	2022-09-19 23:18:22	2022-09-19 23:18:22
+76	0x4c	L	4	11128582	srn	Lanti meki wan kruderi nanga den datra abra a moni san den mus aksi den sikisma.	deanoeba	2022-09-19 23:09:29	2022-09-19 23:09:29
+77	0x4d	M	50	11128476	srn	Mama, a oppasser ben de.	deanoeba	2022-09-19 22:49:25	2022-09-19 22:49:25
+78	0x4e	N	11	11128562	srn	No, mi ben de nanga krin ai ete.	deanoeba	2022-09-19 23:06:10	2022-09-19 23:06:10
+80	0x50	P	5	11128515	srn	Den birtisma san e tan abrasei fu mi, o go tamara na Ptata.	deanoeba	2022-09-19 22:59:25	2022-09-19 22:59:25
+83	0x53	S	5	11128546	srn	Billiton nanga Suralco agri fu opo a moni fu den wrokoman.	deanoeba	2022-09-19 23:03:50	2022-09-19 23:03:50
+84	0x54	T	8	11128613	srn	Te yu si a boi disi fu mi e anga-anga so na mi skin, dan a no firi switi.	deanoeba	2022-09-19 23:14:15	2022-09-19 23:14:15
 85	0x55	U	2	11128596	srn	Un alamala o go tide na foto.	deanoeba	2022-09-19 23:11:38	2022-09-19 23:11:38
-87	0x57	W	5	11128520	srn	Wakti, mi wani bari den sma adyosi.	deanoeba	2022-09-19 22:59:47	2022-09-19 22:59:47
-89	0x59	Y	10	11128547	srn	Yu mu sori lespeki gi a President awinsi yu no e agri nanga san a taki.	deanoeba	2022-09-19 23:04:00	2022-09-19 23:04:00
+87	0x57	W	5	11128554	srn	We, mi de na ai tu.	deanoeba	2022-09-19 23:04:57	2022-09-19 23:04:57
+89	0x59	Y	10	10852605	srn	Yu no man broko mi.	janTuki	2022-05-24 01:29:39	2022-05-24 01:29:59
 90	0x5a	Z	1	11128483	srn	Zuster taigi mi meki mi saka mi bruku.	deanoeba	2022-09-19 22:51:45	2022-09-19 22:51:45
-97	0x61	a	904	11128587	srn	Di un doro ini a birti, un aksi-aksi te leki un feni pe Tanta Koba e tan.	deanoeba	2022-09-19 23:10:31	2022-09-19 23:10:31
-98	0x62	b	171	11128502	srn	Skowtu ben lontu a oso fu ala sei, ma den fufuruman no ben wani gi densrefi abra.	deanoeba	2022-09-19 22:58:15	2022-09-19 22:58:15
+97	0x61	a	904	11128489	srn	Baka wan tu leisi di mi go na datra, den soro kon betre.	deanoeba	2022-09-19 22:52:30	2022-09-19 22:52:30
+98	0x62	b	171	11128494	srn	Ala pikin fu fo yari abi fu go na skoro	deanoeba	2022-09-19 22:53:20	2022-09-19 22:53:20
 99	0x63	c	3	11128464	srn	A cash and carry ben tnapu leti sei a ijskasi.	deanoeba	2022-09-19 22:46:55	2022-09-19 22:46:55
-100	0x64	d	178	11128467	srn	Dan fa den ben wakawaka ini a oso a ijskasi bigin degedege.	deanoeba	2022-09-19 22:47:38	2022-09-19 22:47:38
-101	0x65	e	395	11128635	srn	Yu mus arki yu m'ma te a e taki nanga yu.	deanoeba	2022-09-19 23:16:41	2022-09-19 23:16:41
-102	0x66	f	116	11128533	srn	Mi no o rei so fara, ma mi kan poti yu af'pasi.	deanoeba	2022-09-19 23:01:43	2022-09-19 23:01:43
-103	0x67	g	142	11128562	srn	No, mi ben de nanga krin ai ete.	deanoeba	2022-09-19 23:06:10	2022-09-19 23:06:10
-104	0x68	h	8	11128660	srn	A e hati mi fa mi naki a pikin.	deanoeba	2022-09-19 23:19:38	2022-09-19 23:19:38
-105	0x69	i	776	11128485	srn	Dan a taki: "Boi, sanede yu e syen?"	deanoeba	2022-09-19 22:52:02	2022-09-19 22:52:02
-106	0x6a	j	8	11128464	srn	A cash and carry ben tnapu leti sei a ijskasi.	deanoeba	2022-09-19 22:46:55	2022-09-19 22:46:55
-107	0x6b	k	247	11128656	srn	A susu fu mi pikin.	deanoeba	2022-09-19 23:19:13	2022-09-19 23:19:13
+100	0x64	d	178	11128663	srn	Awinsi mi no doro ete, un mu tan wakti mi.	deanoeba	2022-09-19 23:20:31	2022-09-19 23:20:31
+101	0x65	e	395	11128452	srn	Dan now a taigi wan fu den pikin sisa fu mi fu bori a okro go doro.	deanoeba	2022-09-19 22:44:41	2022-09-19 22:44:41
+102	0x66	f	116	11128498	srn	Den birtisma grabu a fufuruman dan den gi en abra na skowtu.	deanoeba	2022-09-19 22:57:09	2022-09-19 22:57:09
+103	0x67	g	142	11128608	srn	Fu di a fundamenti no meki bun, meki a oso e anga go na wan sei.	deanoeba	2022-09-19 23:13:38	2022-09-19 23:13:38
+104	0x68	h	8	11128509	srn	Te alen kon hebi, ala den watrabaki e span tak' den e lon abra.	deanoeba	2022-09-19 22:58:51	2022-09-19 22:58:51
+105	0x69	i	776	11128465	srn	Mi ben luku atibron fasi.	deanoeba	2022-09-19 22:47:06	2022-09-19 22:47:06
+106	0x6a	j	8	11128640	srn	Mi no e go taigi a meisje dati.	deanoeba	2022-09-19 23:17:23	2022-09-19 23:17:23
+107	0x6b	k	247	11128581	srn	Mi o wai a bakadyari fu mi.	deanoeba	2022-09-19 23:09:18	2022-09-19 23:09:18
 108	0x6c	l	82	11128546	srn	Billiton nanga Suralco agri fu opo a moni fu den wrokoman.	deanoeba	2022-09-19 23:03:50	2022-09-19 23:03:50
-109	0x6d	m	248	11128515	srn	Den birtisma san e tan abrasei fu mi, o go tamara na Ptata.	deanoeba	2022-09-19 22:59:25	2022-09-19 22:59:25
-110	0x6e	n	643	11128596	srn	Un alamala o go tide na foto.	deanoeba	2022-09-19 23:11:38	2022-09-19 23:11:38
-111	0x6f	o	412	11128596	srn	Un alamala o go tide na foto.	deanoeba	2022-09-19 23:11:38	2022-09-19 23:11:38
-112	0x70	p	94	11128593	srn	Aladi mi bari a pikin, toku a lon go na strati.	deanoeba	2022-09-19 23:11:14	2022-09-19 23:11:14
-114	0x72	r	276	11128447	srn	Di Hendrik doro tide, a no taki no wan sma odi.	deanoeba	2022-09-19 22:43:40	2022-09-19 22:43:40
-115	0x73	s	255	11128503	srn	Yu mus leri a pikin fu luku bun fosi a e koti strati abra.	deanoeba	2022-09-19 22:58:23	2022-09-19 22:58:23
-116	0x74	t	231	11128574	srn	Di a kba suku den trawan nanga trobi, a wani tyari en doro ai kon na mi!	deanoeba	2022-09-19 23:08:07	2022-09-19 23:08:07
-117	0x75	u	262	11128547	srn	Yu mu sori lespeki gi a President awinsi yu no e agri nanga san a taki.	deanoeba	2022-09-19 23:04:00	2022-09-19 23:04:00
+109	0x6d	m	248	11128450	srn	A ben de so taki wan dei mi mama ben bori okro.	deanoeba	2022-09-19 22:44:19	2022-09-19 22:44:19
+110	0x6e	n	643	11128574	srn	Di a kba suku den trawan nanga trobi, a wani tyari en doro ai kon na mi!	deanoeba	2022-09-19 23:08:07	2022-09-19 23:08:07
+111	0x6f	o	412	11128458	srn	Bika mi denki taki Daniel e nyan esi moro mi.	deanoeba	2022-09-19 22:45:57	2022-09-19 22:45:57
+112	0x70	p	94	11128587	srn	Di un doro ini a birti, un aksi-aksi te leki un feni pe Tanta Koba e tan.	deanoeba	2022-09-19 23:10:31	2022-09-19 23:10:31
+114	0x72	r	276	11128613	srn	Te yu si a boi disi fu mi e anga-anga so na mi skin, dan a no firi switi.	deanoeba	2022-09-19 23:14:15	2022-09-19 23:14:15
+115	0x73	s	255	11128582	srn	Lanti meki wan kruderi nanga den datra abra a moni san den mus aksi den sikisma.	deanoeba	2022-09-19 23:09:29	2022-09-19 23:09:29
+116	0x74	t	231	11128531	srn	Dat' meki a e taki sani san e afrontu Gado nanga libisma.	deanoeba	2022-09-19 23:01:34	2022-09-19 23:01:34
+117	0x75	u	262	11128512	srn	Den boi na tapu uku e taki abra a nowtu fu a kondre.	deanoeba	2022-09-19 22:59:04	2022-09-19 22:59:04
 118	0x76	v	1	11128590	srn	Ef' yu abi wan vaas nanga bromki, dan ala dei yu mu poti krin watra.	deanoeba	2022-09-19 23:10:48	2022-09-19 23:10:48
-119	0x77	w	108	11128585	srn	Ifrow aksi mi san meki mi kon so lati.	deanoeba	2022-09-19 23:10:07	2022-09-19 23:10:07
-121	0x79	y	86	11128597	srn	Alape yu e go, yu e feni konkruman.	deanoeba	2022-09-19 23:11:48	2022-09-19 23:11:48
-122	0x7a	z	2	11128487	srn	Dan a zuster gi mi wan klem-spoiti.	deanoeba	2022-09-19 22:52:18	2022-09-19 22:52:18
+119	0x77	w	108	11128590	srn	Ef' yu abi wan vaas nanga bromki, dan ala dei yu mu poti krin watra.	deanoeba	2022-09-19 23:10:48	2022-09-19 23:10:48
+121	0x79	y	86	11128484	srn	Mi no ben wani saka mi bruku bika mi ben syen.	deanoeba	2022-09-19 22:51:55	2022-09-19 22:51:55
+122	0x7a	z	2	11128488	srn	Dan zuster poti dresi gi mi.	deanoeba	2022-09-19 22:52:24	2022-09-19 22:52:24
 232	0xe8	è	2	11128625	srn	M'o ankra dyaso, yèrè!	deanoeba	2022-09-19 23:15:39	2022-09-19 23:15:39
 233	0xe9	é	1	11128579	srn	Di un ben plei bal, espresi André ben aka mi.	deanoeba	2022-09-19 23:08:58	2022-09-19 23:08:58
 242	0xf2	ò	1	11128530	srn	A boi denki tak' a tòf.	deanoeba	2022-09-19 23:01:24	2022-09-19 23:01:24

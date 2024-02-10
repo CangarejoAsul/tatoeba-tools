@@ -1,95 +1,95 @@
-32	0x20	 	24302	11994735	hrv	On je lijen.	Adelpa	2023-08-13 13:59:34	2023-08-13 13:59:34
-33	0x21	!	232	1139195	hrv	Šutnja je zlato!	vlado	2011-10-01 12:40:17	2011-10-01 12:40:17
-34	0x22	"	124	6078316	hrv	"Što učiš?" "Povijest."	kkupus	2017-05-14 19:49:54	\N
-37	0x25	%	8	1051078	hrv	Političar je imao ljepljive prste, jer je 5% od svakog ugovora završilo u njegovom džepu.	akvo	2011-08-18 10:49:07	2011-08-18 10:49:07
+32	0x20	 	24306	4421884	hrv	Kupila sam neke knjige od knjižare.	\N	2015-07-31 20:08:34	2015-08-03 15:29:43
+33	0x21	!	232	960474	hrv	Sretan Božić!	akvo	2011-06-26 13:59:28	2011-06-26 13:59:28
+34	0x22	"	124	957702	hrv	"Tatoeba" na japanskom znači "na primjer."	akvo	2011-06-25 14:51:47	2011-06-25 14:51:47
+37	0x25	%	8	1041611	hrv	Čovjeka čini 70% vode.	akvo	2011-08-14 00:51:31	2011-08-14 00:51:31
 38	0x26	&	1	1106342	hrv	Simbol "&" znači "i".	vlado	2011-09-15 11:00:03	2011-09-15 11:00:03
-39	0x27	'	28	944953	hrv	"Voliš li zmije'" "Naravno da ne."	akvo	2011-06-19 17:01:44	2011-06-19 17:01:44
-40	0x28	(	7	4543317	hrv	Oš šta popit? (in dalmatia)	gargabeshamel	2015-09-21 22:16:50	2015-09-21 22:16:50
+39	0x27	'	28	2125712	hrv	Nakon što sam razmišljao o ovom osnovnom pitanju temeljito, došao sam do zaključka da razlika, koja se među uglednim ljudima često opisuje kao ''znatan'' ili ''bitan'', između neophodnih riječi ''važno'' i ''bitno'' nije značajna, nego je nevažna.	KiLe7x	2013-01-06 02:31:57	2013-01-06 02:41:06
+40	0x28	(	7	6050736	hrv	Sokrat se molio bogovima da mu jednostavno daju ono što je dobro, jer bogovi najbolje znaju (što je dobro).	kkupus	2017-05-01 19:11:37	\N
 41	0x29	)	7	935174	hrv	Hoćeš li me pokupiti u 7(sedam) sutra ujutro?	akvo	2011-06-11 22:55:28	2011-06-11 22:55:28
-44	0x2c	,	678	670286	hrv	Dečko, kojeg volim, me ne voli.	billy_boomo_2	2010-12-16 18:44:27	2010-12-16 18:44:27
-45	0x2d	-	29	960516	hrv	Koji je tvoj najomiljeniji youtube-video?	akvo	2011-06-26 08:18:21	2011-06-26 08:18:21
-46	0x2e	.	4765	6158858	hrv	Prema njoj, on neće doći.	kinoko	2017-07-15 20:58:30	2017-07-15 20:58:30
-47	0x2f	/	6	12145531	hrv	Rekao/Rekla si da sam lagao/lagala	antoniok0	2023-11-04 17:30:22	2023-11-04 17:30:22
-48	0x30	0	48	1416855	hrv	Danas je bila temperatura zraka u Zagrebu, u 12.00 samo -8.	vlado	2012-02-05 21:51:20	2012-02-05 21:51:20
-49	0x31	1	25	958019	hrv	Ukupno stanovništvo Novog Zelanda iznosi 3,410,000, a jedna sedmina su Maori.	akvo	2011-06-25 15:59:18	2011-06-25 15:59:18
+44	0x2c	,	678	6195439	hrv	U redu je, smatram, da svatko nauči neki strani jezik.	nevennjovanovic	2017-08-11 11:26:50	2017-08-11 11:26:50
+45	0x2d	-	29	1477752	hrv	Ježim se na Tom-a.	pejcinovick	2012-03-10 12:33:43	2012-03-10 12:33:43
+46	0x2e	.	4767	936544	hrv	Na taj vlak je Aomori trideset minuta kasnio, zato se bojim da nećemo stići u Tokijo prijepodne.	akvo	2011-06-12 18:38:28	2011-08-23 21:23:16
+47	0x2f	/	6	933873	hrv	Zašto si me probudio/probudila da mi kažeš nešto tako važno? Sada se neću moći koncentrirati na svoj posao.	akvo	2011-06-11 03:36:21	2011-06-11 03:36:21
+48	0x30	0	48	958019	hrv	Ukupno stanovništvo Novog Zelanda iznosi 3,410,000, a jedna sedmina su Maori.	akvo	2011-06-25 15:59:18	2011-06-25 15:59:18
+49	0x31	1	25	960495	hrv	Degas je rođen prije 150 godina.	akvo	2011-06-26 08:09:20	2011-06-26 08:09:20
 50	0x32	2	13	1100702	hrv	Muiriel ima 20 godina.	vlado	2011-09-12 22:09:21	2011-09-12 22:09:21
-51	0x33	3	17	958076	hrv	Istraživači sa Sveučilišta Paderborn su pokazali da francuskom govorniku treba 2000 sati da bi dobro govorio engleski. Znajući da postoji samo 32 tjedna tečaja u godini i 3 sata tečaja u svakome tjednu, jednom Francuzu bi dakle trebalo 20,83 godine učenja da bi ovladao engelskim.	akvo	2011-06-25 16:37:18	2011-06-25 16:37:18
-52	0x34	4	9	1053848	hrv	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.	akvo	2011-08-19 18:03:35	2011-08-19 18:03:35
-53	0x35	5	16	1051119	hrv	1, 3 i 5 su neparni brojevi.	akvo	2011-08-18 11:16:27	2011-08-18 11:16:27
-54	0x36	6	4	1100938	hrv	Krajem mjeseca na Zemlju će pasti satelit od 6 tona.	vlado	2011-09-12 23:13:02	2011-09-12 23:13:02
-55	0x37	7	6	1041611	hrv	Čovjeka čini 70% vode.	akvo	2011-08-14 00:51:31	2011-08-14 00:51:31
-56	0x38	8	12	6063764	hrv	Tisuću južnokorejskih vona je otprilike 0.88 američkih dolara.	kkupus	2017-05-08 19:02:37	\N
-57	0x39	9	12	5731225	hrv	Drugi svjetski rat je započeo 1939.	puzz	2017-01-03 12:20:58	2017-01-03 12:20:58
-58	0x3a	:	26	6391170	hrv	Blago Čistima Srcem: Oni Će Boga Gledati!	Feri5	2017-10-21 06:57:05	2017-11-18 22:51:21
-59	0x3b	;	7	655522	hrv	Svi smo zurili u nju; toliko se promijenila.	billy_boomo_2	2010-12-08 02:57:07	2010-12-08 02:57:07
-63	0x3f	?	845	1047829	hrv	Koliko dugo će naša civilizacija postojati?	akvo	2011-08-16 21:41:56	2011-08-16 21:41:56
+51	0x33	3	17	6933651	hrv	Susjedi mi zavide na mom novom Maseratiju, a da i ne spominjemo moju 23-godišnju curu.	The_Beholder	2018-06-07 15:02:51	2018-06-07 15:04:04
+52	0x34	4	9	955807	hrv	Prema znanstvenim mjerenjima, svemir je star blizu 14 milijardi godina.	akvo	2011-06-24 18:44:00	2011-06-24 18:44:00
+53	0x35	5	16	960501	hrv	Japanski srednjoškolci idu u školu 35 tjedana godišnje.	akvo	2011-06-26 14:14:27	2011-06-26 14:14:27
+54	0x36	6	4	936716	hrv	Uvijek je ovdje između 5 i 6 sati.	akvo	2011-06-12 19:22:46	2011-06-12 19:23:01
+55	0x37	7	6	1041609	hrv	Čovjek se sastoji od 70% vode.	akvo	2011-08-14 00:51:11	2011-08-14 00:51:11
+56	0x38	8	12	1053848	hrv	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.	akvo	2011-08-19 18:03:35	2011-08-19 18:03:35
+57	0x39	9	12	957733	hrv	1994. voda i riža u Japanu su bili jedva dovoljni.	akvo	2011-06-25 15:01:23	2011-06-25 15:01:23
+58	0x3a	:	26	6326747	hrv	Tom Hiddleston: Svatko od nas ima dva života. Drugi život počinje kada shvatimo da imamo samo jedan.	Feri5	2017-09-25 15:50:32	2017-09-25 15:50:32
+59	0x3b	;	7	1054080	hrv	Ne sviđa se nešto Bogu, zato što je to dobro; to je dobro, jer se Bogu sviđa.	akvo	2011-08-19 20:25:34	2011-08-19 20:25:34
+63	0x3f	?	845	5720919	hrv	Koliko dugo ti treba s biciklom odavde do tvoje kuće?	puzz	2016-12-31 06:47:58	2016-12-31 06:47:58
 64	0x40	@	1	2281633	hrv	Njegova e-mail adresa je hirosey@genet.co.jp.	ZeroG	2013-03-04 14:11:31	2013-03-04 14:11:31
-65	0x41	A	106	3969643	hrv	Ali zašto?	krofna	2015-03-18 14:51:05	2015-03-18 14:51:05
-66	0x42	B	243	1100813	hrv	Nikog ne ću siliti da ostane u Barceloni.	vlado	2011-09-12 22:40:56	2011-09-23 00:54:37
-67	0x43	C	34	1051143	hrv	Cijeli grad je ostao bez struje.	akvo	2011-08-18 11:26:04	2011-08-18 11:26:33
-68	0x44	D	278	8225390	hrv	Dobro došli.	marsovka	2019-10-02 13:14:58	2019-10-02 13:14:58
-69	0x45	E	57	742839	hrv	Kako bi ti raspoznao Amerikanca od Engleza?	billy_boomo_2	2011-02-05 13:48:07	2011-02-05 13:48:14
-70	0x46	F	39	936969	hrv	Felicjina djeca misle da je njihov otac ljepši od Justina Biebera.	akvo	2011-06-12 23:14:20	2011-06-12 23:19:50
-71	0x47	G	119	8225305	hrv	Gotovo.	marsovka	2019-10-02 12:49:36	2019-10-02 12:49:36
-72	0x48	H	101	1402556	hrv	Hoćete li uključiti TV?	vlado	2012-01-30 00:58:08	2012-01-30 00:58:08
-73	0x49	I	303	960472	hrv	Imaš li dvije knjige?	akvo	2011-06-26 13:59:06	2011-06-26 13:59:06
-74	0x4a	J	380	11930633	hrv	Ja sam detektiv.	Adelpa	2023-07-14 17:36:52	2023-07-14 17:36:52
-75	0x4b	K	341	1477556	hrv	Knjigu možemo uporediti s prijateljem.	pejcinovick	2012-03-10 09:56:28	2012-03-10 09:56:28
-76	0x4c	L	85	8226984	hrv	Sami i Layla su komunicirali preko Facebooka.	marsovka	2019-10-03 06:18:32	2019-10-03 06:18:32
-77	0x4d	M	515	6077875	hrv	Mislim da je ovo očito.	kkupus	2017-05-14 16:06:17	\N
-78	0x4e	N	718	2157025	hrv	Nisam mogao razumjeti što on govori.	akvo	2013-01-21 02:41:27	2013-01-21 02:41:27
-79	0x4f	O	555	936490	hrv	Ohrabrio me je da pokušam ponovno.	akvo	2011-06-12 17:46:23	2011-06-12 17:46:23
-80	0x50	P	390	1041038	hrv	Pijan je.	akvo	2011-08-13 20:27:22	2011-08-13 20:27:22
-82	0x52	R	117	2197402	hrv	Ima puno starih gradova u Italiji. Rim i Venecija, na primjer.	ellasevia	2013-02-06 23:16:15	2013-02-06 23:16:24
-83	0x53	S	413	944068	hrv	Supruzi i supruge bi trebali pomagati jedno drugome dokle god žive.	akvo	2011-06-18 23:57:26	2011-06-18 23:57:26
-84	0x54	T	806	1048081	hrv	Tko je naslikao ovu sliku?	akvo	2011-08-16 23:21:54	2011-08-16 23:21:54
-85	0x55	U	193	1053891	hrv	Umro je nekoliko dana prije svoje stogodišnjice.	akvo	2011-08-19 18:48:53	2011-08-19 18:48:53
-86	0x56	V	243	945051	hrv	Vidio sam učenike kako čiste svoju učionicu poslije škole.	akvo	2011-06-19 17:43:45	2011-06-19 17:43:45
-87	0x57	W	11	936546	hrv	Nazvali smo našeg psa "White".	akvo	2011-06-12 18:39:30	2011-06-12 18:39:30
+65	0x41	A	106	5727443	hrv	Apeliram na javnost da nam se jave s informacijama.	puzz	2017-01-02 10:46:01	2017-01-02 10:46:01
+66	0x42	B	243	3457731	hrv	Kada dolaziš u Boston?	teaizm	2014-08-28 19:18:15	2014-08-28 19:18:15
+67	0x43	C	34	3965603	hrv	Muški WC je na prvom i trećem katu.	krofna	2015-03-16 21:45:08	2015-03-16 21:45:08
+68	0x44	D	278	934330	hrv	Dokad ćeš ostati u Japanu?	akvo	2011-06-11 12:53:33	2011-06-11 12:53:33
+69	0x45	E	57	2157019	hrv	Evo prozora kojeg je John razbio.	akvo	2013-01-21 02:36:12	2013-01-21 02:36:12
+70	0x46	F	39	936903	hrv	Jesi li vidio današnje novosti? Izgleda da se Španjolska nalazi u alarmnom stanju, tisuće ljudi nije uspjelo napustiti zemlju. Bilo bi dobro da to ne počne u nadolazećem tjednu, jer tada ću zrakoplovom trebati ići u Finsku.	akvo	2011-06-12 22:16:31	2011-06-12 22:16:31
+71	0x47	G	119	5735526	hrv	Gdje si bio cijelo popodne?	puzz	2017-01-04 20:28:29	2017-01-04 20:28:29
+72	0x48	H	102	1040893	hrv	Htio sam biti astrofizičar.	akvo	2011-08-13 19:34:48	2011-08-13 19:34:48
+73	0x49	I	303	4267025	hrv	Neki gospodin Itoh želi vas vidjeti.	Myushiro	2015-06-11 05:27:43	2015-06-11 05:27:43
+74	0x4a	J	380	8754232	hrv	Jesi li oprao ruke?	skanne	2020-05-11 15:15:05	2020-05-11 15:15:05
+75	0x4b	K	341	2893265	hrv	Koliko dugo možeš držati dah?	kkupus	2013-12-01 14:03:49	2016-01-17 12:00:48
+76	0x4c	L	85	7307771	hrv	Sami je vidio Lejlinu reakciju	kristuipan	2018-10-18 12:56:16	2018-10-18 12:56:16
+77	0x4d	M	515	6024240	hrv	Moj auto je u garaži.	kkupus	2017-04-19 19:38:13	\N
+78	0x4e	N	718	958145	hrv	Naš pokušaj se pokazao pogrješkom.	akvo	2011-06-25 17:13:35	2011-06-25 17:13:35
+79	0x4f	O	555	6085349	hrv	Fadil ne živi sam. On ima obitelj.	kkupus	2017-05-17 22:09:48	\N
+80	0x50	P	391	658911	hrv	Pod vodom se može vidjeti cijeli niz stvorenja.	billy_boomo_2	2010-12-10 00:09:47	2010-12-10 00:09:47
+82	0x52	R	117	12145531	hrv	Rekao/Rekla si da sam lagao/lagala	antoniok0	2023-11-04 17:30:22	2023-11-04 17:30:22
+83	0x53	S	413	5705088	hrv	Svaki od njih ima bicikl.	puzz	2016-12-24 15:03:18	2016-12-24 15:03:18
+84	0x54	T	806	1477595	hrv	Tom je primljen u bolnicu.	pejcinovick	2012-03-10 10:36:58	2012-03-10 10:36:58
+85	0x55	U	193	8767330	hrv	Učinio sam sve da te usrećim.	skanne	2020-05-17 01:45:44	2020-05-17 01:45:44
+86	0x56	V	243	11170410	hrv	Volim zabave iznenađenja.	emitxab111	2022-10-11 19:25:36	2022-10-11 19:25:36
+87	0x57	W	11	6064139	hrv	Koja je šifra Wi-Fi-ja.	kkupus	2017-05-08 23:05:04	\N
 88	0x58	X	3	478247	hrv	Kako se kaže XXX na nizozemskom jeziku?	FeuDRenais	2010-08-24 19:50:10	2011-01-05 15:05:16
-89	0x59	Y	15	6563999	hrv	Letjeli smo od Londona do New Yorka.	vlado	2017-12-20 13:26:32	2017-12-20 13:26:32
-90	0x5a	Z	257	4776985	hrv	Zaljubio sam se u nju na prvi pogled.	Coella	2015-12-19 13:05:24	2015-12-19 13:05:28
-97	0x61	a	14879	1048063	hrv	Kada nešto pokušavate dokazati, pomaže spoznaja da je to istina.	akvo	2011-08-16 23:07:39	2011-08-16 23:07:39
-98	0x62	b	1972	2197385	hrv	Srbija se zove "Srbija" na srpskom jeziku.	ellasevia	2013-02-06 23:09:15	2013-02-06 23:09:15
-99	0x63	c	892	3457714	hrv	Mary je primijetila da jedna od Tomovih stolica nedostaje.	teaizm	2014-08-28 19:14:46	2014-08-28 19:14:46
-100	0x64	d	4173	960585	hrv	Neka knjiga koja opisuje čuda prirode.	akvo	2011-06-26 15:00:46	2011-06-26 15:00:46
-101	0x65	e	12710	4543075	hrv	Zovem se Edgar Degas.	gargabeshamel	2015-09-21 20:28:04	2015-09-21 20:28:04
-102	0x66	f	144	937075	hrv	I feminizam? Što misliš o feminizmu?	akvo	2011-06-13 00:59:34	2011-06-13 00:59:34
-103	0x67	g	1961	3458071	hrv	Što si govorio?	teaizm	2014-08-28 21:38:06	2014-08-28 21:38:06
-104	0x68	h	510	1051602	hrv	Johnsoni vole imati zabave.	akvo	2011-08-18 14:47:53	2011-08-18 14:47:53
-105	0x69	i	13340	1053884	hrv	Svi cijene Henrya.	akvo	2011-08-19 18:45:29	2011-08-19 18:45:29
-106	0x6a	j	7718	6158869	hrv	Tom je sjeo nasuprot Mary.	kinoko	2017-07-15 21:04:49	2017-07-15 21:04:49
-107	0x6b	k	3844	1100875	hrv	Uskoro ću ići doma.	vlado	2011-09-12 22:56:19	2011-09-23 00:53:19
-108	0x6c	l	4778	1059396	hrv	Jako su se trudili riješiti problem.	akvo	2011-08-22 21:23:22	2011-08-22 21:23:22
-109	0x6d	m	5672	936626	hrv	"Jesi li vidio moj mobitel?" "Na stolu je."	akvo	2011-06-12 19:03:20	2011-06-12 19:03:20
-110	0x6e	n	7031	1051399	hrv	Vrh planine Fuji je prekrio snijeg.	akvo	2011-08-18 13:58:43	2011-08-18 13:58:43
-111	0x6f	o	13163	1477431	hrv	Izgleda da većina ljudi roštilja samo ljeti.	pejcinovick	2012-03-10 08:50:41	2012-03-10 08:50:41
-112	0x70	p	3041	6078310	hrv	Japanom vlada car a Španjolskom kralj.	kkupus	2017-05-14 19:46:49	\N
-114	0x72	r	5532	6063779	hrv	Tom je Amerikanac koji živi u Parizu.	kkupus	2017-05-08 19:07:43	\N
-115	0x73	s	5904	1568780	hrv	Što misliš?	Sharaf78	2012-05-12 20:21:41	2012-05-13 19:53:32
-116	0x74	t	6440	5740873	hrv	Trenutno sam lociran u Bostonu.	puzz	2017-01-05 21:07:08	2017-01-05 21:07:08
-117	0x75	u	5348	1100743	hrv	Imali smo sreću da pobjedimo.	vlado	2011-09-12 22:18:47	2011-09-12 22:18:47
-118	0x76	v	4514	3965603	hrv	Muški WC je na prvom i trećem katu.	krofna	2015-03-16 21:45:08	2015-03-16 21:45:08
-119	0x77	w	22	6563999	hrv	Letjeli smo od Londona do New Yorka.	vlado	2017-12-20 13:26:32	2017-12-20 13:26:32
+89	0x59	Y	15	655439	hrv	Kakvo je vrijeme u New Yorku?	billy_boomo_2	2010-12-08 02:02:57	2010-12-08 02:02:57
+90	0x5a	Z	257	1100794	hrv	Znaš li riješiti ovu zagonetku?	vlado	2011-09-12 22:33:25	2011-09-23 00:55:59
+97	0x61	a	14884	3981542	hrv	Artur glumi negativca.	krofna	2015-03-23 07:58:24	2015-03-23 07:58:24
+98	0x62	b	1972	1060335	hrv	Poznajem dobar talijanski restoran.	akvo	2011-08-23 10:04:57	2011-08-23 10:04:57
+99	0x63	c	892	933646	hrv	Bez sunca nema života!	akvo	2011-06-11 01:35:36	2011-06-11 01:47:10
+100	0x64	d	4173	2156903	hrv	Zavrni svoj desni rukav.	akvo	2013-01-21 00:56:42	2013-01-21 00:56:42
+101	0x65	e	12713	6082726	hrv	Neki smatraju da se spontano zapaljenje ljudi stvarno događa, ali ja nisam baš uvjeren.	kkupus	2017-05-16 20:17:45	\N
+102	0x66	f	144	4701398	hrv	Tom me uči francuski.	b_ana_na	2015-11-14 21:18:11	2015-11-14 21:18:11
+103	0x67	g	1961	4700962	hrv	Ja mislim da bi Tom mogao to obaviti.	b_ana_na	2015-11-14 17:56:02	2015-11-14 17:56:02
+104	0x68	h	510	655505	hrv	Čini se da Cathy voli glazbu.	billy_boomo_2	2010-12-08 02:50:28	2010-12-08 02:50:28
+105	0x69	i	13343	2208935	hrv	Jeste li ikada pročitali ijednu Tennysonovu pjesmu?	akvo	2013-02-10 15:52:44	2013-02-10 15:52:44
+106	0x6a	j	7722	670267	hrv	Lakše je reći nego napraviti.	billy_boomo_2	2010-12-17 01:38:16	2010-12-17 01:38:16
+107	0x6b	k	3844	938188	hrv	Proživjeli smo pakao penjući se na 20. kat te zgrade.	akvo	2011-06-13 19:48:35	2011-06-13 19:48:35
+108	0x6c	l	4780	2125712	hrv	Nakon što sam razmišljao o ovom osnovnom pitanju temeljito, došao sam do zaključka da razlika, koja se među uglednim ljudima često opisuje kao ''znatan'' ili ''bitan'', između neophodnih riječi ''važno'' i ''bitno'' nije značajna, nego je nevažna.	KiLe7x	2013-01-06 02:31:57	2013-01-06 02:41:06
+109	0x6d	m	5672	670308	hrv	Nogomet je popularniji od bejzbola.	billy_boomo_2	2010-12-17 01:53:32	2010-12-17 01:53:32
+110	0x6e	n	7033	1047771	hrv	Moraš najkasnije u 5 sati biti na stanici.	akvo	2011-08-16 21:30:27	2011-08-16 21:30:27
+111	0x6f	o	13167	1051009	hrv	Bio je vrlo dobar prema njima.	akvo	2011-08-18 10:20:00	2011-08-18 10:20:00
+112	0x70	p	3043	5027736	hrv	Tom će pomoći bilo kome tko zatraži pomoć.	puzz	2016-03-31 18:39:19	2016-03-31 18:39:19
+114	0x72	r	5533	3179164	hrv	Želite li rađe pričati engleski?	YukiOnna	2014-04-15 14:11:07	2014-04-15 14:11:07
+115	0x73	s	5908	6564021	hrv	Prije smo živjeli u Parizu.	vlado	2017-12-20 13:37:18	2017-12-20 13:37:18
+116	0x74	t	6442	6004784	hrv	Netko je potrošio mnogo novca da bi ukrasio ovaj stan.	kkupus	2017-04-09 15:46:12	\N
+117	0x75	u	5348	2197374	hrv	Hrvatska se nalazi u jugoistočnom dijelu Europe.	ellasevia	2013-02-06 23:05:24	2013-02-06 23:05:24
+118	0x76	v	4517	6085293	hrv	Jeste li primili paket koji sam vam poslala?	kkupus	2017-05-17 20:53:25	\N
+119	0x77	w	22	945083	hrv	Živi u New Yorku tri godine i poznaje mnogo dobrih restorana tamo.	akvo	2011-06-19 17:55:26	2011-06-19 17:55:26
 120	0x78	x	1	3145095	hrv	Poštovani Budući da je „EOS Matrix“ jedna od vodećih kompanija u Bosni i Hercegovini, čije su kvalitete u poslovanju prepoznale mnoge institucije i organizacije te budući da svojim kvalifikacijama, iskustvom i osobinama zadovoljavam vaše kriteriije javljam se na oglas „Junior systems administrator“ objavljen na portalu posao.ba 01.04.2014. godine.	\N	2014-04-02 20:34:33	2014-04-05 19:18:58
-121	0x79	y	96	3981540	hrv	Mary je vođa tima.	krofna	2015-03-23 07:58:00	2015-03-23 07:58:00
-122	0x7a	z	1810	655496	hrv	Ukoliko pronađem tvoju putovnicu, smjesta ću te nazvati.	billy_boomo_2	2010-12-08 02:47:40	2010-12-08 02:47:40
+121	0x79	y	96	6078301	hrv	To je točno što je Layla na kraju napravila.	kkupus	2017-05-14 19:40:06	\N
+122	0x7a	z	1810	1051600	hrv	U slučaju požara, zovite 119?	akvo	2011-08-18 14:47:30	2011-08-18 14:47:30
 237	0xed	í	1	942676	hrv	Tímea je Mađarka i živi u Poljskoj.	akvo	2011-06-17 22:43:37	2011-06-17 22:43:37
 243	0xf3	ó	1	936565	hrv	Moja starija kći je Magdalena Zarębówna.	akvo	2011-06-12 18:46:09	2011-06-12 18:46:09
 262	0x106	Ć	2	6391170	hrv	Blago Čistima Srcem: Oni Će Boga Gledati!	Feri5	2017-10-21 06:57:05	2017-11-18 22:51:21
-263	0x107	ć	1024	1054016	hrv	Ona svaku subotu provodi igrajući tenis.	akvo	2011-08-19 19:48:02	2011-08-19 19:48:02
-268	0x10c	Č	58	540501	hrv	Vang Lao Dži nije pivo. Čaj je.	FeuDRenais	2010-10-01 00:29:47	2011-01-05 15:08:56
-269	0x10d	č	1296	1059384	hrv	Berlin je njemački grad.	akvo	2011-08-22 21:16:04	2011-08-22 21:16:04
-273	0x111	đ	220	6050690	hrv	Ovaj sudoper je napravljen od nehrđajućeg čelika.	kkupus	2017-05-01 18:53:47	\N
-281	0x119	ę	3	942678	hrv	Moj stariji sin je Lech Zaręba.	akvo	2011-06-17 22:45:09	2011-06-17 22:45:09
+263	0x107	ć	1024	2220550	hrv	Tom će ići, bila kiša ili Sunce.	akvo	2013-02-13 22:37:48	2013-02-13 22:37:48
+268	0x10c	Č	58	955710	hrv	Činjenice potvrđuju tu hipotezu.	akvo	2011-06-24 17:58:56	2011-06-24 17:58:56
+269	0x10d	č	1296	1055797	hrv	Najveći užitak koji poznajem je učiniti neko dobro potajno, koje tek poslije slučajno bude otkriveno.	akvo	2011-08-20 20:00:19	2011-08-20 20:00:19
+273	0x111	đ	220	6158545	hrv	Izgubili su građanski rat.	kinoko	2017-07-15 14:05:48	2017-07-15 14:05:48
+281	0x119	ę	3	936561	hrv	Moja žena se zove Lidia Zarębowa.	akvo	2011-06-12 18:44:53	2011-06-12 18:44:53
 287	0x11f	ğ	1	11073249	hrv	Muğla je pokrajina u Turskoj.	janTuki	2022-08-21 13:19:28	2022-08-21 13:19:28
 351	0x15f	ş	1	1047849	hrv	Ima jedan Turčin u školi Magdalena. Zove se Reşit.	akvo	2011-08-16 21:46:55	2011-08-16 21:46:55
-352	0x160	Š	124	12014803	hrv	Što znači riječ „Tatoeba“?	Adelpa	2023-08-25 07:53:03	2023-08-25 07:53:03
-353	0x161	š	1841	944969	hrv	Prema Tomu Jane se udala prošli mjesec.	akvo	2011-06-19 17:09:26	2011-06-19 17:09:26
-381	0x17d	Ž	129	3179164	hrv	Želite li rađe pričati engleski?	YukiOnna	2014-04-15 14:11:07	2014-04-15 14:11:07
-382	0x17e	ž	845	6158882	hrv	Tom više nije onaj sramežljivi dječak.	kinoko	2017-07-15 21:11:13	2017-07-15 21:11:13
+352	0x160	Š	124	11170914	hrv	Što je rekao?	emitxab111	2022-10-12 00:06:26	2022-10-12 00:06:26
+353	0x161	š	1841	1047741	hrv	Možeš li mi učiniti uslugu? Posudiš mi nešto novaca?	akvo	2011-08-16 21:23:31	2011-08-16 21:23:31
+381	0x17d	Ž	129	1101210	hrv	Želio bih pospremiti kuću prije nego što dođu moji roditelji.	vlado	2011-09-13 07:23:28	2011-09-23 00:49:05
+382	0x17e	ž	845	937070	hrv	Kiša je upravo prestala. Možemo ići.	akvo	2011-06-13 00:45:55	2011-06-13 00:45:55
 8203	0x200b	​	2	2067266	hrv	Sjećate li ove igre​​?	Balamax	2012-12-09 06:21:05	2014-09-07 16:02:09
-8220	0x201c	“	3	12014803	hrv	Što znači riječ „Tatoeba“?	Adelpa	2023-08-25 07:53:03	2023-08-25 07:53:03
+8220	0x201c	“	3	3145095	hrv	Poštovani Budući da je „EOS Matrix“ jedna od vodećih kompanija u Bosni i Hercegovini, čije su kvalitete u poslovanju prepoznale mnoge institucije i organizacije te budući da svojim kvalifikacijama, iskustvom i osobinama zadovoljavam vaše kriteriije javljam se na oglas „Junior systems administrator“ objavljen na portalu posao.ba 01.04.2014. godine.	\N	2014-04-02 20:34:33	2014-04-05 19:18:58
 8221	0x201d	”	1	4421919	hrv	„Ne znam”, rekao je Tony.	marsovka	2015-07-31 20:22:06	2019-10-02 13:23:02
-8222	0x201e	„	4	3145095	hrv	Poštovani Budući da je „EOS Matrix“ jedna od vodećih kompanija u Bosni i Hercegovini, čije su kvalitete u poslovanju prepoznale mnoge institucije i organizacije te budući da svojim kvalifikacijama, iskustvom i osobinama zadovoljavam vaše kriteriije javljam se na oglas „Junior systems administrator“ objavljen na portalu posao.ba 01.04.2014. godine.	\N	2014-04-02 20:34:33	2014-04-05 19:18:58
+8222	0x201e	„	4	4421919	hrv	„Ne znam”, rekao je Tony.	marsovka	2015-07-31 20:22:06	2019-10-02 13:23:02
 8230	0x2026	…	1	10489420	hrv	Ja sam dosad sranje platio 100.000 kuna…	Akenaseryan	2021-11-06 08:21:16	2021-11-06 08:21:16

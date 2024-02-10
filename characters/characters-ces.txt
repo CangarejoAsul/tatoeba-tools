@@ -1,135 +1,135 @@
-32	0x20	 	309344	11124937	ces	Nezasloužím si tě.	Ergulis	2022-09-18 13:05:59	2022-09-18 13:05:59
-33	0x21	!	1574	8732853	ces	Uč se!	aldar	2020-05-02 15:11:31	2020-05-02 15:11:31
-34	0x22	"	742	1802512	ces	"Čí jsou to knížky?" "Alice."	moskbnea	2012-08-28 14:13:04	2012-08-28 14:13:04
+32	0x20	 	309653	8132704	ces	Hvězda se posouvá na západ.	Ergulis	2019-08-26 16:17:30	2019-08-26 16:17:30
+33	0x21	!	1577	12179692	ces	Nepřetěžuj se!	jms	2023-11-26 12:09:38	2023-11-26 12:09:38
+34	0x22	"	742	6692411	ces	"Koho hledáte?" - "Zubaře." - "Tady už žádný není."	jose76c	2018-02-15 20:22:40	2018-02-15 20:22:40
 36	0x24	$	1	8432280	ces	Cena je 300$.	lovermann	2020-01-06 16:08:09	2020-01-06 16:08:09
-37	0x25	%	5	1658571	ces	Toto pivo obsahuje 5% alkoholu.	jose76c	2012-07-01 22:35:39	2012-07-01 22:35:39
-39	0x27	'	23	1131896	ces	Francouzské slovo ''chat'' znamená anglické slovo ''cat''.	tommy390	2011-09-27 14:14:30	2011-09-27 14:14:30
-40	0x28	(	16	1696644	ces	Nevím, jak používat soubor art (.art).	tommy390	2012-07-15 14:32:05	2012-07-15 14:32:05
-41	0x29	)	16	12179886	ces	Při psaní věty se obvykle začíná velkým písmenem a končí se tečkou (.), vykřičníkem (!) nebo otazníkem (?).	jms	2023-11-26 14:42:45	2023-11-26 14:42:45
-44	0x2c	,	19492	11889869	ces	My víme, kdo to začal.	Ergulis	2023-06-29 15:37:12	2023-06-29 15:37:12
-45	0x2d	-	181	3498197	ces	Nemůžeš-li najít právníka, který zná právo, najdi takového, který zná soudce.	nueby	2014-09-15 21:31:56	2014-09-15 21:31:56
-46	0x2e	.	65228	8124577	ces	Tom udělal, co musel.	Ergulis	2019-08-23 18:12:33	2019-08-23 18:12:33
-47	0x2f	/	2	4412649	ces	Jak dlouho jsi čekal/čekala?	lovermann	2015-07-27 20:38:57	2015-07-27 20:38:57
-48	0x30	0	218	1701433	ces	Zaplatil 20 dolarů za rtěnku.	oneill	2012-07-16 20:26:16	2012-07-16 20:26:16
-49	0x31	1	141	3132368	ces	Datum narození: 3. červen 1931.	mraz	2014-03-27 20:19:34	2015-01-10 00:40:38
-50	0x32	2	93	7342610	ces	Tom tady pracoval do října 2013.	nueby	2018-10-26 03:08:39	2018-10-26 03:08:39
-51	0x33	3	92	4407019	ces	Tom souhlasil být zde v 2:30, ale stále není tady.	lovermann	2015-07-25 20:02:49	2015-07-25 20:02:49
-52	0x34	4	40	11002007	ces	První světová válka začala v roce 1914.	aldar	2022-07-18 13:03:02	2022-07-18 13:03:02
-53	0x35	5	65	4739642	ces	Odešel v 65 letech do důchodu.	aldar	2015-12-02 14:25:57	2015-12-02 14:25:57
-54	0x36	6	32	10517914	ces	Narodil se v roce 1960.	aldar	2021-11-19 16:34:11	2021-11-19 16:34:11
-55	0x37	7	18	4709824	ces	Telefon vynalezl Bell v roce 1876.	FarFromFame	2015-11-18 20:08:56	2015-11-18 20:08:56
-56	0x38	8	38	10256167	ces	Den má 86400 vteřin.	aldar	2021-08-22 15:01:16	2021-08-22 15:01:16
-57	0x39	9	68	4412764	ces	Narozen v Aténách roku 1956.	lipao	2015-07-27 21:18:11	2015-07-27 21:18:19
-58	0x3a	:	117	2842981	ces	Historie lidstva v pěti slovech a třech písmenech: On a ona. Ano. Ono.	moskbnea	2013-11-11 12:39:38	2013-11-11 12:39:38
-59	0x3b	;	38	2145286	ces	Když se na mne podívá, přestane můj rozum pracovat; když se mnou mluví, tak začnu koktat; a když se na mne usměje, tak ztrácím vědomí. Miluji jí!	moskbnea	2013-01-15 11:06:26	2013-01-15 11:06:26
-63	0x3f	?	11452	10256140	ces	Chceš polévku?	aldar	2021-08-22 14:44:04	2021-08-22 14:44:04
+37	0x25	%	5	1501605	ces	Ze všech alb vydaných v roce 2009 byla pouze 2,1 % prodána v množství alespoň 5000 kopií.	tommy390	2012-03-24 18:04:21	2012-03-24 18:05:12
+39	0x27	'	23	1138636	ces	Co chceš říct tím ''nelíbí se mi''?	tommy390	2011-09-30 22:10:21	2011-09-30 22:10:21
+40	0x28	(	16	4471884	ces	„GULAG“ je zkratkou názvu [glavnoje upravlenije lagerej], „Hlavní správa (nápravně-pracovních) táborů“. Dnes se tato instituce nazývá „Federální správa pro odpykávání trestů“.	lipao	2015-08-25 10:04:02	2015-08-25 10:07:24
+41	0x29	)	16	8427564	ces	Úprava počasí (také známá jako ovládání počasí) je akt úmyslné manipulace nebo úpravy počasí.	Ergulis	2020-01-04 13:52:41	2020-01-04 13:52:41
+44	0x2c	,	19509	11813191	ces	Vůbec si nevšímej toho, co říká.	aldar	2023-06-01 13:30:47	2023-06-01 13:30:47
+45	0x2d	-	181	12061970	ces	Ten e-mail jsem neměl posílat.	aldar	2023-09-18 15:09:02	2023-09-18 15:09:07
+46	0x2e	.	65300	3501738	ces	Ty si mě možná nepamatuješ, ale já tebe ano.	nueby	2014-09-17 23:02:38	2014-09-17 23:02:38
+47	0x2f	/	2	1610880	ces	Jsem milován/a.	jose76c	2012-06-06 22:12:18	2012-06-06 22:12:18
+48	0x30	0	221	8169116	ces	V roce 1830 Francie vtrhla do Alžírska a kolonizovala ho 132 let.	Ergulis	2019-09-06 16:04:57	2019-09-06 16:04:57
+49	0x31	1	142	3435376	ces	Tělo další ženy nacházeli kriminalisté koncem roku 2011 opět po částech.	nueby	2014-08-17 20:51:07	2014-08-17 20:51:07
+50	0x32	2	94	8896255	ces	Tom se vrátil až po 2:30.	Ergulis	2020-07-06 16:32:41	2021-06-24 14:18:40
+51	0x33	3	92	4407963	ces	Tom souhlasil, že tady bude ve 2:30, ale furt tu není.	lipao	2015-07-26 08:09:27	2015-07-26 08:09:27
+52	0x34	4	40	10122699	ces	Obrazovka má poměr stran 4:3.	aldar	2021-06-22 14:47:43	2021-06-22 14:47:43
+53	0x35	5	65	11897196	ces	Blíží se jí 35 let.	aldar	2023-07-01 16:23:19	2023-07-01 16:23:19
+54	0x36	6	32	4434285	ces	Věta č. 354618 vyvolala na stránce Tatoeba hodně zmatku.	lipao	2015-08-05 20:32:48	2015-08-05 20:32:48
+55	0x37	7	18	7698450	ces	Můj otec zemřel před třemi lety, tedy v roce 1977.	Domingo33	2019-01-06 10:04:47	2019-01-06 10:04:47
+56	0x38	8	38	4106837	ces	Vlastně bych to měl vědět. Počkej chvilku, já si vzpomenu. Jo! Atomové číslo radia je 88.	lipao	2015-04-24 12:33:53	2015-04-24 12:33:53
+57	0x39	9	68	3992542	ces	Válka vypukla v roce 1941.	JackSchpeck	2015-03-27 09:52:02	2015-03-27 09:52:02
+58	0x3a	:	117	4645494	ces	Tom ukázal na jeden z obrazů a zeptal se: „Kdo to je?“	lipao	2015-10-26 07:50:48	2015-10-26 07:50:48
+59	0x3b	;	38	3899927	ces	Jaká matka, taková dcera; jaký otec, takový syn.	lipao	2015-02-27 19:09:06	2015-02-27 19:09:06
+63	0x3f	?	11463	6483416	ces	Čím je znám Boston?	lovermann	2017-11-26 01:26:41	2017-11-26 01:26:41
 64	0x40	@	1	4449523	ces	Jak se ve tvém jazyce vyslovuje znak „@“?	lipao	2015-08-13 08:20:27	2015-08-13 08:20:27
-65	0x41	A	1105	4425577	ces	Vraťme se do Austrálie.	lovermann	2015-08-02 13:50:31	2015-08-02 13:50:31
-66	0x42	B	2751	1870148	ces	Bez práce nejsou koláče.	moskbnea	2012-09-27 10:33:38	2012-09-27 10:33:38
-67	0x43	C	3140	4418007	ces	Co ještě máme?	lovermann	2015-07-30 07:39:41	2015-07-30 07:39:41
-68	0x44	D	2750	10567520	ces	Dal jsem to pryč.	Ergulis	2021-12-17 14:11:30	2021-12-17 14:11:30
-69	0x45	E	188	4270995	ces	Jak vysoko je Mount Everest?	Tirifto	2015-06-13 10:42:06	2015-06-13 10:42:06
-70	0x46	F	264	3002317	ces	Firma přijala jeho žádost o místo.	jose76c	2014-01-22 20:04:32	2014-01-22 20:04:32
-71	0x47	G	68	12181144	ces	Gabriel byl překvapen.	jms	2023-11-27 09:31:03	2023-11-27 09:31:03
-72	0x48	H	681	9536298	ces	Hledala tě.	Ergulis	2020-12-25 13:43:55	2020-12-25 13:43:55
-73	0x49	I	209	10731764	ces	Loď přepravuje suroviny z Indonésie.	aldar	2022-03-23 15:39:23	2022-03-23 15:39:47
-74	0x4a	J	7291	8796688	ces	Jak často sekáš ten trávník?	Ergulis	2020-05-27 17:06:03	2020-05-27 17:06:03
-75	0x4b	K	4232	458952	ces	Kdy mi vrátíš ty peníze?	mbm	2010-08-10 18:07:55	2010-08-10 18:07:55
-76	0x4c	L	794	3577455	ces	Líbí se mi dívky.	nueby	2014-10-24 03:53:32	2014-10-24 03:53:32
-77	0x4d	M	9492	3147867	ces	Řekl jsem Tomovi, že Mary dar nepřijme.	nueby	2014-04-04 04:06:22	2014-04-04 04:06:22
-78	0x4e	N	9739	6794291	ces	Nevíš, kde je k tomu klíč?	Ergulis	2018-03-24 18:56:34	2018-03-24 18:56:34
-79	0x4f	O	2014	6811647	ces	Omyl si jablko.	Ergulis	2018-03-30 19:42:16	2018-03-30 19:42:16
-80	0x50	P	6693	8022072	ces	Přijal můj nápad.	aldar	2019-07-04 14:51:30	2019-07-04 14:51:30
+65	0x41	A	1105	10033969	ces	Tom odjel do Austrálie a zůstal tam.	Ergulis	2021-05-14 15:13:32	2021-05-14 15:13:32
+66	0x42	B	2754	3455401	ces	Bály se tě.	nueby	2014-08-27 02:20:15	2014-08-27 02:20:15
+67	0x43	C	3144	8444672	ces	Chci se zúčastnit.	jose76c	2020-01-11 23:07:16	2020-01-11 23:07:16
+68	0x44	D	2753	8735386	ces	Dnes se oholím.	aldar	2020-05-03 14:47:42	2020-05-03 14:47:42
+69	0x45	E	187	1646326	ces	Čínská vláda publikuje denně pět až deset zpráv v Esperantu na esperanto.china.org.cn.	jose76c	2012-06-25 22:47:18	2012-06-25 22:47:18
+70	0x46	F	264	8316148	ces	Finština je dobrým příkladem jazyka, kde je pravopis a výslovnost ve vzájemné shodě.	Ergulis	2019-11-10 20:42:24	2019-11-10 20:42:24
+71	0x47	G	68	10119117	ces	Bydlím v Groningenu.	aldar	2021-06-20 16:24:39	2021-06-20 16:24:39
+72	0x48	H	682	9871929	ces	Hraješ na nějaký hudební nástroj?	aldar	2021-03-26 13:53:50	2021-03-26 13:53:50
+73	0x49	I	209	3670965	ces	Mohu importovat pouze GIF soubory.	JackSchpeck	2014-12-03 10:00:40	2014-12-03 10:00:40
+74	0x4a	J	7297	3065566	ces	Je jedním z největších vědců v Japonsku.	nueby	2014-02-26 03:54:13	2014-02-26 03:54:13
+75	0x4b	K	4236	9459973	ces	Kde je moje paraple?	slampisko	2020-12-10 16:17:22	2020-12-10 16:17:22
+76	0x4c	L	796	8698376	ces	Loď se potopila.	aldar	2020-04-21 14:30:37	2020-04-21 14:30:37
+77	0x4d	M	9503	8364270	ces	Má strýce, který pracuje v bance.	Ergulis	2019-12-04 15:29:52	2019-12-04 15:29:52
+78	0x4e	N	9748	3446508	ces	Nebuď magor.	nueby	2014-08-22 02:34:15	2014-08-22 02:34:15
+79	0x4f	O	2018	8467058	ces	Očekávám, že mi Tom vysvětlí svoje chování.	Ergulis	2020-01-19 14:29:15	2020-01-19 14:29:15
+80	0x50	P	6703	12089170	ces	Pro Toma to bylo velmi uklidňující.	Ergulis	2023-09-30 14:19:34	2023-09-30 14:19:34
 81	0x51	Q	5	8228195	ces	Už jsi četl FAQ Tatoeby?	Ergulis	2019-10-03 16:28:16	2019-10-03 16:28:16
-82	0x52	R	1089	11902558	ces	Rumunskou měnou je lei.	aldar	2023-07-03 14:04:39	2023-07-03 14:05:40
-83	0x53	S	2620	1665167	ces	Stanice je skutečně za rohem.	tommy390	2012-07-04 10:43:55	2012-07-04 10:43:55
-84	0x54	T	22108	10149263	ces	Zapojit do toho Toma by bylo nebezpečné.	Ergulis	2021-07-04 11:19:20	2021-07-04 11:19:20
-85	0x55	U	2011	11568211	ces	Ukradl jsem nějaké jídlo, protože jsem měl velký hlad.	Ergulis	2023-02-28 14:31:41	2023-02-28 14:31:41
-86	0x56	V	5248	11373444	ces	Vypadá to, že hned tak pršet nepřestane.	Ergulis	2022-12-26 07:51:27	2022-12-26 07:51:27
-87	0x57	W	33	10675302	ces	Whisky byla příšerná.	aldar	2022-02-15 15:12:53	2022-02-15 15:12:53
-88	0x58	X	3	3993390	ces	Papež Benedikt XVI. odstoupil.	lipao	2015-03-27 14:34:23	2015-03-27 14:34:23
-89	0x59	Y	52	11869538	ces	Nikdy předtím New York neviděla, tak jsem se jí nabídl, že ji provedu.	aldar	2023-06-23 15:25:17	2023-06-23 15:25:17
-90	0x5a	Z	2953	10274291	ces	Začal být rozčílený.	aldar	2021-09-02 13:28:48	2021-12-14 14:38:58
+82	0x52	R	1090	8435123	ces	Rusové se nikdy neusmívají.	lovermann	2020-01-07 20:23:08	2020-01-07 20:23:08
+83	0x53	S	2621	11923230	ces	Syn mě nechce poslouchat.	Ergulis	2023-07-11 12:12:23	2023-07-11 12:12:23
+84	0x54	T	22133	12088697	ces	Tom utíkal do bezpečí.	Ergulis	2023-09-30 08:48:34	2023-09-30 08:48:34
+85	0x55	U	2013	7951418	ces	Udržuj svůj pokoj tak čistý, jak můžeš.	aldar	2019-06-01 09:26:53	2019-06-01 09:26:53
+86	0x56	V	5257	1756728	ces	Vážně krvácím.	jose76c	2012-08-06 20:56:09	2012-08-06 20:56:09
+87	0x57	W	33	8446906	ces	Pan Williams vede toto oddělení.	jose76c	2020-01-12 21:18:52	2020-01-12 21:18:52
+88	0x58	X	3	4703384	ces	Xavier je mladý student ekonomie na pařížské univerzitě.	aldar	2015-11-15 20:19:16	2015-11-15 20:19:16
+89	0x59	Y	52	2262309	ces	Pan Yoshida vždy dodrží své sliby.	moskbnea	2013-02-26 14:22:25	2013-02-26 14:22:25
+90	0x5a	Z	2956	9008448	ces	Zdá se, že to myslíš vážně.	Ergulis	2020-09-01 18:10:21	2020-09-01 18:10:21
 91	0x5b	[	1	4471884	ces	„GULAG“ je zkratkou názvu [glavnoje upravlenije lagerej], „Hlavní správa (nápravně-pracovních) táborů“. Dnes se tato instituce nazývá „Federální správa pro odpykávání trestů“.	lipao	2015-08-25 10:04:02	2015-08-25 10:07:24
 93	0x5d	]	1	4471884	ces	„GULAG“ je zkratkou názvu [glavnoje upravlenije lagerej], „Hlavní správa (nápravně-pracovních) táborů“. Dnes se tato instituce nazývá „Federální správa pro odpykávání trestů“.	lipao	2015-08-25 10:04:02	2015-08-25 10:07:24
 95	0x5f	_	5	1619497	ces	Naše téma týdne je: _____.	jose76c	2012-06-10 23:15:22	2012-06-10 23:15:44
-97	0x61	a	100627	1132440	ces	Každému odsouzenci na smrt bude sťata hlava.	tommy390	2011-09-27 20:11:14	2011-09-27 20:12:05
-98	0x62	b	28654	9002251	ces	Tom Johnovi rozbil hubu.	Ergulis	2020-08-29 14:58:18	2020-08-29 14:58:18
-99	0x63	c	33909	11977058	ces	Rychle jsem se adaptoval.	aldar	2023-08-02 17:35:06	2023-08-02 17:35:06
-100	0x64	d	64589	4139658	ces	Myslím, že se ti Tom bude líbit.	lipao	2015-05-02 13:55:38	2015-05-02 13:55:38
-101	0x65	e	155884	8887126	ces	Budu na tebe čekat v parku.	Ergulis	2020-07-02 18:10:05	2020-07-02 18:10:05
-102	0x66	f	2539	9780596	ces	Preferoval bych, abys s dětmi mluvila anglicky.	Ergulis	2021-02-20 17:49:28	2021-02-20 17:49:28
-103	0x67	g	1527	3547189	ces	Londýn je hlavní město Anglie.	nueby	2014-10-09 02:00:03	2014-10-09 02:00:03
-104	0x68	h	34578	6971192	ces	Nechci, aby si Tom myslel, že jsem byl hrubý.	Ergulis	2018-06-30 13:41:50	2018-06-30 13:41:50
-105	0x69	i	73642	8132722	ces	Tohle je to nejlepší, co jsi kdy udělal.	Ergulis	2019-08-26 16:25:29	2019-08-26 16:25:29
-106	0x6a	j	50373	10328569	ces	Tom tři dny nic nejedl a nepil.	Ergulis	2021-09-29 13:02:34	2021-09-29 13:02:34
-107	0x6b	k	47945	2885066	ces	Mám takový hlad, že bych snědl krávu.	moskbnea	2013-11-28 13:23:18	2013-11-28 13:23:18
-108	0x6c	l	83930	3963950	ces	Věděli jste to?	lovermann	2015-03-16 13:09:30	2015-03-16 13:09:30
-109	0x6d	m	88195	11643500	ces	Tom nás nenechal odejít.	Ergulis	2023-04-01 09:21:30	2023-04-01 09:21:30
-110	0x6e	n	86049	3474378	ces	Řekni jí, že mám žízeň.	nueby	2014-09-06 03:39:59	2014-09-06 03:39:59
-111	0x6f	o	141277	11036731	ces	Tom chce být sociální pracovník.	Ergulis	2022-07-31 20:40:47	2022-07-31 20:40:47
-112	0x70	p	42418	9769480	ces	Snažte se, abyste ten nápoj nepřevrhli.	aldar	2021-02-16 15:45:51	2021-02-16 15:45:51
-113	0x71	q	4	6977627	ces	Hrajete squash?	Ergulis	2018-07-04 16:43:42	2018-07-04 16:43:42
-114	0x72	r	44106	9815736	ces	Mary uteče, že?	Ergulis	2021-03-01 14:54:03	2021-03-01 14:54:03
-115	0x73	s	81791	8810299	ces	Řekla, že ještě není ospalá.	Ergulis	2020-06-01 19:40:28	2020-06-01 19:40:28
-116	0x74	t	93380	3856227	ces	Tom si tě velice váží.	madvorak	2015-02-09 21:28:38	2015-02-09 21:28:38
-117	0x75	u	53502	3013665	ces	Unavuje mne poslouchat její buzeraci.	jose76c	2014-01-28 21:22:57	2014-01-28 21:22:57
-118	0x76	v	57803	3070300	ces	Glenn má dvě přítelkyně.	nueby	2014-03-02 03:47:42	2014-03-02 03:47:42
-119	0x77	w	99	4424527	ces	Dělá nejlepší sandwiche na světě!	lovermann	2015-08-01 23:17:17	2015-08-01 23:17:17
-120	0x78	x	343	8443198	ces	Tom prý sexuálně obtěžoval mladou dívku.	Ergulis	2020-01-11 11:34:13	2020-01-11 11:34:13
-121	0x79	y	35620	3593152	ces	Měl bych tam jít, ale nepůjdu.	nueby	2014-10-30 01:40:06	2014-10-30 01:40:06
-122	0x7a	z	26507	11217624	ces	Naděje na jeho uzdravení je mizivá.	aldar	2022-10-30 16:28:30	2022-10-30 16:28:30
-160	0xa0	 	2	2155101	ces	Jsem polský novinář.	slavexpert	2013-01-20 10:59:04	2013-01-20 10:59:04
+97	0x61	a	100717	11016640	ces	Neviděl jsem, co je v krabici.	lovermann	2022-07-23 04:30:06	2022-07-23 04:30:06
+98	0x62	b	28685	8692315	ces	Patří k mým oblíbeným autorům.	Ergulis	2020-04-19 06:52:42	2020-04-19 06:52:42
+99	0x63	c	33943	4139605	ces	Chci být víc než kamarádka.	lipao	2015-05-02 13:39:18	2015-05-02 13:39:18
+100	0x64	d	64659	8911637	ces	Už tady nejsou.	Ergulis	2020-07-12 16:33:04	2020-07-12 16:33:04
+101	0x65	e	156054	10851464	ces	Stáhl jsem si do počítače Autologon, abych nemusel zadávat heslo.	Ergulis	2022-05-23 12:39:03	2022-05-23 12:39:03
+102	0x66	f	2541	10489407	ces	Moje kočka žije s foxteriérem.	Ergulis	2021-11-06 08:08:34	2021-11-06 08:14:12
+103	0x67	g	1528	7452225	ces	Jsem gay, a co má být?	Ergulis	2018-11-11 20:01:06	2018-11-11 20:01:06
+104	0x68	h	34612	11982107	ces	V kolik hodin jste začali pracovat?	aldar	2023-08-05 18:05:12	2023-08-05 18:05:12
+105	0x69	i	73724	7703277	ces	Kdo tě naučil tuto písničku?	Domingo33	2019-01-07 12:39:04	2019-01-07 12:39:04
+106	0x6a	j	50418	11843625	ces	Pamatuješ si ještě Toma?	Ergulis	2023-06-13 20:05:27	2023-06-13 20:05:27
+107	0x6b	k	47990	11986230	ces	Nemám rád horkou kávu.	aldar	2023-08-08 13:14:49	2023-08-08 13:14:49
+108	0x6c	l	84028	8994634	ces	Přiznal jsem se, že jsem udělal chybu.	Ergulis	2020-08-25 15:36:30	2020-08-25 15:36:30
+109	0x6d	m	88293	2885042	ces	Ještě nic nevím.	moskbnea	2013-11-28 12:55:02	2013-11-28 12:55:02
+110	0x6e	n	86127	3323894	ces	My Argentinci nechytáme vlaky nebo letadla a nedostáváme květiny nebo rýmu, jen šukáme s těmi, které milujeme nebo kteří se nám líbí.	nueby	2014-06-18 17:58:26	2014-06-18 17:58:26
+111	0x6f	o	141422	10460542	ces	Kolik okresů je na Floridě?	aldar	2021-10-25 14:20:33	2021-10-25 14:20:33
+112	0x70	p	42458	10074615	ces	Tom je nyní schopen vás podpořit.	Ergulis	2021-05-30 14:14:09	2021-05-30 14:14:09
+113	0x71	q	4	7981512	ces	Tom pil tequilu.	Ergulis	2019-06-16 10:04:35	2019-06-16 10:04:35
+114	0x72	r	44136	11030657	ces	Rusko má stále mnoho obchodních partnerů.	Ergulis	2022-07-28 15:05:15	2022-07-28 19:26:46
+115	0x73	s	81873	8617986	ces	COVID-19 je nemoc, kterou způsobuje koronavirus.	aldar	2020-03-17 15:52:50	2020-03-17 15:52:50
+116	0x74	t	93471	8273018	ces	Nejsem tak pozorný, jak bych měl být.	Ergulis	2019-10-21 13:02:47	2019-10-21 13:02:47
+117	0x75	u	53561	12137909	ces	Musím s Tomem spolupracovat.	Ergulis	2023-10-31 13:19:31	2023-10-31 13:19:31
+118	0x76	v	57856	7740749	ces	Před našima očima se odehrává neštěstí.	Ergulis	2019-01-19 10:58:55	2019-01-19 10:58:55
+119	0x77	w	99	11857149	ces	Přijel do New Yorku hledat práci.	aldar	2023-06-19 13:40:26	2023-06-19 13:40:26
+120	0x78	x	343	8099820	ces	Asteroid explodoval nad Čeljabinskem v Rusku.	Balamax	2019-08-10 10:29:00	2019-08-10 10:29:08
+121	0x79	y	35646	10511885	ces	Chtěli jsme, aby s tím Tom přestal.	Ergulis	2021-11-16 14:09:53	2021-11-16 14:09:53
+122	0x7a	z	26536	10338489	ces	Tom je pevně rozhodnutý.	Ergulis	2021-10-03 15:55:52	2021-10-03 15:55:52
+160	0xa0	 	2	3445936	ces	Dívka na obraze má na hlavě věnec z živých květů a ne zlatou korunu.	Glutexo	2014-08-21 21:52:01	2014-08-21 21:52:01
 161	0xa1	¡	1	9938280	ces	¡Auto!	Alairis	2021-04-05 06:22:06	2021-04-05 06:22:06
 167	0xa7	§	5	1804247	ces	Pět paragrafů života: §1 Nemysli! §2 Když myslíš, nemluv! §3 Když mluvíš, nepiš! §4 Když píšeš, nepodepisuj! §5 Když podepíšeš, tak se nediv!	moskbnea	2012-08-29 09:13:01	2012-08-29 09:13:01
-168	0xa8	¨	13	8343455	ces	Chlapec řekl dívce, že se mu líbí.¨	Ergulis	2019-11-24 08:29:57	2019-11-24 08:29:57
+168	0xa8	¨	13	8358284	ces	¨Rozhodli jsme se v Bostonu nežít.	Ergulis	2019-12-01 09:07:16	2019-12-01 09:07:16
 171	0xab	«	1	2143940	ces	»Hvězdné války« jsem viděl dvakrát.	moskbnea	2013-01-14 15:24:44	2013-01-14 15:24:44
-176	0xb0	°	2	8171276	ces	Jaká je pro vás ideální venkovní teplota? Pro mě je to okolo 20 °C.	Ergulis	2019-09-07 15:11:25	2019-09-07 15:11:25
+176	0xb0	°	2	4190545	ces	Teploměr ukazuje 10 C°.	lipao	2015-05-15 18:03:41	2015-05-15 18:03:41
 187	0xbb	»	1	2143940	ces	»Hvězdné války« jsem viděl dvakrát.	moskbnea	2013-01-14 15:24:44	2013-01-14 15:24:44
-193	0xc1	Á	2	4709853	ces	Á, někdo mi udělal sendvič. Pěkné.	FarFromFame	2015-11-18 20:15:39	2015-11-18 20:15:39
+193	0xc1	Á	2	3486035	ces	Ále, nasrat.	nueby	2014-09-10 20:47:11	2014-09-10 20:47:11
 201	0xc9	É	1	4453736	ces	Psal se rok 1832, když se Évariste Galois zamiloval do Stéphanie-Félicie Poterin du Motel.	lipao	2015-08-15 12:18:12	2015-08-15 12:18:31
-205	0xcd	Í	6	10043690	ces	Odjel jsem do Íránu.	aldar	2021-05-17 13:29:37	2021-05-17 13:30:00
+205	0xcd	Í	6	8104374	ces	Íránci nechtějí válku, ale jsou na ni připraveni.	Ergulis	2019-08-12 16:22:33	2019-08-12 16:22:33
 211	0xd3	Ó	5	2836626	ces	Ó né! Zapomněla jsem peněženku.	moskbnea	2013-11-08 14:56:00	2013-11-08 14:56:00
-218	0xda	Ú	48	9013357	ces	Úplně jsem nepochopil, co máme dělat.	Ergulis	2020-09-03 18:55:02	2020-09-03 18:55:02
+218	0xda	Ú	48	11164773	ces	Únor nemá třicet dní.	Ergulis	2022-10-08 16:13:11	2022-10-08 16:13:11
 223	0xdf	ß	1	2262091	ces	Denke nicht, dass ich spaße.	moskbnea	2013-02-26 13:26:17	2013-02-26 13:27:07
-225	0xe1	á	39709	8513126	ces	To znamená, že jsem měl pravdu.	Ergulis	2020-02-04 20:52:34	2020-02-04 20:52:34
+225	0xe1	á	39739	10561409	ces	Má rád kávu bez cukru.	aldar	2021-12-14 14:31:53	2021-12-14 14:31:53
 227	0xe3	ã	2	3970272	ces	Juliana mi řekla, že jsi ze São Paulа.	lovermann	2015-03-18 19:52:55	2015-03-18 19:52:55
 231	0xe7	ç	1	4288983	ces	Chtěl bych žít v Curaçau.	lipao	2015-06-20 10:03:10	2015-06-20 10:03:10
-233	0xe9	é	12093	6896014	ces	Bude těžké najít někoho, kdo to pro vás udělá.	Ergulis	2018-05-17 18:07:38	2018-05-17 18:07:38
-237	0xed	í	45715	8410717	ces	Oči prozradí víc, než tisíc slov.	Ergulis	2019-12-28 10:46:41	2019-12-28 10:46:41
+233	0xe9	é	12107	11162530	ces	Chceme překlady přirozeně znějící, nikoli doslovné.	aldar	2022-10-07 13:23:40	2022-10-07 13:23:40
+237	0xed	í	45759	8981014	ces	Navštívím je dnes večer.	Ergulis	2020-08-17 16:33:18	2020-08-17 16:33:18
 238	0xee	î	1	9459844	ces	Kde je Nîmes?	slampisko	2020-12-10 16:02:02	2020-12-10 16:02:02
-243	0xf3	ó	173	11179036	ces	Proč jsou všichni tak nervózní?	Ergulis	2022-10-15 08:48:14	2022-10-15 08:48:14
+243	0xf3	ó	173	11150509	ces	Zbývá mi už jen jeden bonbón.	aldar	2022-09-30 15:58:53	2022-09-30 15:58:53
 246	0xf6	ö	2	3545684	ces	Poslouchám nejnovější píseň od Björk.	nueby	2014-10-08 02:33:42	2014-10-08 02:33:42
 248	0xf8	ø	2	7898162	ces	Ole Einar Bjørndalen vyhrál třináct olympijských medailí.	aldar	2019-05-09 09:41:12	2019-05-09 09:41:12
-250	0xfa	ú	808	4434719	ces	Tom sice tvrdil, že Marie umí skvěle hrát na klavír, ale já tomu tak úplně nevěřil — dokud jsem ji neuslyšel hrát.	lipao	2015-08-06 09:12:17	2015-09-25 15:56:10
-252	0xfc	ü	3	4098063	ces	Vidím, že Volapük je dobrý jazyk.	lipao	2015-04-21 21:43:36	2015-04-21 21:43:36
-253	0xfd	ý	10880	10750000	ces	Tom je v obývacím pokoji a povídá si s mojí sestrou.	Ergulis	2022-04-02 07:12:22	2022-04-02 07:12:22
-268	0x10c	Č	727	8073843	ces	Číšník přinesl můj nápoj.	aldar	2019-07-24 15:03:04	2019-07-24 15:03:04
-269	0x10d	č	14572	3562236	ces	Co má to, co se stalo včera večer, co dělat s tím, co se děje dnes?	nueby	2014-10-16 22:57:09	2014-10-16 22:58:26
-270	0x10e	Ď	5	11691877	ces	Ďábel se skrývá v detailu.	aldar	2023-04-18 13:04:12	2023-04-18 13:04:12
-271	0x10f	ď	1380	8517683	ces	Mnoho Kanaďanů to nedělá.	Ergulis	2020-02-05 16:13:00	2020-02-05 16:13:00
+250	0xfa	ú	808	9393695	ces	Tom si chce otevřít bankovní účet.	Ergulis	2020-11-28 10:47:35	2020-11-28 10:47:35
+252	0xfc	ü	3	10198878	ces	Mluvíte volapükem?	AstronautKangaroo	2021-07-29 14:58:15	2021-07-30 22:56:52
+253	0xfd	ý	10887	4413006	ces	Jí vepřový řízek.	lovermann	2015-07-27 23:43:58	2015-07-27 23:43:58
+268	0x10c	Č	728	4704067	ces	Čí to byl nápad postavit tady stan?	aldar	2015-11-16 09:38:55	2015-11-16 09:38:55
+269	0x10d	č	14587	11188799	ces	Částka byla připsána na můj účet.	aldar	2022-10-18 14:39:27	2022-10-18 14:39:27
+270	0x10e	Ď	5	4811458	ces	Ďábel je v detailech.	Balamax	2016-01-05 06:02:37	2016-01-05 06:03:28
+271	0x10f	ď	1382	1710809	ces	Je buď v Londýně nebo v Paříži.	jose76c	2012-07-20 00:14:40	2012-07-20 00:14:40
 275	0x113	ē	1	4433872	ces	Slovo ‚republika‘ pochází z latinského ‚rēs pūblica‘, to jest ‚věc veřejná‘.	lipao	2015-08-05 18:26:55	2015-08-05 18:28:05
 277	0x115	ĕ	1	501538	ces	Ten, kdo si ještě nedávno myslel, že něco řídí, leží najednou nehybně v dřevěné bedně, a když lidé kolem vidí, že už není takový človĕk k ničemu, jednoduše ho spálí v peci.	hermann	2010-09-06 17:17:48	2012-08-05 14:23:04
 281	0x119	ę	1	1800435	ces	Můj starší syn je Lech Zaręba.	moskbnea	2012-08-27 13:03:40	2012-08-27 13:03:40
-283	0x11b	ě	35168	9258228	ces	Něco se změnilo.	Ergulis	2020-11-08 09:55:46	2020-11-08 09:55:46
+283	0x11b	ě	35209	3415040	ces	Tom měl víc studovat.	nueby	2014-08-09 03:41:14	2014-08-09 03:41:14
 321	0x141	Ł	1	1683422	ces	Łazarzovy děti si myslejí, že jejich máma Felicja je nejkrásnější žena na světě.	oneill	2012-07-11 23:23:38	2012-07-11 23:23:38
-328	0x148	ň	859	3570871	ces	Vstaň brzy ráno.	nueby	2014-10-20 17:03:23	2014-10-20 17:03:23
+328	0x148	ň	860	9190310	ces	Nezapomeň, co jsem ti právě řekl.	Ergulis	2020-10-25 13:18:38	2020-10-25 13:18:38
 341	0x155	ŕ	1	2316049	ces	Jeden z rozdílů mezi zvíŕaty a lidmi je, že lidé mají předsudky.	moskbnea	2013-03-18 11:49:25	2013-03-18 11:49:25
-344	0x158	Ř	851	3467536	ces	Řekni mi jasně, jaké máš záměry.	nueby	2014-09-02 23:40:35	2014-09-02 23:40:35
-345	0x159	ř	18978	6816247	ces	Tom má problém, jak se vypořádat s bolestí.	Ergulis	2018-04-02 16:26:30	2018-04-02 16:26:30
+344	0x158	Ř	852	11912510	ces	Říká se, že čas všechno mění.	Ergulis	2023-07-06 19:30:10	2023-07-06 19:30:10
+345	0x159	ř	19006	8815986	ces	Přiložil jsem dokument, který jste požadovali.	Ergulis	2020-06-04 18:19:09	2020-06-04 18:19:09
 349	0x15d	ŝ	1	10620389	ces	On šišlá a říká "sati" místo "ŝati".	jose76c	2022-01-12 19:19:40	2022-01-12 19:19:40
-352	0x160	Š	370	8117613	ces	Šli jsme spát před půlnocí.	Ergulis	2019-08-20 15:57:48	2019-08-20 15:57:48
-353	0x161	š	19467	4997261	ces	Starší dívka pomohla prostřít stůl.	radush	2016-03-21 20:00:44	2016-03-21 20:00:44
-357	0x165	ť	821	8073861	ces	Vrať se za hodinu.	aldar	2019-07-24 15:11:01	2019-07-24 15:11:01
+352	0x160	Š	372	12060286	ces	Šla jsem na procházku.	aldar	2023-09-17 16:02:47	2023-09-17 16:02:47
+353	0x161	š	19484	4424236	ces	Teď píšu dopis Tomovi.	lovermann	2015-08-01 19:35:17	2015-08-01 19:35:46
+357	0x165	ť	821	1794666	ces	Ty tmavé mraky pravděpodobně přinesou déšť.	moskbnea	2012-08-24 16:17:03	2012-08-24 16:17:03
 363	0x16b	ū	1	4433872	ces	Slovo ‚republika‘ pochází z latinského ‚rēs pūblica‘, to jest ‚věc veřejná‘.	lipao	2015-08-05 18:26:55	2015-08-05 18:28:05
-367	0x16f	ů	7861	6812756	ces	Kam se spolu můžeme dostat?	Ergulis	2018-03-31 08:51:14	2018-03-31 08:51:14
-381	0x17d	Ž	381	11100320	ces	Žiju v zemi, kde litr benzínu stojí míň než litr vody.	aldar	2022-09-06 13:25:35	2022-09-06 13:26:34
-382	0x17e	ž	22202	1750718	ces	Kočky mají devět životů.	pept	2012-08-04 13:40:03	2012-08-04 13:40:03
+367	0x16f	ů	7866	8116638	ces	Neměli byste ten dům prodávat.	Ergulis	2019-08-19 19:23:54	2019-08-19 19:23:59
+381	0x17d	Ž	381	1139083	ces	Život není prázdný sen.	tommy390	2011-10-01 09:30:24	2011-10-01 09:30:24
+382	0x17e	ž	22215	4163653	ces	Během nehody se vážně zranil řidič a zemřel pasažér.	jose76c	2015-05-08 20:25:12	2015-05-08 20:25:12
 729	0x2d9	˙	2	4202006	ces	Irsko, Maďarsko, Rumunsko, Česká republika, Slovensko, Švýcarsko a Gruzie zrušily v˙90.˙letech trest smrti.	lipao	2015-05-18 19:38:15	2015-06-11 14:04:32
 1052	0x41c	М	1	11009128	ces	Мелодрамы 1 je YouTube kanál, kde můžete sledovat ruské filmy v ruštině.	Ergulis	2022-07-20 17:48:00	2022-07-20 17:48:00
 1054	0x41e	О	1	2079752	ces	Оna mluvila hodně.	sinichka	2012-12-14 01:57:06	2012-12-14 01:57:06
-1072	0x430	а	4	3970272	ces	Juliana mi řekla, že jsi ze São Paulа.	lovermann	2015-03-18 19:52:55	2015-03-18 19:52:55
-1076	0x434	д	3	6889337	ces	V ruštině nemohu říci „Ich wurde geboren“, aniž bych si zároveň uvědomil, že jsem muž - я родился (ja rodilsja) - nebo žena - я родилась (ja rodilas).	mraz	2018-05-13 11:12:45	2018-05-13 12:06:41
+1072	0x430	а	4	11009128	ces	Мелодрамы 1 je YouTube kanál, kde můžete sledovat ruské filmy v ruštině.	Ergulis	2022-07-20 17:48:00	2022-07-20 17:48:00
+1076	0x434	д	3	11009128	ces	Мелодрамы 1 je YouTube kanál, kde můžete sledovat ruské filmy v ruštině.	Ergulis	2022-07-20 17:48:00	2022-07-20 17:48:00
 1077	0x435	е	1	11009128	ces	Мелодрамы 1 je YouTube kanál, kde můžete sledovat ruské filmy v ruštině.	Ergulis	2022-07-20 17:48:00	2022-07-20 17:48:00
 1080	0x438	и	2	6889337	ces	V ruštině nemohu říci „Ich wurde geboren“, aniž bych si zároveň uvědomil, že jsem muž - я родился (ja rodilsja) - nebo žena - я родилась (ja rodilas).	mraz	2018-05-13 11:12:45	2018-05-13 12:06:41
 1083	0x43b	л	3	6889337	ces	V ruštině nemohu říci „Ich wurde geboren“, aniž bych si zároveň uvědomil, že jsem muž - я родился (ja rodilsja) - nebo žena - я родилась (ja rodilas).	mraz	2018-05-13 11:12:45	2018-05-13 12:06:41
@@ -140,17 +140,17 @@
 1099	0x44b	ы	1	11009128	ces	Мелодрамы 1 je YouTube kanál, kde můžete sledovat ruské filmy v ruštině.	Ergulis	2022-07-20 17:48:00	2022-07-20 17:48:00
 1100	0x44c	ь	1	6889337	ces	V ruštině nemohu říci „Ich wurde geboren“, aniž bych si zároveň uvědomil, že jsem muž - я родился (ja rodilsja) - nebo žena - я родилась (ja rodilas).	mraz	2018-05-13 11:12:45	2018-05-13 12:06:41
 1103	0x44f	я	3	6889337	ces	V ruštině nemohu říci „Ich wurde geboren“, aniž bych si zároveň uvědomil, že jsem muž - я родился (ja rodilsja) - nebo žena - я родилась (ja rodilas).	mraz	2018-05-13 11:12:45	2018-05-13 12:06:41
-8206	0x200e	‎	10	9484007	ces	‎Sami a Layla mluvili venku.‎	slampisko	2020-12-16 11:03:37	2020-12-16 11:03:37
+8206	0x200e	‎	10	9484028	ces	‎Můj bratr tráví většinu času před televizí.‎	slampisko	2020-12-16 11:07:29	2020-12-16 11:07:29
 8211	0x2013	–	7	10015501	ces	Opravdu? – Jasně!	Mtargem	2021-05-08 13:05:15	2021-05-08 13:05:15
-8212	0x2014	—	57	1826765	ces	„Ekonomika od sebe vzdaluje oba břehy Atlantiku“ — tak shrnuje deník La Stampa důsledky nedávných prohlášení Baracka Obamy, podle kterého jsou špatné vyhlídky na hospodářský růst ve Spojených státech zaviněny špatným řízením krize v eurozóně.	lipao	2012-09-08 18:29:26	2015-07-26 08:01:40
+8212	0x2014	—	57	4448872	ces	„Jsi tak krásná. Jak se jmenuješ?“ — „Starej se vo svý.“	lipao	2015-08-12 19:04:13	2015-12-04 17:00:46
 8216	0x2018	‘	9	4268202	ces	Co to jsou ‘binaurální rytmy’?	lipao	2015-06-11 19:36:25	2015-06-11 19:36:25
-8217	0x2019	’	5	4212644	ces	Co jsem prošvih’?	lipao	2015-05-22 12:22:40	2015-05-22 12:22:40
-8218	0x201a	‚	8	4433872	ces	Slovo ‚republika‘ pochází z latinského ‚rēs pūblica‘, to jest ‚věc veřejná‘.	lipao	2015-08-05 18:26:55	2015-08-05 18:28:05
-8220	0x201c	“	126	6889337	ces	V ruštině nemohu říci „Ich wurde geboren“, aniž bych si zároveň uvědomil, že jsem muž - я родился (ja rodilsja) - nebo žena - я родилась (ja rodilas).	mraz	2018-05-13 11:12:45	2018-05-13 12:06:41
-8221	0x201d	”	7	8474012	ces	“Ten kdo kráčí s davem se většinou nedostane dále, než dav. Ti, kdož kráčí sami, se pravděpodobně ocitnou na místech, kam lidská noha dosud nevkročila.”	Ergulis	2020-01-21 19:06:30	2020-01-21 19:06:30
-8222	0x201e	„	119	4469439	ces	Marii se nelíbí, že jí Rusové říkají „Meri“.	lipao	2015-08-24 09:02:11	2015-08-25 08:42:51
-8230	0x2026	…	5	4235994	ces	Je jako kočka: žere, smrdí… a spí patnáct hodin denně.	lipao	2015-05-30 06:51:30	2015-05-30 06:51:30
+8217	0x2019	’	5	4268202	ces	Co to jsou ‘binaurální rytmy’?	lipao	2015-06-11 19:36:25	2015-06-11 19:36:25
+8218	0x201a	‚	8	4274375	ces	„Musíte se naučit říkat ‚ne‘.“ — „Ne, to se naučit nemusím.“	lipao	2015-06-15 04:25:19	2015-06-15 04:25:19
+8220	0x201c	“	126	4615775	ces	„Kolik je?“ „Půl jedenácté.“	lipao	2015-10-16 18:54:46	2015-10-16 18:54:46
+8221	0x201d	”	7	3985695	ces	Když Španělé v roce 1519 dobyli Mexiko, byl středoamerickou “interlingvou” nahuatl (čteno zhruba jako “náuatl”).	lipao	2015-03-24 17:06:25	2015-03-24 17:06:25
+8222	0x201e	„	119	4449467	ces	„Jak se jmenujete?“ — „Nijak.“ — „To je ale krásné jméno.“	lipao	2015-08-13 08:12:15	2015-08-13 08:12:15
+8230	0x2026	…	5	3993312	ces	Tělesná teplota se zvyšuje, srdeční tep zrychluje… trpí nedostatkem kyslíku.	lipao	2015-03-27 14:27:00	2015-03-27 14:27:00
 8239	0x202f	 	1	10461038	ces	V Německu je asi 20 000 zámků.	Ergulis	2021-10-25 19:08:23	2021-10-25 19:08:23
 8322	0x2082	₂	1	3064235	ces	Chemický vzorec vody je H₂O.	nueby	2014-02-25 03:36:32	2014-02-25 03:36:32
-8364	0x20ac	€	2	338233	ces	Vydělávám 100 € denně.	vinhan	2009-11-25 23:56:41	2011-11-14 21:38:56
-8722	0x2212	−	2	3517233	ces	Málokdy tě potkávám − nemít tvé rysy na věčnost ve svém srdci, dávno bych je zapomněl.	moskbnea	2014-09-24 17:13:13	2014-09-24 17:13:13
+8364	0x20ac	€	2	338234	ces	Toto bude stát 30 €.	vinhan	2009-11-25 23:57:44	2011-11-14 21:46:12
+8722	0x2212	−	2	1794610	ces	Málokdy tě potkávám − nemít tvé rysy na věčnost ve svém srdci, dávno bych je zapomněla.	moskbnea	2012-08-24 15:39:12	2014-09-24 17:03:33

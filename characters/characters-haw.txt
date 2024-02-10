@@ -1,42 +1,42 @@
-32	0x20	 	634	4890334	haw	Aia he mau pua i nā hale.	nonong	2016-02-06 00:44:09	2016-02-06 00:44:09
-33	0x21	!	7	4860338	haw	E ʻakaʻaka!	nonong	2016-01-26 15:47:14	2016-01-26 15:47:14
+32	0x20	 	634	4858640	haw	ʻĀhinahina ka pua nui.	nonong	2016-01-25 21:58:13	2016-01-25 21:58:13
+33	0x21	!	7	7263710	haw	Mahalo!	Ricardo14	2018-10-07 14:37:26	2018-10-07 14:37:26
 44	0x2c	,	2	7265272	haw	E ʻōlelo, e Kawika.	azraelgnosis	2018-10-08 06:53:13	2018-10-08 06:53:13
-46	0x2e	.	151	4849439	haw	Hāʻawi ke akua i ka pua i ke kanaka.	nonong	2016-01-22 18:24:30	2016-01-22 18:27:58
-63	0x3f	?	5	11746101	haw	Makemake ʻoe e hula me aʻu?	Eduzitos	2023-05-07 22:52:03	2023-05-07 22:52:03
-65	0x41	A	29	3399049	haw	Ano nā kanaka.	\N	2014-08-03 00:10:38	2016-01-19 05:38:49
-69	0x45	E	18	3085794	haw	E ʻike ʻoe nā haumāna.	\N	2014-03-09 17:56:14	2016-01-17 12:22:00
-72	0x48	H	50	3083798	haw	He kula kēia.	\N	2014-03-08 16:46:01	2016-01-17 12:13:57
-73	0x49	I	6	3085789	haw	ʻImi ʻo ia he hōkele.	\N	2014-03-09 17:54:19	2016-01-17 12:21:59
-75	0x4b	K	21	3155249	haw	Ke kālai nei ke keiki.	\N	2014-04-06 14:16:16	2016-01-17 12:25:09
-76	0x4c	L	5	4856429	haw	Lena ka pua liʻiliʻi.	nonong	2016-01-25 03:19:08	2016-01-25 03:19:08
-77	0x4d	M	18	4848355	haw	I Maui hāʻawi ke aliʻi i ka ipukukui i ke kanaka.	nonong	2016-01-22 00:14:52	2016-01-22 00:14:52
+46	0x2e	.	151	3155277	haw	E hīmeni ana ʻo Pua.	\N	2014-04-06 14:20:52	2016-01-17 12:25:23
+63	0x3f	?	5	3154605	haw	He noho ʻo ia?	\N	2014-04-06 11:47:54	2016-01-17 12:23:14
+65	0x41	A	29	3084761	haw	ʻAʻole ʻula kēia ʻāpala.	\N	2014-03-09 09:16:54	2016-01-17 12:15:24
+69	0x45	E	18	3154909	haw	E hele au.	\N	2014-04-06 12:39:43	2016-01-17 12:24:59
+72	0x48	H	50	3155279	haw	Hīmeni ʻo Pua i ka halepule.	\N	2014-04-06 14:21:13	2016-01-17 12:25:26
+73	0x49	I	6	3154911	haw	I hele au ma ka panakō.	Objectivesea	2014-04-06 12:41:17	2016-05-01 09:14:43
+75	0x4b	K	21	3155284	haw	Ke hīmeni nei ʻo Pua i ka halepule.	\N	2014-04-06 14:21:57	2016-01-17 12:26:33
+76	0x4c	L	5	3156029	haw	Loa kou makua kāne.	\N	2014-04-06 18:15:52	2016-01-17 12:26:23
+77	0x4d	M	18	4856439	haw	Melemele ʻili ʻalani ka pua liʻiliʻi.	nonong	2016-01-25 03:44:41	2016-01-25 03:44:41
 78	0x4e	N	4	3154481	haw	Nani ke kaikamahine.	\N	2014-04-06 11:01:08	2016-01-17 12:22:12
-79	0x4f	O	8	10449512	haw	ʻO Keoni koʻu inoa.	\N	2021-10-21 12:05:26	2021-10-21 12:05:31
-80	0x50	P	13	3155277	haw	E hīmeni ana ʻo Pua.	\N	2014-04-06 14:20:52	2016-01-17 12:25:23
+79	0x4f	O	8	9472801	haw	ʻO koʻu makuakāne kēia.	\N	2020-12-13 09:29:36	2021-01-04 05:43:11
+80	0x50	P	13	3155270	haw	Hīmeni ʻo Pua.	\N	2014-04-06 14:19:55	2016-01-17 12:25:16
 82	0x52	R	1	6824275	haw	ʻO wauʻo Ricardo.	Ricardo14	2018-04-07 12:22:07	2018-04-07 12:22:07
 85	0x55	U	12	4856441	haw	Uliuli ka pua liʻiliʻi.	nonong	2016-01-25 03:49:41	2016-01-25 03:49:41
 87	0x57	W	1	5770284	haw	Aloha! ʻO Wikoli koʻu inoa. Hoʻomana au i ka kilo hōkū a me ka mōhihiʻo. ʻAi au i ka manapua. Ua hānau au ma ka ʻĀina Pilipino.	nonong	2017-01-15 10:36:19	2017-01-15 10:36:19
-97	0x61	a	578	4848355	haw	I Maui hāʻawi ke aliʻi i ka ipukukui i ke kanaka.	nonong	2016-01-22 00:14:52	2016-01-22 00:14:52
+97	0x61	a	578	4856443	haw	Halakea ka pua liʻiliʻi.	nonong	2016-01-25 03:52:30	2016-01-25 03:52:30
 99	0x63	c	1	6824275	haw	ʻO wauʻo Ricardo.	Ricardo14	2018-04-07 12:22:07	2018-04-07 12:22:07
 100	0x64	d	1	6824275	haw	ʻO wauʻo Ricardo.	Ricardo14	2018-04-07 12:22:07	2018-04-07 12:22:07
-101	0x65	e	256	4853083	haw	Ke ʻai nei ke kanaka nui i ka niu liʻiliʻi.	nonong	2016-01-24 01:19:25	2016-01-24 01:19:25
-104	0x68	h	87	3154780	haw	E hele mai au.	\N	2014-04-06 12:38:03	2016-01-17 12:23:01
-105	0x69	i	365	4848309	haw	Ua noho ke kanaka i Honolulu.	nonong	2016-01-21 23:28:00	2016-01-21 23:28:00
-107	0x6b	k	333	4848326	haw	Hāʻawi ke kanaka i ka makana i ke aliʻi.	nonong	2016-01-21 23:38:48	2016-01-21 23:51:46
-108	0x6c	l	166	5770284	haw	Aloha! ʻO Wikoli koʻu inoa. Hoʻomana au i ka kilo hōkū a me ka mōhihiʻo. ʻAi au i ka manapua. Ua hānau au ma ka ʻĀina Pilipino.	nonong	2017-01-15 10:36:19	2017-01-15 10:36:19
-109	0x6d	m	69	4860223	haw	Kaumaha ke kanaka.	nonong	2016-01-26 15:21:34	2016-01-26 15:21:34
-110	0x6e	n	153	4853633	haw	E ʻai wiki ana ke kanaka nui i ka niu liʻiliʻi.	nonong	2016-01-24 08:22:02	2016-01-24 08:22:02
-111	0x6f	o	139	3083405	haw	ʻAʻole maka ka palaoa.	\N	2014-03-08 13:22:50	2016-01-17 12:13:16
-112	0x70	p	62	8875160	haw	He hapa au.	nonong	2020-06-27 02:35:42	2020-06-27 02:35:42
+101	0x65	e	256	3084146	haw	Makemake au e hele i ke kulanui.	\N	2014-03-08 20:59:19	2016-01-17 12:16:07
+104	0x68	h	87	7262573	haw	Aloha e Kaʻiulani.	azraelgnosis	2018-10-07 06:45:55	2018-10-07 06:45:55
+105	0x69	i	365	4856425	haw	Polū ka pua liʻiliʻi.	nonong	2016-01-25 03:13:04	2016-01-25 03:13:04
+107	0x6b	k	333	3154481	haw	Nani ke kaikamahine.	\N	2014-04-06 11:01:08	2016-01-17 12:22:12
+108	0x6c	l	166	3084120	haw	ʻAʻole au he kauka.	\N	2014-03-08 20:49:03	2016-01-17 12:16:12
+109	0x6d	m	69	5770284	haw	Aloha! ʻO Wikoli koʻu inoa. Hoʻomana au i ka kilo hōkū a me ka mōhihiʻo. ʻAi au i ka manapua. Ua hānau au ma ka ʻĀina Pilipino.	nonong	2017-01-15 10:36:19	2017-01-15 10:36:19
+110	0x6e	n	153	5770284	haw	Aloha! ʻO Wikoli koʻu inoa. Hoʻomana au i ka kilo hōkū a me ka mōhihiʻo. ʻAi au i ka manapua. Ua hānau au ma ka ʻĀina Pilipino.	nonong	2017-01-15 10:36:19	2017-01-15 10:36:19
+111	0x6f	o	139	10773369	haw	Nui nā wāhine i ka manaʻo o ka noho ʻilihune.	nonong	2022-04-18 00:16:15	2022-04-18 00:16:15
+112	0x70	p	62	3578024	haw	He nūpepa kēia.	\N	2014-10-24 17:09:50	2016-01-19 05:38:47
 114	0x72	r	1	6824275	haw	ʻO wauʻo Ricardo.	Ricardo14	2018-04-07 12:22:07	2018-04-07 12:22:07
-117	0x75	u	180	4848311	haw	Ua noho ke kanaka i Kīlauea.	nonong	2016-01-21 23:29:24	2016-01-21 23:29:24
-119	0x77	w	30	4848362	haw	Hāʻawi ke aliʻi i ka pua i ke kanaka.	nonong	2016-01-22 00:17:11	2016-01-22 00:17:11
-160	0xa0	 	3	3154617	haw	He wilikī ʻoe.	\N	2014-04-06 12:31:17	2016-01-17 12:23:05
+117	0x75	u	180	8875160	haw	He hapa au.	nonong	2020-06-27 02:35:42	2020-06-27 02:35:42
+119	0x77	w	30	4849465	haw	Hāʻawi ke akua i nā iʻa i ke kanaka.	nonong	2016-01-22 18:32:54	2016-01-22 18:32:54
+160	0xa0	 	3	3085794	haw	E ʻike ʻoe nā haumāna.	\N	2014-03-09 17:56:14	2016-01-17 12:22:00
 256	0x100	Ā	2	4858640	haw	ʻĀhinahina ka pua nui.	nonong	2016-01-25 21:58:13	2016-01-25 21:58:13
-257	0x101	ā	45	3083785	haw	He haumāna au.	\N	2014-03-08 16:39:55	2016-01-17 12:12:22
-275	0x113	ē	20	9472800	haw	ʻO koʻu makuahine kēia.	\N	2020-12-13 09:28:51	2021-01-04 05:43:13
+257	0x101	ā	45	4848328	haw	Hāʻawi ke aliʻi i ka makana i ke kanaka.	nonong	2016-01-21 23:41:15	2016-01-21 23:51:56
+275	0x113	ē	20	4002619	haw	He niu kēia.	nonong	2015-03-29 23:00:33	2015-03-29 23:00:33
 299	0x12b	ī	13	3155279	haw	Hīmeni ʻo Pua i ka halepule.	\N	2014-04-06 14:21:13	2016-01-17 12:25:26
 332	0x14c	Ō	2	3156048	haw	ʻŌpio ke kāne.	\N	2014-04-06 18:20:40	2016-01-17 12:25:43
-333	0x14d	ō	14	3155219	haw	ʻAʻole au pōloli.	\N	2014-04-06 14:11:41	2016-01-17 12:25:05
-363	0x16b	ū	15	4858723	haw	Polū ka pua nui.	nonong	2016-01-25 22:12:07	2016-01-25 22:12:07
-699	0x2bb	ʻ	235	3803462	haw	ʻElua aʻu puke.	\N	2015-01-27 15:54:02	2015-01-28 10:48:44
+333	0x14d	ō	14	3085036	haw	Loloa ke kaʻa ʻōhua.	\N	2014-03-09 11:50:10	2016-01-17 12:16:30
+363	0x16b	ū	15	4849441	haw	Hāʻawi ke akua i ka pūpū i ke kanaka.	nonong	2016-01-22 18:25:16	2016-01-22 18:28:08
+699	0x2bb	ʻ	235	3085027	haw	ʻAʻole au akamai.	\N	2014-03-09 11:44:27	2016-01-17 12:16:27

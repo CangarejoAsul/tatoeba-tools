@@ -27,7 +27,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 أن	1	K	+	5780131	Huda_Mohammad
 أنا	3	K	+	7960449	Garnetskull
 أنك	1	K	+	5770831	Huda_Mohammad
-أو	2	K	+	5780120	Huda_Mohammad
+أو	2	K	+	5780131	Huda_Mohammad
 أوافق	1	K	+	5771151	Huda_Mohammad
 أود	1	K	+	6827689	hamzah
 أي	1	K	+	5016419	Garnetskull
@@ -39,7 +39,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 إنزين	1	K	+	7960368	Garnetskull
 إنه	1	K	+	5771165	Huda_Mohammad
 إي	1	K	+	7960359	Garnetskull
-ابقى	2	K	+	7725474	hadalabadi
+ابقى	2	K	+	7725481	hadalabadi
 ات	1	K	+	7040231	OsoHombre
 اتصل	1	K	+	8444075	hamzah
 اتمام	1	K	+	8439702	hamzah
@@ -51,7 +51,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 احد	1	K	+	8444071	hamzah
 اخرى	1	K	+	6842477	hamzah
 اردت	1	K	+	8444075	hamzah
-استجمع	2	K	+	5770834	Huda_Mohammad
+استجمع	2	K	+	5770857	Huda_Mohammad
 استدعاؤك	1	K	+	5770850	Huda_Mohammad
 استدعي	2	K	+	5770811	Huda_Mohammad
 استدعيت	1	K	+	5770821	Huda_Mohammad
@@ -96,7 +96,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 العشاء	1	K	+	7995888	hamzah
 القائمة	1	K	+	6827692	hamzah
 القطار	1	K	+	5771139	Huda_Mohammad
-الكثير	2	K	+	5780121	Huda_Mohammad
+الكثير	2	K	+	5779560	Huda_Mohammad
 اللجنة	1	K	+	5770821	Huda_Mohammad
 المحاولة	1	K	+	5476025	hamzah
 المحكمة	2	K	+	5770811	Huda_Mohammad
@@ -115,12 +115,12 @@ who	1	K	+	6615721	Muhammed_abdoon
 الواجبات	1	K	+	8439702	hamzah
 الواضح	2	K	+	5779484	Huda_Mohammad
 الواقع	1	K	+	5779564	Huda_Mohammad
-الى	2	K	+	5476027	hamzah
+الى	2	K	+	5476026	hamzah
 اليومي	1	K	+	5779687	Huda_Mohammad
 امتع	1	K	+	8439702	hamzah
 ان	7	K	+	6827700	hamzah
-انا	5	K	+	5476026	hamzah
-انت	3	K	+	5779563	Huda_Mohammad
+انا	5	K	+	8444075	hamzah
+انت	3	K	+	7888029	hamzah
 انه	3	K	+	5779484	Huda_Mohammad
 اهرب	1	K	+	6827689	hamzah
 اوكي	1	K	+	7960369	Garnetskull
@@ -156,7 +156,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 تفترض	1	K	+	5779520	Huda_Mohammad
 تكلم	1	K	+	7995887	hamzah
 تكون	1	K	+	5780131	Huda_Mohammad
-توم	7	K	+	7725479	hadalabadi
+توم	7	K	+	5770832	Huda_Mohammad
 ثمن	1	K	+	7888027	hamzah
 جاء	1	K	+	5476021	hamzah
 جدآ	1	K	+	8444075	hamzah
@@ -168,7 +168,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 جزء	1	K	+	8439706	hamzah
 جميل	1	K	+	5476025	hamzah
 حالكم	1	K	+	7911937	hamzah
-حتى	3	K	+	5771139	Huda_Mohammad
+حتى	3	K	+	7960449	Garnetskull
 حذرته	1	K	+	7995890	hamzah
 حفر	1	K	+	5779407	Huda_Mohammad
 حفرة	1	K	+	5779407	Huda_Mohammad
@@ -181,8 +181,8 @@ who	1	K	+	6615721	Muhammed_abdoon
 دائمآ	1	K	+	6827692	hamzah
 دخل	1	K	+	7888020	hamzah
 ذاهب	2	K	+	5476026	hamzah
-ذلك	4	K	+	5476022	hamzah
-رؤيتي	2	K	+	7888023	hamzah
+ذلك	4	K	+	5779520	Huda_Mohammad
+رؤيتي	2	K	+	7888025	hamzah
 راح	1	K	+	7960375	Garnetskull
 ربما	1	K	+	5771178	Huda_Mohammad
 رحلتنا	1	K	+	5780121	Huda_Mohammad
@@ -202,7 +202,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 ستغادر	1	K	+	6827691	hamzah
 سمحت	1	K	+	7960356	Garnetskull
 سوف	1	K	+	5770850	Huda_Mohammad
-سيئة	2	K	+	7888023	hamzah
+سيئة	2	K	+	7888025	hamzah
 سيدفع	1	K	+	7888027	hamzah
 سيكون	2	K	+	5779662	Huda_Mohammad
 شائع	2	K	+	5779648	Huda_Mohammad
@@ -213,8 +213,8 @@ who	1	K	+	6615721	Muhammed_abdoon
 شخبارج	1	K	+	5016380	Garnetskull
 شخبارك	1	K	+	5016379	adals
 شروطك	1	K	+	5771151	Huda_Mohammad
-شنو	6	K	+	7960377	Garnetskull
-شو	2	K	+	5016383	Garnetskull
+شنو	6	K	+	7960438	Garnetskull
+شو	2	K	+	5016381	Garnetskull
 شي	1	K	+	7960360	Garnetskull
 شيء	3	K	+	5780131	Huda_Mohammad
 صار	1	K	+	7960438	Garnetskull
@@ -225,7 +225,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 عالم	1	K	+	5779563	Huda_Mohammad
 عامة	1	K	+	8439705	hamzah
 علاوة	1	K	+	5770857	Huda_Mohammad
-على	3	K	+	7995888	hamzah
+على	3	K	+	5771151	Huda_Mohammad
 عليك	1	K	+	5771178	Huda_Mohammad
 عليها	1	K	+	6998223	OsoHombre
 عمرك	1	K	+	8439709	hamzah
@@ -237,7 +237,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 فظاعة	1	K	+	5779687	Huda_Mohammad
 فكرته	1	K	+	6827699	hamzah
 فورا	1	K	+	5770821	Huda_Mohammad
-في	10	K	+	5780121	Huda_Mohammad
+في	10	K	+	8439705	hamzah
 قادم	1	K	+	8439706	hamzah
 قاعد	1	K	+	7960377	Garnetskull
 قاعدة	1	K	+	7960380	Garnetskull
@@ -246,7 +246,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 قوة	1	K	+	7960355	Garnetskull
 قيمة	1	K	+	6827699	hamzah
 كأستاذ	1	K	+	8439705	hamzah
-كان	2	K	+	7040231	OsoHombre
+كان	2	K	+	5780121	Huda_Mohammad
 كبير	1	K	+	5016418	aboubasha
 كذبت	1	K	+	8439709	hamzah
 كل	2	K	+	8449000	hamzah
@@ -256,7 +256,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 كندا	1	K	+	8439706	hamzah
 كيف	2	K	+	7911937	hamzah
 لأتمام	1	K	+	5476022	hamzah
-لا	9	K	+	5771139	Huda_Mohammad
+لا	9	K	+	5779687	Huda_Mohammad
 لازم	1	K	+	7960473	Garnetskull
 لاني	1	K	+	8444075	hamzah
 لايعمل	1	K	+	6827688	hamzah
@@ -267,12 +267,12 @@ who	1	K	+	6615721	Muhammed_abdoon
 لك	1	K	+	7888028	hamzah
 لكني	1	K	+	8444075	hamzah
 للفضاء	1	K	+	5779662	Huda_Mohammad
-للمثول	2	K	+	5770811	Huda_Mohammad
+للمثول	2	K	+	5770832	Huda_Mohammad
 للنظر	2	K	+	7888028	hamzah
 لم	1	K	+	8449002	hamzah
 لماذا	4	K	+	8449002	hamzah
 لن	1	K	+	5771181	Huda_Mohammad
-له	2	K	+	5780098	Huda_Mohammad
+له	2	K	+	8449000	hamzah
 لها	1	K	+	6827699	hamzah
 لو	1	K	+	7960356	Garnetskull
 لي	1	K	+	7888026	hamzah
@@ -282,7 +282,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 ما	2	K	+	7960382	Garnetskull
 ماريا	1	K	+	6842477	hamzah
 متأخر	1	K	+	8444075	hamzah
-متى	2	K	+	6827691	hamzah
+متى	2	K	+	6827690	hamzah
 مجرد	1	K	+	5779557	Huda_Mohammad
 محمرتان	1	K	+	7888021	hamzah
 مدر	1	K	+	7040231	OsoHombre
@@ -301,7 +301,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 مغامرين	1	K	+	5780104	Huda_Mohammad
 ملتهبتان	1	K	+	7888021	hamzah
 ممتاز	1	K	+	7960371	Garnetskull
-من	16	K	+	8439706	hamzah
+من	16	K	+	8439702	hamzah
 منذ	1	K	+	7888022	hamzah
 منزله	1	K	+	8444071	hamzah
 منو	1	K	+	7960372	Garnetskull
@@ -309,9 +309,9 @@ who	1	K	+	6615721	Muhammed_abdoon
 نحاول	1	K	+	5476022	hamzah
 نحن	2	K	+	5476022	hamzah
 هذا	3	K	+	5016383	Garnetskull
-هل	4	K	+	7995888	hamzah
+هل	4	K	+	7888027	hamzah
 هم	1	K	+	5771181	Huda_Mohammad
-هنا	3	K	+	6827689	hamzah
+هنا	3	K	+	5770850	Huda_Mohammad
 هناك	1	K	+	7725481	hadalabadi
 هو	1	K	+	5780101	Huda_Mohammad
 هوكايدو	1	K	+	5771165	Huda_Mohammad
@@ -325,7 +325,7 @@ who	1	K	+	6615721	Muhammed_abdoon
 ورؤيتي	1	K	+	7888022	hamzah
 وقت	1	K	+	8444075	hamzah
 وماري	1	K	+	7725479	hadalabadi
-وين	2	K	+	7960425	Garnetskull
+وين	2	K	+	7960430	Garnetskull
 وينج	1	K	+	7960419	Garnetskull
 وينك	1	K	+	7960417	Garnetskull
 يا	1	K	+	5780098	Huda_Mohammad

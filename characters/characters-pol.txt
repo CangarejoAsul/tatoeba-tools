@@ -1,161 +1,161 @@
-32	0x20	 	531759	11263074	pol	To mieszkanie nie jest na sprzedaż.	Milenka	2022-11-22 18:51:06	2022-11-22 18:51:06
-33	0x21	!	3664	11324221	pol	"Kto nas chroni?" "My sami się chronimy!"	jezykiija	2022-12-12 23:15:17	2022-12-12 23:15:17
-34	0x22	"	1444	11264360	pol	"To cholernie dużo pieniędzy!" - "To? Tyle to ja przepuszczam w jeden weekend."	Milenka	2022-11-23 19:19:03	2022-11-23 19:19:03
+32	0x20	 	532007	7893759	pol	Jeśli o mnie chodzi, to naprawdę nie ma to żadnego znaczenia.	maria_lysik	2019-05-06 21:46:39	2019-05-06 21:46:39
+33	0x21	!	3667	716705	pol	Nie przeszkadzaj!	zipangu	2011-01-19 15:50:44	2011-01-19 15:50:44
+34	0x22	"	1448	11256022	pol	"Stołówka była pusta." "Pusta? Nikogo nie było?" "Ani żywej duszy."	translatorjo	2022-11-18 22:52:14	2022-11-18 22:52:14
 35	0x23	#	1	3457064	pol	C# jest podobny do Javy.	LunaVulpo	2014-08-28 04:36:55	2014-08-28 04:36:55
-36	0x24	$	5	627668	pol	Zapłaciłem $200 podatku.	Bilberry	2010-11-19 12:52:31	2010-11-19 12:52:31
-37	0x25	%	28	852594	pol	To piwo ma 5% alkoholu.	ignacy130	2011-04-25 10:29:54	2011-04-25 10:29:54
+36	0x24	$	5	393323	pol	Kupiliśmy samochód za 12 000$	kertoip	2010-05-25 00:39:52	2010-05-25 00:39:52
+37	0x25	%	28	5224042	pol	10% mieszkańców pochodzi z Japonii.	konrad509	2016-06-19 18:15:39	2016-06-19 18:15:39
 38	0x26	&	1	610421	pol	Znak „&” oznacza „i”.	dobromila	2010-11-09 13:55:54	2010-11-09 13:55:54
-39	0x27	'	245	5190293	pol	Pracowałem w Chuck's Bar and Grill.	gin	2016-06-03 20:49:02	2016-06-03 20:49:02
-40	0x28	(	90	674749	pol	W 1970r. Rada Cenzorów stanu Ontario zakazała wyświetlania filmu, na podstawie noweil Güntera Grassa, "The Drum Tin". Mimo to, media uznały ten pomysł za głupi, a stacja CBC (Canadian Broadcasting Corporation) w wieczornym wydaniu krajowych wiadomości wyemitowała ocenzurowaną scenę.	yessoos	2010-12-19 17:07:47	2010-12-19 17:12:57
-41	0x29	)	91	3149941	pol	Sama to zrobiłaś? (to a female person)	Plusquamperfekt	2014-04-04 20:16:55	2014-04-04 20:16:55
-43	0x2b	+	16	10696085	pol	Numer Ambasady Ukrainy w Polsce to +48 (22) 629-34-46 lub (+48) 22 622 47 97.	tokzyk	2022-02-28 10:30:51	2022-02-28 16:46:33
-44	0x2c	,	29137	4229790	pol	Poradził jej, żeby natychmiast wróciła.	jeedrek	2015-05-27 19:18:49	2015-05-27 19:18:49
-45	0x2d	-	597	940944	pol	Umieranie to nic, więc zacznij żyć - to mniej zabawne i trwa dłużej.	zipangu	2011-06-16 16:50:30	2011-06-16 16:50:30
-46	0x2e	.	107202	676794	pol	Wybierz którykolwiek ci się podoba.	yessoos	2010-12-20 23:12:46	2010-12-20 23:12:46
-47	0x2f	/	92	2254417	pol	Leć, myśli, na złotych skrzydłach; // Leć, odpoczywając na górach i pagórkach, // tam, gdzie powietrze napełnione delikatnością i ciepłem, // słodkim aromatem ojczystej ziemi!	MrShoval	2013-02-24 12:33:35	2013-02-24 12:33:35
-48	0x30	0	1146	951296	pol	Mieszkam tu od 1990 roku.	zipangu	2011-06-23 03:09:46	2011-06-23 03:09:46
-49	0x31	1	743	2303421	pol	Znam Johna od 1976 roku.	zipangu	2013-03-13 16:35:52	2013-03-13 16:35:52
-50	0x32	2	377	1205992	pol	Pierwszy odjeżdża o 17.30 i dociera o 20.25.	lukaszpp	2011-10-30 10:07:28	2011-10-30 10:07:28
-51	0x33	3	264	751498	pol	Najniższa temperatura wynosiła dzisiaj 3 stopnie Celsjusza.	zipangu	2011-02-11 18:27:06	2011-02-11 18:27:06
-52	0x34	4	149	5523903	pol	Ojciec powiedział mi, że druga wojna światowa zakończyła się w 1945 roku.	rubber_duck	2016-10-16 23:43:14	2016-10-16 23:43:14
-53	0x35	5	273	1351861	pol	W 1945 roku na Hiroszimę zrzucona została bomba atomowa.	Ollie1337	2012-01-10 22:52:41	2012-01-10 22:52:41
-54	0x36	6	133	2189402	pol	Słońce zachodzi zimą o 16:00.	damc	2013-02-04 15:28:27	2013-02-04 15:28:52
-55	0x37	7	135	2303420	pol	John jest moim znajomym od 1976 roku.	zipangu	2013-03-13 16:35:38	2013-03-13 16:35:38
-56	0x38	8	167	9686872	pol	Morderstwo spadło na nasze małe miasteczko w 1987, kiedy Layla Bakir została brutalnie zabita przez swojego chłopaka – Samiego Majida.	aurchykr	2021-01-23 22:46:57	2021-01-23 22:46:57
-57	0x39	9	249	725952	pol	Seicho Matsumoto zmarł w roku 1992.	zipangu	2011-01-25 02:46:36	2011-01-25 02:46:36
-58	0x3a	:	322	597176	pol	Zwykle jeżdżę rowerem do szkoły. Miałem na myśli: do biura.	Bilberry	2010-11-01 18:21:36	2010-11-01 18:21:36
-59	0x3b	;	81	6794820	pol	Zdrowie jest ponad bogactwem; to drugie daje mniej szczęścia niż to pierwsze.	qmak	2018-03-24 23:42:43	2018-03-24 23:42:43
-61	0x3d	=	5	5934308	pol	Rozwiąż równanie sześcienne x³ + 2x² − x − 2 = 0.	qmak	2017-03-10 09:51:25	\N
-63	0x3f	?	16741	904504	pol	Co to za miejsce?	zipangu	2011-05-23 01:29:42	2011-05-23 01:29:42
+39	0x27	'	245	3438918	pol	Próbuję powstrzymać Tom'a.	konrad509	2014-08-19 00:22:01	2014-08-19 00:22:01
+40	0x28	(	90	6923329	pol	Ta półka jest dla mnie za wysoko (żebym mógł ją dosięgnąć).	Hypat	2018-05-31 13:35:16	2018-05-31 13:45:16
+41	0x29	)	91	3063989	pol	Brakuje mu jednej śrubki. (Brakuje mu piątej klepki.)	AliceC	2014-02-24 21:16:18	2014-02-24 21:16:18
+43	0x2b	+	16	1349065	pol	Za każdym razem, kiedy podejmuję próbę nauczenia się C++, utykam na wskaźnikach.	Ollie1337	2012-01-09 22:56:26	2012-01-09 22:56:35
+44	0x2c	,	29148	10091406	pol	Nie, ona nigdy nie była zakochana.	pabik	2021-06-07 21:06:39	2021-06-07 21:06:39
+45	0x2d	-	597	928744	pol	Panie Jezu w niebie - chroń mnie.	mcfs	2011-06-08 08:36:06	2011-06-08 08:36:06
+46	0x2e	.	107249	372439	pol	Studenci słuchają wykładu z historii.	ilayde	2010-03-14 14:12:44	2010-03-14 14:12:50
+47	0x2f	/	92	1227865	pol	Ty jesteś/Wy jesteście dwukrotnie silniejsi ode mnie.	kosapehape	2011-11-09 22:44:26	2011-11-09 22:44:26
+48	0x30	0	1146	1160620	pol	Samolot odrzutowy miał 500 pasażerów na pokładzie.	Roddern	2011-10-07 21:34:42	2011-10-07 21:34:42
+49	0x31	1	743	1627136	pol	Spędziłem 12 godzin w pociągu.	zipangu	2012-06-15 01:12:03	2012-06-15 01:12:03
+50	0x32	2	377	3931711	pol	Można stąd dojechać samochodem do miasta w niespełna 20 minut.	jeedrek	2015-03-04 22:40:57	2015-03-04 22:40:57
+51	0x33	3	264	952085	pol	Moje miesięczne dochody sięgają ledwo 30 tys. jenów, w tym dodatki.	zipangu	2011-06-23 14:57:14	2011-06-23 14:57:14
+52	0x34	4	149	10696076	pol	Numer infolinii dla osób przekraczających granicę to +48 47 721 75 75.	tokzyk	2022-02-28 10:28:29	2022-02-28 10:28:29
+53	0x35	5	273	951235	pol	Rozgrywki odbyły się 15 października.	zipangu	2011-06-23 02:31:08	2011-06-23 02:31:08
+54	0x36	6	133	2303421	pol	Znam Johna od 1976 roku.	zipangu	2013-03-13 16:35:52	2013-03-13 16:35:52
+55	0x37	7	135	501996	pol	Ten pensjonat kosztuje 7 tys. jenów, ale za sam nocleg wychodzi 2 tys. taniej.	zipangu	2010-09-06 22:06:30	2010-09-06 22:06:30
+56	0x38	8	167	369013	pol	Samolot startuje o 8 rano.	zipangu	2010-03-05 04:42:05	2010-03-05 04:42:05
+57	0x39	9	249	366295	pol	Windows 95 znowu się zawiesił!	zipangu	2010-02-19 01:06:51	2010-02-19 01:06:51
+58	0x3a	:	323	3935043	pol	Biblioteka jest otwarta od 9:00 do 20:00.	jeedrek	2015-03-06 13:30:23	2015-03-06 13:30:23
+59	0x3b	;	81	10458994	pol	Nie pozwól kotu cię oszukać; był karmiony.	hecko	2021-10-24 18:34:35	2021-10-25 14:15:17
+61	0x3d	=	5	2049877	pol	Ptak lata w pokoju (=on jest w pokoju i lata w nim).	MarekMazurkiewicz	2012-11-30 18:44:47	2012-11-30 18:44:47
+63	0x3f	?	16754	5988500	pol	Co jedzą konie?	jeedrek	2017-03-30 18:20:53	\N
 64	0x40	@	1	1354348	pol	Jak nazywasię symbol "@" w twoim języku?	bbm	2012-01-11 17:06:13	2012-01-11 17:06:13
-65	0x41	A	2021	10990385	pol	Apelacje Samiego jak dotąd były nieudane.	hecko	2022-07-14 21:59:26	2022-07-14 21:59:26
-66	0x42	B	4630	2493568	pol	Bardzo się zdziwiłem, kiedy zobaczyłem ją w takim miejscu.	zipangu	2013-06-12 22:09:53	2013-06-12 22:09:53
-67	0x43	C	11197	364059	pol	Ciepło to forma energii.	zipangu	2010-02-14 18:42:05	2010-02-14 18:42:05
-68	0x44	D	4612	766487	pol	Dzięki kampanii reklamowej do firmy trafiło dużo zleceń.	zipangu	2011-02-23 15:00:27	2011-02-23 15:00:27
-69	0x45	E	483	497589	pol	Osoba z Egiptu mówi po arabsku.	lukaszpp	2010-09-04 15:54:31	2010-09-04 15:54:31
-70	0x46	F	551	12260890	pol	Fedora jest dystrybucją Linux.	polski_ren	2024-01-09 23:23:33	2024-01-09 23:23:33
-71	0x47	G	1847	3109618	pol	Gdybym tylko znał jego adres.	Mateusz	2014-03-20 08:23:35	2014-03-20 08:23:35
-72	0x48	H	515	3446210	pol	Historia się powtarza.	Hikaru	2014-08-22 00:09:46	2014-08-22 00:09:46
-73	0x49	I	1523	3655871	pol	Ile znasz osób, które mówią po francusku?	jeedrek	2014-11-25 02:28:02	2014-11-25 02:28:02
-74	0x4a	J	10307	9637878	pol	Jestem okropnie zmęczona.	Tomo77	2021-01-12 07:57:50	2021-01-12 07:57:50
-75	0x4b	K	5093	841070	pol	Kiedy byłem w Bostonie, poznałem się z nią.	zipangu	2011-04-16 20:40:49	2011-04-16 20:40:49
-76	0x4c	L	1828	10605744	pol	Lubię jeść pączki.	tokzyk	2022-01-04 09:40:23	2022-01-04 09:40:23
-77	0x4d	M	13538	415259	pol	Ponieważ jest Meksykaninem, po angielsku mówi z akcentem hiszpańskim.	zipangu	2010-06-30 01:59:15	2010-06-30 01:59:15
-78	0x4e	N	14540	959499	pol	Nie mogę się zgodzić z edukacyjną polityką rządu.	zipangu	2011-06-26 01:15:47	2011-06-26 01:15:47
-79	0x4f	O	8056	8560760	pol	On jest bogaty, lecz nie szczęśliwy.	kamich	2020-02-18 17:59:43	2020-02-18 17:59:43
-80	0x50	P	13237	535184	pol	Poproszę dwie szklanki soku pomarańczowego.	orzechowski	2010-09-26 22:53:33	2010-09-26 22:53:33
-81	0x51	Q	10	859031	pol	Czy Quebecowi uda się secesja?	zipangu	2011-04-26 22:15:15	2011-04-26 22:15:15
-82	0x52	R	1473	3085124	pol	Rzeka wpływa do Oceanu Spokojnego.	jeedrek	2014-03-09 12:31:33	2014-03-09 12:31:33
-83	0x53	S	5220	3470897	pol	Słuchaj no...	Siganiv	2014-09-04 16:38:43	2014-09-04 16:38:43
-84	0x54	T	23336	1576684	pol	Tom nie lubi kotów.	zipangu	2012-05-17 01:08:45	2012-05-17 23:44:05
-85	0x55	U	2060	3610610	pol	Uważaj, żebyś nie jechał po złej stronie drogi.	Siganiv	2014-11-06 01:26:38	2014-11-06 01:26:38
-86	0x56	V	52	531675	pol	Potrafię pisać programy w Visual Basic'u.	orzechowski	2010-09-24 22:52:54	2010-09-24 22:52:54
-87	0x57	W	9446	404481	pol	Nikt nie pracuje. Wszyscy oglądają mundial.	zipangu	2010-06-15 01:04:57	2010-06-15 01:04:57
-88	0x58	X	53	7703687	pol	Wang Xiaoming mówi po angielsku, ale nie ma dużo angielskich książek.	qmak	2019-01-07 18:08:28	2019-01-07 18:08:28
-89	0x59	Y	122	440433	pol	Ken poszedł do parku na spotkanie z Yumi.	zipangu	2010-07-27 22:55:47	2010-07-27 22:55:47
-90	0x5a	Z	7061	960771	pol	Zabierz to stąd.	zipangu	2011-06-26 17:08:37	2011-06-26 17:08:37
-91	0x5b	[	2	2586978	pol	Loty na tej trasie zostały wstrzymane z powodu [złej] pogody.	Mar	2013-07-12 18:55:31	2013-07-12 18:55:31
-93	0x5d	]	2	355189	pol	Jezioro ma 3 [trzy] mile szerokości.	zipangu	2010-01-31 20:10:57	2010-01-31 20:10:57
+65	0x41	A	2021	5095311	pol	Ona wraca z powrotem do Ameryki.	lumberpack	2016-04-29 16:58:41	2016-04-29 16:58:41
+66	0x42	B	4630	960723	pol	Była biedna, ale uczciwa.	zipangu	2011-06-26 16:51:32	2011-06-26 16:51:32
+67	0x43	C	11206	10600586	pol	Czy naprawdę musimy pomóc Tomowi?	polski_ren	2022-01-01 22:30:30	2022-01-01 22:30:30
+68	0x44	D	4613	12048374	pol	Dlaczego ten pies warczy?	jimbojim	2023-09-11 12:10:56	2023-09-11 12:11:04
+69	0x45	E	483	2045578	pol	Edukacja celuje w rozwój potencjalnych umiejętności.	dryhay	2012-11-29 13:15:25	2012-11-29 13:15:25
+70	0x46	F	551	524337	pol	Faktycznie mój kot jest bojaźliwy.	Wimmer	2010-09-21 20:17:01	2010-09-21 20:17:01
+71	0x47	G	1847	8809779	pol	Gdzie jest twój wnuk?	digitcrusher	2020-06-01 16:33:28	2020-06-01 16:33:28
+72	0x48	H	515	969050	pol	Mój kolega Henry wczoraj nie przyszedł na zajęcia, ja też nie.	zipangu	2011-07-01 03:21:38	2011-07-01 03:21:38
+73	0x49	I	1523	4699654	pol	Idę przez park.	MarekMazurkiewicz	2015-11-14 00:20:18	2015-11-14 00:20:18
+74	0x4a	J	10316	6137527	pol	Jestem pewien że oni nie mieli z tym nic wspólnego.	Krzysztof92	2017-06-08 19:16:40	\N
+75	0x4b	K	5097	1563933	pol	Kupiła dwa tuziny jajek.	zipangu	2012-05-06 08:50:51	2012-05-06 08:50:51
+76	0x4c	L	1829	3632500	pol	Lektura jest dla umysłu tym czym ćwiczenia dla ciała.	Katubeltza	2014-11-15 15:09:56	2014-11-15 15:09:56
+77	0x4d	M	13543	1602701	pol	Możecie dodać zdania, których tłumaczeń nie znacie. Może zna je ktoś inny. Zwracajcie uwagę, proszę, na wielkie i małe litery oraz interpunkcję! Dziękuję.	ridja	2012-06-02 22:20:45	2012-06-02 22:20:45
+78	0x4e	N	14548	921697	pol	Nie bacząc na ewentualny nietakt, odezwałem się do niego per „ty”.	zipangu	2011-06-03 00:21:32	2011-06-03 00:21:32
+79	0x4f	O	8056	7881224	pol	Ona zawsze dotrzymuje obietnic.	Siganiv	2019-05-01 11:31:40	2019-05-01 11:31:40
+80	0x50	P	13241	817829	pol	Pojedźmy na wycieczkę, korzystając z wakacji.	zipangu	2011-03-30 20:22:02	2011-03-30 20:22:10
+81	0x51	Q	10	606289	pol	Quito w Ekwadorze leży nieco na południe względem równika.	simaqian	2010-11-07 08:37:00	2010-11-07 08:37:00
+82	0x52	R	1474	3084373	pol	Ręce Toma były związane za jego plecami.	jeedrek	2014-03-09 00:34:38	2014-03-09 00:34:38
+83	0x53	S	5225	6767509	pol	Spójrz na swoje ręce.	nusia2302	2018-03-13 06:02:09	2018-03-13 06:02:09
+84	0x54	T	23350	3982740	pol	Tom był czymś podekscytowany.	jeedrek	2015-03-23 16:12:57	2015-03-23 16:12:57
+85	0x55	U	2060	837878	pol	Po konferencji w USA postanowił napisać książkę dla niespecjalistów.	zipangu	2011-04-14 15:04:38	2011-04-14 15:04:38
+86	0x56	V	52	12072973	pol	Myślałem, że przeczytałeś moje CV.	jimbojim	2023-09-23 09:05:54	2023-09-23 09:05:54
+87	0x57	W	9450	355258	pol	Wygląda na wielce szczęśliwego.	zipangu	2010-01-31 20:53:23	2010-01-31 20:53:23
+88	0x58	X	53	6306822	pol	X nie należy do zbioru B, ponieważ należy do zbioru A.	fau	2017-09-14 12:46:03	2017-09-14 12:46:03
+89	0x59	Y	122	733061	pol	Yuriko w wolnym czasie zajmuje się ikebaną.	zipangu	2011-01-30 00:56:03	2011-01-30 00:56:03
+90	0x5a	Z	7062	361003	pol	Znalazłem tę restaurację przypadkiem.	zipangu	2010-02-10 18:34:47	2010-02-10 18:34:47
+91	0x5b	[	2	355189	pol	Jezioro ma 3 [trzy] mile szerokości.	zipangu	2010-01-31 20:10:57	2010-01-31 20:10:57
+93	0x5d	]	2	2586978	pol	Loty na tej trasie zostały wstrzymane z powodu [złej] pogody.	Mar	2013-07-12 18:55:31	2013-07-12 18:55:31
 95	0x5f	_	9	814174	pol	Znajdźmy zdania na ten temat z nowym słownictwem, dodajmy je do następującej listy: _____, a potem przetłumaczmy.	zipangu	2011-03-27 20:39:32	2011-03-27 20:39:32
-96	0x60	`	2	10598415	pol	`Tom śnił na jawie.	polski_ren	2021-12-31 18:59:44	2021-12-31 18:59:44
-97	0x61	a	280551	1165263	pol	Tom nie mógł się przemóc, aby pociągnąć za spust.	Karola	2011-10-08 20:20:55	2011-10-08 20:20:55
-98	0x62	b	57294	364683	pol	Do teraz byli dobrymi sąsiadami.	zipangu	2010-02-15 18:27:17	2010-02-15 18:27:17
-99	0x63	c	112315	6483105	pol	Chcę zobaczyć.	mojeanin	2017-11-25 17:32:58	2017-11-25 17:32:58
-100	0x64	d	110513	1182268	pol	pieniądz to źródło wszelkiego zła.	hebrajska	2011-10-17 23:16:30	2011-10-17 23:16:30
-101	0x65	e	288369	368432	pol	Jak szybko jedzie ten pociąg?	zipangu	2010-03-02 17:26:01	2010-03-02 17:26:01
-102	0x66	f	5222	760369	pol	Gdybym miał więcej czasu, uczyłbym się francuskiego.	zipangu	2011-02-19 04:58:58	2011-02-19 04:58:58
-103	0x67	g	42853	4169883	pol	Mieliśmy niespodziewanych gości.	jeedrek	2015-05-10 09:31:06	2015-05-10 09:31:06
-104	0x68	h	26542	753865	pol	Nie wiedziałeś wtedy, że wyjechał za granicę?	zipangu	2011-02-13 13:00:28	2011-02-13 13:00:28
-105	0x69	i	287105	10667240	pol	Może mi Pan nie wierzyć, ale naprawdę nie znam żadnego człowieka imieniem Tom.	igxr	2022-02-09 21:44:28	2022-02-09 21:44:28
-106	0x6a	j	85961	969094	pol	Kot jest czarny.	zipangu	2011-07-01 03:48:53	2011-07-01 03:48:53
-107	0x6b	k	88996	989359	pol	To trochę potrwa, ale w końcu damy radę to odtworzyć.	zipangu	2011-07-14 01:53:46	2011-07-14 01:53:46
-108	0x6c	l	58839	6157665	pol	Nie wiem dlaczego go nie lubisz.	arie	2017-07-14 15:38:37	2017-07-14 15:38:37
-109	0x6d	m	135064	405640	pol	Jestem Francuzem.	zipangu	2010-06-16 03:35:35	2010-06-16 03:35:35
-110	0x6e	n	154020	362067	pol	Powinniśmy pracować na rzecz pokoju.	zipangu	2010-02-11 18:22:18	2010-02-11 18:22:18
-111	0x6f	o	256885	731881	pol	On co roku jeździ na narty na Hokkaido.	zipangu	2011-01-29 02:59:31	2011-01-29 02:59:31
-112	0x70	p	87784	3502594	pol	Tom pił, ale nie jest pijany.	jeedrek	2014-09-18 13:17:44	2014-09-18 13:17:44
-113	0x71	q	11	773278	pol	Odpowiedzi na ten quiz były dla niego łatwe.	zipangu	2011-02-28 02:45:42	2011-02-28 02:45:42
-114	0x72	r	121479	6316983	pol	Rura ściekowa jest zablokowana.	arie	2017-09-20 12:54:08	2017-09-20 12:54:08
-115	0x73	s	149550	709415	pol	Proszę wypełnić formularz długopisem.	zipangu	2011-01-13 00:59:41	2011-01-13 00:59:41
-116	0x74	t	124705	416440	pol	Podobno jest winien, ale ja jestem przeciwnego zdania.	zipangu	2010-07-01 13:52:31	2010-07-01 13:52:31
-117	0x75	u	71636	837906	pol	Przepraszam, ale chciałbym mu to zakomunikować osobiście.	zipangu	2011-04-14 15:13:39	2011-04-14 15:13:39
-118	0x76	v	132	2587061	pol	Olivier grał rolę Hamleta.	Mar	2013-07-12 19:23:56	2013-07-12 19:23:56
-119	0x77	w	116734	575103	pol	Zrobili się nerwowi.	lukaszpp	2010-10-20 10:08:07	2010-10-20 10:08:07
-120	0x78	x	54	753800	pol	Uplasowaliśmy się z nimi ex aequo na pierwszym miejscu.	zipangu	2011-02-13 12:23:55	2011-02-13 12:23:55
-121	0x79	y	130293	4482487	pol	Niektóre błędy zostały poprawione.	Detharon	2015-08-31 10:32:27	2015-08-31 10:32:27
-122	0x7a	z	196170	645923	pol	Twój zegarek jest lepszej jakości niż mój.	zipangu	2010-12-03 17:55:06	2010-12-03 17:55:06
+96	0x60	`	2	735590	pol	Te buty są za ciasne, by je nosić.`	zipangu	2011-01-31 23:10:34	2011-01-31 23:10:34
+97	0x61	a	280702	4734400	pol	Chcę się nauczyć tysiąc nowych niemieckich słów w miesiąc.	Tomash	2015-11-29 14:24:53	2015-11-29 14:24:53
+98	0x62	b	57317	349480	pol	W tym muzeum jest podobno jeden obraz Picassa i dwa Renoira.	zipangu	2010-01-15 18:52:10	2010-01-15 18:52:18
+99	0x63	c	112372	2403046	pol	Słuchałeś wczoraj radia?	procroco	2013-04-25 22:02:40	2013-04-25 22:02:40
+100	0x64	d	110563	440643	pol	Pojechał do Szwajcarii.	zipangu	2010-07-28 01:07:50	2010-07-28 01:07:50
+101	0x65	e	288519	925832	pol	Grusza w ogrodzie obrodziła.	zipangu	2011-06-06 00:11:31	2011-06-06 00:11:31
+102	0x66	f	5226	1046556	pol	Kupię forda.	Larin	2011-08-16 10:32:08	2011-08-16 10:32:08
+103	0x67	g	42868	10568103	pol	Nikt nie lubi tego robić.	antio	2021-12-17 20:30:04	2021-12-17 20:30:04
+104	0x68	h	26560	352724	pol	W VII wieku matematyk indyjski Brahmagupta znalazł najmniejsze rozwiązanie równania x²-92y²=1 w liczbach całkowitych.	zipangu	2010-01-25 20:32:57	2010-01-25 20:32:57
+105	0x69	i	287228	1615099	pol	Kiedy się ogląda telewizję albo słucha radia, muzyka, którą słyszymy, jest często pochodzenia afrykańskiego.	zipangu	2012-06-09 00:08:37	2012-06-09 00:08:37
+106	0x6a	j	86014	1045433	pol	Czego dokładnie ode mnie oczekujesz?	yessoos	2011-08-15 19:14:31	2011-08-15 19:14:31
+107	0x6b	k	89034	8493067	pol	Napisałem tę książkę.	nusia2302	2020-01-27 08:20:48	2020-01-27 08:20:48
+108	0x6c	l	58866	8970488	pol	Czuję się bardzo źle.	nusia2302	2020-08-11 15:22:09	2020-08-11 15:22:09
+109	0x6d	m	135117	368992	pol	Jestem zmęczony po pracy.	zipangu	2010-03-05 04:33:46	2010-03-05 04:33:46
+110	0x6e	n	154089	606070	pol	Miała czas na swoją ulubioną rozrywkę.	zipangu	2010-11-07 04:01:03	2010-11-07 04:01:03
+111	0x6f	o	256987	2024700	pol	Moimi głównymi punktami zainteresowania są: programowanie w Pythonie, medycyna, matematyka i gry komputerowe.	dryhay	2012-11-20 17:53:35	2012-11-20 17:53:35
+112	0x70	p	87823	369029	pol	On jest bogaty, a co jeszcze lepsze, jest niezwykle uprzejmy.	zipangu	2010-03-05 04:50:19	2010-03-05 04:50:19
+113	0x71	q	11	6305749	pol	Dr Sadiq znalazł arszenik w wymiocinach Layli.	fau	2017-09-13 22:27:43	2017-09-13 22:27:43
+114	0x72	r	121526	606055	pol	Zróbcie mu przejazd.	zipangu	2010-11-07 03:55:52	2010-11-07 03:55:52
+115	0x73	s	149645	2671592	pol	Kochasz ją?	Hikaru	2013-08-12 20:33:07	2013-08-12 20:33:07
+116	0x74	t	124764	924476	pol	Zbierają datki na kościół.	zipangu	2011-06-05 03:27:34	2011-06-05 03:27:34
+117	0x75	u	71676	3710432	pol	Zginął w wypadku samochodowym.	Siganiv	2014-12-26 02:32:26	2014-12-26 02:32:26
+118	0x76	v	132	348639	pol	On wystąpił w dubbingu do „Avatara”.	zipangu	2010-01-12 16:27:14	2010-01-12 16:27:14
+119	0x77	w	116798	3887764	pol	Tom jest najstarszym uczniem w naszej klasie.	jeedrek	2015-02-22 20:55:26	2015-02-22 20:55:26
+120	0x78	x	54	1459952	pol	Daleko zaszliśmy, Ameryko. Wiele widzieliśmy, lecz wiele jeszcze pozostało do zrobienia. Zadajmy więc sobie dziś pytanie: jeśli nasze dzieci dożyją do następnego stulecia, jeśli moje córki będą miały szczęście żyć tak długo jak Ann Nixon Cooper, to jakie zmiany ujrzą? Jakiego postępu dokonamy?	zipangu	2012-02-28 02:20:21	2012-02-28 02:20:21
+121	0x79	y	130348	4101589	pol	Jeździmy do pracy metrem.	jeedrek	2015-04-23 09:15:45	2015-04-23 09:15:45
+122	0x7a	z	196287	1626378	pol	Czy lubi pan deszcz?	zipangu	2012-06-14 16:50:46	2012-06-14 16:50:46
 124	0x7c	|	1	525696	pol	Potrafię pisać (na maszynie|na komputerze) 50 słów na minutę.	Bilberry	2010-09-22 08:50:23	2010-09-22 08:50:23
-160	0xa0	 	159	10586405	pol	Mary nie potrafi sama zawiązać swoich sznurówek.	antio	2021-12-27 13:25:42	2021-12-27 13:25:42
-171	0xab	«	4	2146109	pol	«Jak nazywa się planeta na której żyjemy?» «Ziemia.»	MarcinF	2013-01-15 18:42:36	2013-01-15 18:42:36
-173	0xad	­	4	10473568	pol	Dlatego możemy przyjmować takie tyl­ko pracownice, które są dostatecznie już przygotowany­mi.	hecko2	2021-10-31 12:45:22	2022-04-27 14:04:45
+160	0xa0	 	159	12069065	pol	Chcę się tylko przespać.	jimbojim	2023-09-21 13:15:03	2023-09-21 13:15:03
+171	0xab	«	4	1057195	pol	Francuskie słowo « amour » pochodzi z oksytańskiego języka przez trubadorzy, jeśli nie byłoby « ameur ».	Batko	2011-08-21 15:33:30	2011-08-21 15:33:30
+173	0xad	­	4	8202134	pol	– Ot, tak – rzekła, powstając z klęczek i twarz zaru­mienioną od rozdmuchiwania płomienia zwracając ku nie­ruchomej kobiecie – rozpaliłam ogień i zaraz tu będzie pani cieplej i widniej.	Shounen	2019-09-22 03:18:36	2021-10-27 11:59:27
 176	0xb0	°	1	484527	pol	Temperatura osiągnęła wczoraj 37°C.	ignacy130	2010-08-28 17:38:48	2010-08-28 17:38:48
-178	0xb2	²	4	3086114	pol	Funkcja f(x) = π² jest funkcją stałą.	jeedrek	2014-03-09 21:45:50	2014-03-09 21:45:50
+178	0xb2	²	4	352724	pol	W VII wieku matematyk indyjski Brahmagupta znalazł najmniejsze rozwiązanie równania x²-92y²=1 w liczbach całkowitych.	zipangu	2010-01-25 20:32:57	2010-01-25 20:32:57
 179	0xb3	³	1	5934308	pol	Rozwiąż równanie sześcienne x³ + 2x² − x − 2 = 0.	qmak	2017-03-10 09:51:25	\N
 183	0xb7	·	1	3743430	pol	Ojcze nasz, któryś jest w niebie·święć się imię Twoje; przyjdź królestwo Twoje;bądź wola Twoja jako w niebie tak i na ziemi; chleba naszego powszedniego daj nam dzisiaj; i odpuść nam nasze winy,jako i my odpuszczamy naszym winowajcom; i nie wódź nas na pokuszenie;ale nas zbaw od złego.Amen.	lato365	2015-01-03 22:53:04	2015-01-03 22:53:04
-187	0xbb	»	4	1057195	pol	Francuskie słowo « amour » pochodzi z oksytańskiego języka przez trubadorzy, jeśli nie byłoby « ameur ».	Batko	2011-08-21 15:33:30	2011-08-21 15:33:30
+187	0xbb	»	4	2146109	pol	«Jak nazywa się planeta na której żyjemy?» «Ziemia.»	MarcinF	2013-01-15 18:42:36	2013-01-15 18:42:36
 193	0xc1	Á	1	7893890	pol	Á propos mieszkań, wiesz może, czy twoi rodzice znaleźli już jakieś nowe lokum?	maria_lysik	2019-05-06 22:32:00	2019-05-06 22:32:00
 201	0xc9	É	1	3616233	pol	Zapomniałem kupić kwiatów dla Évy.	MarekMazurkiewicz	2014-11-09 04:31:30	2014-11-09 04:31:30
-211	0xd3	Ó	3	10279429	pol	Ón chce kupsiécz chléb.	Piteris	2021-09-05 13:32:52	2021-09-05 13:32:52
+211	0xd3	Ó	3	2826473	pol	Ów jest moim dzieckiem.	MarekMazurkiewicz	2013-11-03 01:03:10	2013-11-03 01:03:10
 223	0xdf	ß	1	937244	pol	Klawiatura szwajcarska nie ma litery ß.	zipangu	2011-06-13 04:15:04	2011-06-13 04:15:04
-225	0xe1	á	34	8524726	pol	Ziénksá cénszcz ludżi psise ô swojém codżiénném zÿcziu.	Piteris	2020-02-06 19:46:16	2020-03-21 02:21:37
+225	0xe1	á	34	8524737	pol	Ta szipa brákuje käpsitána.	Piteris	2020-02-06 19:51:37	2020-03-21 02:23:22
 226	0xe2	â	1	5229307	pol	Rumunia po rumuńsku to "România".	Tomash	2016-06-22 07:21:52	2016-06-22 07:21:52
-227	0xe3	ã	2	3430159	pol	Juliana powiedziała mi, że jesteś z São Paulo.	konrad509	2014-08-15 21:44:09	2014-08-15 21:44:09
-228	0xe4	ä	3	12013969	pol	Bziáłkä psije téj z farinó abo niodém.	Piteris	2023-08-24 16:03:04	2023-08-24 16:03:04
+227	0xe3	ã	2	2248074	pol	Odwiedziliśmy największe muzeum w São Paulo.	mayahueli	2013-02-23 01:28:27	2013-02-23 01:28:27
+228	0xe4	ä	3	8524727	pol	Fejnd mojégo fejnda to je mój kämrat.	Piteris	2020-02-06 19:46:54	2020-03-21 02:21:52
 231	0xe7	ç	4	921647	pol	Timuçin poleciał z Yozgatu do Warszawy liniami Ryan Air.	zipangu	2011-06-03 00:05:45	2011-06-03 00:05:45
-232	0xe8	è	3	6170146	pol	Tom spoczywa na cmentarzu Père-Lachaise w Paryżu.	Annika	2017-07-29 20:39:42	2017-07-29 20:39:42
+232	0xe8	è	3	352142	pol	O szczegóły proszę pytać p. Gisèle.	zipangu	2010-01-23 22:12:51	2011-06-24 18:43:27
 233	0xe9	é	43	10279010	pol	Nágorsó tejló zÿcziá je to, co zawdi muszis robziécz rżecÿ, chtórnéch nie lubzis.	Piteris	2021-09-05 10:45:20	2021-09-05 10:45:20
 234	0xea	ê	1	2219536	pol	Mam przyjaciółkę Wietnamkę. Ma na imię Tiên.	DaSA	2013-02-13 17:28:52	2018-07-14 22:25:22
 235	0xeb	ë	2	10466096	pol	Według powieści „Agnes Gray” Anne Brontë uważano, że nazywanie konia klaczą jest niestosowne dla dam.	Shounen	2021-10-28 14:01:37	2021-10-28 14:01:37
-237	0xed	í	6	3545545	pol	Bríd ma pieniądze.	sensitivecherry	2014-10-08 01:01:38	2014-10-08 01:01:38
+237	0xed	í	6	956780	pol	María – oto moje imię.	zipangu	2011-06-25 02:17:19	2011-06-25 02:17:19
 241	0xf1	ñ	1	506819	pol	"Krew na piasku" to tytuł noweli Blasco Ibáñeza.	lukaszpp	2010-09-10 16:12:55	2010-09-10 16:12:55
-243	0xf3	ó	24894	956829	pol	Ci dwaj bracia zupełnie różnią się wyglądem.	zipangu	2011-06-25 02:34:22	2011-06-25 02:34:22
-244	0xf4	ô	6	8524726	pol	Ziénksá cénszcz ludżi psise ô swojém codżiénném zÿcziu.	Piteris	2020-02-06 19:46:16	2020-03-21 02:21:37
-246	0xf6	ö	4	566304	pol	Jak się pisze "Eyjafjallajökull"?	zipangu	2010-10-14 21:41:48	2010-10-14 21:41:48
+243	0xf3	ó	24900	544983	pol	Czy pójdziesz na imprezę zamiast mnie?	Bilberry	2010-10-04 11:59:54	2010-10-04 11:59:54
+244	0xf4	ô	6	10279083	pol	Choc sziła ludżiów dumá, co to je ôtréntne, zamiszlam dżisziá zjeszcz skwarżónó wóntróbkie.	Piteris	2021-09-05 11:10:52	2021-09-05 11:10:52
+246	0xf6	ö	4	7184640	pol	Kot Schrödingera jest żywy czy martwy?	arie	2018-09-19 08:14:05	2018-09-19 08:14:05
 248	0xf8	ø	1	12041908	pol	Jørgen uczy się greckiego.	DzWnG	2023-09-07 07:06:14	2023-09-07 07:06:14
 250	0xfa	ú	1	5604165	pol	Nezamestnanosť vo Francúzsku je vyššia ako kedy predtým.	tinnatay	2016-11-13 11:06:43	2016-11-13 11:06:58
 251	0xfb	û	1	10279143	pol	Já szie ûczióngnół w gumnie kole Bostónu.	Piteris	2021-09-05 11:31:57	2021-09-08 15:02:49
-252	0xfc	ü	3	674749	pol	W 1970r. Rada Cenzorów stanu Ontario zakazała wyświetlania filmu, na podstawie noweil Güntera Grassa, "The Drum Tin". Mimo to, media uznały ten pomysł za głupi, a stacja CBC (Canadian Broadcasting Corporation) w wieczornym wydaniu krajowych wiadomości wyemitowała ocenzurowaną scenę.	yessoos	2010-12-19 17:07:47	2010-12-19 17:12:57
+252	0xfc	ü	3	510084	pol	Do języków sztucznych należą esperanto, ido, interlingua, klingoński, lojban, na'vi i volapük.	zipangu	2010-09-13 00:15:05	2010-09-13 00:15:05
 253	0xfd	ý	1	5604165	pol	Nezamestnanosť vo Francúzsku je vyššia ako kedy predtým.	tinnatay	2016-11-13 11:06:43	2016-11-13 11:06:58
-255	0xff	ÿ	11	10278927	pol	Na balkóngu lezÿ stari, niebrukowanÿ blumtop i giskán.	Piteris	2021-09-05 09:59:52	2021-09-05 09:59:52
-261	0x105	ą	32235	367819	pol	Grupa młodzieży gra w piłkę ręczną na boisku.	zipangu	2010-02-27 04:34:56	2010-02-27 04:34:56
-262	0x106	Ć	24	10534101	pol	Ćwicz w plenerze.	hecko	2021-11-28 15:23:44	2021-11-28 15:23:44
-263	0x107	ć	27372	749447	pol	Czy nie chcesz wejść?	fialastelo	2011-02-10 10:44:47	2011-12-16 01:33:46
+255	0xff	ÿ	11	10279010	pol	Nágorsó tejló zÿcziá je to, co zawdi muszis robziécz rżecÿ, chtórnéch nie lubzis.	Piteris	2021-09-05 10:45:20	2021-09-05 10:45:20
+261	0x105	ą	32253	4327974	pol	Te drzwi otwierają się tylko od zewnątrz.	Rudzielec	2015-07-02 13:54:29	2015-07-02 13:54:29
+262	0x106	Ć	24	8166125	pol	Ćwiczenia są proste i skuteczne.	qmak	2019-09-05 09:34:02	2019-09-05 09:34:02
+263	0x107	ć	27389	361850	pol	Nie będę w stanie zabrać Shigemi z przedszkola.	zipangu	2010-02-11 16:03:23	2010-02-11 16:03:23
 265	0x109	ĉ	1	980636	pol	Alfabet esperanto składa się z 28 liter: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	silvermane	2011-07-07 22:19:35	2011-07-07 22:19:58
 268	0x10c	Č	1	5229190	pol	Republika Czeska po czesku nazywa się "Česká republika".	Tomash	2016-06-22 06:41:57	2016-06-22 06:41:57
-281	0x119	ę	60124	737219	pol	Proszę się rozłączyć i zaczekać chwileczkę.	zipangu	2011-02-02 02:20:25	2011-02-02 02:20:25
+281	0x119	ę	60160	7886517	pol	Test nowego silnika odbędzie się dzisiaj.	grunermann	2019-05-03 22:51:09	2019-05-03 22:51:09
 285	0x11d	ĝ	1	980636	pol	Alfabet esperanto składa się z 28 liter: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	silvermane	2011-07-07 22:19:35	2011-07-07 22:19:58
 293	0x125	ĥ	1	980636	pol	Alfabet esperanto składa się z 28 liter: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	silvermane	2011-07-07 22:19:35	2011-07-07 22:19:58
 305	0x131	ı	2	5079161	pol	O kıvrak zekalı.	duran	2016-04-23 06:03:50	2016-04-23 06:03:50
 309	0x135	ĵ	1	980636	pol	Alfabet esperanto składa się z 28 liter: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	silvermane	2011-07-07 22:19:35	2011-07-07 22:19:58
-321	0x141	Ł	156	722267	pol	Łódka zatonęła w czasie burzy.	zipangu	2011-01-23 02:18:50	2011-01-23 02:18:50
-322	0x142	ł	77192	8727133	pol	Mój przyjaciel był w grupie aktorskiej.	nusia2302	2020-04-30 05:23:49	2020-04-30 05:23:49
-324	0x144	ń	5190	1349111	pol	Studiuję na Uniwersytecie Londyńskim.	Ollie1337	2012-01-09 23:04:10	2012-01-09 23:04:10
-333	0x14d	ō	2	348984	pol	Studiuję na uniwersytecie Hyōgo.	zipangu	2010-01-14 16:00:49	2010-01-14 16:00:49
-346	0x15a	Ś	445	5660092	pol	Śpiewaj nadal.	machmet	2016-12-05 10:44:56	2016-12-05 10:44:56
-347	0x15b	ś	31560	461119	pol	Jeśli będziesz naprawdę ciężko pracował, zrealizujesz marzenie o zostaniu baseballistą.	zipangu	2010-08-12 22:18:15	2010-08-12 22:18:15
+321	0x141	Ł	156	6067364	pol	Ładna pogoda prawda?	qmak	2017-05-10 07:14:44	\N
+322	0x142	ł	77232	6546524	pol	Tak się właśnie zaczęło.	arie	2017-12-08 15:45:25	2017-12-08 15:45:25
+324	0x144	ń	5191	840214	pol	Nie ma czegoś tańszego?	zipangu	2011-04-16 08:42:09	2011-04-16 08:42:09
+333	0x14d	ō	2	3683895	pol	Ile skał można zobaczyć przy Ryōan-ji?	Spodnie	2014-12-09 19:22:54	2014-12-09 19:22:54
+346	0x15a	Ś	446	2274593	pol	Śmierć jest nieunikniona.	MarekMazurkiewicz	2013-03-01 19:52:00	2013-03-01 19:52:00
+347	0x15b	ś	31583	832574	pol	Mógłby mi pan to zanieść na drugie piętro?	zipangu	2011-04-10 15:29:51	2011-04-10 15:29:51
 349	0x15d	ŝ	1	980636	pol	Alfabet esperanto składa się z 28 liter: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	silvermane	2011-07-07 22:19:35	2011-07-07 22:19:58
 351	0x15f	ş	1	921422	pol	W szkole Magdaleny jest Turczynka. Ma na imię Reşit.	zipangu	2011-06-02 22:02:30	2011-06-02 22:02:30
 353	0x161	š	3	5604165	pol	Nezamestnanosť vo Francúzsku je vyššia ako kedy predtým.	tinnatay	2016-11-13 11:06:43	2016-11-13 11:06:58
 357	0x165	ť	1	5604165	pol	Nezamestnanosť vo Francúzsku je vyššia ako kedy predtým.	tinnatay	2016-11-13 11:06:43	2016-11-13 11:06:58
 365	0x16d	ŭ	1	980636	pol	Alfabet esperanto składa się z 28 liter: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	silvermane	2011-07-07 22:19:35	2011-07-07 22:19:58
-377	0x179	Ź	31	5221603	pol	Źle Cię osądziłem.	konrad509	2016-06-18 11:04:12	2016-06-18 11:04:12
-378	0x17a	ź	3673	2788029	pol	Bądź ostrożny gdy będziesz mówił z Tomem.	MarekMazurkiewicz	2013-10-13 02:18:21	2013-10-13 02:18:21
-379	0x17b	Ż	501	3457498	pol	Żaden baseballista nie był aż tak ubóstwiany.	Siganiv	2014-08-28 16:35:26	2014-08-28 16:35:26
-380	0x17c	ż	33703	8205642	pol	Książka może zmienić twoje życie.	Balamax	2019-09-23 19:21:39	2019-09-23 19:21:39
+377	0x179	Ź	31	2975236	pol	Źle mi idzie z angielskiego.	Blue_Lou	2014-01-10 17:37:04	2014-01-10 17:37:04
+378	0x17a	ź	3682	3450849	pol	Dostałeś odpowiedź od Toma?	Hikaru	2014-08-24 00:06:01	2014-08-24 00:06:01
+379	0x17b	Ż	501	11305525	pol	Życie to nie bajka.	carlosalberto	2022-12-07 20:03:10	2022-12-07 20:03:10
+380	0x17c	ż	33716	10699594	pol	Mężczyzna właśnie wrócił z odwiedzin w Europie.	vxern	2022-03-02 12:38:02	2022-03-02 12:38:02
 960	0x3c0	π	1	3086114	pol	Funkcja f(x) = π² jest funkcją stałą.	jeedrek	2014-03-09 21:45:50	2014-03-09 21:45:50
 1077	0x435	е	1	10072386	pol	Dobrze was znowu widziеć.	NiklausRupail	2021-05-29 15:54:37	2021-05-29 15:54:37
 7815	0x1e87	ẇ	1	12036593	pol	Algieria potrzebuje miejsc pracy ẇ przemyśle wytwórczym.	jimbojim	2023-09-04 13:19:51	2023-09-04 13:19:51
 8201	0x2009	 	1	921726	pol	„Metroid Prime 3 : Corruption” to gra komputerowa od Nintendo sprzedawana wyłącznie na Wii.	zipangu	2011-06-03 00:36:47	2011-06-03 00:36:47
-8203	0x200b	​	52	8213752	pol	Nie miałem pojęcia, że ​​Tom i Mary planują to zrobić.	arie	2019-09-27 13:27:29	2019-09-27 13:27:29
-8211	0x2013	–	55	6305426	pol	„Kto chce być czytanym, powinien pisać po angielsku” – coraz więcej ludzi podziela te bardzo wątpliwe zdanie.	fau	2017-09-13 19:51:40	2017-09-13 19:51:40
+8203	0x200b	​	52	7960872	pol	Mary powiedziała, że ​​strasznie się przeziębiła.	arie	2019-06-06 09:36:33	2019-06-06 09:36:33
+8211	0x2013	–	58	1359969	pol	Jego ojciec nie przyjdzie – jest bardzo zajęty.	starzykj	2012-01-14 05:25:41	2012-01-14 05:25:41
 8212	0x2014	—	8	3057444	pol	Gdzie są dzieci? — Sądzę że są w ogrodzie.	camilozeta	2014-02-19 22:22:51	2014-02-19 22:22:51
 8217	0x2019	’	2	1361834	pol	Ray byl gotów potwierdzić wersje Gary’ego, ale policja ciągle nie była przekonana czy którykolwiek z nich mówi prawdę.	starzykj	2012-01-15 02:02:01	2012-01-15 02:02:01
-8220	0x201c	“	6	4408610	pol	„Który bank jest godny zaufania?“ - „Żaden.“	Baakamono	2015-07-26 12:27:46	2015-07-26 12:27:46
-8221	0x201d	”	361	722403	pol	Jak jest po angielsku „yuri”?	zipangu	2011-01-23 03:06:37	2011-01-23 03:06:37
-8222	0x201e	„	367	970758	pol	Czasownik „kochać” bardzo trudno się odmienia: czas przeszły nigdy nie jest prosty, teraźniejszy jest wyłącznie oznajmujący, a przyszły jest zawsze warunkowy.	zipangu	2011-07-02 02:38:38	2011-07-02 02:38:38
-8230	0x2026	…	5	601651	pol	Jak powiedzieć …?	buari	2010-11-04 12:50:26	2010-11-04 12:50:26
+8220	0x201c	“	6	4408611	pol	„Któremu bankowi można ufać?“ - „Żadnemu.“	Baakamono	2015-07-26 12:28:14	2015-07-26 12:28:14
+8221	0x201d	”	363	734157	pol	To, co mówisz, znaczy „nie”, prawda?	zipangu	2011-01-30 23:33:53	2011-01-30 23:33:53
+8222	0x201e	„	369	3749552	pol	Kliknij przycisk „Zapisz”, aby rozpocząć pobieranie.	Siganiv	2015-01-06 22:32:09	2015-01-06 22:32:09
+8230	0x2026	…	5	8095893	pol	Szczerze…	Ptr	2019-08-07 16:09:55	2019-08-07 16:09:55
 8356	0x20a4	₤	1	3101201	pol	Dawną walutą Włoch był lir o symbolu "₤". Nie ma on związku z lirą turecką.	cvbge	2014-03-17 06:49:01	2014-10-24 22:00:19
-8364	0x20ac	€	4	3545471	pol	To będzie kosztowało €30 .	sensitivecherry	2014-10-08 00:31:17	2014-10-08 00:31:17
+8364	0x20ac	€	4	674697	pol	Musiałem zapłacić €100 za kupno swojego komputera.	yessoos	2010-12-19 16:35:47	2010-12-19 16:35:47
 8371	0x20b3	₳	1	706837	pol	Poprzednią walutą Argentyny był austral. Miał symbol „₳”.	zipangu	2011-01-11 00:15:04	2011-01-11 00:15:04
 8722	0x2212	−	2	5934308	pol	Rozwiąż równanie sześcienne x³ + 2x² − x − 2 = 0.	qmak	2017-03-10 09:51:25	\N
 65293	0xff0d	－	2	3703884	pol	－ Umiesz gotować? － Umieć - umiem, ale nie obiecuję, że będzie smakowało.	Spodnie	2014-12-21 16:23:47	2014-12-21 16:24:15

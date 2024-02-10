@@ -1,79 +1,79 @@
-32	0x20	 	14955	9518864	frr	Wiis sa gur en sii mi, hur Tom es.	Taam	2020-12-22 08:20:31	2020-12-22 08:20:31
-33	0x21	!	174	9191508	frr	I luki mi bluat om. Fuul Toonk!	eydemidov	2020-10-25 19:09:13	2020-10-25 19:09:13
-34	0x22	"	44	9512790	frr	"Fuul Toonk!" - "Hat wiar mi en Plesiir."	Taam	2020-12-21 13:28:37	2020-12-21 13:28:37
-39	0x27	'	65	9508214	frr	Nem't di ek sa tö Harten.	Taam	2020-12-20 15:53:39	2020-12-20 15:53:39
-44	0x2c	,	587	8695509	frr	Tom en ik, wü wel biiring, dat dü lekelk best.	Taam	2020-04-20 09:10:20	2020-04-20 09:10:20
-45	0x2d	-	14	9506581	frr	Dit wiar en ünauriitelk Erfēring-s.	Taam	2020-12-20 11:55:46	2020-12-20 11:55:46
-46	0x2e	.	2349	9514201	frr	Wat haa di biiring sen.	Taam	2020-12-21 16:50:44	2020-12-21 16:50:44
+32	0x20	 	14955	9513876	frr	Min Aloosji es önsteken.	Taam	2020-12-21 16:12:34	2020-12-21 16:12:34
+33	0x21	!	174	9191235	frr	Wiis sa gur en bliiv stuun!	eydemidov	2020-10-25 19:01:12	2020-10-25 19:01:12
+34	0x22	"	44	9511215	frr	"Dü heest en Hol ön di Jeans." - "Jaa, ik weet. Di haa ik jaa sa koopet."	Taam	2020-12-21 08:06:03	2020-12-21 08:06:03
+39	0x27	'	65	9513035	frr	Bihual biir Hunen bi't Stjüürweel.	Taam	2020-12-21 14:00:19	2020-12-21 14:00:19
+44	0x2c	,	587	9524005	frr	Üüs Wininger sen ek techt, hat trekt langsen.	Taam	2020-12-22 21:04:08	2020-12-22 21:04:08
+45	0x2d	-	14	9191176	frr	Sa es-t sken.	eydemidov	2020-10-25 18:59:30	2020-10-25 18:59:30
+46	0x2e	.	2349	8677312	frr	Hat wiar forleeren Week.	Taam	2020-04-13 13:39:41	2020-04-13 13:39:41
 47	0x2f	/	1	9191120	frr	Jü heer höm en Aloosji dön / Jü heer höm en Orloosji dön	eydemidov	2020-10-25 18:57:57	2020-10-25 18:57:57
-48	0x30	0	6	12015208	frr	Uun't ääler faan 19 juaren treed hi uun Janewoore 1910 iin uun det Keiserelk Tjiisk Mariin iin an bleew do tu Jüüne 1912.	FerringS	2023-08-25 11:50:33	2023-08-25 11:50:33
+48	0x30	0	6	12015197	frr	Friedrichs wurd de 2. Nofember 1890 üüb Haliglun bäären.	FerringS	2023-08-25 11:45:29	2023-08-25 11:45:29
 49	0x31	1	10	12015208	frr	Uun't ääler faan 19 juaren treed hi uun Janewoore 1910 iin uun det Keiserelk Tjiisk Mariin iin an bleew do tu Jüüne 1912.	FerringS	2023-08-25 11:50:33	2023-08-25 11:50:33
-50	0x32	2	4	12015210	frr	De 29. Oktuuber 1919 freid hi Tina Therese Bartz, diar uk faan Haliglun kaam.	FerringS	2023-08-25 11:52:03	2023-08-25 11:52:03
+50	0x32	2	4	9506195	frr	Tom aarbert al 25 Jaaren ön disalev Fabrik.	Taam	2020-12-20 10:19:20	2020-12-20 10:19:20
 51	0x33	3	2	12015192	frr	Amanbi 3.000 mensken snaake fering, feraal üüb Waasterlun-Feer.	FerringS	2023-08-25 11:41:06	2023-08-25 11:41:06
 53	0x35	5	1	9506195	frr	Tom aarbert al 25 Jaaren ön disalev Fabrik.	Taam	2020-12-20 10:19:20	2020-12-20 10:19:20
-56	0x38	8	3	12015202	frr	Trii muuner föör sin gebuurt wurd at eilun tjiisk efter 83 juaren faan britisk reegiment.	FerringS	2023-08-25 11:47:04	2023-08-25 11:47:04
-57	0x39	9	7	12015210	frr	De 29. Oktuuber 1919 freid hi Tina Therese Bartz, diar uk faan Haliglun kaam.	FerringS	2023-08-25 11:52:03	2023-08-25 11:52:03
-58	0x3a	:	3	9509672	frr	Em jert aaft sii: Wat di Tir forgair!	Taam	2020-12-20 20:54:20	2020-12-20 20:54:20
-59	0x3b	;	7	9511372	frr	Maria heer niin Kööter; jü heer en Katji.	Taam	2020-12-21 09:00:31	2020-12-21 09:00:31
-63	0x3f	?	536	8685347	frr	Heest me höm diaraur snaket?	Taam	2020-04-16 09:39:18	2020-04-16 09:39:18
-65	0x41	A	106	12012847	frr	At tjocht ham en brek uun.	FerringS	2023-08-24 07:02:24	2023-08-24 07:02:24
-66	0x42	B	281	9511169	frr	Min Hüs es man fif Minüten tö Fut fan di Baanstair.	Taam	2020-12-21 07:49:48	2020-12-21 07:49:48
+56	0x38	8	3	12015197	frr	Friedrichs wurd de 2. Nofember 1890 üüb Haliglun bäären.	FerringS	2023-08-25 11:45:29	2023-08-25 11:45:29
+57	0x39	9	7	12015208	frr	Uun't ääler faan 19 juaren treed hi uun Janewoore 1910 iin uun det Keiserelk Tjiisk Mariin iin an bleew do tu Jüüne 1912.	FerringS	2023-08-25 11:50:33	2023-08-25 11:50:33
+58	0x3a	:	3	9525135	frr	Di Tiitel fan dit Bok wiar: "Me Buat üp di wilj See".	Taam	2020-12-23 08:10:10	2020-12-23 12:38:09
+59	0x3b	;	7	9518814	frr	Di Mensk ken dö, wat hi wel; man hi ken ek wel, wat hi wel.	Taam	2020-12-22 08:01:33	2020-12-22 08:01:33
+63	0x3f	?	536	9511200	frr	Huraur gairst dü ek üt?	Taam	2020-12-21 08:00:32	2020-12-21 08:00:32
+65	0x41	A	106	9191030	frr	Ali luki tö höm āp	eydemidov	2020-10-25 18:55:20	2020-10-25 18:55:20
+66	0x42	B	281	9522909	frr	Biiring wiar mi min Fuarslach iinforstönen.	Taam	2020-12-22 19:06:27	2020-12-22 19:06:27
 67	0x43	C	2	9512836	frr	Wü sen forleeren Somer fan Chicago tö Boston tain.	Taam	2020-12-21 13:34:05	2020-12-21 13:34:05
-68	0x44	D	607	9507105	frr	Di Skuulers protestiari töögen di ünfair Proowing.	Taam	2020-12-20 13:23:52	2020-12-20 13:23:52
-69	0x45	E	104	9513753	frr	Es jü töfreer?	Taam	2020-12-21 15:27:01	2020-12-21 15:27:01
-70	0x46	F	258	9191406	frr	Fortel niin Löögen!	eydemidov	2020-10-25 19:06:23	2020-10-25 19:06:23
-71	0x47	G	85	11883980	frr	Ik sen iin ön di Garaasj fan Ken gingen.	Taam	2023-06-28 07:34:35	2023-06-28 07:34:35
-72	0x48	H	659	12012940	frr	Huar gingst dü hen?	FerringS	2023-08-24 07:18:12	2023-08-24 07:18:12
-73	0x49	I	670	12012890	frr	Ik haa brükt.	FerringS	2023-08-24 07:09:21	2023-08-24 07:09:21
-74	0x4a	J	336	9509116	frr	Jaar Seen jit John.	Taam	2020-12-20 18:41:21	2020-12-20 18:41:21
-75	0x4b	K	219	9511423	frr	Maatst dü lewer en Kop Kofi of en Kop Tee?	Taam	2020-12-21 09:09:49	2020-12-21 09:09:49
-76	0x4c	L	154	9191350	frr	Let et mi forsjuk	eydemidov	2020-10-25 19:04:45	2020-10-25 19:04:45
-77	0x4d	M	420	9512959	frr	Tom aurjeet oler, sin Mooter tö höör Bērensdai öntöröpen.	Taam	2020-12-21 13:50:56	2020-12-21 13:50:56
-78	0x4e	N	93	9522092	frr	Nemen halt di āp.	Taam	2020-12-22 17:48:00	2020-12-22 17:48:00
-79	0x4f	O	35	12015210	frr	De 29. Oktuuber 1919 freid hi Tina Therese Bartz, diar uk faan Haliglun kaam.	FerringS	2023-08-25 11:52:03	2023-08-25 11:52:03
-80	0x50	P	77	8694425	frr	Heest fan Tom niin Postkaart fingen?	Taam	2020-04-20 00:02:27	2020-04-20 00:02:27
-82	0x52	R	88	9510965	frr	Sin nii Romaan kumt naist Muun üt.	Taam	2020-12-21 06:04:55	2020-12-21 06:04:55
-83	0x53	S	384	9512927	frr	Des Stat es kuul en iinsom söner di.	Taam	2020-12-21 13:47:00	2020-12-21 13:47:00
-84	0x54	T	577	9511260	frr	Ik haa me Tom al rocht lung ek muar snaket.	Taam	2020-12-21 08:21:46	2020-12-21 08:21:46
-85	0x55	U	51	9509502	frr	Dü kenst niin Uurt diarfan liiv.	Taam	2020-12-20 20:31:04	2020-12-20 20:31:04
+68	0x44	D	607	9191161	frr	Dö mi din Jil.	eydemidov	2020-10-25 18:59:06	2020-10-25 18:59:06
+69	0x45	E	104	9506245	frr	Esperanto es töolerjest en Frinjskepsspraak.	Taam	2020-12-20 10:32:43	2020-12-20 10:32:59
+70	0x46	F	258	9191105	frr	Harki üp din Faađer!	eydemidov	2020-10-25 18:57:31	2020-10-25 18:57:31
+71	0x47	G	85	9506986	frr	Heest dü en Giweeten?	Taam	2020-12-20 13:06:16	2020-12-20 13:06:16
+72	0x48	H	659	9191463	frr	Hur es dit naist Kraankenhüs?	eydemidov	2020-10-25 19:07:58	2020-10-25 19:07:58
+73	0x49	I	670	9544843	frr	Ik sen nü din Baas.	Taam	2020-12-26 19:55:09	2020-12-26 19:55:09
+74	0x4a	J	336	9510785	frr	Juu Jungen sen ön Guart.	Taam	2020-12-21 05:04:49	2020-12-21 05:04:49
+75	0x4b	K	219	9510901	frr	Teekeni en litj Kraans.	Taam	2020-12-21 05:49:13	2020-12-21 05:49:13
+76	0x4c	L	154	9505503	frr	Hi heer Spöören fan Lepenstift üp sin Sjaken.	Taam	2020-12-20 06:20:01	2020-12-20 06:20:24
+77	0x4d	M	420	9518882	frr	Min Bröđer skrualet aaft.	Taam	2020-12-22 08:28:27	2020-12-22 08:28:27
+78	0x4e	N	93	9191420	frr	En Nachtem sjocht ales üđers üt.	eydemidov	2020-10-25 19:06:46	2020-10-25 19:06:46
+79	0x4f	O	35	9510926	frr	Wat Oogklöör heer din Wüf?	Taam	2020-12-21 05:57:35	2020-12-21 05:57:35
+80	0x50	P	77	9511479	frr	Hat jeft hok Probleemen.	Taam	2020-12-21 09:21:06	2020-12-21 09:21:06
+82	0x52	R	88	9512966	frr	Wat jer Rocht wiar, ken deling uk Ünrocht wiis.	Taam	2020-12-21 13:52:12	2020-12-21 13:52:12
+83	0x53	S	384	9191267	frr	Wü haa dit Spöl wonen.	eydemidov	2020-10-25 19:02:07	2020-10-25 19:02:07
+84	0x54	T	577	9506051	frr	Weet i, hurom Tom jüster ek töstair wiar?	Taam	2020-12-20 09:33:37	2020-12-20 09:33:37
+85	0x55	U	51	8739268	frr	Ik sjuk fortwiiwelt en Uuning ön di Benenstat.	Taam	2020-05-05 13:38:03	2020-05-05 13:38:03
 86	0x56	V	1	8694624	frr	Höör Bröđer luket langsen TV.	Taam	2020-04-20 00:21:52	2020-04-20 00:21:52
-87	0x57	W	477	9511118	frr	Wü sen Klok aacht āpstönen.	Taam	2020-12-21 07:34:34	2020-12-21 07:34:34
+87	0x57	W	477	8690784	frr	Di Wuuger ön't ual Hüs wiar ek lik.	Taam	2020-04-18 15:46:36	2020-04-18 15:46:36
 90	0x5a	Z	1	11598889	frr	Ziri ging tö Bēr.	Amastan	2023-03-16 08:26:05	2023-03-16 08:26:05
-97	0x61	a	5634	9513781	frr	Wiis sa gur en krütsi di rocht Swaar ön.	Taam	2020-12-21 15:35:47	2020-12-21 15:35:47
-98	0x62	b	641	9511141	frr	Dit kumt bi üüs langsen weđer fuar.	Taam	2020-12-21 07:43:27	2020-12-21 07:43:27
-99	0x63	c	373	9191019	frr	En hat jeft ek jens noch Weeter	eydemidov	2020-10-25 18:55:00	2020-10-25 18:55:00
-100	0x64	d	1809	9513448	frr	Wat maakest dü nü?	Taam	2020-12-21 14:51:50	2020-12-21 14:51:50
-101	0x65	e	8082	9511101	frr	Hi heer mi me min litj Bröđer forwekselt.	Taam	2020-12-21 07:29:28	2020-12-21 07:29:28
-102	0x66	f	968	9511187	frr	Hi es al tö fiir wech, om üüs tö hiiren.	Taam	2020-12-21 07:55:47	2020-12-21 07:55:47
-103	0x67	g	1226	9512825	frr	Ik mai höm ek, aurdat er grögelk es.	Taam	2020-12-21 13:32:51	2020-12-21 13:32:51
-104	0x68	h	1603	9512727	frr	Maria heer Tom sair, dat jü liift, dat Johannes niin Hunger heer.	Taam	2020-12-21 13:21:38	2020-12-21 13:21:38
-105	0x69	i	6422	9509161	frr	Hi bifriit höm me Ann.	Taam	2020-12-20 18:54:01	2020-12-20 18:54:01
-106	0x6a	j	834	12014895	frr	Göntje leit uun a jongenswaanj tu gisin.	FerringS	2023-08-25 09:02:12	2023-08-25 09:02:12
-107	0x6b	k	3230	9513734	frr	Hi her en Bok ön Hun.	Taam	2020-12-21 15:23:48	2020-12-21 15:23:48
-108	0x6c	l	2337	9507393	frr	Dit es en dailk Flāg.	Taam	2020-12-20 14:00:57	2020-12-20 14:00:57
-109	0x6d	m	2078	8685338	frr	Tom es tö niisgirig.	Taam	2020-04-16 09:36:12	2020-04-16 09:36:12
-110	0x6e	n	5128	9511219	frr	Jü heer ön't Swumbad en Binjhirbolning fingen.	Taam	2020-12-21 08:07:19	2020-12-21 08:07:19
-111	0x6f	o	1867	9191525	frr	Hi sair mi, dat dü rocht herst.	eydemidov	2020-10-25 19:09:42	2020-10-25 19:09:42
-112	0x70	p	562	9507283	frr	Di drunken Man waaket āp en wiar ön't Tochthüs.	Taam	2020-12-20 13:47:00	2020-12-20 13:47:00
-114	0x72	r	4581	9505668	frr	Hi heer höör rat en hual āp me dit Drinken.	Taam	2020-12-20 07:38:08	2020-12-20 07:38:08
-115	0x73	s	3361	9513491	frr	Dit Jungen spölet me sin Baal.	Taam	2020-12-21 14:56:01	2020-12-21 14:56:01
-116	0x74	t	4673	9508684	frr	Wel dit wat aneri, dit tö dön?	Taam	2020-12-20 17:06:41	2020-12-20 17:06:41
-117	0x75	u	2185	8685350	frr	Min litj Helper es glupsk.	Taam	2020-04-16 09:40:13	2020-04-16 09:40:13
-118	0x76	v	133	9518865	frr	Ken ik jü Nacht diarbliiv?	Taam	2020-12-22 08:21:27	2020-12-22 08:21:27
-119	0x77	w	1196	11883917	frr	Tom sair Maria wat, en jü smiilet.	Taam	2023-06-28 07:01:47	2023-06-28 07:01:47
-120	0x78	x	5	9505712	frr	Aafrika exportiaret Nuatmeet tö Euroopa.	Taam	2020-12-20 07:49:51	2020-12-20 07:50:02
-121	0x79	y	24	9508173	frr	Tom spork Mary.	Taam	2020-12-20 15:46:14	2020-12-20 15:46:14
+97	0x61	a	5634	9191100	frr	Ik haa bluat jit jen Fraag tö di	eydemidov	2020-10-25 18:57:22	2020-10-25 18:57:22
+98	0x62	b	641	9518872	frr	Dit Jungen es left bitö't Hüs.	Taam	2020-12-22 08:24:31	2020-12-22 08:24:31
+99	0x63	c	373	8666542	frr	Hat es üngirocht!	Taam	2020-04-09 14:52:07	2020-04-12 15:22:50
+100	0x64	d	1809	9507069	frr	Nemen weet würklich, of dit di Grün wiar.	Taam	2020-12-20 13:18:16	2020-12-20 13:18:16
+101	0x65	e	8082	8693980	frr	Mai ik dit me Tom maaki?	Taam	2020-04-19 22:28:50	2020-04-19 22:28:50
+102	0x66	f	968	9511040	frr	Wü flö üs Fügeler.	Taam	2020-12-21 07:03:39	2020-12-21 07:03:39
+103	0x67	g	1226	12012947	frr	Gung jam al?	FerringS	2023-08-24 07:22:13	2023-08-24 07:22:13
+104	0x68	h	1603	9191157	frr	Hur es di Wiin en hur es dit Biir?	eydemidov	2020-10-25 18:58:59	2020-10-25 18:58:59
+105	0x69	i	6422	12015190	frr	Fering an öömring hiar tu a eilunsfresk spriikwiisen uun Nuurdfresklun.	FerringS	2023-08-25 11:39:56	2023-08-25 11:39:56
+106	0x6a	j	834	9583795	frr	Skiar di Skalot ön litj Steken en braari dit Meet.	Taam	2021-01-03 09:44:45	2021-01-03 09:44:45
+107	0x6b	k	3230	8666592	frr	Des Skort es ek fan Ül, man fan Boomel.	Taam	2020-04-09 14:59:22	2020-04-12 15:18:35
+108	0x6c	l	2337	9505790	frr	Japaan es fol fan Aurraskings!	Taam	2020-12-20 08:03:40	2020-12-20 08:03:40
+109	0x6d	m	2078	12012897	frr	Dü heest tjiin minüten teft.	FerringS	2023-08-24 07:11:11	2023-08-24 07:11:11
+110	0x6e	n	5128	8739264	frr	Wan hi wust, dat ik ön di Loterii wonen haa, wil'r mi metjens önröp.	Taam	2020-05-05 13:36:27	2020-05-05 13:36:27
+111	0x6f	o	1867	9513808	frr	Hur es min üđer Sok?	Taam	2020-12-21 15:49:19	2020-12-21 15:49:19
+112	0x70	p	562	9510980	frr	Ik hööpi, dat dit gur gair.	Taam	2020-12-21 06:11:27	2020-12-21 06:11:27
+114	0x72	r	4581	9505694	frr	Dit es üp ark Fal bi di Reeg.	Taam	2020-12-20 07:44:27	2020-12-20 07:44:27
+115	0x73	s	3361	8695544	frr	Tom weet ek, wat er söner Mary maaki skel.	Taam	2020-04-20 09:35:24	2020-04-20 09:35:24
+116	0x74	t	4673	9514170	frr	Dit Hüs staant al lung lerig.	Taam	2020-12-21 16:48:47	2020-12-21 16:48:47
+117	0x75	u	2185	9522772	frr	Wü haa tau Boomer ön Guart.	Taam	2020-12-22 18:56:10	2020-12-22 18:56:10
+118	0x76	v	133	8677366	frr	Ik liiv, Tom heer min Weel steelen.	Taam	2020-04-13 13:51:58	2020-04-13 13:51:58
+119	0x77	w	1196	9511432	frr	Ik weet, wat dü wet.	Taam	2020-12-21 09:11:27	2020-12-21 09:11:27
+120	0x78	x	5	9545343	frr	Best dü jens ön Mexiko wesen?	Taam	2020-12-26 20:52:48	2020-12-26 20:52:48
+121	0x79	y	24	9505755	frr	Tom heer Mary forwachtet.	Taam	2020-12-20 07:55:49	2020-12-20 07:55:49
 122	0x7a	z	2	9518783	frr	Eliza skrualet.	Taam	2020-12-22 07:48:58	2020-12-22 07:48:58
-214	0xd6	Ö	26	8694388	frr	Jü es en gur Ök.	Taam	2020-04-19 23:59:21	2020-04-19 23:59:21
-220	0xdc	Ü	34	8677324	frr	Muar Ütlönings skul ofskööwen uur.	Taam	2020-04-13 13:42:24	2020-04-13 13:42:24
+214	0xd6	Ö	26	9506729	frr	Aafrika es di Waag fan ali Folken fan des Öört.	Taam	2020-12-20 12:16:11	2020-12-20 12:16:11
+220	0xdc	Ü	34	9551589	frr	Üs Tom āpwaaket es, heer Maria jüst dusjet.	Taam	2020-12-28 19:22:25	2020-12-28 19:22:41
 223	0xdf	ß	1	12015200	frr	Sin mam wiar Fanny Elise Krüß an san aatj Peter Paul Friedrichs.	FerringS	2023-08-25 11:46:12	2023-08-25 11:46:12
-228	0xe4	ä	24	12015208	frr	Uun't ääler faan 19 juaren treed hi uun Janewoore 1910 iin uun det Keiserelk Tjiisk Mariin iin an bleew do tu Jüüne 1912.	FerringS	2023-08-25 11:50:33	2023-08-25 11:50:33
-246	0xf6	ö	1565	9512884	frr	Hi lewet nü tö Tirs ön Dütsklön.	Taam	2020-12-21 13:41:04	2020-12-21 13:41:04
-252	0xfc	ü	1585	9513053	frr	Dit Faamen es aurüt blüch.	Taam	2020-12-21 14:02:39	2020-12-21 14:02:39
-256	0x100	Ā	5	9507400	frr	Jü es ön Āremur āpwukset.	Taam	2020-12-20 14:02:02	2020-12-20 14:02:02
-257	0x101	ā	125	9191197	frr	Jü kām.	eydemidov	2020-10-25 19:00:06	2020-10-25 19:00:06
-273	0x111	đ	148	9191200	frr	Hur es din Bröđer?	eydemidov	2020-10-25 19:00:12	2020-10-25 19:00:12
-275	0x113	ē	78	9511176	frr	Mi dēr ales siir.	Taam	2020-12-21 07:52:43	2020-12-21 07:52:43
+228	0xe4	ä	24	12014892	frr	Femke faan Feer stäänt bi't fögelhüs.	FerringS	2023-08-25 09:01:44	2023-08-25 09:01:44
+246	0xf6	ö	1565	9524215	frr	Ik haa di Fööling, dat jü deling kum wel.	Taam	2020-12-22 21:40:59	2020-12-22 21:40:59
+252	0xfc	ü	1585	8695509	frr	Tom en ik, wü wel biiring, dat dü lekelk best.	Taam	2020-04-20 09:10:20	2020-04-20 09:10:20
+256	0x100	Ā	5	8694574	frr	I haa di Āremen ek holpen.	Taam	2020-04-20 00:18:06	2020-04-20 00:18:06
+257	0x101	ā	125	9506226	frr	Dü jefst ek sa lecht āp, ek waar?	Taam	2020-12-20 10:26:34	2020-12-20 10:26:34
+273	0x111	đ	148	9505622	frr	"Wiis sa gur en teenk diaraur eeđer!" - "Huraur da?"	Taam	2020-12-20 07:21:09	2020-12-20 07:21:09
+275	0x113	ē	78	9506674	frr	Dit Museeum es't wērt dat em't önluket.	Taam	2020-12-20 12:09:26	2020-12-20 12:09:26
 8211	0x2013	–	1	8690977	frr	„Tom es duar. Hi es iskuul.“ – „Uu naan! Hur apskailig!“	Taam	2020-04-18 16:40:44	2020-04-18 16:40:44
 8220	0x201c	“	2	8690977	frr	„Tom es duar. Hi es iskuul.“ – „Uu naan! Hur apskailig!“	Taam	2020-04-18 16:40:44	2020-04-18 16:40:44
 8222	0x201e	„	2	8690977	frr	„Tom es duar. Hi es iskuul.“ – „Uu naan! Hur apskailig!“	Taam	2020-04-18 16:40:44	2020-04-18 16:40:44

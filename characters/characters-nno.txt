@@ -1,82 +1,82 @@
-32	0x20	 	8237	1983306	nno	Faren min kan symja, men ikkje mora mi.	Combine988	2012-11-04 21:03:02	2012-11-04 21:03:02
-33	0x21	!	41	838018	nno	Takk for maten!	Manfredo	2011-04-14 16:40:09	2011-04-14 16:40:22
-34	0x22	"	30	1982614	nno	Vi døypte båten "Halvmånen".	Aleco	2012-11-04 17:03:32	2012-11-04 17:03:32
+32	0x20	 	8240	1981027	nno	Her har vi ikkje noka minstelønn.	Aleco	2012-11-04 01:00:32	2012-11-04 01:00:32
+33	0x21	!	41	4110752	nno	Takk!	Sara_9014	2015-04-25 09:40:15	2015-04-25 09:40:15
+34	0x22	"	30	2176932	nno	I skyggen av det Skjeve Tårn i Pisa sitter byens eventyrforteller og spiser en tallerken ertesuppe. Etterpå forteller han barna eventyret om "prinsessen på erten".	Manfredo	2013-01-30 14:08:31	2013-01-30 14:10:33
 39	0x27	'	1	1981389	nno	Kristoffer Columbus gjekk ein gong på McDonald's og bad om Happy Meal. Han vart ikkje glad, men han likte leika.	Aleco	2012-11-04 07:40:14	2012-11-04 07:40:14
 40	0x28	(	2	8607580	nno	Det er lett å slå opp korleis eit verb bøyast andre stader (til dømes i Wiktionary). Det er mykje vanskelegare å forstå kva eit ord tyder når det brukast i ei realistisk setning. Det er nett det som er Tatoebas sentrale mål, det som gjer Tatoeba unikt, og det eg meiner vi bør konsentrere oss om.	vikvaering	2020-03-11 18:23:51	2020-03-11 18:23:51
 41	0x29	)	2	5926912	nno	Eg trudde du måtte stå opp 7.30 (halv åtte).	jonernm	2017-03-07 22:55:00	\N
-44	0x2c	,	96	6450505	nno	Om ein ikkje vil arbeida, skal ein heller ikkje få eta!	RudeGuyGames	2017-11-06 20:41:52	2017-11-06 20:41:52
-45	0x2d	-	13	1984284	nno	Van Horn-familien var rik.	Aleco	2012-11-05 10:22:38	2012-11-05 10:22:38
-46	0x2e	.	1357	5925602	nno	Tom leitar etter noko.	jonernm	2017-03-07 11:40:51	\N
-48	0x30	0	16	6366277	nno	Huset til Tom brann ned i 2013.	RudeGuyGames	2017-10-05 15:47:57	2017-10-05 15:47:57
-49	0x31	1	6	1983840	nno	Flyet Tom skal ta til Boston drar kl. 14.30.	Combine988	2012-11-05 02:17:07	2012-11-05 02:17:07
-50	0x32	2	6	6381451	nno	Profeten Muhammed døydde i Medina i 632.	RudeGuyGames	2017-10-14 11:51:16	2017-10-14 11:51:16
-51	0x33	3	6	5190852	nno	Tom ankom togstasjonen klokka 3.	giiraffen	2016-06-04 01:08:58	2016-06-04 01:08:58
+44	0x2c	,	96	396880	nno	«Eg er svolten,» sa den vesle kvite kaninen, så dei stoppa og åt blomen av ein stor hyasint.	unhammer	2010-06-01 09:10:47	2010-06-01 09:10:47
+45	0x2d	-	13	2977290	nno	Du bør dobbelt-sjekke det.	eirik174	2014-01-11 15:06:15	2014-01-11 15:06:15
+46	0x2e	.	1357	396675	nno	Eg ber om orsak. Eg er delvis skuld i det.	unhammer	2010-05-31 22:34:42	2010-05-31 22:34:42
+48	0x30	0	16	5441904	nno	Indonesia er ett enormt stort land beståande av meir enn 17 000 øyer, 300 stammar og 700 språk.	giiraffen	2016-09-15 15:36:10	2016-09-15 15:36:36
+49	0x31	1	6	4603780	nno	Eg treng ikkje stå opp før klokka 1 i morgon.	giiraffen	2015-10-13 02:57:21	2015-10-13 02:57:21
+50	0x32	2	6	4549299	nno	Muiriel er 20 no.	giiraffen	2015-09-23 22:05:56	2015-09-23 22:05:56
+51	0x33	3	6	5926912	nno	Eg trudde du måtte stå opp 7.30 (halv åtte).	jonernm	2017-03-07 22:55:00	\N
 52	0x34	4	2	1983840	nno	Flyet Tom skal ta til Boston drar kl. 14.30.	Combine988	2012-11-05 02:17:07	2012-11-05 02:17:07
 53	0x35	5	1	1981447	nno	SN-pakta vart skriven under i 1945.	Aleco	2012-11-04 08:15:05	2012-11-04 08:15:05
-54	0x36	6	2	8431861	nno	Det engelske alfabetet har 26 bokstavar.	vikvaering	2020-01-06 12:23:38	2020-01-06 12:23:38
-55	0x37	7	3	5441904	nno	Indonesia er ett enormt stort land beståande av meir enn 17 000 øyer, 300 stammar og 700 språk.	giiraffen	2016-09-15 15:36:10	2016-09-15 15:36:36
+54	0x36	6	2	6381451	nno	Profeten Muhammed døydde i Medina i 632.	RudeGuyGames	2017-10-14 11:51:16	2017-10-14 11:51:16
+55	0x37	7	3	5926912	nno	Eg trudde du måtte stå opp 7.30 (halv åtte).	jonernm	2017-03-07 22:55:00	\N
 57	0x39	9	1	1981447	nno	SN-pakta vart skriven under i 1945.	Aleco	2012-11-04 08:15:05	2012-11-04 08:15:05
 58	0x3a	:	2	4394937	nno	Nordmenn kaller Norge for "Norge" eller "Noreg", fordi det er to offisielle skriftspråk: "Bokmål" og "Nynorsk".	beeccy	2015-07-21 14:58:26	2015-07-21 14:58:26
 59	0x3b	;	3	6333399	nno	Eg heiter ikkje "du"; eg heiter Ricardo.	RudeGuyGames	2017-09-30 12:14:23	2017-09-30 12:14:23
-63	0x3f	?	237	8214653	nno	Kven er ho med raud hatt?	vikvaering	2019-09-27 17:31:31	2019-09-27 17:31:31
-65	0x41	A	30	5408858	nno	Lag A tapte kampen mot lag B.	giiraffen	2016-09-06 20:06:19	2016-09-06 20:06:19
-66	0x42	B	50	1985225	nno	Tom dreg til Boston neste månad.	Combine988	2012-11-05 21:33:34	2012-11-05 21:33:34
-67	0x43	C	3	396868	nno	Dei sameinte statane grensar opp til Canada.	unhammer	2010-06-01 09:06:45	2010-06-01 09:06:45
-68	0x44	D	197	3663251	nno	Det finst øyer i havet.	\N	2014-11-28 20:27:25	2016-01-24 10:12:30
-69	0x45	E	426	5928395	nno	Eg kan gjera det sjølv!	jonernm	2017-03-08 14:58:31	\N
-70	0x46	F	38	4110729	nno	Far min har aldri vore utanlands.	Sara_9014	2015-04-25 09:30:00	2015-04-25 09:30:00
-71	0x47	G	23	1981776	nno	Grace verka sur.	Aleco	2012-11-04 11:10:04	2012-11-04 11:10:04
-72	0x48	H	206	6331336	nno	Han foreslo at vi skulle spele baseball.	RudeGuyGames	2017-09-28 11:44:55	2017-09-28 11:44:55
-73	0x49	I	43	4763237	nno	Ikkje rør meg.	garborg	2015-12-13 13:53:18	2015-12-13 13:53:18
-74	0x4a	J	18	8210993	nno	Kva ville Jesus ha gjort?	vikvaering	2019-09-26 08:23:46	2019-09-26 08:23:46
-75	0x4b	K	180	5926970	nno	Kvar gøymer du deg?	jonernm	2017-03-08 01:01:30	\N
-76	0x4c	L	30	5408858	nno	Lag A tapte kampen mot lag B.	giiraffen	2016-09-06 20:06:19	2016-09-06 20:06:19
-77	0x4d	M	62	1981386	nno	Mary er på badet i timevis.	Aleco	2012-11-04 07:38:26	2012-11-04 07:38:26
-78	0x4e	N	37	3081799	nno	Når eg gjev mat til dei fattige kallar dei meg helgen. Når eg spør kvifor dei fattige ikkje har noko mat kallar dei meg kommunist.	\N	2014-03-07 19:17:12	2016-01-17 13:24:07
-79	0x4f	O	12	1980755	nno	Ein mann kan leva sunn, utan å måtta drepa dyr for å få mat, så om han likevel et kjøtt, er han med på å drepa dyr berre for matlysta si skuld. Og å gjere det er umoralsk.	Combine988	2012-11-03 23:48:35	2012-11-03 23:48:35
-80	0x50	P	19	6996256	nno	Portugal er ein republikk.	RudeGuyGames	2018-07-15 11:16:59	2018-07-15 11:16:59
-82	0x52	R	14	10211255	nno	Reste svelte !	Rovo	2021-08-03 13:23:47	2021-08-03 13:23:47
-83	0x53	S	82	6388819	nno	Likar du Seinfeld?	RudeGuyGames	2017-10-19 08:57:56	2017-10-19 08:57:56
-84	0x54	T	312	8425821	nno	Tom et berre rått kjøtt.	vikvaering	2020-01-03 17:45:41	2020-01-03 17:45:41
-85	0x55	U	11	1980998	nno	Unge har som oftast meir ork enn gamle.	Aleco	2012-11-04 00:56:29	2012-11-04 00:56:29
-86	0x56	V	65	4110697	nno	Vatn er ei væske	Sara_9014	2015-04-25 09:23:14	2015-04-25 09:23:14
-87	0x57	W	2	4256195	nno	Velkomen til Wikipedia.	DetErMinNavn	2015-06-05 16:00:04	2015-06-05 16:00:04
+63	0x3f	?	238	12300598	nno	Kva er ein alv?	augine	2024-02-04 21:15:45	2024-02-04 21:15:45
+65	0x41	A	30	396885	nno	Alle menneske er fødde til fridom og med same menneskeverd og menneskerettar. Dei har fått fornuft og samvit og skal leve med kvarandre som brør.	unhammer	2010-06-01 09:18:38	2010-06-01 09:18:38
+66	0x42	B	50	6380480	nno	Eg skal reisa til Boston for å treffa Tom.	RudeGuyGames	2017-10-13 19:57:42	2017-10-13 19:57:42
+67	0x43	C	3	1981389	nno	Kristoffer Columbus gjekk ein gong på McDonald's og bad om Happy Meal. Han vart ikkje glad, men han likte leika.	Aleco	2012-11-04 07:40:14	2012-11-04 07:40:14
+68	0x44	D	197	5926540	nno	Det verkjer i heile kroppen.	jonernm	2017-03-07 20:26:20	\N
+69	0x45	E	426	1982617	nno	Eg gjekk i skogen åleine.	Aleco	2012-11-04 17:05:32	2012-11-04 17:05:32
+70	0x46	F	38	4110780	nno	Faren min sa at eg ikkje skulle lese på senga.	Sara_9014	2015-04-25 09:51:57	2015-04-25 09:51:57
+71	0x47	G	23	8140636	nno	Gjev meg beskjed!	vikvaering	2019-08-29 12:27:43	2019-08-29 12:27:43
+72	0x48	H	206	396662	nno	Har du ein hobby – måling, til dømes?	unhammer	2010-05-31 22:28:35	2010-05-31 22:28:35
+73	0x49	I	43	5441904	nno	Indonesia er ett enormt stort land beståande av meir enn 17 000 øyer, 300 stammar og 700 språk.	giiraffen	2016-09-15 15:36:10	2016-09-15 15:36:36
+74	0x4a	J	18	3677455	nno	Hyggjeleg å møte deg. Jeg er en maurslukar.	Balamax	2014-12-06 10:36:19	2014-12-06 10:37:05
+75	0x4b	K	181	5924592	nno	Kven skal du gi boka til?	jonernm	2017-03-07 01:01:17	\N
+76	0x4c	L	30	5925587	nno	Leitar du etter noko?	jonernm	2017-03-07 11:36:18	\N
+77	0x4d	M	62	8828456	nno	Maria tok av seg sokkane sine.	RudeGuyGames	2020-06-08 22:19:21	2020-06-08 22:19:21
+78	0x4e	N	37	4394937	nno	Nordmenn kaller Norge for "Norge" eller "Noreg", fordi det er to offisielle skriftspråk: "Bokmål" og "Nynorsk".	beeccy	2015-07-21 14:58:26	2015-07-21 14:58:26
+79	0x4f	O	12	8157012	nno	Dei var i Oslo for fyrste gong i går.	vikvaering	2019-09-01 13:54:56	2019-09-01 13:54:56
+80	0x50	P	19	6379950	nno	Eg lurar på kva som skjedde med Paul.	giiraffen	2017-10-13 09:26:50	2017-10-13 09:26:50
+82	0x52	R	14	2920294	nno	Ring meg!	al_ex_an_der	2013-12-10 20:13:27	2013-12-10 20:13:40
+83	0x53	S	82	8286356	nno	Eg har ein ven som bur i Sapporo.	vikvaering	2019-10-26 16:45:01	2019-10-26 16:45:01
+84	0x54	T	312	8204502	nno	Tyskland er eit kaldt land.	vikvaering	2019-09-23 09:11:16	2019-09-23 09:11:16
+85	0x55	U	11	1980654	nno	Eg kjøpte dette da eg var i USA.	Combine988	2012-11-03 23:17:02	2012-11-03 23:17:02
+86	0x56	V	65	1981829	nno	Vi slår mynt om det.	Aleco	2012-11-04 11:36:21	2012-11-04 11:36:47
+87	0x57	W	2	8607580	nno	Det er lett å slå opp korleis eit verb bøyast andre stader (til dømes i Wiktionary). Det er mykje vanskelegare å forstå kva eit ord tyder når det brukast i ei realistisk setning. Det er nett det som er Tatoebas sentrale mål, det som gjer Tatoeba unikt, og det eg meiner vi bør konsentrere oss om.	vikvaering	2020-03-11 18:23:51	2020-03-11 18:23:51
 90	0x5a	Z	1	8431919	nno	Z er den siste bokstaven i alfabetet.	vikvaering	2020-01-06 12:51:05	2020-01-06 12:51:05
-97	0x61	a	2944	1984035	nno	Kva var det du sa i går?	Aleco	2012-11-05 03:40:34	2012-11-05 03:40:34
-98	0x62	b	444	5928358	nno	"Og kva er det?" "Det er bileta dine."	jonernm	2017-03-08 14:29:16	\N
-99	0x63	c	9	1981776	nno	Grace verka sur.	Aleco	2012-11-04 11:10:04	2012-11-04 11:10:04
-100	0x64	d	1513	2977290	nno	Du bør dobbelt-sjekke det.	eirik174	2014-01-11 15:06:15	2014-01-11 15:06:15
-101	0x65	e	5296	8210172	nno	Kva er det høgaste fjellet i Tyskland?	vikvaering	2019-09-25 18:58:06	2019-09-25 18:58:06
-102	0x66	f	550	8210259	nno	Eg fekk ho til å gråte.	vikvaering	2019-09-25 19:37:10	2019-09-25 19:37:10
-103	0x67	g	1809	1983375	nno	Kva slags sportsgrein lika du?	Combine988	2012-11-04 21:25:25	2012-11-04 21:25:25
-104	0x68	h	653	1982531	nno	Eg har hovudverk.	Aleco	2012-11-04 16:42:14	2012-11-04 16:42:14
-105	0x69	i	2261	838025	nno	Kan dette vannet drikkes?	Manfredo	2011-04-14 16:41:58	2011-04-14 16:41:58
-106	0x6a	j	701	2656624	nno	Eg skal ikkje gjere noko spesielt i dag, kanskje liggje på sofaen og sjå på TV, eller noko sånt.	al_ex_an_der	2013-08-05 20:37:02	2013-08-05 20:37:23
-107	0x6b	k	1890	6450491	nno	Skal du bruka dette?	RudeGuyGames	2017-11-06 20:34:39	2017-11-06 20:34:39
-108	0x6c	l	1772	1983852	nno	Tom sin operasjon ville ha kosta ein halv formue.	Combine988	2012-11-05 02:23:09	2012-11-05 02:23:09
-109	0x6d	m	1322	400643	nno	Er det eigentleg klokt at reklamefolk innfrir ønsket som folk har om umiddelbar tilfredsstilling?	unhammer	2010-06-07 10:14:16	2010-06-07 10:14:16
-110	0x6e	n	2598	396880	nno	«Eg er svolten,» sa den vesle kvite kaninen, så dei stoppa og åt blomen av ein stor hyasint.	unhammer	2010-06-01 09:10:47	2010-06-01 09:10:47
-111	0x6f	o	1824	1985349	nno	Tom gjekk ut for å sjå etter noko å ete.	Combine988	2012-11-05 22:04:14	2012-11-05 22:04:14
-112	0x70	p	578	2977901	nno	Jeg pleide ofte å spise pizza.	eirik174	2014-01-12 00:17:24	2014-01-12 00:17:24
-114	0x72	r	3118	1981834	nno	Dei hundre vanlegaste orda i engelsk er anglosaksiske ord.	Aleco	2012-11-04 11:38:13	2012-11-04 11:38:13
-115	0x73	s	1814	8607580	nno	Det er lett å slå opp korleis eit verb bøyast andre stader (til dømes i Wiktionary). Det er mykje vanskelegare å forstå kva eit ord tyder når det brukast i ei realistisk setning. Det er nett det som er Tatoebas sentrale mål, det som gjer Tatoeba unikt, og det eg meiner vi bør konsentrere oss om.	vikvaering	2020-03-11 18:23:51	2020-03-11 18:23:51
-116	0x74	t	2687	6330883	nno	Alle bør veta dette.	RudeGuyGames	2017-09-28 07:16:42	2017-09-28 07:16:42
-117	0x75	u	717	1981255	nno	Kva syntest du om det?	Aleco	2012-11-04 03:18:02	2012-11-04 03:19:18
-118	0x76	v	1003	8157577	nno	Veit Tom kven eg er?	vikvaering	2019-09-01 17:55:01	2019-09-01 17:55:01
-120	0x78	x	5	1982654	nno	Nokon spurde om Texas.	Aleco	2012-11-04 17:25:46	2012-11-04 17:25:46
-121	0x79	y	315	1983357	nno	Far har kjøpt meg ein ny sykkel.	Combine988	2012-11-04 21:18:44	2012-11-04 21:18:44
-122	0x7a	z	4	1981250	nno	Eg er kjempeglad i pizza.	Aleco	2012-11-04 03:13:38	2012-11-04 03:13:38
-171	0xab	«	8	1980666	nno	«Er du svolten?» «Nei, eg er ikkje svolten fordi eg åt smørbrød på skulen.»	Combine988	2012-11-03 23:21:57	2012-11-03 23:22:05
-187	0xbb	»	8	8139930	nno	Kva er det greske ordet for «ugle»?	vikvaering	2019-08-28 23:46:19	2019-08-28 23:46:19
+97	0x61	a	2946	5926068	nno	Arabisk skrivast frå høgre mot venstre.	jonernm	2017-03-07 15:06:59	\N
+98	0x62	b	444	8360691	nno	Eg har berre to hender.	vikvaering	2019-12-02 15:09:15	2019-12-02 15:09:15
+99	0x63	c	9	8426158	nno	Kjenner du nokon som ikkje er på Facebook?	vikvaering	2020-01-03 21:20:07	2020-01-03 21:20:07
+100	0x64	d	1513	3081172	nno	Framtida tilhøyrer dei som trur på venleiken i draumane sine.	\N	2014-03-07 13:43:22	2016-01-17 13:24:23
+101	0x65	e	5298	6379288	nno	Aleksander, ein ven av meg, snakkar spansk.	RudeGuyGames	2017-10-12 21:38:14	2017-10-12 21:38:14
+102	0x66	f	550	1980756	nno	Ingen levande vesen kan leve utan luft.	Combine988	2012-11-03 23:49:42	2012-11-03 23:49:42
+103	0x67	g	1809	2059536	nno	Vi var fattige, men glade.	Combine988	2012-12-05 21:47:59	2012-12-05 21:47:59
+104	0x68	h	653	8144276	nno	Gjett kva eg har i handa.	vikvaering	2019-08-30 10:40:24	2019-08-30 10:40:24
+105	0x69	i	2262	1982632	nno	Noreg er det rikaste landet i verda.	Aleco	2012-11-04 17:13:33	2012-11-04 17:13:33
+106	0x6a	j	701	6331303	nno	Eg kjende igjen stemma di med ein gong.	RudeGuyGames	2017-09-28 11:35:40	2017-09-28 11:35:40
+107	0x6b	k	1890	1982610	nno	Kvar kan eg setja frå meg ølet?	Aleco	2012-11-04 17:00:48	2012-11-04 17:00:48
+108	0x6c	l	1773	4110609	nno	Eg har aldri møtt nokon som gjer meg så lykkeleg som du.	Sara_9014	2015-04-25 09:06:49	2015-04-25 09:06:49
+109	0x6d	m	1322	8213393	nno	Vegen er for smal for bilar.	vikvaering	2019-09-27 11:17:31	2019-09-27 11:17:31
+110	0x6e	n	2599	1981350	nno	Hokkaido er veldig langt unna, ikkje sant?	Aleco	2012-11-04 07:21:55	2012-11-04 07:22:09
+111	0x6f	o	1824	5925587	nno	Leitar du etter noko?	jonernm	2017-03-07 11:36:18	\N
+112	0x70	p	578	6995023	nno	Store mengder regn og flaumar oppstår årleg i store delar av Kina på denne tida av året.	RudeGuyGames	2018-07-14 20:19:02	2018-07-14 20:19:02
+114	0x72	r	3119	2059590	nno	Du bør ikkje la barnet vere aleine.	Combine988	2012-12-05 21:56:44	2012-12-05 21:56:44
+115	0x73	s	1814	5926067	nno	Man skriv arabisk frå høgre mot venstre.	jonernm	2017-03-07 15:06:16	\N
+116	0x74	t	2687	6364742	nno	Kom att, kom att!	RudeGuyGames	2017-10-04 19:14:28	2017-10-04 19:14:28
+117	0x75	u	717	6369333	nno	Han fekk oss til å arbeide langt ut på natt.	RudeGuyGames	2017-10-07 09:23:38	2017-10-07 09:23:38
+118	0x76	v	1005	6388867	nno	Så rasla han med fjørene, lyfta den slanke halsen sin og ropte med glede rett frå hjarta: "Slik ei glede drøymde eg aldri om då eg var ein stygg andunge."	RudeGuyGames	2017-10-19 09:21:32	2017-10-19 09:21:32
+120	0x78	x	5	1982649	nno	Han vitja ein barneheim i Texas.	Aleco	2012-11-04 17:24:34	2012-11-04 17:24:34
+121	0x79	y	315	6996283	nno	Lysforurensing er eit alvorleg problem.	RudeGuyGames	2018-07-15 11:29:59	2018-07-15 11:29:59
+122	0x7a	z	4	2977901	nno	Jeg pleide ofte å spise pizza.	eirik174	2014-01-12 00:17:24	2014-01-12 00:17:24
+171	0xab	«	8	396880	nno	«Eg er svolten,» sa den vesle kvite kaninen, så dei stoppa og åt blomen av ein stor hyasint.	unhammer	2010-06-01 09:10:47	2010-06-01 09:10:47
+187	0xbb	»	8	1980666	nno	«Er du svolten?» «Nei, eg er ikkje svolten fordi eg åt smørbrød på skulen.»	Combine988	2012-11-03 23:21:57	2012-11-03 23:22:05
 197	0xc5	Å	2	1980760	nno	Å bu i byen er nokså annleis frå å bu på landet.	Combine988	2012-11-03 23:51:34	2012-11-03 23:51:34
 216	0xd8	Ø	1	1981258	nno	Øy! Snakk til meg, Trang!	Aleco	2012-11-04 03:20:55	2012-11-04 03:20:55
-229	0xe5	å	751	6380510	nno	Tom verkar ikkje å ha særleg mange vener.	RudeGuyGames	2017-10-13 20:30:01	2017-10-13 20:30:01
-230	0xe6	æ	53	1981057	nno	Eg har lært engelsk i fire år.	Aleco	2012-11-04 01:04:35	2012-11-04 01:04:35
-233	0xe9	é	11	6452359	nno	Han skal dra til stasjonen éin time innan toget går.	RudeGuyGames	2017-11-07 20:48:45	2017-11-07 20:48:45
-234	0xea	ê	5	1982615	nno	Eg er vand til kaldt vêr.	Aleco	2012-11-04 17:04:38	2012-11-04 17:04:38
-242	0xf2	ò	18	8207365	nno	Du har hòl i sokken.	vikvaering	2019-09-24 15:40:18	2019-09-24 15:40:18
+229	0xe5	å	751	5928212	nno	Eg synest tre år er lenge.	jonernm	2017-03-08 13:25:36	\N
+230	0xe6	æ	53	6455120	nno	Slik kjærleik er ekte.	RudeGuyGames	2017-11-09 14:03:54	2017-11-09 14:03:54
+233	0xe9	é	11	8147098	nno	Kven lét døra stå open?	vikvaering	2019-08-30 22:19:38	2019-08-30 22:19:38
+234	0xea	ê	5	8291030	nno	Fuglane flyg høgt til vêrs.	vikvaering	2019-10-29 12:17:50	2019-10-29 12:17:50
+242	0xf2	ò	18	6448805	nno	I tillegg til å vera ein god lærar, var ho òg ein flittig student.	RudeGuyGames	2017-11-05 15:02:23	2017-11-05 15:02:23
 243	0xf3	ó	1	1981067	nno	Tom fór endeleg til Boston i fjor sumar.	Aleco	2012-11-04 01:06:01	2012-11-04 01:06:01
 244	0xf4	ô	1	8140356	nno	Det luktar kattefôr av anden til katten min.	vikvaering	2019-08-29 10:32:01	2019-08-29 10:32:01
 246	0xf6	ö	1	8342336	nno	Köln ligg ved Rhinen.	vikvaering	2019-11-23 14:22:39	2019-11-23 14:22:39
-248	0xf8	ø	321	8139942	nno	Eg drikk ikkje øl.	vikvaering	2019-08-29 00:07:27	2019-08-29 00:07:27
+248	0xf8	ø	321	396876	nno	Eg sovna framføre TV-en.	unhammer	2010-06-01 09:09:57	2010-06-01 09:09:57
 8211	0x2013	–	1	396662	nno	Har du ein hobby – måling, til dømes?	unhammer	2010-05-31 22:28:35	2010-05-31 22:28:35

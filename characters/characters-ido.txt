@@ -1,83 +1,83 @@
-32	0x20	 	46433	11012074	ido	Kad il savas ke me esas hike?	Idopauline	2022-07-21 21:41:09	2022-07-21 21:41:09
-33	0x21	!	496	10493925	ido	Me tun kaptis!	Adelpa	2021-11-08 10:52:08	2021-11-08 10:52:08
-34	0x22	"	225	895904	ido	La profesoro dicis: "Kompreneble".	barcodex	2011-05-16 23:40:34	2011-05-16 23:40:34
+32	0x20	 	46521	893658	ido	La problemi internaciona mustas solvesar per la diplomaco, ne per la milito.	Tradukero	2011-05-15 15:37:47	2011-05-15 15:37:47
+33	0x21	!	499	1311360	ido	La barbo desaparis!	Tradukero	2011-12-21 13:16:22	2011-12-21 13:16:22
+34	0x22	"	225	1786788	ido	Me kambiis mea "yen" po dolari.	alciono	2012-08-19 23:19:38	2012-08-19 23:19:38
 37	0x25	%	2	7806104	ido	Plu kam 20% di la populo posedas automobilo.	luca22	2019-03-12 00:22:39	2019-03-12 00:22:39
-39	0x27	'	225	1436779	ido	Ka tu savus tradukar ica frazo aden l'Angla?	Tradukero	2012-02-15 13:40:36	2012-02-15 13:40:36
-40	0x28	(	4	945343	ido	Ni kredis ke la objekto esis NIFO (Ne-Identigita Fluganta Objekto).	alciono	2011-06-19 19:49:24	2011-06-19 19:49:24
+39	0x27	'	226	2779201	ido	Il parolas l'arabiana.	shekitten	2013-10-08 15:17:34	2019-10-19 22:05:25
+40	0x28	(	4	1425295	ido	Anglulo, Francino, Germanulo, Rusino, Hispanulo ed Italianino, qui havis la habileso parolar, rispektive, la Chiniana, Japoniana, Koreana, Tahitiana, Turka e Portugalana, rendevuis en Cancún (Mexikia).	alciono	2012-02-09 20:08:08	2012-02-09 20:08:08
 41	0x29	)	4	1425295	ido	Anglulo, Francino, Germanulo, Rusino, Hispanulo ed Italianino, qui havis la habileso parolar, rispektive, la Chiniana, Japoniana, Koreana, Tahitiana, Turka e Portugalana, rendevuis en Cancún (Mexikia).	alciono	2012-02-09 20:08:08	2012-02-09 20:08:08
-42	0x2a	*	3	950772	ido	Ka vu havas *televizionrecevatoro kun larja skreno?	metalserfo	2011-06-22 22:25:06	2011-06-22 22:25:06
-44	0x2c	,	1087	958653	ido	Irgakoze tu dicos, me mariajos el.	Sonoriuxo	2011-06-25 20:41:03	2011-06-25 20:41:03
-45	0x2d	-	421	986044	ido	"Quante tu evas?" "Dek-e-sis yari."	Tradukero	2011-07-12 01:42:53	2011-07-12 01:42:53
-46	0x2e	.	9616	9997117	ido	Tom ne esis mea skolano.	PiaKorvo	2021-04-29 22:35:20	2021-04-29 22:35:20
+42	0x2a	*	3	964878	ido	*Wau!	Sonoriuxo	2011-06-29 02:34:34	2011-06-29 02:34:34
+44	0x2c	,	1088	941591	ido	Kelkafoye me marchas a mea kontoro, e kelkafoye me bicikliras, por ke me lojas vere proxime.	barcodex	2011-06-17 10:12:11	2011-06-17 10:12:11
+45	0x2d	-	420	6127150	ido	Nord-Korea e Sud-Korea esas vicina landi.	Algentem	2017-06-03 13:50:02	\N
+46	0x2e	.	9643	10459649	ido	Uceli, mushi ed abeli flugas.	Idopauline	2021-10-24 21:47:22	2021-10-24 21:47:22
 47	0x2f	/	1	4586650	ido	La Fondajo di Mozilla liberigis la maxim recenta versiono di lia e-posto/niuzo-softwaro, "Thunderbird 2.0.0.14" ye 1ma di mayo.	Algentem	2015-10-07 20:36:12	2015-10-07 20:36:50
-48	0x30	0	44	2901023	ido	Telefonez ni sen-page ye 1-800-446-2581.	alciono	2013-12-04 04:28:01	2013-12-04 04:28:01
-49	0x31	1	36	1182967	ido	La pikturo kustos adminime 1.000 dolari.	alciono	2011-10-18 13:07:50	2011-10-18 13:07:50
-50	0x32	2	14	1137548	ido	Me devas vartar til 21 kloki.	Tradukero	2011-09-30 13:05:56	2011-09-30 13:05:56
-51	0x33	3	10	959175	ido	Amerika abolisis la sklaveso ye la yaro 1863.	Sonoriuxo	2011-06-25 23:44:07	2011-06-25 23:44:07
-52	0x34	4	8	1020696	ido	Me naskis ye la 4ma di junio, 1974.	alciono	2011-08-03 20:11:00	2011-08-03 20:12:14
-53	0x35	5	11	1134133	ido	Elu kalkulis ke el ganabis 1500 dolari.	alciono	2011-09-28 20:28:08	2011-09-28 20:28:08
-54	0x36	6	4	10267234	ido	Esas 56 nacionala grupi en Chinia.	Idopauline	2021-08-28 22:01:23	2021-08-28 22:01:23
-55	0x37	7	7	1195551	ido	Esperantisto depos 1957, doktoro pri linguocienco, il defendas diserto pri esperantologiala temo.	belgavox	2011-10-24 20:01:03	2012-12-21 20:24:36
-56	0x38	8	7	959175	ido	Amerika abolisis la sklaveso ye la yaro 1863.	Sonoriuxo	2011-06-25 23:44:07	2011-06-25 23:44:07
-57	0x39	9	13	1436604	ido	La brodkasto komencas ye 9 kloki cirkume.	Tradukero	2012-02-15 12:06:25	2012-02-15 12:06:25
-58	0x3a	:	21	9822891	ido	Facar nulon on devus punisar: ta qua ne laboras, ta mustez fastar!	Adelpa	2021-03-04 17:53:13	2021-03-04 17:53:13
-59	0x3b	;	25	2780215	ido	Soleso vivigas; izolo mortigas.	shekitten	2013-10-09 03:02:32	2019-10-19 22:05:37
-63	0x3f	?	1613	10899462	ido	Ube esas ilua hundo?	Idopauline	2022-06-09 21:55:49	2022-06-09 21:55:49
+48	0x30	0	44	892370	ido	Ni evaluas la domajo ye 1000 dolari.	alciono	2011-05-14 18:35:34	2011-05-14 18:35:34
+49	0x31	1	36	11791677	ido	La 11ma di septembro 2001 esis la maxim bona tago de mea vivo.	shekitten	2023-05-25 13:14:03	2023-05-25 13:14:49
+50	0x32	2	14	7806104	ido	Plu kam 20% di la populo posedas automobilo.	luca22	2019-03-12 00:22:39	2019-03-12 00:22:39
+51	0x33	3	10	1016580	ido	Elu e me esas gespozi lor 30 yari.	Sonoriuxo	2011-08-01 12:32:37	2011-08-01 12:32:37
+52	0x34	4	8	2901023	ido	Telefonez ni sen-page ye 1-800-446-2581.	alciono	2013-12-04 04:28:01	2013-12-04 04:28:01
+53	0x35	5	11	886550	ido	"Floro" esas bela vorto e havas 5 literi.	Tradukero	2011-05-11 23:00:58	2011-05-11 23:00:58
+54	0x36	6	4	2901023	ido	Telefonez ni sen-page ye 1-800-446-2581.	alciono	2013-12-04 04:28:01	2013-12-04 04:28:01
+55	0x37	7	7	1471507	ido	La internaciona linguo Ido naskis ye la yaro 1907 en Paris, Francia.	Sonoriuxo	2012-03-06 07:08:46	2012-03-06 07:10:12
+56	0x38	8	7	2901023	ido	Telefonez ni sen-page ye 1-800-446-2581.	alciono	2013-12-04 04:28:01	2013-12-04 04:28:01
+57	0x39	9	13	1436511	ido	Lu habitis en Libano de 1988 til 1994.	Tradukero	2012-02-15 11:19:37	2012-02-15 11:19:37
+58	0x3a	:	21	1140550	ido	Plusa signalo tipa di la timideso esas la redeso sur la vizajo o sur la kolo: ol esas la rezultajo dil ago dal adrenalino qua augmentas la kordio-bato.	Tradukero	2011-10-01 17:45:12	2011-10-01 17:45:12
+59	0x3b	;	25	2981458	ido	En herboza pastureyi Il ripozigas me; a kalma aqui Il duktas me.	shekitten	2014-01-13 17:18:39	2021-05-07 01:41:51
+63	0x3f	?	1617	2380345	ido	Qua vu esas?	luca22	2013-04-14 16:57:24	2013-04-14 16:57:24
 64	0x40	@	1	2769220	ido	Mea elektronika post-adreso es hans@karlolo.net.	shekitten	2013-10-02 01:08:37	2020-05-05 22:26:06
-65	0x41	A	330	10536340	ido	Afrika ne esas lando.	Adelpa	2021-11-29 20:00:43	2021-11-29 20:00:43
-66	0x42	B	187	11913001	ido	Quon facus Tom en Boston?	shekitten	2023-07-07 02:07:49	2023-07-07 02:07:49
-67	0x43	C	184	10267243	ido	Ca urbo esas vere bela!	Idopauline	2021-08-28 22:04:36	2021-08-28 22:04:55
-68	0x44	D	217	11580326	ido	Divenez neguvernebla.	shekitten	2023-03-07 00:24:28	2023-03-07 00:24:28
-69	0x45	E	727	940225	ido	Elu esas la doktoro nun.	barcodex	2011-06-15 16:30:14	2011-06-15 16:30:14
-70	0x46	F	209	10668330	ido	Forsan, to ne esis il.	Idopauline	2022-02-10 21:43:09	2022-02-10 21:43:36
-71	0x47	G	87	10551578	ido	La Grekiana es desfacile lernebla.	Adelpa	2021-12-08 20:30:28	2021-12-08 20:30:28
-72	0x48	H	200	10484070	ido	Mea nomo es Hashimoto.	Adelpa	2021-11-04 10:05:59	2021-11-04 10:05:59
-73	0x49	I	944	8984861	ido	Ica libro esas tre importanta por me.	Idopauline	2020-08-19 20:57:29	2020-08-19 20:57:29
-74	0x4a	J	144	9939809	ido	Marihuano esas nun segunlega en Nov-Jorkio.	shekitten	2021-04-05 22:03:25	2021-04-05 22:03:25
-75	0x4b	K	1063	12162247	ido	El es Kambodjano.	shekitten	2023-11-15 02:44:12	2023-11-15 02:44:12
-76	0x4c	L	1497	12043881	ido	Ludez kun la hundo.	shekitten	2023-09-08 16:26:20	2023-09-08 16:26:20
-77	0x4d	M	2853	895970	ido	Me iros mem se pluvos morge.	barcodex	2011-05-17 00:15:41	2011-05-17 00:15:41
-78	0x4e	N	800	1899685	ido	Ni deziras aparta fakturi.	alciono	2012-10-06 16:23:13	2012-10-06 16:23:13
-79	0x4f	O	270	894314	ido	On dicas ke la vera amiko esas sincera.	Tradukero	2011-05-15 22:53:49	2011-05-15 22:53:49
-80	0x50	P	404	884270	ido	Pro quo tu ne manjas legumi?	Tradukero	\N	\N
-81	0x51	Q	535	2380346	ido	Qua esas tu?	luca22	2013-04-14 16:57:56	2013-04-14 16:57:56
-82	0x52	R	123	10350329	ido	Tale esas la vivo en Rusia.	Idopauline	2021-10-08 21:20:37	2021-10-08 21:20:37
-83	0x53	S	355	1294327	ido	Suficus a me du hori por ekirar ica situaciono.	Tradukero	2011-12-11 19:53:10	2011-12-11 19:53:10
-84	0x54	T	1713	9938848	ido	Tom drinkas.	Adelpa	2021-04-05 13:16:24	2021-04-05 13:16:24
-85	0x55	U	215	12279803	ido	Ube esas la damzeli?	Idopauline	2024-01-21 22:05:07	2024-01-21 22:05:07
-86	0x56	V	307	886503	ido	Voluntez enirar.	Tradukero	2011-05-11 22:32:59	2011-05-11 22:32:59
-87	0x57	W	13	9827157	ido	Me nomesas Wang.	Adelpa	2021-03-06 15:06:10	2021-03-06 15:06:10
-89	0x59	Y	115	9832786	ido	Yen olu.	Adelpa	2021-03-08 21:34:21	2021-03-08 21:34:21
-90	0x5a	Z	42	9857819	ido	Qua esis Kong Zi?	shekitten	2021-03-21 15:09:57	2021-03-21 15:09:57
+65	0x41	A	330	973839	ido	Apertez l'okuli.	Tradukero	2011-07-03 14:55:31	2011-07-03 14:55:31
+66	0x42	B	187	9513075	ido	Bona Solstico!	shekitten	2020-12-21 14:06:02	2020-12-21 14:06:02
+67	0x43	C	183	8942475	ido	Ca aquo ne esas kolda.	shekitten	2020-07-26 21:08:33	2020-09-08 11:43:18
+68	0x44	D	217	973875	ido	De qua kloko a qua kloko esas apertita vua oficeyo?	Tradukero	2011-07-03 15:15:21	2011-07-03 15:15:21
+69	0x45	E	732	2758946	ido	Esez afabla en omno quon tu dicas e facas.	shekitten	2013-09-25 05:17:29	2019-10-15 20:41:21
+70	0x46	F	209	937074	ido	Futbalo esas bona.	Valodnieks	2011-06-13 00:58:12	2011-06-13 00:58:12
+71	0x47	G	93	8814230	ido	Me plu prizas Esperanto kam la Germana.	shekitten	2020-06-03 19:09:28	2020-09-08 11:42:01
+72	0x48	H	201	1130789	ido	Homo devas esar honesta.	megamanenm	2011-09-26 18:44:58	2011-09-27 22:14:55
+73	0x49	I	946	2496541	ido	Il aspektas richa, ma ne esas.	alciono	2013-06-13 23:05:07	2013-06-13 23:05:07
+74	0x4a	J	144	11102962	ido	Ni esas Judi.	Idopauline	2022-09-07 22:44:33	2022-09-07 22:44:33
+75	0x4b	K	1065	10548536	ido	Ka tu esas mea amiko o ne?	Adelpa	2021-12-07 08:50:54	2021-12-07 08:50:54
+76	0x4c	L	1501	11930512	ido	L'uceli esas libera.	shekitten	2023-07-14 16:08:07	2023-07-14 16:08:07
+77	0x4d	M	2862	10911307	ido	Mea decido esas definitiva.	Idopauline	2022-06-14 21:24:59	2022-06-14 21:24:59
+78	0x4e	N	804	10348989	ido	Ni ludez ensemble!	Idopauline	2021-10-07 21:08:13	2021-10-07 21:08:13
+79	0x4f	O	270	10239084	ido	Omna yunini volas kisar e savar omno pri la amoro.	Idopauline	2021-08-13 13:22:56	2021-08-13 13:22:56
+80	0x50	P	407	12021672	ido	Pro quo bestii bramas?	shekitten	2023-08-28 17:31:30	2023-08-28 17:33:47
+81	0x51	Q	535	1201622	ido	Qua manjis omna torti?	alciono	2011-10-27 20:57:39	2011-10-27 20:57:39
+82	0x52	R	123	12236390	ido	Retrofrapez.	rul	2023-12-28 16:35:40	2023-12-28 16:35:40
+83	0x53	S	354	945347	ido	Se esas posibla, on devas vivar dufoye.	alciono	2011-06-19 19:50:37	2011-06-19 19:50:37
+84	0x54	T	1721	886478	ido	Ta esas bela urbeto.	alciono	2011-05-11 22:16:52	2011-05-11 22:17:02
+85	0x55	U	216	9917708	ido	Un, du, tri, quar, kin, sis, sep, ok, non, dek.	Adelpa	2021-03-28 14:58:14	2021-03-28 14:58:14
+86	0x56	V	309	5186879	ido	Ka tu parolas Volapük?	RobinvanderVliet	2016-06-02 20:19:03	2016-06-02 20:19:03
+87	0x57	W	13	10484118	ido	Mea nomo es Wang.	Adelpa	2021-11-04 10:17:47	2021-11-04 10:17:47
+89	0x59	Y	115	2380477	ido	Yen patro bona.	luca22	2013-04-14 17:21:33	2013-04-14 17:22:42
+90	0x5a	Z	42	10888639	ido	Ziri kalmigis Rima.	Idopauline	2022-06-04 21:21:04	2022-06-04 21:21:04
 91	0x5b	[	1	3464221	ido	Bone, kompreneble la populo ne volas milito. Por quo povra rustiko en farmeyo volus riskar sua vivo per milito kande la maxim bona rezultajo esus riveno un-peca a sua farmo? Naturale, la vulgari ne volas milito; nek en Rusia nek en Anglia nek en Usa nek cetere en Germania. Onu komprenas to. Ma sume esas la duktanti qui determinas politiko ed sempre esas simpla afero tirar la populo kun li, sive ol esas demokratio sive fashista diktatoreso sive parlamenteso sive komunista diktatoreso. [...] Kun voco o sin voco, la populo sempre povas adportesar a la volo dil duktanti. Ico esas facila. Omno quon tu devas facar, esas dicar a li, ke li esas atakata e denuncar la pacifisti pro manko di patrioteso ed expozo di la lando a danjero. To funcionas egale en irga lando.	Adelpa	2014-09-01 08:16:04	2021-04-01 07:07:17
 93	0x5d	]	1	3464221	ido	Bone, kompreneble la populo ne volas milito. Por quo povra rustiko en farmeyo volus riskar sua vivo per milito kande la maxim bona rezultajo esus riveno un-peca a sua farmo? Naturale, la vulgari ne volas milito; nek en Rusia nek en Anglia nek en Usa nek cetere en Germania. Onu komprenas to. Ma sume esas la duktanti qui determinas politiko ed sempre esas simpla afero tirar la populo kun li, sive ol esas demokratio sive fashista diktatoreso sive parlamenteso sive komunista diktatoreso. [...] Kun voco o sin voco, la populo sempre povas adportesar a la volo dil duktanti. Ico esas facila. Omno quon tu devas facar, esas dicar a li, ke li esas atakata e denuncar la pacifisti pro manko di patrioteso ed expozo di la lando a danjero. To funcionas egale en irga lando.	Adelpa	2014-09-01 08:16:04	2021-04-01 07:07:17
-97	0x61	a	34613	12070441	ido	Ka omna stelo havas planeti?	shekitten	2023-09-22 00:50:24	2023-09-22 00:50:24
-98	0x62	b	3105	11485410	ido	Liberigez Havayi!	shekitten	2023-01-25 20:31:04	2023-01-25 20:31:04
-99	0x63	c	2686	2764577	ido	Me volas facar l'amoro kun el.	shekitten	2013-09-28 16:32:05	2019-10-19 22:03:31
-100	0x64	d	6131	2792486	ido	Lundio, mardio, merkurdio, jovdio, venerdio, saturdio e sundio esas la sep dii en un semano.	\N	2013-10-15 13:40:50	2014-03-04 02:35:32
-101	0x65	e	26075	12020009	ido	Il parolas la Hungariana ed el parolas la Germaniana.	shekitten	2023-08-27 18:52:18	2023-08-27 18:52:18
-102	0x66	f	2283	9937034	ido	Vua telefonilo sonas.	Adelpa	2021-04-04 15:33:29	2021-04-04 15:33:29
-103	0x67	g	2086	11163224	ido	La puerino havas nigra hararo e blua okuli.	Idopauline	2022-10-07 20:45:47	2022-10-07 20:45:47
-104	0x68	h	2248	9804671	ido	Granda fisho manjas mikra fisho.	Adelpa	2021-02-25 15:47:47	2021-02-25 15:47:47
-105	0x69	i	18555	4268068	ido	Lore ni ploreskis.	lipao	2015-06-11 17:50:43	2015-06-11 17:50:43
-106	0x6a	j	1117	1471495	ido	Esperanto, Ido, Interlingua, Klingon, Lojban, Na'vi e Volapük esas konstruktita lingui.	Sonoriuxo	2012-03-06 06:55:57	2012-03-06 06:55:57
-107	0x6b	k	6544	7813986	ido	Tam balde kam me arivos en London, me skribos a vu mesajeto.	alciono	2019-03-17 09:21:40	2019-03-17 09:21:40
-108	0x6c	l	13258	8191538	ido	Nulatempe.	shekitten	2019-09-16 17:47:53	2019-09-16 17:47:53
-109	0x6d	m	8717	942540	ido	Tu mustas respondar ca questiono.	Valodnieks	2011-06-17 21:19:57	2011-06-17 21:19:57
-110	0x6e	n	14337	6127162	ido	Pyongyang esas la chefurbo di Nord-Korea.	Algentem	2017-06-03 13:53:36	\N
-111	0x6f	o	22082	10342040	ido	Ka tu savas ube Tom mortis?	Idopauline	2021-10-04 22:10:51	2021-10-04 22:10:51
-112	0x70	p	6207	10496133	ido	Se on volas, on povas.	Adelpa	2021-11-09 06:41:18	2021-11-09 06:41:18
-113	0x71	q	897	10501629	ido	Ilu dormas quale bebeo.	Adelpa	2021-11-11 19:00:15	2021-11-11 19:00:15
-114	0x72	r	14710	1276000	ido	Ilu perdis libro.	alciono	2011-12-03 00:10:49	2011-12-03 00:10:49
-115	0x73	s	22027	12120605	ido	Tom es notora mentiero.	shekitten	2023-10-22 00:08:33	2023-10-22 00:08:33
-116	0x74	t	10907	1431820	ido	Lo esas exakte to quon me pensis.	Tradukero	2012-02-12 22:27:27	2012-02-12 22:27:27
-117	0x75	u	11253	10329893	ido	Johannas ne fumas plu.	Idopauline	2021-09-29 21:37:54	2021-09-29 21:37:54
-118	0x76	v	5336	10543075	ido	Me povas explikar.	Adelpa	2021-12-03 15:13:54	2021-12-03 15:13:54
-119	0x77	w	35	893748	ido	Me volus komendar sandwicho.	Tradukero	2011-05-15 16:50:08	2011-05-15 16:50:08
-120	0x78	x	407	1406334	ido	Mea skolo esas proxim la staciono.	alciono	2012-02-01 00:32:27	2012-02-01 00:32:27
-121	0x79	y	760	10362403	ido	Tom e Mary konocas John.	Idopauline	2021-10-14 17:05:38	2021-10-14 17:05:38
-122	0x7a	z	2180	10329887	ido	Ni exkuzis.	Idopauline	2021-09-29 21:34:58	2021-09-29 21:34:58
-171	0xab	«	2	5996419	ido	Quale onu dicas, «me amas vu», en vua linguo?	Algentem	2017-04-04 19:15:59	\N
+97	0x61	a	34674	9844034	ido	Me volas lernar dansar.	Adelpa	2021-03-15 09:14:09	2021-03-15 09:14:09
+98	0x62	b	3115	10311732	ido	La arboro esas plu alta kam la domo.	Idopauline	2021-09-21 21:23:07	2021-09-21 21:23:07
+99	0x63	c	2692	894130	ido	Me aperceptis ke, dormante, me preteriris mea halteyo.	Tradukero	2011-05-15 21:48:38	2011-05-15 21:48:38
+100	0x64	d	6146	10012535	ido	El ne esas plu parto di mea vivo.	Idopauline	2021-05-06 21:22:21	2021-05-06 21:22:21
+101	0x65	e	26132	10277990	ido	To esas vera vintro.	Idopauline	2021-09-04 20:14:24	2021-09-04 20:14:24
+102	0x66	f	2287	9834344	ido	Me esas tre fatigita.	Adelpa	2021-03-09 20:32:27	2021-03-09 20:32:27
+103	0x67	g	2089	11135229	ido	Pos terorigante abrupta explozo, la granda stono esis pasinta stono, e me povis kontinuar la profundigo dil puteo.	Morikami	2022-09-23 11:49:33	2022-09-23 11:49:33
+104	0x68	h	2256	9874556	ido	Quale nomesas la chefurbo di Australia?	Idopauline	2021-03-26 22:36:09	2021-03-26 22:36:09
+105	0x69	i	18611	901330	ido	Cuzco situesas preske 3.500 metri super la maro-nivelo, ed on povas ankore vidar le Inca ibe.	alciono	2011-05-21 13:06:13	2011-05-21 13:06:13
+106	0x6a	j	1119	893701	ido	Il retroiris adheme dum ke esis ankore jorno.	Tradukero	2011-05-15 16:02:28	2011-05-15 16:02:28
+107	0x6b	k	6554	2517166	ido	Tom ne volas riskar tante multo.	alciono	2013-06-22 20:41:19	2013-06-22 20:41:19
+108	0x6c	l	13288	1471517	ido	Ido selektesis unanime kom la linguo di la Delegitaro por la Adopto di Internaciona Helpolinguo ye la yaro 1907.	Sonoriuxo	2012-03-06 07:15:49	2012-03-06 07:15:49
+109	0x6d	m	8734	1216000	ido	En Japonia esas bela urbi, exemple Kyoto e Nara.	Valodnieks	2011-11-04 01:30:10	2011-11-04 01:30:10
+110	0x6e	n	14357	9740181	ido	Ca domo esas hotelo. Ol ne esas lupanaro.	Idopauline	2021-02-09 21:24:26	2021-02-09 21:24:26
+111	0x6f	o	22116	12040773	ido	Naturo retroprenos nia planeto.	shekitten	2023-09-06 15:18:48	2023-09-06 15:18:48
+112	0x70	p	6220	883736	ido	Me demandis de Tom apertar la fenestro.	Tradukero	\N	\N
+113	0x71	q	899	9823001	ido	Agez quale me bone dicas, e ne quale me male agas.	Adelpa	2021-03-04 18:37:24	2021-03-04 18:37:24
+114	0x72	r	14736	12148683	ido	La lago es granda.	shekitten	2023-11-06 12:41:01	2023-11-06 12:41:01
+115	0x73	s	22074	959073	ido	Me vidis longharara puerino.	Sonoriuxo	2011-06-25 22:49:45	2011-06-25 22:49:45
+116	0x74	t	10913	11102991	ido	Me vidis tu en la spegulo.	Idopauline	2022-09-07 23:01:28	2022-09-07 23:01:28
+117	0x75	u	11275	10348945	ido	La fronto di tua matro esas glata!	Idopauline	2021-10-07 20:55:09	2021-10-07 20:55:43
+118	0x76	v	5348	10195989	ido	La ovo esas la simbolo di la fertileso.	Idopauline	2021-07-27 14:56:10	2021-07-27 14:56:10
+119	0x77	w	35	1356938	ido	Sioro Togawas nominesis kom urb-estro.	alciono	2012-01-12 18:59:31	2012-01-12 18:59:31
+120	0x78	x	407	12101528	ido	Pro quo existas ulo vice nulo?	shekitten	2023-10-08 06:56:09	2023-10-08 06:56:09
+121	0x79	y	761	2769210	ido	Plato fondis sua akademio ula yari pos la morto di Sokrates.	shekitten	2013-10-02 00:34:32	2019-10-19 22:03:58
+122	0x7a	z	2191	9477112	ido	Uzez Tatoeba.	shekitten	2020-12-14 16:48:51	2020-12-14 16:48:51
+171	0xab	«	2	5996397	ido	«Ito esas tre chipa. Me deziras dek yards," respondis la puerino.	Algentem	2017-04-04 19:02:54	\N
 187	0xbb	»	1	5996419	ido	Quale onu dicas, «me amas vu», en vua linguo?	Algentem	2017-04-04 19:15:59	\N
 224	0xe0	à	1	5933523	ido	Regarde par-là	Kaelink	2017-03-10 03:07:17	\N
 225	0xe1	á	1	10575826	ido	Me esas Balázs.	Idopauline	2021-12-22 21:30:40	2021-12-22 21:30:40
@@ -85,12 +85,11 @@
 233	0xe9	é	1	1472212	ido	José selektis la ateismo ed ilu nultempe repentis.	Sonoriuxo	2012-03-06 20:35:48	2012-03-06 20:36:34
 243	0xf3	ó	1	921492	ido	Mea seniora filiino esas Magdalena Zarębówna.	alciono	2011-06-02 22:45:09	2011-06-02 22:45:09
 250	0xfa	ú	1	1425295	ido	Anglulo, Francino, Germanulo, Rusino, Hispanulo ed Italianino, qui havis la habileso parolar, rispektive, la Chiniana, Japoniana, Koreana, Tahitiana, Turka e Portugalana, rendevuis en Cancún (Mexikia).	alciono	2012-02-09 20:08:08	2012-02-09 20:08:08
-252	0xfc	ü	7	10678603	ido	München esas en Germania.	Idopauline	2022-02-17 22:31:56	2022-02-17 22:31:56
-264	0x108	Ĉ	1	7530577	ido	Ĉi-nokte sonas bone.	GrizaLeono	2018-11-27 09:16:29	2018-11-27 09:16:29
-281	0x119	ę	3	921489	ido	Mea spozo nomesas Lidia Zarębowa.	alciono	2011-06-02 22:42:53	2011-06-02 22:42:53
+252	0xfc	ü	7	10352221	ido	To esas siorino Müller.	Idopauline	2021-10-09 22:42:50	2021-10-09 22:42:50
+281	0x119	ę	3	921492	ido	Mea seniora filiino esas Magdalena Zarębówna.	alciono	2011-06-02 22:45:09	2011-06-02 22:45:09
 287	0x11f	ğ	1	9465169	ido	Erdoğan esas la prezidanto di Turkia.	Idopauline	2020-12-11 22:30:11	2020-12-11 22:30:11
 304	0x130	İ	1	7456954	ido	Me studiis Ido en la paromo de İDO.	luca22	2018-11-13 02:51:29	2019-03-10 22:35:41
-321	0x141	Ł	3	921518	ido	La filii di Felicja opinionas ke lia patro Łazarz esas plu bela kam Justin Bieber.	alciono	2011-06-02 23:00:23	2011-06-02 23:00:23
+321	0x141	Ł	3	921523	ido	La filii di Łazarz opinionas ke lia matro Felicja esas la maxim bela muliero en la mondo.	alciono	2011-06-02 23:01:23	2011-06-02 23:01:23
 333	0x14d	ō	2	9983682	ido	Me habitas en Tōkyō.	PiaKorvo	2021-04-24 21:43:11	2021-04-24 21:43:11
 349	0x15d	ŝ	1	9940521	ido	La Akademio di Esperanto deklaras, ke olu nun ne aceptas vid-punto pri la uzindeso di neoficala sexua-neutrala pronomi (tala exemple "ri" o "ŝli"), e decidis ne okupar su pri ta temo dum adminime dek yari.	Teashrock	2021-04-06 11:55:39	2021-04-17 18:01:45
 353	0x161	š	1	12140068	ido	Dešra gardi.	glavsaltulo	2023-11-01 15:22:35	2023-11-01 15:22:35

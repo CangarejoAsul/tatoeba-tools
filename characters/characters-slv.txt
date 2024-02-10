@@ -1,91 +1,91 @@
-32	0x20	 	9685	6597456	slv	Najdi Boga, če zmoreš.	Naju55	2018-01-09 18:25:24	2018-01-09 18:25:24
-33	0x21	!	159	11643306	slv	Naj živi Mehika!	Adelpa	2023-04-01 05:34:29	2023-04-01 05:34:29
-34	0x22	"	36	2206316	slv	Nikdar ne napiši besedi "boršč" in "šči" v nemščini!	Balamax	2013-02-09 20:25:09	2018-02-06 13:41:48
+32	0x20	 	9687	3811290	slv	Si že kdaj bila v Teheranu?	sparks	2015-01-30 12:03:17	2015-01-30 12:03:17
+33	0x21	!	159	6597731	slv	Hipnotizirani so bili!	peroxy	2018-01-09 21:31:36	2018-01-09 21:31:36
+34	0x22	"	36	3932365	slv	-"Ali imaš punco?" -"Ne" -"Kaj pa fanta?"	AvivA	2015-03-05 10:42:15	2015-03-05 10:42:41
 38	0x26	&	1	3811326	slv	Znak '&' pomeni 'in'.	sparks	2015-01-30 12:10:57	2015-01-30 12:10:57
-39	0x27	'	10	3811326	slv	Znak '&' pomeni 'in'.	sparks	2015-01-30 12:10:57	2015-01-30 12:10:57
+39	0x27	'	10	6603625	slv	''Tom, kako je ime tvojemu psu?'' je vprašal njegov sosed.	madsrem	2018-01-13 23:08:36	2018-01-13 23:08:36
 40	0x28	(	1	6597647	slv	Grem v LA(ško).	Huhu	2018-01-09 21:02:32	2018-01-09 21:02:32
 41	0x29	)	1	6597647	slv	Grem v LA(ško).	Huhu	2018-01-09 21:02:32	2018-01-09 21:02:32
-44	0x2c	,	435	6029970	slv	Kot sem že rekel, ni problema.	Klemensas	2017-04-22 10:59:07	\N
+44	0x2c	,	435	2115947	slv	Govoril je v polomljeni angleščini, ki jo je bilo težko razumeti.	Ashucky	2012-12-31 23:28:46	2013-01-07 03:44:06
 45	0x2d	-	13	3932365	slv	-"Ali imaš punco?" -"Ne" -"Kaj pa fanta?"	AvivA	2015-03-05 10:42:15	2015-03-05 10:42:41
-46	0x2e	.	2005	3481149	slv	Tom živi sam v gozdu.	blazstempelj	2014-09-08 21:30:40	2014-09-08 21:30:40
-47	0x2f	/	5	3810584	slv	Ko je prišel sem bral/a pismo.	sparks	2015-01-30 09:28:12	2015-01-30 09:28:12
-48	0x30	0	11	11935172	slv	Ona je umrla 2019.	Adelpa	2023-07-16 18:02:16	2023-07-16 18:02:16
-49	0x31	1	13	11817253	slv	Visok sem 185 cm.	Adelpa	2023-06-03 09:44:02	2023-06-03 09:44:02
-50	0x32	2	10	11935172	slv	Ona je umrla 2019.	Adelpa	2023-07-16 18:02:16	2023-07-16 18:02:16
+46	0x2e	.	2006	2202453	slv	Prisilili so me, da zapojem pesem.	Ashucky	2013-02-09 02:04:46	2013-02-09 02:04:46
+47	0x2f	/	5	6599698	slv	Pes je zadovoljen/srečen	jazjaz	2018-01-11 11:40:01	2018-01-11 11:40:01
+48	0x30	0	11	11665360	slv	Veter piha s hitrostjo 360 km/h.	Adelpa	2023-04-08 07:48:48	2023-04-08 07:48:48
+49	0x31	1	13	3811336	slv	Naravni logaritem e-ja je 1.	sparks	2015-01-30 12:19:03	2015-01-30 12:19:03
+50	0x32	2	10	11661714	slv	Danska abeceda ima 29 črk.	Adelpa	2023-04-06 18:31:40	2023-04-06 18:40:21
 51	0x33	3	1	11665360	slv	Veter piha s hitrostjo 360 km/h.	Adelpa	2023-04-08 07:48:48	2023-04-08 07:48:48
 52	0x34	4	1	2448328	slv	Prišel bo 24. junija.	\N	2013-05-22 12:36:09	2013-05-22 12:39:44
 53	0x35	5	4	11661745	slv	Slovenska abeceda ima 25 črk.	Adelpa	2023-04-06 18:58:58	2023-04-06 18:58:58
-54	0x36	6	3	2202469	slv	"Starost?" "16."	Ashucky	2013-02-09 02:12:30	2013-02-09 02:12:30
-55	0x37	7	2	3477082	slv	Emily bo maturirala leta 2017.	blazstempelj	2014-09-07 12:06:49	2014-09-07 12:06:49
+54	0x36	6	3	11665360	slv	Veter piha s hitrostjo 360 km/h.	Adelpa	2023-04-08 07:48:48	2023-04-08 07:48:48
+55	0x37	7	2	11706746	slv	Ura je 7.	Adelpa	2023-04-24 07:47:18	2023-04-24 07:47:18
 56	0x38	8	2	11817253	slv	Visok sem 185 cm.	Adelpa	2023-06-03 09:44:02	2023-06-03 09:44:02
-57	0x39	9	7	1543709	slv	Slovenska pevka Maja Kevc je bila rojena leta 1992.	isopropyl	2012-04-21 11:45:30	2012-04-21 11:45:30
+57	0x39	9	7	11706992	slv	Ura je 9.	Adelpa	2023-04-24 10:53:57	2023-04-24 10:53:57
 58	0x3a	:	10	3285507	slv	Žive vsi narodi, ki hrepéne dočakat’ dan: da, koder sonce hodi, prepir iz sveta bo pregnan, ko rojak prost bo vs’ak, ne vrag, le sosed bo mejak, ko rojak prost bo vs’ak, ne vrag, le sosed bo, ne vrag, le sosed bo mejak.	Abeotat1948	2014-05-30 06:32:23	2014-05-30 06:32:23
 59	0x3b	;	2	3618072	slv	Ugotavlja rezultate, ki so bili doseženi z uporabo esperanta na področju mednarodne intelektualne izmenjave in za zbliževanje narodov sveta;	ismael_avila	2014-11-09 22:51:05	2014-11-09 22:51:05
-63	0x3f	?	821	11778526	slv	Kdo je bil Jezus?	Adelpa	2023-05-20 10:44:03	2023-05-20 10:44:03
-65	0x41	A	315	10363189	slv	Ali govoriš angleško?	koala	2021-10-15 00:47:50	2021-10-15 00:47:50
-66	0x42	B	120	11749928	slv	Bil sem zelo utrujen.	Adelpa	2023-05-09 16:14:15	2023-05-09 16:14:15
-67	0x43	C	8	11925417	slv	Cilj opravičuje sredstva.	Adelpa	2023-07-12 10:30:39	2023-07-12 10:30:39
-68	0x44	D	108	564085	slv	Dober dan, ste gospod Ogawa?	pgavda	2010-10-13 19:59:53	2014-10-07 19:45:06
-69	0x45	E	27	11778516	slv	Kdo je bila kraljica Elizabeta?	Adelpa	2023-05-20 10:36:49	2023-05-20 10:36:49
-70	0x46	F	20	11707890	slv	Francoščina je težka.	Adelpa	2023-04-24 19:15:56	2023-04-24 19:15:56
-71	0x47	G	277	11672835	slv	Govorite amharsko?	Adelpa	2023-04-11 06:35:09	2023-04-11 06:35:09
-72	0x48	H	48	11639735	slv	Ime mi je Hashimoto.	Adelpa	2023-03-30 18:03:21	2023-03-30 18:03:21
-73	0x49	I	91	11639761	slv	Ime mi je Makisig.	Adelpa	2023-03-30 18:27:08	2023-03-30 18:27:08
-74	0x4a	J	144	12239386	slv	Jaz imam knjigo.	Adelpa	2023-12-29 19:57:42	2023-12-29 19:57:42
-75	0x4b	K	393	11793792	slv	Kako lep sončen dan!	Adelpa	2023-05-26 08:58:31	2023-05-26 08:58:31
-76	0x4c	L	87	3941312	slv	Lišček je zelo zanimiva ptica.	Balamax	2015-03-09 03:07:27	2015-03-09 03:10:48
-77	0x4d	M	224	11919433	slv	Lepo potuj, draga Marija!	Adelpa	2023-07-09 20:15:52	2023-07-09 20:15:52
-78	0x4e	N	278	6597640	slv	Nihče dejansko ne doživlja resničnosti zahvaljujoč oligarhiji miljarderjev.	Huhu	2018-01-09 20:59:08	2018-01-09 20:59:08
-79	0x4f	O	123	564085	slv	Dober dan, ste gospod Ogawa?	pgavda	2010-10-13 19:59:53	2014-10-07 19:45:06
-80	0x50	P	176	11192917	slv	Pred zajtrkom se je stuširal.	janTuki	2022-10-19 22:38:55	2022-10-19 22:38:58
+63	0x3f	?	821	11609580	slv	Si skril denar?	janTuki	2023-03-20 20:20:56	2023-03-20 20:21:00
+65	0x41	A	315	11918971	slv	Ajdova kaša je okusna slovenska jed.	Adelpa	2023-07-09 13:57:46	2023-07-09 13:57:46
+66	0x42	B	120	11749934	slv	Bila sem zelo utrujena.	Adelpa	2023-05-09 16:28:52	2023-05-09 16:28:52
+67	0x43	C	8	2141757	slv	Cuj mojo skrivnost. Zelo preprosta je: Kdor hoce videti, mora gledati s srcem. Bistvo je ocem nevidno.	madoromi	2013-01-13 10:45:45	2013-01-13 10:45:45
+68	0x44	D	108	5845845	slv	Dogodek je vplival na njegovo prihodnost.	isopropyl	2017-02-10 13:36:10	2017-02-10 13:36:10
+69	0x45	E	27	12022587	slv	Ena plus ena je dva.	Adelpa	2023-08-29 07:08:57	2023-08-29 07:08:57
+70	0x46	F	20	11734085	slv	Sem iz Francije.	Adelpa	2023-05-03 12:07:33	2023-05-03 12:07:33
+71	0x47	G	277	11657349	slv	Govorite hrvaško?	Adelpa	2023-04-05 13:13:29	2023-04-05 13:13:29
+72	0x48	H	48	2788489	slv	Hočeš čaj?	oseba	2013-10-13 14:07:06	2022-11-05 13:17:15
+73	0x49	I	91	11643469	slv	Imaš ogenj?	Adelpa	2023-04-01 08:35:50	2023-04-01 08:35:50
+74	0x4a	J	144	9142646	slv	Jaz sem bolan.	\N	2020-10-14 00:36:54	2020-11-07 21:52:56
+75	0x4b	K	393	11742744	slv	Kaj pomeni biti svoboden?	Adelpa	2023-05-06 19:24:33	2023-05-06 19:24:33
+76	0x4c	L	87	11633273	slv	Živim v Ljubljani.	Adelpa	2023-03-28 18:51:12	2023-03-28 18:51:12
+77	0x4d	M	224	6601194	slv	Mislil sem da jim lahko zaupam.	Barl	2018-01-12 12:49:30	2018-01-12 12:49:30
+78	0x4e	N	278	3667425	slv	Ne bodi neumen.	tyrn	2014-12-01 02:34:21	2014-12-01 02:34:21
+79	0x4f	O	123	2117491	slv	Oče je izgubil službo, in kar je še slabše, mati je zbolela.	Ashucky	2013-01-02 01:12:15	2013-01-02 01:12:38
+80	0x50	P	176	6598942	slv	Poskusimo nekaj.	Pikapoka	2018-01-10 18:43:46	2018-01-10 18:43:46
 81	0x51	Q	1	11770575	slv	Quito je glavno mesto Ekvadorja.	Adelpa	2023-05-17 20:48:46	2023-05-17 20:48:46
-82	0x52	R	63	3005105	slv	Jaz sem v Rusiji.	\N	2014-01-24 11:19:27	2015-03-15 11:00:50
-83	0x53	S	210	6598589	slv	Streho je treba popraviti.	PR1MO	2018-01-10 14:30:21	2018-01-10 14:30:21
-84	0x54	T	327	3011901	slv	Ali veš kaj o Tomu?	\N	2014-01-27 21:23:46	2015-03-15 10:58:18
-85	0x55	U	59	11656752	slv	Ura je dva.	Adelpa	2023-04-05 10:55:58	2023-04-05 10:55:58
-86	0x56	V	150	6599703	slv	Voda ima okus po pipi.	jazjaz	2018-01-11 11:42:09	2018-01-11 11:42:09
-87	0x57	W	5	2515802	slv	Pozdravljeni v Wikipediji, prosti enciklopediji, ki jo lahko ureja vsakdo.	oseba	2013-06-22 12:35:23	2022-11-05 13:11:40
+82	0x52	R	63	2977451	slv	Razumem.	\N	2014-01-11 17:01:10	2015-03-15 11:01:52
+83	0x53	S	210	6598947	slv	Spati bi moral.	Pikapoka	2018-01-10 18:46:42	2018-01-10 18:46:42
+84	0x54	T	327	3667531	slv	Želiš vedeti zakaj sem lagala Tomu?	tyrn	2014-12-01 04:00:24	2014-12-01 04:00:24
+85	0x55	U	59	3011941	slv	Upam, da bo jutri lepo vreme.	\N	2014-01-27 21:34:28	2015-03-15 10:57:44
+86	0x56	V	150	11762891	slv	Vsaka medalja ima dve plati.	Adelpa	2023-05-14 17:52:35	2023-05-14 17:52:35
+87	0x57	W	5	3811376	slv	Pesem "I Am Woman" Helene Reddy je postala neuradna himna ženskega osvobodilnega gibanja.	sparks	2015-01-30 12:30:03	2015-01-30 12:30:03
 88	0x58	X	3	11749419	slv	Kako se reče XXX po nizozemsko?	Adelpa	2023-05-09 10:51:35	2023-05-09 10:51:35
-89	0x59	Y	5	11639630	slv	Moje ime je Yamada.	Adelpa	2023-03-30 16:32:07	2023-03-30 16:32:07
-90	0x5a	Z	109	11786574	slv	Zelo zanimivo!	Adelpa	2023-05-23 12:52:45	2023-05-23 12:52:45
-97	0x61	a	5672	3476140	slv	To ne bo zadnjič.	blazstempelj	2014-09-06 22:03:17	2014-09-06 22:03:17
-98	0x62	b	927	11919006	slv	Angleška beseda za buče «pumpkin» izvira iz grške besede «pepon», ki pomeni velika melona.	Adelpa	2023-07-09 14:24:02	2023-07-09 14:24:02
-99	0x63	c	331	3285507	slv	Žive vsi narodi, ki hrepéne dočakat’ dan: da, koder sonce hodi, prepir iz sveta bo pregnan, ko rojak prost bo vs’ak, ne vrag, le sosed bo mejak, ko rojak prost bo vs’ak, ne vrag, le sosed bo, ne vrag, le sosed bo mejak.	Abeotat1948	2014-05-30 06:32:23	2014-05-30 06:32:23
-100	0x64	d	1504	11948349	slv	Fascinira me voda.	Adelpa	2023-07-21 17:23:19	2023-07-21 17:23:19
-101	0x65	e	6442	11755037	slv	Kako je tvojemu psu ime?	Adelpa	2023-05-11 13:57:49	2023-05-11 13:57:49
-102	0x66	f	94	11653748	slv	Ne govorim finsko.	Adelpa	2023-04-04 13:50:03	2023-04-04 13:50:03
-103	0x67	g	921	3668659	slv	Vsi ljudje na Zemlji imajo skupnega prednika.	tyrn	2014-12-01 18:33:17	2014-12-01 18:33:17
-104	0x68	h	393	11836637	slv	Najlepša hvala!	Adelpa	2023-06-10 21:08:44	2023-06-10 21:08:44
-105	0x69	i	5037	11712113	slv	Koliko si star?	Adelpa	2023-04-25 15:31:56	2023-04-25 15:31:56
-106	0x6a	j	3113	3005187	slv	Njeno stanovanje je zmeraj čisto.	\N	2014-01-24 11:56:53	2015-03-15 10:59:43
-107	0x6b	k	2037	3476160	slv	Med poukom ne smeš govoriti japonsko.	blazstempelj	2014-09-06 22:08:55	2014-09-06 22:08:55
-108	0x6c	l	2616	6598558	slv	Eno veliko porcijo riža prosim.	PR1MO	2018-01-10 14:18:32	2018-01-10 14:18:32
-109	0x6d	m	2376	11745387	slv	Kakšno je bilo včeraj vreme?	Adelpa	2023-05-07 18:41:58	2023-05-07 18:41:58
-110	0x6e	n	2965	11889193	slv	Možgani so najkompleksnejši in najbolj dovršen organ v našem telesu.	Adelpa	2023-06-29 13:27:17	2023-06-29 13:27:17
-111	0x6f	o	6064	11712067	slv	Koliko je star Tone?	Adelpa	2023-04-25 15:19:06	2023-04-25 15:19:06
-112	0x70	p	1236	5923391	slv	To zgodbo mi je povedal prijatelj.	mihagru	2017-03-06 14:09:13	\N
-114	0x72	r	2917	11192885	slv	Ne moreš priti sem.	janTuki	2022-10-19 22:34:43	2022-10-19 22:34:43
-115	0x73	s	2657	11730302	slv	Ne živim več ne v preteklosti in ne v prihodnosti, na voljo imam le ta trenutek. Zato se nimam česa bati.	Adelpa	2023-05-01 15:41:03	2023-05-01 15:41:03
-116	0x74	t	2220	5833776	slv	Tom je trenutno v redu.	blazstempelj	2017-02-06 18:41:42	2017-02-06 18:41:42
-117	0x75	u	980	11768688	slv	Kabul je glavno mesto Afganistana.	Adelpa	2023-05-17 09:00:08	2023-05-17 09:00:08
-118	0x76	v	2295	11935073	slv	Koliko prebivalcev ima Ljubljana?	Adelpa	2023-07-16 17:16:46	2023-07-16 17:16:46
-119	0x77	w	9	9142609	slv	Kje je Subway?	\N	2020-10-14 00:23:17	2020-11-07 21:53:09
+89	0x59	Y	5	11956251	slv	Moja teta živi v New Yorku.	Adelpa	2023-07-25 08:59:12	2023-07-25 08:59:12
+90	0x5a	Z	110	6597619	slv	Znotraj se je počutil praznega.	Lamaman	2018-01-09 20:38:26	2018-01-09 20:38:26
+97	0x61	a	5675	11672973	slv	Govorim nepalsko.	Adelpa	2023-04-11 07:03:59	2023-04-11 07:03:59
+98	0x62	b	927	11778710	slv	Kdo je bil Laodzi?	Adelpa	2023-05-20 12:06:17	2023-05-20 12:06:17
+99	0x63	c	331	11734096	slv	To je moja prijateljica.	Adelpa	2023-05-03 12:12:50	2023-05-03 12:12:50
+100	0x64	d	1505	2155123	slv	On je blond.	slavexpert	2013-01-20 11:08:24	2013-01-20 11:08:27
+101	0x65	e	6443	6601180	slv	Še zmeraj te čakam.	Barl	2018-01-12 12:33:35	2018-01-12 12:33:35
+102	0x66	f	94	8697247	slv	V moji sobi je telefon.	isopropyl	2020-04-20 21:25:50	2020-04-20 21:25:50
+103	0x67	g	922	2115884	slv	To knjigo sem dobil od njega.	Ashucky	2012-12-31 22:49:34	2012-12-31 22:49:34
+104	0x68	h	393	6598949	slv	Pohiti	Pikapoka	2018-01-10 18:48:48	2018-01-10 18:48:48
+105	0x69	i	5038	11742636	slv	Kaj za vas pomeni sreča?	Adelpa	2023-05-06 17:09:24	2023-05-06 17:09:24
+106	0x6a	j	3114	6601199	slv	On je v mojem razredu.	Barl	2018-01-12 12:51:36	2018-01-12 12:51:36
+107	0x6b	k	2037	2788499	slv	Nikoli ne bomo vedeli.	\N	2013-10-13 14:14:08	2016-04-27 07:09:26
+108	0x6c	l	2617	11672321	slv	Ali govorite turkmensko?	Adelpa	2023-04-10 20:33:52	2023-04-10 20:33:52
+109	0x6d	m	2376	2115728	slv	Ko sem o tem osnovnem vprašanju razmislil temeljito, sem prišel do zaključka, da razlika, ki jo priznani ljudje velikokrat opišejo kot "znatno" ali "občutno", med nepogrešljivima besedama "pomemben" in "ključen" ni precejšnja, ampak je kar zanemarljiva.	Ashucky	2012-12-31 20:01:17	2013-01-06 00:25:42
+110	0x6e	n	2967	11919156	slv	Na splošno lahko zapišemo, da enakost pred zakonom in prepoved diskriminacije ostajata aktualni družbeni temi.	Adelpa	2023-07-09 16:16:40	2023-07-09 16:16:40
+111	0x6f	o	6067	11672885	slv	Govorite baskovsko?	Adelpa	2023-04-11 06:43:21	2023-04-11 06:43:21
+112	0x70	p	1237	2115728	slv	Ko sem o tem osnovnem vprašanju razmislil temeljito, sem prišel do zaključka, da razlika, ki jo priznani ljudje velikokrat opišejo kot "znatno" ali "občutno", med nepogrešljivima besedama "pomemben" in "ključen" ni precejšnja, ampak je kar zanemarljiva.	Ashucky	2012-12-31 20:01:17	2013-01-06 00:25:42
+114	0x72	r	2917	6598448	slv	Primi me za roke in me glej v oči.	Barl	2018-01-10 11:32:46	2018-01-10 11:32:46
+115	0x73	s	2658	11672771	slv	Govorite gruzinsko?	Adelpa	2023-04-11 06:25:34	2023-04-11 06:25:34
+116	0x74	t	2220	8697209	slv	Je vaš najboljši prijatelj moški ali ženska?	isopropyl	2020-04-20 21:12:39	2020-04-20 21:12:39
+117	0x75	u	980	11741119	slv	Sem učiteljica.	Adelpa	2023-05-05 20:34:35	2023-05-05 20:34:35
+118	0x76	v	2297	11742058	slv	Mijav.	Adelpa	2023-05-06 10:46:46	2023-05-06 10:46:46
+119	0x77	w	9	6597927	slv	Koliko je ura v Buffalo, New York?	zmagec	2018-01-09 22:57:08	2018-01-09 22:57:08
 120	0x78	x	1	5336125	slv	Sepa ve davaxa.	vo_gne	2016-08-12 05:03:12	2016-08-12 05:03:12
-121	0x79	y	38	6597788	slv	Tom se spomni svojega prvega zmenka z Mary.	Cutelikepotato	2018-01-09 21:43:45	2018-01-09 21:43:45
-122	0x7a	z	868	2620599	slv	Jaz sem v restavraciji.	\N	2013-07-25 18:23:22	2016-04-27 07:05:19
+121	0x79	y	38	6597775	slv	"Riž in kvinoja sta varni žiti" je rekla Mary.	Taubi	2018-01-09 21:39:00	2018-01-09 21:39:00
+122	0x7a	z	868	11902924	slv	Tisti, ki je goro prestavil, je začel z drobnim kamenjem.	Adelpa	2023-07-03 16:01:29	2023-07-03 16:01:29
 160	0xa0	 	8	2148546	slv	On je moj najboljši prijatelj.	balkanbalkan	2013-01-16 19:51:54	2013-01-16 19:52:00
-171	0xab	«	19	12023626	slv	»A« je prva črka abecede.	Adelpa	2023-08-29 19:20:59	2023-08-29 19:20:59
-187	0xbb	»	19	11749375	slv	Kako se reče »sir« po angleško?	Adelpa	2023-05-09 10:16:11	2023-05-09 10:16:11
+171	0xab	«	19	12023688	slv	»B« je druga črka abecede.	Adelpa	2023-08-29 19:58:58	2023-08-29 19:58:58
+187	0xbb	»	19	11936589	slv	Gost natakarju: »Čaj brez limone prosim.« Natakar: »Limon je zmanjkalo. Ali lahko brez pomaranče?«	Adelpa	2023-07-17 11:18:30	2023-07-17 11:18:30
 223	0xdf	ß	2	3811360	slv	Pojdi na avtobus proti Badstraße in izstopi pri Seestraße.	sparks	2015-01-30 12:26:30	2015-01-30 12:26:30
-233	0xe9	é	2	3285507	slv	Žive vsi narodi, ki hrepéne dočakat’ dan: da, koder sonce hodi, prepir iz sveta bo pregnan, ko rojak prost bo vs’ak, ne vrag, le sosed bo mejak, ko rojak prost bo vs’ak, ne vrag, le sosed bo, ne vrag, le sosed bo mejak.	Abeotat1948	2014-05-30 06:32:23	2014-05-30 06:32:23
+233	0xe9	é	2	6597762	slv	Krava jé travo.	peroxy	2018-01-09 21:35:44	2018-01-09 21:35:44
 234	0xea	ê	1	11244589	slv	Vest me pêče.	saillier	2022-11-13 06:14:41	2022-11-13 07:11:08
 253	0xfd	ý	1	5097861	slv	Spolu ostanými odpustil kryt a vratil domov.	Aleksandro40	2016-04-30 14:22:22	2016-04-30 16:43:50
-268	0x10c	Č	25	11229995	slv	Čudno.	oseba	2022-11-05 13:37:33	2022-11-05 13:37:33
-269	0x10d	č	787	6598704	slv	Poglej me v oči.	joko11	2018-01-10 15:41:29	2018-01-10 15:41:29
-352	0x160	Š	42	11772502	slv	Glavno mesto Šrilanke je Šri Džajavardenapura Kote.	Adelpa	2023-05-18 17:19:08	2023-05-18 17:19:08
-353	0x161	š	881	11933671	slv	Kdaj odhajaš?	Adelpa	2023-07-16 08:34:48	2023-07-16 08:34:48
-381	0x17d	Ž	72	11786443	slv	Žirafa je najvišja žival na svetu.	Adelpa	2023-05-23 10:57:46	2023-05-23 10:57:46
-382	0x17e	ž	479	2449878	slv	Tomaž se igra s svojim jojojem.	Klemensas	2013-05-23 11:44:49	2013-05-23 11:44:49
+268	0x10c	Č	25	11800646	slv	»Kateri dan je danes?« »Četrtek.«	Adelpa	2023-05-28 19:41:35	2023-05-28 19:41:35
+269	0x10d	č	787	11781302	slv	Jaz sem Američan.	Adelpa	2023-05-21 12:30:52	2023-05-21 12:30:52
+352	0x160	Š	42	3477072	slv	Šel sem v živalski vrt.	blazstempelj	2014-09-07 12:04:39	2014-09-07 12:04:39
+353	0x161	š	881	11889329	slv	Srce ima štiri komore.	Adelpa	2023-06-29 13:56:18	2023-06-29 13:56:18
+381	0x17d	Ž	72	2775144	slv	Živijo! Kako si?	Ricardo14	2013-10-05 21:15:29	2013-10-05 21:15:29
+382	0x17e	ž	479	2115903	slv	V tujini sem živel 10 let.	Ashucky	2012-12-31 23:03:10	2012-12-31 23:03:10
 1079	0x437	з	1	3811494	slv	Beseda "злой" je edini ruski pridevnik z le enim zlogom.	sparks	2015-01-30 12:57:54	2015-01-30 12:57:54
 1081	0x439	й	1	3811494	slv	Beseda "злой" je edini ruski pridevnik z le enim zlogom.	sparks	2015-01-30 12:57:54	2015-01-30 12:57:54
 1083	0x43b	л	1	3811494	slv	Beseda "злой" je edini ruski pridevnik z le enim zlogom.	sparks	2015-01-30 12:57:54	2015-01-30 12:57:54
