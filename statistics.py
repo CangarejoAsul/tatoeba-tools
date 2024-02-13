@@ -21,12 +21,16 @@ def cleanupforhashing(text):
 def cleanupforsorting(word):
   word = word.lower()
   word = sub(r"\W", "", word)
-  word = sub(r"[àáâãä]", "a", word)
+  word = sub(r"[àáâãäāå]", "a", word)
+  word = sub(r"[æ]", "ae", word)
   word = sub(r"[ç]", "c", word)
-  word = sub(r"[èéêẽë]", "e", word)
-  word = sub(r"[ìíîĩï]", "i", word)
-  word = sub(r"[òóôõö]", "o", word)
-  word = sub(r"[ùúûũü]", "u", word)
+  word = sub(r"[èéêẽëē]", "e", word)
+  word = sub(r"[ìíîĩïī]", "i", word)
+  word = sub(r"[ñ]", "n", word)
+  word = sub(r"[òóôõöōø]", "o", word)
+  word = sub(r"[œ]", "oe", word)
+  word = sub(r"[ß]", "ss", word)
+  word = sub(r"[ùúûũüū]", "u", word)
   return word
 
 def cleanupforsplitting(text):
@@ -61,7 +65,13 @@ def getwords(text):
   return findall(r"""(?:[\w#@-][\w#@'()/,:.-]*)?[\w#@-]""", cleanupforsplitting(text))
 
 def getwordsinenglish(text):
-  return findall(r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""", cleanupforsplitting(text))
+  return findall(
+    r"""[^\s—―…'‘"“<«\[{][^\s—―…]+[)][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
+    r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[(][^\s—―…]+[^\s—―…'’"”>»\]},:;.?!‽]|"""
+    r"""(?:[^\s—―…'‘"“<«(\[{][^\s—―…]*)?(?:[^\W\d]\.){2,}(?![^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽])|"""
+    r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
+    r"""[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""",
+    cleanupforsplitting(text))
 
 def getwordsinlanguage(janome, kkma, language, text):
   words = set()
@@ -225,10 +235,10 @@ def countwords():
       spellchecks = loadspellchecker(language)
 
       print("Reading old words (" + language + ")...")
-      sentences = {}
+      words = set()
+      oldsentences = {}
       identification = {}
       owner = {}
-      old = set()
       try:
         read = open("words-old/words-" + language + ".txt", "r", encoding = "utf-8")
       except:
@@ -236,39 +246,36 @@ def countwords():
       else:
         for line in read:
           fields = findall(r"[^\t\n]+", line)
-          if fields[2] != "D":
-            old.add(fields[0])
-            sentences[fields[0]] = 0
+          if fields[2] != "0":
+            words.add(fields[0])
+            oldsentences[fields[0]] = fields[2]
             identification[fields[0]] = fields[4]
             owner[fields[0]] = fields[5]
         read.close()
 
       print("Reading words (" + language + ")...")
+      newsentences = {}
       read = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
-      new = set()
       for line in read:
         fields = findall(r"[^\t\n]+", line)
         sentence = getwordsinlanguage(janome, kkma, language, fields[2])
         for word in sentence:
-          new.add(word)
-          if word not in sentences:
-            sentences[word] = 0
-          sentences[word] += 1
-          if randint(1, sentences[word]) == 1:
+          words.add(word)
+          if word not in newsentences:
+            newsentences[word] = 0
+          newsentences[word] += 1
+          if randint(1, newsentences[word]) == 1:
             identification[word] = fields[0]
             owner[word] = fields[3]
       read.close()
 
-      words = set(old)
-      words.update(new)
+      print("Writing words (" + language + ")...")
       words = list(words)
       words.sort()
       words.sort(key = lambda word: cleanupforsorting(word))
-
-      print("Writing words (" + language + ")...")
       write = open("words/words-" + language + ".txt", "w", encoding = "utf-8")
       for word in words:
-        print(word, sentences[word], "K" if word in old and word in new else "A" if word not in old else "D", "+" if spellchecks(word) else "−", identification[word], owner[word], sep = "\t", file = write)
+        print(word, oldsentences[word] if word in oldsentences else 0, newsentences[word] if word in newsentences else 0, "+" if spellchecks(word) else "−", identification[word], owner[word], sep = "\t", file = write)
       write.close()
 
 def counttranslations():
@@ -600,11 +607,11 @@ def analyzepunctuation():
       if findall(r"""([^.]|^)\.\.([^.]|$)""", fields[2], flags = I):
         print("Ellipsis: too short", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
-        print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
+      # if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
+      #   print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""\d-\d""", fields[2], flags = I):
-        print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
+      # if findall(r"""\d-\d""", fields[2], flags = I):
+      #   print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("ber", "fra", "kab") and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -763,8 +770,8 @@ print("")
 countwords()
 print("")
 counttranslations()
-print("")
-counttranslationsuser("eng", "por", "Cangarejo")
+# print("")
+# counttranslationsuser("eng", "por", "Cangarejo")
 print("")
 selectsentences()
 print("")
