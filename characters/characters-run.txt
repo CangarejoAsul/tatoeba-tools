@@ -1,76 +1,76 @@
-32	0x20	 	11981	7133171	run	Ugara idirisha!	driini	2018-09-07 13:16:00	2018-09-07 13:16:00
-33	0x21	!	462	8085292	run	Fata ubuyobozi!	driini	2019-08-01 06:36:16	2020-12-27 22:45:38
-34	0x22	"	8	7958226	run	"Aya marori ni ayande?" – "Nyeneyo ni Data."	driini	2019-06-04 23:45:49	2019-06-04 23:45:49
-39	0x27	'	572	8735932	run	Mugenda kw'ishure n'amaguru?	driini	2020-05-03 18:43:24	2021-01-29 22:10:36
-44	0x2c	,	196	8686944	run	Iyo nza kuba wewe, notanguye ubwo nyene.	driini	2020-04-16 20:03:46	2020-04-16 20:03:46
-46	0x2e	.	3841	8852444	run	Nanje, ntibinshimishije.	driini	2020-06-17 18:55:43	2021-01-29 21:41:36
+32	0x20	 	11981	9789604	run	Ejo hahise twaragiye kuramutsa nyokuru.	Tete	2021-02-21 17:51:24	2021-02-21 17:51:24
+33	0x21	!	462	8082995	run	Twara abo bantu hirya!	driini	2019-07-30 08:29:14	2020-12-27 23:09:35
+34	0x22	"	8	7958225	run	"Aya marori ni ayande?" – "Ni aya Data."	driini	2019-06-04 23:44:50	2019-06-04 23:44:50
+39	0x27	'	572	8610092	run	Kubera iki wahevye gukora mw'itongo?	driini	2020-03-13 03:07:37	2021-01-02 18:05:38
+44	0x2c	,	196	8375891	run	Ndabasavye, mumubwire arindire!	driini	2019-12-10 16:07:50	2021-01-08 22:17:01
+46	0x2e	.	3841	9186939	run	Turahuje.	driini	2020-10-24 16:27:09	2020-10-24 16:27:09
 47	0x2f	/	1	9778731	run	11. Nyaruka/Nyarutse!	Tete	2021-02-19 20:26:58	2021-02-19 20:26:58
 48	0x30	0	5	8934112	run	Mpembwa amaero 100 ku munsi.	driini	2020-07-23 15:55:01	2020-07-23 15:55:01
-49	0x31	1	5	9778731	run	11. Nyaruka/Nyarutse!	Tete	2021-02-19 20:26:58	2021-02-19 20:26:58
-50	0x32	2	3	8917086	run	Twamenyanye mu mwaka 2008 hanyuma twabirana umwaka ukurikira.	driini	2020-07-15 15:09:48	2020-07-15 15:09:48
+49	0x31	1	5	9778733	run	12. Imbwa n’inyabu n’ibikoko vyo mu nzu	Tete	2021-02-19 20:27:56	2021-02-19 20:27:56
+50	0x32	2	3	9778709	run	2. Muribuka tukiri bato ingene twakina?	Tete	2021-02-19 20:22:58	2021-02-19 20:22:58
 51	0x33	3	1	9778711	run	3. Urare aharyana.	Tete	2021-02-19 20:23:21	2021-02-19 20:23:21
 52	0x34	4	1	9778712	run	4. Mawe arateka ibiharage.	Tete	2021-02-19 20:23:39	2021-02-19 20:23:39
 53	0x35	5	2	8917075	run	Ejo azuzuza imyaka 65.	driini	2020-07-15 15:04:01	2020-07-15 15:04:01
 54	0x36	6	2	9778718	run	6. Ubwato bwo muri Tanganyika bugenda bukebuke.	Tete	2021-02-19 20:24:31	2021-02-19 20:24:31
 55	0x37	7	1	9778722	run	7. Ishirahamwe SAVONOR rihingura amasabuni	Tete	2021-02-19 20:25:08	2021-02-19 20:25:08
-56	0x38	8	2	8917086	run	Twamenyanye mu mwaka 2008 hanyuma twabirana umwaka ukurikira.	driini	2020-07-15 15:09:48	2020-07-15 15:09:48
+56	0x38	8	2	9778724	run	8. Umwigeme= Umuzenzwanzu=Umukamakare=Umukobwa	Tete	2021-02-19 20:25:29	2021-02-19 20:25:29
 57	0x39	9	1	9778726	run	9. Ideni ni ribi.	Tete	2021-02-19 20:26:04	2021-02-19 20:26:04
-58	0x3a	:	5	7720255	run	Nshaka kugenda mu mahanga, akarorero: mu butaliano, muri espanye.	driini	2019-01-13 16:05:11	2019-01-13 16:05:11
+58	0x3a	:	5	9789654	run	Hitamwo : ushaka kuja kwiga mu Bufaransa canke mu Budagi ?	Tete	2021-02-21 17:57:23	2021-02-21 17:57:23
 61	0x3d	=	3	9778724	run	8. Umwigeme= Umuzenzwanzu=Umukamakare=Umukobwa	Tete	2021-02-19 20:25:29	2021-02-19 20:25:29
-63	0x3f	?	1061	7783011	run	Kubera iki ufise ico?	driini	2019-02-20 14:48:04	2019-02-20 14:48:04
-65	0x41	A	261	8425896	run	Aranywa.	driini	2020-01-03 18:35:11	2020-01-03 18:35:11
-66	0x42	B	269	7836003	run	Bariko baturaba?	driini	2019-04-03 21:24:12	2019-04-03 21:24:12
-67	0x43	C	11	8393860	run	Ceceka wumvirize!	driini	2019-12-20 22:12:50	2021-01-08 21:54:27
-68	0x44	D	53	7836034	run	Data ari i muhira.	driini	2019-04-03 21:38:59	2020-11-05 23:55:18
-69	0x45	E	31	9245806	run	Ejo natetse vyinshi, nabiriye imisi ibiri.	Kirundicacu	2020-11-05 21:11:14	2020-11-05 21:11:14
-70	0x46	F	11	8083229	run	Fata umwanya wawe!	driini	2019-07-30 11:32:21	2020-12-27 22:59:37
-71	0x47	G	43	9789533	run	Genda umubwire ko nzoza.	Tete	2021-02-21 17:43:09	2021-02-21 17:43:09
-72	0x48	H	100	7775054	run	Hari inkuru?	driini	2019-02-13 20:48:59	2019-02-13 20:48:59
-73	0x49	I	539	7125471	run	Icumba cawe gifise amadirisha abiri?	driini	2018-09-05 18:57:03	2019-01-18 11:42:33
+63	0x3f	?	1061	8999870	run	Itandukaniro hagati y'idini na filozofiya ni nyabaki?	driini	2020-08-28 08:24:53	2020-08-28 08:24:53
+65	0x41	A	261	7133185	run	Amadirisha aranduye.	driini	2018-09-07 13:26:53	2018-09-07 13:26:53
+66	0x42	B	269	9789707	run	Nagiye kuraba mwene wacu i Bururi.	Tete	2021-02-21 18:02:45	2021-02-21 18:02:45
+67	0x43	C	11	8224114	run	Ceceka ubu nyene!	driini	2019-10-01 21:43:24	2020-12-27 21:46:09
+68	0x44	D	53	7082939	run	Dufise umunsi uyuhe?	driini	2018-08-23 16:18:02	2018-08-23 16:18:02
+69	0x45	E	31	8391048	run	Ejo narahwanye nawe.	driini	2019-12-19 10:37:19	2021-01-08 21:20:47
+70	0x46	F	11	8410675	run	Fata ingingo wewe!	driini	2019-12-28 10:30:54	2021-01-08 21:38:43
+71	0x47	G	43	8231828	run	Gwara ukira!	driini	2019-10-04 19:11:55	2019-10-04 19:11:55
+72	0x48	H	100	9462632	run	Hari ivyabaye vyiza, hari n'ibindi vyononekaye.	Kirundicacu	2020-12-11 09:52:20	2020-12-11 09:52:20
+73	0x49	I	539	7566946	run	Iki gitanda kiranonotse cane.	driini	2018-12-09 13:48:58	2018-12-09 13:48:58
 74	0x4a	J	22	7036914	run	Je hanze!	driini	2018-08-01 15:16:07	2018-08-01 15:16:07
-75	0x4b	K	206	8350602	run	Kurindira amezi atandatu ni igihe kinini.	driini	2019-11-27 19:26:37	2019-11-27 19:26:37
+75	0x4b	K	206	9789540	run	Imisa iza gutangura Ku muhingamo.	Tete	2021-02-21 17:43:48	2021-02-21 17:43:48
 76	0x4c	L	2	7100120	run	Ngirango Laura yari arwaye.	driini	2018-08-28 21:14:13	2018-08-28 21:14:13
-77	0x4d	M	439	8923717	run	Mu gihe twubakana abavyevi bawe bari baritavye Imana.	driini	2020-07-18 17:38:04	2021-01-29 21:04:00
-78	0x4e	N	1789	7644452	run	Nubimuhe.	driini	2018-12-22 20:57:56	2020-11-05 22:17:33
-79	0x4f	O	17	8749282	run	Ordinatori iri muri biblioteki.	driini	2020-05-09 12:57:11	2020-05-09 12:57:11
-80	0x50	P	3	8619585	run	Umuhungu wanje aremera Père Noel.	driini	2020-03-18 18:42:17	2020-03-18 18:42:17
-82	0x52	R	76	7798282	run	Reka ndabe.	driini	2019-03-06 16:40:05	2019-03-06 16:40:05
-83	0x53	S	365	8313685	run	Sinibaza ko ari vyo.	driini	2019-11-10 05:16:27	2019-11-10 05:16:27
-84	0x54	T	254	8441159	run	Turagenda twese.	driini	2020-01-10 12:04:20	2020-01-10 12:04:20
-85	0x55	U	733	7798332	run	Umubaji arapima ikibanza.	driini	2019-03-06 18:03:48	2019-03-06 18:03:48
-86	0x56	V	56	8084148	run	Vyose birahinduka.	driini	2019-07-31 07:42:25	2019-07-31 07:42:25
-87	0x57	W	77	7749677	run	Watinye?	driini	2019-01-24 19:43:59	2019-01-24 19:43:59
-89	0x59	Y	144	9166113	run	Yigenjeje nk'umwana.	driini	2020-10-20 08:43:14	2021-01-15 20:56:52
-90	0x5a	Z	5	7456604	run	Za kunsura.	driini	2018-11-12 23:44:58	2018-11-12 23:44:58
-97	0x61	a	15955	7861310	run	Wipfuza iki?	driini	2019-04-20 12:32:02	2019-04-20 12:32:02
-98	0x62	b	3907	8669615	run	Umuntu ni aho aba.	driini	2020-04-10 17:03:31	2020-04-10 17:03:31
-99	0x63	c	831	7783027	run	Mvuga ico niyumvira.	driini	2019-02-20 15:00:59	2019-02-20 15:00:59
-100	0x64	d	1857	7125471	run	Icumba cawe gifise amadirisha abiri?	driini	2018-09-05 18:57:03	2019-01-18 11:42:33
-101	0x65	e	7145	8063782	run	Wobaye umuvyeyi mwiza cane.	driini	2019-07-20 05:17:13	2019-07-20 05:17:13
-102	0x66	f	598	8063959	run	Ndipfuza ko tuzongera.	driini	2019-07-20 07:03:36	2019-07-20 07:03:36
-103	0x67	g	3372	7611129	run	Mbwirzwa guhagarika.	driini	2018-12-20 09:17:58	2018-12-20 09:17:58
-104	0x68	h	2745	7782439	run	Nta mahera tugifise.	driini	2019-02-19 23:36:11	2019-02-19 23:36:11
-105	0x69	i	11629	8364248	run	Sinshobora kubiguha.	driini	2019-12-04 15:12:27	2019-12-04 15:12:27
-106	0x6a	j	790	9166102	run	Kubera iki ubijamwo? Hari umuntu yagize ico akubajije?	driini	2020-10-20 08:40:32	2020-10-20 08:40:32
-107	0x6b	k	4575	7786146	run	Ubwirizwa kuvyuka.	driini	2019-02-23 08:26:47	2019-02-23 08:26:47
-108	0x6c	l	49	8454871	run	Ishokola irasosa.	driini	2020-01-15 20:38:03	2020-01-15 20:38:03
-109	0x6d	m	4110	8083201	run	Ni umuhungu canke umwigeme?	driini	2019-07-30 10:59:27	2019-07-30 10:59:27
-110	0x6e	n	6464	8524508	run	Sinshaka kugenda.	driini	2020-02-06 18:27:34	2020-02-06 18:27:34
-111	0x6f	o	4458	8287333	run	Urantwarayo?	driini	2019-10-27 10:00:41	2019-10-27 10:00:41
-112	0x70	p	293	8517045	run	Arondera impfunguzo z'umuduga ziwe.	driini	2020-02-05 12:05:37	2020-02-06 16:51:53
-114	0x72	r	6397	8669709	run	Uru ruririmbo runyibutsa ubuto bwanje.	driini	2020-04-10 17:41:02	2020-04-10 17:41:02
-115	0x73	s	2841	9081705	run	Hari umumyu wasagutse?	driini	2020-09-28 11:58:37	2020-09-28 11:58:37
-116	0x74	t	2522	8342904	run	Ushobora kuvuga gute ivyo?	driini	2019-11-23 19:31:28	2019-11-23 19:31:28
-117	0x75	u	8558	8063895	run	Ndibaza ko tuzoba dukomeye.	driini	2019-07-20 06:27:11	2020-12-03 21:39:56
-118	0x76	v	964	7948329	run	Urafise uwo muvukana?	driini	2019-05-30 14:52:35	2019-05-30 14:52:35
-119	0x77	w	2737	7749737	run	Amakuru yawe?	driini	2019-01-24 19:56:29	2019-01-24 19:56:29
-121	0x79	y	3361	9394057	run	Yapfuye giturumbuka ashikanye imyaka mirongo itandatu n'itanu.	driini	2020-11-28 12:27:20	2020-11-28 12:27:20
-122	0x7a	z	2456	8923723	run	Inyungu zacu ziranyuranye na rwabo.	driini	2020-07-18 17:39:47	2020-07-18 17:39:47
+77	0x4d	M	439	8427760	run	Murondera iki?	driini	2020-01-04 15:36:08	2020-01-04 15:36:08
+78	0x4e	N	1789	9213116	run	Nanje mfise imyaka icumi n'indwi.	driini	2020-10-31 17:35:29	2020-10-31 17:35:29
+79	0x4f	O	17	8454886	run	Oza ibirenge!	driini	2020-01-15 20:43:19	2020-01-15 20:43:19
+80	0x50	P	3	8609115	run	Mwaramutse! Nitwa Pekka. Nawe, witwa ngwiki?	driini	2020-03-12 17:15:52	2020-03-12 17:15:52
+82	0x52	R	76	7036928	run	Raba neza!	driini	2018-08-01 15:20:15	2018-08-01 15:20:15
+83	0x53	S	365	7029336	run	Simbizi.	driini	2018-07-29 08:52:48	2018-07-29 08:52:48
+84	0x54	T	254	7133172	run	Twugurure idirisha!	driini	2018-09-07 13:16:52	2018-09-07 13:16:52
+85	0x55	U	733	7902051	run	Urashaka kwinjira?	driini	2019-05-11 07:35:59	2019-05-11 07:35:59
+86	0x56	V	56	9186892	run	Vanga irangi ry'ubururu n'iry'umuhondo.	driini	2020-10-24 16:19:49	2020-10-24 16:19:49
+87	0x57	W	77	8375945	run	Waryamiriye.	driini	2019-12-10 16:41:41	2019-12-10 16:41:41
+89	0x59	Y	144	7482886	run	Yandungitse.	driini	2018-11-18 23:21:14	2018-11-18 23:21:14
+90	0x5a	Z	5	8517138	run	Zimya itara!	driini	2020-02-05 12:26:51	2020-02-05 12:26:51
+97	0x61	a	15955	7634339	run	Turi abo muri Kanada.	driini	2018-12-21 13:59:55	2018-12-21 13:59:55
+98	0x62	b	3907	9242709	run	Ariko n'aho hari hakanye cane, nahuye n'abandi bantu benshi nabo nyene bariko baragorora imitsi.	Kirundicacu	2020-11-05 12:30:58	2020-11-05 21:05:55
+99	0x63	c	831	8999814	run	Murashaka kugira ico mutumenyesheje?	driini	2020-08-28 05:57:54	2020-10-06 21:39:42
+100	0x64	d	1857	7482886	run	Yandungitse.	driini	2018-11-18 23:21:14	2018-11-18 23:21:14
+101	0x65	e	7145	9364095	run	Yaguze igitabu gishasha.	Kirundicacu	2020-11-23 20:24:54	2020-11-23 20:24:54
+102	0x66	f	598	8456946	run	Ndamufasha.	driini	2020-01-16 09:24:47	2020-01-16 09:24:47
+103	0x67	g	3372	7695113	run	Namye nipfuza umwigeme.	driini	2019-01-05 18:36:03	2020-11-05 21:53:02
+104	0x68	h	2745	8011042	run	Sinshaka guheba.	driini	2019-06-30 14:32:41	2019-06-30 14:32:41
+105	0x69	i	11629	9394132	run	Sinzigera mba umusaza. Gusaza ku bwanje bivuga igihe cose kugira imyaka icumi n'itanu kuruta iyo mfise.	driini	2020-11-28 12:40:53	2021-01-15 20:26:52
+106	0x6a	j	790	7798320	run	Ngiye kuzana umuduga wanje.	driini	2019-03-06 17:54:08	2020-04-27 10:20:05
+107	0x6b	k	4575	8313385	run	Ni igihe co kuvyuka.	driini	2019-11-09 22:38:49	2019-11-09 22:38:49
+108	0x6c	l	49	7720255	run	Nshaka kugenda mu mahanga, akarorero: mu butaliano, muri espanye.	driini	2019-01-13 16:05:11	2019-01-13 16:05:11
+109	0x6d	m	4110	9171459	run	Nkiri muto nta bwoba nigera ngira.	driini	2020-10-21 06:51:42	2020-10-22 07:34:16
+110	0x6e	n	6464	8488536	run	Ni umugenzi wanje.	driini	2020-01-25 13:46:44	2020-01-25 15:50:47
+111	0x6f	o	4458	9462603	run	Kera abakobwa barongorwa bakiri bato cane.	Kirundicacu	2020-12-11 09:43:54	2020-12-11 09:43:54
+112	0x70	p	293	8619596	run	Nari mpagaritswe umutima n'amagara yiwe.	driini	2020-03-18 18:51:49	2020-03-18 18:51:49
+114	0x72	r	6397	8396204	run	Harashushe cane hariya?	driini	2019-12-22 07:54:47	2019-12-22 07:54:47
+115	0x73	s	2841	8084234	run	Turaja k'umushinwa.	driini	2019-07-31 10:53:33	2020-12-27 22:52:02
+116	0x74	t	2522	7026553	run	Yama ata telefon yiwe.	driini	2018-07-28 09:07:06	2020-11-26 21:49:31
+117	0x75	u	8558	7125397	run	Ijuru riracika ryiza mu kanya.	driini	2018-09-05 18:22:45	2018-09-05 18:22:45
+118	0x76	v	964	8222285	run	Ndashobora kuvuga ikintu?	driini	2019-09-30 23:28:33	2020-11-13 10:37:36
+119	0x77	w	2737	9789549	run	Malaria n'indwara iterwa n'umubu.	Tete	2021-02-21 17:45:11	2021-02-21 17:45:11
+121	0x79	y	3361	8923716	run	Harabuze akaburungu mu mpera y'iryungane.	driini	2020-07-18 17:36:39	2021-01-29 21:04:45
+122	0x7a	z	2456	8915858	run	Iyo nzu mbi yubatswe na nde?	driini	2020-07-14 16:45:07	2020-12-18 08:38:53
 201	0xc9	É	1	9787097	run	Umukuru w'igihugu c'Uburundi yitwa Évariste Ndayishimiye.	Tete	2021-02-21 08:02:57	2021-02-21 08:02:57
 232	0xe8	è	1	8619585	run	Umuhungu wanje aremera Père Noel.	driini	2020-03-18 18:42:17	2020-03-18 18:42:17
 233	0xe9	é	2	7350063	run	Ku wa mbere musée yama yugaye.	driini	2018-10-27 16:26:45	2020-11-06 00:02:27
-8211	0x2013	–	9	7958225	run	"Aya marori ni ayande?" – "Ni aya Data."	driini	2019-06-04 23:44:50	2019-06-04 23:44:50
-8212	0x2014	—	3	9394081	run	„Ufise imyaka ingahe?“ — „Mfise imyaka mirongo ibiri n'itanu.“	driini	2020-11-28 12:30:20	2020-11-28 12:30:20
+8211	0x2013	–	9	8626246	run	„Bite?“ – „Ndameye neza, murakoze!“	driini	2020-03-22 12:50:58	2020-03-22 12:50:58
+8212	0x2014	—	3	8609107	run	„Ni igihe giki ubu?“ — „Ni isaha zine.“	driini	2020-03-12 17:10:40	2020-03-12 17:10:40
 8217	0x2019	’	3	9778733	run	12. Imbwa n’inyabu n’ibikoko vyo mu nzu	Tete	2021-02-19 20:27:56	2021-02-19 20:27:56
-8220	0x201c	“	20	8626244	run	„Ni amaki?“ – „Ni ameza, murakoze!“	driini	2020-03-22 12:50:11	2021-01-15 20:42:11
-8222	0x201e	„	20	8517019	run	„Urakoze!“ – „Korerwa!“	driini	2020-02-05 12:00:43	2020-02-05 12:00:43
+8220	0x201c	“	20	8915866	run	„Wahejeje?“ – „Ahubwo niho ngitangura.“	driini	2020-07-14 16:51:07	2020-07-14 16:51:07
+8222	0x201e	„	20	8626247	run	„Muraho?“ – „Turakomeye!“	driini	2020-03-22 12:51:22	2020-03-22 12:51:22

@@ -1,156 +1,156 @@
-32	0x20	 	590400	3924515	fin	Muiden odotukset vaikuttavat siihen, miten me käyttäydymme.	Orava	2015-03-01 23:17:46	2015-03-01 23:17:46
-33	0x21	!	6164	9753698	fin	Hyvää iltapäivän jatkoa!	Thanuir	2021-02-12 17:43:44	2021-02-12 17:43:44
-34	0x22	"	1775	2678802	fin	Huusit: "Auttakaa, auttakaa!", mutta kukaan ei kuullut.	Silja	2013-08-15 19:06:18	2013-08-15 19:06:18
+32	0x20	 	590496	3820359	fin	Olen kiinnostunut ostamaan yhden noista.	Silja	2015-02-01 09:35:56	2015-02-01 09:35:56
+33	0x21	!	6167	3782273	fin	Kiitti, tyypit!	Silja	2015-01-20 19:09:04	2015-01-20 19:09:04
+34	0x22	"	1779	7524607	fin	"Oliko ruoka hyvää?" "Kyllä se alas meni."	Orava	2018-11-24 18:29:44	2018-11-24 18:29:44
 36	0x24	$	4	3092976	fin	Hänen viulunsa vakuutus maksaa 200$ vuodessa.	Kalle63	2014-03-13 17:33:17	2014-03-13 17:33:17
-37	0x25	%	29	9380950	fin	Ostin tämän mailan 20% alennuksella.	Johannes_S	2020-11-26 01:17:20	2020-11-26 01:17:20
-38	0x26	&	3	3618028	fin	Hän sanoi, että hyvä gin & tonic on niin kuin kesä lasissa, ja yhtäkkiä tajusin, että se on hyvinkin totta.	Silja	2014-11-09 22:35:50	2014-11-09 22:36:28
-39	0x27	'	198	1047446	fin	Kolikon toista puolta kutsutaan nimellä 'kruuna' ja toista nimellä 'klaava'.	Anteroinen	2011-08-16 19:09:33	2011-08-16 19:09:33
-40	0x28	(	58	9738223	fin	Binomikerroin C(n,k) lausutaan »än yli koon» ja sen arvo on ännän kertoma jaettuna koon kertomalla ja än miinus koon kertomalla, eli symboleilla n!/(k!(n-k)!).	Thanuir	2021-02-09 09:42:36	2021-02-09 09:42:36
-41	0x29	)	58	3170299	fin	Hän kuuluu ESS:ään (Englantia puhuvaan yhteisöön).	Silja	2014-04-12 23:33:06	2014-04-12 23:33:06
+37	0x25	%	29	5124364	fin	Jos minulla olisi 25 % enemmän tuloja, olisin tyytyväisempi elämääni.	Orava	2016-05-08 20:12:19	2016-05-08 20:12:19
+38	0x26	&	3	7203547	fin	Kuka on suomentamassa Dungeons & dragons -pelin viidettä laitosta?	Thanuir	2018-09-23 13:47:49	2019-04-04 11:49:14
+39	0x27	'	198	8214713	fin	Tuomas ei osaa soveltaa L'Hôpitalin sääntöä löytääkseen raja-arvoja.	Thanuir	2019-09-27 17:52:12	2019-09-27 17:52:12
+40	0x28	(	58	7759313	fin	Suomen rannikolla on asunut germaanisten kielten puhujia (muun muassa viikinkejä) jo muutaman tuhannen vuoden ajan.	Orava	2019-02-01 16:33:04	2019-02-01 16:33:04
+41	0x29	)	58	3352182	fin	Kolmea tai useampaa asiaa listattaessa käytetään ilmaisutapaa "A, B, C(,) and D". Sillä ei ole merkitystä onko sanan "and" edessä pilkku vai ei.	Silja	2014-07-01 10:56:56	2014-07-01 10:56:56
 42	0x2a	*	9	1014313	fin	Vihjeen *****-merkkien määrä ja sanan todellisten merkkien määrä eivät ole yhteydessä toisiinsa.	Silja	2011-07-30 14:14:29	2011-07-30 14:14:29
-43	0x2b	+	23	10072154	fin	Impletoimme mallimme C++:lla.	Silja	2021-05-29 14:40:06	2021-05-29 14:40:06
-44	0x2c	,	26740	8939061	fin	Hän tietää, missä te olette.	Thanuir	2020-07-25 14:44:41	2020-09-08 11:43:17
-45	0x2d	-	2122	2818216	fin	Japanilaisia kameroita, autoja ja hi-fi-laitteita käytetään laajalti ulkomailla, ja vain harvat nykyaikaiset teollisuudet voivat pärjätä ilman Japanissa kehitettyjä edistyneitä elektronilaitteita.	Kalle63	2013-10-31 09:49:19	2013-10-31 09:49:19
-46	0x2e	.	124826	4523625	fin	Lahjakas nuori shakkipelaaja on hyvin rohkea. Hän tarkoituksella jättää alueen auki, on haavoittuvainen, ja tekee shakkimatin juuri silloin kuin vastustaja vähiten sitä osaa odottaa.	Orava	2015-09-14 19:09:19	2015-09-14 19:09:19
-47	0x2f	/	43	5176609	fin	Ken yhtä ihmistä rakastaa,// se kaikkia rakastaapi.// Ken kerran voi itsensä unhoittaa,// se unten onnen saapi.// Ken kerran itse on onnellinen,// se tahtois onnehen jokaisen// ja antaa ja antaa ja antaa vaan// oman onnensa aarteistaan.	Sanaseppo	2016-05-30 16:57:16	2016-05-30 16:57:16
-48	0x30	0	1204	3297170	fin	Tästä työstä maksetaan 10 000 jeniä päivässä.	Silja	2014-06-04 20:07:17	2014-06-04 20:07:17
-49	0x31	1	904	10322504	fin	Merkel on johtanut Euroopan suurinta taloutta viimeiset 16 vuotta ja on esittänyt tärkeää osaa Euroopassa ja globaalilla näyttämöllä.	Silja	2021-09-26 03:18:56	2021-09-26 03:18:56
-50	0x32	2	606	10189094	fin	Naomi Osaka sytytti vuoden 2020 Tokion Olympialaisten olympiatulen vuonna 2021.	Johannes_S	2021-07-23 22:35:06	2021-07-23 22:48:25
-51	0x33	3	404	7262736	fin	Neliöjuuri kolmesta on √3 tai -√3.	Thanuir	2018-10-07 08:20:39	2018-10-07 08:20:39
-52	0x34	4	204	5444946	fin	Pelkään pahoin, että aave on olemassa. Asia on ollut tiedossa jo kolme vuosisataa, vuodesta 1584 alkaen itse asiassa, ja se ilmestyy aina ennen kunkin suvun jäsenen kuolemaa.	Orava	2016-09-16 20:03:45	2016-09-16 20:03:45
-53	0x35	5	308	9458900	fin	Melkein neljännes italialaisista on yli 65-vuotiaita.	Thanuir	2020-12-10 11:00:18	2020-12-10 11:00:18
-54	0x36	6	181	9266136	fin	Minä asun nykyään lähes 6000 kilometrin päässä synnyinpaikastani.	Thanuir	2020-11-09 12:17:52	2020-11-09 12:17:52
-55	0x37	7	171	8884904	fin	Noin 7 prosenttia Gentin asukkaista on kasvissyöjiä. Se on runsaasti enemmän kuin Belgian keskiarvo 2,3 prosenttia.	Thanuir	2020-07-01 18:27:42	2020-09-08 11:42:41
-56	0x38	8	190	8959714	fin	Mihail Gorbatšov, joka muutti maailmaa 1980-luvulla, ei ole suuressa suosiossa omassa maassaan.	Thanuir	2020-08-05 14:51:39	2020-09-08 11:43:28
-57	0x39	9	320	7259606	fin	Suorassa kulmassa on 90 astetta.	Thanuir	2018-10-06 12:31:54	2018-10-06 12:31:54
-58	0x3a	:	916	7815946	fin	Isoveljeni on todella pitkä: noin 1,8 m.	Thanuir	2019-03-18 15:01:53	2019-03-18 15:01:53
-59	0x3b	;	264	8180505	fin	Kenpä siitä oksan otti, se otti ikuisen onnen; kenpä siitä latvan taittoi, se taittoi ikuisen taian; kenpä lehvän leikkaeli, se leikkoi ikuisen lemmen. Mi oli lastuja pirannut, pälähellyt pälkäreitä selvälle meren selälle, lake'ille lainehille, noita tuuli tuuitteli, meren läikkä läikytteli venosina veen selällä, laivasina lainehilla.	Thanuir	2019-09-11 08:58:01	2019-09-11 08:58:01
+43	0x2b	+	23	8613919	fin	Osaaksä hyvin C++:a?	Silja	2020-03-15 05:41:56	2020-03-15 05:41:56
+44	0x2c	,	26745	3203578	fin	Voit olla varma, että se on monimutkainen kysymys, joka on kietoutunut pinnan alla moniin intresseihin.	Silja	2014-04-25 22:18:24	2014-04-25 22:18:24
+45	0x2d	-	2123	4441124	fin	He rakensivat toiselle puolelle 25-kerroksisen talon ja toiselle puolelle 35-kerroksisen talon.	Silja	2015-08-09 10:17:51	2015-08-09 10:17:51
+46	0x2e	.	124854	2682879	fin	Sain syntymäpäivälahjaksi kukkia.	Silja	2013-08-17 10:58:50	2013-08-17 10:58:50
+47	0x2f	/	43	4455888	fin	”Se luoti tiesi paikkansa, sit’ eipä kieltää voi,// enemmän tiesi se kuin me”, näin kenraal’ aprikoi,// ”ei kajonnut se heikkohon ja huonoon otsahan,// parempahan se pyrki vain, jalohon rintahan.”	Sanaseppo	2015-08-16 17:23:21	2015-08-16 17:23:21
+48	0x30	0	1204	2814126	fin	Kun aloitimme vuonna 2009, olin vakuuttunut että liikkeestämme tulisi yksi kaupungin parhaita.	Kalle63	2013-10-29 13:31:40	2013-10-29 13:31:40
+49	0x31	1	904	9590983	fin	Pikaruuan kulutus on kolminkertaistunut Amerikassa vuosien 1977 ja 1995 välillä.	Thanuir	2021-01-05 14:52:13	2021-01-05 14:52:13
+50	0x32	2	606	7848211	fin	Tomi siirtyi merivoimista eläkkeelle vuonna 2013.	Thanuir	2019-04-12 14:27:05	2019-04-12 14:27:05
+51	0x33	3	404	2812182	fin	Minulla oli tapaaminen 2.30, mutta juutuin liikenteeseen enkä voinut päästä sinne ajoissa.	Kalle63	2013-10-28 07:49:34	2015-11-15 12:23:16
+52	0x34	4	204	8282620	fin	Kun maapallo muodostui noin 4,6 miljardia vuotta sitten, päivät olivat noin kuuden tunnin mittaisia.	Thanuir	2019-10-25 10:17:15	2019-10-25 10:17:15
+53	0x35	5	308	4401488	fin	Hän painaa noin 135 kiloa.	Sanaseppo	2015-07-23 17:15:59	2015-07-23 17:15:59
+54	0x36	6	181	3080432	fin	Puhelinnumeroni on 2468.	Kalle63	2014-03-07 06:05:04	2014-03-07 06:05:04
+55	0x37	7	171	4165662	fin	Tom lähti kouluun 7:30.	Silja	2015-05-09 10:21:25	2015-05-09 10:21:25
+56	0x38	8	190	10199517	fin	”Mikä tämä 893 on?” – ”No, se on tota...” – ”Ahaa, se on Yakuza.”	Johannes_S	2021-07-29 21:19:52	2023-01-30 11:13:00
+57	0x39	9	320	11623366	fin	Uraanin järjestysluku on 92.	Johannes_S	2023-03-25 18:23:53	2023-03-25 18:23:53
+58	0x3a	:	916	10873558	fin	Jänis saattavi sanoa, kehräsilmä kerskaella: ”Liepä lempo lähtenynnä kattiloihin kiehumahan! Läksin sanan saatantahan, kielikerran kerrontahan: jop' on kaunis kaatununna, tinarinta riutununna, sortununna hopeasolki, vyö vaski valahtanunna: mennyt lietohon merehen, alle aavojen syvien, sisareksi siikasille, veikoksi ve'en kaloille.”	Thanuir	2022-05-30 13:37:14	2022-05-30 13:37:14
+59	0x3b	;	264	2825092	fin	On yksi asia hankkia tietoa; on aivan toinen sitä soveltaa.	Kalle63	2013-11-02 15:01:56	2013-11-02 15:01:56
 60	0x3c	<	1	3577970	fin	Valitse muutamia satunnaisia lauseita (ihan vaan pari kolme), äänitä ne ja lähetä näytteet meille osoitteeseen team@tatoeba.org aiheella "Audio for Tatoeba in <kielen_nimi>".	Silja	2014-10-24 16:41:32	2014-10-24 16:41:32
 61	0x3d	=	4	8213220	fin	Tommi sanoi, että 0! = 1.	Thanuir	2019-09-27 09:46:31	2019-09-27 09:46:31
 62	0x3e	>	3	3577970	fin	Valitse muutamia satunnaisia lauseita (ihan vaan pari kolme), äänitä ne ja lähetä näytteet meille osoitteeseen team@tatoeba.org aiheella "Audio for Tatoeba in <kielen_nimi>".	Silja	2014-10-24 16:41:32	2014-10-24 16:41:32
-63	0x3f	?	22773	7824709	fin	Tarvitsetko lakimiestä?	Thanuir	2019-03-25 14:37:53	2019-03-25 14:37:53
-64	0x40	@	4	3577970	fin	Valitse muutamia satunnaisia lauseita (ihan vaan pari kolme), äänitä ne ja lähetä näytteet meille osoitteeseen team@tatoeba.org aiheella "Audio for Tatoeba in <kielen_nimi>".	Silja	2014-10-24 16:41:32	2014-10-24 16:41:32
-65	0x41	A	4948	9920695	fin	Aiotko liittyä kuoroon?	Johannes_S	2021-03-28 20:21:20	2021-03-28 20:21:20
-66	0x42	B	1331	3377603	fin	Haluan vielä jotain päivänä mennä Bostoniin.	Silja	2014-07-13 16:16:26	2014-07-13 16:16:26
-67	0x43	C	382	10640370	fin	Kuinka kauan oli Caracasissa?	Silja	2022-01-24 03:02:42	2022-01-24 03:02:42
-68	0x44	D	337	10360782	fin	Kuuletko sinä minua, Debbie?	Thanuir	2021-10-13 19:18:24	2021-10-13 19:18:24
-69	0x45	E	9865	4148293	fin	Emme ole sukua.	Orava	2015-05-04 17:48:48	2015-05-04 17:48:48
-70	0x46	F	363	2599858	fin	Fysiikka on lempiaineeni.	Kalle63	2013-07-18 08:36:13	2013-07-18 08:36:13
-71	0x47	G	275	7949653	fin	Juna Genevestä saapuu asemalle.	taistian	2019-05-31 10:32:17	2019-05-31 10:32:17
-72	0x48	H	16870	2683556	fin	Hän on julma.	Kalle63	2013-08-17 15:23:29	2013-08-17 15:23:29
-73	0x49	I	1930	4860405	fin	Itsehän tämän työn valitsit, vai mitä?	Silja	2016-01-26 16:54:52	2016-01-26 16:54:52
-74	0x4a	J	4889	2552404	fin	Monen vuoden pohdinnan jälkeen päädyin siihen, että jokaisen elämän tarkoitus on saada elämälleen tarkoitus. Jokainen meistä on ainutlaatuinen yksilö. Ja jokaisella meistä on oma kykynsä löytää elämälleen erityinen merkitys.	Kalle63	2013-07-01 14:39:23	2013-07-01 14:39:23
-75	0x4b	K	12295	752719	fin	Kerran tehtyä ei saa peruttua.	Silja	2011-02-12 17:10:00	2011-02-12 17:10:00
-76	0x4c	L	4673	6876946	fin	Laske yhdestä sataan.	aqaq	2018-05-05 20:50:19	2018-05-05 20:50:19
-77	0x4d	M	28108	3249115	fin	Milloin viimeinen juna lähtee?	Silja	2014-05-13 10:52:20	2014-05-13 10:52:20
-78	0x4e	N	4257	3260990	fin	Uusi pelikonsoli on julkaistu. Sen nimi on Nintendo 64!	Silja	2014-05-17 23:10:10	2014-05-17 23:10:10
-79	0x4f	O	13354	3331974	fin	Olemme matkalla takaisin toimistolle.	Silja	2014-06-21 16:06:50	2014-06-21 16:06:50
-80	0x50	P	6111	3414857	fin	Pong on ensimmäinen videopeli.	Silja	2014-08-09 00:40:27	2014-08-09 00:40:27
-81	0x51	Q	13	10062800	fin	Tomi, josta oli sukeutunut sosiaalisen eristäytymisen aikana täysiverinen salaliittoteoreetikko ja QAnon-hihhuli, uhkaili ja haukkui Maria puhelimessa.	Silja	2021-05-25 15:32:19	2021-05-25 15:32:19
-82	0x52	R	1885	3149865	fin	Rakastan yhä Tomia.	Kalle63	2014-04-04 19:56:52	2014-04-04 19:56:52
-83	0x53	S	13614	3459255	fin	Suomaiden herra Shrek eli tyytyväisenä korvessaan kunnes seikkailu kolkutteli hänen ovellaan.	Sanaseppo	2014-08-29 18:40:24	2014-08-29 18:40:24
-84	0x54	T	37441	6027645	fin	Luulen, että Tomi ei ole vielä päättänyt.	hopea	2017-04-21 13:10:00	\N
-85	0x55	U	1172	1178977	fin	Usein oletetaan, että tämä menestys tarkoittaa vaurautta, arvokkuutta tai mainetta.	oeblink	2011-10-16 01:49:04	2011-10-16 01:49:04
-86	0x56	V	5916	2814059	fin	Voi Luoja! Frankfurt on Saksassa, ei Keski-Idässä.	Kalle63	2013-10-29 13:10:34	2013-10-29 13:10:34
-87	0x57	W	188	2136391	fin	Kun WC:n ovessa lukee ”varattu”, se tarkoittaa, että joku käyttää sitä parhaillaan.	Silja	2013-01-10 19:30:36	2015-01-21 14:23:41
-88	0x58	X	26	8213281	fin	Sinä unohdit jakaa X:llä tässä.	Thanuir	2019-09-27 10:19:41	2019-09-27 10:19:41
-89	0x59	Y	1529	4257709	fin	Yritä vähintäänkin tulla hyvissä ajoin!	Silja	2015-06-06 10:54:57	2015-06-06 10:54:57
-90	0x5a	Z	71	11220301	fin	Ziri oli elossa.	baetota	2022-10-31 23:35:55	2022-10-31 23:35:55
-91	0x5b	[	4	7259037	fin	Sini- ja kosinifunktiot saavuttavat arvoja suljetulta väliltä [-1, 1].	Thanuir	2018-10-06 10:17:04	2018-10-06 10:17:04
-93	0x5d	]	4	7259041	fin	Sini- ja kosinifunktiot ottavat arvoja väliltä [-1, 1].	Thanuir	2018-10-06 10:17:37	2018-10-06 10:17:37
+63	0x3f	?	22777	9932532	fin	Oletteko kuulleet, että varas on murtautunut naapurini taloon?	Thanuir	2021-04-02 10:36:32	2021-04-02 10:36:32
+64	0x40	@	4	3848120	fin	Miten ”@”-merkki sanotaan sinun kielelläsi?	Silja	2015-02-07 09:59:13	2015-02-07 09:59:13
+65	0x41	A	4949	3368280	fin	Anteeksi, mutta sopiiko, että käytän puhelintanne?	Silja	2014-07-08 16:47:30	2014-07-08 16:47:30
+66	0x42	B	1331	10013231	fin	Neuvottelut EU:n kanssa epäonnistuivat, koska Iso-Britannia halusi vain poimia rusinat pullasta.	Johannes_S	2021-05-07 10:44:46	2021-05-07 10:44:46
+67	0x43	C	382	3970069	fin	Miesten WC:t ovat ensimmäisessä ja kolmannessa kerroksessa.	Silja	2015-03-18 18:14:47	2015-03-18 18:14:47
+68	0x44	D	337	3203658	fin	Tarvitset valopyssyn, että voit pelata Duck Huntia.	Silja	2014-04-25 23:07:04	2014-04-25 23:07:04
+69	0x45	E	9866	2677501	fin	Etkö halua lähteä?	Kalle63	2013-08-15 08:42:08	2013-08-15 08:42:08
+70	0x46	F	363	9486461	fin	Nyt en ehdi kun katson Frozenia, jätetäänkö myöhemmäksi?	Johannes_S	2020-12-16 20:59:11	2020-12-16 20:59:11
+71	0x47	G	275	10328553	fin	Viihdyn todella hyvin Georgiassa.	Thanuir	2021-09-29 12:56:19	2021-09-29 12:56:19
+72	0x48	H	16871	1307213	fin	Hän asuu Lontoossa.	ihar	2011-12-18 22:31:03	2011-12-18 22:31:03
+73	0x49	I	1932	10316614	fin	Itken joskus mahtavan šakkiottelun jälkeen.	Silja	2021-09-23 12:07:35	2021-09-23 12:07:35
+74	0x4a	J	4891	3541020	fin	Ihmiselle on yhtä mahdotonta osoittaa Jumalan olemassaolo kuin jopa Sherlock Holmessille osoittaa Arthur Conan Doylen olemassaolo.	Sanaseppo	2014-10-05 23:31:36	2014-10-05 23:31:36
+75	0x4b	K	12302	10354438	fin	Kaduilla oli shoppailijoita oli tungokseen asti.	Silja	2021-10-10 12:24:29	2021-10-10 12:24:29
+76	0x4c	L	4674	7992721	fin	Laskekaa luvun 2²⁰¹³ jakojäännös kolmella jaettaessa.	Thanuir	2019-06-21 14:44:24	2019-10-05 08:16:47
+77	0x4d	M	28117	3990797	fin	Minulla oli tapana syödä pizzaa.	Silja	2015-03-26 18:38:24	2015-03-26 18:38:24
+78	0x4e	N	4259	7100516	fin	Miksei herätyskello soinut, vaikka olin laittanut sen herättämään? Nyt myöhästyn varmasti.	Thanuir	2018-08-29 09:14:43	2018-08-29 09:14:43
+79	0x4f	O	13355	6636849	fin	Olen tehnyt virheen.	Orava	2018-01-29 17:16:12	2018-01-29 17:17:02
+80	0x50	P	6112	3007952	fin	Pikkusiskoni valtasi huoneeni.	sni	2014-01-25 20:05:34	2014-01-25 20:05:34
+81	0x51	Q	13	3800629	fin	Tom oppi ranskaa, kun hän asui Quebecissä.	Silja	2015-01-26 16:11:51	2015-01-26 16:11:51
+82	0x52	R	1885	8558158	fin	Rakastan omenoita.	Thanuir	2020-02-17 10:16:54	2020-02-17 10:16:54
+83	0x53	S	13616	11212309	fin	Siinä karsinassa on sika.	Thanuir	2022-10-28 09:07:34	2022-10-28 09:07:34
+84	0x54	T	37446	5970465	fin	Tuo ei muuta mitään.	Helonailo	2017-03-22 22:25:49	\N
+85	0x55	U	1173	1015823	fin	Uskookohan se joku, joka tuntee hänet?	Silja	2011-07-31 18:32:42	2011-07-31 18:32:50
+86	0x56	V	5917	10052067	fin	Voisitko odottaa minua vähän?	Silja	2021-05-21 05:13:43	2021-05-21 05:13:43
+87	0x57	W	188	3924485	fin	”Setä, olipa se kilttiä”, Willie sanoi.	Silja	2015-03-01 22:46:44	2015-03-01 22:47:59
+88	0x58	X	26	2825101	fin	Xalbo, kenelle sinä puhut?	Kalle63	2013-11-02 15:06:20	2013-11-02 15:06:20
+89	0x59	Y	1529	9959511	fin	Yanni pelasi pelejä pleikalla.	Johannes_S	2021-04-15 11:26:48	2021-04-15 11:26:48
+90	0x5a	Z	71	11865403	fin	Karl asuu Zürichissä, Sveitsissä.	Metsis	2023-06-22 11:47:04	2023-06-22 11:47:04
+91	0x5b	[	4	7259039	fin	Sini- ja kosinifunktiot ottavat arvoja suljetulta väliltä [-1, 1].	Thanuir	2018-10-06 10:17:13	2018-10-06 10:17:13
+93	0x5d	]	4	7259039	fin	Sini- ja kosinifunktiot ottavat arvoja suljetulta väliltä [-1, 1].	Thanuir	2018-10-06 10:17:13	2018-10-06 10:17:13
 94	0x5e	^	1	8213085	fin	Mikä on e^x:n derivaatta?	Thanuir	2019-09-27 07:50:36	2019-09-27 07:50:36
 95	0x5f	_	2	8295831	fin	Hei, Source_VOA!	Thanuir	2019-10-31 15:32:27	2019-10-31 15:32:27
-97	0x61	a	491852	4169483	fin	Älä seuraa minua.	Silja	2015-05-10 08:20:48	2015-05-10 08:20:48
-98	0x62	b	2442	3985964	fin	Onko sinulla ystäviä Tatoebassa?	Silja	2015-03-24 18:53:58	2015-03-24 18:53:58
-99	0x63	c	816	8295436	fin	Muista Lockerbien pommi-isku!	Thanuir	2019-10-31 12:55:43	2019-10-31 12:55:43
-100	0x64	d	31924	10047329	fin	Meidän kimppuumme kävi ampiaisparvi.	Silja	2021-05-19 04:15:03	2021-05-19 04:15:03
-101	0x65	e	335080	1040268	fin	Tämä radio ei ole tulitikkuaskia suurempi.	ondo	2011-08-13 12:52:17	2011-08-13 12:52:17
-102	0x66	f	1803	5670843	fin	Jos filosofilla ei ole pitkää, valkoista partaa, niin minä en luota häneen.	Orava	2016-12-09 07:12:00	2016-12-09 07:12:00
-103	0x67	g	5459	8853608	fin	Aluksi kirurgit eivät halunneet leikata, koska potilas painoi alle neljäkymmentäviisi kiloa eikä ollut kovin terve.	Thanuir	2020-06-18 06:18:07	2020-09-08 11:42:28
-104	0x68	h	84069	3633021	fin	Pysähtynytkin kello näyttää oikeaa aikaa kahdesti päivässä.	Silja	2014-11-15 18:18:21	2014-11-15 18:18:39
-105	0x69	i	491203	7259158	fin	Epälineaarisista toisen kertaluvun differentiaaliyhtälöistä voi sanoa vain vähän mitään yleistä.	Thanuir	2018-10-06 10:52:39	2018-10-06 10:52:39
-106	0x6a	j	49727	7288070	fin	Kerro vaan, jos tarvitset apua.	Orava	2018-10-13 13:09:15	2018-10-13 13:09:15
-107	0x6b	k	219275	7885631	fin	Plus kaksi plus plus yksi on yhtä suuri kuin plus kolme.	Thanuir	2019-05-03 12:31:26	2019-05-03 12:31:26
-108	0x6c	l	257646	10527817	fin	Opettele tämä ulkoa.	ameliette	2021-11-24 15:32:14	2021-11-24 15:32:14
-109	0x6d	m	155015	3648353	fin	Tom tahtoi pestä kätensä.	Silja	2014-11-21 12:31:34	2014-11-21 12:31:34
-110	0x6e	n	428163	3887726	fin	Vaikka sinulla ei olisikaan ruokahalua, niin sinun pitää syödä jotain, tai et kestä lounaaseen saakka.	Silja	2015-02-22 20:36:27	2015-02-22 20:36:46
-111	0x6f	o	260855	10186800	fin	Onko vuoren huippu lumen peitossa?	Johannes_S	2021-07-22 17:53:33	2021-07-22 17:53:33
-112	0x70	p	77845	10650482	fin	Eikö meidän olisi jo parempi palata kotiin?	Johannes_S	2022-01-30 01:19:02	2022-01-30 01:19:02
-113	0x71	q	39	11900204	fin	Katso, lentokone Ürümqista.	Thanuir	2023-07-02 18:20:55	2023-07-02 18:20:55
-114	0x72	r	82541	8520881	fin	Yhdysvaltain liittovaltion telehallintovirasto arvioi, että noin 19 miljoonaa amerikkalaista ei edelleenkään voi saada laajakaistaistaista Internet-yhteyttä.	Thanuir	2020-02-06 06:00:42	2020-02-06 06:00:42
-115	0x73	s	286893	9585293	fin	Te sanotte vastustavanne koiranlihan syömistä.	Thanuir	2021-01-04 10:28:31	2021-01-04 10:28:31
-116	0x74	t	393037	8175846	fin	Hänellä on jatkuvasti käynnissä hirveän monta hanketta.	Thanuir	2019-09-09 10:59:38	2019-09-09 10:59:38
-117	0x75	u	212817	8975535	fin	Tiedän, että Tuomas ei saa lupaa tehdä noin.	Thanuir	2020-08-14 07:54:11	2020-09-08 11:43:31
-118	0x76	v	89153	3786575	fin	Mielikuvitus vaikuttaa elämämme jokaiseen puoleen.	Silja	2015-01-22 08:17:14	2015-01-22 08:17:14
-119	0x77	w	342	2694444	fin	Vuonna 2008 Delta ja Northwest airlines yhdistyivät ja muodostivat maailman suurimman lentoyhtiön.	Kalle63	2013-08-23 09:28:58	2013-08-23 09:29:06
-120	0x78	x	113	2814413	fin	Uutta lääkettä tullaan testaamaan Vaxgenin laboratoriossa.	Kalle63	2013-10-29 16:18:09	2013-10-29 16:18:09
-121	0x79	y	77142	3366277	fin	Olen köyhä.	Silja	2014-07-07 19:07:42	2014-07-07 19:07:42
-122	0x7a	z	501	3990788	fin	Haluaako kukaan pizzaa?	Silja	2015-03-26 18:37:04	2015-03-26 18:37:04
-160	0xa0	 	5	10045593	fin	Älä lykkää huomiseen asioita mitä voit tehdä jo tänään.	Johannes_S	2021-05-18 11:27:15	2021-05-18 11:27:15
+97	0x61	a	491939	3216580	fin	Menen Pariisin, kun minulla on tarvittavat rahat.	Silja	2014-04-30 07:38:21	2014-04-30 07:38:21
+98	0x62	b	2443	11621242	fin	Yritin brassailla.	Johannes_S	2023-03-24 21:24:26	2023-03-24 21:24:26
+99	0x63	c	816	10047553	fin	Tomi on podcastaaja.	Silja	2021-05-19 07:31:57	2021-05-19 07:31:57
+100	0x64	d	31930	7258882	fin	Olemme kanadalaisia.	Thanuir	2018-10-06 09:39:22	2018-10-06 09:39:22
+101	0x65	e	335148	4805878	fin	Älä kannettavan päälle noin painavaa laske.	wells	2016-01-02 17:41:32	2016-01-02 17:41:32
+102	0x66	f	1803	1052370	fin	Ihmiset tuppaavat pitämään itsestäänselvyytenä sitä, että professorit osaavat puhua englantia.	Silja	2011-08-18 21:32:40	2011-08-18 21:32:40
+103	0x67	g	5459	10291099	fin	He hämmästyivät kaupungin nopeaa kasvua.	Johannes_S	2021-09-12 11:42:51	2021-09-12 11:42:51
+104	0x68	h	84081	9775056	fin	On kolme vaihtoehtoa.	Johannes_S	2021-02-18 11:46:11	2021-02-18 11:46:11
+105	0x69	i	491293	1009729	fin	Minun syntymäpäiväni on maaliskuun kahdeskymmenestoinen päivä.	Silja	2011-07-27 15:25:31	2011-07-27 15:25:31
+106	0x6a	j	49735	9860243	fin	Tomi on kirjoittamassa raporttia.	Johannes_S	2021-03-22 16:42:02	2021-03-22 16:42:02
+107	0x6b	k	219318	3579173	fin	Tenniksen pelaaminen on kivaa.	Silja	2014-10-25 01:57:01	2014-10-25 01:57:01
+108	0x6c	l	257693	4296747	fin	Käyn yleensä ostoksilla tässä ruokakaupassa.	Silja	2015-06-22 17:36:17	2015-06-22 17:36:17
+109	0x6d	m	155037	7100683	fin	Minulla ei ole mitään aikomusta kastua.	Thanuir	2018-08-29 11:15:27	2018-08-29 11:15:27
+110	0x6e	n	428236	7846817	fin	Halusitko minun tekevän vielä jotakin muuta?	Thanuir	2019-04-11 14:00:50	2019-04-11 14:00:50
+111	0x6f	o	260902	3324912	fin	Yritin avata oven, ja ovenkahva irtosi.	Silja	2014-06-19 10:05:17	2014-06-19 10:05:17
+112	0x70	p	77855	10527681	fin	Mikset pyrkisi oppilaskunnan hallitukseen?	ameliette	2021-11-24 13:59:26	2021-11-24 13:59:26
+113	0x71	q	39	1224199	fin	Mitä enemmän syöt Kuqan aprikooseja, sitä enemmän haluat syödä niitä.	Ketutar	2011-11-07 23:04:30	2011-11-07 23:04:30
+114	0x72	r	82552	12179737	fin	Menin väärää tietä labyrintissa ja päädyin kiertämään kehää.	Johannes_S	2023-11-26 12:57:58	2023-11-26 13:00:02
+115	0x73	s	286942	7808010	fin	Mutta minä en ole kuin muut pojat! Olen parempi kuin kukaan heistä ja kerron aina totuuden. Lupaan sinulle, isä, oppivani ammatin, ja olevani tukenasi ja turvanasi vanhoina päivinäsi.	Thanuir	2019-03-13 12:21:40	2019-03-13 12:21:40
+116	0x74	t	393098	3257570	fin	Erityisesti silloin kun minulla on sellaisia asioita, jotka täytyy tehdä, haluan tehdä asioita, joita minun ei täydy tehdä.	Silja	2014-05-17 11:10:44	2014-05-17 11:10:44
+117	0x75	u	212850	4061477	fin	Hän oli ollut kuivilla likipitäen vuoden, mutta kuppi meni nurin uudenvuodenpäivänä.	Sanaseppo	2015-04-11 15:34:37	2015-04-11 15:34:37
+118	0x76	v	89175	10266285	fin	Mikä hedelmä on vihreä?	Thanuir	2021-08-28 11:46:35	2021-08-28 11:46:35
+119	0x77	w	342	10220571	fin	Olen Twitterissä.	Thanuir	2021-08-06 17:28:25	2021-08-06 17:28:25
+120	0x78	x	113	8230497	fin	Ratkaise kolmannen asteen yhtälö x³ + 2x² − x − 2 = 0.	Thanuir	2019-10-04 11:23:41	2019-10-04 11:23:41
+121	0x79	y	77153	3580131	fin	Emme pysty elämään 150 000 jenillä kuukaudessa.	Silja	2014-10-25 14:08:32	2014-10-25 14:08:32
+122	0x7a	z	501	3584670	fin	Hei, haluutteko te tilata pizzaa?	Silja	2014-10-27 01:26:11	2014-10-27 01:26:11
+160	0xa0	 	5	10045592	fin	Älä koskaan lykkää huomiseen mitä voit tehdä jo tänään.	Johannes_S	2021-05-18 11:26:35	2021-05-18 11:26:35
 173	0xad	­	1	3618075	fin	Panee merkille esperanton avulla saavutetut tulokset kansainvälisessä henkisessä vuorovaikutuksessa sekä maailman kanso­jen lähentämiseksi;	ismael_avila	2014-11-09 22:51:25	2014-11-09 22:51:25
 176	0xb0	°	2	9989784	fin	Auringon pinnan lämpötila oletetaan olevan noin 6000°C.	Johannes_S	2021-04-27 08:09:07	2021-04-27 08:09:07
-178	0xb2	²	10	8661024	fin	Valtion pinta-ala on 2472,7 km².	Thanuir	2020-04-06 13:29:32	2020-04-06 13:29:32
-179	0xb3	³	6	7992721	fin	Laskekaa luvun 2²⁰¹³ jakojäännös kolmella jaettaessa.	Thanuir	2019-06-21 14:44:24	2019-10-05 08:16:47
-180	0xb4	´	2	2614518	fin	Kukaan ei kuullut Tomin sanovan Mary´n nimeä.	Kalle63	2013-07-23 09:57:02	2013-07-23 09:57:10
+178	0xb2	²	10	7992705	fin	Laske luvun 2²⁰¹³ jakojäännös kolmella jaettaessa.	Thanuir	2019-06-21 14:42:18	2019-10-05 08:16:35
+179	0xb3	³	6	8230498	fin	Ratkaiskaa kolmannen asteen yhtälö x³ + 2x² − x − 2 = 0.	Thanuir	2019-10-04 11:23:46	2019-10-04 11:23:46
+180	0xb4	´	2	2815914	fin	Seiso vaa´alla.	Kalle63	2013-10-30 09:30:45	2013-10-30 09:30:45
 185	0xb9	¹	4	7992721	fin	Laskekaa luvun 2²⁰¹³ jakojäännös kolmella jaettaessa.	Thanuir	2019-06-21 14:44:24	2019-10-05 08:16:47
 187	0xbb	»	482	8332956	fin	Syötyään tukevan aterian ja pakattuaan koululaukkunsa Link halusi viime hetken rohkaisua ystäviltään. »Hei, Zelda, kaipaan neuvoja.» »Eihän sinua vielä pelota?» sanoi Zelda kurtistaen kulmiaan. »Ei. Haluan vain neuvoja joltakulta lukion käyneeltä, ja sinä olet fiksuin, jonka tunnen!» sanoi Link hymyillen. Zelda naurahti. »Kiitos. No, sinä…» »Opettajat ovat niin tiukkoja, ettei edes hengittää saa!» keskeytti kuningas ilkikurisesti hymyillen. »Häh?!» »Isä!» moitti prinsessa. »Anteeksi, jatka vain.» »No niin, Link…» ja sitten bussin torvi keskeytti hänet. »Jaahas, bussi tulikin jo,…» sanoi Link nopeasti, »…moikka!» »Varo pyttipannuyllätysä!» huusi Gwonam, joka ilmestyi kuin tyhjästä. »Äläkä tule ammutuksi!» lisäsi kuningas ja molemmat tirskuivat. Link näytti myrtyneeltä, mutta Zelda tuli apuun: »Älä välitä heistä, Link. Asiat hoituvat kyllä. Olen varma…» »Zelda, älä huoli. Pärjään kyllä.» Link oli hetkessä oma iloinen itsensä. »Selvä. Anna pusu.» Link oli tästä kuitenkin toista mieltä ja vastasi teineille tyypisellä julmuudella: »En helvetissä! Jätin sinut jo vuosia sitten. Rakastan kyllä sinua edelleen.» lisäsi hän vielä lopuksi, ennen kuin lähti linnasta. »En todellakaan tiedä mikä häntä huolestuttaa. Kyllä minä pärjään!» hän mietti astuessaan itsevarmana linja-autoon.	Thanuir	2019-11-19 10:05:05	2019-11-19 10:05:05
 189	0xbd	½	1	11496520	fin	Lisää 3 tl jauhoja ja ½ tl suolaa.	Johannes_S	2023-01-30 11:46:44	2023-01-30 11:46:44
-196	0xc4	Ä	2185	3926183	fin	Älä koske minuun.	Silja	2015-03-02 16:09:43	2015-03-02 16:09:43
+196	0xc4	Ä	2185	5463361	fin	Älä satuta minun poikaani.	Orava	2016-09-22 18:30:04	2016-09-22 18:30:04
 197	0xc5	Å	2	8244696	fin	Århusin, Tanskan toiseksi suurimman kaupungin, postinumero on 8000.	Thanuir	2019-10-10 11:11:09	2019-10-10 11:11:09
-198	0xc6	Æ	4	9014118	fin	Minun nimeni on Ælfred. Mihin olet matkalla?	Thanuir	2020-09-04 10:41:45	2020-09-08 11:43:58
-201	0xc9	É	3	4881630	fin	Pitkä altistuminen pick-up-artisteille ja feministeille aiheutti sen, että Étiennen suhtautuminen naisiin oli hieman sekavaa.	Orava	2016-02-03 09:17:17	2016-02-11 16:51:20
-214	0xd6	Ö	33	10527207	fin	Ötököitä on niinku joka paikassa.	Johannes_S	2021-11-24 05:20:25	2021-11-24 05:20:25
-220	0xdc	Ü	2	11900204	fin	Katso, lentokone Ürümqista.	Thanuir	2023-07-02 18:20:55	2023-07-02 18:20:55
-222	0xde	Þ	2	8317632	fin	Þomas vihaa muukalaisia.	Thanuir	2019-11-11 15:29:26	2019-11-11 15:29:26
+198	0xc6	Æ	4	9014121	fin	Minun nimeni on Ælfred. Mihin sinä olet matkalla?	Thanuir	2020-09-04 10:42:20	2020-09-08 11:43:58
+201	0xc9	É	3	4904272	fin	Pitkä altistuminen naistenkaatajille ja feministeille aiheutti sen, että Étiennen suhtautuminen naisiin oli hieman sekavaa.	Orava	2016-02-11 16:57:22	2016-02-11 16:57:22
+214	0xd6	Ö	33	3078900	fin	Öisin luen kirjaa pojalleni.	Kalle63	2014-03-06 12:31:39	2014-03-06 12:31:39
+220	0xdc	Ü	2	11900205	fin	Katsokaa, lentokone Ürümqista.	Thanuir	2023-07-02 18:21:01	2023-07-02 18:21:01
+222	0xde	Þ	2	8317633	fin	Þomas vihaa ulkomaalaisia.	Thanuir	2019-11-11 15:29:33	2019-11-11 15:29:33
 223	0xdf	ß	2	3812353	fin	Nouse Badstraßeniin menevään linja-autoon ja poistu Seestraßen kohdalla.	Sanaseppo	2015-01-30 16:37:48	2015-01-30 16:37:48
 224	0xe0	à	1	12284966	fin	Tomilla oli déjà-vu.	Johannes_S	2024-01-25 12:32:01	2024-01-25 13:35:01
-225	0xe1	á	10	3753175	fin	Curitiba on Paranán pääkaupunki.	mazaahk	2015-01-08 10:15:40	2015-01-08 10:15:40
-227	0xe3	ã	2	5970229	fin	São Paulo on Etela-Amerikan rikkain osavaltio.	Helonailo	2017-03-22 21:02:47	\N
-228	0xe4	ä	266819	10200265	fin	Kun urheilen kesällä, minulla alkaa välittömästi hiki virrata valtoimenaan.	Silja	2021-07-30 11:16:23	2021-07-30 11:16:23
-229	0xe5	å	9	2765593	fin	Matkalla Tukholmaan he poikkesivat Västeråsiin.	Kalle63	2013-09-29 09:56:13	2013-09-29 09:56:13
-231	0xe7	ç	3	8769309	fin	Kurdin aakkoset koostuvat kolmestakymmenestäyhdestä kirjaimesta: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Thanuir	2020-05-17 19:31:42	2020-05-17 19:31:51
+225	0xe1	á	10	10334248	fin	Talo sijaitsee rannan vieressä Yucatánissa.	nonong	2021-10-01 16:37:54	2021-10-01 17:42:59
+227	0xe3	ã	2	3205595	fin	São Paulolla on maailman toiseksi suurin helikopterilaivasto New Yorkin jälkeen, jolla on neljäsataakaksikymmentä helikopteria koko kaupungissa.	Silja	2014-04-26 09:36:50	2014-04-26 09:36:50
+228	0xe4	ä	266854	4186326	fin	Haluaisitko keksiä?	Orava	2015-05-14 18:20:49	2015-05-14 18:20:49
+229	0xe5	å	9	8959710	fin	Vuoden sana Tanskassa vuonna 2011 on »arabisk forår». Muita ehdotuksia olivat »fedtafgift», »løftebrud» ja »vejvrede».	Thanuir	2020-08-05 14:48:16	2020-09-08 11:43:28
+231	0xe7	ç	3	2786720	fin	Haluan asua Curaçaossa.	Kalle63	2013-10-12 15:15:52	2013-10-12 15:15:52
 232	0xe8	è	1	8448055	fin	Edmond Dantèsin tulevaisuus näyttää synkältä sen jälkeen, kun hänet on lavastettu salaliittolaiseksi, tuomittu maanpetturuudesta ja heitetty vankilaan loppuiäkseen.	Thanuir	2020-01-13 16:20:10	2020-01-13 16:20:10
-233	0xe9	é	21	4602190	fin	Kasvoin Pokémonia katsoen.	Lahna	2015-10-12 13:24:27	2015-10-12 13:24:27
+233	0xe9	é	21	2816843	fin	José sanoo haluavansa kuolla ennen Kolmatta maailmansotaa.	Kalle63	2013-10-30 19:36:13	2013-10-30 19:36:13
 234	0xea	ê	1	8769309	fin	Kurdin aakkoset koostuvat kolmestakymmenestäyhdestä kirjaimesta: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Thanuir	2020-05-17 19:31:42	2020-05-17 19:31:51
 235	0xeb	ë	1	3242116	fin	Jimmy oli syvästi kateellinen Zoën nimen pisteistä.	Silja	2014-05-10 09:59:25	2014-05-10 09:59:25
-237	0xed	í	7	3979927	fin	Tom opetteli hiíhtämään itsenäisesti.	Sanaseppo	2015-03-22 16:54:53	2015-03-22 16:54:53
+237	0xed	í	7	9671652	fin	Akrotíri on pronssikautinen asutuskeskus, joka hautautui vulkaanisen tuhkan alle.	Thanuir	2021-01-18 12:52:59	2021-01-18 12:52:59
 238	0xee	î	1	8769309	fin	Kurdin aakkoset koostuvat kolmestakymmenestäyhdestä kirjaimesta: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Thanuir	2020-05-17 19:31:42	2020-05-17 19:31:51
 239	0xef	ï	1	8253430	fin	Todennäköisesti lapsikohteinen seksuaalihïriö on tavallisempaa kuin ihmiset uskovat.	Thanuir	2019-10-14 10:54:47	2019-10-14 10:54:47
-241	0xf1	ñ	4	10640299	fin	Ostin Ranskasta piña coladan tuoksuisen saippuan.	Silja	2022-01-24 01:56:45	2022-01-24 01:56:45
+241	0xf1	ñ	4	10640300	fin	Ostin Ranskasta saippuan, joka tuoksuu piña coladalta.	Silja	2022-01-24 01:57:16	2022-01-24 01:57:16
 243	0xf3	ó	1	4455839	fin	Córdoba on kaupunki Espanjan eteläosassa.	Sanaseppo	2015-08-16 17:00:03	2015-08-16 17:00:03
-244	0xf4	ô	4	8214711	fin	Tuomas ei osaa soveltaa L'Hôpitalin sääntöä raja-arvojen löytämiseksi.	Thanuir	2019-09-27 17:51:48	2019-09-27 17:51:48
+244	0xf4	ô	4	8214710	fin	Tuomas ei tiedä, miten L'Hôpitalin sääntöä sovelletaan raja-arvojen löytämiseksi.	Thanuir	2019-09-27 17:51:35	2019-09-27 17:51:35
 245	0xf5	õ	2	11475072	fin	Poika lõysi puutarhasta pallon.	ondo	2023-01-21 14:18:13	2023-01-21 14:18:13
-246	0xf6	ö	20521	3304149	fin	"Oletko nähnyt kännykkääni?" "Se on pöydällä."	Silja	2014-06-09 05:21:55	2014-06-09 05:21:55
-248	0xf8	ø	9	7765521	fin	Kaikki tiet johtavat Helsingøriin.	Thanuir	2019-02-06 18:31:09	2019-02-06 18:31:52
-250	0xfa	ú	4	10334251	fin	Talo sijaitsee Cancúnin rannan vieressä.	nonong	2021-10-01 16:41:30	2021-10-01 17:19:44
+246	0xf6	ö	20526	3800965	fin	Ymmärtävätkö sekä Tom että Mari ranskaa?	Silja	2015-01-26 17:53:14	2015-01-26 17:53:14
+248	0xf8	ø	9	11220676	fin	Tomin kirjasta on tehty monta elokuvaa. Viimeisin on vuodelta 2005 ja siinä Maria Møller näyttelee Alicea.	Thanuir	2022-11-01 07:53:51	2022-11-01 07:53:51
+250	0xfa	ú	4	10334267	fin	Cancún sijaitsee kohteessa Quintana Roo.	nonong	2021-10-01 16:52:01	2021-10-01 16:52:01
 251	0xfb	û	1	8769309	fin	Kurdin aakkoset koostuvat kolmestakymmenestäyhdestä kirjaimesta: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Thanuir	2020-05-17 19:31:42	2020-05-17 19:31:51
-252	0xfc	ü	12	11900204	fin	Katso, lentokone Ürümqista.	Thanuir	2023-07-02 18:20:55	2023-07-02 18:20:55
-257	0x101	ā	2	8312082	fin	Haluan syödä rāmenia.	Thanuir	2019-11-09 11:42:31	2019-11-09 11:42:31
+252	0xfc	ü	12	2673143	fin	Zürichiä pidetään suurehkona talouden solmukohtana.	Kalle63	2013-08-13 14:33:34	2013-08-13 14:33:43
+257	0x101	ā	2	11415231	fin	Museo avataan aamuyhdeksältā.	ondo	2023-01-04 08:40:41	2023-01-04 08:40:41
 263	0x107	ć	1	4706748	fin	Vuonna 2015 Serbian Novak Đokovićista tuli kolmas mies Rod Laverin ja Roger Federerin ohella tenniksen avoimien aikakaudella, eli vuodesta 1968 alkaen, joka ylsi jokaiseen neljään Grand Slam -finaaliin samana vuonna.	Sanaseppo	2015-11-17 13:51:27	2015-11-17 13:51:27
 265	0x109	ĉ	3	8778066	fin	Esperantoaakkostossa on 28 kirjainta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-21 10:18:50	2020-05-21 10:18:54
 272	0x110	Đ	1	4706748	fin	Vuonna 2015 Serbian Novak Đokovićista tuli kolmas mies Rod Laverin ja Roger Federerin ohella tenniksen avoimien aikakaudella, eli vuodesta 1968 alkaen, joka ylsi jokaiseen neljään Grand Slam -finaaliin samana vuonna.	Sanaseppo	2015-11-17 13:51:27	2015-11-17 13:51:27
 273	0x111	đ	1	2816001	fin	Vietnamin rahayksikkö on đồng. Sen symboli on "₫".	Kalle63	2013-10-30 10:01:58	2013-10-30 10:01:58
 274	0x112	Ē	1	9024330	fin	Tuo lapsi on Ēadweardin poika.	Thanuir	2020-09-08 11:40:35	2020-09-08 11:40:35
-285	0x11d	ĝ	3	8776520	fin	Esperantoaakkosto koostuu 28 kirjaimesta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-20 18:32:04	2020-05-20 18:32:10
+285	0x11d	ĝ	3	8778066	fin	Esperantoaakkostossa on 28 kirjainta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-21 10:18:50	2020-05-21 10:18:54
 293	0x125	ĥ	3	8776520	fin	Esperantoaakkosto koostuu 28 kirjaimesta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-20 18:32:04	2020-05-20 18:32:10
 305	0x131	ı	1	11994985	fin	Ensimmäinen Ceza-laulu, minkä kuulin oli "Türk Marşı".	Shortsit	2023-08-13 16:08:11	2023-08-13 16:08:11
 309	0x135	ĵ	3	8776520	fin	Esperantoaakkosto koostuu 28 kirjaimesta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-20 18:32:04	2020-05-20 18:32:10
-333	0x14d	ō	17	9927144	fin	Japanin pääministeri Shinzō Abe on julistanut eroavansa terveyssyistä.	Thanuir	2021-03-30 10:17:11	2021-03-30 10:17:11
+333	0x14d	ō	17	1042947	fin	Nattō haisee kamalalta mutta maistuu herkulliselta.	ondo	2011-08-14 18:59:42	2011-08-14 18:59:42
 335	0x14f	ŏ	1	4455960	fin	Asuin aikoinaan Pekingissä, mutta tätä nykyä asustan Sŏulissa.	Sanaseppo	2015-08-16 17:50:55	2015-08-16 17:50:55
 345	0x159	ř	1	4805865	fin	Dvořákin slaavilaistanssit olivat alun perin sävelletty nelikätiselle pianolle, mutta säveltäjä itse sovitti ne myöhemmin orkesterille.	wells	2016-01-02 17:32:27	2016-01-02 18:10:33
 349	0x15d	ŝ	4	8776520	fin	Esperantoaakkosto koostuu 28 kirjaimesta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-20 18:32:04	2020-05-20 18:32:10
 351	0x15f	ş	2	8769309	fin	Kurdin aakkoset koostuvat kolmestakymmenestäyhdestä kirjaimesta: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Thanuir	2020-05-17 19:31:42	2020-05-17 19:31:51
-352	0x160	Š	4	11474891	fin	Šampanja on väkijuoma.	Thanuir	2023-01-21 13:07:53	2023-01-21 13:07:53
-353	0x161	š	71	9513459	fin	Herra Gorbatšov, avaa tämä portti! Herra Gorbatšov, herra Gorbatšov, revi tämä muuri alas!	Thanuir	2020-12-21 14:52:52	2020-12-21 14:52:52
-363	0x16b	ū	5	9922244	fin	Tänään Japanin parlamentti nimitti virallisesti Ryūtarō Hashimoton maan 52:ksi pääministeriksi.	Thanuir	2021-03-29 10:34:22	2021-03-29 10:34:22
-365	0x16d	ŭ	3	8778064	fin	Esperantoaakkostossa on kaksikymmentäkahdeksan kirjainta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-21 10:18:04	2020-05-21 10:18:09
-382	0x17e	ž	7	7106928	fin	Kambodža pyysi YK:lta apua.	Thanuir	2018-08-31 10:18:54	2018-08-31 10:18:54
-698	0x2ba	ʺ	58	12121502	fin	ʺLähdetään kesälomalla Hokkaidoon!ʺ – ʺHokkaidon matka maksaisi nelihenkiseltä perheeltä jotain 500 000 jeniäʺ – ʺEi kai se niin paljon maksaisi?ʺ	Johannes_S	2023-10-22 11:15:57	2023-10-22 11:15:57
+352	0x160	Š	4	11474890	fin	Šamppanja on väkijuoma.	Thanuir	2023-01-21 13:07:48	2023-01-21 13:07:48
+353	0x161	š	71	7759974	fin	Minun nimeni on Dušana.	Thanuir	2019-02-02 12:05:13	2019-02-02 12:05:13
+363	0x16b	ū	5	9797736	fin	Akira harrastaa kyūdōa kuulemma joka perjantai.	Johannes_S	2021-02-23 15:32:29	2021-02-23 15:32:29
+365	0x16d	ŭ	3	8776520	fin	Esperantoaakkosto koostuu 28 kirjaimesta: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Thanuir	2020-05-20 18:32:04	2020-05-20 18:32:10
+382	0x17e	ž	7	7106924	fin	Kambodža pyysi apua Yhdistyneiltä kansakunnilta.	Thanuir	2018-08-31 10:16:48	2018-08-31 10:16:48
+698	0x2ba	ʺ	58	12120280	fin	ʺKeksiʺ kuulostaa hyvältä kissan nimeltä.	Johannes_S	2023-10-21 17:03:55	2023-10-21 17:03:55
 940	0x3ac	ά	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
 947	0x3b3	γ	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
 956	0x3bc	μ	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
 959	0x3bf	ο	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
-960	0x3c0	π	8	7261356	fin	Koska π on transsendenttinen, on ympyrän neliöiminen - eräs klassinen geometrian ongelma - mahdotonta.	Thanuir	2018-10-06 18:36:18	2018-10-06 18:36:18
+960	0x3c0	π	8	7763870	fin	Luku pii on melkein yhtä suuri kuin 3,14 tai 22/7. Sen merkki on ”π”.	Thanuir	2019-02-05 06:42:11	2019-05-03 12:34:21
 961	0x3c1	ρ	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
 962	0x3c2	ς	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
 964	0x3c4	τ	1	7932483	fin	Sana ”tomografia” tulee kreikankielen sanoista ”τόμος” eli tomos ja ”γράφω” eli grafo.	Thanuir	2019-05-25 05:05:00	2019-05-25 05:05:00
@@ -172,23 +172,23 @@
 1608	0x648	و	1	8404007	fin	Saudi-Arabian arabiankielinen nimi on »المملكة العربية السعودية».	Thanuir	2019-12-25 09:52:06	2019-12-25 09:52:06
 1610	0x64a	ي	2	8404007	fin	Saudi-Arabian arabiankielinen nimi on »المملكة العربية السعودية».	Thanuir	2019-12-25 09:52:06	2019-12-25 09:52:06
 7891	0x1ed3	ồ	1	2816001	fin	Vietnamin rahayksikkö on đồng. Sen symboli on "₫".	Kalle63	2013-10-30 10:01:58	2013-10-30 10:01:58
-8203	0x200b	​	6	12215491	fin	Ylimmällä lasilautasella oli kolmenlaisia ​​juustoja, mutta pyysimme aina hollantilaista gouda-juustoa, josta itse pidimme eniten.	Metsis	2023-12-18 09:49:58	2023-12-18 09:49:58
-8211	0x2013	–	332	8282758	fin	Giovanni Cassini (1625 – 1712) havaitsi ensimmäisenä neljä Saturnuksen kuista, mukaan lukien Japetuksen.	Thanuir	2019-10-25 11:22:15	2019-10-25 11:22:15
-8212	0x2014	—	75	5176581	fin	Kiitäjät viihtyvät linnuista kaikkein eniten ilmassa — esimerkiksi tervapääskyt jopa nukkuvat ja parittelevat lennossa. Mikään muu lintulaji ei lennä näin suurta osaa elämästään.	Sanaseppo	2016-05-30 16:45:55	2016-05-30 16:45:55
-8217	0x2019	’	27	10719645	fin	”Oi on maammo, kantajani, oi emo, imettäjäni! Onp' on syitä synke'itä, apeita ani pahoja! Sitä itken, äiti rukka, sitä, maammoni, valitan: läksin luutoa lehosta, vastanpäitä varvikosta. Taitoin vastan taatolleni, toisen taitoin maammolleni, kokoelin kolmannenki verevälle veijolleni. Aloin astua kotihin; astuinpa läpi ahosta: Osmoinen orosta virkkoi, Kalevainen kaskesmaalta: ’Eläpä muille, neiti rukka, kuin minulle, neiti rukka, kanna kaulanhelmilöitä, rinnanristiä rakenna, pane päätä palmikolle, sio silkillä hivusta!’”	Thanuir	2022-03-15 11:54:39	2022-03-15 11:54:39
+8203	0x200b	​	6	2397084	fin	Lehdet ovat keltaisia​​.	freddy1	2013-04-22 15:58:20	2013-04-22 15:58:33
+8211	0x2013	–	332	10266277	fin	"Pääsikö Tomi kokeesta läpi?" – "Nipin napin."	Johannes_S	2021-08-28 11:41:30	2021-08-28 11:41:30
+8212	0x2014	—	75	3782258	fin	Ihmisellä on monia toiveita, joita hän ei oikeasti toivo täyttyvän; vastaisen väittäminen olisi väärinymmärrys. Hän haluaa niiden pysyvän toiveina, niillä on merkitystä vain hänen mielikuvitukselleen — toiveiden täyttyminen olisi hänelle katkera pettymys. Eräs tällainen mielihalu on ikuisen elämän kaipuu. Mikäli täyttyisi, ihminen kyllästyisi perinpohjin elämiseen ja kaipaisi kuolemaa.	Sanaseppo	2015-01-20 19:03:41	2015-01-20 19:04:02
+8217	0x2019	’	27	10758792	fin	”Minä luoksi luontelime, likelle lähentelime. Aloinpa anella noita, itse virkin ja sanelin: ’Anna, Kuutar, kultiasi, Päivätär, hope’itasi tälle tyhjälle tytölle, lapsellen anelijalle!’	Thanuir	2022-04-08 08:54:45	2022-04-08 08:54:45
 8220	0x201c	“	3	2125527	fin	Mietittyäni pohjiaan myöten tätä peruskysymystä tulin siihen tulokseen, että noitten tarpeellisten sanojen ”tärkeä” ja ”välttämätön” välinen ero, jota hallitsevassa asemassa olevat ihmiset usein kuvailevat “huomattavaksi” tai “oleelliseksi”, ei suinkaan ole merkittävä vaan epäolennainen.	lakeinen	2013-01-06 00:20:19	2013-01-06 00:20:19
-8221	0x201d	”	3269	3979999	fin	”Matikka on hauskaa.” ”Eikä ole.”	Sanaseppo	2015-03-22 17:28:06	2015-03-22 18:39:31
-8230	0x2026	…	38	8295753	fin	Voi hitsi…	Thanuir	2019-10-31 15:18:13	2019-10-31 15:18:13
-8304	0x2070	⁰	4	8234746	fin	Määritä 2²⁰¹³ modulo 3.	Thanuir	2019-10-05 11:33:11	2019-10-05 11:33:11
+8221	0x201d	”	3269	3371901	fin	”Luuletko, että rakkaus voi syntyä ilman ruumiillista yhteyttä?” ”Totta kai, mutta se riippunee toisesta osapuolesta.”	Silja	2014-07-10 21:55:23	2014-07-10 21:55:23
+8230	0x2026	…	38	8295758	fin	Jos Jumala suo…	Thanuir	2019-10-31 15:19:23	2019-10-31 15:19:23
+8304	0x2070	⁰	4	7992705	fin	Laske luvun 2²⁰¹³ jakojäännös kolmella jaettaessa.	Thanuir	2019-06-21 14:42:18	2019-10-05 08:16:35
 8322	0x2082	₂	3	4602216	fin	Veden kemiallinen kaava on H₂O.	Lahna	2015-10-12 13:33:41	2015-10-12 13:34:25
 8363	0x20ab	₫	1	2816001	fin	Vietnamin rahayksikkö on đồng. Sen symboli on "₫".	Kalle63	2013-10-30 10:01:58	2013-10-30 10:01:58
-8364	0x20ac	€	4	8137482	fin	Tienaan 100 € päivässä.	Thanuir	2019-08-28 09:02:07	2019-08-28 09:02:07
-8451	0x2103	℃	2	9755540	fin	Säilytä -18℃ tai kylmemmässä.	Johannes_S	2021-02-13 11:09:47	2021-02-13 11:09:47
+8364	0x20ac	€	4	8137480	fin	Ansaitsen 100 € päivässä.	Thanuir	2019-08-28 09:01:56	2019-08-28 09:01:56
+8451	0x2103	℃	2	12145562	fin	Veden kiehumispiste on 100℃.	Johannes_S	2023-11-04 17:43:10	2023-11-04 17:43:10
 8477	0x211d	ℝ	2	7262726	fin	Reaalilukujen joukolle ℝ pätee Arkhimedeen ominaisuus: Jokaiselle reaaliluvulle x on olemassa luonnollinen luku n, joka on aidosti suurempi kuin x.	Thanuir	2018-10-07 08:14:01	2018-10-07 08:14:01
 8594	0x2192	→	1	2663859	fin	Olet lisännyt kommentin, et käännöstä. Lisätäksesi käännöksen, klikkaa lauseen yläpuolelle olevaa ”あ→а”-kuvaketta.	Silja	2013-08-09 10:34:13	2015-01-21 15:24:03
 8712	0x2208	∈	1	7795736	fin	Vastauksessasi yritit varmaan kirjoittaa, että väli I on reaalilukujen osajoukko, mutta merkki ”∈” on ”kuulua joukkoon”.	Thanuir	2019-03-04 12:10:30	2019-04-04 11:49:21
-8722	0x2212	−	5	8213295	fin	92 − 9 = 83.	Thanuir	2019-09-27 10:27:29	2019-09-27 10:27:29
-8730	0x221a	√	6	10182363	fin	Kolmen neliöjuuret ovat √3 ja -√3.	Johannes_S	2021-07-20 13:57:07	2021-07-20 13:57:07
+8722	0x2212	−	5	8230497	fin	Ratkaise kolmannen asteen yhtälö x³ + 2x² − x − 2 = 0.	Thanuir	2019-10-04 11:23:41	2019-10-04 11:23:41
+8730	0x221a	√	6	7262736	fin	Neliöjuuri kolmesta on √3 tai -√3.	Thanuir	2018-10-07 08:20:39	2018-10-07 08:20:39
 8834	0x2282	⊂	2	7261505	fin	Käytämme symbolia »⊂» merkitsemään aitoa osajoukkoa.	Thanuir	2018-10-06 19:26:57	2018-10-06 19:26:57
 9633	0x25a1	□	1	7800456	fin	□	Thanuir	2019-03-08 09:00:26	2021-03-13 12:05:08
 12354	0x3042	あ	2	2663859	fin	Olet lisännyt kommentin, et käännöstä. Lisätäksesi käännöksen, klikkaa lauseen yläpuolelle olevaa ”あ→а”-kuvaketta.	Silja	2013-08-09 10:34:13	2015-01-21 15:24:03

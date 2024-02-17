@@ -1,8 +1,8 @@
-32	0x20	 	412	12010577	pal	pas zardušt dēn āwurd. az framān ī wištāsp šāh hazār ud dō-sad fragard pad dēn-dibīrīh pad taxtagīhā ī zarrēn kand ud nibišt ud pad ganǰ ī ān ātaxš nihād.	azarbad39	2023-08-22 23:36:55	2023-08-22 23:36:55
+32	0x20	 	412	12010559	pal	kay-husraw ī syāwaxšān ānōh zād u-š warzāwand ātaxš wahrām ānōh nišāst.	azarbad39	2023-08-22 22:46:39	2023-08-22 22:46:39
 33	0x21	!	1	12020103	pal	rōzagwišāy!	azarbad39	2023-08-27 19:49:25	2023-08-27 19:49:25
-44	0x2c	,	2	12021881	pal	pid ī amā, kē pad asmān hē.	azarbad39	2023-08-28 20:03:01	2023-08-28 20:11:24
-45	0x2d	-	27	12010543	pal	šahrestānīhā ī andar zamīg ī ērān-šahr kard ēstēd ǰud-ǰud rōz, kū kadām sar-xwadāy kard pad-gōkān abar ēn ayādgār nibišt ēstēd.	azarbad39	2023-08-22 21:59:04	2023-08-22 21:59:04
-46	0x2e	.	47	12018695	pal	sāmīh šud tā xwārišn-ē be gīrēd.	azarbad39	2023-08-27 00:07:55	2023-08-27 00:07:55
+44	0x2c	,	2	12010543	pal	šahrestānīhā ī andar zamīg ī ērān-šahr kard ēstēd ǰud-ǰud rōz, kū kadām sar-xwadāy kard pad-gōkān abar ēn ayādgār nibišt ēstēd.	azarbad39	2023-08-22 21:59:04	2023-08-22 21:59:04
+45	0x2d	-	27	8956236	pal	U-š ēdōn framūd nibištan	fbayer	2020-08-03 13:22:46	2020-08-03 13:23:56
+46	0x2e	.	47	12010559	pal	kay-husraw ī syāwaxšān ānōh zād u-š warzāwand ātaxš wahrām ānōh nišāst.	azarbad39	2023-08-22 22:46:39	2023-08-22 22:46:39
 58	0x3a	:	1	12010541	pal	pad nām ī dādār ī weh ud abzōnīg: šahrīhā ī ērān; pad nām ud nērōg ud ayārīh ī dādār ohrmazd ud ǰadag ī nēk.	azarbad39	2023-08-22 21:58:13	2023-08-22 23:25:32
 59	0x3b	;	2	12010541	pal	pad nām ī dādār ī weh ud abzōnīg: šahrīhā ī ērān; pad nām ud nērōg ud ayārīh ī dādār ohrmazd ud ǰadag ī nēk.	azarbad39	2023-08-22 21:58:13	2023-08-22 23:25:32
 63	0x3f	?	3	12021931	pal	tō nārīggrāy hē?	azarbad39	2023-08-28 20:17:02	2023-08-28 20:17:02
@@ -14,33 +14,33 @@
 85	0x55	U	1	8956236	pal	U-š ēdōn framūd nibištan	fbayer	2020-08-03 13:22:46	2020-08-03 13:23:56
 90	0x5a	Z	1	8956212	pal	Ēdōn gōwēnd kū ēw-bār ahlaw Zardušt dēn ī padīrift andar gēhān rawāg be kard	fbayer	2020-08-03 13:15:10	2020-08-03 13:23:48
 97	0x61	a	213	12018605	pal	man nē dānist hēm kū ān adād ast.	azarbad39	2023-08-26 21:51:14	2023-08-26 21:51:14
-98	0x62	b	41	12010546	pal	pad kust ī xwarāsān samarkand šahrestān kāyōs ī kawādān bun fragand syāwaxš ī kāyōsān be frazāmēnīd.	azarbad39	2023-08-22 22:00:19	2023-08-22 22:00:19
-100	0x64	d	163	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
+98	0x62	b	41	8956263	pal	Pašnānīg Rāypāyram ī Garmān šahrē andar kišwar ī Ēwrōpā abāg šahrestān ī Berlīn ast	fbayer	2020-08-03 13:39:54	2020-08-03 13:48:21
+100	0x64	d	163	12010543	pal	šahrestānīhā ī andar zamīg ī ērān-šahr kard ēstēd ǰud-ǰud rōz, kū kadām sar-xwadāy kard pad-gōkān abar ēn ayādgār nibišt ēstēd.	azarbad39	2023-08-22 21:59:04	2023-08-22 21:59:04
 101	0x65	e	21	12020205	pal	kārezār dōšambad hanǰāmīhad.	azarbad39	2023-08-27 21:02:34	2023-08-27 21:17:46
 102	0x66	f	15	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
-103	0x67	g	77	12010541	pal	pad nām ī dādār ī weh ud abzōnīg: šahrīhā ī ērān; pad nām ud nērōg ud ayārīh ī dādār ohrmazd ud ǰadag ī nēk.	azarbad39	2023-08-22 21:58:13	2023-08-22 23:25:32
-104	0x68	h	75	12020205	pal	kārezār dōšambad hanǰāmīhad.	azarbad39	2023-08-27 21:02:34	2023-08-27 21:17:46
-105	0x69	i	47	12020109	pal	rōzagwišāy be xwarēd.	azarbad39	2023-08-27 19:50:59	2023-08-27 19:50:59
-107	0x6b	k	55	12018715	pal	areškēn ma bāš.	azarbad39	2023-08-27 00:26:26	2023-08-27 00:26:26
-108	0x6c	l	8	12021833	pal	pad nām ī allāh ī abzōnīg ī abaxšāyišnīg.	azarbad39	2023-08-28 19:30:08	2023-08-28 19:30:08
-109	0x6d	m	64	12020010	pal	kēr ī sāmīh brīd mad.	azarbad39	2023-08-27 18:53:14	2023-08-27 18:53:14
-110	0x6e	n	154	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
+103	0x67	g	77	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
+104	0x68	h	75	12020112	pal	man rōzag wišād hēm.	azarbad39	2023-08-27 19:53:39	2023-08-27 19:53:39
+105	0x69	i	47	12010577	pal	pas zardušt dēn āwurd. az framān ī wištāsp šāh hazār ud dō-sad fragard pad dēn-dibīrīh pad taxtagīhā ī zarrēn kand ud nibišt ud pad ganǰ ī ān ātaxš nihād.	azarbad39	2023-08-22 23:36:55	2023-08-22 23:36:55
+107	0x6b	k	55	12021737	pal	dō kanīg ī kūčak mēnōgān hamē čīnēnd.	azarbad39	2023-08-28 18:32:08	2023-08-28 18:32:08
+108	0x6c	l	8	8956263	pal	Pašnānīg Rāypāyram ī Garmān šahrē andar kišwar ī Ēwrōpā abāg šahrestān ī Berlīn ast	fbayer	2020-08-03 13:39:54	2020-08-03 13:48:21
+109	0x6d	m	64	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
+110	0x6e	n	154	12021737	pal	dō kanīg ī kūčak mēnōgān hamē čīnēnd.	azarbad39	2023-08-28 18:32:08	2023-08-28 18:32:08
 111	0x6f	o	1	12010541	pal	pad nām ī dādār ī weh ud abzōnīg: šahrīhā ī ērān; pad nām ud nērōg ud ayārīh ī dādār ohrmazd ud ǰadag ī nēk.	azarbad39	2023-08-22 21:58:13	2023-08-22 23:25:32
-112	0x70	p	28	12021881	pal	pid ī amā, kē pad asmān hē.	azarbad39	2023-08-28 20:03:01	2023-08-28 20:11:24
-114	0x72	r	126	12018695	pal	sāmīh šud tā xwārišn-ē be gīrēd.	azarbad39	2023-08-27 00:07:55	2023-08-27 00:07:55
-115	0x73	s	57	12010559	pal	kay-husraw ī syāwaxšān ānōh zād u-š warzāwand ātaxš wahrām ānōh nišāst.	azarbad39	2023-08-22 22:46:39	2023-08-22 22:46:39
-116	0x74	t	49	12010578	pal	ud pas gizistag skandar sōxt ud andar ō drayāb abgand.	azarbad39	2023-08-22 23:37:36	2023-08-22 23:37:36
-117	0x75	u	54	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
-119	0x77	w	48	12020107	pal	rōzagwišāy be xwar.	azarbad39	2023-08-27 19:50:11	2023-08-27 19:50:11
-120	0x78	x	26	12010559	pal	kay-husraw ī syāwaxšān ānōh zād u-š warzāwand ātaxš wahrām ānōh nišāst.	azarbad39	2023-08-22 22:46:39	2023-08-22 22:46:39
-121	0x79	y	47	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
-122	0x7a	z	43	12010577	pal	pas zardušt dēn āwurd. az framān ī wištāsp šāh hazār ud dō-sad fragard pad dēn-dibīrīh pad taxtagīhā ī zarrēn kand ud nibišt ud pad ganǰ ī ān ātaxš nihād.	azarbad39	2023-08-22 23:36:55	2023-08-22 23:36:55
-257	0x101	ā	179	12021933	pal	ōy nārīggrāy ast?	azarbad39	2023-08-28 20:18:23	2023-08-28 20:18:23
+112	0x70	p	28	12021833	pal	pad nām ī allāh ī abzōnīg ī abaxšāyišnīg.	azarbad39	2023-08-28 19:30:08	2023-08-28 19:30:08
+114	0x72	r	126	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
+115	0x73	s	57	12010578	pal	ud pas gizistag skandar sōxt ud andar ō drayāb abgand.	azarbad39	2023-08-22 23:37:36	2023-08-22 23:37:36
+116	0x74	t	49	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
+117	0x75	u	54	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
+119	0x77	w	48	12020108	pal	rōzagwišāy xwar.	azarbad39	2023-08-27 19:50:27	2023-08-27 19:50:27
+120	0x78	x	26	12010577	pal	pas zardušt dēn āwurd. az framān ī wištāsp šāh hazār ud dō-sad fragard pad dēn-dibīrīh pad taxtagīhā ī zarrēn kand ud nibišt ud pad ganǰ ī ān ātaxš nihād.	azarbad39	2023-08-22 23:36:55	2023-08-22 23:36:55
+121	0x79	y	47	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
+122	0x7a	z	43	8956206	pal	Pad nām ī yazdān	fbayer	2020-08-03 13:12:02	2020-08-03 13:23:40
+257	0x101	ā	179	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
 269	0x10d	č	12	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
-274	0x112	Ē	2	8956212	pal	Ēdōn gōwēnd kū ēw-bār ahlaw Zardušt dēn ī padīrift andar gēhān rawāg be kard	fbayer	2020-08-03 13:15:10	2020-08-03 13:23:48
-275	0x113	ē	95	12020145	pal	ōy nibēgān nibēsēd.	azarbad39	2023-08-27 20:13:30	2023-08-27 20:13:30
-299	0x12b	ī	93	12010945	pal	sugd ī haft-āšyān u-š haft āšyānīh andar būd; ēd kū haft xwadāyān andar bud. ēk ān ī ǰam ud ēk ān ī azdahāg ud ēk ān ī frēdōn ud ēk ān ī manūčihr ud ēk ān ī kāyōs ud ēk ān ī kay-husraw ud ēk ān ī luhrāsp ud ēk ān ī wištāsp šāh.	azarbad39	2023-08-23 08:02:21	2023-08-23 08:02:21
-333	0x14d	ō	64	12010577	pal	pas zardušt dēn āwurd. az framān ī wištāsp šāh hazār ud dō-sad fragard pad dēn-dibīrīh pad taxtagīhā ī zarrēn kand ud nibišt ud pad ganǰ ī ān ātaxš nihād.	azarbad39	2023-08-22 23:36:55	2023-08-22 23:36:55
+274	0x112	Ē	2	8956263	pal	Pašnānīg Rāypāyram ī Garmān šahrē andar kišwar ī Ēwrōpā abāg šahrestān ī Berlīn ast	fbayer	2020-08-03 13:39:54	2020-08-03 13:48:21
+275	0x113	ē	95	12010546	pal	pad kust ī xwarāsān samarkand šahrestān kāyōs ī kawādān bun fragand syāwaxš ī kāyōsān be frazāmēnīd.	azarbad39	2023-08-22 22:00:19	2023-08-22 22:00:19
+299	0x12b	ī	93	12020156	pal	ōy sar ī xwad abar sēnag ī ōy nigāh dāšt.	azarbad39	2023-08-27 20:20:31	2023-08-27 20:20:31
+333	0x14d	ō	64	12018712	pal	ōy zūd ō bālēn-gāh šud.	azarbad39	2023-08-27 00:22:37	2023-08-27 00:22:37
 353	0x161	š	72	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
-363	0x16b	ū	14	12021737	pal	dō kanīg ī kūčak mēnōgān hamē čīnēnd.	azarbad39	2023-08-28 18:32:08	2023-08-28 18:32:08
+363	0x16b	ū	14	12020017	pal	u-š warzāwand ātaxš wahrām ānōh nišāst u-š nēzag ī xwēš ānōh be zad u-š ō yabbu xāgān ud sinǰēbīg xāgān ud čōl xāgān ud wuzurg xāgān ud gōhram ud tuzāb ud arǰāsp ī hyōnān šāh paygām frēstīd kū nēzag ī man be nigerēd. har kē pad wēzišn ī ēn nēzag nigerēd čē andar ō ērān-šahr dwārēd.	azarbad39	2023-08-27 18:58:07	2023-08-27 19:26:09
 496	0x1f0	ǰ	8	12010541	pal	pad nām ī dādār ī weh ud abzōnīg: šahrīhā ī ērān; pad nām ud nērōg ud ayārīh ī dādār ohrmazd ud ǰadag ī nēk.	azarbad39	2023-08-22 21:58:13	2023-08-22 23:25:32

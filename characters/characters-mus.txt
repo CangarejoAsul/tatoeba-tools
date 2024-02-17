@@ -1,69 +1,69 @@
-32	0x20	 	1562	10990587	mus	Yannē ēkvnv ētvn likēt os.	eeyinn	2022-07-15 00:43:22	2022-07-15 00:43:53
-33	0x21	!	100	10459836	mus	Hoporreneko!	eeyinn	2021-10-25 00:22:07	2021-10-25 00:22:07
+32	0x20	 	1562	9980924	mus	Taklike nvcomen nehseckv?	eeyinn	2021-04-23 16:12:28	2021-04-23 16:12:28
+33	0x21	!	100	9929539	mus	Cekvn awaret omarēs cē!	eeyinn	2021-03-31 17:10:26	2021-04-16 03:12:44
 34	0x22	"	16	10534538	mus	"Estvn likeckēt tē?" "Tokyo tvlofvn likiyēt os."	eeyinn	2021-11-28 19:15:55	2021-11-28 19:15:55
-39	0x27	'	17	10013724	mus	Mennint ehocefkat estonko 'tetayēs.	eeyinn	2021-05-07 16:14:24	2021-05-07 16:14:24
-44	0x2c	,	68	9845557	mus	Estimvt ’cetotemvtē, cerket onkat cem estvlket?	eeyinn	2021-03-16 01:52:44	2021-03-16 16:42:16
-45	0x2d	-	57	9845593	mus	Ēkvn-fvskē emeste catēn omikv, "etvlwv" mahoken ocakisen fuswvlket omis.	eeyinn	2021-03-16 02:17:05	2021-11-28 18:38:01
-46	0x2e	.	379	10883883	mus	Cekicet cenlaksiyîs.	eeyinn	2022-06-02 23:45:20	2022-06-02 23:45:20
-59	0x3b	;	2	9845555	mus	Hiyowat mvnettvlke nake eyacaken omat ē hiyowet o; Nak elvpken, hiyowen ē vpokvkēt ont on, mowis.	eeyinn	2021-03-16 01:51:09	2021-03-16 16:42:57
-63	0x3f	?	137	9845592	mus	Naket cemetvlwvt omv?	eeyinn	2021-03-16 02:16:29	2021-03-16 16:39:19
-65	0x41	A	9	10534969	mus	Ahtvs!	eeyinn	2021-11-29 00:28:40	2021-11-29 00:28:40
-66	0x42	B	4	9954855	mus	Boston tvlofvn ariyof vmohpvlvtket os cē.	eeyinn	2021-04-13 17:23:53	2021-04-13 17:23:53
-67	0x43	C	64	9869873	mus	Cehēcakot os.	eeyinn	2021-03-25 16:22:21	2021-03-25 16:22:21
-69	0x45	E	101	9846513	mus	Enkv.	eeyinn	2021-03-16 16:57:59	2021-03-24 13:48:14
-70	0x46	F	8	10457216	mus	Fvccvtokot os.	eeyinn	2021-10-23 21:40:19	2021-10-23 21:40:19
+39	0x27	'	17	10013695	mus	Encokv vntotet okat nettvcak'cuse hvmkofvn vlvkvranet os cvkices.	eeyinn	2021-05-07 15:45:29	2021-05-07 15:45:29
+44	0x2c	,	68	9961235	mus	Estvn Mary enokēcēt omat centat omeckes, vntat tokot os.	eeyinn	2021-04-16 04:26:10	2021-04-16 04:26:10
+45	0x2d	-	57	9852498	mus	Cvcket neskv-cukon ayet omv?	eeyinn	2021-03-19 15:37:05	2021-03-24 13:32:43
+46	0x2e	.	379	10535092	mus	Vm mvttēt on cemonayet omis.	eeyinn	2021-11-29 04:25:44	2021-11-29 04:25:44
+59	0x3b	;	2	9845552	mus	Mēkusvpkv-cuko ’cēyeccen owat vfvnnake omekot; nak erkenvkv nak makat mvn pohet, mvn lvputket mvn vhēcet mvn liket... cele tis nekeyicē omekot.	eeyinn	2021-03-16 01:48:42	2021-03-16 16:43:02
+63	0x3f	?	137	9869926	mus	Yvmv cukofvn nak vhayēt tayv?	eeyinn	2021-03-25 16:41:09	2021-03-25 16:41:09
+65	0x41	A	9	10459790	mus	A̜ehvha.	eeyinn	2021-10-24 23:46:48	2021-10-24 23:46:48
+66	0x42	B	4	9845584	mus	Vnliketvt os Brighton-et.	eeyinn	2021-03-16 02:12:09	2021-11-27 21:48:07
+67	0x43	C	64	11808948	mus	Celusats!	eeyinn	2023-05-31 03:17:08	2023-05-31 03:17:08
+69	0x45	E	101	10001810	mus	Eshakv hēret cvlapvs.	eeyinn	2021-05-02 00:07:16	2021-05-02 00:07:16
+70	0x46	F	8	9961223	mus	Fekhvmke sekomahet omvkekvnks.	eeyinn	2021-04-16 03:50:43	2021-04-16 03:50:43
 71	0x47	G	1	10009527	mus	Mistehvtke "German" kihocēt uetokset on feckucet emvlostē os.	eeyinn	2021-05-05 15:33:12	2021-05-05 15:33:12
-72	0x48	H	89	10009324	mus	Hoktē hv̜lwusēt os.	eeyinn	2021-05-05 14:28:20	2021-05-05 14:28:20
-73	0x49	I	2	9846563	mus	Ilesvlketokot omis.	eeyinn	2021-03-16 17:26:03	2021-03-16 17:26:08
-75	0x4b	K	14	10692145	mus	Kērriyvntvs.	eeyinn	2022-02-26 05:10:16	2022-03-14 02:39:08
-76	0x4c	L	14	10344105	mus	Vnhvtecę̄skusat Lom tvlwvn cukoperihcis.	eeyinn	2021-10-05 11:27:28	2021-10-05 11:27:28
-77	0x4d	M	93	9852517	mus	Mēkot vmopunayet os.	eeyinn	2021-03-19 15:46:47	2021-03-24 13:36:56
-78	0x4e	N	46	9868469	mus	Nake vkerriceckan kerretv cvyacēt os.	eeyinn	2021-03-25 04:02:14	2021-03-25 04:02:14
-79	0x4f	O	12	10534985	mus	Ohonayvs!	eeyinn	2021-11-29 00:49:54	2021-11-29 00:49:54
-80	0x50	P	12	10535121	mus	Pem vnakēcv emposucet pencvpofucen emvlostet os.	eeyinn	2021-11-29 04:48:15	2021-11-29 04:48:15
-82	0x52	R	8	9978827	mus	Rahecepvkets.	eeyinn	2021-04-22 14:20:09	2021-04-22 14:20:09
-83	0x53	S	21	10013760	mus	Semē ton Lilv hocefhokat etehvlahtet os.	eeyinn	2021-05-07 16:43:59	2021-05-07 16:43:59
-84	0x54	T	80	10459831	mus	Tehecvkvrēs!	eeyinn	2021-10-25 00:17:17	2021-10-25 00:17:17
+72	0x48	H	89	10534961	mus	Hoporrenē mahē!	eeyinn	2021-11-29 00:16:50	2021-11-29 00:16:50
+73	0x49	I	2	9846562	mus	Ilesvlket omaks.	eeyinn	2021-03-16 17:25:50	2021-03-16 17:26:22
+75	0x4b	K	14	10692175	mus	Momen mv horre herkv hahkof, pum ēkvnv raohfolēcēt eryiceyat Kvnēte vfopken vpoket omēyîs, hompetv seko accvkē sekat emonken, ohrolopē toccēnat mahe orvtēs.	eeyinn	2022-02-26 05:51:56	2022-02-26 05:51:56
+76	0x4c	L	14	10013750	mus	Semē ton Lilv hocefhokat etepvkakēt os.	eeyinn	2021-05-07 16:38:29	2021-05-07 16:38:29
+77	0x4d	M	93	10459792	mus	Monko.	eeyinn	2021-10-24 23:47:10	2021-10-24 23:47:10
+78	0x4e	N	46	9929515	mus	Nocepvs!	eeyinn	2021-03-31 17:02:02	2021-03-31 17:02:02
+79	0x4f	O	12	10990570	mus	Okat epoyetvn kont omēs kicvket ǫs.	eeyinn	2022-07-15 00:36:04	2022-07-15 00:36:04
+80	0x50	P	12	10535040	mus	Pvfnet!	eeyinn	2021-11-29 03:18:19	2021-11-29 03:18:19
+82	0x52	R	8	9869780	mus	Ra-vyetv cvyacēs.	eeyinn	2021-03-25 15:19:48	2021-03-25 15:19:48
+83	0x53	S	21	9845534	mus	Semvnolvlket owiēs	eeyinn	2021-03-16 01:33:06	2021-03-16 16:45:14
+84	0x54	T	80	9978912	mus	Tom momen Mary nak omvlkv eyacan nesehpet os.	eeyinn	2021-04-22 15:45:50	2021-04-22 15:45:50
 85	0x55	U	1	10541543	mus	Ue homē catē esketvn ceyacv?	eeyinn	2021-12-02 23:47:54	2021-12-02 23:47:54
-86	0x56	V	60	10459835	mus	Vmapohicvs!	eeyinn	2021-10-25 00:21:19	2021-11-28 06:48:44
-87	0x57	W	4	9847466	mus	Wvcenv emopunvkvn opunayeckv?	eeyinn	2021-03-17 05:13:59	2021-03-17 05:14:02
-89	0x59	Y	9	10535130	mus	Yvkapet rarvhanis.	eeyinn	2021-11-29 04:58:27	2021-11-29 04:58:27
-97	0x61	a	743	9966059	mus	Cehesaketvn hopuetake nakemkv hēruse hvmket owēs.	eeyinn	2021-04-17 23:37:20	2021-04-17 23:37:20
-99	0x63	c	726	10535093	mus	Herē mahēt os cē!	eeyinn	2021-11-29 04:27:20	2021-11-29 04:27:20
-101	0x65	e	1430	10534992	mus	Ceyetv pvnvkv tv?	eeyinn	2021-11-29 00:51:46	2021-11-29 00:51:46
-102	0x66	f	124	10013730	mus	Vcewen fekvpet wakkepihv̜?	eeyinn	2021-05-07 16:19:27	2021-05-07 16:19:57
+86	0x56	V	60	10720756	mus	Vnokeckvn cemociyēs.	eeyinn	2022-03-16 00:17:18	2022-03-16 00:17:18
+87	0x57	W	4	9852499	mus	Wace neskv-cukon ayv?	eeyinn	2021-03-19 15:37:20	2021-03-24 13:32:53
+89	0x59	Y	9	9869926	mus	Yvmv cukofvn nak vhayēt tayv?	eeyinn	2021-03-25 16:41:09	2021-03-25 16:41:09
+97	0x61	a	743	10009541	mus	Emestelepikvn hecahkes.	eeyinn	2021-05-05 15:38:27	2021-05-05 15:38:27
+99	0x63	c	726	9845545	mus	Tvlofvn vyetvn ceyacv?	eeyinn	2021-03-16 01:43:00	2021-03-16 16:43:55
+101	0x65	e	1430	9845573	mus	Hoktēt okat, 'corakkot lētkvcoks, ecken kicvtēs.	eeyinn	2021-03-16 02:06:28	2021-03-16 16:38:14
+102	0x66	f	124	10692167	mus	Mv omof, este-cate tat cufe vpeswv pvpetv tokot omēs makakvtēs.	eeyinn	2022-02-26 05:45:08	2022-03-14 02:38:27
 103	0x67	g	1	9845584	mus	Vnliketvt os Brighton-et.	eeyinn	2021-03-16 02:12:09	2021-11-27 21:48:07
-104	0x68	h	435	10540976	mus	Tom-ke cuko yopvn akopvhnes.	eeyinn	2021-12-02 16:16:57	2021-12-02 16:16:57
-105	0x69	i	295	10692183	mus	Momen fvllēckv maket ēkvnv co̜tkus-mahen vhocet, lokcicet, vyocet, enken nērkv sencawet esetekaskv esfvllēckv estarkv hēckekv, fvllēckv ’telekmicet polopokusēn hayet cvpuse tatēt fvllēcet vfoshonoke hayet solēcof.	eeyinn	2022-02-26 05:57:44	2022-02-26 21:53:05
-107	0x6b	k	1114	10541528	mus	Mary-ke okat mucv tvcakuce momecetvn omē witēs maket omvnks.	eeyinn	2021-12-02 23:16:34	2021-12-02 23:16:34
-108	0x6c	l	257	10692183	mus	Momen fvllēckv maket ēkvnv co̜tkus-mahen vhocet, lokcicet, vyocet, enken nērkv sencawet esetekaskv esfvllēckv estarkv hēckekv, fvllēckv ’telekmicet polopokusēn hayet cvpuse tatēt fvllēcet vfoshonoke hayet solēcof.	eeyinn	2022-02-26 05:57:44	2022-02-26 21:53:05
-109	0x6d	m	634	10692167	mus	Mv omof, este-cate tat cufe vpeswv pvpetv tokot omēs makakvtēs.	eeyinn	2022-02-26 05:45:08	2022-03-14 02:38:27
-110	0x6e	n	763	10692183	mus	Momen fvllēckv maket ēkvnv co̜tkus-mahen vhocet, lokcicet, vyocet, enken nērkv sencawet esetekaskv esfvllēckv estarkv hēckekv, fvllēckv ’telekmicet polopokusēn hayet cvpuse tatēt fvllēcet vfoshonoke hayet solēcof.	eeyinn	2022-02-26 05:57:44	2022-02-26 21:53:05
-111	0x6f	o	1130	9852504	mus	Honvnwvt takliken homipet os.	eeyinn	2021-03-19 15:40:43	2021-03-24 13:36:03
-112	0x70	p	279	10691295	mus	Estehvpo-rakko enkvpahket hopvyēn vpēyet fullvtēs.	eeyinn	2022-02-25 19:18:17	2022-02-25 19:18:17
-114	0x72	r	256	9845619	mus	Cerke tat enhēret arv?	eeyinn	2021-03-16 04:37:35	2021-03-16 16:40:11
-115	0x73	s	785	9870757	mus	Tom nak-estomen eyopaklatkat cekihcv?	eeyinn	2021-03-26 04:08:19	2021-03-30 18:17:23
-116	0x74	t	1261	10691222	mus	Mv neskv-cuko tempusan cvhēcket omvtēs.	eeyinn	2022-02-25 19:01:12	2022-02-25 19:01:12
-117	0x75	u	163	10691295	mus	Estehvpo-rakko enkvpahket hopvyēn vpēyet fullvtēs.	eeyinn	2022-02-25 19:18:17	2022-02-25 19:18:17
-118	0x76	v	1387	10716966	mus	Mimvn vpēyēyvtēsekos.	eeyinn	2022-03-13 16:51:27	2022-03-13 16:51:27
-119	0x77	w	149	10069218	mus	Honvnwv hokkolat cehecvkat emehaket os.	eeyinn	2021-05-28 13:00:34	2021-05-28 13:00:34
-121	0x79	y	311	10692162	mus	Etopolokē cuko eshayvkvtē cuko ho̜lwahokusēn vpoket omeyvntvs.	eeyinn	2022-02-26 05:43:39	2022-02-26 05:43:39
+104	0x68	h	435	9845530	mus	Mēceko emonket, vkerrihcet omvs.	eeyinn	2021-03-16 01:30:47	2021-03-16 16:45:02
+105	0x69	i	295	10459848	mus	Ravkerricepvs ca!	eeyinn	2021-10-25 00:34:03	2021-10-25 00:34:03
+107	0x6b	k	1114	10691238	mus	Honvntake vpvlwvt Kvsappv ensuletawv haken, vpvlwvt Lekothv ensuletawv haket omvtēs.	eeyinn	2022-02-25 19:06:01	2022-02-25 19:06:01
+108	0x6c	l	257	10533577	mus	Tamke halehlusvkv lapkon ǫwikv̂s.	eeyinn	2021-11-28 07:25:59	2021-11-28 07:26:23
+109	0x6d	m	634	9961220	mus	Mary emvhakvkērrvn huehkvnks.	eeyinn	2021-04-16 03:46:19	2021-04-16 03:46:19
+110	0x6e	n	763	10457218	mus	Hvtvm cvyayvkusen!	eeyinn	2021-10-23 21:42:11	2021-10-23 21:42:11
+111	0x6f	o	1130	10692181	mus	Oketv koco̜ knusat vpeswv hompvkē tayat eco, penwv omakat ta̜ yet omîs, eccv enrē, tohottowv, cvtolanuce omakat sa̜sēsekok estohmet ponvttv honecakat pvsatet homhopeko tayē oketvt omvtēt os.	eeyinn	2022-02-26 05:56:09	2022-02-26 05:56:09
+112	0x70	p	279	9867517	mus	'Stvn vpokaccv?	eeyinn	2021-03-24 13:52:06	2021-03-24 13:52:06
+114	0x72	r	256	10781855	mus	Tom-ket sareckvrē temektvnēcekot ǫs.	eeyinn	2022-04-23 23:16:45	2022-04-23 23:16:45
+115	0x73	s	785	9852496	mus	Heyomat fettvn oskēt os.	eeyinn	2021-03-19 15:36:19	2021-03-24 13:32:33
+116	0x74	t	1261	10013695	mus	Encokv vntotet okat nettvcak'cuse hvmkofvn vlvkvranet os cvkices.	eeyinn	2021-05-07 15:45:29	2021-05-07 15:45:29
+117	0x75	u	163	10717530	mus	Ǫmąhucan Tom-ket rvtvtakkēt omēs.	eeyinn	2022-03-14 02:33:55	2022-03-14 02:33:55
+118	0x76	v	1387	9846563	mus	Ilesvlketokot omis.	eeyinn	2021-03-16 17:26:03	2021-03-16 17:26:08
+119	0x77	w	149	10781858	mus	Tom svtohketskeko tąs kowvrēs.	eeyinn	2022-04-23 23:19:09	2022-04-23 23:20:40
+121	0x79	y	311	9869780	mus	Ra-vyetv cvyacēs.	eeyinn	2021-03-25 15:19:48	2021-03-25 15:19:48
 226	0xe2	â	1	10533556	mus	Tehę̄cholâkvs!	eeyinn	2021-11-28 06:51:33	2021-11-28 06:51:33
-234	0xea	ê	3	12270998	mus	Coyetvn kêrreckv?	eeyinn	2024-01-17 01:08:02	2024-01-17 01:11:58
-238	0xee	î	10	10691433	mus	Ēkvnv estvmvn cvrke ēlet omvtē kerrvkot os, momîs Cahtv ēkvnvt omē witvtēs.	eeyinn	2022-02-25 20:21:27	2022-02-25 20:21:27
+234	0xea	ê	3	9845571	mus	Tvkocat hompetvn ohfullen hêcis.	eeyinn	2021-03-16 02:04:51	2021-03-16 16:38:07
+238	0xee	î	10	9954408	mus	Nettv ayat nociyîs.	eeyinn	2021-04-13 13:30:02	2021-04-13 13:30:12
 244	0xf4	ô	1	9845565	mus	Hompetv cukot fvckēt ômvcoks.	eeyinn	2021-03-16 02:02:45	2021-03-16 16:41:45
 260	0x104	Ą	1	10533549	mus	Ąhvkleksa!	eeyinn	2021-11-28 06:49:45	2021-11-28 06:49:45
-261	0x105	ą	7	10534966	mus	Etetąyusēt os ce!	eeyinn	2021-11-29 00:20:07	2021-11-29 00:20:07
-274	0x112	Ē	4	10691433	mus	Ēkvnv estvmvn cvrke ēlet omvtē kerrvkot os, momîs Cahtv ēkvnvt omē witvtēs.	eeyinn	2022-02-25 20:21:27	2022-02-25 20:21:27
-275	0x113	ē	493	10032371	mus	Mary Boston tvlofvn cunecketv eyahcēs Tom maket os.	eeyinn	2021-05-14 00:28:23	2021-05-14 00:28:23
-281	0x119	ę	6	10534983	mus	Ehę!	eeyinn	2021-11-29 00:48:06	2021-11-29 00:48:06
-490	0x1ea	Ǫ	3	10717526	mus	Ǫmahucvn Tom-ket vpelvtēs.	eeyinn	2022-03-14 02:27:59	2022-03-14 02:27:59
-491	0x1eb	ǫ	12	10781853	mus	Tom-ket sareckeko tąyēs kǫwvrēs.	eeyinn	2022-04-23 23:15:53	2022-04-23 23:20:05
+261	0x105	ą	7	10534955	mus	Momvrąnuset os.	eeyinn	2021-11-29 00:05:31	2021-11-29 00:05:31
+274	0x112	Ē	4	10534978	mus	Ēvkvtēcet!	eeyinn	2021-11-29 00:40:43	2021-11-29 00:40:43
+275	0x113	ē	493	9868467	mus	Enokkē cenhecketv tat cepenkvlēcet onko?	eeyinn	2021-03-25 03:59:56	2021-03-25 03:59:56
+281	0x119	ę	6	10720700	mus	Nake cehocefkvt tę?	eeyinn	2022-03-15 23:44:28	2022-03-15 23:44:28
+490	0x1ea	Ǫ	3	10717528	mus	Ǫmahucan Tom-ket vpelēt omēs.	eeyinn	2022-03-14 02:31:13	2022-03-14 02:31:13
+491	0x1eb	ǫ	12	10781855	mus	Tom-ket sareckvrē temektvnēcekot ǫs.	eeyinn	2022-04-23 23:16:45	2022-04-23 23:16:45
 770	0x302	̂	1	10533577	mus	Tamke halehlusvkv lapkon ǫwikv̂s.	eeyinn	2021-11-28 07:25:59	2021-11-28 07:26:23
 772	0x304	̄	3	10533556	mus	Tehę̄cholâkvs!	eeyinn	2021-11-28 06:51:33	2021-11-28 06:51:33
-796	0x31c	̜	29	9867875	mus	Vlicēhceckof a̜yē mahvs.	eeyinn	2021-03-24 16:44:18	2021-03-24 16:44:18
-808	0x328	̨	6	10990578	mus	Hvtv̨ stv̨?	eeyinn	2022-07-15 00:40:47	2022-07-15 00:40:47
-8216	0x2018	‘	4	9845535	mus	Mvhayv tat ‘tont respoyen owat, yopvn vlahket vmvhayetv kowen, mvn.	eeyinn	2021-03-16 01:34:53	2021-03-16 16:44:18
-8217	0x2019	’	7	9845557	mus	Estimvt ’cetotemvtē, cerket onkat cem estvlket?	eeyinn	2021-03-16 01:52:44	2021-03-16 16:42:16
-8220	0x201c	“	3	10692177	mus	Vce tat lokcen hocet, taklike hayet, osafkeu hayet mvn hompet fullat, “Elvoko tat etehoyvnēcēs” komhoyvtēs.	eeyinn	2022-02-26 05:53:02	2022-02-26 05:53:02
+796	0x31c	̜	29	10692173	mus	Ohrolopē ostat senhoyvnusēn, hompetv sekon, accvkē tateu sekon, cēpvnvke em vculkv ohrolopē palē kolvpohkakat mahē em elecv ayat enatv̜ lkakuset fulleyvntvs.	eeyinn	2022-02-26 05:50:37	2022-02-26 05:50:37
+808	0x328	̨	6	9845558	mus	Hvse orev̨lkv etohkvlketv owēt onkv, nettv tvcak ostat orat mvn hvse hvmkē orekv, mvn vhvn ‘ste-hvpo hayvyat mv noricvyēt o.	eeyinn	2021-03-16 01:53:56	2021-11-27 21:54:47
+8216	0x2018	‘	4	9845558	mus	Hvse orev̨lkv etohkvlketv owēt onkv, nettv tvcak ostat orat mvn hvse hvmkē orekv, mvn vhvn ‘ste-hvpo hayvyat mv noricvyēt o.	eeyinn	2021-03-16 01:53:56	2021-11-27 21:54:47
+8217	0x2019	’	7	10691268	mus	Horrē emoketvn Lekothof fvccvn ’svcvpēhoyvtēs, em enak-ockv vpvlwv wihket.	eeyinn	2022-02-25 19:13:27	2022-02-25 19:13:37
+8220	0x201c	“	3	10163173	mus	“Raociyē tayv?” “Monks ce.”	eeyinn	2021-07-11 08:06:17	2021-07-11 08:06:17
 8221	0x201d	”	3	10163173	mus	“Raociyē tayv?” “Monks ce.”	eeyinn	2021-07-11 08:06:17	2021-07-11 08:06:17

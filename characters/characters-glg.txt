@@ -1,116 +1,116 @@
-32	0x20	 	32778	956655	glg	Unha non leva unha minisaia vermella a un funeral.	gleOsp	2011-06-25 00:50:17	2011-06-25 00:50:17
-33	0x21	!	175	1318687	glg	Feliz aniversario, Muiriel!	gleOsp	2011-12-24 03:32:38	2011-12-24 03:32:48
-34	0x22	"	150	956646	glg	Mike chama ao seu can "Pochi"?	gleOsp	2011-06-25 00:44:42	2011-06-27 16:39:00
+32	0x20	 	33488	585319	glg	O neno temía que o deixasen só na escuridade.	rosa	2010-10-25 13:02:48	2012-03-04 13:18:28
+33	0x21	!	176	666216	glg	¡Estafáronme os aforros de toda a vida!	rosa	2010-12-14 10:49:15	2010-12-14 10:49:15
+34	0x22	"	156	1428246	glg	Cristobal Colón pediu que se lle adicara unha "Semana de Colón" enteira para celebrar a súa gloria, pero ao final só obtivo un día e só en América.	peibolvig	2012-02-11 03:56:46	2012-02-11 03:56:46
 37	0x25	%	1	1340827	glg	Pronostícase un 4% de inflación pra este ano.	vagalume55	2012-01-05 23:08:08	2012-01-05 23:08:08
-39	0x27	'	6	1515330	glg	'Filosofía' é unha palabra grega que significa amor á sabedoría.	vagalume55	2012-04-03 20:30:48	2012-04-03 20:30:48
-40	0x28	(	10	962824	glg	Escolle frases ao chou (2 ou 3), grávaas, e envíano-los exemplos a team@tatoeba.org, co título "Audio for Tatoeba in <nome do idioma>".	gleOsp	2011-06-27 21:47:56	2012-01-21 11:56:02
-41	0x29	)	14	1340216	glg	O doutor L.L. Zamenhof (1859-1917) traduciu persoalmente obras mestras da literatura ao esperanto.	vagalume55	2012-01-05 18:30:22	2012-01-05 21:19:06
-43	0x2b	+	4	12197784	glg	Álxebra elemental: a) sexa x o número de frases en galego; b) sexa x + 700 o número de frases en romanés; c) hoxe, x + 700 = 2x; d) cal é o valor de x? Solución: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusión: hoxe hai 700 frases en galego e 1.400 en romanés.	carlosalberto	2023-12-06 19:22:01	2023-12-06 19:22:01
-44	0x2c	,	923	1515324	glg	Geoffrey, un estudante moi avantaxado dunha universidade privada, mercou unha motocicleta e desapareceu con ela.	vagalume55	2012-04-03 20:25:13	2012-04-03 20:25:13
-45	0x2d	-	72	961541	glg	Esta é a nosa oportunidade de responder a esa chamada. Este é o noso momento. Este é o noso tempo de volver a dar emprego ao noso pobo e abri-las portas da oportunidade para os nosos rapaces; de restaura-la prosperidade e fomenta-la causa da paz; de recupera-lo soño americano e reafirmar esa verdade fundamental, que, de moitos, somos un; que namentres respiremos temos esperanza. E onde nos atopemos con escepticismo e dúbidas, e a aqueles que nos digan que non podemos, contestaremos con ese credo eterno que resume o espírito dun pobo: Si podemos.	gleOsp	2011-06-27 00:47:29	2011-06-27 00:48:48
-46	0x2e	.	5079	1435465	glg	É arrestado por poñer en perigo o benestar dun menor.	nerveimpulse	2012-02-14 22:11:08	2012-02-14 22:11:17
-47	0x2f	/	6	12250124	glg	E non descansará ata que mate / un animal por cada un dos barcos. / Despois, retorna ao porto e a caza distribúe.	carlosalberto	2024-01-03 20:29:37	2024-01-03 20:29:37
-48	0x30	0	65	12034869	glg	A súa contribución ao corpus Tatoeba contén 700 frases máis en romanés que en galego.	carlosalberto	2023-09-03 17:22:45	2023-09-03 17:22:45
-49	0x31	1	35	12074538	glg	Os 150 poemas do Libro dos Salmos representan un abano de voces e emocións humanas e están entre os versos máis lidos da Biblia.	carlosalberto	2023-09-23 23:04:17	2023-09-30 23:26:47
-50	0x32	2	28	9727000	glg	A festa vai ser o próxima sábado, é dicir, no 26 de agosto.	mialiesperantistas	2021-02-05 17:51:09	2021-02-05 17:52:16
-51	0x33	3	20	962824	glg	Escolle frases ao chou (2 ou 3), grávaas, e envíano-los exemplos a team@tatoeba.org, co título "Audio for Tatoeba in <nome do idioma>".	gleOsp	2011-06-27 21:47:56	2012-01-21 11:56:02
-52	0x34	4	11	8903459	glg	Indonesia declarou a súa independencia en 1945, durante a Segunda Guerra Mundial.	escudo119	2020-07-09 19:45:50	2020-07-09 19:45:50
-53	0x35	5	16	1437888	glg	Terrible accidente de helicóptero nun cemiterio belga, os rescatadores xa acharon máis de 500 cadáveres.	peibolvig	2012-02-15 23:46:31	2012-02-15 23:50:48
+39	0x27	'	6	9726243	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. En Galicia tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:39	2021-02-05 13:07:39
+40	0x28	(	11	1319261	glg	Pronomes persoais: “mi”, “vi”, “li”, “ŝi”, “ĝi” (para obxecto ou animal), “si”, “ni”, “vi”, “ili”, “oni”; os posesivos fórmanse pola unión da terminación adxectiva.	gleOsp	2011-12-24 15:32:19	2011-12-24 15:32:19
+41	0x29	)	15	12001716	glg	A 21ª (vixésimo primeira) Enmenda anulou a 18ª (décimo oitava) e beber volveuse a legalizar nos Estados Unidos en decembro de 1933.	carlosalberto	2023-08-17 18:52:33	2023-08-17 18:56:24
+43	0x2b	+	4	8881563	glg	Tom é parte da comunidade LGBTQ+.	mialiesperantistas	2020-06-30 08:45:36	2020-06-30 08:45:36
+44	0x2c	,	954	12199556	glg	Por que estás, querida, mirando de lado, baixando a cabeza?	carlosalberto	2023-12-08 00:51:53	2023-12-08 00:51:53
+45	0x2d	-	73	966235	glg	Cando marches, lembra fecha-la porta de casa con chave.	gleOsp	2011-06-29 19:28:50	2011-06-29 19:28:56
+46	0x2e	.	5173	962497	glg	O teléfono negro é máis caro có branco.	gleOsp	2011-06-27 17:31:36	2011-06-27 17:31:36
+47	0x2f	/	6	12170156	glg	Vivo inutilmente buscando / Alguén que entenda o meu amor / E vexo que o meu destino é sufrir / É padecer - non atopar / Alguén que cumprenda o trobador.	carlosalberto	2023-11-20 19:19:29	2023-11-20 19:19:29
+48	0x30	0	65	1424838	glg	Tiveron que despedir a 300 homes da factoría.	peibolvig	2012-02-09 17:46:20	2012-02-09 17:46:20
+49	0x31	1	35	12170269	glg	Sri Ramana Maharshi (30.12.1879-14.04.1950), que morreu de cancro, cando os seus discípulos lle preguntaban se sentía algunha dor, adoitaba responder: Hai dor no meu corpo. Escribiu o libro "Quen son eu?"	carlosalberto	2023-11-20 19:59:08	2023-11-20 19:59:08
+50	0x32	2	28	4750309	glg	Nacín en Barcelona o 23 de marzo de 1969.	vagalume55	2015-12-07 17:49:47	2015-12-07 17:49:47
+51	0x33	3	20	956138	glg	A terceira potencia de 3 é 27.	gleOsp	2011-06-24 21:10:07	2011-06-24 21:10:07
+52	0x34	4	11	12167099	glg	Vin a ópera Carmen en Londres, hai 41 anos, na única viaxe que fixen ao estranxeiro.	carlosalberto	2023-11-18 18:31:21	2023-11-18 18:31:21
+53	0x35	5	16	7891917	glg	Deberías coller o bus número 5.	jukain1996	2019-05-05 22:16:11	2019-05-05 22:16:11
 54	0x36	6	5	9727000	glg	A festa vai ser o próxima sábado, é dicir, no 26 de agosto.	mialiesperantistas	2021-02-05 17:51:09	2021-02-05 17:52:16
-55	0x37	7	18	1340216	glg	O doutor L.L. Zamenhof (1859-1917) traduciu persoalmente obras mestras da literatura ao esperanto.	vagalume55	2012-01-05 18:30:22	2012-01-05 21:19:06
+55	0x37	7	18	12197784	glg	Álxebra elemental: a) sexa x o número de frases en galego; b) sexa x + 700 o número de frases en romanés; c) hoxe, x + 700 = 2x; d) cal é o valor de x? Solución: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusión: hoxe hai 700 frases en galego e 1.400 en romanés.	carlosalberto	2023-12-06 19:22:01	2023-12-06 19:22:01
 56	0x38	8	14	4737115	glg	Fun avogado durante uns 28 anos e ministro de Xustiza durante uns 28 días. Son o único ministro de Xustiza que non cometeu ningún erro, porque non tiven tempo ningún.	vagalume55	2015-11-30 22:53:17	2015-11-30 22:53:17
-57	0x39	9	17	955907	glg	O meu número de teléfono é 789.	gleOsp	2011-06-24 19:13:36	2011-06-24 19:13:36
-58	0x3a	:	41	5807846	glg	Quén chegou primeiro: a galiña ou o ovo?	rebrafi	2017-01-28 13:07:53	2017-01-28 13:07:53
+57	0x39	9	17	1340216	glg	O doutor L.L. Zamenhof (1859-1917) traduciu persoalmente obras mestras da literatura ao esperanto.	vagalume55	2012-01-05 18:30:22	2012-01-05 21:19:06
+58	0x3a	:	43	12013962	glg	Pois, dixo o vello, golpeando o xeonllo, que soaba coma un óso baleiro, a isto me expón a túa puerilidade, Acharat: ser abatido por un raio, ser morto estúpidamente por unha chispa eléctrica que, se tivese tempo, obrigaría a caer sobre o meu fogón para ferver a miña pota.	carlosalberto	2023-08-24 15:56:33	2023-08-24 15:56:33
 59	0x3b	;	30	12058686	glg	O meu amor é coma unha fonte entre os outeiros cuxas augas rebordantes non se poden limitar, senón que verte un torrente polos camiños que serpentean nun xardín; alí a rosa destila o seu néctar; alí un lirio alto e branco enche a noite coa unción de dous namorados, cegos, mudos, xordos, de corpo, espírito e mente, a través da esmagadora mestura de vontades en conflito.	carlosalberto	2023-09-16 15:44:47	2023-09-16 15:44:47
 60	0x3c	<	1	962824	glg	Escolle frases ao chou (2 ou 3), grávaas, e envíano-los exemplos a team@tatoeba.org, co título "Audio for Tatoeba in <nome do idioma>".	gleOsp	2011-06-27 21:47:56	2012-01-21 11:56:02
 61	0x3d	=	4	12197784	glg	Álxebra elemental: a) sexa x o número de frases en galego; b) sexa x + 700 o número de frases en romanés; c) hoxe, x + 700 = 2x; d) cal é o valor de x? Solución: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusión: hoxe hai 700 frases en galego e 1.400 en romanés.	carlosalberto	2023-12-06 19:22:01	2023-12-06 19:22:01
 62	0x3e	>	1	962824	glg	Escolle frases ao chou (2 ou 3), grávaas, e envíano-los exemplos a team@tatoeba.org, co título "Audio for Tatoeba in <nome do idioma>".	gleOsp	2011-06-27 21:47:56	2012-01-21 11:56:02
-63	0x3f	?	642	1342279	glg	Que significan as siglas "NTT"?	vagalume55	2012-01-06 16:28:27	2012-01-06 16:28:35
+63	0x3f	?	647	7098144	glg	"Idade?" "16."	rccg	2018-08-27 23:47:48	2018-08-27 23:48:25
 64	0x40	@	1	962824	glg	Escolle frases ao chou (2 ou 3), grávaas, e envíano-los exemplos a team@tatoeba.org, co título "Audio for Tatoeba in <nome do idioma>".	gleOsp	2011-06-27 21:47:56	2012-01-21 11:56:02
-65	0x41	A	751	12111790	glg	As fermosas follas vermellas do bordo están separadas das pólas e bailan no vento.	carlosalberto	2023-10-17 13:01:54	2023-10-17 13:01:54
-66	0x42	B	88	9563369	glg	Bo serán.	Ricardo14	2020-12-30 20:51:27	2020-12-30 20:51:27
-67	0x43	C	394	8989753	glg	Como pódesche comer unha enchilada sen salsa?	mialiesperantistas	2020-08-22 19:28:55	2020-08-22 19:28:55
-68	0x44	D	282	1425134	glg	Darei esta mazá a quen a queira.	peibolvig	2012-02-09 19:38:37	2012-02-11 02:34:04
-69	0x45	E	928	4748597	glg	Ese momento estaba ben gardado no fondo dos seus recordos.	vagalume55	2015-12-06 16:54:44	2015-12-06 16:55:33
-70	0x46	F	130	1449313	glg	Falas comigo?	gleOsp	2012-02-22 19:21:50	2012-02-22 19:21:50
-71	0x47	G	130	8881517	glg	Gustaríame coñecer mellor a Tom.	mialiesperantistas	2020-06-30 08:34:17	2020-06-30 08:34:17
-72	0x48	H	115	860795	glg	Hai dous meses que cheguei a Toquio.	Woden	2011-04-27 11:59:38	2011-04-27 11:59:38
-73	0x49	I	114	1423134	glg	Imaxinate estar sobre a lúa.	peibolvig	2012-02-08 23:26:31	2012-02-08 23:26:31
-74	0x4a	J	27	7700891	glg	Je tricote.	sacredceltic	2019-01-06 16:27:27	2019-01-06 16:27:27
-75	0x4b	K	16	963014	glg	Ken non quería escoitarme.	gleOsp	2011-06-27 23:36:28	2011-06-27 23:36:28
-76	0x4c	L	89	1428240	glg	A cidade está a cincuenta millas ao norte de Londres.	peibolvig	2012-02-11 03:52:52	2012-02-11 18:17:46
-77	0x4d	M	210	12074119	glg	Mañá chegarei á túa casa.	carlosalberto	2023-09-23 19:40:20	2023-09-23 19:40:20
-78	0x4e	N	549	1342727	glg	Non teño idea de canto custa.	vagalume55	2012-01-06 20:09:40	2012-01-06 20:09:40
-79	0x4f	O	708	12058653	glg	Os humidais albergan unha gran variedade de especies vexetais, entre as que se inclúen espadas, carrizas e nenúfares.	carlosalberto	2023-09-16 15:00:16	2023-09-16 15:00:16
-80	0x50	P	421	862540	glg	Por hoxe basta.	fatimajm	2011-04-27 22:15:23	2011-04-27 22:15:23
-81	0x51	Q	211	1471277	glg	Que países visitaches?	vagalume55	2012-03-05 22:57:58	2012-03-05 22:57:58
-82	0x52	R	70	9726243	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. En Galicia tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:39	2021-02-05 13:07:39
-83	0x53	S	347	1338715	glg	Foi en 1939 cando estalou a Segunda Guerra Mundial.	gleOsp	2012-01-05 04:02:51	2012-01-05 04:02:51
-84	0x54	T	530	1340377	glg	Tom estaba realmente impresionado.	vagalume55	2012-01-05 20:22:51	2012-01-05 20:22:51
-85	0x55	U	90	857470	glg	Ultimamente a delincuencia xuvenil está aumentando.	Woden	2011-04-26 14:51:39	2011-04-26 14:51:39
-86	0x56	V	182	12008496	glg	Vendéronnos un soño que en realidade era un gran pesadelo.	carlosalberto	2023-08-21 22:20:22	2023-08-21 22:20:22
-87	0x57	W	2	6618679	glg	Benvido a Wikipedia.	rccg	2018-01-20 01:04:09	2018-01-20 01:04:09
-88	0x58	X	88	12305635	glg	O cubismo descríbese como un dos movementos artísticos máis influentes do século XX, con artistas do xénero innovando nos seus intentos de mostrar o mundo a través de planos ou formas xeométricas bidimensionais.	carlosalberto	2024-02-08 15:11:33	2024-02-08 15:11:33
-89	0x59	Y	6	8903510	glg	Li Yuan foi o primeiro soberano da Dinastía Tang, e reinou por oito anos.	escudo119	2020-07-09 20:03:52	2020-07-09 20:03:52
-90	0x5a	Z	4	1456053	glg	Lázaro Zamenhof é polonés.	gleOsp	2012-02-26 02:03:09	2012-02-26 02:03:09
-97	0x61	a	20819	956413	glg	El díxome que mañá parte en avión de Pequín cara a Inglaterra.	gleOsp	2011-06-24 23:28:58	2011-06-24 23:28:58
-98	0x62	b	2196	962852	glg	Merquei unha gravata para Dan e mercarei un tapabocas pra Helena.	gleOsp	2011-06-27 21:58:02	2011-06-27 21:58:02
-99	0x63	c	6066	651001	glg	O home peitea ao seu can cun cepillo.	rosa	2010-12-05 15:07:26	2010-12-05 15:07:26
-100	0x64	d	7180	1338372	glg	Un home co bandullo cheo pensa que ninguén está famento.	gleOsp	2012-01-05 00:00:19	2012-01-05 00:00:19
-101	0x65	e	19823	1338224	glg	Ao mirar os seus ollos el reparou en que ela aínda o amaba e a esperanza xurdiu dentro del.	gleOsp	2012-01-04 22:57:33	2012-01-04 22:57:33
-102	0x66	f	1664	12023377	glg	Non prometemos, facemos!	carlosalberto	2023-08-29 15:32:56	2023-08-29 15:32:56
-103	0x67	g	1745	12190734	glg	Chamarías aos bombeiros para salvar unha formiga?	carlosalberto	2023-12-02 15:10:13	2023-12-02 15:10:13
-104	0x68	h	1712	650902	glg	Quero facer unha chamada de persoa a persoa, por favor.	rosa	2010-12-05 14:32:00	2010-12-05 14:32:00
-105	0x69	i	9117	12299980	glg	O home copulaba cunha boneca inchable.	carlosalberto	2024-02-04 15:07:42	2024-02-04 15:07:42
-106	0x6a	j	9	1445731	glg	Kamakura é un célebre lugar en conexión coa familia Genji.	peibolvig	2012-02-20 14:31:36	2012-02-20 14:31:36
-107	0x6b	k	51	1337942	glg	Algunhas persoas que falan inglés cren que a omisión do suxeito non existe nesa lingua, sen embargo, o suxeito omítese en frases coma "thank you" ou "bless you".	gleOsp	2012-01-04 20:27:40	2012-01-04 20:29:52
-108	0x6c	l	5634	1340157	glg	Collín emprestado un coche.	vagalume55	2012-01-05 18:08:42	2012-01-05 18:09:23
-109	0x6d	m	5828	1433243	glg	¿Podes demostralo?	peibolvig	2012-02-13 19:59:21	2012-02-13 19:59:21
-110	0x6e	n	11487	1303403	glg	Non deixes para mañá o que poidas facer hoxe.	enteka	2011-12-16 18:38:01	2011-12-16 18:38:01
-111	0x6f	o	18091	9631170	glg	Tom non o necesitaba.	kremel	2021-01-10 17:34:08	2021-01-10 17:34:08
-112	0x70	p	4050	8924320	glg	Moitos escudos tradicionais ten leóns rampantes como representación do poder.	escudo119	2020-07-18 22:41:16	2020-07-18 22:41:16
-113	0x71	q	1560	857487	glg	Imaxine que ten vostede unha esposa.	Woden	2011-04-26 14:53:45	2011-04-26 14:53:45
-114	0x72	r	10819	7098140	glg	Quero loitar!	rccg	2018-08-27 23:45:51	2018-08-27 23:45:51
-115	0x73	s	12373	956315	glg	Estou canso desta vida.	gleOsp	2011-06-24 23:09:21	2011-06-24 23:09:21
-116	0x74	t	7534	1449585	glg	Se non fose polo sol, todos os seres vivos haberían morrer.	gleOsp	2012-02-22 21:26:41	2012-02-22 21:26:41
-117	0x75	u	7145	1451562	glg	Non obstante é un fastío ordenar o cuarto.	peibolvig	2012-02-23 23:32:41	2012-02-24 14:32:01
-118	0x76	v	2015	12160928	glg	A voz máis impresionante que escoitei na miña vida foi a do dramático tenor Mario del Monaco.	carlosalberto	2023-11-14 10:51:47	2023-11-14 10:51:47
-119	0x77	w	14	12292543	glg	Non hai memoria suficiente para instalar este software.	carlosalberto	2024-01-30 13:47:52	2024-01-30 13:47:52
-120	0x78	x	1472	12294357	glg	Debería ter estudado francés con máis dilixencia.	carlosalberto	2024-01-31 14:55:09	2024-01-31 14:55:09
-121	0x79	y	57	1424516	glg	Como moito, Henry ten seis dólares.	peibolvig	2012-02-09 15:40:25	2012-02-09 15:40:25
-122	0x7a	z	649	1422953	glg	Eric comezou a cantar.	peibolvig	2012-02-08 21:22:21	2012-02-08 21:22:21
+65	0x41	A	768	1437456	glg	A policía ten algún sospeitoso?	gleOsp	2012-02-15 21:18:47	2012-02-15 21:18:47
+66	0x42	B	88	12196301	glg	Benvido á miña humilde morada.	carlosalberto	2023-12-05 19:39:06	2023-12-05 19:39:06
+67	0x43	C	401	1515105	glg	Cala. Se non, hante botar.	vagalume55	2012-04-03 18:09:28	2012-04-03 18:09:28
+68	0x44	D	283	1428257	glg	Deberías dar un bo exemplo aos teus nenos.	peibolvig	2012-02-11 04:05:52	2012-02-11 04:05:52
+69	0x45	E	939	3792962	glg	Estou dando un paseo por un parque.	carlosalberto	2015-01-24 15:33:10	2023-08-15 23:52:18
+70	0x46	F	134	1353803	glg	Fale amodo e claramente.	gleOsp	2012-01-11 14:22:21	2012-02-12 20:16:04
+71	0x47	G	131	1449501	glg	Gustaríame comprar algunhas postais.	peibolvig	2012-02-22 20:52:53	2012-02-22 20:52:53
+72	0x48	H	116	1227431	glg	Hai un hospital preto de aquí?	gleOsp	2011-11-09 19:28:29	2011-11-09 19:28:29
+73	0x49	I	114	12194461	glg	Imos dar un paseo pola cidade.	carlosalberto	2023-12-04 22:31:27	2023-12-04 22:31:27
+74	0x4a	J	27	1227494	glg	Ola, John! Como estás?	gleOsp	2011-11-09 20:02:56	2011-11-09 20:02:56
+75	0x4b	K	16	1448708	glg	Ken prendeu as candeas.	gleOsp	2012-02-22 13:33:56	2012-02-22 13:33:56
+76	0x4c	L	91	1342546	glg	Lin o libro dende o principio ata o final.	vagalume55	2012-01-06 18:45:17	2012-01-06 18:45:22
+77	0x4d	M	216	9202360	glg	María ten dúas irmás.	escudo119	2020-10-28 18:34:48	2020-10-28 18:34:48
+78	0x4e	N	556	8554268	glg	Non me dixeches que Tom está ocupado.	Capistrano	2020-02-15 16:29:09	2020-02-15 16:29:09
+79	0x4f	O	726	4750292	glg	O país está baixo un escenario de guerra.	vagalume55	2015-12-07 17:45:25	2015-12-07 17:45:25
+80	0x50	P	429	1424997	glg	Perderás o tren se non te dás présa.	peibolvig	2012-02-09 18:56:34	2012-02-11 02:46:56
+81	0x51	Q	212	12140488	glg	Que fermoso anel de compromiso!	carlosalberto	2023-11-01 19:12:28	2023-11-01 19:12:28
+82	0x52	R	72	12126252	glg	A persoa que escribiu este libro nunca estivo en Rusia.	carlosalberto	2023-10-24 18:02:00	2023-10-24 18:02:00
+83	0x53	S	355	1455913	glg	Se lle cortas o rabo a unha lagarta, médralle de novo.	vagalume55	2012-02-25 23:29:00	2012-02-25 23:29:00
+84	0x54	T	540	1428264	glg	Tráeme algo de auga fría.	peibolvig	2012-02-11 04:16:01	2012-02-11 18:14:58
+85	0x55	U	92	1417035	glg	Gustaríame ir ós Estados Unidos un día.	Alpha	2012-02-05 22:38:02	2012-02-05 22:38:14
+86	0x56	V	187	9727732	glg	Vou a unha academia de inglés en línea cada luns pola tarde.	mialiesperantistas	2021-02-05 19:40:00	2021-02-05 19:40:00
+87	0x57	W	2	1429053	glg	Dixeron que a condición do señor Wilson non cambiara.	peibolvig	2012-02-11 14:57:09	2012-02-11 14:57:09
+88	0x58	X	89	962876	glg	Xa escribiu hoxe no seu diario?	gleOsp	2011-06-27 22:12:42	2011-06-27 22:12:42
+89	0x59	Y	7	12310680	glg	Chamámoslle a Nova York a Gran Mazá.	carlosalberto	2024-02-10 23:32:10	2024-02-10 23:32:10
+90	0x5a	Z	4	1303012	glg	¡Zapateiro, aos teus zapatos!	enteka	2011-12-16 14:52:34	2011-12-16 14:52:34
+97	0x61	a	21241	1431237	glg	Sempre pensei que ter un ataque cardíaco é o xeito da natureza de dicirche que morras.	gleOsp	2012-02-12 18:35:20	2012-02-12 18:35:55
+98	0x62	b	2255	6620310	glg	Eles len un libro.	rccg	2018-01-20 16:21:16	2018-01-20 16:21:16
+99	0x63	c	6195	961526	glg	As células sanguíneas son producidas na medula ósea.	gleOsp	2011-06-27 00:28:35	2011-06-27 00:28:35
+100	0x64	d	7335	1442668	glg	En varios países europeos, a divisa actual é o euro e o seu símbolo é "€" e o euro é a división da lira turca entre dous.	peibolvig	2012-02-18 14:22:12	2012-02-18 14:22:12
+101	0x65	e	20234	1416925	glg	Seus pais decidiron que tocaría o violonchelo.	Alpha	2012-02-05 22:15:14	2012-02-05 22:15:14
+102	0x66	f	1697	960625	glg	O Madrid quere fichar a Neymar e deixalo un ano cedido no Santos.	gleOsp	2011-06-26 15:54:44	2011-06-26 15:54:44
+103	0x67	g	1780	650921	glg	Por mor da súa enfermidade viuse obrigado a deixar de fumar.	rosa	2010-12-05 14:39:19	2011-06-27 06:59:55
+104	0x68	h	1738	1471277	glg	Que países visitaches?	vagalume55	2012-03-05 22:57:58	2012-03-05 22:57:58
+105	0x69	i	9352	3655721	glg	O meu irmán leva doente dende onte.	peibolvig	2014-11-25 00:28:54	2014-11-25 00:29:46
+106	0x6a	j	10	1500790	glg	Burj Khalifa é actualmente o rañaceos máis alto do mundo.	Balamax	2012-03-24 10:54:38	2012-03-28 04:09:06
+107	0x6b	k	52	1339559	glg	Abraham Lincoln, o décimo sexto presidente dos Estados Unidos, naceu nun alprende en Kentucky.	vagalume55	2012-01-05 15:19:14	2012-01-05 15:19:14
+108	0x6c	l	5742	1424673	glg	Tom creu que era probable que Mary obtivese o traballo.	peibolvig	2012-02-09 17:05:29	2012-02-09 17:05:29
+109	0x6d	m	5982	1431448	glg	A miña moza sábeche bailar ben.	gleOsp	2012-02-12 19:57:15	2012-02-12 19:57:15
+110	0x6e	n	11771	12000721	glg	Eu prefiro a tranquilidade da casa.	carlosalberto	2023-08-17 03:16:56	2023-08-17 03:16:56
+111	0x6f	o	18488	12202375	glg	Ás veces penso que en Tatoeba estou escribindo a miña autobiografía, sen preocupacións de carácter artístico ou literario, pero con toda sinceridade e exclusivamente segundo o que me dite o corazón.	carlosalberto	2023-12-09 19:50:17	2023-12-09 19:50:17
+112	0x70	p	4147	625305	glg	Visitou Europa varias veces.	rosa	2010-11-17 19:52:03	2010-11-17 19:52:03
+113	0x71	q	1597	12307118	glg	O que dis é máis importante que como o dis.	carlosalberto	2024-02-08 23:47:52	2024-02-08 23:47:52
+114	0x72	r	11042	1426246	glg	Os famentos paxaros estaban a comer do alimentador para páxaros.	peibolvig	2012-02-10 00:53:32	2012-02-11 02:20:16
+115	0x73	s	12658	7891931	glg	Es má.	jukain1996	2019-05-05 22:23:02	2019-05-05 22:23:02
+116	0x74	t	7694	855198	glg	O coche sae en cinco minutos.	arvpart	2011-04-26 00:05:57	2011-04-26 00:05:57
+117	0x75	u	7280	1449533	glg	Deberías de lustrar os teus zapatos antes de ires á festa.	gleOsp	2012-02-22 20:59:25	2012-02-22 20:59:25
+118	0x76	v	2067	1446207	glg	Tom devece por mercar un coche novo.	gleOsp	2012-02-20 19:31:29	2012-02-20 19:31:29
+119	0x77	w	15	1578824	glg	O señor Brown está buscando as súas lentes.	termito2nd	2012-05-18 04:46:58	2012-05-18 04:46:58
+120	0x78	x	1495	1885735	glg	Non é tan intelixente coma o seu irmán.	siglepri	2012-10-02 23:48:46	2012-10-02 23:48:46
+121	0x79	y	60	4750287	glg	Detesto ao mozo de Mary.	vagalume55	2015-12-07 17:43:20	2015-12-07 17:43:20
+122	0x7a	z	665	12004963	glg	Ela ergueuse e, collendo unha pandeireta, realizou con graza os movementos dunha danza.	carlosalberto	2023-08-19 21:17:09	2023-08-19 21:17:09
 161	0xa1	¡	27	855373	glg	¡Estou ata os collóns!	arvpart	2011-04-26 00:29:12	2011-04-26 00:29:12
 170	0xaa	ª	2	12001716	glg	A 21ª (vixésimo primeira) Enmenda anulou a 18ª (décimo oitava) e beber volveuse a legalizar nos Estados Unidos en decembro de 1933.	carlosalberto	2023-08-17 18:52:33	2023-08-17 18:56:24
 171	0xab	«	1	5880308	glg	Acerbaixán chámase «Azərbaycan» en azarí.	siglepri	2017-02-18 16:33:52	2017-02-18 16:33:52
 187	0xbb	»	1	5880308	glg	Acerbaixán chámase «Azərbaycan» en azarí.	siglepri	2017-02-18 16:33:52	2017-02-18 16:33:52
-191	0xbf	¿	76	1424843	glg	¿Onde podo conseguir as entradas?	peibolvig	2012-02-09 17:47:00	2012-02-09 17:47:00
-192	0xc0	À	2	9726243	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. En Galicia tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:39	2021-02-05 13:07:39
-193	0xc1	Á	24	1302959	glg	Á terceira vai a boa.	enteka	2011-12-16 14:10:25	2011-12-16 14:10:25
-201	0xc9	É	120	855952	glg	É difícil deixar de fumar.	Woden	2011-04-26 02:37:32	2011-04-26 02:37:32
+191	0xbf	¿	76	854337	glg	¿Fracasache de novo?	Lysia	2011-04-25 21:53:30	2011-04-25 21:53:30
+192	0xc0	À	2	9726242	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. Na Galiza tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:23	2021-02-05 13:07:23
+193	0xc1	Á	24	666202	glg	Los Ángeles é un dos lugares que me gustaría visitar.	rosa	2010-12-14 10:34:26	2010-12-14 10:34:26
+201	0xc9	É	126	11177916	glg	É unha boa aplicación para comezar a facer deporte.	emitxab111	2022-10-14 18:56:49	2022-10-14 18:57:05
 205	0xcd	Í	1	12019759	glg	Íamos cara á cociña.	carlosalberto	2023-08-27 15:21:05	2023-08-27 15:21:05
-211	0xd3	Ó	4	855463	glg	Ódiote.	dobleahl	2011-04-26 00:37:27	2011-04-26 00:37:27
+211	0xd3	Ó	4	965980	glg	Ó primeiro, todos estaban convencidos de que el era inocente.	gleOsp	2011-06-29 18:04:44	2011-06-29 18:04:44
 223	0xdf	ß	1	1727537	glg	O teclado suízo non ten o ß.	gleOsp	2012-07-26 12:18:26	2012-07-26 12:18:26
-224	0xe0	à	2	9726243	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. En Galicia tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:39	2021-02-05 13:07:39
-225	0xe1	á	1391	650993	glg	Londres é unha das cidades máis grandes do mundo.	rosa	2010-12-05 15:04:00	2010-12-05 15:04:00
+224	0xe0	à	2	9726242	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. Na Galiza tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:23	2021-02-05 13:07:23
+225	0xe1	á	1422	1459311	glg	Convidámolo á nosa casa.	gleOsp	2012-02-27 15:33:58	2012-02-27 15:33:58
 227	0xe3	ã	1	5218360	glg	Ela se agachou ao lado do portão.	ToinhoAlam	2016-06-17 03:05:10	2016-06-17 03:05:10
 231	0xe7	ç	2	9726243	glg	No século XIX prodúxose unha revitalización da literatura en catalán e en galego. En Cataluña houbo a Renaixença ('a Renacenza') co poeta Jacint Verdaguer, o dramaturgo Àngel Guimerà e o novelista Narcís Oller. En Galicia tiveron o Rexurdimento, representado en especial por poetas: Rosalía de Castro, Manuel Curros Enríquez e Eduardo Pondal.	mialiesperantistas	2021-02-05 13:07:39	2021-02-05 13:07:39
-233	0xe9	é	1248	8881563	glg	Tom é parte da comunidade LGBTQ+.	mialiesperantistas	2020-06-30 08:45:36	2020-06-30 08:45:36
+233	0xe9	é	1275	1427327	glg	O final do outono en Escocia é bastante frío.	peibolvig	2012-02-10 17:58:39	2012-02-10 17:58:39
 234	0xea	ê	1	12163248	glg	A inteligência artificial aprende rápido e jamais esquece o que aprendeu.	carlosalberto	2023-11-15 21:03:58	2023-11-15 21:03:58
-237	0xed	í	1184	9328926	glg	A tartaruga podería vivir mil anos, mais sería moi aburrido para ela.	escudo119	2020-11-18 21:48:07	2020-11-18 21:48:07
+237	0xed	í	1212	8924308	glg	Aristóteles era nativo de Estaxira, pero fíxose famoso en Atenas e Macedonia.	escudo119	2020-07-18 22:33:18	2020-07-18 22:33:18
 238	0xee	î	1	12156538	glg	Nu, nu există nicio cameră în hotel.	carlosalberto	2023-11-11 12:51:56	2023-11-11 12:51:56
 239	0xef	ï	1	1336480	glg	Cando viviamos nese lugar, oïamos voces tódalas noites.	gleOsp	2012-01-04 02:48:24	2012-01-04 02:48:24
-241	0xf1	ñ	870	3530101	glg	Ver o cempés na parede abondou para me poñer a pel de galiña.	Estevo	2014-10-01 16:40:12	2014-10-01 16:40:12
-243	0xf3	ó	793	1319529	glg	O pavillón no que se celebrou o concerto estaba atestado de xente.	gleOsp	2011-12-24 18:03:29	2011-12-24 18:03:29
-250	0xfa	ú	614	12054247	glg	A túa resposta é correcta.	carlosalberto	2023-09-13 22:44:04	2023-09-13 22:44:04
-252	0xfc	ü	3	1437393	glg	A Guerra Santa xurdiu na antigüidade.	gleOsp	2012-02-15 20:51:50	2012-02-15 20:51:50
+241	0xf1	ñ	881	12137876	glg	Xapón é un país onde hai moitas montañas.	carlosalberto	2023-10-31 12:39:34	2023-10-31 12:39:34
+243	0xf3	ó	817	857410	glg	Xapón intenta facer fronte ao aumento da idade media da súa poboación.	Woden	2011-04-26 14:42:26	2011-04-26 14:42:26
+250	0xfa	ú	628	1445712	glg	Ten dúas clases á mañá e unha á tarde.	gleOsp	2012-02-20 14:23:33	2012-02-20 14:23:33
+252	0xfc	ü	3	960622	glg	Agüero: "O meu futuro hase decidir cando remate a Copa América".	gleOsp	2011-06-26 15:53:26	2011-06-26 15:53:26
 259	0x103	ă	2	12156538	glg	Nu, nu există nicio cameră în hotel.	carlosalberto	2023-11-11 12:51:56	2023-11-11 12:51:56
 285	0x11d	ĝ	1	1319261	glg	Pronomes persoais: “mi”, “vi”, “li”, “ŝi”, “ĝi” (para obxecto ou animal), “si”, “ni”, “vi”, “ili”, “oni”; os posesivos fórmanse pola unión da terminación adxectiva.	gleOsp	2011-12-24 15:32:19	2011-12-24 15:32:19
 349	0x15d	ŝ	1	1319261	glg	Pronomes persoais: “mi”, “vi”, “li”, “ŝi”, “ĝi” (para obxecto ou animal), “si”, “ni”, “vi”, “ili”, “oni”; os posesivos fórmanse pola unión da terminación adxectiva.	gleOsp	2011-12-24 15:32:19	2011-12-24 15:32:19
 601	0x259	ə	1	5880308	glg	Acerbaixán chámase «Azərbaycan» en azarí.	siglepri	2017-02-18 16:33:52	2017-02-18 16:33:52
-8203	0x200b	​	6	12124713	glg	—Logo, tamén —dixo Sancho— entende vostede de trobas? —E máis do que pensas —respondeu don Quixote— e verás cando leves unha carta, escrita en verso de arriba para abaixo, á miña señora Dulcinea de Toboso. Pois quero que saibas, Sancho, que todos ou a maioría dos cabaleiros andantes da idade pasada eran grandes trobadores e grandes músicos; que estas dúas habilidades, ou grazas, para mellor dicir, están unidas aos amantes errantes. O certo é que as coplas de pasados ​​cabaleiros teñen máis espírito que perfección.	carlosalberto	2023-10-23 21:56:22	2023-10-23 21:56:22
+8203	0x200b	​	6	12250777	glg	Quero agradecer ás raras persoas da miña vida que me escoitan sen xuízo, falan sen prexuízos, axudan sen palabras innecesarias, entenden sen queixarse ​​e quérenme incondicionalmente.	carlosalberto	2024-01-04 12:55:44	2024-01-04 13:13:32
 8211	0x2013	–	2	12305531	glg	– Sabes dicir "oferta" en polaco? – Sei: “oferta”.	carlosalberto	2024-02-08 14:07:01	2024-02-08 14:07:01
 8212	0x2014	—	6	12124713	glg	—Logo, tamén —dixo Sancho— entende vostede de trobas? —E máis do que pensas —respondeu don Quixote— e verás cando leves unha carta, escrita en verso de arriba para abaixo, á miña señora Dulcinea de Toboso. Pois quero que saibas, Sancho, que todos ou a maioría dos cabaleiros andantes da idade pasada eran grandes trobadores e grandes músicos; que estas dúas habilidades, ou grazas, para mellor dicir, están unidas aos amantes errantes. O certo é que as coplas de pasados ​​cabaleiros teñen máis espírito que perfección.	carlosalberto	2023-10-23 21:56:22	2023-10-23 21:56:22
-8220	0x201c	“	11	12305531	glg	– Sabes dicir "oferta" en polaco? – Sei: “oferta”.	carlosalberto	2024-02-08 14:07:01	2024-02-08 14:07:01
+8220	0x201c	“	11	1319261	glg	Pronomes persoais: “mi”, “vi”, “li”, “ŝi”, “ĝi” (para obxecto ou animal), “si”, “ni”, “vi”, “ili”, “oni”; os posesivos fórmanse pola unión da terminación adxectiva.	gleOsp	2011-12-24 15:32:19	2011-12-24 15:32:19
 8221	0x201d	”	11	1319261	glg	Pronomes persoais: “mi”, “vi”, “li”, “ŝi”, “ĝi” (para obxecto ou animal), “si”, “ni”, “vi”, “ili”, “oni”; os posesivos fórmanse pola unión da terminación adxectiva.	gleOsp	2011-12-24 15:32:19	2011-12-24 15:32:19
 8364	0x20ac	€	1	1442668	glg	En varios países europeos, a divisa actual é o euro e o seu símbolo é "€" e o euro é a división da lira turca entre dous.	peibolvig	2012-02-18 14:22:12	2012-02-18 14:22:12
 10140	0x279c	➜	2	12197784	glg	Álxebra elemental: a) sexa x o número de frases en galego; b) sexa x + 700 o número de frases en romanés; c) hoxe, x + 700 = 2x; d) cal é o valor de x? Solución: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusión: hoxe hai 700 frases en galego e 1.400 en romanés.	carlosalberto	2023-12-06 19:22:01	2023-12-06 19:22:01

@@ -90,6 +90,7 @@
 476819	hrv	FeuDRenais	476820	bos	FeuDRenais
 476822	bos	FeuDRenais	476823	hrv	FeuDRenais
 369894	nob	contour	476935	dan	danepo
+477087	deu	Pfirsichbaeumchen	477090	lvs	\N
 476227	cmn	fucongcong	477671	wuu	fucongcong
 476630	cmn	fucongcong	477684	wuu	fucongcong
 478206	bos	FeuDRenais	478207	hrv	FeuDRenais
@@ -378,7 +379,8 @@
 415526	swe	Thanuir	763048	dan	danepo
 763739	cmn	sysko	763923	wuu	fucongcong
 763740	cmn	sysko	763928	wuu	fucongcong
-765034	swe	herrsilen	765248	dan	danepo
+487106	isl	Swift	765034	swe	herrsilen
+487106	isl	Swift	765248	dan	danepo
 184053	jpn	bunbuku	765577	cmn	Martha
 769730	lzh	chyiz	769732	cmn	chyiz
 603551	epo	GrizaLeono	770521	gla	marloncori
@@ -446,6 +448,7 @@
 4436	ita	Guybrush88	893345	por	brauliobezerra
 892225	nob	calmanani	895118	dan	Swift
 884828	spa	Shishir	896077	por	Gyuri
+620447	dan	danepo	896839	swe	Tximist
 899373	cmn	U2FS	899374	wuu	U2FS
 512039	cmn	fucongcong	900142	wuu	fucongcong
 346768	cmn	fucongcong	900197	wuu	fucongcong
@@ -558,6 +561,7 @@
 414541	nld	Dorenda	1103943	nds	slomox
 448320	eng	CM	1107346	ita	riccioberto
 803574	spa	Espi	1107376	por	alexmarcelo
+867000	spa	ildefonk	1107491	por	alexmarcelo
 808496	spa	darinmex	1108349	por	alexmarcelo
 1108740	dan	megamanenm	1108743	nob	megamanenm
 342077	zsm	sysko	1109561	ind	Archangelix
@@ -748,6 +752,7 @@
 939267	spa	Shishir	1423243	ita	Guybrush88
 1047743	por	alexmarcelo	1424533	glg	peibolvig
 1175121	por	paula_guisard	1426240	glg	peibolvig
+1427652	glg	peibolvig	1427654	spa	peibolvig
 1429045	glg	peibolvig	1429441	por	alexmarcelo
 1428307	spa	marcelostockle	1429477	por	alexmarcelo
 1382784	por	tulio	1430755	glg	gleOsp
@@ -1272,6 +1277,7 @@
 759070	cmn	Martha	2479173	yue	dngzz1
 2403679	spa	hayastan	2479248	por	marcospcruz
 1136047	spa	Shishir	2479270	por	marcospcruz
+2480766	nob	al_ex_an_der	2480795	nno	al_ex_an_der
 700332	ukr	aandrusiak	2482130	rus	marafon
 490174	ukr	aandrusiak	2484246	rus	marafon
 2489832	hrv	Tempoacc	2489833	bos	Tempoacc
@@ -1491,10 +1497,13 @@
 2108274	ita	Guybrush88	3188780	por	Ricardo14
 3201397	hin	sabretou	3201405	awa	\N
 3201397	hin	sabretou	3201408	bho	\N
+1139452	por	vekiano	3206623	spa	cueyayotl
 2826301	por	MarlonX19	3211325	ina	carlosalberto
 3161551	nob	al_ex_an_der	3212431	dan	danepo
 2984839	rus	odexed	3212445	ukr	aandrusiak
 2916737	nob	eirik174	3212521	dan	danepo
+509322	tur	duran	3212832	crh	\N
+1427729	tur	duran	3212834	crh	\N
 438592	uzb	FeuDRenais	3212841	kum	AqQoyriq_1
 3170355	spa	cueyayotl	3212844	por	carlosalberto
 3214167	nob	danieljtah	3215770	dan	danepo
@@ -1603,6 +1612,7 @@
 2903374	eng	Hybrid	3412749	ita	Guybrush88
 1976341	spa	Shishir	3413892	cbk	mervert1
 1354739	spa	marcelostockle	3416163	por	Ricardo14
+2788202	por	Ricardo14	3416243	spa	konrad509
 960540	hrv	akvo	3418693	srp	neron
 1153661	fra	Wittydev	3418737	spa	carlosalberto
 2311772	tur	Gulo_Luscus	3418744	ina	carlosalberto
@@ -1633,6 +1643,7 @@
 575784	fra	sacredceltic	3462656	ina	Positivitate
 3463872	ita	Guybrush88	3464101	ina	carlosedepaula
 742827	hrv	billy_boomo_2	3478064	srp	neron
+2665141	swe	Alex1975	3478075	dan	danepo
 955694	hrv	akvo	3478276	srp	neron
 3484302	nob	al_ex_an_der	3484319	dan	danepo
 1746081	cmn	sadhen	3488005	jpn	arnab
@@ -1657,7 +1668,7 @@
 3464680	dan	bluedragon123	3547419	nob	danieljtah
 3548973	dan	danepo	3548977	nob	al_ex_an_der
 3548983	nob	al_ex_an_der	3548984	dan	al_ex_an_der
-765034	swe	herrsilen	3555465	nob	danieljtah
+487106	isl	Swift	3555465	nob	danieljtah
 3551480	nob	danieljtah	3562797	dan	danepo
 2755	spa	Raimondi	3567295	cbk	mervert1
 3573300	srp	Oranje	3573301	bos	Oranje
@@ -1726,6 +1737,7 @@
 477061	eng	Ricardo14	3719286	ile	Valodnieks
 3624213	tat	AqQoyriq_1	3720112	nog	\N
 3720114	nog	\N	3720521	kum	\N
+3458423	nob	danieljtah	3720678	swe	herrsilen
 2994127	rus	marafon	3729979	ukr	rmdas
 2977030	nob	eirik174	3742599	swe	herrsilen
 2977030	nob	eirik174	3742915	swe	herrsilen
@@ -2119,9 +2131,11 @@
 3868860	ina	carlosalberto	4472510	ile	ieflicca
 4475235	crh	BuzulkusuPenguin	4475236	tur	deyta
 4475239	crh	BuzulkusuPenguin	4475240	tur	deyta
+4475338	crh	BuzulkusuPenguin	4475339	tur	deyta
 4475484	tur	deyta	4477231	crh	BuzulkusuPenguin
 2763040	tur	Gulo_Luscus	4477270	crh	BuzulkusuPenguin
 3835058	uzb	\N	4477365	crh	BuzulkusuPenguin
+1761562	tur	Shishir	4477547	crh	BuzulkusuPenguin
 4479312	crh	BuzulkusuPenguin	4479313	tur	BuzulkusuPenguin
 4479364	crh	BuzulkusuPenguin	4479365	tur	deyta
 938299	ido	Valodnieks	4479747	ile	ieflicca
@@ -2353,12 +2367,14 @@
 812011	ind	windra	4652036	zsm	LeeSooHa
 2917726	tgl	mervert1	4652234	war	harvzs
 4655780	mon	AqQoyriq_1	4655782	bua	AqQoyriq_1
+694367	epo	Eldad	4656328	dan	CandyFloss
 1391646	eng	enteka	4656335	dan	CandyFloss
 4657605	hin	sabretou	4657606	mar	sabretou
 509769	fin	Ricardo14	4658252	kha	Russell_Ranae
 2795037	nob	robbieheslop	4659630	deu	AC
 2312095	tgl	Adelpa	4660628	war	harvzs
 478938	ukr	Internecivus	4662514	rus	sharptoothed
+1150567	por	tulio	4669127	hoc	ManguPurty
 1090754	spa	Shishir	4670698	por	KimiP
 2747470	tgl	mervert1	4671800	war	harvzs
 2674676	spa	cueyayotl	4674235	por	Ricardo14
@@ -2476,7 +2492,7 @@
 2580807	spa	hayastan	4799367	por	carlosalberto
 528288	spa	Shishir	4801806	cbk	mervert1
 4369072	mkd	Lepotdeterre	4806074	bul	korobo4ka
-4808175	lat	sicerabibax	4808178	ina	sicerabibax
+1312069	lat	alexmarcelo	4808178	ina	sicerabibax
 1353815	glg	gleOsp	4808220	por	pxq233
 2190866	ita	Guybrush88	4810676	por	bill
 2190951	ita	Guybrush88	4818181	por	Ricardo14
@@ -2808,6 +2824,7 @@
 2818043	nob	eirik174	5184919	dan	danepo
 4343598	swe	richke	5186205	dan	danepo
 446788	rus	Hellerick	5187870	ukr	deniko
+1370929	tur	duran	5187907	tat	lotfulla
 630772	spa	Leono	5188242	ita	Guybrush88
 630772	spa	Leono	5188243	ita	Guybrush88
 1789454	spa	inastar	5188434	ita	Guybrush88
@@ -2969,6 +2986,7 @@
 1381623	por	tulio	5446286	ita	Guybrush88
 1381633	por	tulio	5446330	ita	Guybrush88
 4270012	nob	KimiP	5450697	dan	maaster
+570300	dan	danepo	5460003	nob	Meggie
 5427737	fra	pititnatole	5460245	nld	sdfke1
 4625693	cbk	Arondayot	5461236	lfn	carlosalberto
 1158250	fra	Wittydev	5464111	por	ToinhoAlam
@@ -3112,6 +3130,7 @@
 3878925	ita	Guybrush88	5679921	oci	Batko
 465517	cat	Espi	5679949	oci	Batko
 438073	rus	Clavain	5683816	ukr	maxym
+5008644	dan	danepo	5683900	ita	Guybrush88
 3115130	por	ruj	5684062	spa	cueyayotl
 5042033	por	bill	5684889	spa	albrusgher
 411416	por	brauliobezerra	5685291	oci	Batko
@@ -3246,6 +3265,7 @@
 5549825	nob	jonernm	5823474	nno	jonernm
 5823476	nno	jonernm	5823478	nob	jonernm
 395173	rus	Olya	5823697	ukr	deniko
+3436341	swe	Don3187	5823768	nob	jonernm
 5825623	dtp	Dusun_Les	5825624	kzj	Dusun_Les
 1568710	dan	Sharaf78	5826321	nob	jonernm
 5595232	rus	marafon	5830488	ukr	deniko
@@ -3268,6 +3288,7 @@
 5142901	ukr	deniko	5867889	rus	marafon
 5869477	dtp	Dusun_Les	5869479	kzj	Dusun_Les
 628354	dan	danepo	5869865	nob	eirik174
+5862722	swe	ZacAttackk	5870944	nob	eirik174
 4566021	por	ajdavidl	5872394	ita	Guybrush88
 2186795	spa	Shishir	5873006	oci	Batko
 1100761	hrv	vlado	5874173	srp	dzoja
@@ -3288,6 +3309,9 @@
 3699968	bul	katshi94	5887259	srp	astru
 3563693	rus	Selena777	5890469	ukr	deniko
 2151065	spa	hayastan	5891440	por	Ricardo14
+2606445	dan	danepo	5891788	swe	herrsilen
+612384	dan	danepo	5891793	swe	herrsilen
+2606445	dan	danepo	5891797	swe	herrsilen
 4394968	nob	beeccy	5891847	swe	herrsilen
 5409549	rus	marafon	5891970	ukr	deniko
 5653	rus	Ann74	5892789	ukr	deniko
@@ -3297,6 +3321,7 @@
 3878424	tlh	Vortarulo	5893028	swe	User73201
 1993493	deu	Tamy	5893031	swe	User73201
 1611243	ukr	deniko	5893220	rus	marafon
+766934	dan	danepo	5893943	swe	zorgzikhnit
 509792	swe	Ricardo14	5894003	kal	zorgzikhnit
 5894053	dan	zorgzikhnit	5894056	nob	zorgzikhnit
 5899259	dtp	Dusun_Les	5899260	kzj	Dusun_Les
@@ -3522,6 +3547,7 @@
 2747470	tgl	mervert1	5993551	por	gustavoalves
 2150025	spa	hayastan	5993561	por	gustavoalves
 5072878	por	ianna	5994054	spa	cueyayotl
+538722	nld	Dorenda	5996390	dan	LaArakido
 2481291	epo	Dejo	5997470	ido	Algentem
 5200195	por	mymi	5998111	tur	Rexmgns
 5581580	ina	carlosalberto	5999186	lat	sicerabibax
@@ -3871,6 +3897,7 @@
 6611133	lfn	shekitten	6611139	ina	shekitten
 6611133	lfn	shekitten	6611145	ile	RoyalBee
 1227768	por	alexmarcelo	6618672	glg	rccg
+6618577	spa	rccg	6620314	glg	rccg
 3077536	por	carlosalberto	6620322	glg	rccg
 397688	spa	brauliobezerra	6622749	glg	rccg
 477135	spa	Shishir	6622750	glg	rccg
@@ -4021,6 +4048,7 @@
 813040	rus	Arkadeko	6871592	ukr	deniko
 6298336	rus	marafon	6872330	ukr	deniko
 2011002	rus	Balamax	6874438	ukr	deniko
+6483057	nld	Micsmithel	6875223	dan	danepo
 1036427	slk	Soninka	6876250	ces	Ergulis
 2527075	rus	marafon	6877252	srp	\N
 2590080	rus	Olya	6881558	ukr	deniko
@@ -4942,6 +4970,7 @@
 2923155	ber	Amastan	7267063	kab	Fouroulou
 1626405	ber	Amastan	7267758	kab	Marzuquccen
 1828353	ber	Amastan	7267763	kab	Marzuquccen
+1157687	dan	danepo	7268147	nld	Micsmithel
 2352168	ber	Amastan	7268605	kab	Amazigh_Bedar
 2865465	ber	Amastan	7269075	kab	Igider
 2853810	ber	Amastan	7269112	kab	Igider
@@ -5221,6 +5250,8 @@
 3700807	ber	Amastan	7347181	kab	samir_t
 5491782	afr	CJuser01	7349044	nld	MarijnKp
 628213	eng	Eldad	7349342	nld	MarijnKp
+4910010	dan	danepo	7349347	smo	\N
+4910010	dan	danepo	7349348	smo	\N
 1599292	ber	Amastan	7350187	kab	Igider
 2937437	ber	Amastan	7350188	kab	Igider
 2937438	ber	Amastan	7350189	kab	Igider
@@ -5787,6 +5818,7 @@
 2910473	ber	Amastan	7525094	kab	samir_t
 4558795	ber	Amastan	7525436	kab	Aissimahfoud06
 7081606	kab	Amazigh_Bedar	7525952	ber	Amastan
+6964169	tur	soliloquist	7526386	\N	Accent
 7350243	kab	Igider	7526713	ber	LinaTamazight
 6718520	kab	amazigh84	7526727	ber	LinaTamazight
 7280678	kab	Igider	7526770	ber	LinaTamazight
@@ -5952,7 +5984,9 @@
 2883276	ber	Amastan	7587784	kab	Igider
 7423649	kab	samir_t	7587990	ber	Inal
 52027	eng	Zifre	7588710	dan	M1dx
+5886351	swe	User73201	7588712	dan	M1dx
 5285580	swe	KatKoba	7588719	dan	M1dx
+7038708	swe	herrsilen	7588724	dan	M1dx
 7549247	nob	Sifaks	7588726	dan	M1dx
 397074	por	brauliobezerra	7589503	eng	soliloquist
 590217	eng	qdii	7589505	tur	soliloquist
@@ -6495,6 +6529,7 @@
 1157639	fra	sacredceltic	7803185	lit	glavsaltulo
 2073597	ber	Amastan	7804941	kab	samir_t
 7804998	arq	MisterBrown	7804999	ara	MisterBrown
+490406	isl	Swift	7805448	fin	Thanuir
 1797926	ber	Amastan	7807619	kab	nabil509
 5894067	rus	marafon	7807890	ukr	Oleksandr_Tahayev
 3645511	ber	Amastan	7808206	kab	samir_t
@@ -6579,6 +6614,7 @@
 7325130	kab	Amazigh_Bedar	7823577	ber	Amastan
 7188171	kab	Amazigh_Bedar	7823617	ber	Amastan
 7232978	kab	belkacem77	7823690	ber	Amastan
+1904249	tpw	alexmarcelo	7825829	rap	tane
 5248434	tah	Papadiamantopoulos	7825835	rap	tane
 5248434	tah	Papadiamantopoulos	7825848	rap	tane
 2071078	ber	Amastan	7826438	kab	samir_t
@@ -6810,6 +6846,7 @@
 6366454	ita	Guybrush88	7892838	fin	Thanuir
 752736	fin	Silja	7892986	fkv	Thanuir
 4993349	srp	Lebad	7893735	pol	maria_lysik
+1683411	nob	Combine988	7895368	swe	Matteusmauritz
 1627767	ber	Amastan	7895660	kab	samir_t
 1764180	ber	Amastan	7896976	kab	samir_t
 4943134	deu	Hans_Adler	7897291	hrx	piterkeo
@@ -6834,7 +6871,9 @@
 2552441	ber	Amastan	7903225	tuk	usmanmasaripov
 2667532	tur	Gulo_Luscus	7903228	tuk	usmanmasaripov
 1287489	tur	oxyii	7903229	tuk	usmanmasaripov
+2699046	tur	Gulo_Luscus	7903234	tuk	usmanmasaripov
 2687578	tur	Gulo_Luscus	7903246	tuk	usmanmasaripov
+2699046	tur	Gulo_Luscus	7903252	tuk	usmanmasaripov
 2664303	tur	Gulo_Luscus	7903257	tuk	usmanmasaripov
 2687578	tur	Gulo_Luscus	7903268	tuk	usmanmasaripov
 7728293	ina	shekitten	7903441	fin	Thanuir
@@ -6902,6 +6941,7 @@
 7681753	eng	ouitroisheures19	7936240	spa	Seael
 7681753	eng	ouitroisheures19	7936245	spa	Seael
 2363751	por	alexmarcelo	7936255	spa	Seael
+5892989	swe	User73201	7936258	spa	Seael
 5318510	bre	Iriep	7936417	tuk	rahmanow
 5606172	ina	carlosalberto	7936806	spa	Seael
 5606172	ina	carlosalberto	7936808	spa	Seael
@@ -7606,7 +7646,7 @@
 1756707	ber	Amastan	8250617	kab	samir_t
 8193663	ber	Waghzen	8251408	kab	samir_t
 1821445	ber	Amastan	8251572	kab	samir_t
-4808175	lat	sicerabibax	8253457	ina	shekitten
+1312069	lat	alexmarcelo	8253457	ina	shekitten
 7693760	fra	Micsmithel	8253771	gcf	theachaean
 6048091	fra	Fabimoto	8253779	gcf	theachaean
 1137340	rus	mrtaistoi	8254045	ukr	deniko
@@ -7714,6 +7754,7 @@
 2868304	ber	Amastan	8286989	kab	ZiriSut
 1759925	ber	Amastan	8287566	kab	mastanabal
 8288102	ina	shekitten	8288108	lfn	shekitten
+3944233	ita	Guybrush88	8288245	lij	JeanM
 7018263	ber	Amastan	8289080	kab	Amazigh7
 7257552	ber	MessDjaaf	8289413	kab	samir_t
 3758590	deu	Wuzzy	8289683	nld	FreekVerkerk
@@ -8106,6 +8147,7 @@
 2859318	ber	Amastan	8397079	kab	samir_t
 7584029	slk	stanyas	8397126	ces	lovermann
 7840602	ber	Amastan	8397135	kab	ZiriSut
+620445	dan	danepo	8399893	swe	morbrorper
 5882576	ukr	deniko	8401279	rus	Smoky
 8401266	ukr	deniko	8401280	rus	Smoky
 8401277	dan	danepo	8401287	nob	pergpau
@@ -8171,6 +8213,7 @@
 7447252	kab	Igider	8413622	ber	Amastan
 2920000	ber	Amastan	8414250	kab	samir_t
 2920001	ber	Amastan	8414252	kab	samir_t
+538722	nld	Dorenda	8414456	dan	_CannotLogin_
 7357364	kab	Igider	8414510	ber	Amastan
 7357365	kab	Igider	8414512	ber	Amastan
 7730395	kab	xaledbessaci	8414554	ber	Amastan
@@ -8254,6 +8297,7 @@
 2920058	ber	Amastan	8455522	kab	samir_t
 3678686	ber	Juba	8457351	kab	samir_t
 2102747	ber	Amastan	8460362	kab	samir_t
+1868217	eng	CK	8462010	ang	shekitten
 8353768	ber	Amastan	8462032	kab	samir_t
 1046431	heb	Eldad	8462174	yid	shekitten
 1770253	ber	Amastan	8463311	kab	samir_t
@@ -8479,6 +8523,7 @@
 7487787	nld	MarijnKp	8627344	deu	Melang
 7083144	kab	HocineBenamer	8629203	ber	Talwit
 8252570	kab	ZiriSut	8629256	ber	Talwit
+3677291	spa	Seael	8630308	por	Ricardo14
 1115429	nld	martinod	8631811	deu	Melang
 4699803	ceb	tarsier	8635238	tgl	artemio
 4699844	ceb	tarsier	8635243	tgl	artemio
@@ -8633,6 +8678,7 @@
 8193973	ber	Waghzen	8705515	kab	Massi
 2284384	ber	Amastan	8705655	kab	samir_t
 4593420	ita	Guybrush88	8709302	lat	shekitten
+4593420	ita	Guybrush88	8709508	lat	shekitten
 8330020	kab	Amazigh7	8709889	ber	Amastan
 7188248	kab	Amazigh_Bedar	8709917	ber	Amastan
 7188249	kab	Amazigh_Bedar	8709918	ber	Amastan
@@ -8664,7 +8710,6 @@
 8082281	ber	Amastan	8718469	kab	samir_t
 8082282	ber	Amastan	8718471	kab	samir_t
 2551457	ber	Amastan	8718694	kab	samir_t
-5933523	ido	Kaelink	8718861	fra	Micsmithel
 1839771	ber	Amastan	8719132	kab	Rafik
 7682723	ber	MessDjaaf	8719143	kab	Rafik
 7328805	kab	AsizDeg	8719320	ber	Amastan
@@ -8714,6 +8759,7 @@
 4079366	rus	marafon	8741934	ukr	deniko
 8705131	kab	Massi	8743751	ber	Amastan
 6563287	tur	diluzmani	8744094	eng	maaster
+3720765	swe	herrsilen	8744155	dan	danepo
 1032714	deu	Hans07	8745296	pol	maria_lysik
 2553640	ita	Guybrush88	8746088	lfn	shekitten
 2553640	ita	Guybrush88	8746091	ina	shekitten
@@ -9192,7 +9238,7 @@
 7556392	kab	Igider	8924077	ber	Talwit
 8923841	ukr	deniko	8924705	rus	Wezel
 3758590	deu	Wuzzy	8925677	nob	pergpau
-4656328	dan	CandyFloss	8925678	nob	pergpau
+694367	epo	Eldad	8925678	nob	pergpau
 628220	dan	danepo	8925682	nob	pergpau
 479365	isl	Swift	8925688	nob	pergpau
 8927726	ukr	deniko	8927732	rus	marafon
@@ -9973,6 +10019,7 @@
 5008644	dan	danepo	9295664	nob	Mayk
 487010	deu	human600	9295674	nob	Mayk
 1381735	por	tulio	9295682	nob	Mayk
+5893012	swe	User73201	9295685	nob	Mayk
 628220	dan	danepo	9295693	nob	Mayk
 1993493	deu	Tamy	9295694	nob	Mayk
 490406	isl	Swift	9295695	nob	Mayk
@@ -10078,6 +10125,7 @@
 8729834	kab	samir_t	9325847	ber	Yagurten
 1746531	ber	Amastan	9329428	kab	AmarMecheri
 1046431	heb	Eldad	9330348	yid	shekitten
+4408730	swe	richke	9330403	dan	danepo
 1768676	ber	Djef_Messaoudi	9331219	kab	Igider
 1738039	ber	Amastan	9331300	kab	Igider
 1744025	ber	Amastan	9331311	kab	Igider
@@ -10331,6 +10379,7 @@
 7268214	ber	MessDjaaf	9391201	kab	Igider
 7528628	ber	Amastan	9392274	kab	samir_t
 9367357	ber	Amastan	9392285	kab	samir_t
+9295691	nob	Mayk	9392493	spa	TDjouaher
 7988567	ber	Yagurten	9393002	kab	agrakal
 9202404	kab	Igider	9394217	ber	Aghsi_n_Unezruf
 7409750	kab	Igider	9394526	ber	Yagurten
@@ -10637,6 +10686,7 @@
 5783569	ber	Amastan	9464180	kab	samir_t
 1673625	ber	Amastan	9464284	kab	samir_t
 3606056	ber	Amastan	9464549	kab	Igider
+9464623	swe	morbrorper	9464681	dan	danepo
 2902232	ber	Amastan	9465576	kab	samir_t
 8325202	ber	Yagurten	9466342	kab	Igider
 5507984	ber	Juba	9466344	kab	Igider
@@ -12236,6 +12286,7 @@
 752984	tlh	Vortarulo	9824766	slk	Dominika7
 3224332	ber	Amastan	9825009	kab	samir_t
 2352510	ber	Amastan	9825797	kab	Rafik
+369873	nob	contour	9827043	swe	morbrorper
 3580509	ber	Amastan	9827607	kab	Igider
 3580510	ber	Amastan	9827609	kab	Igider
 7295634	ber	Amastan	9827629	kab	Igider
@@ -12882,6 +12933,7 @@
 8420633	ber	Amastan	10038957	kab	samir_t
 8044946	ber	Amastan	10038959	kab	Rafik
 7284460	ber	Amastan	10039134	kab	Rafik
+3599094	dan	danepo	10039671	swe	morbrorper
 9857820	slk	Dominika7	10043618	ces	aldar
 2069877	ber	Amastan	10044220	kab	Igider
 4069912	ber	Amastan	10044233	kab	Igider
@@ -13093,14 +13145,14 @@
 9852416	wol	lamino822	10149040	kab	samir_t
 441116	pol	esperanto	10150933	dsb	Dominika7
 9846573	hsb	Dominika7	10150946	dsb	Dominika7
-7268147	nld	Micsmithel	10150964	dsb	Dominika7
+1157687	dan	danepo	10150964	dsb	Dominika7
 8095894	pol	Ptr	10150978	dsb	Dominika7
 9959578	hsb	Dominika7	10150979	dsb	Dominika7
 2428451	slk	slovak	10150988	dsb	Dominika7
 9833944	slk	Dominika7	10150990	dsb	Dominika7
 2657737	ber	Amastan	10151025	kab	samir_t
 2919298	ber	Amastan	10152215	kab	samir_t
-9392493	spa	TDjouaher	10153505	por	NortonKapp
+9295691	nob	Mayk	10153505	por	NortonKapp
 1640593	ber	Amastan	10155125	kab	samir_t
 9275288	kab	Igider	10155352	ber	Yagurten
 7971698	ber	Yagurten	10155506	kab	samir_t
@@ -13393,6 +13445,7 @@
 5950818	por	sergiomelo	10248687	spa	DJ_Saidez
 8171921	ber	Yagurten	10249911	kab	samir_t
 2304558	ber	Amastan	10250997	kab	Rafik
+6392511	deu	dasbeispielholz	10251045	eng	bekindtoall
 7679387	ber	Yagurten	10251066	kab	Rafik
 1736048	ber	Amastan	10251409	kab	Rafik
 1736153	ber	Amastan	10251411	kab	Rafik
@@ -13566,6 +13619,7 @@
 2493393	ber	Amastan	10332601	kab	samir_t
 7260554	kab	samir_t	10332976	ber	Yagurten
 7369579	kab	samir_t	10333442	ber	Yagurten
+1614666	swe	viorayli	10333612	dan	danepo
 10302640	ber	Talwit	10334046	kab	belkacem77
 10302480	ber	Talwit	10334048	kab	belkacem77
 10301564	ber	Talwit	10334049	kab	belkacem77
@@ -13819,7 +13873,6 @@
 2489725	ber	Amastan	10489631	kab	madjidoumnia
 5812077	ber	Amastan	10489638	kab	madjidoumnia
 3891797	ber	Amastan	10491709	kab	madjidoumnia
-5933523	ido	Kaelink	10491749	fra	Julien_PDC
 3044124	ber	Amastan	10492133	kab	LdjuherTaqvaylit
 1755406	ber	Amastan	10492134	kab	LdjuherTaqvaylit
 1797862	ber	Amastan	10492558	kab	Rafik
@@ -14000,6 +14053,7 @@
 9208495	ber	Talwit	10520688	kab	Rafik
 9208496	ber	Talwit	10520689	kab	Rafik
 10517708	ber	Amastan	10520696	kab	Rafik
+5606712	ina	carlosalberto	10520745	lat	Akenaseryan
 2902547	ber	Amastan	10520885	kab	madjidoumnia
 7217649	kab	Meksems	10520903	ber	Amastan
 2078460	ber	Amastan	10520921	kab	Rafik
@@ -14625,6 +14679,7 @@
 3505484	hun	bandeirante	10705897	swe	Pineapple
 6320807	pol	arie	10705901	swe	Pineapple
 8349376	ber	Amastan	10706115	kab	Igider
+10706026	swe	Pineapple	10706258	dan	danepo
 7962463	nld	Micsmithel	10707178	eng	AutoBot
 7962463	nld	Micsmithel	10707179	fra	AutoBot
 1696013	ber	Amastan	10707420	kab	madjidoumnia
@@ -14875,6 +14930,7 @@
 10294703	kab	Yagurten	10868438	ber	Yagurten
 10294698	kab	Yagurten	10868439	ber	Yagurten
 1749333	ber	Amastan	10873086	kab	Rafik
+10871868	swe	morbrorper	10874561	dan	danepo
 5264708	fra	pititnatole	10875338	lin	\N
 10259424	kab	Yagurten	10879634	ber	Yagurten
 6885119	ukr	deniko	10881391	oss	Madina12
@@ -14892,6 +14948,8 @@
 2108383	por	MarlonX19	10891100	spa	JSKabylie
 946449	nds	slomox	10891203	nld	megamanenm
 7875303	ber	LinaTamazight	10892618	kab	Rafik
+1539514	ita	Guybrush88	10893334	lij	JeanM
+1539514	ita	Guybrush88	10893335	lij	JeanM
 7864230	dan	danepo	10894634	nob	skanne
 1106252	ind	Archangelix	10894664	mfa	alicetia
 3265324	srp	neron	10894796	hrv	skanne
@@ -14946,7 +15004,7 @@
 590076	fra	qdii	10938829	swc	\N
 5214835	tgl	kanlaon	10939503	ceb	necoyangi
 39996	eng	pierrephi	10940153	nob	Mayk
-7588712	dan	M1dx	10940155	nob	Mayk
+5886351	swe	User73201	10940155	nob	Mayk
 8285222	dan	Isomorph	10940159	nob	Mayk
 5285580	swe	KatKoba	10940166	nob	Mayk
 10566158	dan	danepo	10940171	nob	Mayk
@@ -14956,6 +15014,7 @@
 1032714	deu	Hans07	10940184	nob	Mayk
 39996	eng	pierrephi	10940189	nob	Mayk
 5886398	swe	User73201	10940190	nob	Mayk
+6372016	swe	nickrobson	10940219	nob	Mayk
 5330160	swe	User73201	10940226	nob	Mayk
 2611318	eng	Eldad	10940232	nob	Mayk
 5400202	bre	MacaGhallag	10940234	nob	Mayk
@@ -14990,6 +15049,7 @@
 7588704	dan	M1dx	10940367	nob	Mayk
 5886398	swe	User73201	10940368	nob	Mayk
 899804	deu	Esperantostern	10940374	nob	Mayk
+5680026	oci	Batko	10940380	nob	Mayk
 9586964	dan	danepo	10940384	nob	Mayk
 8780724	nld	Micsmithel	10940393	nob	Mayk
 693617	eng	thedowntowncanon	10940395	nob	Mayk
@@ -15015,7 +15075,7 @@
 1078329	nno	bcmoney	10940506	nob	Mayk
 10783248	dan	danepo	10940511	nob	Mayk
 5893650	swe	User73201	10940513	nob	Mayk
-7588724	dan	M1dx	10940515	nob	Mayk
+7038708	swe	herrsilen	10940515	nob	Mayk
 5453374	dan	maaster	10940518	nob	Mayk
 5453374	dan	maaster	10940522	nob	Mayk
 10686161	swe	Pineapple	10940524	nob	Mayk
@@ -15297,6 +15357,7 @@
 7310468	ber	Amastan	11039565	kab	Rafik
 8201489	ber	Waghzen	11041342	kab	madjidoumnia
 8928381	ber	Talwit	11041591	kab	Igider
+836291	ita	Guybrush88	11042492	lat	alexmarcelo
 4630053	ilo	saluyot	11043407	deu	toivo
 10856693	eng	Amastan	11043651	ita	Guybrush88
 9477113	ina	shekitten	11043720	ita	Guybrush88
@@ -15353,6 +15414,7 @@
 5892990	swe	User73201	11064059	nob	Mayk
 3194331	ita	Guybrush88	11064218	spa	JSKabylie
 1722240	ber	Amastan	11064386	kab	Igider
+1148204	ita	Guybrush88	11065080	lat	alexmarcelo
 8416770	ber	Amastan	11065471	kab	HocineBenamer
 8416771	ber	Amastan	11065472	kab	HocineBenamer
 4608076	ber	Amastan	11065960	kab	Igider
@@ -17378,6 +17440,7 @@
 6308704	pol	arie	11149194	ces	Zlejahnusnej
 10942842	nob	Mayk	11149210	ces	Zlejahnusnej
 9731700	slk	Dominika7	11149220	ces	Zlejahnusnej
+7084767	ita	alexmarcelo	11149490	lat	alexmarcelo
 10251752	ber	Talwit	11149761	kab	Igider
 10251744	ber	Talwit	11149762	kab	Igider
 10251723	ber	Talwit	11149763	kab	Igider
@@ -18391,6 +18454,7 @@
 2449718	ber	Amastan	11171912	kab	Rafik
 2449720	ber	Amastan	11171913	kab	Rafik
 11095140	ber	BahiaChalah	11172677	kab	BahiaChalah
+9295815	nob	Mayk	11174604	swe	Pineapple
 461060	spa	Shishir	11175112	glg	emitxab111
 8139572	ber	Talwit	11175198	kab	Igider
 8139572	ber	Talwit	11175199	kab	Igider
@@ -24843,6 +24907,7 @@
 8573694	ber	Talwit	11268550	kab	samir_t
 11253234	swe	morbrorper	11268687	dan	sifhg
 1750869	ber	Amastan	11268855	kab	Rafik
+2599032	dan	danepo	11269160	swe	Pineapple
 11269300	kab	Igider	11269302	ber	Igider
 7996898	ber	Talwit	11269315	kab	Igider
 7084055	ber	Talwit	11269316	kab	Igider
@@ -29894,7 +29959,7 @@
 2294242	ber	yecca	11293048	kab	Igider
 2770063	ber	yecca	11293049	kab	Igider
 7551652	ber	Talwit	11294855	kab	Igider
-5683900	ita	Guybrush88	11295002	tet	tjmdejesus
+5008644	dan	danepo	11295002	tet	tjmdejesus
 404788	por	brauliobezerra	11295003	tet	tjmdejesus
 1139484	por	vekiano	11295008	tet	tjmdejesus
 404788	por	brauliobezerra	11295009	tet	tjmdejesus
@@ -55895,11 +55960,14 @@
 7973529	ber	Yagurten	11420705	kab	Igider
 7993312	ber	Talwit	11420711	kab	Igider
 7762084	ber	Yagurten	11420778	kab	Igider
+8571666	lfn	Hellerick	11420836	lvs	GemMonkey
 1605273	lit	fanty	11420891	lvs	GemMonkey
 1381636	epo	tulio	11420892	lvs	GemMonkey
 7856056	ber	Talwit	11420894	kab	Igider
 7749989	ber	Talwit	11420910	kab	Igider
 3458598	ces	nueby	11420924	lvs	GemMonkey
+459301	tur	deyta	11420928	lvs	GemMonkey
+7796327	thv	Aissimahfoud06	11420933	lvs	GemMonkey
 7678616	ber	Yagurten	11420940	kab	Igider
 7545162	ber	Yagurten	11420949	kab	Igider
 7708524	ber	Yagurten	11421125	kab	Igider
@@ -62262,7 +62330,7 @@
 2076548	ber	Amastan	11581797	ara	dididodo
 2023946	ber	Amastan	11581924	kab	Rafik
 11582244	ina	shekitten	11582246	lfn	shekitten
-477090	lvs	\N	11582436	prg	totpreussen
+477087	deu	Pfirsichbaeumchen	11582436	prg	totpreussen
 10205937	ber	Yagurten	11584005	kab	Rafik
 2294644	ber	yecca	11584279	kab	madjidoumnia
 11584788	xmf	Laz	11584789	lzz	Laz
@@ -62383,6 +62451,7 @@
 10198897	bos	bokalabocca	11654401	xmf	Laz
 10198897	bos	bokalabocca	11654405	lzz	Laz
 7283996	ber	Amastan	11654822	kab	Rafik
+11655757	swe	enebi	11656776	nob	enebi
 9121587	kab	Igider	11661092	ber	Amastan
 7322819	ber	Amastan	11661885	kab	Abderrahmane
 4473351	ber	Amastan	11664067	kab	Rafik
@@ -62473,6 +62542,7 @@
 2561056	ber	Amastan	11724452	kab	Rafik
 11642235	slv	Adelpa	11726230	ces	aldar
 1673949	ber	Amastan	11726479	kab	madjidoumnia
+10184666	tok	Raizin	11728078	spa	Seael
 3961865	rus	lovermann	11730012	ukr	saiko
 505873	pes	8684	11733076	pnb	usmaan
 1181159	fra	sacredceltic	11733615	ina	shekitten
@@ -62483,6 +62553,8 @@
 393356	ces	vita	11733953	slv	Adelpa
 11107728	ary	Seddahby	11736654	ara	dididodo
 9683428	fra	Igider	11737029	spa	Seael
+10621030	ces	hassman	11737258	lvs	lieknins
+1645198	ita	Guybrush88	11737263	lvs	lieknins
 11737462	lfn	shekitten	11737463	ina	shekitten
 7769262	cym	SteCymru14	11738567	tgl	qwertzu
 9294756	zsm	LeeSooHa	11740098	ind	Pacific
@@ -62538,7 +62610,6 @@
 7284245	lat	CarpeLanam	11781081	ita	Guybrush88
 8418651	ber	Amastan	11781304	kab	Rafik
 8418654	ber	Amastan	11781307	kab	Rafik
-693617	eng	thedowntowncanon	11783131	ind	Pacific
 373344	fin	Ricardo14	11783133	ind	Pacific
 8150262	ber	Amastan	11783377	kab	madjidoumnia
 8150263	ber	Amastan	11783379	kab	madjidoumnia
@@ -63049,6 +63120,7 @@
 1620252	ber	Amastan	12023770	kab	Rafik
 8940028	ber	Talwit	12023869	kab	samir_t
 8940034	ber	Talwit	12023871	kab	samir_t
+461588	tur	duran	12024143	crh	enebi
 12024694	fkv	Thanuir	12024695	fin	Thanuir
 8254152	ber	Sammer	12024876	kab	samir_t
 1828973	ber	Amastan	12024982	kab	Igider
@@ -63125,7 +63197,7 @@
 4925872	ara	damascene	12041988	ajp	karimique
 9036380	arz	KeEichi	12041991	ajp	karimique
 9741331	spa	arh	12042004	ina	shekitten
-5320371	lat	Martka	12042179	spa	AmarMecheri
+2817495	lat	carlosalberto	12042179	spa	AmarMecheri
 12042349	glg	carlosalberto	12042350	por	carlosalberto
 12042349	glg	carlosalberto	12042360	spa	carlosalberto
 10942842	nob	Mayk	12043263	slk	Danka
@@ -63170,6 +63242,7 @@
 9153252	ber	Yagurten	12059707	shi	usus
 9397773	ber	Aghsi_n_Unezruf	12060150	kab	Lha
 12062935	kab	Aghanim	12062938	ber	Aghanim
+5891802	swe	herrsilen	12064135	dan	MyWay
 4700942	hrv	b_ana_na	12064452	slv	Adelpa
 4700939	hrv	b_ana_na	12064455	slv	Adelpa
 10329092	ber	Yagurten	12064913	kab	Aghanim
@@ -63779,6 +63852,7 @@
 5282309	ber	Amgaray	12243480	shi	Muh_lchgr
 6201100	fra	LINGUISTE	12244423	lfn	rul
 7215839	ber	Mohamedzakaria	12244717	shi	Muh_lchgr
+8164142	ber	Amastan	12244754	shi	Muh_lchgr
 1764048	ber	Amastan	12245169	kab	LdjuherTaqvaylit
 7329954	ber	Amastan	12245193	kab	LdjuherTaqvaylit
 11540591	ber	Yagurten	12245230	kab	LdjuherTaqvaylit
@@ -63799,6 +63873,7 @@
 4598582	ber	Amastan	12247244	kab	LdjuherTaqvaylit
 9094637	ber	Amastan	12247430	kab	LdjuherTaqvaylit
 9094639	ber	Amastan	12247432	kab	LdjuherTaqvaylit
+3784956	swe	herrsilen	12247575	dan	danepo
 6759465	aoz	Rodriguez	12248006	ind	Pacific
 11668124	ber	Amastan	12248709	kab	LdjuherTaqvaylit
 8119593	ber	LinaTamazight	12248900	kab	LdjuherTaqvaylit
@@ -63813,7 +63888,6 @@
 7678685	ber	Yagurten	12252582	kab	LdjuherTaqvaylit
 876113	cat	ziggsmith	12254148	oci	QuentiBc
 9730774	cat	mialiesperantistas	12254163	oci	QuentiBc
-8164142	ber	Amastan	12254199	shi	Muh_lchgr
 246359	eng	seveleu_dubrovnik	12255132	ang	JameezTranslates
 459301	tur	deyta	12255152	ang	JameezTranslates
 10632112	eng	AutoBot	12255172	ang	JameezTranslates
@@ -63903,7 +63977,6 @@
 4596153	ber	Amastan	12272229	kab	LdjuherTaqvaylit
 4596159	ber	Amastan	12272233	kab	LdjuherTaqvaylit
 4596161	ber	Amastan	12272238	kab	LdjuherTaqvaylit
-12273621	ron	eymeylaydoe	12273622	\N	eymeylaydoe
 2147361	ces	moskbnea	12274043	slk	Adelpa
 8323752	ber	Yagurten	12274857	kab	ButterflyOfFire
 5736940	eng	Dalyup	12275004	ile	mak
@@ -64090,3 +64163,68 @@
 1974249	ber	Amastan	12308838	kab	LdjuherTaqvaylit
 1696673	ber	Amastan	12308904	kab	LdjuherTaqvaylit
 7260939	ber	MessDjaaf	12308924	kab	LdjuherTaqvaylit
+7529759	ber	Amastan	12309216	kab	Aghanim
+1781948	ber	Amastan	12309533	kab	LdjuherTaqvaylit
+1746959	ber	Amastan	12309534	kab	LdjuherTaqvaylit
+7497623	ber	Amastan	12309760	shi	Muh_lchgr
+7496042	ber	Amastan	12309854	shi	Muh_lchgr
+2937289	ber	Amastan	12309942	shi	Muh_lchgr
+1746531	ber	Amastan	12310043	shi	Muh_lchgr
+7354127	kab	Igider	12310250	shi	Muh_lchgr
+7354127	kab	Igider	12310254	shi	Muh_lchgr
+7206949	ber	Mohamedzakaria	12310313	shi	Muh_lchgr
+5282308	ber	Amgaray	12310962	shi	Muh_lchgr
+1700976	por	alexmarcelo	12311071	glg	carlosalberto
+882268	por	alexmarcelo	12311078	glg	carlosalberto
+10090925	rus	ZegPhig	12312110	ukr	andreasb03
+12311599	rus	Balamax	12312489	ukr	deniko
+7579800	ber	LinaTamazight	12312660	kab	Rafik
+7578928	kab	samir_t	12313422	shi	Muh_lchgr
+395028	qya	saeb	12313544	kab	Aghanim
+11862739	ber	Amastan	12313659	kab	Rafik
+8372333	ber	Yagurten	12313721	kab	Rafik
+9263169	ber	Talwit	12313800	kab	Aghanim
+8858607	ber	Talwit	12313802	kab	Aghanim
+7968483	afr	swart	12313876	deu	Augustus
+1196320	por	alexmarcelo	12314142	oci	QuentiBc
+1196320	por	alexmarcelo	12314144	oci	QuentiBc
+4484509	spa	cueyayotl	12314149	oci	QuentiBc
+1123292	tlh	Vortarulo	12314150	oci	QuentiBc
+2170877	spa	Shishir	12314151	oci	QuentiBc
+4484509	spa	cueyayotl	12314154	oci	QuentiBc
+1123292	tlh	Vortarulo	12314155	oci	QuentiBc
+727769	spa	Shishir	12314156	oci	QuentiBc
+7337352	ber	Belarhzali	12315025	shi	Muh_lchgr
+8070172	ber	sfnmer	12315481	kab	Lwennas
+9874508	ber	Aghsi_n_Unezruf	12315484	kab	Lwennas
+10420997	ber	Aghsi_n_Unezruf	12315486	kab	Lwennas
+2862619	ber	Amastan	12316037	shi	Amntag
+2862628	ber	Amastan	12316038	shi	Amntag
+515923	spa	Shishir	12317229	oci	QuentiBc
+2553640	ita	Guybrush88	12317230	oci	QuentiBc
+4586875	ita	Guybrush88	12317231	oci	QuentiBc
+3203268	spa	cueyayotl	12317239	oci	QuentiBc
+4764896	spa	DarkHollow	12317241	oci	QuentiBc
+2790563	ber	Amastan	12317473	kab	LdjuherTaqvaylit
+5792977	ber	Amastan	12318534	shi	Muh_lchgr
+4271747	rus	odexed	12318858	udm	Kartinapai
+8278592	ber	Amastan	12319125	kab	Aghanim
+8556852	ber	Amastan	12319143	kab	samir_t
+12319215	fkv	Thanuir	12319217	fin	Thanuir
+12319366	por	carlosalberto	12319373	glg	carlosalberto
+2089290	ber	Amastan	12319480	kab	Aghanim
+11131204	ber	Amastan	12319500	kab	Aghanim
+11123417	ber	Amastan	12319501	kab	Aghanim
+11123125	ber	Amastan	12319502	kab	Aghanim
+11492187	nob	Mayk	12319770	dan	danepo
+11089066	nob	Mayk	12319771	dan	danepo
+7304695	ber	Amastan	12319981	kab	LdjuherTaqvaylit
+7304696	ber	Amastan	12319983	kab	LdjuherTaqvaylit
+2035559	ber	Amastan	12319984	kab	LdjuherTaqvaylit
+2035560	ber	Amastan	12319986	kab	LdjuherTaqvaylit
+7295524	ber	Amastan	12320267	kab	LdjuherTaqvaylit
+7295525	ber	Amastan	12320268	kab	LdjuherTaqvaylit
+1740675	ber	Amastan	12320287	kab	LdjuherTaqvaylit
+9455252	ber	Yagurten	12320390	kab	LdjuherTaqvaylit
+4355786	ber	Amastan	12321214	kab	Rafik
+10238216	ber	Yagurten	12321478	kab	LdjuherTaqvaylit
