@@ -66,11 +66,11 @@ def getwords(text):
 
 def getwordsinenglish(text):
   return findall(
-    r"""[^\s—―…'‘"“<«\[{][^\s—―…]+[)][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
-    r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[(][^\s—―…]+[^\s—―…'’"”>»\]},:;.?!‽]|"""
-    r"""(?:[^\s—―…'‘"“<«(\[{][^\s—―…]*)?(?:[^\W\d]\.){2,}(?![^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽])|"""
-    r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
-    r"""[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""",
+    r"""[^\s—―…'‘"“<«\[{¿¡][^\s—―…]+[)][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
+    r"""[^\s—―…'‘"“<«(\[{¿¡][^\s—―…]*[(][^\s—―…]+[^\s—―…'’"”>»\]},:;.?!‽]|"""
+    r"""(?:[^\s—―…'‘"“<«(\[{¿¡][^\s—―…]*)?(?:[^\W\d]\.){2,}(?![^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽])|"""
+    r"""[^\s—―…'‘"“<«(\[{¿¡][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
+    r"""[^\s—―…'‘’"“”<>«»()\[\]{},:;.¿?¡!‽]""",
     cleanupforsplitting(text))
 
 def getwordsinlanguage(janome, kkma, language, text):
@@ -78,7 +78,7 @@ def getwordsinlanguage(janome, kkma, language, text):
   if language == "cmn":
     for token in cut(text):
       words.update(getwords(token))
-  elif language in ("eng", "por"):
+  elif language in ("eng", "fra", "ita", "por", "spa"):
     words.update(getwordsinenglish(text))
   elif language == "jpn":
     for token in janome.tokenize(text):
@@ -607,11 +607,11 @@ def analyzepunctuation():
       if findall(r"""([^.]|^)\.\.([^.]|$)""", fields[2], flags = I):
         print("Ellipsis: too short", line, sep = "\t", end = "", file = write)
 
-      # if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
-      #   print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
+      if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
+        print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
-      # if findall(r"""\d-\d""", fields[2], flags = I):
-      #   print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
+      if findall(r"""\d-\d""", fields[2], flags = I):
+        print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("ber", "fra", "kab") and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
@@ -770,8 +770,8 @@ print("")
 countwords()
 print("")
 counttranslations()
-# print("")
-# counttranslationsuser("eng", "por", "Cangarejo")
+print("")
+counttranslationsuser("eng", "por", "Cangarejo")
 print("")
 selectsentences()
 print("")
