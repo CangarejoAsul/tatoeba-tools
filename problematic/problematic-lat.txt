@@ -482,7 +482,6 @@ Em dash: homoglyph	8650870	lat	"Quis carmina scripsit?" - "Ego ea non scripsi."	
 Em dash: homoglyph	8650871	lat	"Quis libros scripsit?" - "Ego eos scripsi."	shekitten	2020-04-01 15:46:10	2020-04-01 15:46:10
 Em dash: homoglyph	8650872	lat	"Quis orationes scripsit?" - "Ego eas scripsi."	shekitten	2020-04-01 15:46:16	2020-04-01 15:46:16
 Em dash: homoglyph	8650873	lat	"Quis carmina scripsit?" - "Ego ea scripsi."	shekitten	2020-04-01 15:46:23	2020-04-01 15:46:23
-Final punctuation	8684281	lat	Hoc datus est mihi a patre meo	lucasmg123	2020-04-16 01:00:08	2020-04-16 01:00:21
 Capitalization	8696523	lat	hic Rhodos, hic salta!	manese	2020-04-20 15:25:40	2020-04-20 15:25:40
 Final punctuation	8733009	lat	Cīvēs Americāna fīam	jimkillock	2020-05-02 16:29:53	2020-05-02 16:29:53
 Final punctuation	8757976	lat	Quantum igitur habet de esse, tantum habet de bonitate	randomdude	2020-05-13 00:14:44	2020-05-13 00:14:44
@@ -547,3 +546,5 @@ Multiplication sign: possible homoglyph	12197823	lat	Algebra elementaria: a) sit
 Parentheses: unopened closing mark	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
 Parentheses: unbalanced closing marks	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
 Final punctuation	12211496	lat	Thomas mihi dixit meam vitam in dubio esse	soridsolid	2023-12-15 21:53:41	2023-12-15 21:53:41
+Capitalization	12341493	lat	identitas pueri amissi confirmata est vestibus suis.	carlosalberto	2024-02-26 17:08:20	2024-02-26 17:08:20
+Capitalization	12341494	lat	identitas puellae amissae confirmata est vestibus suis.	carlosalberto	2024-02-26 17:08:52	2024-02-26 17:08:52

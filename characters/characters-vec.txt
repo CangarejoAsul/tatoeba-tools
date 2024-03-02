@@ -1,64 +1,66 @@
-32	0x20	 	972	9946234	vec	lo gało ciamà ieri?	manu70l	2021-04-09 15:22:16	2021-04-09 15:22:16
-33	0x21	!	6	3754668	vec	Benvegnù!	\N	2015-01-09 06:25:14	2015-10-19 02:08:20
-34	0x22	"	4	9945940	vec	"De che nasionałità zèrełe łe so Zie?" "Canadezi."	manu70l	2021-04-09 13:10:35	2021-04-09 13:10:45
-39	0x27	'	16	9946208	vec	So' vegnesta co Tom.	manu70l	2021-04-09 15:16:13	2021-04-09 15:16:13
-44	0x2c	,	36	3772539	vec	Un, dó, tre, quatro, zsinque, sie, sete, oto, nóve, diéxe.	\N	2015-01-16 18:49:03	2019-04-16 10:52:05
-45	0x2d	-	5	9946202	vec	Semo finie ridédoghe-su.	manu70l	2021-04-09 15:14:40	2021-04-09 15:14:40
-46	0x2e	.	117	9945940	vec	"De che nasionałità zèrełe łe so Zie?" "Canadezi."	manu70l	2021-04-09 13:10:35	2021-04-09 13:10:45
-63	0x3f	?	57	9945995	vec	Ndazio costruir scołe inte ła Lituània?	manu70l	2021-04-09 13:27:21	2021-04-09 13:27:21
-65	0x41	A	10	9945963	vec	Veto a costruir strade inte l'Arzentina?	manu70l	2021-04-09 13:17:55	2021-04-09 13:17:55
-66	0x42	B	8	4267520	vec	El Burj Khalifa desso xe el pì alto gratasielo del mondo.	Balamax	2015-06-11 13:15:54	2016-03-16 21:09:37
-67	0x43	C	16	9945955	vec	Cuanti de chełi łà i zera łà?	manu70l	2021-04-09 13:14:53	2021-04-09 13:14:53
-68	0x44	D	9	9946053	vec	Destribusion cuotidiani.	manu70l	2021-04-09 13:42:10	2021-04-09 13:42:10
-69	0x45	E	20	5978176	vec	Ea acqua xe vida.	\N	2017-03-26 04:02:54	0000-00-00 00:00:00
-71	0x47	G	14	9946005	vec	Go scumisià el libro.	manu70l	2021-04-09 13:30:12	2021-04-09 13:30:12
-73	0x49	I	3	9946230	vec	I ga dizesto che no i zera sorapezo.	manu70l	2021-04-09 15:21:26	2021-04-09 15:21:26
-75	0x4b	K	2	9946197	vec	Kel el ga spartio ła càmara col so fradeło pì grando.	manu70l	2021-04-09 15:12:03	2021-04-09 15:12:03
-76	0x4c	L	11	9946201	vec	Lu el ze ndà in botega par cronpar racuante naranse.	manu70l	2021-04-09 15:14:00	2021-04-09 15:14:00
-77	0x4d	M	24	9946020	vec	Me spero che el tórnee par łe sie	manu70l	2021-04-09 13:34:58	2021-04-09 13:34:58
-78	0x4e	N	13	9945982	vec	Noialtri gavarìsimo da dasar ła sità.	manu70l	2021-04-09 13:23:17	2021-04-09 13:23:17
-79	0x4f	O	2	9945942	vec	Oh, no! Cosa ghe dizarò a Tom?	manu70l	2021-04-09 13:11:20	2021-04-09 13:11:20
-80	0x50	P	8	9945979	vec	Pòsoi portarli?	manu70l	2021-04-09 13:22:20	2021-04-09 13:22:30
-81	0x51	Q	2	3605805	vec	Quanti ani ti gà?	masaragiovanni	2014-11-04 12:20:53	2015-01-09 06:17:38
-83	0x53	S	27	9946045	vec	Sì, sì, vegnarò co vualtri.	manu70l	2021-04-09 13:40:59	2021-04-09 13:40:59
-84	0x54	T	30	9945919	vec	Tom el pareva tanto stufo	manu70l	2021-04-09 13:03:35	2021-04-09 13:03:35
-85	0x55	U	1	3772539	vec	Un, dó, tre, quatro, zsinque, sie, sete, oto, nóve, diéxe.	\N	2015-01-16 18:49:03	2019-04-16 10:52:05
-86	0x56	V	8	9946252	vec	Valtri gavì scrivesto el raporto.	manu70l	2021-04-09 15:26:07	2021-04-09 15:26:07
-88	0x58	X	1	8082357	vec	Xe morto Tom.	stefanocesme	2019-07-29 19:40:33	2019-07-29 19:40:33
+32	0x20	 	1309	9946203	vec	Semo finie ridéndoghe-sora	manu70l	2021-04-09 15:14:54	2021-04-09 15:14:54
+33	0x21	!	8	12341230	vec	Te sì na sarpente!	VPZ	2024-02-26 14:22:28	2024-02-26 14:22:28
+34	0x22	"	8	12341834	vec	"De che naçionałità łe jera łe só sorełe?" "Łètona."	VPZ	2024-02-26 20:42:50	2024-02-26 20:42:50
+39	0x27	'	25	9946016	vec	El tegnarà l'infasadura par sìncue stimane	manu70l	2021-04-09 13:33:06	2021-04-09 13:33:06
+44	0x2c	,	40	7918613	vec	On, do, tri, cuatro, sinque, sié, sete, oto, nóve, diéxe.	\N	2019-05-18 11:34:29	2020-02-17 09:41:13
+45	0x2d	-	5	9945926	vec	A Go pena instałà un ajornamento stra-inportante	manu70l	2021-04-09 13:05:18	2021-04-09 13:05:18
+46	0x2e	.	174	12340899	vec	Ła xe svéja.	VPZ	2024-02-26 12:56:41	2024-02-26 12:56:41
+63	0x3f	?	66	12340195	vec	Sìto drìo sentir cuel che son drìo dir?	VPZ	2024-02-25 23:57:27	2024-02-25 23:57:27
+65	0x41	A	10	9945918	vec	A So' drio devegner vècio	manu70l	2021-04-09 13:03:14	2021-04-09 13:03:14
+66	0x42	B	10	9946029	vec	Ne pùłito portar al British Museum?	manu70l	2021-04-09 13:37:27	2021-04-09 13:37:27
+67	0x43	C	23	9945940	vec	"De che nasionałità zèrełe łe so Zie?" "Canadezi."	manu70l	2021-04-09 13:10:35	2021-04-09 13:10:45
+68	0x44	D	10	9945964	vec	Dazighe i nostri conpliminti al shef.	manu70l	2021-04-09 13:18:20	2021-04-09 13:18:20
+69	0x45	E	42	12341030	vec	El pare de'l Tom el se ciama Jean.	VPZ	2024-02-26 13:19:18	2024-02-26 13:19:23
+71	0x47	G	19	9946021	vec	Ghe ze na cołina picenina arente del mar.	manu70l	2021-04-09 13:35:22	2021-04-09 13:35:22
+73	0x49	I	4	9945984	vec	Intrà łe sìmie ła capasità de comunegar ła ze stupefazente.	manu70l	2021-04-09 13:24:12	2021-04-09 13:24:12
+74	0x4a	J	1	12341030	vec	El pare de'l Tom el se ciama Jean.	VPZ	2024-02-26 13:19:18	2024-02-26 13:19:23
+75	0x4b	K	2	4267520	vec	El Burj Khalifa desso xe el pì alto gratasielo del mondo.	Balamax	2015-06-11 13:15:54	2016-03-16 21:09:37
+76	0x4c	L	11	9946244	vec	La ze pena vegnesta fora dal coma.	manu70l	2021-04-09 15:24:19	2021-04-09 15:24:19
+77	0x4d	M	27	9945956	vec	Mi mèrito de vegner repagà.	manu70l	2021-04-09 13:15:24	2021-04-09 13:15:24
+78	0x4e	N	23	9945936	vec	No vago inparar calcosa in Ìndia	manu70l	2021-04-09 13:08:36	2021-04-09 13:08:36
+79	0x4f	O	2	7918613	vec	On, do, tri, cuatro, sinque, sié, sete, oto, nóve, diéxe.	\N	2019-05-18 11:34:29	2020-02-17 09:41:13
+80	0x50	P	9	3605777	vec	Mi me ciamo Piero.	masaragiovanni	2014-11-04 12:06:58	2015-02-04 08:39:07
+81	0x51	Q	2	3746363	vec	Quanti ani gheto?	\N	2015-01-05 06:22:20	2015-10-19 02:08:21
+83	0x53	S	35	12340813	vec	Si. Graçie.	VPZ	2024-02-26 12:32:41	2024-02-26 12:32:41
+84	0x54	T	49	8082364	vec	Tom xe morto.	stefanocesme	2019-07-29 19:44:32	2019-07-29 19:44:32
+85	0x55	U	2	3772539	vec	Un, dó, tre, quatro, zsinque, sie, sete, oto, nóve, diéxe.	\N	2015-01-16 18:49:03	2019-04-16 10:52:05
+86	0x56	V	12	9945921	vec	Vołeo che rèstee?	manu70l	2021-04-09 13:04:01	2021-04-09 13:04:01
+88	0x58	X	2	8082357	vec	Xe morto Tom.	stefanocesme	2019-07-29 19:40:33	2019-07-29 19:40:33
 90	0x5a	Z	5	9945983	vec	Ze stà tanto beło sentir sta roba cuà.	manu70l	2021-04-09 13:23:40	2021-04-09 13:23:40
-97	0x61	a	595	3605867	vec	Podaresselo indicarme n'ostaria bona par magnar?	masaragiovanni	2014-11-04 12:55:21	2014-11-04 12:55:27
-98	0x62	b	27	8079402	vec	Saria mejo che te te butassi.	stefanocesme	2019-07-27 16:35:49	2019-07-27 16:36:00
-99	0x63	c	166	9945968	vec	Daghe a lori cheło che i vołe.	manu70l	2021-04-09 13:20:05	2021-04-09 13:20:05
-100	0x64	d	135	9946180	vec	Ze sucedesto prima che rivase	manu70l	2021-04-09 15:06:15	2021-04-09 15:06:15
-101	0x65	e	562	9946223	vec	Gavio mai vedesto un sbaro stradałe?	manu70l	2021-04-09 15:19:33	2021-04-09 15:19:33
-102	0x66	f	42	9946200	vec	Valtri no gavì da saver asołutamente el parché ło go fazesto.	manu70l	2021-04-09 15:13:32	2021-04-09 15:13:32
-103	0x67	g	131	9945971	vec	Ti ghe jùtito a to mojere caza?	manu70l	2021-04-09 13:21:15	2021-04-09 13:21:15
-104	0x68	h	69	9946002	vec	No ndemo far schei in Bangladesh?	manu70l	2021-04-09 13:29:04	2021-04-09 13:29:04
-105	0x69	i	355	9946049	vec	Tom el ghea dormio fin tardi.	manu70l	2021-04-09 13:41:25	2021-04-09 13:41:25
-106	0x6a	j	17	9945950	vec	Eło el ze in pijama.	manu70l	2021-04-09 13:13:41	2021-04-09 13:13:41
+97	0x61	a	778	9946037	vec	Me fradeło el ga cronpà na màchina doparada, de consevensa no ła costava tanto.	manu70l	2021-04-09 13:39:53	2021-04-09 13:39:53
+98	0x62	b	33	9945923	vec	El se recorda el dì inte el cuało ghemo vedesto el sbaro?	manu70l	2021-04-09 13:04:37	2021-04-09 13:04:37
+99	0x63	c	221	12343802	vec	El Tom el gà dito che'l vurìa saver parche ła Mary ła gavea bixonjo de far cuesto.	VPZ	2024-02-28 00:05:41	2024-02-28 00:05:41
+100	0x64	d	162	9945985	vec	Co ti anca do ore łe ze indesmentegàbiłi.	manu70l	2021-04-09 13:24:35	2021-04-09 13:24:35
+101	0x65	e	716	12340300	vec	El Tom el xe pérgo e ło xe senpre stà.	VPZ	2024-02-26 01:01:57	2024-02-26 01:01:57
+102	0x66	f	54	12341842	vec	No xe mìa stà fàçiłe par nualtri catar caxa soa.	VPZ	2024-02-26 20:46:46	2024-02-27 13:54:55
+103	0x67	g	155	9946049	vec	Tom el ghea dormio fin tardi.	manu70l	2021-04-09 13:41:25	2021-04-09 13:41:25
+104	0x68	h	95	9946037	vec	Me fradeło el ga cronpà na màchina doparada, de consevensa no ła costava tanto.	manu70l	2021-04-09 13:39:53	2021-04-09 13:39:53
+105	0x69	i	423	9946199	vec	Cosa te tien in pie de note?	manu70l	2021-04-09 15:12:56	2021-04-09 15:12:56
+106	0x6a	j	30	9945948	vec	Lu el ze in pijama.	manu70l	2021-04-09 13:13:29	2021-04-09 13:13:29
 107	0x6b	k	1	9946051	vec	No ndè far cariera in Pakistan.	manu70l	2021-04-09 13:41:39	2021-04-09 13:41:39
-108	0x6c	l	138	9945965	vec	Me poso finalmente destirar cuà a l'onbria.	manu70l	2021-04-09 13:19:14	2021-04-09 13:19:14
-109	0x6d	m	141	9946022	vec	Come ze che se stua?	manu70l	2021-04-09 13:35:36	2021-04-09 13:35:36
-110	0x6e	n	297	9945926	vec	A Go pena instałà un ajornamento stra-inportante	manu70l	2021-04-09 13:05:18	2021-04-09 13:05:18
-111	0x6f	o	437	9946059	vec	Noialtri no semo boni de védar na steła sta note.	manu70l	2021-04-09 13:43:04	2021-04-09 13:43:04
-112	0x70	p	120	9946014	vec	Mi son pena vegnesto fora de prezon.	manu70l	2021-04-09 13:32:21	2021-04-09 13:32:21
-113	0x71	q	4	5978176	vec	Ea acqua xe vida.	\N	2017-03-26 04:02:54	0000-00-00 00:00:00
-114	0x72	r	298	9946243	vec	Ghemo pena catà-fora na magnera par vìnsar.	manu70l	2021-04-09 15:24:06	2021-04-09 15:24:06
-115	0x73	s	264	9946044	vec	Sì, sì, vegnarò co voialtri.	manu70l	2021-04-09 13:40:53	2021-04-09 13:40:53
-116	0x74	t	266	9946039	vec	Penseo veramente che Tom el podaria èsar inosente?	manu70l	2021-04-09 13:40:20	2021-04-09 13:40:20
-117	0x75	u	75	9946225	vec	Ti gheto mai vedesto un insidente stradałe?	manu70l	2021-04-09 15:20:02	2021-04-09 15:20:02
-118	0x76	v	100	9946045	vec	Sì, sì, vegnarò co vualtri.	manu70l	2021-04-09 13:40:59	2021-04-09 13:40:59
-120	0x78	x	6	7918613	vec	On, do, tri, cuatro, sinque, sié, sete, oto, nóve, diéxe.	\N	2019-05-18 11:34:29	2020-02-17 09:41:13
-121	0x79	y	3	9945929	vec	Mary ła ga za scumisià	manu70l	2021-04-09 13:06:07	2021-04-09 13:06:07
-122	0x7a	z	69	9946194	vec	Tom el ga fazesto a Mary na ociada de jaso.	manu70l	2021-04-09 15:10:50	2021-04-09 15:10:50
+108	0x6c	l	196	9946033	vec	Tom el ze stravacà sol divan che el ze drio vardar ła TV.	manu70l	2021-04-09 13:38:33	2021-04-09 13:38:33
+109	0x6d	m	202	9946039	vec	Penseo veramente che Tom el podaria èsar inosente?	manu70l	2021-04-09 13:40:20	2021-04-09 13:40:20
+110	0x6e	n	372	9945984	vec	Intrà łe sìmie ła capasità de comunegar ła ze stupefazente.	manu70l	2021-04-09 13:24:12	2021-04-09 13:24:12
+111	0x6f	o	571	9946033	vec	Tom el ze stravacà sol divan che el ze drio vardar ła TV.	manu70l	2021-04-09 13:38:33	2021-04-09 13:38:33
+112	0x70	p	159	9946197	vec	Kel el ga spartio ła càmara col so fradeło pì grando.	manu70l	2021-04-09 15:12:03	2021-04-09 15:12:03
+113	0x71	q	4	3772539	vec	Un, dó, tre, quatro, zsinque, sie, sete, oto, nóve, diéxe.	\N	2015-01-16 18:49:03	2019-04-16 10:52:05
+114	0x72	r	392	9946062	vec	De frecuente i curriculum cartàsei i vien descartai o ignorai.	manu70l	2021-04-09 13:44:03	2021-04-09 13:44:03
+115	0x73	s	326	9946229	vec	El siòparo el ga fazesto problemi a l'economia nasionałe.	manu70l	2021-04-09 15:21:08	2021-04-09 15:21:08
+116	0x74	t	331	9945992	vec	El ga vivesto na vita inpegnada.	manu70l	2021-04-09 13:26:41	2021-04-09 13:26:41
+117	0x75	u	98	5857179	vec	Te pol mia averghe ovo galina e cul caldo.	dnnywld	2017-02-12 11:44:30	2017-02-12 11:44:30
+118	0x76	v	125	9946250	vec	Ti gheto scrivesto el raporto?	manu70l	2021-04-09 15:25:26	2021-04-09 15:25:26
+120	0x78	x	35	12343799	vec	I oxełi fora i xe drìo cantar.	VPZ	2024-02-28 00:00:57	2024-02-28 00:00:57
+121	0x79	y	4	9945929	vec	Mary ła ga za scumisià	manu70l	2021-04-09 13:06:07	2021-04-09 13:06:07
+122	0x7a	z	69	9945984	vec	Intrà łe sìmie ła capasità de comunegar ła ze stupefazente.	manu70l	2021-04-09 13:24:12	2021-04-09 13:24:12
 204	0xcc	Ì	1	9945936	vec	No vago inparar calcosa in Ìndia	manu70l	2021-04-09 13:08:36	2021-04-09 13:08:36
-224	0xe0	à	70	9945960	vec	Me àuguro che no łe vegna deportae.	manu70l	2021-04-09 13:16:47	2021-04-09 13:16:47
-232	0xe8	è	16	9946039	vec	Penseo veramente che Tom el podaria èsar inosente?	manu70l	2021-04-09 13:40:20	2021-04-09 13:40:20
-233	0xe9	é	11	9946203	vec	Semo finie ridéndoghe-sora	manu70l	2021-04-09 15:14:54	2021-04-09 15:14:54
-236	0xec	ì	25	9946044	vec	Sì, sì, vegnarò co voialtri.	manu70l	2021-04-09 13:40:53	2021-04-09 13:40:53
-242	0xf2	ò	10	9945974	vec	E cosa pénsito de resòlvar cusita?	manu70l	2021-04-09 13:21:35	2021-04-09 13:21:35
-243	0xf3	ó	4	7918613	vec	On, do, tri, cuatro, sinque, sié, sete, oto, nóve, diéxe.	\N	2019-05-18 11:34:29	2020-02-17 09:41:13
-249	0xf9	ù	12	9946030	vec	So' seguro de ver el nùmaro justo.	manu70l	2021-04-09 13:37:41	2021-04-09 13:37:41
+224	0xe0	à	95	12341797	vec	El Tom el ndrà a Boston dimàn.	VPZ	2024-02-26 20:27:11	2024-02-26 20:27:11
+231	0xe7	ç	7	12341842	vec	No xe mìa stà fàçiłe par nualtri catar caxa soa.	VPZ	2024-02-26 20:46:46	2024-02-27 13:54:55
+232	0xe8	è	22	9946228	vec	Go catà i me amighi al cafè.	manu70l	2021-04-09 15:20:42	2021-04-09 15:20:42
+233	0xe9	é	25	12341166	vec	No manjo mìa pése.	VPZ	2024-02-26 13:51:07	2024-02-26 13:51:07
+236	0xec	ì	49	12340314	vec	No so mìa parche el mé amigo el vołe che spetemo.	VPZ	2024-02-26 01:33:54	2024-02-26 01:33:54
+242	0xf2	ò	12	9945979	vec	Pòsoi portarli?	manu70l	2021-04-09 13:22:20	2021-04-09 13:22:30
+243	0xf3	ó	17	12341015	vec	No son mìa un tóxo. Son na tóxa.	VPZ	2024-02-26 13:16:35	2024-02-26 13:16:35
+249	0xf9	ù	13	3605875	vec	El xè pena vegnù zo da le scale.	masaragiovanni	2014-11-04 12:59:09	2014-11-04 13:01:34
 304	0x130	İ	1	8080814	vec	İmprestame on pochi de schei.	stefanocesme	2019-07-28 15:21:20	2019-07-28 15:21:20
-321	0x141	Ł	3	9946001	vec	Ła ze pì dura de ła ghiza!	manu70l	2021-04-09 13:28:48	2021-04-09 13:28:48
-322	0x142	ł	107	9945940	vec	"De che nasionałità zèrełe łe so Zie?" "Canadezi."	manu70l	2021-04-09 13:10:35	2021-04-09 13:10:45
+321	0x141	Ł	8	12341834	vec	"De che naçionałità łe jera łe só sorełe?" "Łètona."	VPZ	2024-02-26 20:42:50	2024-02-26 20:42:50
+322	0x142	ł	147	9946226	vec	ła se ga marzenałizà eła soła.	manu70l	2021-04-09 15:20:21	2021-04-09 15:20:21

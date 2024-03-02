@@ -1,105 +1,105 @@
-32	0x20	 	70280	10969610	isl	Hvaða ávöxt ætti ég að kaupa?	Leppur	2022-07-07 04:03:05	2022-07-07 04:03:05
-33	0x21	!	385	831732	isl	Hættu að berja á dyrnar!	Swift	2011-04-10 02:06:34	2011-04-10 02:06:34
-34	0x22	"	18	3795299	isl	Hættu að líta á mig sem "venjulega" manneskju!	arnarsmata	2015-01-25 06:43:12	2015-01-25 06:43:12
-39	0x27	'	5	1316183	isl	I'll pick her up.	Swift	2011-12-23 08:20:41	2011-12-23 08:20:41
+32	0x20	 	70334	683930	isl	Í gær var Þorláksmessa, í dag er aðfangadagskvöld og á morgun er jóladagur.	Swift	2010-12-24 04:54:41	2010-12-24 04:54:41
+33	0x21	!	386	487102	isl	Þessi gaur er algerlega ruglaður!	Swift	2010-08-29 23:44:04	2010-08-29 23:44:04
+34	0x22	"	18	4171599	isl	"Af hverju getur þú ekki verið líkari mér?" "Ég vil ekki vera eins og þú!"	lifind	2015-05-10 20:20:48	2015-05-10 20:20:48
+39	0x27	'	5	3795732	isl	Er kvefið Tom's að skána?	arnarsmata	2015-01-25 09:20:04	2015-01-25 09:20:04
 40	0x28	(	1	490593	isl	Föllin sínus og kósínus taka gildi á milli -1 og 1 (-1 og 1 meðtalin).	Swift	2010-08-31 17:02:21	2011-04-18 12:39:07
 41	0x29	)	1	490593	isl	Föllin sínus og kósínus taka gildi á milli -1 og 1 (-1 og 1 meðtalin).	Swift	2010-08-31 17:02:21	2011-04-18 12:39:07
-44	0x2c	,	614	733206	isl	Mig langaði til að kaupa bókina, en ég komst að því að ég var með minna en 200 jen á mér.	Swift	2011-01-30 06:19:51	2011-01-30 06:19:51
-45	0x2d	-	28	490593	isl	Föllin sínus og kósínus taka gildi á milli -1 og 1 (-1 og 1 meðtalin).	Swift	2010-08-31 17:02:21	2011-04-18 12:39:07
-46	0x2e	.	11290	670250	isl	Það vantar ekkert.	Swift	2010-12-17 01:30:51	2010-12-17 01:30:51
+44	0x2c	,	614	674584	isl	Við höfum lá laun, en við komumst af.	Swift	2010-12-19 15:47:22	2010-12-19 15:47:22
+45	0x2d	-	28	482952	isl	Á Nýja-Sjálandi er töluð enska.	Swift	2010-08-27 18:43:29	2010-08-27 18:43:29
+46	0x2e	.	11304	733187	isl	Það eimir enn eftir af þessari hjátrú meðal þeirra.	Swift	2011-01-30 06:00:22	2011-01-30 06:00:22
 47	0x2f	/	1	734655	isl	Innan borgarmarka er hámarkshraðinn 50 km/klst.	Swift	2011-01-31 12:01:46	2011-01-31 12:01:58
-48	0x30	0	66	832871	isl	Ég á u.þ.b. 5000 jen.	Swift	2011-04-10 18:13:55	2011-04-10 18:14:01
-49	0x31	1	46	10674012	isl	Þann 13. febrúar get ég sagt að ég sé 35 ára.	nipbud	2022-02-14 16:35:01	2022-02-14 16:35:01
-50	0x32	2	24	1318368	isl	Hvað með 12:45?	Swift	2011-12-23 23:23:29	2011-12-23 23:23:29
-51	0x33	3	16	488340	isl	Gögnin benda til kynna að hagkvæmasta lengd fyrirlestur kann að vera 30 mínútur í stað 60.	Swift	2010-08-30 16:18:59	2010-08-30 16:18:59
-52	0x34	4	10	664725	isl	Kristófer Kólumbus uppgötvaði Ameríku árið 1492.	Swift	2010-12-13 13:05:26	2010-12-13 13:05:26
-53	0x35	5	12	1355104	isl	Lincoln dó árið 1865.	Swift	2012-01-11 23:09:37	2012-01-11 23:09:37
-54	0x36	6	8	908350	isl	Enska stafrófið hefur 26 bókstafi.	Swift	2011-05-25 13:54:01	2011-05-25 13:54:01
-55	0x37	7	5	870364	isl	Borgin var stofnuð árið 573.	Swift	\N	\N
+48	0x30	0	66	4020711	isl	Það búa um það bil 320.000 manns á Íslandi. Reykjavík er höfuðborg Íslands.	Bergthor	2015-04-01 16:18:40	2015-04-01 16:18:40
+49	0x31	1	46	836194	isl	Íhaldsflokkurinn vann kosningarnar árið 1992.	Swift	2011-04-12 22:36:42	2011-04-12 22:36:42
+50	0x32	2	24	538373	isl	Esperantó er skrifað hljóðrænt með 28 bókstafa stafrófi.	Swift	2010-09-29 12:01:44	2010-09-29 12:01:44
+51	0x33	3	16	906617	isl	Ég hata svokölluð „30 daga“ tungumálanámskeið.	Swift	2011-05-24 15:58:02	2011-05-24 15:58:02
+52	0x34	4	10	940441	isl	Sem prakkarastrik slepptu nokkrir nemendur þremur geitum lausum í skólanum þeirra eftir að hafa málað tölurnar 1, 2 og 4 á hliðar geitanna. Kennararnir eyddu stærstum hluta dagsins í að leita að geit númer 3.	Swift	2011-06-16 03:36:55	2011-11-05 18:39:15
+53	0x35	5	12	734655	isl	Innan borgarmarka er hámarkshraðinn 50 km/klst.	Swift	2011-01-31 12:01:46	2011-01-31 12:01:58
+54	0x36	6	8	3994456	isl	Það var gefið út árið 1969.	Bergthor	2015-03-27 18:19:42	2015-03-27 18:19:42
+55	0x37	7	5	882613	isl	Blússöngvarinn og gítarleikarinn Robert Johnson hefði orðið hundrað ára gamall 8. maí 2011 hefði hann ekki dáið 27 ára gamall.	Swift	\N	\N
 56	0x38	8	19	489066	isl	Setning númer 888.888 mun færa eiganda sínum áralanga heppni.	Swift	2010-08-31 01:56:41	2010-08-31 01:56:41
-57	0x39	9	19	473427	isl	Það var árið 1912 sem Titanic sökk á jómfrúarferð sinni.	Swift	2010-08-20 22:24:30	2010-08-20 22:24:30
-58	0x3a	:	32	477945	isl	Hún sagði: „Ég er mjög sátt.“	Swift	2010-08-24 15:50:56	2010-08-24 15:50:56
-59	0x3b	;	29	725632	isl	Hvort er fljótlegra; leigubíll eða neðanjarðarlestin?	Swift	2011-01-24 23:00:40	2011-01-24 23:00:40
-63	0x3f	?	2005	389329	isl	Kanntu á skauta?	Swift	2010-05-15 21:45:19	2010-05-15 21:45:19
-65	0x41	A	412	868683	isl	Af hverju slepptirðu fyrstu spurningunni á prófinu?	Swift	\N	\N
-66	0x42	B	374	790132	isl	Bill er besti vinur minn.	Swift	2011-03-12 16:34:44	2011-03-12 16:34:44
-67	0x43	C	22	733985	isl	Það var óvenjulegt að Chris hegðaði sér svo gróflega.	Swift	2011-01-30 20:16:33	2011-01-30 20:16:33
-68	0x44	D	125	10534275	isl	Djöfullin!	nipbud	2021-11-28 17:14:05	2021-11-28 17:14:05
-69	0x45	E	803	11450556	isl	Er klukkan bara hálf níu?	nipbud	2023-01-10 13:48:15	2023-01-10 13:48:15
-70	0x46	F	405	742163	isl	John er frá Flórída og konan hans frá Kaliforníu.	Swift	2011-02-05 00:55:33	2011-02-05 00:55:33
-71	0x47	G	338	388897	isl	Gætirðu vinsamlegast talað aðeins hægar?	Swift	2010-05-14 15:11:15	2010-05-14 15:11:15
-72	0x48	H	2877	738255	isl	Hver tekur við af Cynthiu þegar hún fer á eftirlaun.	Swift	2011-02-02 17:42:37	2011-02-02 17:42:37
-73	0x49	I	20	734655	isl	Innan borgarmarka er hámarkshraðinn 50 km/klst.	Swift	2011-01-31 12:01:46	2011-01-31 12:01:58
-74	0x4a	J	431	742996	isl	Amma Jóns lést eftir langvinn veikindi.	Swift	2011-02-05 16:21:52	2011-02-05 16:21:52
-75	0x4b	K	339	387991	isl	Kvenfólkið í þessum bæ mun vilja blóm til að setja í húsin sín.	Swift	2010-05-11 09:56:35	2010-05-11 09:56:35
-76	0x4c	L	255	473058	isl	Forðum okkur. Löggan er að koma.	Swift	2010-08-20 18:20:16	2010-08-20 18:20:16
-77	0x4d	M	578	468891	isl	Er Mike hættur að drekka?	Swift	2010-08-18 15:10:45	2010-08-18 15:10:45
-78	0x4e	N	153	384626	isl	Næringarríkur jarðvegur er ómissandi fyrir góða uppskeru.	Swift	2010-04-30 23:16:27	2010-04-30 23:16:27
-79	0x4f	O	59	384570	isl	Okkur bauð við skítugu diskunum á veitingastaðnum.	Swift	2010-04-30 22:22:44	2010-04-30 22:22:44
-80	0x50	P	108	3799262	isl	Passaðu þig á Tom.	arnarsmata	2015-01-26 04:21:43	2015-01-26 04:21:43
-81	0x51	Q	3	669471	isl	Quintilius Varus, skilaðu hersveitum mínum!	Swift	2010-12-16 16:43:05	2010-12-16 16:43:05
-82	0x52	R	149	10695567	isl	Röðin var löng.	nipbud	2022-02-28 00:13:43	2022-02-28 00:13:43
-83	0x53	S	642	873711	isl	Sýndu mér það á kortinu.	Swift	\N	\N
-84	0x54	T	581	3799226	isl	Tom er prestur.	arnarsmata	2015-01-26 04:08:13	2015-01-26 04:08:13
-85	0x55	U	32	674571	isl	Umhverfið hefur áhrif á persónuleika okkar.	Swift	2010-12-19 15:41:50	2010-12-19 15:41:50
-86	0x56	V	939	723357	isl	Við mamma vorum í garðinum.	Swift	2011-01-23 18:50:05	2011-01-23 18:50:05
-87	0x57	W	11	669221	isl	Orð ársins í Danmörku eru „öskuský“, „Jaðardanmörk“, „vuvuzela“ og „WikiLeaks“.	Swift	2010-12-16 15:24:37	2010-12-16 15:24:37
-89	0x59	Y	16	388003	isl	Herra Yamada var svo góður að keyra mig heim.	Swift	2010-05-11 10:05:29	2010-05-11 10:05:29
+57	0x39	9	19	836194	isl	Íhaldsflokkurinn vann kosningarnar árið 1992.	Swift	2011-04-12 22:36:42	2011-04-12 22:36:42
+58	0x3a	:	32	670469	isl	Því meiri ostur, því fleiri holur. Því fleiri holur, því minni ostur. Þar af leiðir: Því meiri ostur, því minni ostur.	Swift	2010-12-17 04:48:13	2010-12-17 04:48:13
+59	0x3b	;	29	478971	isl	Fræðilega er enginn munur á fræðum og raunveruleikanum; en í raunveruleikanum er hann til staðar.	Swift	2010-08-25 13:16:15	2010-08-25 13:16:15
+63	0x3f	?	2006	670266	isl	Finnst þér hún aðlaðandi?	Swift	2010-12-17 01:38:04	2010-12-17 01:38:04
+65	0x41	A	412	10634001	isl	Aldur er ekkert nema bara aðeins tala.	nipbud	2022-01-21 16:15:09	2022-01-21 16:15:09
+66	0x42	B	375	870356	isl	Þar á eftir fórum við til Betlehem til að sjá stytturnar.	Swift	\N	\N
+67	0x43	C	22	5820370	isl	Hversu lengi er Karlo búinn að eiga Chevrolet?	EvaFranska	2017-02-02 10:15:58	2017-02-02 10:15:58
+68	0x44	D	125	10883587	isl	Djöfull góð saga.	nipbud	2022-06-02 20:30:42	2022-06-02 20:30:42
+69	0x45	E	803	3795776	isl	Ekki gleyma því.	arnarsmata	2015-01-25 09:26:13	2015-01-25 09:26:13
+70	0x46	F	406	4007782	isl	Farðu í bað.	Bergthor	2015-03-31 14:54:29	2015-03-31 14:54:29
+71	0x47	G	338	3838981	isl	Góða kvöldið.	arnarsmata	2015-02-03 21:22:08	2015-02-03 21:22:08
+72	0x48	H	2878	385558	isl	Hvernig er pappírinn viðkomu?	Swift	2010-05-04 01:18:06	2010-05-04 01:18:06
+73	0x49	I	20	387288	isl	Talandi um herra Ito, hvað varð af syni hans?	Swift	2010-05-08 20:20:44	2010-05-08 20:20:44
+74	0x4a	J	432	475238	isl	Jæja, nú þarf ég að fara.	Swift	2010-08-22 14:19:28	2010-08-22 14:19:28
+75	0x4b	K	339	473517	isl	Vinkona mín er að læra Kóresku.	Swift	2010-08-20 23:30:45	2010-08-20 23:30:45
+76	0x4c	L	255	11639704	isl	Lögreglan er hér.	nipbud	2023-03-30 17:41:53	2023-03-30 17:41:53
+77	0x4d	M	578	384714	isl	Mér líka japanskur matur og siðir svo það fylgir að mér líkar að búa í Japan.	Swift	2010-05-01 01:11:32	2010-05-01 01:11:32
+78	0x4e	N	154	686727	isl	Nei, það er ekki spjallrás.	Pharamp	2010-12-26 18:29:06	2010-12-26 18:29:06
+79	0x4f	O	59	11032084	isl	Og að lokum skildi ég ekki hvort te er hollt eða ekki.	nipbud	2022-07-29 16:14:56	2022-07-29 16:14:56
+80	0x50	P	108	10368181	isl	Punktinum vantast.	nipbud	2021-10-17 13:05:18	2021-10-17 13:05:18
+81	0x51	Q	3	669469	isl	Quintilius Varus, gef mér hersveitir mínar aftur!	Swift	2010-12-16 16:42:11	2010-12-16 16:42:11
+82	0x52	R	149	1979411	isl	Réttu upp hönd.	volhardt	2012-11-03 19:36:58	2012-11-03 19:36:58
+83	0x53	S	642	10716724	isl	Nú talaði Jesús aftur til þeirra og sagði: „Ég er ljós heimsins. Sá sem fylgir mér mun ekki ganga í myrkri heldur hafa ljós lífsins.“	User103370	2022-03-13 14:13:12	2022-03-13 14:13:12
+84	0x54	T	585	837451	isl	Velkomin á Tatoeba.	Swift	2011-04-14 03:04:01	2011-04-14 03:04:01
+85	0x55	U	32	473502	isl	Um hvern ertu að tala?	Swift	2010-08-20 23:22:12	2010-08-20 23:22:12
+86	0x56	V	939	10702489	isl	Við fæddumst sama dag.	nipbud	2022-03-04 16:41:06	2022-03-04 16:41:06
+87	0x57	W	11	477973	isl	Höfuðstaður Bandaríkjanna er Washington.	Swift	2010-08-24 15:59:32	2010-08-24 15:59:42
+89	0x59	Y	16	466201	isl	Þetta hús tilheyrir herra Yamada.	Swift	2010-08-17 15:28:33	2010-08-17 15:28:33
 90	0x5a	Z	1	11837092	isl	Ziri skrifaði undir samninginn.	Amastan	2023-06-11 06:33:27	2023-06-11 06:33:27
 91	0x5b	[	1	482855	isl	Sendu okkur ítarlega ferilskrá á [tölvupóstfang].	Swift	2010-08-27 16:57:45	2010-08-27 16:57:45
 93	0x5d	]	1	482855	isl	Sendu okkur ítarlega ferilskrá á [tölvupóstfang].	Swift	2010-08-27 16:57:45	2010-08-27 16:57:45
-97	0x61	a	36369	386316	isl	Nákvæmlega!	Swift	2010-05-06 18:43:38	2010-05-06 18:43:38
-98	0x62	b	3272	10691590	isl	Áttu börn?	nipbud	2022-02-25 21:37:59	2022-02-25 21:37:59
-99	0x63	c	64	3994575	isl	Facebook er leiðinlegt.	Bergthor	2015-03-27 18:48:38	2015-03-27 18:48:38
-100	0x64	d	4858	728351	isl	Handklæðið breytti engu.	Swift	2011-01-26 17:06:00	2011-01-26 17:06:00
-101	0x65	e	24131	10305575	isl	Þessi þýðing er betri en þessi.	nipbud	2021-09-19 20:25:59	2021-09-19 20:25:59
-102	0x66	f	9062	1319432	isl	Opnaðu flöskuna.	Swift	2011-12-24 17:00:18	2011-12-24 17:00:18
-103	0x67	g	15290	10969599	isl	Ég held það sem Tom sagði er rangt.	Leppur	2022-07-07 02:46:06	2022-07-07 02:46:06
-104	0x68	h	7376	4514920	isl	Margar húsmæður kvarta yfir háum verðum.	lifind	2015-09-10 22:51:53	2015-09-10 22:51:53
-105	0x69	i	27600	431701	isl	Dauðanum er oft líkt við svefn.	andrioid	2010-07-20 15:25:19	2010-07-20 15:25:19
-106	0x6a	j	3596	515575	isl	Ertu japanskur?	Swift	2010-09-16 14:24:37	2010-09-16 14:24:37
-107	0x6b	k	13965	386142	isl	Hann sat við lestur með eiginkonu sína prjónandi hanskapar við hlið sér.	Swift	2010-05-05 18:00:31	2010-05-05 18:27:28
-108	0x6c	l	14660	657261	isl	Ég er glorhungruð.	Swift	2010-12-09 00:32:36	2010-12-09 00:32:36
-109	0x6d	m	12560	1356526	isl	Hringdu í mig á skrifstofuna.	Swift	2012-01-12 13:25:49	2012-01-12 13:25:49
-110	0x6e	n	29745	669477	isl	Ég á vin hvers faðir er kennari.	Swift	2010-12-16 16:45:37	2010-12-16 16:45:37
-111	0x6f	o	5693	3795678	isl	Tom var berfættur.	arnarsmata	2015-01-25 08:56:49	2015-01-25 08:56:49
-112	0x70	p	2596	386189	isl	Þeir kváðu hann hafa drepið hana.	Swift	2010-05-05 20:01:06	2010-05-05 20:05:20
-114	0x72	r	32118	482984	isl	Messing er málmblanda úr kopar og sink.	Swift	2010-08-27 18:56:21	2010-08-27 18:56:21
-115	0x73	s	15279	882620	isl	Hvað varstu að gera klukkan níu í gærkveldi?	Swift	\N	\N
-116	0x74	t	19061	5484421	isl	Þetta er mjög hjartnæm saga.	ThorTheTutor	2016-10-01 14:31:02	2016-10-01 14:31:02
-117	0x75	u	17793	743250	isl	Hvers vegna ertu svona döpur?	Pharamp	2011-02-05 18:37:11	2011-02-06 22:38:29
-118	0x76	v	8575	488115	isl	Ég komst að því að ég get ekki fundið upp á áhugaverðum setningum um kjarnorkuvopn.	Swift	2010-08-30 14:58:06	2010-08-30 14:58:06
-119	0x77	w	31	387314	isl	Ég ætla að eyða vikunni í Kanazawa.	Swift	2010-05-08 21:15:27	2010-05-08 21:15:27
-120	0x78	x	159	383453	isl	Jörðin er um sex sinnum stærri en tunglið.	Swift	2010-04-28 13:00:12	2010-04-28 13:00:12
-121	0x79	y	3152	384604	isl	Mér þótti myndin rómantísk.	Swift	2010-04-30 22:46:30	2010-04-30 22:46:30
-122	0x7a	z	14	382310	isl	Kozue fannst fyrirlestur kennarans vera daufur, leiðinlegur og endalaus.	Swift	2010-04-25 17:38:41	2010-04-25 17:44:24
-160	0xa0	 	12	850346	isl	Ég veit hvar hún er.	Mauritz	2011-04-23 14:35:57	2011-04-23 14:36:31
-193	0xc1	Á	143	386465	isl	Áhöfnin er upptekin við undirbúning fyrir ferðina út í geiminn.	Swift	2010-05-06 22:54:02	2010-05-06 22:54:02
-198	0xc6	Æ	23	874131	isl	Ætli við getum lent í vandamálum gagnvart fyrirtækinu?	Swift	\N	\N
-201	0xc9	É	2321	491478	isl	Ég kann vel við Tom vegna þess að hann er heiðarlegur.	Swift	2010-09-01 02:23:33	2010-09-01 02:23:33
-205	0xcd	Í	174	489674	isl	Í dag á ég sextán ára afmæli.	Swift	2010-08-31 12:44:51	2010-08-31 12:44:51
+97	0x61	a	36389	10681537	isl	Þetta er ekki í rauninni hvað ég vildi segja.	nipbud	2022-02-19 19:09:13	2022-02-19 19:09:13
+98	0x62	b	3274	583566	isl	Farðu í burtu.	Swift	2010-10-24 16:38:51	2010-10-24 16:38:51
+99	0x63	c	64	746606	isl	John ætlar að segja Lucy frá uppruna ruðnings.	Swift	2011-02-08 02:55:05	2011-02-08 02:55:05
+100	0x64	d	4863	382340	isl	Hvar ætlar þú að fá þér hádegismat í dag?	Swift	2010-04-25 18:32:00	2010-04-25 18:32:00
+101	0x65	e	24154	734455	isl	Ef þú heldur áfram að drekka eins og þú ert að gera verðurðu veikur.	Swift	2011-01-31 05:53:06	2011-01-31 05:53:25
+102	0x66	f	9071	4032199	isl	Farðu til fjandans!	Bergthor	2015-04-04 06:03:10	2015-04-04 06:03:10
+103	0x67	g	15302	468949	isl	Hann hugsar ekki um neitt nema sjálfan sig.	Swift	2010-08-18 15:15:50	2010-08-18 15:15:50
+104	0x68	h	7381	888294	isl	Hún á að hafa drepið hann.	Swift	2011-05-12 12:14:19	2011-05-12 12:14:19
+105	0x69	i	27621	623016	isl	Læknirinn lagði áherslu á að sjúklingurinn ætti einungis fáeina daga ólifaða.	Swift	2010-11-16 14:25:51	2010-11-16 14:25:51
+106	0x6a	j	3598	673621	isl	Ég fer í vinnu á hverjum degi.	Swift	2010-12-18 22:33:41	2010-12-18 22:33:41
+107	0x6b	k	13978	495587	isl	Það er ekki hægt að vera of varkár þegar maður er að keyra.	Swift	2010-09-03 00:21:28	2010-09-03 00:21:28
+108	0x6c	l	14672	466020	isl	Við verðum að framkvæma nákvæma greiningu á slysinu.	Swift	2010-08-17 14:34:53	2010-08-17 14:34:53
+109	0x6d	m	12570	3997436	isl	Gleymdu fortíðinni, lifðu í nútíðinni, hugsaðu um framtíðina.	Bergthor	2015-03-28 16:52:38	2015-03-28 16:52:38
+110	0x6e	n	29766	674600	isl	Nýi enskukennarinn okkar er nýbúinn með háskólann.	Swift	2010-12-19 15:56:04	2010-12-19 15:56:04
+111	0x6f	o	5702	3799349	isl	Lyklarnir mínir eru horfnir.	arnarsmata	2015-01-26 05:12:42	2015-01-26 05:12:42
+112	0x70	p	2601	387218	isl	Deildarstjórinn setur alltaf upp einhvern svip þegar ég bið hann um eitthvað.	Swift	2010-05-08 15:54:09	2010-05-08 15:54:09
+114	0x72	r	32150	10615980	isl	Það er asnaleg regla.	nipbud	2022-01-09 21:14:22	2022-01-09 21:14:22
+115	0x73	s	15292	3795802	isl	Hér er skemmtileg staðreynd.	arnarsmata	2015-01-25 09:29:34	2015-01-25 09:29:34
+116	0x74	t	19077	909473	isl	Lögin eru eins og köngulóarvefir sem kunna að fanga litlar flugur en vespur og geitungar sleppa gegnum.	Swift	2011-05-26 02:03:51	2011-05-26 02:03:51
+117	0x75	u	17804	385665	isl	Við ættum að halda hverjum skóla opnum og hverjum kennara í sinni vinnu.	Swift	2010-05-04 17:19:05	2010-05-04 17:19:05
+118	0x76	v	8578	385766	isl	Mér þótti það auðvelt að nota tölvuna.	Swift	2010-05-04 18:48:48	2010-05-04 18:48:48
+119	0x77	w	31	785222	isl	Hr. Brown er faðir hennar.	Swift	2011-03-08 22:15:21	2011-03-08 22:15:21
+120	0x78	x	159	742759	isl	John er prófessor í frönskum bókmenntum við Oxford og konan hans er frönsk.	Swift	2011-02-05 12:09:35	2011-02-05 12:09:35
+121	0x79	y	3154	384111	isl	Hafðu ekki áhyggjur af því.	Swift	2010-04-30 03:37:30	2010-04-30 03:37:30
+122	0x7a	z	14	431707	isl	Margir Ameríkanar hafa áhuga á jazz.	andrioid	2010-07-20 15:27:23	2010-07-20 15:27:36
+160	0xa0	 	12	852811	isl	Ég er ekki í skapi til að læra náttúrufræði.	Pharamp	2011-04-25 15:08:55	2011-04-26 15:13:18
+193	0xc1	Á	143	570355	isl	Áttu nokkur ódýrari herbergi?	Swift	2010-10-17 16:41:15	2010-10-17 16:41:15
+198	0xc6	Æ	23	450323	isl	Ætlarðu að fara eitthvert í sumar?	Swift	2010-08-03 06:40:29	2010-08-03 06:40:29
+201	0xc9	É	2328	10545253	isl	Ég er sjúklingur.	nipbud	2021-12-04 23:04:42	2021-12-04 23:04:42
+205	0xcd	Í	174	503344	isl	Í hvaða félagi ertu?	Swift	2010-09-07 18:15:42	2010-09-07 18:15:42
 211	0xd3	Ó	27	465352	isl	Ó, svo þannig mjólkar maður kýr?	Swift	2010-08-16 20:26:11	2010-08-16 20:26:11
-214	0xd6	Ö	28	386113	isl	Ölstofa er vinsæll samkomustaður þar sem drukkinn er bjór.	Swift	2010-05-05 16:50:17	2010-05-05 16:50:17
-218	0xda	Ú	39	10892811	isl	Kænugarður er höfuðborg Úkraínu.	nipbud	2022-06-06 14:26:47	2022-06-06 14:26:47
-222	0xde	Þ	2429	864227	isl	Það eru tveir uppvakningar í húsinu mínu.	Swift	2011-04-28 21:32:13	2011-04-28 21:32:13
-225	0xe1	á	5392	675558	isl	Hann elskar þá.	Swift	2010-12-20 06:28:25	2010-12-20 06:28:25
-230	0xe6	æ	3010	870893	isl	Ég virkilega naut samræðunnar sem við áttum um stjórnmál.	Swift	\N	\N
-233	0xe9	é	2999	690308	isl	Skórnir þínir eru hér.	Swift	2010-12-29 04:20:13	2010-12-29 04:20:13
-237	0xed	í	5322	738958	isl	Ég vil æfa mig í að skrifa á íslensku.	Pharamp	2011-02-02 22:06:20	2011-02-02 23:21:37
-240	0xf0	ð	17499	1312237	isl	Skurðurinn tengir Atlantshafið við Kyrrahafið.	Swift	2011-12-21 19:24:52	2011-12-21 19:24:59
-243	0xf3	ó	3192	540928	isl	Ég á tvo syni; annar er í Tókýó og hinn í Nagoía.	Swift	2010-10-01 10:31:30	2010-10-01 10:31:30
-246	0xf6	ö	2505	508647	isl	Þú verður að vera á stöðinni fyrir klukkan fimm.	Swift	2010-09-11 22:49:44	2010-09-11 22:49:44
+214	0xd6	Ö	28	4171551	isl	Öllum var sama um þig.	lifind	2015-05-10 20:12:13	2015-05-10 20:12:13
+218	0xda	Ú	39	538363	isl	Úrið mitt er rétt.	Swift	2010-09-29 11:55:38	2010-09-29 11:55:38
+222	0xde	Þ	2433	451210	isl	Þú verður að læra að vera varkárari.	Swift	2010-08-04 03:48:54	2010-08-04 03:48:54
+225	0xe1	á	5399	869984	isl	Ég hef spilað á píanó síðan ég var strákur.	Swift	\N	\N
+230	0xe6	æ	3013	906609	isl	Í þremur orðum get ég dregið saman allt sem ég hef lært um lífið: Það heldur áfram.	Swift	2011-05-24 15:51:18	2011-05-24 15:51:18
+233	0xe9	é	2999	385717	isl	Við lékum körfubolta í gær.	Swift	2010-05-04 17:49:52	2010-05-04 17:49:52
+237	0xed	í	5324	3838998	isl	Ég hef það fínt, þakka þér fyrir.	arnarsmata	2015-02-03 21:25:37	2015-02-03 21:25:37
+240	0xf0	ð	17505	792055	isl	Gætirðu nokkuð opnað hurðina fyrir mig?	Swift	2011-03-13 19:10:15	2011-03-13 19:10:15
+243	0xf3	ó	3194	482951	isl	Á Nýja-Sjálandi talar fólk ensku.	Swift	2010-08-27 18:42:58	2010-08-27 18:42:58
+246	0xf6	ö	2505	466897	isl	Allir í fjölskyldunni hans eru hávaxnir.	Swift	2010-08-18 02:08:15	2010-08-18 02:08:15
 248	0xf8	ø	1	11746077	isl	tey søgdu mær frá hundunum.	Eduzitos	2023-05-07 22:32:17	2023-05-07 22:32:17
-250	0xfa	ú	3877	10468726	isl	Ég ætla að fara út í búð.	nipbud	2021-10-29 12:55:52	2021-10-29 12:55:52
+250	0xfa	ú	3880	513930	isl	Allir vita að tunglið er úr osti.	Swift	2010-09-15 11:25:53	2010-09-15 11:25:53
 252	0xfc	ü	2	741904	isl	Helgi og Hayrünnisa voru hjón.	Pharamp	2011-02-04 21:58:17	2011-02-04 21:58:17
-253	0xfd	ý	794	511457	isl	Ég er með miða til Tókýó og til baka.	Swift	2010-09-14 01:00:17	2010-09-14 01:00:17
-254	0xfe	þ	5077	10351668	isl	Þannig var, þannig er, og þannig mun alltaf vera!	nipbud	2021-10-09 18:51:32	2021-10-09 18:51:32
-1072	0x430	а	6	10647593	isl	Íþrótt þýðir heilsа.	nipbud	2022-01-28 12:56:45	2022-01-28 12:56:45
+253	0xfd	ý	795	504032	isl	Veistu hvar stelpan býr?	Swift	2010-09-08 09:27:47	2010-09-08 09:27:47
+254	0xfe	þ	5079	10960483	isl	Ég veit ekki af hverju þau eru svona reið út í okkur.	nipbud	2022-07-03 14:27:58	2022-07-03 14:27:58
+1072	0x430	а	6	10709371	isl	Afsakаðu orðbragðið.	nipbud	2022-03-08 20:53:32	2022-03-08 20:53:32
 1077	0x435	е	1	10609770	isl	Sólin еr að skína.	nipbud	2022-01-06 16:45:53	2022-01-06 16:45:53
-8212	0x2014	—	4	733196	isl	Stúlkan æpti af ótta — sem við deildum öll með henni.	Swift	2011-01-30 06:10:56	2011-01-30 06:10:56
+8212	0x2014	—	4	4919835	isl	Vofa gengur nú ljósum logum um Evrópu — vofa kommúnismans.	Balamax	2016-02-18 04:04:26	2016-03-24 22:12:07
 8216	0x2018	‘	1	10622029	isl	‚Barnaheimur‘ er lokaður.	nipbud	2022-01-13 15:36:51	2022-01-13 15:36:51
 8218	0x201a	‚	1	10622029	isl	‚Barnaheimur‘ er lokaður.	nipbud	2022-01-13 15:36:51	2022-01-13 15:36:51
-8220	0x201c	“	148	10464025	isl	„Hvað lengi var hann þar?“ - „Tvær vikur.“	nipbud	2021-10-27 12:44:10	2021-10-27 12:44:10
+8220	0x201c	“	148	385889	isl	Þetta blóm heitir „lily“ á ensku.	Swift	2010-05-04 23:06:56	2010-05-04 23:06:56
 8221	0x201d	”	1	10358215	isl	Ég sagði „Fagur fiskur í sjó.”	nipbud	2021-10-12 12:47:51	2021-10-13 10:14:48
-8222	0x201e	„	149	386345	isl	„Þú hlýtur að vera þreytt eftir langan dag.“ „Nei, ekki vitund.“	Swift	2010-05-06 19:47:41	2010-05-06 19:47:41
+8222	0x201e	„	149	827662	isl	Ég get ekki munað hvernig maður segir „takk“ á þýsku.	Swift	2011-04-06 23:55:32	2011-04-06 23:55:32
 8230	0x2026	…	6	11344076	isl	Við getum lifað af án matar… bara ekki lengi.	nipbud	2022-12-17 22:04:30	2022-12-17 22:04:30

@@ -1,62 +1,66 @@
-32	0x20	 	1141	11965358	arn	Küdawfuli ñi lelfün, nieafun fillke fün	puppetshow	2023-07-28 16:56:58	2023-08-08 20:31:12
-33	0x21	!	29	12022113	arn	Kümey!	puppetshow	2023-08-29 00:02:17	2023-08-29 00:02:17
-34	0x22	"	4	12022274	arn	"Chumül?" "chumül no rume"	puppetshow	2023-08-29 03:30:00	2023-08-29 03:30:00
-44	0x2c	,	31	12022221	arn	May, amun wüya iñche.	puppetshow	2023-08-29 02:12:27	2023-08-29 02:12:27
-45	0x2d	-	4	11988534	arn	Ti tiempu pengel-ay iney eymu niey ti rüf.	puppetshow	2023-08-09 19:34:55	2023-08-09 19:37:39
-46	0x2e	.	303	11988481	arn	Akulu pu Tokio iñche mütrümfiñ.	puppetshow	2023-08-09 19:11:49	2023-08-14 15:07:25
+32	0x20	 	1502	12001472	arn	Kom eymün, tüngküleymün.	puppetshow	2023-08-17 15:49:40	2023-08-17 15:49:40
+33	0x21	!	37	12343097	arn	Tüfa ta iñche ñi pin!	puppetshow	2024-02-27 20:18:50	2024-02-27 20:18:50
+34	0x22	"	14	12022274	arn	"Chumül?" "chumül no rume"	puppetshow	2023-08-29 03:30:00	2023-08-29 03:30:00
+44	0x2c	,	40	11965345	arn	Doy kümengey futfol ñi trokiñ, wewkey komke awkantun	puppetshow	2023-07-28 16:51:22	2023-08-08 20:32:36
+45	0x2d	-	5	12343081	arn	Ti kon-nemül fey ta "Muiriel".	puppetshow	2024-02-27 20:13:37	2024-02-27 20:13:37
+46	0x2e	.	402	12024205	arn	Fentrenke challwa lapey.	puppetshow	2023-08-30 04:40:40	2023-08-30 04:41:11
 48	0x30	0	1	12049348	arn	Mi awto kullikünuay 60 küyen mew.	puppetshow	2023-09-11 21:29:04	2023-09-11 21:29:04
+51	0x33	3	1	12344022	arn	Duamnien kiñe MP3!	puppetshow	2024-02-28 02:11:14	2024-02-28 02:11:14
 54	0x36	6	1	12049348	arn	Mi awto kullikünuay 60 küyen mew.	puppetshow	2023-09-11 21:29:04	2023-09-11 21:29:04
 59	0x3b	;	2	11991703	arn	Fey niey epu ñarki; ti wünen ligngey, ti inan kurüngey.	puppetshow	2023-08-11 18:37:10	2023-08-11 18:37:10
-63	0x3f	?	56	11988559	arn	Eluafen ka kiñe serfesa ñi pütuam?	puppetshow	2023-08-09 19:43:10	2023-08-09 19:47:10
-65	0x41	A	27	12020371	arn	Afümyiñ aroz engu tukukantu.	puppetshow	2023-08-28 01:06:42	2023-08-28 01:06:42
-66	0x42	B	2	12022302	arn	Chillkatulu Bob instituto mew yewentengefuy.	puppetshow	2023-08-29 04:10:09	2023-08-29 04:10:09
-67	0x43	C	45	11987280	arn	Chum kimimi iñche ñi üy?	puppetshow	2023-08-09 00:22:24	2023-08-09 00:22:24
-68	0x44	D	11	12022123	arn	Dungufun wüya inchiñ.	puppetshow	2023-08-29 00:12:52	2023-08-29 00:13:21
-69	0x45	E	6	11987127	arn	Eluaen mi winu.	puppetshow	2023-08-08 21:27:27	2023-08-08 21:27:27
-70	0x46	F	32	11990621	arn	Fey petu küpalay.	puppetshow	2023-08-11 01:38:24	2023-08-11 01:38:24
+63	0x3f	?	91	11963239	arn	Ka cem kujin kay mvley tiye mew?	manke4	2023-07-28 05:43:39	2023-07-28 05:43:48
+65	0x41	A	34	12022239	arn	Amutunge wüle.	puppetshow	2023-08-29 03:01:18	2023-08-29 03:01:18
+66	0x42	B	2	11990626	arn	Tom amukey Boston mew fill tripantu.	puppetshow	2023-08-11 01:43:35	2023-08-11 01:43:35
+67	0x43	C	59	11987280	arn	Chum kimimi iñche ñi üy?	puppetshow	2023-08-09 00:22:24	2023-08-09 00:22:24
+68	0x44	D	16	12018882	arn	Dew ilu ti rangin antü iael, amufuyiñ taiñ patinael.	puppetshow	2023-08-27 06:01:18	2023-08-28 00:22:36
+69	0x45	E	8	12324635	arn	Esperantozugupeymi, feley kam felelay?	manke4	2024-02-18 08:55:31	2024-02-18 08:55:31
+70	0x46	F	47	12343140	arn	Fachantü rume arengey.	puppetshow	2024-02-27 20:32:44	2024-02-27 20:32:44
+71	0x47	G	2	12343197	arn	Müna zungufengey ta George.	puppetshow	2024-02-27 20:58:44	2024-02-27 20:58:44
 72	0x48	H	1	11987258	arn	Tañi üy pingey Hashimoto.	puppetshow	2023-08-09 00:12:22	2023-08-09 00:12:22
-73	0x49	I	7	11965304	arn	Iñche ta kürüf ta pimun tike aliwen ñi tapül	puppetshow	2023-07-28 16:42:39	2023-08-08 20:34:04
-74	0x4a	J	2	12022225	arn	Jim amutuy Paris mew wüya.	puppetshow	2023-08-29 02:20:39	2023-08-29 02:20:39
-75	0x4b	K	59	12010370	arn	Küdawküleymi am?	puppetshow	2023-08-22 20:28:06	2023-08-22 20:28:06
-76	0x4c	L	10	12022247	arn	Llituan wüle.	puppetshow	2023-08-29 03:04:32	2023-08-29 03:04:32
-77	0x4d	M	28	12010340	arn	Müna küdawimi.	puppetshow	2023-08-22 20:20:42	2023-08-22 20:20:42
-78	0x4e	N	12	11987114	arn	Nepewnge!	puppetshow	2023-08-08 21:19:19	2023-08-08 21:19:19
+73	0x49	I	14	12346740	arn	Inge tüfachi kochülu.	puppetshow	2024-02-29 14:14:38	2024-02-29 14:14:38
+74	0x4a	J	3	11989891	arn	Jane doy ayükey trewa ta ñarki mew.	puppetshow	2023-08-10 15:24:07	2023-08-10 15:24:07
+75	0x4b	K	91	12343113	arn	Küpa pütoymi kiñe?	puppetshow	2024-02-27 20:25:59	2024-02-27 20:25:59
+76	0x4c	L	11	12324662	arn	Lemugefun.	manke4	2024-02-18 09:19:32	2024-02-18 09:19:32
+77	0x4d	M	52	11991701	arn	Mütrümafimi ta Tom.	puppetshow	2023-08-11 18:35:51	2023-08-11 18:35:51
+78	0x4e	N	18	12047948	arn	Norchengeyiñ, fey wedachengelay.	puppetshow	2023-09-11 09:45:45	2023-09-11 09:45:45
 79	0x4f	O	1	12001489	arn	Oleg ayüwküley ta iney rume poyeeyew.	puppetshow	2023-08-17 16:01:28	2023-08-17 16:01:28
-80	0x50	P	33	12024223	arn	Peñiwenngen inchiñ.	puppetshow	2023-08-30 04:59:05	2023-08-30 05:02:20
-82	0x52	R	11	11987069	arn	Rakiduamnge!	puppetshow	2023-08-08 20:46:48	2023-08-08 20:46:48
+80	0x50	P	40	12049360	arn	Pepi kintulan iney no rume.	puppetshow	2023-09-11 21:33:35	2023-09-11 21:33:35
+82	0x52	R	13	11987070	arn	Rakiduamimi.	puppetshow	2023-08-08 20:47:24	2023-08-08 20:50:05
 83	0x53	S	1	12010372	arn	Sami kureyewi kiñe Muslimche domo.	puppetshow	2023-08-22 20:33:53	2023-08-22 20:33:53
-84	0x54	T	89	12018886	arn	Trokiymi am trawmangen inchiñ?	puppetshow	2023-08-27 06:28:29	2023-08-27 06:28:48
-85	0x55	U	5	11987327	arn	Umawtufuyngün.	puppetshow	2023-08-09 02:02:23	2023-08-09 02:02:23
+84	0x54	T	105	11965351	arn	Ti pangi doy fütrangey ta ñarki mew	puppetshow	2023-07-28 16:54:19	2023-08-08 20:31:55
+85	0x55	U	5	11987326	arn	Umawtupen.	puppetshow	2023-08-09 02:02:03	2023-08-09 02:02:03
 86	0x56	V	1	11963236	arn	Vy niey tvyeci mawiza?	manke4	2023-07-28 05:41:55	2023-07-28 05:42:11
-87	0x57	W	31	12022252	arn	Wüle navidangeay.	puppetshow	2023-08-29 03:06:52	2023-08-29 03:06:52
-89	0x59	Y	3	11987312	arn	Yufa duamniey fentren ko.	puppetshow	2023-08-09 01:11:16	2023-08-09 01:12:10
-97	0x61	a	789	12024224	arn	Mütrümafimi ñi peñi.	puppetshow	2023-08-30 05:00:30	2023-08-30 05:00:30
-98	0x62	b	5	11963237	arn	Mvley buan, xapial, tvfaci mawiza mew?	manke4	2023-07-28 05:42:33	2023-07-28 05:42:42
-99	0x63	c	133	11965411	arn	Müley kiñe püchi üñüm ñi konpelomwe mew	puppetshow	2023-07-28 17:05:09	2023-08-08 20:30:17
-100	0x64	d	95	11987281	arn	Weda wirifiy iñche ñi üy.	puppetshow	2023-08-09 00:23:31	2023-08-09 00:23:51
-101	0x65	e	916	12022274	arn	"Chumül?" "chumül no rume"	puppetshow	2023-08-29 03:30:00	2023-08-29 03:30:00
-102	0x66	f	174	12010463	arn	Trokiwün tüfeychi nütram.	puppetshow	2023-08-22 21:19:14	2023-08-22 21:19:14
-103	0x67	g	198	11965439	arn	Ñi ñuke mangelenew ñi ngillayael takuluwün wüle feymew pepi amulayan tami ruka mew	puppetshow	2023-07-28 17:13:25	2023-08-09 02:36:47
-104	0x68	h	169	12024188	arn	Adkintuleymi tüfeychi ngürü?	puppetshow	2023-08-30 04:24:37	2023-08-30 04:24:51
-105	0x69	i	684	11990574	arn	Leliafimi tüfachi wilüf wangülen.	puppetshow	2023-08-11 01:09:38	2023-08-11 01:09:38
-106	0x6a	j	5	11963243	arn	Amualu waria mew iñce gijamean mansana.	manke4	2023-07-28 05:45:50	2023-07-28 05:46:01
-107	0x6b	k	380	11965336	arn	Tüfeychi kofke reke ngey kiñe kura	puppetshow	2023-07-28 16:47:42	2023-08-08 20:33:20
-108	0x6c	l	452	12022302	arn	Chillkatulu Bob instituto mew yewentengefuy.	puppetshow	2023-08-29 04:10:09	2023-08-29 04:10:09
-109	0x6d	m	484	11990615	arn	Fey ñi doy elangey domo wenüy.	puppetshow	2023-08-11 01:35:11	2023-08-11 01:35:11
-110	0x6e	n	517	11990009	arn	Adngey waria!	puppetshow	2023-08-10 16:55:59	2023-08-10 16:55:59
-111	0x6f	o	170	11990615	arn	Fey ñi doy elangey domo wenüy.	puppetshow	2023-08-11 01:35:11	2023-08-11 01:35:11
-112	0x70	p	174	12024175	arn	Küpa püton kiñe pütofal.	puppetshow	2023-08-30 04:12:31	2023-08-30 04:12:31
-114	0x72	r	211	11987082	arn	Marimari.	puppetshow	2023-08-08 21:01:57	2023-08-08 21:01:57
-115	0x73	s	36	11989071	arn	Chillkatupen inglesdungun, franciadungun ka chinadungun.	puppetshow	2023-08-10 05:55:00	2023-08-10 15:08:25
-116	0x74	t	309	12022295	arn	Chillkatuyüm iñche, allkütuken musika kümeallkütuwe mew.	puppetshow	2023-08-29 04:03:28	2023-08-30 15:18:59
-117	0x75	u	428	11990680	arn	Dew akupayay ti pukem.	puppetshow	2023-08-11 02:02:05	2023-08-11 02:10:33
-118	0x76	v	22	12022122	arn	Wüya juevengefuy.	puppetshow	2023-08-29 00:11:07	2023-08-29 00:12:06
-119	0x77	w	336	12024208	arn	Küme trewa!	puppetshow	2023-08-30 04:43:02	2023-08-30 04:43:02
-120	0x78	x	3	11963244	arn	Tvfa mew mvte weza hvmvhgey, mvte pozgey ixokom.	manke4	2023-07-28 05:46:45	2023-07-28 05:46:52
-121	0x79	y	456	11965345	arn	Doy kümengey futfol ñi trokiñ, wewkey komke awkantun	puppetshow	2023-07-28 16:51:22	2023-08-08 20:32:36
-122	0x7a	z	11	11991345	arn	Kimlafiñ mi rakizuamün.	puppetshow	2023-08-11 15:37:16	2023-08-11 15:37:16
+87	0x57	W	38	12008806	arn	Wechekalu chillkatuy rusiadungun.	puppetshow	2023-08-22 04:53:57	2023-08-22 04:53:57
+88	0x58	X	1	12324627	arn	Xokipeymi ta iñce rvf kvpa putuafiel kam?	manke4	2024-02-18 08:48:55	2024-02-18 08:48:55
+89	0x59	Y	3	12001853	arn	Pu lunes amufuy New York mew.	puppetshow	2023-08-17 21:32:45	2023-08-17 21:36:17
+90	0x5a	Z	3	12343107	arn	Zew ayüyelaeyu.	puppetshow	2024-02-27 20:23:31	2024-02-27 20:23:31
+97	0x61	a	1032	12344021	arn	"Mañum." "Dungu no."	puppetshow	2024-02-28 02:10:59	2024-02-28 02:10:59
+98	0x62	b	5	12022302	arn	Chillkatulu Bob instituto mew yewentengefuy.	puppetshow	2023-08-29 04:10:09	2023-08-29 04:10:09
+99	0x63	c	200	12024200	arn	Fey rume ayükey ñi challwayael.	puppetshow	2023-08-30 04:36:51	2023-08-30 04:36:51
+100	0x64	d	112	11965375	arn	Kutranküley rume ñi epu küwü, küdawkalen iñche	puppetshow	2023-07-28 16:59:40	2023-08-08 20:31:04
+101	0x65	e	1248	11965385	arn	Doy lefngey feymew lelilafiñ rume	puppetshow	2023-07-28 17:01:23	2023-08-08 20:30:49
+102	0x66	f	249	11989071	arn	Chillkatupen inglesdungun, franciadungun ka chinadungun.	puppetshow	2023-08-10 05:55:00	2023-08-10 15:08:25
+103	0x67	g	272	12020353	arn	Tike che pütremtukelu kamapukünungeli ñi pütrem, feyngün fiñmaway ka nüngayüay.	puppetshow	2023-08-28 00:34:06	2023-08-28 20:39:09
+104	0x68	h	245	12024195	arn	Challwapen.	puppetshow	2023-08-30 04:32:47	2023-08-30 04:32:47
+105	0x69	i	871	11989071	arn	Chillkatupen inglesdungun, franciadungun ka chinadungun.	puppetshow	2023-08-10 05:55:00	2023-08-10 15:08:25
+106	0x6a	j	7	11963240	arn	Pvciñmakejege.	manke4	2023-07-28 05:44:40	2023-07-28 05:44:48
+107	0x6b	k	490	12324591	arn	Tvfa ta ñarki kam?	manke4	2024-02-18 08:15:25	2024-02-18 08:15:25
+108	0x6c	l	595	11990574	arn	Leliafimi tüfachi wilüf wangülen.	puppetshow	2023-08-11 01:09:38	2023-08-11 01:09:38
+109	0x6d	m	619	12346751	arn	Kümentukey kom kochüngelu.	puppetshow	2024-02-29 14:22:43	2024-02-29 14:22:43
+110	0x6e	n	734	11965304	arn	Iñche ta kürüf ta pimun tike aliwen ñi tapül	puppetshow	2023-07-28 16:42:39	2023-08-08 20:34:04
+111	0x6f	o	241	11990568	arn	Tüfa doy wilüfngey.	puppetshow	2023-08-11 01:05:53	2023-08-11 01:05:53
+112	0x70	p	226	11989029	arn	Ti küpa ayüwngealu kiñe antü müley ñi ngolliael. Ti küpa ayüwngealu kiñe küyen müley ñi langümael kiñe sañwe. Ti küpa ayüwngealu kiñe tripantu müley ñi niewael. ti küpa ayüwngealu ñi kom mongen müley ñi poyeael ñi küdaw.	puppetshow	2023-08-10 05:09:55	2023-08-10 05:11:37
+114	0x72	r	271	11965393	arn	Komke narantü ürkülen iñche feymew müley ñi doy umawtual	puppetshow	2023-07-28 17:02:10	2023-08-08 20:30:38
+115	0x73	s	45	12346735	arn	Tüfachi manshana kochüngey.	puppetshow	2024-02-29 14:09:34	2024-02-29 14:09:34
+116	0x74	t	407	12343113	arn	Küpa pütoymi kiñe?	puppetshow	2024-02-27 20:25:59	2024-02-27 20:25:59
+117	0x75	u	581	11987321	arn	Katrüyiñ puke aliwen kiñe toki mew	puppetshow	2023-08-09 01:50:47	2023-08-09 01:51:02
+118	0x76	v	38	11963246	arn	Kvpamtul ruka mew mvte wecozgey, feymew konpakey wvxe.	manke4	2023-07-28 05:47:57	2023-07-28 05:48:05
+119	0x77	w	388	12022295	arn	Chillkatuyüm iñche, allkütuken musika kümeallkütuwe mew.	puppetshow	2023-08-29 04:03:28	2023-08-30 15:18:59
+120	0x78	x	6	12324660	arn	Af zugupelu wixay ka amuy.	manke4	2024-02-18 09:16:25	2024-02-18 09:16:25
+121	0x79	y	605	12346747	arn	Tüfachi rayen niey kochü nümün.	puppetshow	2024-02-29 14:20:10	2024-02-29 14:20:10
+122	0x7a	z	24	12343151	arn	Dunguleli, azkintuaen!	puppetshow	2024-02-27 20:35:42	2024-02-27 20:35:42
 168	0xa8	¨	1	11987322	arn	Fey m¨ülefuy ñi tuael kiñe toki ñi katrüam ti mamüll.	puppetshow	2023-08-09 01:52:46	2023-08-09 01:54:11
-209	0xd1	Ñ	7	12024220	arn	Ñi peñi dewmafii.	puppetshow	2023-08-30 04:57:05	2023-08-30 15:10:31
-220	0xdc	Ü	9	11987149	arn	Ülkantuaymi.	puppetshow	2023-08-08 21:46:07	2023-08-08 21:46:07
-241	0xf1	ñ	232	11991703	arn	Fey niey epu ñarki; ti wünen ligngey, ti inan kurüngey.	puppetshow	2023-08-11 18:37:10	2023-08-11 18:37:10
-252	0xfc	ü	485	12018882	arn	Dew ilu ti rangin antü iael, amufuyiñ taiñ patinael.	puppetshow	2023-08-27 06:01:18	2023-08-28 00:22:36
+209	0xd1	Ñ	7	12049345	arn	Ñi chaw dichoenew kangechi rüpü.	puppetshow	2023-09-11 21:26:37	2023-09-11 21:26:46
+220	0xdc	Ü	10	11987143	arn	Ülkantulen.	puppetshow	2023-08-08 21:44:45	2023-08-08 21:44:45
+241	0xf1	ñ	291	12343190	arn	Ka kiñe, füreneafen	puppetshow	2024-02-27 20:56:41	2024-02-27 20:56:41
+252	0xfc	ü	642	11965358	arn	Küdawfuli ñi lelfün, nieafun fillke fün	puppetshow	2023-07-28 16:56:58	2023-08-08 20:31:12

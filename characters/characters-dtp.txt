@@ -1,76 +1,76 @@
-32	0x20	 	14550	6311071	dtp	Muhang i koinsanai doho.	Dusun_Les	2017-09-17 07:28:52	2017-09-17 07:28:52
-33	0x21	!	135	4563741	dtp	Bayahan!	Dusun_Les	2015-09-28 07:11:34	2016-08-06 08:37:14
-34	0x22	"	93	4563467	dtp	"Pounsikou." "Miagal nopo."	Dusun_Les	2015-09-28 04:47:53	2015-09-28 04:48:00
-39	0x27	'	605	4929479	dtp	Nokuro tu amu ko' lumabus po oi Tom?	Dusun_Les	2016-02-23 04:07:29	2016-02-23 04:07:29
-44	0x2c	,	211	4611166	dtp	Hondahoi, kotoh!	Dusun_Les	2015-10-15 12:10:41	2016-08-10 07:55:44
-45	0x2d	-	136	6894255	dtp	Tinomod-tomod o pompodon do tobuk ku.	LeeSooHa	2018-05-16 13:17:28	2018-05-16 13:29:37
-46	0x2e	.	2188	4611369	dtp	Ngoyo maan toguangon sikul nu sondiri.	Dusun_Les	2015-10-15 12:58:09	2015-10-19 03:31:53
+32	0x20	 	14550	5141868	dtp	Antangai pogi' dokoyu ilo tombolog nga' a' i' moti' momutanom, om a' mongomot, om a' potimung di tua' do totonomon dot id sulap. Nga' iyo piya'ddi, nga' gompion i' di Tapa' dokoyu di hilo'd surga ilo tombolog. Om a' toi poingharo kou i' kopio iyokoyu ko' mantad dilo tombolog?	LeeSooHa	2016-05-16 04:30:11	2016-05-16 04:30:11
+33	0x21	!	135	6383894	dtp	Iti nopo nga totopot!	Dusun_Les	2017-10-16 02:36:59	2017-10-16 02:36:59
+34	0x22	"	93	4622902	dtp	Nunu ka do boros Poransis "guminawo"?	Dusun_Les	2015-10-19 09:08:24	2015-10-19 09:08:24
+39	0x27	'	605	4563441	dtp	Okuro-kuro ko' no?	Dusun_Les	2015-09-28 04:34:31	2016-08-12 11:09:25
+44	0x2c	,	211	4611642	dtp	Kopio gia, Tom?	Dusun_Les	2015-10-15 14:51:47	2016-08-10 07:55:45
+45	0x2d	-	136	5797990	dtp	Onuan ku tombuluyon mantad tadau ko-20 tulan ko-7 gisom do tadau ka-8 tulan ka-8.	Dusun_Les	2017-01-25 09:47:08	2017-01-25 09:47:08
+46	0x2e	.	2188	11071843	dtp	Amu oku kopio karati ponguhatan nu.	LeeSooHa	2022-08-20 14:58:36	2022-08-20 14:58:36
 47	0x2f	/	1	10682889	dtp	Hinombo/ hombo nongoi nu konihab?	LeeSooHa	2022-02-20 12:32:36	2022-02-20 12:32:36
-48	0x30	0	25	6299795	dtp	Nung kosorou oku diri tootopot nga pinapadagang i Tom do korita dau kumaa di Mary do gatang 500 Dollar nopo.	Dusun_Les	2017-09-11 02:49:37	2017-09-11 02:49:37
-49	0x31	1	8	6324033	dtp	Tontok do toun 1939 nodi nokoimbulai o pisangadan do pomogunan koduo.	Dusun_Les	2017-09-24 01:26:31	2017-09-24 01:26:31
-50	0x32	2	9	5869608	dtp	Minananom isido do tusak ros mantad jam ko-12 nodi.	Dusun_Les	2017-02-15 14:20:06	2017-02-15 14:20:06
-51	0x33	3	8	5795062	dtp	Iti no bilik numbur ko-839.	Dusun_Les	2017-01-24 12:16:03	2017-01-24 12:16:03
+48	0x30	0	25	5312351	dtp	Hiti oku daa poingiyon do 30 toun noddi.	Dusun_Les	2016-08-01 14:37:25	2016-08-01 14:37:25
+49	0x31	1	8	5869608	dtp	Minananom isido do tusak ros mantad jam ko-12 nodi.	Dusun_Les	2017-02-15 14:20:06	2017-02-15 14:20:06
+50	0x32	2	9	5801371	dtp	Mongoi oku ruba di Tom hilo'd sitisin id jaam 2.30.	Dusun_Les	2017-01-26 10:56:42	2017-01-26 10:56:56
+51	0x33	3	8	5801371	dtp	Mongoi oku ruba di Tom hilo'd sitisin id jaam 2.30.	Dusun_Les	2017-01-26 10:56:42	2017-01-26 10:56:56
 52	0x34	4	1	5768231	dtp	Ih Harry nopo nga 40 toun nodi.	Dusun_Les	2017-01-14 13:44:57	2017-01-14 13:44:57
-53	0x35	5	6	6382523	dtp	Tumanud kopoilaan do ripot, soginumu 53,000 tulun Amorika napatai do tikid toun tu sabap nopo momungkus mantad sandad do momungkus.	Dusun_Les	2017-10-15 01:10:51	2017-10-15 01:10:51
+53	0x35	5	6	5894466	dtp	Sigog ka om posimbanan no ilo tonsi tinan kumaa do lunok soginumu 50 pihatus.	Dusun_Les	2017-02-23 03:00:52	\N
 54	0x36	6	1	5869444	dtp	Hompiton i pogun Kosovo ndo abaabayan sompomogunan Olimpik 2016.	Dusun_Les	2017-02-15 13:36:36	2017-02-15 13:36:36
 55	0x37	7	2	5338707	dtp	Winagat nopo di Tom nga 70 kilogram.	Dusun_Les	2016-08-13 06:21:16	2016-08-13 06:21:16
-56	0x38	8	3	5797990	dtp	Onuan ku tombuluyon mantad tadau ko-20 tulan ko-7 gisom do tadau ka-8 tulan ka-8.	Dusun_Les	2017-01-25 09:47:08	2017-01-25 09:47:08
-57	0x39	9	4	10500913	dtp	Onu o bagas tosonong di naanu dokoyu mantad do pandemik Covid19?	LeeSooHa	2021-11-11 12:13:11	2021-11-11 12:13:11
-58	0x3a	:	4	10514412	dtp	Haro apat musim doid sontoun: musim bunga, musim alasu, musim angatatak om musim atamis.	LeeSooHa	2021-11-18 02:18:11	2021-11-18 02:18:11
-59	0x3b	;	6	10729774	dtp	Atagak o boros, atagak o koubasanan; Atagak o koubasanan, atagak o kointutunan; Atagak o boros, atagak o pirotian; Atagak o pirotian, atagak o piunungan, pisohudungan om pibabasan; Atagak o pibabasan, atagak o piobpinaian; Atagak o piobpinaian kopitongkiad o rikoton do rusodon.	LeeSooHa	2022-03-22 13:43:24	2022-03-22 13:43:24
-63	0x3f	?	667	4609708	dtp	Sumangod nangku i Israil di Iran?	Dusun_Les	2015-10-15 04:22:06	2016-08-08 01:34:39
-65	0x41	A	468	5869471	dtp	Au oulan momboros do Inggilis.	Dusun_Les	2017-02-15 13:47:58	2017-02-15 13:47:58
-66	0x42	B	57	10320894	dtp	Biio' no do songian kinosusuvon di Tom.	LeeSooHa	2021-09-25 05:30:43	2021-09-25 05:30:43
-67	0x43	C	10	5392441	dtp	Buuk nopo ti nga kokomoi pogun China.	Dusun_Les	2016-09-02 04:01:08	2016-09-02 04:01:08
-68	0x44	D	28	6403030	dtp	Ruminikot iyahai mantad mogisuwai-suwai o bansa om boros, nga’ koinsanai dahai nosompuru id hontolon di miagal. Lobi’ mantad ko’ nunu nopo, manu iyahai do momusou di Yohuwah, Kinorohingan di rinait id Baibol om i Minomorun do koinsanai’d nunu nopo. Monotos iyahai do momit di Yesus Kristus om oondos iyahai do roitan tulun Kristian. Monikid dahai nga’ mamakai maso bagi’d monguhup tulun suwai do minsingilo’d Baibol om Pomorintaan do Kinorohingan. Iyo do sasi’, mimboros iyahai pasal di Yohuwah, i Kinorohingan om pomorintaan Dau, om iri noddi do roitan iyahai’d Sasi-sasi’d Yohuwah.	LeeSooHa	2017-10-29 11:54:03	2017-10-29 11:54:03
-69	0x45	E	7	4724237	dtp	Kada pomoros boros suai mantad Esperanto!	Dusun_Les	2015-11-25 02:41:15	2015-11-25 02:41:15
-70	0x46	F	5	10070617	dtp	Kibolobou po om mindahu no i Faron tu kopuriman yau do oyopos nopo o kangkaram nga oyopos no munung.	LeeSooHa	2021-05-29 01:54:35	2021-05-29 01:54:35
-71	0x47	G	40	11082786	dtp	Gantayo no ilo karatas id sawat sili.	LeeSooHa	2022-08-27 12:02:25	2022-08-27 12:03:53
-72	0x48	H	155	4622608	dtp	Hiti oku mamarait "kopiwosian".	Dusun_Les	2015-10-19 04:12:02	2015-10-19 04:12:02
-73	0x49	I	263	4724591	dtp	Ingkuro topurimanan di Tom?	Dusun_Les	2015-11-25 09:11:19	2015-11-25 09:11:19
-74	0x4a	J	47	6311097	dtp	Popoinsawat no ginumuan do bakas hiri'd pogun Jorman.	Dusun_Les	2017-09-17 07:58:39	2017-09-17 07:58:39
-75	0x4b	K	318	6639416	dtp	Koilo ko moginum do bahar?	Dusun_Les	2018-01-31 06:35:17	2018-01-31 06:35:17
-76	0x4c	L	58	6926170	dtp	Langadon oku dika.	Dusun_Les	2018-06-03 03:27:00	2018-06-03 03:27:00
-77	0x4d	M	674	4620535	dtp	Milo' oku popoguli do barayan kumaa dika.	Dusun_Les	2015-10-18 11:28:24	2015-10-18 11:28:24
-78	0x4e	N	392	6569257	dtp	Nowonsoi nod Kinorohingan do pomogunan.	LeeSooHa	2017-12-24 05:51:31	2017-12-24 05:51:31
-79	0x4f	O	353	4609983	dtp	Onuai oku maan id sangadau toi ko' duo tadau.	Dusun_Les	2015-10-15 06:26:26	2015-10-15 09:46:46
-80	0x50	P	184	5312051	dtp	Pakou ku!	Dusun_Les	2016-08-01 11:13:44	2016-08-01 11:13:44
-82	0x52	R	31	8612078	dtp	Au i Rosa Parks mumang do popoirikau id tirikohonon dau kumaa do tulun topurak.	Dusun_Les	2020-03-14 01:47:27	2020-03-14 01:47:27
-83	0x53	S	165	8406238	dtp	Soira rikoton do kuritapui?	Dusun_Les	2019-12-26 13:22:48	2019-12-26 13:22:48
-84	0x54	T	489	5892009	dtp	Mongoi i Tom hilo'd kadai pomolian tagayo monikid tadau.	Dusun_Les	2017-02-22 11:13:09	\N
-85	0x55	U	40	4566080	dtp	Umbalai po kaagu.	Dusun_Les	2015-09-29 03:52:03	2016-08-08 09:14:24
-86	0x56	V	9	5342163	dtp	Minintong oku do TV kosodop.	Dusun_Les	2016-08-15 01:57:47	2016-08-15 01:57:47
-87	0x57	W	19	8576406	dtp	Mantad oku hilo’d Wellington, bandar tagayo do pogun New Zealand.	Dusun_Les	2020-02-25 09:01:45	2020-02-25 09:01:45
-88	0x58	X	12	4623027	dtp	Nunu ka do boros dikoyu XXX?	Dusun_Les	2015-10-19 09:42:45	2015-10-19 09:42:45
-89	0x59	Y	58	11074680	dtp	Yoho haro kawakasan popointalang do taba ku!	LeeSooHa	2022-08-22 13:02:22	2022-08-22 13:02:26
-90	0x5a	Z	3	10287781	dtp	Minomoli i Lao Zhang do rasuk talasu.	LeeSooHa	2021-09-11 06:06:21	2021-09-11 06:06:21
-97	0x61	a	10222	6559478	dtp	Aiso timpu mangakan baino ka di Tom.	Dusun_Les	2017-12-17 11:50:22	2017-12-17 11:50:22
-98	0x62	b	1168	5789508	dtp	Asaru isio mambasa do surat habal tintod do mangakan dongkosuabon.	Dusun_Les	2017-01-22 12:40:44	2017-01-22 12:40:44
-99	0x63	c	14	10641008	dtp	Momuraha mato i Rand Kudingking nokokito do kurita wagu dongkobolian di Kurichi.	LeeSooHa	2022-01-24 13:05:26	2022-01-24 13:05:26
-100	0x64	d	4349	6324063	dtp	Monipu isio do tirikohonon silihon do suduon.	Dusun_Les	2017-09-24 01:39:11	2017-09-24 01:39:11
-101	0x65	e	123	5899480	dtp	Wayaan ngawi gisom do bandar Rome.	Dusun_Les	2017-02-25 07:07:40	\N
+56	0x38	8	3	5795062	dtp	Iti no bilik numbur ko-839.	Dusun_Les	2017-01-24 12:16:03	2017-01-24 12:16:03
+57	0x39	9	4	5795062	dtp	Iti no bilik numbur ko-839.	Dusun_Les	2017-01-24 12:16:03	2017-01-24 12:16:03
+58	0x3a	:	4	5358717	dtp	Honggo tiso dot aramai: mokinongou do loyuk sosongulun toi ko maya di tulun?	Dusun_Les	2016-08-21 08:01:12	2016-08-21 08:01:12
+59	0x3b	;	6	6535862	dtp	Tontok dot owonsoi it otulid om ongotood i' o tulun dit osonong; nga' ongooris indo i tulun dot araat.	LeeSooHa	2017-12-03 11:47:40	2017-12-03 11:47:40
+63	0x3f	?	667	5312353	dtp	Milo' daa pogulion do tusin?	Dusun_Les	2016-08-01 14:39:22	2016-08-01 14:39:22
+65	0x41	A	468	5777766	dtp	Amu po mangakan ko dilo taakanon nu.	Dusun_Les	2017-01-18 11:53:18	2017-01-18 11:53:18
+66	0x42	B	57	10969002	dtp	Bobos no moti koligogon i Tom Jackson hilo'd Australia.	LeeSooHa	2022-07-06 15:25:32	2022-07-06 15:25:32
+67	0x43	C	10	10129802	dtp	Kidungau ku pinungaran i Cookie.	LeeSooHa	2021-06-26 03:32:36	2021-06-26 03:32:36
+68	0x44	D	28	8573886	dtp	Popounsikou i Dan do ginawo nu.	Dusun_Les	2020-02-24 02:26:52	2020-02-24 02:26:52
+69	0x45	E	7	5781238	dtp	Au oku rumamit diya mongoi hilo'd Eropah songulunan.	Dusun_Les	2017-01-19 11:32:29	2017-01-19 11:32:29
+70	0x46	F	5	5780742	dtp	Korita disio nopo nga Ford.	Dusun_Les	2017-01-19 08:24:27	2017-01-19 08:24:27
+71	0x47	G	40	4585138	dtp	Kinoiyonon ku hilo'd Gipun.	Dusun_Les	2015-10-07 08:24:29	2016-08-14 08:33:58
+72	0x48	H	155	10682894	dtp	Hombo ngoyon nu baino? Mongoi oku pagapon miampai tambalut ku.	LeeSooHa	2022-02-20 12:34:26	2022-02-20 12:34:26
+73	0x49	I	263	4571174	dtp	Ih singa nopo nga wowoyoon hiri'd gowuton.	Dusun_Les	2015-10-01 04:31:06	2016-08-05 04:52:21
+74	0x4a	J	47	5874980	dtp	Popokito i Tati Jones do kowowoyoon turos dau soira korongou do habar.	Dusun_Les	2017-02-17 00:58:51	2017-02-17 00:58:51
+75	0x4b	K	318	10731246	dtp	Ba, nung miagal diri, mamanau oku po. Kopiruba kawagu.	LeeSooHa	2022-03-23 12:08:55	2022-03-23 12:09:45
+76	0x4c	L	58	5647688	dtp	Lumuung ko'.	Dusun_Les	2016-11-30 11:39:19	2016-11-30 11:39:19
+77	0x4d	M	674	4617213	dtp	Milo' oku monguhup dilo.	Dusun_Les	2015-10-17 09:47:14	2016-08-16 01:18:04
+78	0x4e	N	392	11212780	dtp	Nokuro tu korikot ko?	LeeSooHa	2022-10-28 12:11:45	2022-10-28 12:11:45
+79	0x4f	O	353	4708615	dtp	Ogumu rombituon id tawan.	Dusun_Les	2015-11-18 08:50:57	2015-11-18 08:50:57
+80	0x50	P	184	4607258	dtp	Pounsikou oi, koginawaan ku.	Dusun_Les	2015-10-14 09:31:49	2015-10-14 09:32:33
+82	0x52	R	31	5913076	dtp	Orohian i Rosmah timungon do mangkuk jamban.	Dusun_Les	2017-03-03 08:44:48	\N
+83	0x53	S	165	5894466	dtp	Sigog ka om posimbanan no ilo tonsi tinan kumaa do lunok soginumu 50 pihatus.	Dusun_Les	2017-02-23 03:00:52	\N
+84	0x54	T	489	6308754	dtp	Au oku moginum do wain do ponuangan di Tom.	Dusun_Les	2017-09-15 15:10:34	2017-09-15 15:10:50
+85	0x55	U	40	4571431	dtp	Ula' gia lo!	Dusun_Les	2015-10-01 07:50:33	2016-08-08 09:14:24
+86	0x56	V	9	6308661	dtp	Mintong oku do TV id maamaso do suab.	Dusun_Les	2017-09-15 14:26:40	2017-09-15 14:26:59
+87	0x57	W	19	4610045	dtp	Wagu lo ngawi kangku daa.	Dusun_Les	2015-10-15 07:10:52	2015-10-19 03:50:09
+88	0x58	X	12	4622893	dtp	Nunu ka do boros Bolanda XXX?	Dusun_Les	2015-10-19 09:06:20	2015-10-19 09:06:20
+89	0x59	Y	58	5312164	dtp	Yoho, Iya, Iyau, Tokou, Ikoyu, Iyolo nopo nga boros ngaran tulun.	Dusun_Les	2016-08-01 12:30:55	2016-08-01 12:30:55
+90	0x5a	Z	3	8576406	dtp	Mantad oku hilo’d Wellington, bandar tagayo do pogun New Zealand.	Dusun_Les	2020-02-25 09:01:45	2020-02-25 09:01:45
+97	0x61	a	10222	5899349	dtp	Au ko mintong kopio bilik om ingaa bilik kanu dii?	Dusun_Les	2017-02-25 04:12:58	\N
+98	0x62	b	1168	5309741	dtp	Minaan yau poilang iso kaban do biskut montok tambalut dau ngawi.	Dusun_Les	2016-07-31 05:43:48	2016-07-31 05:43:48
+99	0x63	c	14	10599561	dtp	Tumimpuun songongi sumiliu do soboogian mantad takanon a'asi id mogikaakawo tana' id Mexico om id pomogunan.	LeeSooHa	2022-01-01 12:32:34	2022-01-01 12:32:34
+100	0x64	d	4349	5910946	dtp	Popongoo' oku po laid diti kuukurama kio.	Dusun_Les	2017-03-02 12:09:40	\N
+101	0x65	e	123	10070530	dtp	Boleh kenal juga adik saya tu sebab juling	LeeSooHa	2021-05-29 01:18:02	2021-05-29 01:18:02
 102	0x66	f	5	10844035	dtp	Doid folder nonggo o poopion nu lo fail?	LeeSooHa	2022-05-20 13:38:12	2022-05-20 13:38:12
-103	0x67	g	3095	5331895	dtp	Haro kobolingkangan iti kakulator.	Dusun_Les	2016-08-10 11:59:15	2016-08-10 11:59:15
-104	0x68	h	1160	6466800	dtp	Pinaharo o kadai do monikid tadau koiso.	LeeSooHa	2017-11-16 11:13:33	2017-11-16 11:13:33
-105	0x69	i	8309	4563793	dtp	Umbalai bogia.	Dusun_Les	2015-09-28 07:26:52	2016-08-08 09:14:23
-106	0x6a	j	108	5342290	dtp	Nakaanu maso do karaja sikul id duo minggu mantad baino.	Dusun_Les	2016-08-15 06:04:46	2016-08-15 06:04:46
-107	0x6b	k	4501	5786466	dtp	Kanou moginum miampai do pakaraja tondu tolumis tokou!	Dusun_Les	2017-01-21 11:21:58	2017-01-21 11:21:58
-108	0x6c	l	2423	5331895	dtp	Haro kobolingkangan iti kakulator.	Dusun_Les	2016-08-10 11:59:15	2016-08-10 11:59:15
-109	0x6d	m	3311	5899480	dtp	Wayaan ngawi gisom do bandar Rome.	Dusun_Les	2017-02-25 07:07:40	\N
-110	0x6e	n	8072	10682868	dtp	Intang-intangan dokoyu modsu hilo bawang kio.	LeeSooHa	2022-02-20 12:24:24	2022-02-20 12:24:24
-111	0x6f	o	13688	5719218	dtp	Suminunud iyau doho moi pagandad hilo gisom do gulion dau.	Dusun_Les	2016-12-30 13:49:25	2016-12-30 13:49:25
-112	0x70	p	1998	8407117	dtp	Onuai oku do sansangkir do kupi.	Dusun_Les	2019-12-27 04:08:40	2019-12-27 04:08:40
+103	0x67	g	3095	10070523	dtp	Amu nokokirop do mintong di paramugari tuminalib.	LeeSooHa	2021-05-29 01:12:17	2021-05-29 01:12:17
+104	0x68	h	1160	4726775	dtp	Mogiuhod tomod i Tom om sumaga i dukutur mongusap do tusap id obongkung o tutok dau mooi do kadaada.	Dusun_Les	2015-11-26 09:03:42	2015-11-26 09:03:42
+105	0x69	i	8309	4559847	dtp	Tumimpuun oku mambasa do buuk.	Dusun_Les	2015-09-27 08:35:22	2016-08-02 03:37:26
+106	0x6a	j	108	4559877	dtp	Oloyo' no jaam ku hopod minit.	Dusun_Les	2015-09-27 08:45:37	2016-07-31 09:58:14
+107	0x6b	k	4501	4610756	dtp	Maan ko' kotumpirak?	Dusun_Les	2015-10-15 10:13:17	2016-08-14 08:33:59
+108	0x6c	l	2423	5782886	dtp	Manu oku daa popointutun komolohingan ku kumaa diya.	Dusun_Les	2017-01-20 02:00:27	2017-01-20 02:00:27
+109	0x6d	m	3311	4906532	dtp	Gopuso molohing dokoyu tintod do minsodu mantad kampung dokoyu.	LeeSooHa	2016-02-12 12:00:13	2016-02-12 12:00:13
+110	0x6e	n	8072	5906592	dtp	Iman-imanon ku nopo nga mongugusap.	Dusun_Les	2017-03-01 05:56:42	\N
+111	0x6f	o	13688	5814242	dtp	Nokuro tu au ko tumimpuun do boroson pogulu?	Dusun_Les	2017-01-31 09:43:52	2017-01-31 09:43:52
+112	0x70	p	1998	5894364	dtp	Haro padagangan do taakanon kiruganik hilo'd kadai pomolian taakanon.	Dusun_Les	2017-02-23 00:48:25	\N
 113	0x71	q	1	5906600	dtp	Minsingiloh oku do boros Basque.	Dusun_Les	2017-03-01 06:02:20	\N
-114	0x72	r	1907	4567843	dtp	Au oku kosorou ngaran dau.	Dusun_Les	2015-09-30 01:28:24	2015-09-30 01:28:28
-115	0x73	s	2623	4623032	dtp	Nunu kad duo ayat id boros Poransis diti?	Dusun_Les	2015-10-19 09:43:38	2015-10-19 09:43:38
-116	0x74	t	3467	4563448	dtp	Honggo tongoyon nu?	Dusun_Les	2015-09-28 04:38:00	2016-08-10 07:55:40
-117	0x75	u	6626	5314323	dtp	Ompunan ku sumoonu.	Dusun_Les	2016-08-02 12:18:58	2016-08-02 12:19:44
+114	0x72	r	1907	6311515	dtp	Rahat dot aiso topuhod diri okon ko tabaal montok do pomomogun rahat.	Dusun_Les	2017-09-17 10:44:21	2017-09-17 10:44:21
+115	0x73	s	2623	4726750	dtp	Osiyau ko' do timpu sondiri nung sumakai do korita sakayon.	Dusun_Les	2015-11-26 08:45:37	2015-11-26 08:45:37
+116	0x74	t	3467	4571426	dtp	Nokuro tu minuhot nu dii?	Dusun_Les	2015-10-01 07:41:17	2016-08-14 08:33:58
+117	0x75	u	6626	5780743	dtp	Mintong i Tadi kusai ku do TV.	Dusun_Les	2017-01-19 08:25:12	2017-01-19 08:25:12
 118	0x76	v	11	10320894	dtp	Biio' no do songian kinosusuvon di Tom.	LeeSooHa	2021-09-25 05:30:43	2021-09-25 05:30:43
-119	0x77	w	436	8576406	dtp	Mantad oku hilo’d Wellington, bandar tagayo do pogun New Zealand.	Dusun_Les	2020-02-25 09:01:45	2020-02-25 09:01:45
+119	0x77	w	436	10070649	dtp	Nopo di talaid po om sopi'uhang-uhang koi nogi daa di nga a' kasawo diri.	LeeSooHa	2021-05-29 02:52:14	2021-05-29 02:52:14
 120	0x78	x	1	10599561	dtp	Tumimpuun songongi sumiliu do soboogian mantad takanon a'asi id mogikaakawo tana' id Mexico om id pomogunan.	LeeSooHa	2022-01-01 12:32:34	2022-01-01 12:32:34
-121	0x79	y	735	10070573	dtp	Ampayat no kokurikulum id sikul.	LeeSooHa	2021-05-29 01:37:49	2021-05-29 01:37:49
-122	0x7a	z	20	5869392	dtp	Ilo hodi nangku muzium do rikoton di tulun ginumuan?	Dusun_Les	2017-02-15 13:25:09	2017-02-15 13:25:09
-8203	0x200b	​	5	10301870	dtp	​Tanud no pomisunundan tulun di nokopogulu nokosila silaon.	LeeSooHa	2021-09-18 03:17:47	2021-09-18 03:17:47
+121	0x79	y	735	4708624	dtp	Maan oku piipiro do wonsoyon padalin.	Dusun_Les	2015-11-18 08:55:31	2015-11-18 08:55:39
+122	0x7a	z	20	4609705	dtp	Abalantas yau mimboros do Kadazan.	Dusun_Les	2015-10-15 04:20:20	2015-10-15 04:20:20
+8203	0x200b	​	5	10301866	dtp	​Koungkalat do bolou roso diti tua' lansat.	LeeSooHa	2021-09-18 03:16:18	2021-09-18 03:16:18
 8217	0x2019	’	18	6403030	dtp	Ruminikot iyahai mantad mogisuwai-suwai o bansa om boros, nga’ koinsanai dahai nosompuru id hontolon di miagal. Lobi’ mantad ko’ nunu nopo, manu iyahai do momusou di Yohuwah, Kinorohingan di rinait id Baibol om i Minomorun do koinsanai’d nunu nopo. Monotos iyahai do momit di Yesus Kristus om oondos iyahai do roitan tulun Kristian. Monikid dahai nga’ mamakai maso bagi’d monguhup tulun suwai do minsingilo’d Baibol om Pomorintaan do Kinorohingan. Iyo do sasi’, mimboros iyahai pasal di Yohuwah, i Kinorohingan om pomorintaan Dau, om iri noddi do roitan iyahai’d Sasi-sasi’d Yohuwah.	LeeSooHa	2017-10-29 11:54:03	2017-10-29 11:54:03
 8220	0x201c	“	3	8406308	dtp	“Nunu iti?” “Iti nopo nga gambar nu.”	Dusun_Les	2019-12-26 13:51:26	2019-12-26 13:51:26
-8221	0x201d	”	3	8406308	dtp	“Nunu iti?” “Iti nopo nga gambar nu.”	Dusun_Les	2019-12-26 13:51:26	2019-12-26 13:51:26
+8221	0x201d	”	3	6473119	dtp	Om ontong oku no, om korongou ku no ot iso' o kondiu di mintulud do hilo'd sawat do mimboros dot opuhod do poingkaa, “Obungou no! Obungou no! Obungou no o koinsanai'd tulun do hiti'd pomogunan dot orongou i tolu kawagu o moloikat do popouni di torumpit diyolo' do tiinu'!” ka.	LeeSooHa	2017-11-19 12:25:00	2017-11-19 12:25:00

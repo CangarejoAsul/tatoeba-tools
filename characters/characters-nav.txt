@@ -1,55 +1,55 @@
-32	0x20	 	196	7563554	nav	Neeznáá, naadiin, tádiin, dízdiin, ashdladiin, hastą́diin, tsots'idiin, tseebídiin, náhást'édiin, neeznádiin	Atomo	2018-12-08 18:24:39	2018-12-08 18:24:49
-33	0x21	!	8	3592120	nav	Yá'ánísht'ééh!	\N	2014-10-29 19:06:16	2016-01-21 07:27:25
+32	0x20	 	196	7561714	nav	Yiską́ą́go áadi diikah.	Atomo	2018-12-07 21:06:22	2018-12-07 21:06:22
+33	0x21	!	8	7563415	nav	Nahółtą́ą́ʼ lágo!	Atomo	2018-12-08 18:00:04	2018-12-08 18:00:04
 34	0x22	"	4	3182928	nav	"Haʼátʼíísh baa naniná?" "Shił hózhǫ, ahéhee'."	\N	2014-04-16 20:11:33	2015-01-09 12:16:44
-39	0x27	'	46	3592621	nav	Ha'át'íísh yíhooł'aah?	\N	2014-10-29 21:45:42	2016-01-21 07:27:29
-44	0x2c	,	29	3182928	nav	"Haʼátʼíísh baa naniná?" "Shił hózhǫ, ahéhee'."	\N	2014-04-16 20:11:33	2015-01-09 12:16:44
-46	0x2e	.	64	3592624	nav	Bilagáana bizaad yíhooł'aah.	\N	2014-10-29 21:46:06	2016-01-21 07:27:31
-63	0x3f	?	11	7265244	nav	Haash yinilyé?	azraelgnosis	2018-10-08 06:25:11	2018-10-08 06:25:16
-65	0x41	A	9	2422752	nav	Abeʼ yistiní nisin.	\N	2013-05-07 13:38:51	2016-01-21 07:28:05
+39	0x27	'	46	3592617	nav	Ha'át'íísh baa da'íínółta?	\N	2014-10-29 21:44:08	2016-01-21 07:27:28
+44	0x2c	,	29	7563554	nav	Neeznáá, naadiin, tádiin, dízdiin, ashdladiin, hastą́diin, tsots'idiin, tseebídiin, náhást'édiin, neeznádiin	Atomo	2018-12-08 18:24:39	2018-12-08 18:24:49
+46	0x2e	.	64	7265243	nav	Yáʼátʼééh abiní.	azraelgnosis	2018-10-08 06:24:25	2018-10-08 06:24:30
+63	0x3f	?	11	7265256	nav	Diné bizaadísh dinitsʼaʼ?	azraelgnosis	2018-10-08 06:29:40	2018-10-08 06:29:40
+65	0x41	A	9	7262545	nav	Ahéheeʼ!	azraelgnosis	2018-10-07 06:24:55	2018-10-07 06:24:55
 66	0x42	B	3	7269777	nav	Biiʼndaʼaʼnéhégóó deetʼáázh.	azraelgnosis	2018-10-09 04:32:22	2018-10-09 04:32:29
-67	0x43	C	7	7265262	nav	Dáághahii dóó Bilagáana kʼehjígo Canada wolyé.	azraelgnosis	2018-10-08 06:30:55	2018-10-08 06:30:55
-68	0x44	D	8	7265266	nav	Díí naaltsoos éí ni.	azraelgnosis	2018-10-08 06:34:09	2018-10-08 06:34:15
+67	0x43	C	7	7269786	nav	Ch'ééh deeyá.	azraelgnosis	2018-10-09 04:36:29	2018-10-09 06:36:19
+68	0x44	D	8	7269803	nav	Daʼ Naat'áaniinééz góó diníyá?	azraelgnosis	2018-10-09 05:06:51	2018-10-09 05:06:51
 70	0x46	F	1	9483088	nav	Fadil bik'is yidííniidígíí yi’iilaa.	aidandavis	2020-12-16 00:54:53	2021-01-11 20:15:08
-72	0x48	H	9	7265254	nav	Níísh Hashkétsʼósí yinílyé?	azraelgnosis	2018-10-08 06:29:18	2018-10-08 06:29:18
-74	0x4a	J	5	7563384	nav	Jill hayííłtį́.	Atomo	2018-12-08 17:57:22	2018-12-08 17:57:22
+72	0x48	H	9	3592617	nav	Ha'át'íísh baa da'íínółta?	\N	2014-10-29 21:44:08	2016-01-21 07:27:28
+74	0x4a	J	5	7563418	nav	Jooł hashtł’ish biih yíłmááz.	Atomo	2018-12-08 18:00:32	2018-12-08 18:00:32
 75	0x4b	K	4	7265260	nav	Kii wolyé.	azraelgnosis	2018-10-08 06:30:28	2018-10-08 06:30:41
 77	0x4d	M	3	7570627	nav	Tom Mary yiláahgo áníłnééz.	Atomo	2018-12-09 18:23:45	2018-12-09 23:35:17
-78	0x4e	N	15	7563379	nav	John Na’nízhoozhígóó naayá.	Atomo	2018-12-08 17:56:52	2018-12-08 17:56:52
-83	0x53	S	8	3592629	nav	Shá háchį'.	\N	2014-10-29 21:48:00	2016-01-21 07:27:32
-84	0x54	T	11	7570623	nav	Tom nineez.	Atomo	2018-12-09 18:23:05	2018-12-09 23:35:27
+78	0x4e	N	15	7563415	nav	Nahółtą́ą́ʼ lágo!	Atomo	2018-12-08 18:00:04	2018-12-08 18:00:04
+83	0x53	S	8	3592134	nav	Shi'niitsą́.	\N	2014-10-29 19:09:11	2016-01-21 07:27:26
+84	0x54	T	11	3592063	nav	T'óok bikéyahdę́ę́ naashá.	\N	2014-10-29 18:52:54	2016-01-21 07:27:21
 87	0x57	W	1	7269780	nav	Wááshindoongóó déyá.	azraelgnosis	2018-10-09 04:33:11	2018-10-09 04:33:22
-89	0x59	Y	12	7265247	nav	Yáʼátʼééh abiní haash yinilyé?	azraelgnosis	2018-10-08 06:26:10	2018-10-08 06:26:14
-97	0x61	a	179	7561710	nav	Ken hooghan góne’ yah ííyá.	Atomo	2018-12-07 21:05:36	2018-12-07 21:05:36
-98	0x62	b	28	3592624	nav	Bilagáana bizaad yíhooł'aah.	\N	2014-10-29 21:46:06	2016-01-21 07:27:31
-99	0x63	c	8	7265258	nav	Cháalatsoh bimá éí Asdzą́ą́łchííʼ wolyé.	azraelgnosis	2018-10-08 06:30:05	2018-10-08 06:30:05
-100	0x64	d	92	8858142	nav	Nił hózhǫ́ǫgo chʼídoohah!	iiujik	2020-06-19 21:03:01	2020-06-19 21:03:01
-101	0x65	e	50	7563554	nav	Neeznáá, naadiin, tádiin, dízdiin, ashdladiin, hastą́diin, tsots'idiin, tseebídiin, náhást'édiin, neeznádiin	Atomo	2018-12-08 18:24:39	2018-12-08 18:24:49
-103	0x67	g	43	9483096	nav	Sha’shin shił náhodighááh ńt’éé.	aidandavis	2020-12-16 00:56:52	2021-01-10 17:59:03
-104	0x68	h	183	7265262	nav	Dáághahii dóó Bilagáana kʼehjígo Canada wolyé.	azraelgnosis	2018-10-08 06:30:55	2018-10-08 06:30:55
-105	0x69	i	175	7265266	nav	Díí naaltsoos éí ni.	azraelgnosis	2018-10-08 06:34:09	2018-10-08 06:34:15
-106	0x6a	j	4	7561720	nav	Dííjį́ awéé’ azee’al’į́į́góó yideestį́.	Atomo	2018-12-07 21:08:57	2018-12-07 21:08:57
-107	0x6b	k	18	7561714	nav	Yiską́ą́go áadi diikah.	Atomo	2018-12-07 21:06:22	2018-12-07 21:06:22
-108	0x6c	l	30	3592624	nav	Bilagáana bizaad yíhooł'aah.	\N	2014-10-29 21:46:06	2016-01-21 07:27:31
-109	0x6d	m	14	7265249	nav	Yáʼátʼééh abiní shimá.	azraelgnosis	2018-10-08 06:26:31	2018-10-08 06:26:34
-110	0x6e	n	114	7563371	nav	John Tségháhoodzánádi naaghá.	Atomo	2018-12-08 17:56:16	2018-12-08 17:56:16
-111	0x6f	o	72	9483096	nav	Sha’shin shił náhodighááh ńt’éé.	aidandavis	2020-12-16 00:56:52	2021-01-10 17:59:03
+89	0x59	Y	12	7265245	nav	Yáʼátʼééh dóó ahéheeʼ.	azraelgnosis	2018-10-08 06:25:37	2018-10-08 06:25:37
+97	0x61	a	179	3165956	nav	Tsé ndaaz.	\N	2014-04-11 07:34:43	2016-01-21 07:28:19
+98	0x62	b	28	7563554	nav	Neeznáá, naadiin, tádiin, dízdiin, ashdladiin, hastą́diin, tsots'idiin, tseebídiin, náhást'édiin, neeznádiin	Atomo	2018-12-08 18:24:39	2018-12-08 18:24:49
+99	0x63	c	8	8858142	nav	Nił hózhǫ́ǫgo chʼídoohah!	iiujik	2020-06-19 21:03:01	2020-06-19 21:03:01
+100	0x64	d	92	7563395	nav	Nínádiishʼnahgo gohwééh náshdlį́į́h.	Atomo	2018-12-08 17:58:30	2018-12-08 17:58:30
+101	0x65	e	50	7262546	nav	Hágoóneeʼ shimá.	azraelgnosis	2018-10-07 06:25:15	2018-10-07 06:25:51
+103	0x67	g	43	7570627	nav	Tom Mary yiláahgo áníłnééz.	Atomo	2018-12-09 18:23:45	2018-12-09 23:35:17
+104	0x68	h	183	7561710	nav	Ken hooghan góne’ yah ííyá.	Atomo	2018-12-07 21:05:36	2018-12-07 21:05:36
+105	0x69	i	175	9483088	nav	Fadil bik'is yidííniidígíí yi’iilaa.	aidandavis	2020-12-16 00:54:53	2021-01-11 20:15:08
+106	0x6a	j	4	7561704	nav	Tóó hooghanjigo dah diish’na’.	Atomo	2018-12-07 21:03:53	2018-12-07 21:03:53
+107	0x6b	k	18	2423578	nav	Mósí naaki shee hólǫ́.	\N	2013-05-07 20:59:26	2013-05-07 20:59:26
+108	0x6c	l	30	7265258	nav	Cháalatsoh bimá éí Asdzą́ą́łchííʼ wolyé.	azraelgnosis	2018-10-08 06:30:05	2018-10-08 06:30:05
+109	0x6d	m	14	7561682	nav	Yas shaa níłmáás.	Atomo	2018-12-07 20:55:16	2018-12-07 20:55:16
+110	0x6e	n	114	7265244	nav	Haash yinilyé?	azraelgnosis	2018-10-08 06:25:11	2018-10-08 06:25:16
+111	0x6f	o	72	3592063	nav	T'óok bikéyahdę́ę́ naashá.	\N	2014-10-29 18:52:54	2016-01-21 07:27:21
 114	0x72	r	1	7570627	nav	Tom Mary yiláahgo áníłnééz.	Atomo	2018-12-09 18:23:45	2018-12-09 23:35:17
-115	0x73	s	102	9483088	nav	Fadil bik'is yidííniidígíí yi’iilaa.	aidandavis	2020-12-16 00:54:53	2021-01-11 20:15:08
-116	0x74	t	77	7265254	nav	Níísh Hashkétsʼósí yinílyé?	azraelgnosis	2018-10-08 06:29:18	2018-10-08 06:29:18
-119	0x77	w	6	7563395	nav	Nínádiishʼnahgo gohwééh náshdlį́į́h.	Atomo	2018-12-08 17:58:30	2018-12-08 17:58:30
-121	0x79	y	45	7265244	nav	Haash yinilyé?	azraelgnosis	2018-10-08 06:25:11	2018-10-08 06:25:16
-122	0x7a	z	36	7269807	nav	Shimá naat'áaniinééz góó déyá.	azraelgnosis	2018-10-09 05:08:02	2018-10-09 05:08:02
-225	0xe1	á	130	3592629	nav	Shá háchį'.	\N	2014-10-29 21:48:00	2016-01-21 07:27:32
-233	0xe9	é	79	7563371	nav	John Tségháhoodzánádi naaghá.	Atomo	2018-12-08 17:56:16	2018-12-08 17:56:16
-237	0xed	í	103	7561708	nav	Ashkii yázhí tł’iish hooghan góne’ yah ayíílá.	Atomo	2018-12-07 21:04:44	2018-12-07 21:04:44
-243	0xf3	ó	59	7561720	nav	Dííjį́ awéé’ azee’al’į́į́góó yideestį́.	Atomo	2018-12-07 21:08:57	2018-12-07 21:08:57
+115	0x73	s	102	7563541	nav	T'ááłá'í, naaki, táá', dį́į́', ashdla', hastą́ą́, tsots'id, tseebíí, náhást'éí, neeznáá	Atomo	2018-12-08 18:20:15	2018-12-09 23:38:32
+116	0x74	t	77	7561716	nav	Ashkii bá’ólta’í asdzą́ą́ bibéeso bizis ch’ał yiih yiyííłtį́.	Atomo	2018-12-07 21:06:42	2018-12-07 21:07:15
+119	0x77	w	6	7265260	nav	Kii wolyé.	azraelgnosis	2018-10-08 06:30:28	2018-10-08 06:30:41
+121	0x79	y	45	7561710	nav	Ken hooghan góne’ yah ííyá.	Atomo	2018-12-07 21:05:36	2018-12-07 21:05:36
+122	0x7a	z	36	7563554	nav	Neeznáá, naadiin, tádiin, dízdiin, ashdladiin, hastą́diin, tsots'idiin, tseebídiin, náhást'édiin, neeznádiin	Atomo	2018-12-08 18:24:39	2018-12-08 18:24:49
+225	0xe1	á	130	7265258	nav	Cháalatsoh bimá éí Asdzą́ą́łchííʼ wolyé.	azraelgnosis	2018-10-08 06:30:05	2018-10-08 06:30:05
+233	0xe9	é	79	7265247	nav	Yáʼátʼééh abiní haash yinilyé?	azraelgnosis	2018-10-08 06:26:10	2018-10-08 06:26:14
+237	0xed	í	103	7561685	nav	Díí awéé’ shá dah diiłteeh.	Atomo	2018-12-07 20:55:40	2018-12-07 20:56:13
+243	0xf3	ó	59	2423578	nav	Mósí naaki shee hólǫ́.	\N	2013-05-07 20:59:26	2013-05-07 20:59:26
 261	0x105	ą	20	7563410	nav	Nahółtą́ą́ʼ laanaa!	Atomo	2018-12-08 17:59:38	2018-12-08 17:59:38
 281	0x119	ę	4	7269789	nav	Anáhoʼniiłtį́įhgo biniinaa náháshgodę́ę bikʼinídíshdááh.	azraelgnosis	2018-10-09 04:41:21	2018-10-09 04:41:21
-303	0x12f	į	20	7561716	nav	Ashkii bá’ólta’í asdzą́ą́ bibéeso bizis ch’ał yiih yiyííłtį́.	Atomo	2018-12-07 21:06:42	2018-12-07 21:07:15
+303	0x12f	į	20	7563395	nav	Nínádiishʼnahgo gohwééh náshdlį́į́h.	Atomo	2018-12-08 17:58:30	2018-12-08 17:58:30
 321	0x141	Ł	1	7561712	nav	Łééchąą yázhí shimasaní baghandi níłtį́.	Atomo	2018-12-07 21:05:56	2018-12-07 21:05:56
-322	0x142	ł	37	7265258	nav	Cháalatsoh bimá éí Asdzą́ą́łchííʼ wolyé.	azraelgnosis	2018-10-08 06:30:05	2018-10-08 06:30:05
+322	0x142	ł	37	7561706	nav	Kinłánígóó dah diiyá.	Atomo	2018-12-07 21:04:12	2018-12-07 21:04:12
 324	0x144	ń	1	9483096	nav	Sha’shin shił náhodighááh ńt’éé.	aidandavis	2020-12-16 00:56:52	2021-01-10 17:59:03
-491	0x1eb	ǫ	4	8858142	nav	Nił hózhǫ́ǫgo chʼídoohah!	iiujik	2020-06-19 21:03:01	2020-06-19 21:03:01
-700	0x2bc	ʼ	52	7563395	nav	Nínádiishʼnahgo gohwééh náshdlį́į́h.	Atomo	2018-12-08 17:58:30	2018-12-08 17:58:30
-769	0x301	́	39	3592135	nav	Ni'niitsą́.	\N	2014-10-29 19:09:35	2016-01-21 07:27:27
-8217	0x2019	’	23	7561710	nav	Ken hooghan góne’ yah ííyá.	Atomo	2018-12-07 21:05:36	2018-12-07 21:05:36
+491	0x1eb	ǫ	4	3182928	nav	"Haʼátʼíísh baa naniná?" "Shił hózhǫ, ahéhee'."	\N	2014-04-16 20:11:33	2015-01-09 12:16:44
+700	0x2bc	ʼ	52	7269791	nav	Daʼ díísh Tségháhoodzánígóó atiin?	azraelgnosis	2018-10-09 04:46:52	2018-10-09 04:46:52
+769	0x301	́	39	7563395	nav	Nínádiishʼnahgo gohwééh náshdlį́į́h.	Atomo	2018-12-08 17:58:30	2018-12-08 17:58:30
+8217	0x2019	’	23	7561720	nav	Dííjį́ awéé’ azee’al’į́į́góó yideestį́.	Atomo	2018-12-07 21:08:57	2018-12-07 21:08:57

@@ -1,68 +1,68 @@
-32	0x20	 	906	7251901	que	Apoloka Ateneapak turimi.	Juanpa	2018-10-04 03:32:20	2018-10-04 03:32:20
-33	0x21	!	22	773580	que	Arí, haku!	marloncori	2011-02-28 07:16:12	2011-02-28 07:16:12
-34	0x22	"	14	6166729	que	"Aleman simi - sasa simi", Aleman runa nispa, ichaqa, chiqaqmanta Aleman simi manam chhika sasachu.	Killari	2017-07-25 18:18:16	2017-07-25 18:18:16
-39	0x27	'	21	5543913	que	Lluq'iman muyuriy.	diegohn	2016-10-23 20:05:37	2016-10-23 20:05:56
-44	0x2c	,	65	7248523	que	Chay qarika, Ima shuti kan?	Juanpa	2018-10-03 05:49:12	2018-10-03 05:49:12
-45	0x2d	-	7	6166729	que	"Aleman simi - sasa simi", Aleman runa nispa, ichaqa, chiqaqmanta Aleman simi manam chhika sasachu.	Killari	2017-07-25 18:18:16	2017-07-25 18:18:16
-46	0x2e	.	327	773520	que	Mana tawa paniykunayuq kanichu.	marloncori	2011-02-28 06:35:45	2011-02-28 06:35:45
+32	0x20	 	906	7251910	que	Heraka Dionisiopak ipami.	Juanpa	2018-10-04 03:42:31	2018-10-04 03:42:31
+33	0x21	!	22	773446	que	Haku wasiyta!	marloncori	2011-02-28 05:41:41	2011-02-28 05:41:41
+34	0x22	"	14	2871438	que	"Hayk'a watayuqmi kanki?" "Chunka suqtayuq watayuqmi kani."	Wayra	2013-11-23 00:59:51	2017-07-23 06:47:24
+39	0x27	'	21	6166019	que	Sapa huch'uy wasiqa huch'uy chakatayuqmi.	Killari	2017-07-25 01:42:13	2017-07-25 01:42:13
+44	0x2c	,	65	7248495	que	Runakunaka Ecuadorpi kichwata riman, icha runa kunaka Perupi quechuata riman.	Juanpa	2018-10-03 04:58:00	2018-10-03 05:21:23
+45	0x2d	-	7	7248531	que	-Kanka yanujchu kan? -Mana, ñukaka mana lulunkunata yanunichu.	Juanpa	2018-10-03 05:56:59	2018-10-04 13:58:20
+46	0x2e	.	327	773595	que	Runakunaqa hamusan.	marloncori	2011-02-28 07:21:12	2011-03-01 05:54:22
 49	0x31	1	1	2871440	que	"Hayk'a watayuqmi kanki?" "16 watayuqmi kani."	Wayra	2013-11-23 01:00:26	2017-07-23 06:47:25
 54	0x36	6	1	2871440	que	"Hayk'a watayuqmi kanki?" "16 watayuqmi kani."	Wayra	2013-11-23 01:00:26	2017-07-23 06:47:25
-63	0x3f	?	92	773466	que	Ima sutiyki?	marloncori	2011-02-28 06:01:40	2011-02-28 06:01:40
-65	0x41	A	68	773414	que	Alqo qaritaqa kachuran.	marloncori	2011-02-28 05:23:00	2011-02-28 05:23:00
+63	0x3f	?	92	774929	que	Runasimita yachakusqa tukuspaqa, imatataq ruwasaq?	marloncori	2011-03-01 06:58:42	2011-03-01 06:58:42
+65	0x41	A	68	7251901	que	Apoloka Ateneapak turimi.	Juanpa	2018-10-04 03:32:20	2018-10-04 03:32:20
 66	0x42	B	5	7251889	que	Evo Morales Boliviamantami kan.	Juanpa	2018-10-04 03:09:26	2018-10-04 03:09:26
-67	0x43	C	19	337818	que	Cafetachu tetachu munanki?	cwil	2009-11-08 05:39:11	2010-09-11 19:00:27
-68	0x44	D	4	7251902	que	Dionisioka Apolopak wawkimi.	Juanpa	2018-10-04 03:32:58	2018-10-04 03:32:58
-69	0x45	E	9	7251889	que	Evo Morales Boliviamantami kan.	Juanpa	2018-10-04 03:09:26	2018-10-04 03:09:26
+67	0x43	C	19	7248523	que	Chay qarika, Ima shuti kan?	Juanpa	2018-10-03 05:49:12	2018-10-03 05:49:12
+68	0x44	D	4	7251910	que	Heraka Dionisiopak ipami.	Juanpa	2018-10-04 03:42:31	2018-10-04 03:42:31
+69	0x45	E	9	7251890	que	Obama Estados Unidosmantami kan.	Juanpa	2018-10-04 03:09:44	2018-10-04 03:09:44
 70	0x46	F	1	11976411	que	Facebookwan llamk'ay,	Wayramaru	2023-08-02 12:37:52	2023-08-02 12:37:52
-71	0x47	G	2	7255083	que	Pukami Garutaka kuyan.	Juanpa	2018-10-05 02:44:02	2018-10-05 02:44:02
-72	0x48	H	35	774904	que	Mariawan, Marcelinawan, tayta Husiymi llaqtaman risanku.	marloncori	2011-03-01 06:44:02	2011-03-01 06:44:02
-73	0x49	I	26	6166106	que	Pitaq yalliq Inlish harawiku?	Killari	2017-07-25 07:28:06	2017-07-25 07:28:06
-74	0x4a	J	9	773475	que	Paniyuq kankichu, Juan?	marloncori	2011-02-28 06:09:14	2011-02-28 06:10:20
-75	0x4b	K	41	2842413	que	Kusikunaykipaq asichkani.	Wayra	2013-11-11 06:39:02	2017-07-23 06:47:18
-76	0x4c	L	18	773487	que	Lópezqa tawa wawkenkunayuq kan.	marloncori	2011-02-28 06:18:06	2011-02-28 06:21:02
-77	0x4d	M	69	7248522	que	Mashi Guaman, Mayman rigunki?	Juanpa	2018-10-03 05:48:40	2018-10-03 05:48:40
-78	0x4e	N	26	773497	que	Noqa turiykanyuq kani.	marloncori	2011-02-28 06:25:48	2011-02-28 06:25:48
+71	0x47	G	2	7248522	que	Mashi Guaman, Mayman rigunki?	Juanpa	2018-10-03 05:48:40	2018-10-03 05:48:40
+72	0x48	H	35	7757388	que	Hayka watayuqtaq kanki?	Rockaround	2019-01-30 20:27:47	2019-01-30 20:27:47
+73	0x49	I	26	773466	que	Ima sutiyki?	marloncori	2011-02-28 06:01:40	2011-02-28 06:01:40
+74	0x4a	J	9	773467	que	Jack sutiy.	marloncori	2011-02-28 06:02:26	2011-02-28 06:02:26
+75	0x4b	K	41	7254277	que	Kanka munajpi, Ñuka killinsa hatallina ushankimi.	Juanpa	2018-10-04 21:16:14	2018-10-04 21:16:14
+76	0x4c	L	18	773428	que	Llamachu?	marloncori	2011-02-28 05:33:49	2011-02-28 05:33:49
+77	0x4d	M	69	2871726	que	Michikuna ancha ch'uya uywam.	Wayra	2013-11-23 05:41:28	2017-07-23 07:44:34
+78	0x4e	N	26	773388	que	Noqapaq wasiy kasan.	marloncori	2011-02-28 04:56:13	2011-02-28 05:25:23
 79	0x4f	O	2	7248502	que	Ñukaka Otavalopimi kawsani.	Juanpa	2018-10-03 05:13:35	2018-10-03 05:13:35
-80	0x50	P	48	7251891	que	Payka ñuka mashi Mari.	Juanpa	2018-10-04 03:16:01	2018-10-04 03:16:01
-81	0x51	Q	8	773528	que	Qhayakama.	marloncori	2011-02-28 06:39:29	2011-02-28 06:39:29
-82	0x52	R	21	774913	que	Rimaptiyku runasimita, Cuscopi runakuna kusikunku.	marloncori	2011-03-01 06:50:28	2011-03-01 06:50:28
-83	0x53	S	17	773402	que	Siskuq chakranpiqa rurushansi kiwña.	marloncori	2011-02-28 05:09:24	2011-02-28 05:09:24
-84	0x54	T	22	6894562	que	Tukuy kay pachaman paqarimujkuna libres nasekuntu tukuypunitaj kikin obligacionesniycjllataj, jinakamalla honorniyojtaj atiyniyojtaj, chantaqa razonwantaj concienciawantaj dotasqa kasqankurayku, kawsaqe masipura jina, tukuy uj munakuyllapi kawsakunanku tian.	Rockaround	2018-05-16 18:12:09	2018-05-16 18:12:09
+80	0x50	P	48	7254191	que	Ñukaka Aliciami kani. Payka ñuka mashi Pedromi kan.	Juanpa	2018-10-04 20:46:46	2018-10-04 20:46:46
+81	0x51	Q	8	774928	que	Qam munaptiykiqa, ruwasaq.	marloncori	2011-03-01 06:58:07	2011-03-01 06:58:07
+82	0x52	R	21	774920	que	Rimaspay runasimita kusikuni.	marloncori	2011-03-01 06:54:11	2011-03-01 06:54:11
+83	0x53	S	17	7251893	que	Shina shinalla.	Juanpa	2018-10-04 03:16:56	2018-10-04 03:16:56
+84	0x54	T	22	7237271	que	Tom se musel trochu rozhýbat.	Ergulis	2018-09-30 08:21:50	2018-09-30 08:26:59
 85	0x55	U	18	773311	que	Unqusqa runa kani.	marloncori	2011-02-28 03:57:35	2011-02-28 03:57:49
-87	0x57	W	22	773576	que	Wayllusankichu allochallaykita?	marloncori	2011-02-28 07:13:57	2011-02-28 07:13:57
-89	0x59	Y	14	6166136	que	Yaw, Hanako.	Killari	2017-07-25 08:01:39	2017-07-25 08:01:39
-90	0x5a	Z	6	7251896	que	Zeuska Cronospak churimi.	Juanpa	2018-10-04 03:24:22	2018-10-04 03:24:22
-97	0x61	a	2119	7251908	que	Heraka Arespak mamami.	Juanpa	2018-10-04 03:40:27	2018-10-04 03:40:27
-98	0x62	b	14	773366	que	Maychika sibulla?	marloncori	2011-02-28 04:35:27	2011-02-28 04:35:27
-99	0x63	c	286	6457223	que	Sulpayki, wasiykipi qurpachaytan munayman.	diegohn	2017-11-10 15:28:33	2017-11-10 15:28:33
+87	0x57	W	22	5974621	que	Wardiyawan rimashanku.	diegohn	2017-03-24 17:22:54	\N
+89	0x59	Y	14	773325	que	Yachakusani runasimita.	marloncori	2011-02-28 04:08:21	2011-02-28 04:08:21
+90	0x5a	Z	6	7251907	que	Zeuska Afroditapak taytami.	Juanpa	2018-10-04 03:39:46	2018-10-04 03:39:46
+97	0x61	a	2119	8394278	que	Pita maytam llantunayki?	zarisi	2019-12-21 08:06:31	2019-12-21 08:06:31
+98	0x62	b	14	2876502	que	Kamripi, Chubutpi, Kamri simiqa tukri simim.	Wayra	2013-11-24 18:16:59	2017-07-23 06:52:29
+99	0x63	c	286	6166019	que	Sapa huch'uy wasiqa huch'uy chakatayuqmi.	Killari	2017-07-25 01:42:13	2017-07-25 01:42:13
 100	0x64	d	31	773434	que	Ustadus Unidusmanta hamusankichu?	marloncori	2011-02-28 05:36:09	2011-02-28 05:36:09
-101	0x65	e	90	6166729	que	"Aleman simi - sasa simi", Aleman runa nispa, ichaqa, chiqaqmanta Aleman simi manam chhika sasachu.	Killari	2017-07-25 18:18:16	2017-07-25 18:18:16
+101	0x65	e	90	7255079	que	Helenami Alejandrotaka kuyan.	Juanpa	2018-10-05 02:39:17	2018-10-05 02:39:17
 102	0x66	f	6	7251900	que	Afroditaka Ateneapak ñañami.	Juanpa	2018-10-04 03:31:43	2018-10-04 03:31:43
-103	0x67	g	10	7251882	que	Leo Messika rumpata pugllajmi kan.	Juanpa	2018-10-04 03:01:21	2018-10-04 03:01:21
-104	0x68	h	395	7237271	que	Tom se musel trochu rozhýbat.	Ergulis	2018-09-30 08:21:50	2018-09-30 08:26:59
-105	0x69	i	910	7757296	que	Ñuqa llakikuyki.	Rockaround	2019-01-30 19:15:07	2019-01-30 19:15:07
+103	0x67	g	10	6166118	que	Magyar simita rimani.	Killari	2017-07-25 07:35:59	2017-07-25 07:35:59
+104	0x68	h	395	532200	que	Lliw runakunam paqarisqanchikmantapacha qispisqa kanchik, lliw chayaqinchikpipas kaqllataqmi sapakamanchikpa kanan. Yuyayniyuq kasqanchikraykum hawkalla aylluntinhina kawsayta atinanchik llapa runakunawan.	Wayra	2010-09-25 09:37:01	2017-07-23 06:46:55
+105	0x69	i	910	774913	que	Rimaptiyku runasimita, Cuscopi runakuna kusikunku.	marloncori	2011-03-01 06:50:28	2011-03-01 06:50:28
 106	0x6a	j	24	4258741	que	Burj Khalifa tukuy tiqsimuyupi aswan hatun wasim.	Balamax	2015-06-06 17:20:34	2016-03-22 14:25:18
-107	0x6b	k	763	773569	que	Chay hinaqa apukuna noqapah rimanqaku.	marloncori	2011-02-28 07:08:30	2011-02-28 07:08:30
-108	0x6c	l	257	7248526	que	Alli punlla, mashi Sandra.	Juanpa	2018-10-03 05:51:41	2018-10-03 05:51:41
-109	0x6d	m	420	7251917	que	Kay muchikoka Josepakmi kan.	Juanpa	2018-10-04 03:52:03	2018-10-04 03:52:03
-110	0x6e	n	852	774948	que	Rimasanku takinankupaq.	marloncori	2011-03-01 07:08:09	2011-03-01 07:08:09
-111	0x6f	o	113	6894562	que	Tukuy kay pachaman paqarimujkuna libres nasekuntu tukuypunitaj kikin obligacionesniycjllataj, jinakamalla honorniyojtaj atiyniyojtaj, chantaqa razonwantaj concienciawantaj dotasqa kasqankurayku, kawsaqe masipura jina, tukuy uj munakuyllapi kawsakunanku tian.	Rockaround	2018-05-16 18:12:09	2018-05-16 18:12:09
-112	0x70	p	225	532200	que	Lliw runakunam paqarisqanchikmantapacha qispisqa kanchik, lliw chayaqinchikpipas kaqllataqmi sapakamanchikpa kanan. Yuyayniyuq kasqanchikraykum hawkalla aylluntinhina kawsayta atinanchik llapa runakunawan.	Wayra	2010-09-25 09:37:01	2017-07-23 06:46:55
-113	0x71	q	312	773595	que	Runakunaqa hamusan.	marloncori	2011-02-28 07:21:12	2011-03-01 05:54:22
-114	0x72	r	252	774879	que	Paran.	marloncori	2011-03-01 06:32:11	2011-03-01 06:32:11
-115	0x73	s	352	7251876	que	Ishki allkukuna posoq chakikuna charin.	Juanpa	2018-10-04 02:53:56	2018-10-04 02:53:56
-116	0x74	t	353	774859	que	Tawa runakuna takisanku.	marloncori	2011-03-01 06:18:15	2011-03-01 06:18:15
-117	0x75	u	768	773518	que	Noqaqa mana tawa wawkeykunayuq kanichu.	marloncori	2011-02-28 06:35:04	2011-02-28 06:35:04
+107	0x6b	k	763	7248504	que	Ñawpa ñukaka wawallami karkani.	Juanpa	2018-10-03 05:16:03	2018-10-03 05:16:03
+108	0x6c	l	257	7251857	que	Alli tuta.	Juanpa	2018-10-04 02:17:04	2018-10-04 02:17:04
+109	0x6d	m	420	6166118	que	Magyar simita rimani.	Killari	2017-07-25 07:35:59	2017-07-25 07:35:59
+110	0x6e	n	852	7251851	que	Ñuka kullkita shuwarkan.	Juanpa	2018-10-04 02:09:33	2018-10-04 02:09:33
+111	0x6f	o	113	7251872	que	Apiukuna chusko chakikunata charin.	Juanpa	2018-10-04 02:45:56	2018-10-04 02:45:56
+112	0x70	p	225	8394269	que	Mana ñocaypa cananpac!	zarisi	2019-12-21 08:04:49	2019-12-21 08:04:49
+113	0x71	q	312	773414	que	Alqo qaritaqa kachuran.	marloncori	2011-02-28 05:23:00	2011-02-28 05:23:00
+114	0x72	r	252	773406	que	Bakayni kuruyan ukutinpi.	marloncori	2011-02-28 05:18:56	2011-02-28 05:18:56
+115	0x73	s	352	774924	que	Puristin takisani.	marloncori	2011-03-01 06:56:27	2011-03-01 06:56:27
+116	0x74	t	353	773354	que	Maynintataq chay ñan rin?	marloncori	2011-02-28 04:28:48	2011-02-28 04:28:48
+117	0x75	u	768	2871719	que	Mikhuq kusikun puñuq kusikun.	Wayra	2013-11-23 05:24:41	2017-07-23 07:44:09
 118	0x76	v	4	7251848	que	Ñukaka uvyanayanami kani.	Juanpa	2018-10-04 02:03:34	2018-10-04 02:03:34
-119	0x77	w	178	774946	que	Hamurani willawanaykirayku.	marloncori	2011-03-01 07:07:22	2011-03-01 07:07:22
-121	0x79	y	409	6166138	que	Taytaykiqa imataq munakun?	Killari	2017-07-25 08:08:49	2017-07-25 08:08:49
-122	0x7a	z	5	773487	que	Lópezqa tawa wawkenkunayuq kan.	marloncori	2011-02-28 06:18:06	2011-02-28 06:21:02
-191	0xbf	¿	4	8359500	que	¿Hayk'a watayuqmi paykuna kanku?	diegohn	2019-12-01 22:01:19	2019-12-01 22:01:19
-209	0xd1	Ñ	28	7251874	que	Ñuka wasipi soqta runakunaka kawsanchik.	Juanpa	2018-10-04 02:48:06	2018-10-04 02:48:06
+119	0x77	w	178	7248520	que	Ñukaka mana Ecuadorpi wacharirkanichu, icha kichwaka achka munanimi.	Juanpa	2018-10-03 05:46:58	2018-10-04 05:01:24
+121	0x79	y	409	7251907	que	Zeuska Afroditapak taytami.	Juanpa	2018-10-04 03:39:46	2018-10-04 03:39:46
+122	0x7a	z	5	6894562	que	Tukuy kay pachaman paqarimujkuna libres nasekuntu tukuypunitaj kikin obligacionesniycjllataj, jinakamalla honorniyojtaj atiyniyojtaj, chantaqa razonwantaj concienciawantaj dotasqa kasqankurayku, kawsaqe masipura jina, tukuy uj munakuyllapi kawsakunanku tian.	Rockaround	2018-05-16 18:12:09	2018-05-16 18:12:09
+191	0xbf	¿	4	8359517	que	¿Ikipupi pukllankichu?	diegohn	2019-12-01 22:06:47	2019-12-01 22:06:47
+209	0xd1	Ñ	28	6166112	que	Ñuqa k'acham.	Killari	2017-07-25 07:32:31	2017-07-25 07:32:31
 225	0xe1	á	1	775281	que	Much’ananayakapushasqakupuniñataqsunamá.	marloncori	2011-03-01 15:20:01	2011-04-12 02:54:40
 233	0xe9	é	3	7251886	que	José Andrés sumak yanujmi kan.	Juanpa	2018-10-04 03:07:38	2018-10-04 03:07:38
-237	0xed	í	6	773493	que	Maríaqa tawa turinkunayuq kan.	marloncori	2011-02-28 06:23:54	2011-02-28 06:23:54
-241	0xf1	ñ	48	773501	que	Noqa ñañaykunayuq kani.	marloncori	2011-02-28 06:27:28	2011-02-28 06:27:28
+237	0xed	í	6	773424	que	Arí, chayqa wasiy.	marloncori	2011-02-28 05:31:52	2011-02-28 05:32:28
+241	0xf1	ñ	48	7757396	que	Añañaw!	Rockaround	2019-01-30 21:16:53	2019-01-30 21:16:53
 243	0xf3	ó	1	773487	que	Lópezqa tawa wawkenkunayuq kan.	marloncori	2011-02-28 06:18:06	2011-02-28 06:21:02
 253	0xfd	ý	1	7237271	que	Tom se musel trochu rozhýbat.	Ergulis	2018-09-30 08:21:50	2018-09-30 08:26:59
 8217	0x2019	’	1	775281	que	Much’ananayakapushasqakupuniñataqsunamá.	marloncori	2011-03-01 15:20:01	2011-04-12 02:54:40

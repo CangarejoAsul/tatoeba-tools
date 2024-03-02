@@ -1,61 +1,61 @@
-000	1	1	+	8879736	Thanuir
-14	1	1	+	8879736	Thanuir
-1917	1	1	+	8881742	Thanuir
-Danija	1	1	+	8881656	Thanuir
-ellää	1	1	+	8881719	Thanuir
-Greenlannin	1	1	+	8881656	Thanuir
-Hänel	1	1	+	5455871	sikmir
-Helsinki	1	1	+	8879728	Thanuir
-Hyvvää	1	1	+	5453710	sikmir
-inhimistä	1	1	+	8879736	Thanuir
-inkeroin	1	1	+	5455853	sikmir
-itsenäisüüvven	1	1	+	8881742	Thanuir
-kaikist	1	1	+	8879728	Thanuir
-kasvi	1	1	+	8881717	Thanuir
-Katissa	1	1	+	8325062	Thanuir
-Kattaaja	1	1	+	8881715	Thanuir
-Keeltä	1	1	+	8879736	Thanuir
-Ken	1	1	+	5455841	sikmir
-kirja	2	2	+	5453783	sikmir
-kiruttammaa	1	1	+	8325062	Thanuir
-koira	1	1	+	5455871	sikmir
-Koivu	1	1	+	8881717	Thanuir
-Koulu	1	1	+	8325049	Thanuir
-Krapu	1	1	+	8881719	Thanuir
-läkäjää	1	1	+	8879736	Thanuir
-Lätimaan	1	1	+	8881725	Thanuir
-linna	1	1	+	8879728	Thanuir
-Meil	1	1	+	5453783	sikmir
-Miä	1	1	+	5455853	sikmir
-miä	1	1	+	5455841	sikmir
-Mikä	1	1	+	5455867	sikmir
-olj	2	2	+	8325071	Thanuir
-omissaa	1	1	+	8881656	Thanuir
-on	2	2	+	5453783	sikmir
-Onnelliist	1	1	+	8196109	Thanuir
-ono	6	6	+	5455867	sikmir
-oon	2	2	+	5455841	sikmir
-öötä	1	1	+	5453710	sikmir
-opetti	1	1	+	8325062	Thanuir
-päälinna	1	1	+	8881725	Thanuir
-Piipeli	1	1	+	8881735	Thanuir
-potra	1	1	+	8325071	Thanuir
-pühä	1	1	+	8881735	Thanuir
-puu	1	1	+	8881715	Thanuir
-Riga	1	1	+	8881725	Thanuir
-sai	1	1	+	8881742	Thanuir
-samas	1	1	+	8325049	Thanuir
-se	1	1	+	5455867	sikmir
-Soomen	1	1	+	8879728	Thanuir
-Soomi	1	1	+	8881742	Thanuir
-suuremp	1	1	+	8879728	Thanuir
-talos	1	1	+	8325049	Thanuir
-Terveeht	1	1	+	8206443	Thanuir
-Toorni	1	1	+	8325071	Thanuir
-tullooa	1	1	+	8206443	Thanuir
-uutta	1	1	+	8196109	Thanuir
-vees	1	1	+	8881719	Thanuir
-vootta	1	1	+	8196109	Thanuir
-voovven	1	1	+	8881742	Thanuir
-Wikipediaa	1	1	+	8206443	Thanuir
-yks	1	1	+	5453783	sikmir
+000	− 1	0	+	8879736	Thanuir
+14	− 1	0	+	8879736	Thanuir
+1917	− 1	0	+	8881742	Thanuir
+Danija	− 1	0	+	8881656	Thanuir
+ellää	− 1	0	+	8881719	Thanuir
+Greenlannin	− 1	0	+	8881656	Thanuir
+Hänel	+ 0	1	+	5455871	sikmir
+Helsinki	− 1	0	+	8879728	Thanuir
+Hyvvää	+ 0	1	+	5453710	sikmir
+inhimistä	− 1	0	+	8879736	Thanuir
+inkeroin	+ 0	1	+	5455853	sikmir
+itsenäisüüvven	− 1	0	+	8881742	Thanuir
+kaikist	− 1	0	+	8879728	Thanuir
+kasvi	− 1	0	+	8881717	Thanuir
+Katissa	− 1	0	+	8325062	Thanuir
+Kattaaja	− 1	0	+	8881715	Thanuir
+Keeltä	− 1	0	+	8879736	Thanuir
+Ken	+ 0	1	+	5455841	sikmir
+kirja	− 1	1	+	5453783	sikmir
+kiruttammaa	− 1	0	+	8325062	Thanuir
+koira	+ 0	1	+	5455871	sikmir
+Koivu	− 1	0	+	8881717	Thanuir
+Koulu	− 1	0	+	8325049	Thanuir
+Krapu	− 1	0	+	8881719	Thanuir
+läkäjää	− 1	0	+	8879736	Thanuir
+Lätimaan	− 1	0	+	8881725	Thanuir
+linna	− 1	0	+	8879728	Thanuir
+Meil	+ 0	1	+	5453783	sikmir
+Miä	+ 0	1	+	5455853	sikmir
+miä	+ 0	1	+	5455841	sikmir
+Mikä	+ 0	1	+	5455867	sikmir
+olj	− 2	0	+	8325071	Thanuir
+omissaa	− 1	0	+	8881656	Thanuir
+on	+ 0	2	+	5453783	sikmir
+Onnelliist	− 1	0	+	8196109	Thanuir
+ono	− 5	1	+	5455867	sikmir
+oon	+ 0	2	+	5455841	sikmir
+öötä	+ 0	1	+	5453710	sikmir
+opetti	− 1	0	+	8325062	Thanuir
+päälinna	− 1	0	+	8881725	Thanuir
+Piipeli	− 1	0	+	8881735	Thanuir
+potra	− 1	0	+	8325071	Thanuir
+pühä	− 1	0	+	8881735	Thanuir
+puu	− 1	0	+	8881715	Thanuir
+Riga	− 1	0	+	8881725	Thanuir
+sai	− 1	0	+	8881742	Thanuir
+samas	− 1	0	+	8325049	Thanuir
+se	+ 0	1	+	5455867	sikmir
+Soomen	− 1	0	+	8879728	Thanuir
+Soomi	− 1	0	+	8881742	Thanuir
+suuremp	− 1	0	+	8879728	Thanuir
+talos	− 1	0	+	8325049	Thanuir
+Terveeht	− 1	0	+	8206443	Thanuir
+Toorni	− 1	0	+	8325071	Thanuir
+tullooa	− 1	0	+	8206443	Thanuir
+uutta	− 1	0	+	8196109	Thanuir
+vees	− 1	0	+	8881719	Thanuir
+vootta	− 1	0	+	8196109	Thanuir
+voovven	− 1	0	+	8881742	Thanuir
+Wikipediaa	− 1	0	+	8206443	Thanuir
+yks	+ 0	1	+	5453783	sikmir
