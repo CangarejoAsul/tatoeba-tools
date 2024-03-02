@@ -20,7 +20,7 @@ def cleanupforhashing(text):
 
 def cleanupforsorting(word):
   word = word.lower()
-  word = sub(r"[\Wˈˌ]", "", word)
+  word = sub(r"[\Wˈˌǃ]", "", word)
   word = sub(r"[àáâãäāåă]", "a", word)
   word = sub(r"[æ]", "ae", word)
   word = sub(r"[çćĉčℂ]", "c", word)
@@ -38,13 +38,13 @@ def cleanupforsorting(word):
   word = sub(r"[œ]", "oe", word)
   word = sub(r"[ℚ]", "q", word)
   word = sub(r"[řṛŕℝ]", "r", word)
-  word = sub(r"[ŝšşș]", "s", word)
+  word = sub(r"[ŝšşșṣ]", "s", word)
   word = sub(r"[ß]", "ss", word)
   word = sub(r"[ţṭť]", "t", word)
   word = sub(r"[ùúûũüūŭ]", "u", word)
   word = sub(r"[𝑥]", "x", word)
   word = sub(r"[ý]", "y", word)
-  word = sub(r"[ž]", "z", word)
+  word = sub(r"[žż]", "z", word)
   return word
 
 def cleanupforsplitting(text):
