@@ -20,17 +20,31 @@ def cleanupforhashing(text):
 
 def cleanupforsorting(word):
   word = word.lower()
-  word = sub(r"\W", "", word)
-  word = sub(r"[àáâãäāå]", "a", word)
+  word = sub(r"[\Wˈˌ]", "", word)
+  word = sub(r"[àáâãäāåă]", "a", word)
   word = sub(r"[æ]", "ae", word)
-  word = sub(r"[ç]", "c", word)
-  word = sub(r"[èéêẽëē]", "e", word)
+  word = sub(r"[çćĉčℂ]", "c", word)
+  word = sub(r"[đḍď]", "d", word)
+  word = sub(r"[èéêẽëēěė]", "e", word)
+  word = sub(r"[ﬁ]", "fi", word)
+  word = sub(r"[ﬂ]", "fl", word)
+  word = sub(r"[ĝ]", "g", word)
+  word = sub(r"[ḥĥ]", "h", word)
   word = sub(r"[ìíîĩïī]", "i", word)
-  word = sub(r"[ñ]", "n", word)
+  word = sub(r"[ĵ]", "j", word)
+  word = sub(r"[łľĺ]", "l", word)
+  word = sub(r"[ñńň]", "n", word)
   word = sub(r"[òóôõöōø]", "o", word)
   word = sub(r"[œ]", "oe", word)
+  word = sub(r"[ℚ]", "q", word)
+  word = sub(r"[řṛŕℝ]", "r", word)
+  word = sub(r"[ŝšşș]", "s", word)
   word = sub(r"[ß]", "ss", word)
-  word = sub(r"[ùúûũüū]", "u", word)
+  word = sub(r"[ţṭť]", "t", word)
+  word = sub(r"[ùúûũüūŭ]", "u", word)
+  word = sub(r"[𝑥]", "x", word)
+  word = sub(r"[ý]", "y", word)
+  word = sub(r"[ž]", "z", word)
   return word
 
 def cleanupforsplitting(text):
@@ -204,7 +218,7 @@ def countcharacters():
       lines = {}
       for line in read:
         fields = findall(r"[^\t\n]+", line)
-        for character in fields[2]:
+        for character in set(fields[2]):
           characters.add(character)
           if character not in frequency:
             frequency[character] = 0
@@ -248,7 +262,7 @@ def countwords():
           fields = findall(r"[^\t\n]+", line)
           if fields[2] != "0":
             words.add(fields[0])
-            oldsentences[fields[0]] = fields[2]
+            oldsentences[fields[0]] = int(fields[2])
             identification[fields[0]] = fields[4]
             owner[fields[0]] = fields[5]
         read.close()
@@ -269,13 +283,19 @@ def countwords():
             owner[word] = fields[3]
       read.close()
 
+      for word in words:
+        if word not in oldsentences:
+          oldsentences[word] = 0
+        if word not in newsentences:
+          newsentences[word] = 0
+
       print("Writing words (" + language + ")...")
       words = list(words)
       words.sort()
       words.sort(key = lambda word: cleanupforsorting(word))
       write = open("words/words-" + language + ".txt", "w", encoding = "utf-8")
       for word in words:
-        print(word, oldsentences[word] if word in oldsentences else 0, newsentences[word] if word in newsentences else 0, "+" if spellchecks(word) else "−", identification[word], owner[word], sep = "\t", file = write)
+        print(word, "+" + str(newsentences[word] - oldsentences[word]) if newsentences[word] >= oldsentences[word] else "−" + str(oldsentences[word] - newsentences[word]), newsentences[word], "+" if spellchecks(word) else "−", identification[word], owner[word], sep = "\t", file = write)
       write.close()
 
 def counttranslations():
