@@ -115,7 +115,7 @@ def loadspellchecker(language):
     for line in file:
       dictionary.update(findall(r"\w+", line.lower()))
     file.close()
-    return lambda word: all(fragment in dictionary for fragment in findall(r"\w+", word.lower()))
+    return lambda word: all(fragment in dictionary or search(r"^\d+$", fragment) for fragment in findall(r"\w+", word.lower()))
 
 def writelanguageset():
   print("Reading language set...")
