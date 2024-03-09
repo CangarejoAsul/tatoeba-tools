@@ -1,98 +1,99 @@
-32	0x20	 	51218	1091009	oci	Dissabte que soi estat au cinema, puish au restaurant.	Batko	2011-09-09 16:11:57	2011-09-09 16:11:57
-33	0x21	!	584	5769939	oci	Hè pas de brut !	Batko	2017-01-15 06:44:18	2017-01-15 06:44:18
-34	0x22	"	93	5627964	oci	Me considèra pas mès coma una persona "normala".	Batko	2016-11-21 15:26:55	2016-11-21 15:27:05
+32	0x20	 	12193	12254140	oci	Jol pomièr t'ai revelhat.	QuentiBc	2024-01-06 10:49:38	2024-01-06 10:51:27
+33	0x21	!	596	5769653	oci	Bon viatge !!	Batko	2017-01-15 00:07:01	2017-01-15 00:07:01
+34	0x22	"	35	1034454	oci	"Com se passa ?" "Fòrça plan. Lo revengut e lo profièit pujan regularament."	Batko	2011-08-09 14:08:20	2011-08-09 14:08:20
 36	0x24	$	1	12176275	oci	Tom trobèt 5$ dins lo secador.	QuentiBc	2023-11-24 15:43:32	2023-11-24 15:43:32
-39	0x27	'	3928	5760454	oci	A pas podut anar a la fèsta pramor qu'èra malaut.	Batko	2017-01-11 06:01:44	2017-01-11 06:01:44
-44	0x2c	,	1011	5604678	oci	La collèga de la quala lo marit es francés, es anada a París.	Batko	2016-11-13 13:59:40	2016-11-13 13:59:40
-45	0x2d	-	241	12224628	oci	Plega-lo.	QuentiBc	2023-12-22 16:53:15	2023-12-22 16:53:15
-46	0x2e	.	10058	1076825	oci	Lo Joan que s'apelha.	Batko	2011-09-01 22:11:52	2011-09-01 22:11:52
-48	0x30	0	50	5660832	oci	Lo Tòm va pas tornar abans 2:30.	Batko	2016-12-05 16:29:08	2016-12-05 16:29:08
-49	0x31	1	41	12301832	oci	La gara es a 100 mètres d'aquí.	QuentiBc	2024-02-05 19:32:48	2024-02-05 19:32:48
-50	0x32	2	29	5660832	oci	Lo Tòm va pas tornar abans 2:30.	Batko	2016-12-05 16:29:08	2016-12-05 16:29:08
-51	0x33	3	22	12173427	oci	Tom a una imprimenta 3D.	QuentiBc	2023-11-22 20:22:22	2023-11-22 20:22:22
-52	0x34	4	7	12165972	oci	Ida nasquèt a Tolosa en 1904.	QuentiBc	2023-11-17 19:22:35	2023-11-17 19:22:35
-53	0x35	5	14	1034456	oci	Lo cors d'aleman comença lo 5 d'octobre.	Batko	2011-08-09 14:09:29	2011-08-09 14:09:36
-54	0x36	6	9	1100782	oci	En 1683 los Turcs qu'an assietjat Viènna peu dusau còp.	Batko	2011-09-12 22:27:06	2011-09-12 22:27:06
-55	0x37	7	9	1063220	oci	Arron la caduda de l'Empèri Roman, qui avó lòc en 476, lo latin qu'evoluí de faiçon diferenta dens cada grana region d'Occident.	Batko	2011-08-24 22:51:22	2011-08-24 22:51:22
-56	0x38	8	13	5627989	oci	Es nascut lo 28 de julhet de 1888.	Batko	2016-11-21 15:31:51	2016-11-21 15:31:51
-57	0x39	9	20	5711410	oci	La cantaira eslovèna Maja Keuc es nascuda en 1992.	Batko	2016-12-27 13:55:46	2016-12-27 13:55:59
-58	0x3a	:	26	11220193	oci	T'esperavi pas abans 2:30.	QuentiBc	2022-10-31 21:36:11	2022-10-31 21:36:11
-59	0x3b	;	1	5708714	oci	Es una ostaleria de tres estelas ; tres cents dolars la nueitada.	Batko	2016-12-26 17:53:07	2016-12-26 17:53:07
-63	0x3f	?	1507	1080520	oci	Quau ei la populacion d'aquera vila ?	Batko	2011-09-03 22:26:28	2011-09-03 22:26:28
-65	0x41	A	1601	5631085	oci	An ensajat d'assassinar lo president.	Batko	2016-11-22 21:45:46	2016-11-22 21:45:46
-66	0x42	B	250	1034453	oci	Bevi lo café solament shens de sucre.	Batko	2011-08-09 14:06:34	2011-08-09 14:06:34
-67	0x43	C	458	12174548	oci	Començava a nevar.	QuentiBc	2023-11-23 18:37:18	2023-11-23 18:37:18
-68	0x44	D	592	12166680	oci	David es polit.	QuentiBc	2023-11-18 12:14:06	2023-11-18 12:14:06
-69	0x45	E	1004	1118239	oci	Era que'm coneish.	Batko	2011-09-20 19:48:30	2011-09-20 19:48:30
-70	0x46	F	159	12174152	oci	Fan una salada.	QuentiBc	2023-11-23 16:18:16	2023-11-23 16:18:16
-71	0x47	G	73	12254178	oci	Gràcias d'avança.	QuentiBc	2024-01-06 11:09:38	2024-01-06 11:09:38
-72	0x48	H	60	5627986	oci	Hasèm un essai !	Batko	2016-11-21 15:31:33	2016-11-21 15:31:33
-73	0x49	I	210	12177823	oci	Ieu soi !	QuentiBc	2023-11-25 09:46:31	2023-11-25 09:46:44
-74	0x4a	J	129	5781140	oci	Jogar es bon.	Batko	2017-01-19 11:06:43	2017-01-19 11:06:43
-75	0x4b	K	29	5653201	oci	Lo Ken a fòrça mès líbers que non pas tu.	Batko	2016-12-02 15:39:24	2016-12-02 15:39:24
-76	0x4c	L	1793	1035533	oci	La curiositat es mei fòrta que non pas la prudéncia.	Batko	2011-08-10 11:31:20	2011-08-10 11:31:20
-77	0x4d	M	1088	1043062	oci	La Maia Keuc ei ua cantaira de las bonas.	Batko	2011-08-14 19:27:10	2011-08-14 19:27:10
-78	0x4e	N	409	1091008	oci	Ne vòli pas i anar se tu ne vengues pas dab jo.	Batko	2011-09-09 16:11:20	2011-09-09 16:11:20
-79	0x4f	O	170	12177614	oci	Ont es l'ascensor ?	QuentiBc	2023-11-25 08:27:56	2023-11-25 08:27:56
-80	0x50	P	692	5769651	oci	Parlas	Batko	2017-01-15 00:05:55	2017-01-15 00:05:55
-81	0x51	Q	1037	12220623	oci	Quala es la tòca de l'educacion ?	QuentiBc	2023-12-20 18:55:45	2023-12-20 18:55:45
-82	0x52	R	89	12167938	oci	M'apèli Robin.	QuentiBc	2023-11-19 08:19:25	2023-11-19 08:19:25
-83	0x53	S	1215	5631068	oci	Soi son amic e lo demorarèi.	Batko	2016-11-22 21:38:38	2016-11-22 21:38:38
-84	0x54	T	1419	12213030	oci	Espèras lo Tomàs ?	QuentiBc	2023-12-16 20:54:03	2023-12-16 20:54:03
-85	0x55	U	182	5712443	oci	Uei es lo cinc de març.	Batko	2016-12-27 20:39:24	2016-12-27 20:39:24
-86	0x56	V	583	5769940	oci	Vòli trabalhar.	Batko	2017-01-15 06:46:10	2017-01-15 06:46:10
-87	0x57	W	13	5948351	oci	Lo Sénher Wilder m'a balhat ton adreça mail.	Batko	2017-03-14 08:35:27	\N
-88	0x58	X	11	5880176	oci	Com se ditz XXX en olandés ?	Batko	2017-02-18 15:45:08	2017-02-18 15:45:08
-89	0x59	Y	35	1137745	oci	Sénher Yamada, qu'ètz demandat au telefòne.	Batko	2011-09-30 13:52:54	2011-09-30 13:55:25
-90	0x5a	Z	31	12250153	oci	Ziri prestissiá.	QuentiBc	2024-01-03 21:01:03	2024-01-03 21:01:03
-97	0x61	a	38687	5831625	oci	Sabi que pòdi pas getar la bala fòrça plan.	Batko	2017-02-05 22:15:22	2017-02-05 22:15:22
-98	0x62	b	3628	5831469	oci	Avisa-te, pichon, que i a encara bèra pausa dinc au sopar.	Batko	2017-02-05 21:51:45	2017-02-05 21:51:45
-99	0x63	c	7627	1120067	oci	Lo men pair que camina.	Batko	2011-09-21 21:41:29	2011-09-21 21:41:29
-100	0x64	d	8957	1080496	oci	Lo Tò qu'ei arribat lo darrèr.	Batko	2011-09-03 22:21:05	2011-09-03 22:21:05
-101	0x65	e	24182	1119630	oci	Tanlèu que'm lhèvi, qu'aprestissi lo cafè.	Batko	2011-09-21 17:42:30	2011-09-21 17:42:30
-102	0x66	f	1763	12174531	oci	Enfin nèva !	QuentiBc	2023-11-23 18:35:21	2023-11-23 18:35:21
-103	0x67	g	3504	12227284	oci	Sa plaga sagnava.	QuentiBc	2023-12-24 01:45:41	2023-12-24 01:45:41
-104	0x68	h	2986	12260754	oci	Perqué es interdich de pescar dins aqueste riu ?	QuentiBc	2024-01-09 21:19:11	2024-01-09 21:19:11
-105	0x69	i	15940	5720372	oci	"Comprengui perhèitament l'italian", ça's laudèc era en tot causir dens lo menù, mes quan la mangiscla estoc servida, èra pas brica çò qu'atenguèva.	Batko	2016-12-30 18:28:35	2016-12-30 18:28:35
-106	0x6a	j	1345	1041311	oci	Lo nòsta professor a essajat d'utilizar un metòde navèth d'ensenhament de l'anglés.	Batko	2011-08-13 22:43:02	2011-08-13 22:43:02
-107	0x6b	k	78	1129642	oci	Que soi de Shizuoka.	Batko	2011-09-25 22:13:17	2011-09-25 22:13:17
-108	0x6c	l	10673	12330616	oci	La colèra es marrida conselhièra.	QuentiBc	2024-02-20 21:30:19	2024-02-20 21:30:19
-109	0x6d	m	8587	5877011	oci	Ne vau vertadèrament la pena ?	Batko	2017-02-17 15:52:39	2017-02-17 15:52:39
-110	0x6e	n	16483	12223424	oci	Tom e Mary èran vesins, mas se vesián pas jamai.	QuentiBc	2023-12-22 07:30:19	2023-12-22 07:30:19
-111	0x6f	o	13702	1063081	oci	Sonque sètze deu cent deus professors d'aquesta escòla son hèmnas.	Batko	2011-08-24 22:29:57	2011-08-24 22:29:57
-112	0x70	p	7876	12210878	oci	Pensi pas de roncar.	QuentiBc	2023-12-15 12:14:23	2023-12-15 12:14:23
-113	0x71	q	3762	12260753	oci	Perqué es defendut de pescar dins aqueste riu ?	QuentiBc	2024-01-09 21:18:37	2024-01-09 21:18:59
-114	0x72	r	18015	5823955	oci	Las mongetas de Tarba, los ceps, las trufas negras, lo cambajon de La Cauna …	Batko	2017-02-03 17:01:18	2017-02-03 17:01:18
-115	0x73	s	21706	12305156	oci	Soi adicte à l'eroïna e ara sentissi lo sindròme de l'abstinéncia.	QuentiBc	2024-02-08 07:13:51	2024-02-08 07:13:51
-116	0x74	t	15001	1035620	oci	Quitament s'èra una femna, a combatut coratjosament.	Batko	2011-08-10 12:11:36	2011-08-10 12:11:36
-117	0x75	u	13181	11236234	oci	Veses pas çò que fas ?	QuentiBc	2022-11-08 17:10:04	2022-11-08 17:10:04
-118	0x76	v	3688	5660351	oci	Son totis dus en vita.	Batko	2016-12-05 11:51:23	2016-12-05 11:51:34
-119	0x77	w	22	1143021	oci	E podi parlar a Dauna Brown ?	Batko	2011-10-02 16:31:42	2011-10-02 16:31:42
-120	0x78	x	195	12301578	oci	Aimi aquesta expression.	QuentiBc	2024-02-05 17:20:06	2024-02-05 17:20:06
-121	0x79	y	100	12173785	oci	M'agrada lo rugby.	QuentiBc	2023-11-23 12:50:07	2023-11-23 12:50:07
-122	0x7a	z	840	1174374	oci	Sabètz a quina ora son arribats ?	Batko	2011-10-13 21:50:49	2011-10-13 21:50:49
+39	0x27	'	3403	5660337	oci	Dens son temps liure, l'agrada de s'estar sus internèt.	Batko	2016-12-05 11:49:09	2016-12-05 11:49:09
+44	0x2c	,	890	1034552	oci	Èra una nueit escura, shens de luna.	Batko	2011-08-09 15:13:59	2011-08-09 15:14:33
+45	0x2d	-	241	1134877	oci	Passatz-me la sau, vos prègui.	Batko	2011-09-29 12:11:39	2011-09-29 12:11:39
+46	0x2e	.	10273	1042884	oci	Ne l'ausissi pas.	Batko	2011-08-14 18:42:01	2011-08-14 18:42:12
+48	0x30	0	38	11220117	oci	Qué semblarà lo monde en 2022 ?	QuentiBc	2022-10-31 20:57:49	2022-10-31 20:57:49
+49	0x31	1	40	12301832	oci	La gara es a 100 mètres d'aquí.	QuentiBc	2024-02-05 19:32:48	2024-02-05 19:32:48
+50	0x32	2	27	12166486	oci	Nasquèri lo 23 de mars de 1969 a Barcelona.	QuentiBc	2023-11-18 08:55:58	2023-11-18 08:55:58
+51	0x33	3	22	5613570	oci	Cau estar ací abans 2:30 au mès tard.	Batko	2016-11-16 06:05:48	2016-11-16 06:05:48
+52	0x34	4	7	1063911	oci	Qu'am estudiat a l'escòla on Shakespeare ei vadut en 1564.	Batko	2011-08-25 11:59:01	2011-08-25 11:59:32
+53	0x35	5	14	5693614	oci	Aquesta fabrica produsís 500 veituras a la jornada.	Batko	2016-12-18 21:44:12	2016-12-18 21:44:12
+54	0x36	6	9	12166429	oci	Nasquèri lo 3 de mars de 1996 a Marselha en França.	QuentiBc	2023-11-18 08:37:52	2023-11-18 08:37:52
+55	0x37	7	8	1063913	oci	Que m'i cau estar abans las 7.	Batko	2011-08-25 12:01:15	2011-08-25 12:01:42
+56	0x38	8	11	1034079	oci	Se cambias 48 oras en minutas, quantas minutas aquò te fa ?	Batko	2011-08-09 11:23:25	2011-08-09 11:23:25
+57	0x39	9	18	12166411	oci	Germaine nasquèt a Marselha en 1900.	QuentiBc	2023-11-18 08:33:49	2023-11-18 08:33:49
+58	0x3a	:	26	1174344	oci	Estar cappelat representa au mensh un avantatge : que s'estauvia lo shampó.	Batko	2011-10-13 21:26:42	2011-10-13 21:26:42
+59	0x3b	;	3	5708714	oci	Es una ostaleria de tres estelas ; tres cents dolars la nueitada.	Batko	2016-12-26 17:53:07	2016-12-26 17:53:07
+63	0x3f	?	1521	12325201	oci	Lo musèu es dobèrt uèi ?	QuentiBc	2024-02-18 12:42:47	2024-02-18 12:42:47
+65	0x41	A	1630	12223989	oci	As encara lo temps.	QuentiBc	2023-12-22 12:12:53	2023-12-22 12:12:53
+66	0x42	B	257	12168116	oci	Bon anniversari papa.	QuentiBc	2023-11-19 10:56:49	2023-11-19 10:56:49
+67	0x43	C	466	12165558	oci	Conta çò que se passèt.	QuentiBc	2023-11-17 16:15:03	2023-11-17 16:15:03
+68	0x44	D	603	12224971	oci	De qué contava l'anóncia ?	QuentiBc	2023-12-22 18:34:15	2023-12-22 18:34:15
+69	0x45	E	1040	12309342	oci	Es casut dins lo valat.	QuentiBc	2024-02-10 10:19:10	2024-02-10 10:19:10
+70	0x46	F	167	12178374	oci	Fornissèm pas d'Internet gratuit.	QuentiBc	2023-11-25 14:35:11	2023-11-25 14:35:11
+71	0x47	G	78	1063301	oci	Gaha lo baish.	Batko	2011-08-24 23:04:48	2011-08-24 23:04:48
+72	0x48	H	60	12173430	oci	PHP es un pauc complicat.	QuentiBc	2023-11-22 20:23:14	2023-11-22 20:23:14
+73	0x49	I	220	12318828	oci	I penses pas tròp.	QuentiBc	2024-02-15 17:05:34	2024-02-15 17:05:34
+74	0x4a	J	129	12335620	oci	Joan es mon nebot.	QuentiBc	2024-02-23 18:10:12	2024-02-23 18:10:12
+75	0x4b	K	28	1502922	oci	Ara soi a Hong Kong.	Zyd	2012-03-25 19:26:17	2012-03-25 19:26:17
+76	0x4c	L	1851	12167888	oci	Lo viatge comença dimars.	QuentiBc	2023-11-19 08:04:49	2023-11-19 08:04:49
+77	0x4d	M	1105	5648616	oci	M'agradaré mès de saber pas.	Batko	2016-11-30 17:50:55	2016-11-30 17:50:55
+78	0x4e	N	414	1169218	oci	Adishatz, que soi la Nancy.	Batko	2011-10-10 22:19:48	2011-10-10 22:19:48
+79	0x4f	O	177	12335688	oci	Ont es lo ton pair ?	Balamax	2024-02-23 18:26:59	2024-02-23 18:26:59
+80	0x50	P	697	12308844	oci	Pel moment, me fa pas mestièr de res.	QuentiBc	2024-02-09 22:19:10	2024-02-09 22:19:10
+81	0x51	Q	1048	1061372	oci	Que sèm hens lo medish vaishèth.	Batko	2011-08-23 22:29:52	2011-08-23 22:29:52
+82	0x52	R	87	12167921	oci	Reconeissi aquela piscina !	QuentiBc	2023-11-19 08:15:14	2023-11-19 08:15:14
+83	0x53	S	1230	5782967	oci	Soi pas pèc.	Batko	2017-01-20 04:00:18	2017-01-20 04:00:18
+84	0x54	T	1456	1134979	oci	Lo Tòm que l'ensuquè.	Batko	2011-09-29 12:28:50	2011-09-29 12:28:50
+85	0x55	U	186	12175681	oci	Un còp èra un dròlle.	QuentiBc	2023-11-24 11:10:14	2023-11-24 11:10:14
+86	0x56	V	594	12190127	oci	Vos desiri un bon viatge.	QuentiBc	2023-12-02 08:51:52	2023-12-02 08:51:52
+87	0x57	W	13	5628983	oci	Roosevelt e Willkie an charrat de la situacion.	Batko	2016-11-21 20:42:41	2016-11-21 20:42:41
+88	0x58	X	8	12169402	oci	Yanni jogava a l'Xbox.	QuentiBc	2023-11-20 10:20:41	2023-11-20 10:20:41
+89	0x59	Y	36	12180656	oci	Yanni anèt enlà.	QuentiBc	2023-11-27 06:09:40	2023-11-27 06:09:40
+90	0x5a	Z	32	12182949	oci	Preparats, lèstes...Zo !	QuentiBc	2023-11-28 09:42:37	2023-11-28 09:42:37
+97	0x61	a	11519	12173420	oci	Soi a imprimir 100 paginas.	QuentiBc	2023-11-22 20:17:41	2023-11-22 20:17:41
+98	0x62	b	3179	12264476	oci	Avais de corbaduras.	QuentiBc	2024-01-12 17:36:27	2024-01-12 17:36:27
+99	0x63	c	5629	5654030	oci	Devath la cadièra i a una toqueta.	Batko	2016-12-02 21:35:16	2016-12-02 21:35:16
+100	0x64	d	6227	12223668	oci	Veni de veire passar lo bus.	QuentiBc	2023-12-22 08:53:02	2023-12-22 08:53:02
+101	0x65	e	10084	5801675	oci	Es una ostaleria.	Batko	2017-01-26 13:50:31	2017-01-26 13:50:31
+102	0x66	f	1718	5679892	oci	La filosofia es l'amor de la saviesa.	Batko	2016-12-12 20:31:52	2016-12-12 20:31:52
+103	0x67	g	3140	5604692	oci	Preng ton capèth quan vengueràs en çò nòste.	Batko	2016-11-13 14:02:04	2016-11-13 14:02:04
+104	0x68	h	2587	12315852	oci	Beu aqueste chuc.	QuentiBc	2024-02-13 22:05:03	2024-02-13 22:05:03
+105	0x69	i	9078	5657690	oci	Aquò çò qu'an hèit.	Batko	2016-12-04 14:50:26	2016-12-04 14:50:26
+106	0x6a	j	1320	1042769	oci	As capejat ?	Batko	2011-08-14 18:11:47	2011-08-14 18:44:58
+107	0x6b	k	71	12167650	oci	Pokémon Go es un jòc gratuit.	QuentiBc	2023-11-19 00:54:48	2023-11-19 00:54:54
+108	0x6c	l	7105	5887985	oci	Espèri qu'as trobat quicòm per la fin.	Batko	2017-02-20 20:05:35	\N
+109	0x6d	m	6309	12223534	oci	Per qué daissas Tom te far aquò ?	QuentiBc	2023-12-22 07:56:07	2023-12-22 07:56:07
+110	0x6e	n	8855	5926711	oci	Lo mandarin es la lenga mès parlada dens lo monde.	Batko	2017-03-07 21:04:58	\N
+111	0x6f	o	8176	5873147	oci	L'aulor deus mots me harta pas.	Batko	2017-02-16 16:40:45	2017-02-16 16:40:45
+112	0x70	p	5867	5820953	oci	Quau es ton shampó favorit ?	Batko	2017-02-02 13:29:45	2017-02-02 13:29:45
+113	0x71	q	3204	12167880	oci	Trabalhan aquesta dimenjada.	QuentiBc	2023-11-19 08:02:24	2023-11-19 08:02:24
+114	0x72	r	9524	1043369	oci	Pr'amor podes pas vénguer ?	Batko	2011-08-14 21:00:27	2011-08-14 21:00:27
+115	0x73	s	9770	12186512	oci	Bevi tè verd, pas negre.	QuentiBc	2023-11-30 07:13:16	2023-11-30 07:13:16
+116	0x74	t	8446	5831462	oci	De qué diserés d’una salada verda dambe tomatas e milhòc ?	Batko	2017-02-05 21:50:58	2017-02-05 21:50:58
+117	0x75	u	7951	1042849	oci	Ès presoèr de las toas acostumas ?	Batko	2011-08-14 18:35:40	2011-08-14 18:43:53
+118	0x76	v	3168	5646882	oci	M'avengui plan dambe era.	Batko	2016-11-29 21:23:35	2016-11-29 21:23:35
+119	0x77	w	22	12254134	oci	En Brown es doctor.	QuentiBc	2024-01-06 10:46:02	2024-01-06 10:46:02
+120	0x78	x	201	5720362	oci	Es estada assautada sexualament dens un ascensor.	Batko	2016-12-30 18:21:42	2016-12-30 18:21:42
+121	0x79	y	102	5662531	oci	M'apèri Emily.	Batko	2016-12-06 10:49:56	2016-12-06 10:49:56
+122	0x7a	z	802	12334212	oci	Sètz adorables.	QuentiBc	2024-02-22 20:01:25	2024-02-22 20:01:25
 160	0xa0	 	1	2251531	oci	Qual espèras ?	Zyd	2013-02-23 18:59:09	2013-02-23 18:59:09
-171	0xab	«	10	5872964	oci	Es tot parièr, quan tòcas la man, dises « vosauts », se potonejas, dises « tu ».	Batko	2017-02-16 15:54:24	2017-02-16 15:54:24
-180	0xb4	´	10	5765480	oci	Aquò´s tot çò que hèn ?	Batko	2017-01-13 03:49:26	2017-01-13 03:49:26
-187	0xbb	»	10	12309491	oci	« Un anar-tornar París-Tolosa… » « Farà quaranta èuros e trenta-sèt centims. »	QuentiBc	2024-02-10 11:36:48	2024-02-10 11:36:48
-199	0xc7	Ç	12	1153002	oci	Ça digó qu'èra hèra urós.	Batko	2011-10-05 12:06:43	2011-10-05 12:06:43
-200	0xc8	È	359	12288693	oci	Èras polida.	QuentiBc	2024-01-28 02:41:16	2024-01-28 02:41:16
+171	0xab	«	9	12349834	oci	L'orgasme es de còps nomenat « la pichona mòrt ».	QuentiBc	2024-03-02 11:15:12	2024-03-02 11:15:12
+176	0xb0	°	2	12355320	oci	Quand la temperatura de l'aiga ateng 100°c, comença a rire.	QuentiBc	2024-03-04 20:44:19	2024-03-04 20:44:19
+180	0xb4	´	10	5781237	oci	Aquò´s la vertat.	Batko	2017-01-19 11:32:04	2017-01-19 11:32:04
+187	0xbb	»	9	5872964	oci	Es tot parièr, quan tòcas la man, dises « vosauts », se potonejas, dises « tu ».	Batko	2017-02-16 15:54:24	2017-02-16 15:54:24
+199	0xc7	Ç	13	1153002	oci	Ça digó qu'èra hèra urós.	Batko	2011-10-05 12:06:43	2011-10-05 12:06:43
+200	0xc8	È	360	5722217	oci	Èi tuat los dus.	Batko	2016-12-31 14:21:36	2016-12-31 14:21:36
 201	0xc9	É	2	5663634	oci	És segur que podèm pas petassar aqueste aparelh-fòro ?	Batko	2016-12-06 16:46:03	2016-12-06 16:46:03
-210	0xd2	Ò	27	11255617	oci	Òsca !	QuentiBc	2022-11-18 16:18:25	2022-11-18 16:18:25
+210	0xd2	Ò	27	1170744	oci	Òc, mès n'i a pas besonh de demorar dinc a la fin.	Batko	2011-10-11 22:49:57	2011-10-11 22:49:57
 211	0xd3	Ó	1	1036575	oci	Óc, drom enqüèra a maugrat de la lutz.	Batko	2011-08-10 23:33:15	2011-08-10 23:33:15
-224	0xe0	à	578	5599515	oci	Lo 15 de març serà mon darrèr jorn d'escòla.	Batko	2016-11-11 22:45:20	2016-11-11 22:45:20
-225	0xe1	á	384	12311361	oci	Sabiam que poiriá pas venir.	QuentiBc	2024-02-11 15:07:27	2024-02-11 15:07:27
-231	0xe7	ç	636	5662510	oci	Era m'a aperat fòrça còps.	Batko	2016-12-06 10:46:54	2016-12-06 10:46:54
-232	0xe8	è	4846	1066435	oci	I avèva un molin d'aiga devath la paishèra.	Batko	2011-08-26 21:53:34	2011-08-26 21:53:34
-233	0xe9	é	829	5820840	oci	Perdon, Sénher, per anar a la prefectura, per on me cau passar ?	Batko	2017-02-02 13:12:30	2017-02-02 13:12:30
-237	0xed	í	683	12331827	oci	Una bala de cauchó rebombís a causa de son elasticitat.	QuentiBc	2024-02-21 22:10:52	2024-02-21 22:10:52
+224	0xe0	à	574	12177661	oci	Sabetz quand arribaràn ?	QuentiBc	2023-11-25 08:44:34	2023-11-25 08:44:34
+225	0xe1	á	397	12173325	oci	Perqué siás tan tardièr ?	QuentiBc	2023-11-22 19:29:23	2023-11-22 19:29:23
+231	0xe7	ç	634	5664261	oci	La Purmèra Guèrra Mondiala a començat en 1914.	Batko	2016-12-06 21:13:36	2016-12-06 21:13:46
+232	0xe8	è	4125	1174395	oci	Que'u calèva demorar au lhèit.	Batko	2011-10-13 22:05:06	2011-10-13 22:05:06
+233	0xe9	é	792	1142995	oci	M'agradaré d'estar mei gran.	Batko	2011-10-02 16:23:52	2011-10-02 16:23:52
+237	0xed	í	680	12331826	oci	Una palma de cauchó rebombís a causa de son elasticitat.	QuentiBc	2024-02-21 22:10:32	2024-02-21 22:10:32
 238	0xee	î	2	12332689	oci	Me soi mainat que Benoît aviá rason.	QuentiBc	2024-02-22 09:28:17	2024-02-22 09:28:17
-239	0xef	ï	47	12323911	oci	S'exprimís sens ambiguïtat.	QuentiBc	2024-02-17 21:42:42	2024-02-17 21:42:42
+239	0xef	ï	48	12305140	oci	Es es adicte a l'eroïna.	QuentiBc	2024-02-08 07:00:04	2024-02-08 07:00:04
 241	0xf1	ñ	1	5823919	oci	S’as set, pas nat problèma, podes béver a cada « peña ».	Batko	2017-02-03 16:52:48	2017-02-03 16:52:48
-242	0xf2	ò	3322	12237839	oci	Pensas a quicòm mai.	QuentiBc	2023-12-29 09:44:16	2023-12-29 09:44:16
-243	0xf3	ó	222	1119639	oci	L'ostau que lo Tòm a bastit ei meravilhós.	Batko	2011-09-21 17:47:09	2011-09-21 17:47:09
-249	0xf9	ù	8	5635403	oci	Quan plau, era preng l'autobùs.	Batko	2016-11-24 15:01:29	2016-11-24 15:01:29
-250	0xfa	ú	25	12323905	oci	Lo sens d'aquesta frasa es ambigú.	QuentiBc	2024-02-17 21:38:28	2024-02-17 21:38:28
-252	0xfc	ü	36	1120066	oci	Que l'aima enqüèra.	Batko	2011-09-21 21:41:15	2011-09-21 21:41:15
-8217	0x2019	’	142	5823892	oci	Solide, au rugbí, lo que n’agrada pas lo contacte s’aveja drin.	Batko	2017-02-03 16:48:25	2017-02-03 16:48:25
-8230	0x2026	…	3	5814648	oci	Es fòrça plan, mès … quin avegèr !	Batko	2017-01-31 12:52:03	2017-01-31 12:52:03
+242	0xf2	ò	3006	12337453	oci	La tecnologia pòt ajudar.	QuentiBc	2024-02-24 15:41:33	2024-02-24 15:41:33
+243	0xf3	ó	222	1039099	oci	Hètz hóner lo chocolat, hornissètz lo bóder e bolegatz de plan.	Batko	2011-08-12 18:08:57	2011-08-12 18:08:57
+249	0xf9	ù	8	1062938	oci	La glèisa se troba sus la sèrra au dessùs de la vila.	Batko	2011-08-24 21:56:24	2011-08-24 21:56:24
+250	0xfa	ú	25	12176320	oci	Ziri se pissèt dessús.	QuentiBc	2023-11-24 15:56:50	2023-11-24 15:56:50
+252	0xfc	ü	36	1191301	oci	Lo casau qu'ei enqüèra a l'ombra.	Batko	2011-10-22 19:47:10	2011-10-22 19:47:10
+8217	0x2019	’	121	5794876	oci	Prengui l’autobús au canton de la carrèra, o i vau en veitura quan plau.	Batko	2017-01-24 11:13:58	2017-01-24 11:13:58
+8230	0x2026	…	3	5823955	oci	Las mongetas de Tarba, los ceps, las trufas negras, lo cambajon de La Cauna …	Batko	2017-02-03 17:01:18	2017-02-03 17:01:18

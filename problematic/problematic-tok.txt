@@ -1,8 +1,6 @@
-Em dash: homoglyph	2112660	tok	"jan seme li toki?" - "mi toki."	soweli_Elepanto	2012-12-30 10:45:17	2012-12-30 10:45:17
 English quotation marks: unclosed opening mark	2969715	tok	tenpo pini lili la mi lape e ni: jan li toki e ni tawa mi: „sina mije. taso sina en mije li unpa.“	kroko	2014-01-07 14:06:10	2014-12-04 00:45:58
 Low quotation mark: not used	2969715	tok	tenpo pini lili la mi lape e ni: jan li toki e ni tawa mi: „sina mije. taso sina en mije li unpa.“	kroko	2014-01-07 14:06:10	2014-12-04 00:45:58
 Low quotation mark: not used	2969715	tok	tenpo pini lili la mi lape e ni: jan li toki e ni tawa mi: „sina mije. taso sina en mije li unpa.“	kroko	2014-01-07 14:06:10	2014-12-04 00:45:58
-Em dash: homoglyph	2969935	tok	„mi moli, la jan ale li pilin pona“. - „seme? sina moli, la jan ala li pilin pona!“	kroko	2014-01-07 15:32:29	2020-12-30 14:33:47
 English quotation marks: opening mark preceeded by letter or digit	2969935	tok	„mi moli, la jan ale li pilin pona“. - „seme? sina moli, la jan ala li pilin pona!“	kroko	2014-01-07 15:32:29	2020-12-30 14:33:47
 English quotation marks: unclosed opening mark	2969935	tok	„mi moli, la jan ale li pilin pona“. - „seme? sina moli, la jan ala li pilin pona!“	kroko	2014-01-07 15:32:29	2020-12-30 14:33:47
 English quotation marks: unbalanced opening marks	2969935	tok	„mi moli, la jan ale li pilin pona“. - „seme? sina moli, la jan ala li pilin pona!“	kroko	2014-01-07 15:32:29	2020-12-30 14:33:47
@@ -18,181 +16,18 @@ English quotation marks: unclosed opening mark	3005592	tok	„ilo utala pi linja
 English quotation marks: unbalanced opening marks	3005592	tok	„ilo utala pi linja suno li lon seme?“ – „ni li ni li poka len sina!“	kroko	2014-01-24 15:53:24	2014-01-24 15:53:24
 Low quotation mark: not used	3005592	tok	„ilo utala pi linja suno li lon seme?“ – „ni li ni li poka len sina!“	kroko	2014-01-24 15:53:24	2014-01-24 15:53:24
 Low quotation mark: not used	3005592	tok	„ilo utala pi linja suno li lon seme?“ – „ni li ni li poka len sina!“	kroko	2014-01-24 15:53:24	2014-01-24 15:53:24
-Em dash: homoglyph	3080025	tok	"o sina kama tawa jan Ton". - "seme? jan Ton li wile e ijo la jan Ton o tawa mi!"	kroko	2014-03-06 22:37:17	2020-10-27 08:41:15
-Em dash: homoglyph	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
 English quotation marks: opening mark succeeded by space	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
 English quotation marks: unclosed opening mark	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
 English quotation marks: unbalanced opening marks	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
 Low quotation mark: not used	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
 Low quotation mark: not used	3938674	tok	„jan Mewi li lon seme?“ - „ona li moli.“ - „ike!“	kroko	2015-03-08 00:32:25	2022-07-06 13:12:28
 Final punctuation	4534706	tok	"sina lon ma tomo Paki anu seme?" "mi lon"	carlosalberto	2015-09-18 13:01:20	2015-09-18 13:01:20
-Em dash: homoglyph	4948415	tok	"ilo Tatowepa la linja nimi pi mute seme li lon toki pona?" - "o mute e ale lon tenpo ale. kama pi ijo ni li toki sin."	carlosalberto	2016-03-02 02:12:26	2021-04-17 12:51:57
-Em dash: homoglyph	6328447	tok	"jan seme li wile kama jo e len ni lon esun? jan li jo e len ni la ona li lukin sama waso pi kule mute." - "taso mi wile jo e ona kin!"	Tepan	2017-09-26 13:38:12	2022-09-17 15:40:54
-Em dash: homoglyph	6367872	tok	"lipu pi ijo sin li lon seme?" - "ona li lon sewi pi poki lete."	Tepan	2017-10-06 13:21:18	2022-09-18 08:07:51
-Em dash: homoglyph	6372733	tok	sina wile kama sona e toki Kanse? - o mi kama sona kin e ni.	list	2017-10-09 11:55:33	2020-02-13 16:36:46
-Em dash: homoglyph	6374439	tok	ona li toki e ni lon tenpo seme? - mi sona ala. mi weka e ona lon sona mi.	list	2017-10-10 12:24:34	2019-09-23 15:42:10
-Em dash: homoglyph	6376788	tok	jan Mewi li jo e palisa lon lawa li jo e noka kiwen e palisa monsi. - ona li meli akesi ike anu seme? - ala. ona li soweli mani.	Tepan	2017-10-11 13:42:33	2022-12-18 20:51:58
-Em dash: homoglyph	6384575	tok	jan li pilin pona la jan li pilin ike kin. - jan ni li olin la ona li jo kin e pona mute.	list	2017-10-16 13:50:21	2020-09-17 12:58:51
 Final punctuation	6446848	tok	mi tu o ken tawa kama jo e suwi lete,	list	2017-11-04 13:51:36	2017-11-04 13:51:36
-Em dash: homoglyph	6477121	tok	o sina pilin e seme? - mi pilin pona.	list	2017-11-21 13:49:33	2017-11-21 13:50:38
-Em dash: homoglyph	6477122	tok	"sina wile ala wile e pan suwi lon poka pi telo wawa?" - "ni li ken ala pana e ike."	Tepan	2017-11-21 13:54:26	2022-08-11 09:06:15
-Em dash: homoglyph	6477123	tok	sina wile ala wile e wan suwi pi sike pan en telo pimeja seli? - ni li ike ala.	list	2017-11-21 13:56:34	2017-11-21 13:56:34
-Em dash: homoglyph	6480137	tok	o weka e ale lon insa pi kon sina. o kama ijo pi sijelo ala o kama ijo pi selo ala - o kama sama telo. jan li pana e telo lon insa poki la telo li kama sama poki. telo li ken tawa sama telo tawa, sama akesi linja, li ken tawa anpa li ken kiwen. jan pona mi o sama telo.	Tepan	2017-11-23 15:53:15	2022-07-27 16:20:53
-Em dash: homoglyph	6489318	tok	"mi lon sinpin pi tomo pi toki sewi. sina lon seme?" - "mi lon sinpin pi tomo lawa pi ma tomo."	Tepan	2017-11-30 13:39:30	2022-09-17 15:33:45
-Em dash: homoglyph	6856727	tok	"jan mi pi kama sona li tan ma seme?" - "ma Tansi."	Tepan	2018-04-25 21:08:42	2018-04-25 21:08:42
-Em dash: homoglyph	6860798	tok	"jan sama sina li tan ma seme?" - "ma Alensina."	Tepan	2018-04-28 14:29:04	2018-04-28 14:29:04
-Em dash: homoglyph	6927020	tok	"sina toki insa e seme?" - "mi toki insa e ijo sina."	Tepan	2018-06-03 16:33:09	2018-06-03 16:33:09
-Em dash: homoglyph	6974003	tok	olin - seme li ni?	list	2018-07-02 14:44:06	2018-07-02 14:44:06
-Em dash: homoglyph	7229887	tok	nasin seme la sina pilin? - mi pilin pona!	list	2018-09-29 11:12:33	2018-09-29 11:12:33
-Em dash: homoglyph	7229892	tok	sina wile moku e telo seme? - mi wile e telo nasa pi pan jelo.	list	2018-09-29 11:13:56	2018-09-29 11:13:56
-Em dash: homoglyph	7247028	tok	mi ken ala ken pana e pona tawa sina? - ala. jan ala li ken pana e pona tawa mi!	list	2018-10-02 11:39:02	2018-10-02 11:39:02
-Em dash: homoglyph	7247277	tok	"sina ken ala ken kepeken toki Tosi?" - "ala. mi jan Kanse."	Tepan	2018-10-02 13:53:59	2022-09-17 20:17:06
-Em dash: homoglyph	7247517	tok	"lipu pi ijo sin li lon seme?" - "ona li lon sewi pi poki lete!"	Tepan	2018-10-02 15:03:53	2022-09-18 08:05:23
-Em dash: homoglyph	7255614	tok	sina tawa seme? - mi tawa tomo pi sitelen tawa.	list	2018-10-05 11:07:46	2018-10-19 09:39:32
-Em dash: homoglyph	7255619	tok	"poki pi telo nasa li lon seme?" - "ona li lon supa moku."	Tepan	2018-10-05 11:09:29	2022-09-18 08:27:46
-Em dash: homoglyph	7266942	tok	"sina sona ala sona e ma tomo Pelin?" - "sona. meli sama mi li awen lon ni."	Tepan	2018-10-08 13:59:06	2022-09-18 07:47:06
-Em dash: homoglyph	7266965	tok	ona li jan lili sina anu seme? - ala. mi jo ala e jan lili.	list	2018-10-08 14:02:59	2018-10-08 14:02:59
-Em dash: homoglyph	7287599	tok	"telo kasi seli ni li pona ala pona?" - "ona li pona."	Tepan	2018-10-13 11:23:39	2022-09-17 20:35:00
-Em dash: homoglyph	7287712	tok	tan seme la sina kepeken e ilo nasa ni? - mi kepeken e ona tawa lape.	list	2018-10-13 11:39:51	2018-10-13 11:39:51
-Em dash: homoglyph	7288942	tok	jan seme li lon ni? - mi jan Ton.	list	2018-10-13 15:41:06	2018-10-16 13:05:20
-Em dash: homoglyph	7345153	tok	seme la ilo open sina li lon? - ona li lon poki mi.	Tepan	2018-10-26 14:58:06	2022-09-17 20:33:43
-Em dash: homoglyph	7369305	tok	mama meli sina li kama tan ma seme? - ona li kama tan ma Kanse. - mama mije mi kin li kama tan ma ni.	list	2018-11-01 14:28:08	2018-11-01 14:28:08
-Em dash: homoglyph	7372614	tok	seme la supa monsi sina li lon? - ona li lon linja nanpa luka.	Tepan	2018-11-02 13:51:14	2022-09-18 08:11:17
-Em dash: homoglyph	7372624	tok	seme la lipu toki mi li lon? - ona li lon supa sitelen sina.	Tepan	2018-11-02 13:53:09	2022-09-17 20:40:34
-Em dash: homoglyph	7372630	tok	"seme la tomo tawa sina li lon?" - "ona li lon sinpin pi tomo pi tomo tawa."	Tepan	2018-11-02 13:55:15	2022-09-17 20:40:24
-Em dash: homoglyph	7372715	tok	jan Ton li tawa seme? - ona li tawa ma tomo Munsen.	list	2018-11-02 14:26:43	2018-11-03 10:21:37
-Em dash: homoglyph	7372724	tok	jan Ton li kama lon seme? - ona li kama lon ma tomo Munsen.	list	2018-11-02 14:30:10	2018-11-02 14:30:10
-Em dash: homoglyph	7411120	tok	poki pi telo nasa li lon seme? - ona li lon tomo moku.	list	2018-11-03 12:18:35	2020-12-03 08:05:40
-Em dash: homoglyph	7411260	tok	"sina sona ala sona e ma tomo Anpu?" - "lon. mi sona pona e ma tomo. meli sama mi li awen lon ni."	Tepan	2018-11-03 13:19:21	2022-09-17 15:36:10
-Em dash: homoglyph	7423439	tok	sina kama pi tenpo seme lon tomo ona? - tenpo pimeja insa.	list	2018-11-06 13:02:49	2018-11-06 13:02:49
-Em dash: homoglyph	7423480	tok	jan Ton li lon seme? - ona li lon tomo.	Tepan	2018-11-06 13:29:10	2022-09-18 08:29:33
-Em dash: homoglyph	7426730	tok	sina ken ala ken pana e pona tawa mi? - lon.	list	2018-11-07 09:58:47	2018-11-07 09:58:47
-Em dash: homoglyph	7426805	tok	"sina pana e ma tomo tawa lukin pi jan seme?" - "tawa jan Mewi."	Tepan	2018-11-07 10:40:52	2022-09-17 19:21:42
-Em dash: homoglyph	7426806	tok	"sina olin e jan seme?" - "jan Mewi."	Tepan	2018-11-07 10:41:18	2022-09-17 19:08:55
-Em dash: homoglyph	7426810	tok	sina jan seme? - mi jan Ton.	list	2018-11-07 10:42:06	2018-11-09 13:04:53
-Em dash: homoglyph	7461691	tok	"sina wile ala wile moku e kili?" - "wile ala. mi moku kin e kili tu lon tenpo pini."	Tepan	2018-11-14 11:49:05	2022-09-17 15:50:14
-Em dash: homoglyph	7494624	tok	"tenpo suno Kiwen kama la mi kama kulupu lon tomo ni pi telo wawa anu seme?" - "pona."	Tepan	2018-11-22 11:45:06	2022-09-17 20:04:45
-Em dash: homoglyph	7497678	tok	tenpo pimeja ni li pona ala pona tawa sina? - pona. ni li pona mute tawa mi.	list	2018-11-23 10:37:37	2018-11-23 10:37:37
-Em dash: homoglyph	7497965	tok	seme li kama? - ala. ale li pona.	Tepan	2018-11-23 11:38:19	2022-09-18 08:23:22
-Em dash: homoglyph	7523107	tok	"tomo tawa sina li sama tomo tawa pi mi mute!" - "ni li suli ala tawa mi."	Tepan	2018-11-24 10:59:39	2022-09-17 20:43:19
-Em dash: homoglyph	7523114	tok	"sina wile toki tawa jan seme?" - "jan lawa pi ma tomo." - "o awen lon tenpo lili."	Tepan	2018-11-24 11:03:40	2022-09-18 11:51:22
-Em dash: homoglyph	7523120	tok	"tenpo suli nanpa seme la tenpo kulupu pi mi tu li lon?" - "lon tenpo suli nanpa luka luka luka!"	Tepan	2018-11-24 11:05:59	2022-09-17 15:30:36
-Em dash: homoglyph	7523124	tok	mi ken ala ken toki tawa jan Ton? - ike. tenpo ni la ona li weka lon ma.	list	2018-11-24 11:07:25	2018-11-24 11:07:25
-Em dash: homoglyph	7523150	tok	sina ken ala ken lukin e ona mije? - ken ala. mi ken ala toki e ni.	list	2018-11-24 11:19:34	2020-02-18 15:13:52
-Em dash: homoglyph	7523212	tok	"supa monsi pi mi mute li lon anpa anu sewi?" - "lon anpa, lon sinpin a, lon linja nanpa tu."	Tepan	2018-11-24 11:42:48	2022-09-17 15:30:31
-Em dash: homoglyph	7523222	tok	o pana e lipu tawa mi. - sina jan lawa mi ala.	list	2018-11-24 11:47:47	2020-02-04 16:09:36
-Em dash: homoglyph	7523236	tok	"tenpo suli nanpa seme la tenpo kulupu pi mi tu li lon?" - "o awen. mi wile lukin e lipu tenpo."	Tepan	2018-11-24 11:58:48	2022-09-17 15:32:54
-Em dash: homoglyph	7523312	tok	pipi li lon seme? - ona li lon sewi pi ilo suno.	list	2018-11-24 12:13:45	2018-11-30 12:21:31
-Em dash: homoglyph	7523349	tok	sina tawa pi ilo tawa lon seme? - mi tawa ma Lijon. - ma ni li lon seme?	list	2018-11-24 12:20:34	2018-11-26 11:32:27
-Em dash: homoglyph	7523398	tok	"mi pana e tomo tawa pi meli mi lon esun." - "meli sina li pali seme lon tenpo ni?"	Tepan	2018-11-24 12:34:02	2022-09-17 15:50:06
-Em dash: homoglyph	7552780	tok	sina pilin e ni: ona mije li kama? - wile mi la ala.	list	2018-12-03 11:59:03	2020-02-18 14:45:28
-Em dash: homoglyph	7552894	tok	mi kepeken ike e toki anu seme? - lon. sina kepeken ike mute.	list	2018-12-03 12:58:16	2018-12-03 12:58:16
-Em dash: homoglyph	7768364	tok	nimi sina li Mewi anu seme? - lon. nimi mi li Mewi.	Tepan	2019-02-08 15:48:04	2022-09-18 08:44:06
-Em dash: homoglyph	7769608	tok	meli sama sina li lon seme? - tenpo ni la ona li kama.	list	2019-02-09 12:49:21	2019-02-09 12:49:21
-Em dash: homoglyph	7786313	tok	"sina mije sama pi jan Mewi anu seme?" - "ala. mi jan pali sama ona."	list	2019-02-23 11:55:30	2022-10-15 18:25:45
-Em dash: homoglyph	7786322	tok	sina moku ala moku e telo nasa? - ala. mi kepeken ilo tawa. mi moku e telo kili.	Tepan	2019-02-23 11:59:56	2022-09-18 08:50:30
-Em dash: homoglyph	7786326	tok	sina wile ala wile moku e ijo telo? - a! ni li sitelen insa pona.	list	2019-02-23 12:03:37	2022-05-16 12:24:30
-Em dash: homoglyph	7786329	tok	kon li seli mute! - a! pilin mi la tenpo lili la telo sewi li anpa.	list	2019-02-23 12:05:51	2019-02-23 12:05:51
-Em dash: homoglyph	7818934	tok	"tenpo suno pi sike suno sin sina la sina kama jo e seme?" - "mi kama jo e len linja."	Tepan	2019-03-21 14:06:21	2022-09-17 15:30:18
-Em dash: homoglyph	7818938	tok	kasi kule li pona tawa sina anu seme? - ona li pona mute.	list	2019-03-21 14:11:19	2019-03-21 14:11:19
-Em dash: homoglyph	7818943	tok	"tomo tawa ni li ijo pi mani ike." - "lon. ona li ijo ala pi mani lili."	Tepan	2019-03-21 14:16:57	2022-09-17 20:06:20
-Em dash: homoglyph	7818946	tok	sina pilin ala pilin e ni: jan Ton li lawa pona e ona? - mi pilin mute!	list	2019-03-21 14:20:19	2019-03-21 14:20:19
-Em dash: homoglyph	7818947	tok	mi mute li ken ala ken kepeken noka? - ken!	list	2019-03-21 14:22:02	2019-03-21 14:22:29
-Em dash: homoglyph	7818949	tok	"tawa seme la jan Ton li tawa?" - "ona li tawa tomo pi sitelen tawa."	Tepan	2019-03-21 14:24:56	2022-09-18 08:09:32
-Em dash: homoglyph	7818951	tok	sina sitelen e lipu tawa jan seme? - jan lawa mi.	list	2019-03-21 14:25:37	2019-03-21 14:25:37
-Em dash: homoglyph	7818956	tok	pona nasa sina li kama lon ike! - tan seme? mi ken ala sona e toki sina.	list	2019-03-21 14:32:35	2019-03-21 14:32:35
-Em dash: homoglyph	7818975	tok	sina sitelen e lipu tawa jan seme? - mije sama mi pi mama mi lon ma Mewika.	list	2019-03-21 14:41:59	2019-03-21 14:41:59
-Em dash: homoglyph	7819028	tok	ona li jan seme? - mi sona ala. ona li jan sin tawa mi.	list	2019-03-21 15:05:25	2020-02-07 16:41:40
-Em dash: homoglyph	7820232	tok	mi jo e pakala lon insa mi. - mi sona e ijo pona ni: o kepeken e poki lili pi telo nasa wawa.	list	2019-03-22 13:52:30	2019-03-22 13:52:30
-Em dash: homoglyph	7820245	tok	sina kama sona e ni lon seme? - tenpo suno pini la mi kute e ona.	Tepan	2019-03-22 13:58:02	2022-09-18 08:18:53
-Em dash: homoglyph	7820260	tok	"o toki e ni tawa mi: soweli tomo ni li ijo sina anu seme?" - "lon. ona li ijo mi. tan seme la sina wile sona e ni?"	Tepan	2019-03-22 14:06:32	2022-09-17 15:40:30
-Em dash: homoglyph	7821475	tok	mi ken ala ken kama? - sina wile la lon.	list	2019-03-23 11:06:06	2019-03-23 11:06:06
-Em dash: homoglyph	7821486	tok	jan Ton o tawa jan lawa. - ona li pilin pona anu pilin ike?	list	2019-03-23 11:22:14	2019-03-23 11:22:14
-Em dash: homoglyph	7821498	tok	jan Ton o tawa jan lawa. - mi ken anu mi wile?	list	2019-03-23 11:35:27	2019-03-23 11:35:27
-Em dash: homoglyph	7821516	tok	sina pilin seme? - mi pilin pona mute.	list	2019-03-23 11:46:45	2019-03-23 11:46:45
-Em dash: homoglyph	7821539	tok	"sina tawa seme?" - "mi tawa ni."	Tepan	2019-03-23 12:00:02	2022-09-18 07:42:57
-Em dash: homoglyph	7821552	tok	o tawa ma tomo Limoke. ni li suli. - ona li lon seme?	list	2019-03-23 12:07:27	2019-03-23 16:21:17
-Em dash: homoglyph	7823836	tok	tawa lukin la ona li pilin pona mute - sama jan ni ala.	Tepan	2019-03-24 21:17:17	2020-10-15 10:20:19
 Ellipsis: too short	7833503	tok	mi olin e sina..taso sina li jan pona taso tawa mi.	Goatstein	2019-04-01 21:22:10	2019-04-01 21:22:10
-Em dash: homoglyph	7847848	tok	"mi mute li ken ala ken pana e pona tawa sina?" - "ijo lili taso."	list	2019-04-12 12:07:14	2019-05-07 11:47:57
-Em dash: homoglyph	7847887	tok	sina ike ala ike sijelo? - ala. o pilin ike ala. ale li pona.	list	2019-04-12 12:20:06	2019-04-12 12:20:06
-Em dash: homoglyph	7848143	tok	tenpo seme la sina kama lon ale? - lon tenpo suno nanpa luka wan pi sike mun nanpa tu tu.	Tepan	2019-04-12 14:09:01	2022-09-17 15:30:12
-Em dash: homoglyph	7848265	tok	"sina ken ala ken kama lon tenpo suno ni?" - "ala. toki lon la, ike la mi ken ala."	Tepan	2019-04-12 14:40:11	2022-09-17 15:49:32
-Em dash: homoglyph	7848318	tok	"esun seme la sina kama jo e telo nasa ni?" - "mi kama jo e ona lon esun suli."	Tepan	2019-04-12 15:01:35	2022-09-17 15:49:33
-Em dash: homoglyph	7848323	tok	poki pi kasi kule li pakala - ni li sama tawa mi.	list	2019-04-12 15:14:29	2019-04-12 15:14:29
-Em dash: homoglyph	7849462	tok	nasin seme la ni li kama? - mi pilin. taso mi sona wawa ala.	list	2019-04-13 10:29:55	2019-04-13 10:30:52
-Em dash: homoglyph	7849473	tok	sina pilin seme? - tenpo pini la mi pilin ike la tenpo ni la mi pilin ike lili.	list	2019-04-13 10:32:57	2019-04-13 10:32:57
-Em dash: homoglyph	7849476	tok	sina sitelen lape e seme? - tenpo lili la mi jo e sitelen lape tan mama meli mi.	list	2019-04-13 10:34:24	2019-04-13 10:34:24
-Em dash: homoglyph	7849479	tok	sina pali e seme lon tenpo musi? - mi wile lape taso.	list	2019-04-13 10:36:52	2019-04-13 10:36:52
-Em dash: homoglyph	7849483	tok	sina sona ala sona e ni: sina pali? - sona. mi sona wawa.	list	2019-04-13 10:38:02	2019-04-13 10:38:02
-Em dash: homoglyph	7849491	tok	mije sama sina li pali e seme? - ona li lape.	list	2019-04-13 10:40:49	2019-04-13 10:40:49
-Em dash: homoglyph	7849500	tok	tomo telo li lon seme? - ona li lon anpa tomo.	Tepan	2019-04-13 10:45:17	2022-09-18 11:51:50
-Em dash: homoglyph	7849504	tok	sina tawa lon seme? - mi tawa tomo pi sitelen tawa.	list	2019-04-13 10:47:23	2019-04-13 10:47:23
-Em dash: homoglyph	7849510	tok	sina sona ala sona e sona selo? - sona. taso mi ken ala toki e ni.	list	2019-04-13 10:50:23	2019-04-13 10:50:23
-Em dash: homoglyph	7849581	tok	"wile sina la sina kama jo e seme lon ni?" - "kiwen pi mani mute."	Tepan	2019-04-13 11:35:17	2022-09-17 20:16:05
-Em dash: homoglyph	7849588	tok	jan li lon ala lon ni? - ala. mi pilin ala e ni: jan li lon ni.	list	2019-04-13 11:36:13	2019-04-13 11:36:13
-Em dash: homoglyph	7849634	tok	jan lawa li lon seme? - ona li lon tomo sitelen ona.	list	2019-04-13 12:03:38	2019-04-13 12:03:38
-Em dash: homoglyph	7849635	tok	"mama meli li lon seme?" - "ona li lon ma kasi."	Tepan	2019-04-13 12:04:43	2022-09-17 20:25:11
-Em dash: homoglyph	7849660	tok	sina pilin e seme tan tomo sona sin sina? - jan pali pi pana sona li pona tawa mi.	list	2019-04-13 12:12:14	2019-04-13 12:12:14
-Em dash: homoglyph	7849690	tok	o toki. sina pali e seme lon ni? - mi noka lon ma laso pi ma tomo.	list	2019-04-13 12:19:56	2019-04-13 12:20:04
-Em dash: homoglyph	7849691	tok	jan Ton o sina pali e seme lon ni? - mi lukin jo e lipu.	list	2019-04-13 12:21:14	2019-04-13 12:21:14
-Em dash: homoglyph	7874755	tok	"tan seme la sina pali e ni?" - "tan olin tawa kulupu mama".	list	2019-04-28 13:31:54	2019-04-29 15:39:44
-Em dash: homoglyph	7883872	tok	"sina lukin jo e seme?" - "poki lipu."	Tepan	2019-05-02 13:44:23	2022-09-17 19:56:00
-Em dash: homoglyph	7883873	tok	"sina lukin jo e seme?" - "len."	Tepan	2019-05-02 13:44:54	2022-09-17 19:56:03
-Em dash: homoglyph	7883894	tok	"sina ken ala ken toki e ni tawa mi: jan Ton li lon seme?" - "sina wile e seme tan ona?"	Tepan	2019-05-02 13:54:06	2022-09-17 15:32:47
-Em dash: homoglyph	7883915	tok	"sina sona ala sona e toki ni?" - "sina toki e ijo pi toki seme?"	Tepan	2019-05-02 14:02:14	2022-09-18 07:56:20
-Em dash: homoglyph	7883935	tok	"ilo open mi li lon seme?" - "ona li lon supa anpa."	list	2019-05-02 14:07:33	2019-05-02 14:07:33
-Em dash: homoglyph	7883938	tok	"ilo kipisi mi li lon seme?" - "mi pana e ona lon poki."	list	2019-05-02 14:08:47	2019-05-02 14:08:47
-Em dash: homoglyph	7887234	tok	"tomo tawa kon li pona ala pona tawa sina?" - "ona li ike mute tawa mi!"	list	2019-05-04 10:17:12	2019-05-04 10:17:12
-Em dash: homoglyph	7887241	tok	"tenpo suli nanpa seme la sina wile moku?" - "lon tenpo suli nanpa luka tu tu."	Tepan	2019-05-04 10:26:48	2022-09-18 08:08:24
-Em dash: homoglyph	7887291	tok	"tenpo suno Suno kama la mi mute li kama kulupu lon tomo pi telo pimeja seli anu seme?" - "pona!"	Tepan	2019-05-04 10:49:14	2022-09-17 15:30:02
-Em dash: homoglyph	7893089	tok	"seli li mute ala mute tawa sina?" - "ala. lete li lon tawa mi!"	list	2019-05-06 14:34:19	2019-05-06 14:34:19
-Em dash: homoglyph	7894680	tok	"nasin seme la mi ken pana e pona tawa sina?" - "sina ken pali ala e ijo."	list	2019-05-07 11:45:12	2019-05-07 11:45:12
-Em dash: homoglyph	7918775	tok	"tan seme la sina open ala e lupa tomo?" - "mi len ala."	list	2019-05-18 12:23:30	2019-05-18 12:23:30
-Em dash: homoglyph	7918805	tok	"ni li ike". - "lon. sina toki lon."	list	2019-05-18 12:31:41	2019-05-18 12:31:41
-Em dash: homoglyph	7920587	tok	"tenpo suli nanpa seme la sina pini e lape lon tenpo suno ni?" - "lon tenpo suli nanpa luka tu wan."	Tepan	2019-05-19 12:07:21	2022-09-17 15:32:46
-Em dash: homoglyph	7939352	tok	"seme? sina pini e pali lon insa pi tenpo suno anu seme?" - "tan seme? tenpo suli nanpa seme li lon?"	Tepan	2019-05-27 16:10:49	2022-09-17 15:32:37
-Em dash: homoglyph	7948198	tok	"sina wile moku?" - "ni li pona tawa mi".	list	2019-05-30 14:24:32	2019-05-30 14:24:32
-Em dash: homoglyph	7957030	tok	"sina jan Ton anu seme?" - "lon. nimi sinpin mi li jan Ton."	list	2019-06-04 10:24:47	2020-10-26 14:51:14
-Em dash: homoglyph	7959029	tok	jan seme li wile pali e ni? - jan Ton li wile e ni.	list	2019-06-05 10:22:46	2019-06-05 10:22:46
-Em dash: homoglyph	7962291	tok	"mi ken ala ken jo lili e len noka sina?" - "ala."	Goatstein	2019-06-06 22:50:19	2022-03-01 22:06:48
-Em dash: homoglyph	8051159	tok	"mama sama sina li jan pi ma seme?" - "Esalasi."	Tepan	2019-07-15 17:15:59	2019-07-15 17:15:59
-Em dash: homoglyph	8194340	tok	sina sona ala sona e mi? - sona ala.	list	2019-09-18 11:19:25	2019-09-18 11:19:25
-Em dash: homoglyph	8194792	tok	jan seme li kepeken toki Tosi pona? - mije sama mama tan ma Mewika.	list	2019-09-18 16:15:29	2019-09-18 16:15:29
-Em dash: homoglyph	8194795	tok	sina sitelen e lipu tawa jan seme? - mije sama mama tan ma Mewika.	list	2019-09-18 16:16:48	2019-09-18 16:16:48
-Em dash: homoglyph	8216715	tok	seme li pona mute: pan soweli wan anu pan soweli tu? - pan soweli tu!	Tepan	2019-09-28 11:39:25	2022-09-18 08:35:06
-Em dash: homoglyph	8216735	tok	ni li kili ni anu seme? - ala. ni li kili ante.	Tepan	2019-09-28 12:00:25	2022-09-18 11:54:01
 Straight quotation marks: odd number	8231031	tok	sike ma li nasa mute. mi toki e ni tawa mi sama: "jan seme li jan ni: sike ma li pona tawa ona.	list	2019-10-04 14:25:11	2020-08-26 07:41:57
-Em dash: homoglyph	8669060	tok	ona kin li kama ala kama? - wile mi li ni.	list	2020-04-10 13:06:47	2020-04-10 13:06:47
-Em dash: homoglyph	8905808	tok	"sina kute e ni la sina sona e ni anu seme?" - "nimi ala."	list	2020-07-10 15:42:08	2020-07-10 15:42:08
-Em dash: homoglyph	8927149	tok	"mama sina li lon seme kepeken tomo?" - "mama mi li moli kin."	list	2020-07-20 13:05:58	2020-07-20 13:05:58
-Em dash: homoglyph	8931197	tok	"mi nasa e sina anu seme?" - "nasa. taso o tawa insa!"	Tepan	2020-07-22 08:32:44	2022-09-18 07:50:53
-Em dash: homoglyph	8931207	tok	"sina sitelen e lipu tawa jan seme?" - "mi wile ala toki e ni tawa sina!"	list	2020-07-22 08:40:20	2020-07-22 13:16:25
-Em dash: homoglyph	8931658	tok	"sina pilin akesi!" - "mi pilin akesi ala kin!"	Tepan	2020-07-22 13:44:57	2022-09-18 08:40:32
-Em dash: homoglyph	8931693	tok	"mi ken ala ken kama jo sin e ona?" - "ken ala."	Tepan	2020-07-22 13:58:09	2022-09-17 20:09:38
-Em dash: homoglyph	9019160	tok	"mama mama mije o, sina pali e seme?" - "mi weka e linja mi pi sinpin lawa."	Tepan	2020-09-06 11:07:19	2022-09-18 08:39:28
-Em dash: homoglyph	9031005	tok	"kili pi ma kasi li pona ala pona tawa sina?" - "pona a. ona li pona mute tawa mi."	Tepan	2020-09-11 13:00:20	2022-09-17 15:47:39
-Em dash: homoglyph	9031566	tok	"tenpo suno ni la seme li lon poki pi lipu toki?" - "ijo suli ala."	list	2020-09-11 16:34:10	2020-11-20 17:37:18
-Em dash: homoglyph	9037845	tok	"jan Ton li jo ala kin e meli anu seme?" - "mi sona ala. ni li suli ala tawa mi."	list	2020-09-14 12:30:18	2020-09-14 12:30:18
-Em dash: homoglyph	9037927	tok	"sina wile moku anu seme?" - "tenpo ale la mi wile moku!"	list	2020-09-14 13:36:54	2020-09-14 13:36:54
-Em dash: homoglyph	9040696	tok	"mama mije mi o, mi ken ala ken kepeken seli tawa musi seli?" - "ala. sina lili pi mute ike! pakala li ken kama!"	Tepan	2020-09-15 15:07:23	2022-09-17 15:36:40
-Em dash: homoglyph	9081651	tok	"sama la sina pona tawa ona anu seme?" - "mi sona wawa ala."	Tepan	2020-09-28 11:40:11	2020-09-28 11:40:11
-Em dash: homoglyph	9099405	tok	"jan Ton li kama. ona li wile e seme lon ni lon tenpo sin ni?" - "ken suli la ona li toki e ni tawa mi."	Tepan	2020-10-03 17:03:36	2021-07-11 09:01:21
-Em dash: homoglyph	9190688	tok	pan soweli wan li pona lili. seme li pona mute? - pan soweli tu!	Tepan	2020-10-25 16:20:35	2020-10-25 16:20:35
-Em dash: homoglyph	9236066	tok	"mama sina li lon ala lon tomo?" - "mije mama mi taso li lon."	soweli_Elepanto	2020-11-03 19:37:34	2022-10-11 15:30:39
 Period: preceeded by space	9694660	tok	jan Ton li moli lili lon tenpo suno ni .	carlosalberto	2021-01-26 10:46:38	2021-01-26 10:46:38
-Em dash: homoglyph	9701461	tok	"ni li jan seme?" - "ni li mama sina."	Tepan	2021-01-29 11:14:30	2021-01-29 11:14:30
-Em dash: homoglyph	9765444	tok	"jan poka sina li tan ma seme?" - "ma Italija."	Tepan	2021-02-15 11:03:04	2021-02-15 11:03:04
-Em dash: homoglyph	9931397	tok	"jan seme li lukin e sina lon ni?" - "jan Ton li lukin e mi lon ni."	Tepan	2021-04-01 16:02:32	2021-05-21 18:56:17
-Em dash: homoglyph	9931403	tok	sina lukin e jan seme lon ni? - mi lukin e jan Ton lon ni.	Tepan	2021-04-01 16:04:26	2021-05-21 19:33:51
-Em dash: homoglyph	10014897	tok	"seme li kama?" - "ijo ala."	Tepan	2021-05-08 09:27:35	2021-05-08 09:27:35
 Final punctuation	10275843	tok	ona li pilin ike lukin	secnyt	2021-09-03 16:55:34	2021-09-03 16:55:34
-Em dash: homoglyph	10292417	tok	sina nasa - mi la sina pona.	secnyt	2021-09-13 01:11:39	2021-09-13 01:11:39
 Final punctuation	10655447	tok	telo nasa Sake li pona tawa jan Menatu	Apollogeist	2022-02-02 15:54:25	2022-02-02 15:54:25
-Em dash: homoglyph	10697957	tok	"ona li kama anu seme?" - "mi pilin e ni: ala."	Tepan	2022-03-01 10:59:48	2022-03-01 10:59:48
-Em dash: homoglyph	10698754	tok	"mi ken jo lili e len noka sina?" - "ken ala."	Tepan	2022-03-01 22:06:32	2022-03-01 22:06:32
-Em dash: homoglyph	10701932	tok	"ona li tawa seme?" - "ona li tawa poka lawa pi nasin suno."	Tepan	2022-03-04 08:35:11	2022-03-04 08:35:11
-Em dash: homoglyph	10712928	tok	"pan mi li lon seme?" - "ona li lon tomo seli."	Tepan	2022-03-11 10:20:48	2022-03-11 10:20:48
 Final punctuation	10715478	tok	mi mute li awen lon tomo pi mani lili	lasolaco	2022-03-12 20:27:19	2022-03-12 20:27:19
 Final punctuation	10715485	tok	jan Lela li kama jan lon kulupu pi jan lili pi luka tu	lasolaco	2022-03-12 20:30:14	2022-03-12 20:30:14
 Period: preceeded by space	10829249	tok	ale li kama ala. taso olin li awen tawa sewi .	carlosalberto	2022-05-14 13:04:40	2022-05-14 13:06:30
@@ -206,8 +41,6 @@ Exclamation mark: preceeded by space	10835949	tok	pakala a ! mi sona e ni: kulup
 Colon: preceeded by space	10836101	tok	mi ken ala pilin e ni : mi pakala e mi kepeken e ilo moli.	talou	2022-05-17 09:38:50	2022-05-17 09:38:50
 Colon: preceeded by space	10836112	tok	tenpo kama la, mi lukin e ni : ni li kama ala lon tenpo ale.	talou	2022-05-17 09:57:49	2022-05-17 09:57:49
 Final punctuation	10992970	tok	jan Ton li kama lape wawa lon tenpo lili	GiggyMantis	2022-07-15 16:30:41	2022-09-13 12:44:08
-Em dash: homoglyph	11042702	tok	"sina tawa ala tawa e lipu?" - "o pilin e ni: mi tawa e ona."	soweli_Elepanto	2022-08-04 14:12:02	2022-08-04 14:12:02
-Em dash: homoglyph	11056830	tok	"mi ken uta e sina anu seme?" - "sina ken ala - sina wile a!"	Tepan	2022-08-12 12:28:19	2022-08-12 12:28:19
 Period: preceeded by space	11180729	tok	jan lili li moku e suwi lete la, ni li pona tawa ona .	carlosalberto	2022-10-15 23:41:55	2022-10-15 23:41:55
 Final punctuation	11265542	tok	jan Ton li toki e ni: tenpo ni la, ona li tawa tomo ona	Bilabial	2022-11-24 14:06:38	2022-11-24 14:06:38
 Parentheses: opening mark preceeded by letter or digit	11364674	tok	"x^2" li sama "-1" la, "x" li nanpa lon ala; sitelen "x" li "sqrt(-1)" anu "i"; nimi "x" li "wan pi lon ala."	purehearted	2022-12-23 20:09:19	2022-12-23 22:14:31
@@ -221,7 +54,6 @@ Final punctuation	11588282	tok	sina taso jo kepeken nena	tommywastakenabunch6	20
 Final punctuation	11588283	tok	e kalama monsuta ona	tommywastakenabunch6	2023-03-11 00:50:56	2023-03-11 00:50:56
 Final punctuation	11609261	tok	lon ma Oselija la, mi jo e jan pona	Marigold	2023-03-20 19:00:11	2023-03-20 19:00:11
 Final punctuation	11662404	tok	n... mi sona ala	soweli_Wasona	2023-04-07 03:50:10	2023-04-07 03:50:10
-Em dash: homoglyph	11664321	tok	moli pi jan Ton li kama tan pakala. - sina sona ala sona wawa e ni?	Biderl	2023-04-07 19:04:46	2023-04-07 19:04:46
 Final punctuation	11739413	tok	Suno li suno	broken_keyboard7000	2023-05-05 11:58:45	2023-05-05 11:58:45
 Final punctuation	11878447	tok	telo kasi li pona ala tawa mi	SoleilDJ	2023-06-26 16:24:31	2023-06-26 16:24:31
 Final punctuation	11932694	tok	jan San li kalama e ilo kalama pi kiwen palisa	broken_keyboard7000	2023-07-15 20:16:01	2023-07-15 20:16:01
@@ -269,7 +101,6 @@ Final punctuation	12181136	tok	jan lili li wile e mama meli ona	Ultronimation	20
 Final punctuation	12182539	tok	o kalama ala	Ultronimation	2023-11-28 02:22:39	2023-11-28 02:22:39
 Final punctuation	12201721	tok	sina pilin pona ala pona	Ultronimation	2023-12-09 14:50:53	2024-02-06 08:36:39
 Final punctuation	12206328	tok	ni li seli anu seme	Ultronimation	2023-12-12 13:19:10	2023-12-12 13:19:10
-Em dash: homoglyph	12247109	tok	"sina nasa, anu seme?" - "mi nasa."	soweli_Elepanto	2024-01-01 21:47:11	2024-01-01 21:47:40
 Final punctuation	12253807	tok	open la pimeja li lon	JameezTranslates	2024-01-06 03:50:21	2024-01-06 03:50:21
 Final punctuation	12253814	tok	mi li wile e len noke loje	JameezTranslates	2024-01-06 03:56:23	2024-01-06 03:56:23
 Final punctuation	12253817	tok	seme telo lete li lon ma sina	JameezTranslates	2024-01-06 04:00:34	2024-01-06 04:00:34

@@ -1,65 +1,65 @@
-32	0x20	 	2148	12308887	nov	La ha aborta.	KardonaBoske	2024-02-09 22:50:19	2024-02-09 22:50:19
-33	0x21	!	19	8361430	nov	Les non sal pasa!	shekitten	2019-12-03 01:19:34	2019-12-03 01:19:34
-34	0x22	"	4	4487476	nov	Qualim on dikte "amo" in fransum?	cueyayotl	2015-09-03 02:01:49	2015-09-03 02:01:49
-44	0x2c	,	49	1160296	nov	E vus, doctoro Watson e siniore Holmes, interesar me.	cntrational	2011-10-07 18:08:46	2011-10-07 18:09:02
-45	0x2d	-	7	1164783	nov	Li exacti date es mil-setcent-quaranti-du.	cntrational	2011-10-08 13:56:18	2011-10-13 16:16:56
-46	0x2e	.	512	9989061	nov	Li steles inspira me.	KardonaBoske	2021-04-26 22:33:14	2021-04-26 22:33:14
+32	0x20	 	614	6990707	nov	Tom did envada li koridore.	Haskell	2018-07-12 00:07:40	2018-07-12 00:07:40
+33	0x21	!	19	5190268	nov	Let me vada!	cueyayotl	2016-06-03 20:36:30	2016-06-03 20:36:30
+34	0x22	"	2	4487476	nov	Qualim on dikte "amo" in fransum?	cueyayotl	2015-09-03 02:01:49	2015-09-03 02:01:49
+44	0x2c	,	32	1160278	nov	Lu semblar bon a sciential home, ma me preferar consultar vu in practical coses.	cntrational	2011-10-07 18:05:46	2011-10-07 18:05:59
+45	0x2d	-	4	1164780	nov	Me datar lu com de mil-setcent-trianti.	cntrational	2011-10-08 13:55:59	2011-10-08 13:56:21
+46	0x2e	.	511	12308887	nov	La ha aborta.	KardonaBoske	2024-02-09 22:50:19	2024-02-09 22:50:19
 58	0x3a	:	2	1160316	nov	Li familie haver problemes: lus interesar sinioro Holmes.	cntrational	2011-10-07 18:11:03	2011-10-07 18:11:12
-59	0x3b	;	2	1159251	nov	Mey vun regno veni; mey on fa vun volio, kom in siele anke sur tere.	cntrational	2011-10-07 10:02:11	2011-10-07 10:02:11
-63	0x3f	?	87	5190221	nov	Ob me deve vada?	cueyayotl	2016-06-03 20:07:09	2016-06-03 20:07:09
-65	0x41	A	6	12308868	nov	Anna manjad ananase.	KardonaBoske	2024-02-09 22:38:08	2024-02-09 22:38:08
-66	0x42	B	14	1160261	nov	Bonvolir sidar e fumar.	cntrational	2011-10-07 18:03:08	2011-10-07 18:03:16
-67	0x43	C	3	1176669	nov	Me did venir a Japon fro China.	cntrational	2011-10-14 21:55:31	2011-10-14 21:55:41
-68	0x44	D	32	1176799	nov	Dise pome es dolci.	cntrational	2011-10-14 22:38:06	2011-10-14 22:38:30
-69	0x45	E	11	1176791	nov	Es pome sub li pupitre.	cntrational	2011-10-14 22:31:49	2011-12-22 15:42:55
-70	0x46	F	9	1164770	nov	Frui dec-otesmi secle, exept si lu vud es fraudo.	cntrational	2011-10-08 13:54:47	2011-10-08 13:55:02
-71	0x47	G	3	12054244	nov	Pfirsichbaeumchen es ek Germania.	Kardona	2023-09-13 22:40:38	2023-09-13 22:40:45
-72	0x48	H	13	4487455	nov	Hundes es fideli.	cueyayotl	2015-09-03 01:41:00	2015-09-03 01:41:00
-73	0x49	I	4	1176520	nov	Me vivar in Izmir.	cntrational	2011-10-14 20:46:13	2011-10-14 20:46:13
-74	0x4a	J	8	1164763	nov	“Me haver in men poshe manuscrite,” doctoro James Mortimer did dicter.	cntrational	2011-10-08 13:53:52	2011-10-08 13:54:01
-75	0x4b	K	8	1176426	nov	Me vivar in Kobe.	cntrational	2011-10-14 19:47:17	2011-10-14 19:47:31
-76	0x4c	L	175	12303415	nov	La es vun filia.	KardonaBoske	2024-02-06 22:30:47	2024-02-06 22:30:47
-77	0x4d	M	155	8814957	nov	Me kreda vusen vordes.	shekitten	2020-06-04 04:54:49	2020-09-08 11:42:03
-78	0x4e	N	33	1160282	nov	Nur pokim. Racontar a mes li nature de vun probleme.	cntrational	2011-10-07 18:06:42	2011-10-07 18:06:42
-79	0x4f	O	53	5202020	nov	Ob vu resivad li mesaje?	cueyayotl	2016-06-09 09:09:47	2016-06-10 00:21:55
-80	0x50	P	16	5201898	nov	Porta li jurnale a me.	cueyayotl	2016-06-09 07:51:06	2016-06-09 07:51:06
-81	0x51	Q	27	5188811	nov	Quum vu manjad?	cueyayotl	2016-06-03 15:30:08	2016-06-03 15:30:08
-82	0x52	R	6	4487628	nov	Responda men questiones.	cueyayotl	2015-09-03 06:01:22	2015-09-03 06:01:22
-83	0x53	S	12	12120579	nov	Sercha li fema!	Kardona	2023-10-21 23:22:39	2023-10-21 23:22:39
-84	0x54	T	77	9559194	nov	Tom did odia se.	shekitten	2020-12-29 23:39:14	2020-12-29 23:39:14
-85	0x55	U	2	9477122	nov	Usa Tatoeba.	shekitten	2020-12-14 16:52:43	2020-12-14 16:52:43
-86	0x56	V	27	12303482	nov	Vor es vun robes?	KardonaBoske	2024-02-06 23:17:46	2024-02-06 23:17:46
+59	0x3b	;	2	1159580	nov	Mey vun regno venir; mey on fa vun volio, com in siele anke sur tere.	cntrational	2011-10-07 12:21:43	2011-10-08 04:54:05
+63	0x3f	?	87	12067888	nov	Ob Tom plora?	Kardona	2023-09-20 22:09:57	2023-09-20 22:09:57
+65	0x41	A	6	6987653	nov	Aki es men hunde.	Haskell	2018-07-10 20:17:02	2018-07-10 20:17:02
+66	0x42	B	14	9698922	nov	Bon nokte, Tom.	shekitten	2021-01-28 01:38:45	2021-01-28 01:38:45
+67	0x43	C	3	12303477	nov	Li robe de Carol es longi.	KardonaBoske	2024-02-06 23:16:36	2024-02-06 23:16:36
+68	0x44	D	32	5203503	nov	Dona a me tempe.	cueyayotl	2016-06-10 00:35:56	2016-06-10 00:37:22
+69	0x45	E	11	1159690	nov	E non ducter nus en tentatione, ma liberisar nus fro malu.	cntrational	2011-10-07 13:29:36	2011-10-08 04:57:05
+70	0x46	F	9	12120578	nov	Femas es beli.	Kardona	2023-10-21 23:22:14	2023-10-21 23:22:14
+71	0x47	G	3	12054241	nov	Germania es beli.	Kardona	2023-09-13 22:39:04	2023-09-13 22:39:04
+72	0x48	H	13	1176446	nov	Me vivar in Hyogo.	cntrational	2011-10-14 20:08:53	2011-11-01 08:32:56
+73	0x49	I	4	9794828	nov	Me lerna Ido.	shekitten	2021-02-22 17:58:17	2021-02-22 17:58:17
+74	0x4a	J	8	8632908	nov	Judisme es bel.	shekitten	2020-03-25 13:38:01	2020-03-25 13:38:01
+75	0x4b	K	8	1176443	nov	Me vivar in Kakogawa.	cntrational	2011-10-14 20:07:37	2011-10-14 20:07:58
+76	0x4c	L	175	1204644	nov	Lon amaiera es Japonan.	cntrational	2011-10-29 16:41:19	2011-10-29 16:41:28
+77	0x4d	M	154	1164763	nov	“Me haver in men poshe manuscrite,” doctoro James Mortimer did dicter.	cntrational	2011-10-08 13:53:52	2011-10-08 13:54:01
+78	0x4e	N	33	12096478	nov	Nus amad Mary.	Kardona	2023-10-04 22:51:52	2023-10-04 22:51:52
+79	0x4f	O	53	7455647	nov	Ob vu labora in urbe?	shekitten	2018-11-12 16:53:32	2020-06-12 18:51:16
+80	0x50	P	16	1159203	nov	Nusen Patre, kel es in siele, mey vun nome bli sanktifika.	cntrational	2011-10-07 09:32:57	2011-10-07 09:50:23
+81	0x51	Q	27	5201965	nov	Qualim vu solud li probleme?	cueyayotl	2016-06-09 08:35:14	2016-06-09 08:35:14
+82	0x52	R	6	12067844	nov	Rodrigo have novi automobile.	Kardona	2023-09-20 21:45:32	2023-09-20 21:45:32
+83	0x53	S	12	5201649	nov	Simies es inteligenti.	cueyayotl	2016-06-09 01:11:03	2016-06-09 01:11:03
+84	0x54	T	77	12308859	nov	La did audi Tom.	KardonaBoske	2024-02-09 22:35:12	2024-02-09 22:35:12
+85	0x55	U	2	12308881	nov	Urbes es plu grandi kam vilajes.	KardonaBoske	2024-02-09 22:44:08	2024-02-09 22:44:08
+86	0x56	V	27	12120570	nov	Vu es asne, Tom!	Kardona	2023-10-21 23:16:29	2023-10-21 23:16:29
 87	0x57	W	4	1160251	nov	No, lo es men amike, doctoro Watson.	cntrational	2011-10-07 18:01:36	2011-10-28 11:50:14
-88	0x58	X	3	4487467	nov	Qualim on dikte XXX in nederlandum?	cueyayotl	2015-09-03 01:56:45	2015-09-03 01:56:45
-89	0x59	Y	7	1160269	nov	Ya, sinioro! Que es unesmi?	cntrational	2011-10-07 18:04:15	2011-10-07 18:04:31
+88	0x58	X	1	4487467	nov	Qualim on dikte XXX in nederlandum?	cueyayotl	2015-09-03 01:56:45	2015-09-03 01:56:45
+89	0x59	Y	7	1160311	nov	Yes, les visitar lon bon amike, doctoro Mortimer.	cntrational	2011-10-07 18:10:34	2011-10-07 18:10:42
 90	0x5a	Z	1	1165991	nov	Zero, un, du, tri, quar, pent, six, set, ot, nin, dec.	cntrational	2011-10-09 03:39:52	2011-10-09 03:39:58
-97	0x61	a	1205	9845531	nov	Tom non did manja.	shekitten	2021-03-16 01:31:12	2021-03-16 01:31:12
-98	0x62	b	186	1204520	nov	Vun mama es grasisi, la vud brecher London Ponte.	cntrational	2011-10-29 16:04:02	2011-11-24 19:15:48
-99	0x63	c	79	1164770	nov	Frui dec-otesmi secle, exept si lu vud es fraudo.	cntrational	2011-10-08 13:54:47	2011-10-08 13:55:02
-100	0x64	d	490	8837927	nov	Lo kantad e la dansad.	shekitten	2020-06-12 18:45:15	2020-09-08 11:42:20
-101	0x65	e	1425	9199318	nov	Li pome non es red.	shekitten	2020-10-28 00:16:28	2020-10-28 00:16:28
-102	0x66	f	133	9346429	nov	Tom es viro e me es fema.	shekitten	2020-11-21 12:57:27	2020-11-21 12:57:27
-103	0x67	g	69	5201628	nov	Li yunas ganad.	cueyayotl	2016-06-09 00:19:55	2016-06-09 00:19:55
-104	0x68	h	105	5201861	nov	Me es in li chare.	cueyayotl	2016-06-09 07:41:34	2016-06-09 07:41:34
-105	0x69	i	915	9991552	nov	Li pueras ridachad.	KardonaBoske	2021-04-27 22:06:07	2021-04-27 22:10:56
-106	0x6a	j	86	5203498	nov	Ob me pove lasa un mesaje?	cueyayotl	2016-06-10 00:29:52	2016-06-10 00:29:52
-107	0x6b	k	165	12308881	nov	Urbes es plu grandi kam vilajes.	KardonaBoske	2024-02-09 22:44:08	2024-02-09 22:44:08
-108	0x6c	l	494	5200704	nov	Me selekted.	cueyayotl	2016-06-08 10:21:21	2016-06-08 10:21:21
-109	0x6d	m	543	1164765	nov	“Me observad lu cand vu envadad li chambre,” Holmes dicted.	cntrational	2011-10-08 13:54:06	2011-10-08 13:54:06
-110	0x6e	n	809	1177863	nov	Esed somber nocte, ye nul lune.	cntrational	2011-10-15 15:00:08	2011-10-16 08:20:16
-111	0x6f	o	718	5203655	nov	Dona a me li kuliere.	cueyayotl	2016-06-10 07:14:11	2016-06-10 07:14:22
-112	0x70	p	170	5190228	nov	Vus pove vada.	cueyayotl	2016-06-03 20:11:31	2016-06-03 20:11:31
-113	0x71	q	17	9986886	nov	Pueras flatua quietimen.	KardonaBoske	2021-04-25 22:49:31	2021-04-25 22:49:31
-114	0x72	r	588	1160259	nov	Me observar fro vun fingres ke vu fumar.	cntrational	2011-10-07 18:02:54	2011-10-11 17:40:14
-115	0x73	s	737	12091373	nov	Les serchad beres.	Kardona	2023-10-01 22:59:39	2023-10-01 22:59:39
-116	0x74	t	383	9059593	nov	Tom non es kapitaliste.	shekitten	2020-09-22 10:31:22	2020-09-22 10:31:22
-117	0x75	u	492	4487563	nov	La furtad men horlojete.	cueyayotl	2015-09-03 05:01:42	2015-09-03 05:01:42
-118	0x76	v	338	5202022	nov	Ob vu vole senda un mesaje?	cueyayotl	2016-06-09 09:13:50	2016-06-09 09:13:50
-119	0x77	w	2	4571219	nov	Tatoeba non es sosial network.	cueyayotl	2015-10-01 05:01:02	2015-10-01 05:01:02
+97	0x61	a	548	6983600	nov	La anke parla fransum.	Haskell	2018-07-09 00:54:54	2018-07-09 00:54:54
+98	0x62	b	170	12303488	nov	Me did suta men robes.	KardonaBoske	2024-02-06 23:20:03	2024-02-06 23:20:03
+99	0x63	c	58	5201906	nov	Non marcha sur li gasone.	cueyayotl	2016-06-09 07:55:05	2016-06-09 07:55:05
+100	0x64	d	320	6990707	nov	Tom did envada li koridore.	Haskell	2018-07-12 00:07:40	2018-07-12 00:07:40
+101	0x65	e	565	5201859	nov	Me es in li veture.	cueyayotl	2016-06-09 07:41:06	2016-06-09 07:41:06
+102	0x66	f	124	12303368	nov	Me ama men filia.	KardonaBoske	2024-02-06 22:15:52	2024-02-06 22:15:52
+103	0x67	g	67	5201885	nov	Nus svima in li lage.	cueyayotl	2016-06-09 07:47:32	2016-06-09 07:47:32
+104	0x68	h	96	1160314	nov	Li hunde interesar nus: le nur sidar e observar.	cntrational	2011-10-07 18:10:48	2011-10-07 18:10:56
+105	0x69	i	454	5203500	nov	Renuntia!	cueyayotl	2016-06-10 00:33:48	2016-06-10 00:33:48
+106	0x6a	j	83	5203499	nov	Vun mesaje did es resivad.	cueyayotl	2016-06-10 00:31:51	2016-06-10 00:31:51
+107	0x6b	k	133	5188882	nov	Ob vus manja karnem?	cueyayotl	2016-06-03 15:56:47	2016-06-03 15:56:47
+108	0x6c	l	354	4487564	nov	Lo furtad men horlojete.	cueyayotl	2015-09-03 05:01:49	2015-09-03 05:01:49
+109	0x6d	m	383	10093990	nov	Tom have longi barbe.	KardonaBoske	2021-06-08 22:53:05	2021-06-08 22:53:05
+110	0x6e	n	449	10089392	nov	Vu es injeniere.	KardonaBoske	2021-06-06 23:05:01	2021-06-06 23:05:01
+111	0x6f	o	405	9794828	nov	Me lerna Ido.	shekitten	2021-02-22 17:58:17	2021-02-22 17:58:17
+112	0x70	p	142	5203504	nov	Dona a lo tempe.	cueyayotl	2016-06-10 00:37:30	2016-06-10 00:37:30
+113	0x71	q	17	1160263	nov	Pro quu vu visitar mes disdi?	cntrational	2011-10-07 18:03:21	2011-10-16 09:08:13
+114	0x72	r	346	1160282	nov	Nur pokim. Racontar a mes li nature de vun probleme.	cntrational	2011-10-07 18:06:42	2011-10-07 18:06:42
+115	0x73	s	450	1164776	nov	Vu ha prisentar pluri centimetre de lu omnitem durant ke vu ha parlar.	cntrational	2011-10-08 13:55:31	2011-10-08 13:55:40
+116	0x74	t	258	1204571	nov	Quitem es li tempe?	cntrational	2011-10-29 16:19:38	2011-10-29 16:19:47
+117	0x75	u	332	12054215	nov	Me basia vun kole.	Kardona	2023-09-13 22:20:29	2023-09-13 22:20:29
+118	0x76	v	239	12032368	nov	Li vivo venka.	Kardona	2023-09-02 20:51:00	2023-09-02 20:51:00
+119	0x77	w	2	1176443	nov	Me vivar in Kakogawa.	cntrational	2011-10-14 20:07:37	2011-10-14 20:07:58
 120	0x78	x	12	1164778	nov	Me vud es mal experte si me non vud pover datar lu ye acurateso de sirk yardeco.	cntrational	2011-10-08 13:55:45	2011-10-08 13:55:53
-121	0x79	y	34	1159580	nov	Mey vun regno venir; mey on fa vun volio, com in siele anke sur tere.	cntrational	2011-10-07 12:21:43	2011-10-08 04:54:05
-122	0x7a	z	2	1176793	nov	Es metro in Kazan.	cntrational	2011-10-14 22:34:12	2011-12-22 15:30:36
+121	0x79	y	30	1177863	nov	Esed somber nocte, ye nul lune.	cntrational	2011-10-15 15:00:08	2011-10-16 08:20:16
+122	0x7a	z	2	1176520	nov	Me vivar in Izmir.	cntrational	2011-10-14 20:46:13	2011-10-14 20:46:13
 171	0xab	«	1	1204549	nov	Lo dicter, «Me es fro Canada.»	cntrational	2011-10-29 16:13:42	2011-10-29 16:22:26
 187	0xbb	»	1	1204549	nov	Lo dicter, «Me es fro Canada.»	cntrational	2011-10-29 16:13:42	2011-10-29 16:22:26
-8220	0x201c	“	2	1164763	nov	“Me haver in men poshe manuscrite,” doctoro James Mortimer did dicter.	cntrational	2011-10-08 13:53:52	2011-10-08 13:54:01
-8221	0x201d	”	2	1164763	nov	“Me haver in men poshe manuscrite,” doctoro James Mortimer did dicter.	cntrational	2011-10-08 13:53:52	2011-10-08 13:54:01
+8220	0x201c	“	2	1164765	nov	“Me observad lu cand vu envadad li chambre,” Holmes dicted.	cntrational	2011-10-08 13:54:06	2011-10-08 13:54:06
+8221	0x201d	”	2	1164765	nov	“Me observad lu cand vu envadad li chambre,” Holmes dicted.	cntrational	2011-10-08 13:54:06	2011-10-08 13:54:06

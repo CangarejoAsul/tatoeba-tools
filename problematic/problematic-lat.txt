@@ -31,18 +31,14 @@ English quotation marks: opening mark succeeded by space	812063	lat	“In“ pra
 English quotation marks: unclosed opening mark	812063	lat	“In“ praepositio est.	rado	2011-03-26 10:37:27	2011-03-26 10:37:27
 English quotation marks: unbalanced opening marks	812063	lat	“In“ praepositio est.	rado	2011-03-26 10:37:27	2011-03-26 10:37:27
 Final punctuation	831682	lat	SPQR	Scott	2011-04-10 00:13:08	2011-04-10 00:13:19
-Em dash: homoglyph	858349	lat	Christus resurrexit, alleluia ! --- Resurrexit vere, alleluia !	fs	2011-04-26 18:47:44	2011-04-26 18:48:04
 Exclamation mark: preceeded by space	858349	lat	Christus resurrexit, alleluia ! --- Resurrexit vere, alleluia !	fs	2011-04-26 18:47:44	2011-04-26 18:48:04
 Final punctuation	872225	lat	SENATVS POPVLVSQVE ROMANVS	Hans07	\N	2012-04-24 15:04:44
 Final punctuation	1090938	lat	Bracarum tendiculae maxime certae sunt	Hans07	2011-09-09 15:01:37	2011-09-09 15:01:37
 Ellipsis: too short	1091516	lat	Theanam potium desidero..	Hans07	2011-09-09 20:42:29	2011-09-09 20:43:41
-Em dash: homoglyph	1171760	lat	Doctor L.L. Zamenhof (CCMMIL - CMMXVII) ipse convertit codices graves poeticas ad linguam Esperantam.	Hans07	2011-10-12 14:22:23	2011-10-12 14:27:28
 Ellipsis: too short	1177627	lat	Quinque milia passuum cucurrit..	Hans07	2011-10-15 11:17:42	2011-10-15 11:17:42
 Final punctuation	1272456	lat	Deo volente	jamesforsyth	2011-12-01 04:12:22	2011-12-01 04:12:22
 Colon: succeeded by letter or punctuation	1336074	lat	In lingua mea, "," virgula vocatur, ";" punctum et virgula vocatur, ":" duo puncta vocatur, "…" puncta reticentiae vocatur, et haec sententia puncto finitur.	alexmarcelo	2012-01-03 22:04:09	2012-01-03 22:41:18
 Period: preceeded by space	1342158	lat	Amicum habeo, cuius pater magister est .	Hans07	2012-01-06 14:49:50	2012-01-06 14:50:28
-En dash or figure dash: possible homoglyph	1540239	lat	Erzsébet Szilágyi (1410-1483) animi magnitudine non modo prudentia severitate conscientia regnum administravit domum sed etiam magna ex parte.	Muelisto	2012-04-19 10:40:35	2012-04-22 18:58:02
-Em dash: homoglyph	1750791	lat	Fortuna non penis - in manus non recipe.	gleki	2012-08-04 13:52:36	2012-08-04 13:52:36
 Final punctuation	2393693	lat	DITIS NEPIS POTENTIS NEGRO TE	GrizaLeono	2013-04-20 17:36:52	2014-05-20 12:57:06
 Final punctuation	2499178	lat	Ipso facto	Luisbugarin	2013-06-15 07:24:06	2013-06-15 07:24:06
 Capitalization	2739082	lat	ludum vici.	kachorrin	2013-09-14 06:37:30	2013-09-14 06:37:30
@@ -208,13 +204,8 @@ Capitalization	3547627	lat	dilexit veritatem	sanairi	2014-10-09 11:27:07	2014-10
 Final punctuation	3547627	lat	dilexit veritatem	sanairi	2014-10-09 11:27:07	2014-10-09 11:27:07
 Capitalization	3573435	lat	alloctes	abdallah179	2014-10-22 09:50:21	2014-10-22 09:50:21
 Final punctuation	3573435	lat	alloctes	abdallah179	2014-10-22 09:50:21	2014-10-22 09:50:21
-Capitalization	3577131	lat	reginae cum ancillis ambulat	chico2014	2014-10-24 02:09:23	2014-10-24 02:09:23
-Final punctuation	3577131	lat	reginae cum ancillis ambulat	chico2014	2014-10-24 02:09:23	2014-10-24 02:09:23
-Em dash: homoglyph	3597619	lat	Quid? Marcus puellam pulsat - et ridet!	soweli_Elepanto	2014-10-31 19:38:52	2014-10-31 19:38:52
 Capitalization	3645305	lat	nox erat et caelo fulgebat luna sereno inter minora sidera	Balvonas	2014-11-20 01:48:45	2014-11-20 01:48:45
 Final punctuation	3645305	lat	nox erat et caelo fulgebat luna sereno inter minora sidera	Balvonas	2014-11-20 01:48:45	2014-11-20 01:48:45
-Em dash: homoglyph	3659707	lat	Tace, puer improbe! Iulia puella pulchra est - cum rosis et sine rosis.	soweli_Elepanto	2014-11-26 20:42:59	2014-11-26 20:42:59
-Em dash: homoglyph	3686087	lat	Iulius in villa est apud servos suos - neque is iam meus dominus est!	soweli_Elepanto	2014-12-10 19:55:36	2014-12-10 19:56:51
 Capitalization	3717864	lat	vis medicatrix naturae	mhenderson5	2014-12-30 00:16:07	2014-12-30 00:16:07
 Final punctuation	3717864	lat	vis medicatrix naturae	mhenderson5	2014-12-30 00:16:07	2014-12-30 00:16:07
 Capitalization	3752709	lat	domus parva est.	stewart	2015-01-08 01:07:06	2022-08-30 12:07:00
@@ -241,10 +232,7 @@ Capitalization	4007786	lat	caro cāra est.	User55521	2015-03-31 14:54:58	2015-03
 Capitalization	4007995	lat	tē eum basiārē vīdī. nōlī negāre!	User55521	2015-03-31 15:56:59	2015-03-31 15:56:59
 Capitalization	4070370	lat	«laudētur Jesus Chrīstus!» — «in saecula saeculōrum!»	User55521	2015-04-13 21:00:54	2015-04-13 21:01:03
 Guillemets: not used	4070370	lat	«laudētur Jesus Chrīstus!» — «in saecula saeculōrum!»	User55521	2015-04-13 21:00:54	2015-04-13 21:01:03
-Em dash: homoglyph	4127542	lat	"Salve, Tom!" - "Salve, Maria!" - "Salvete, Tom et Maria!" - "Salve, Iohannes!" - "Nonne paulatim conficiamus?" - "Salutare autem debemus!"	pullnosemans	2015-04-29 18:28:10	2015-04-29 21:19:45
-Em dash: homoglyph	4206627	lat	Foedus? Immo formosus est quam - hoc malum!	soweli_Elepanto	2015-05-19 16:27:09	2015-05-19 16:27:09
 Final punctuation	4260871	lat	Id facere debeo	mrcenoura	2015-06-07 15:32:33	2015-06-07 15:32:33
-Em dash: homoglyph	4405313	lat	"Thomas, Ioannes te vocat". - "Non in domu sum!"	soweli_Elepanto	2015-07-25 07:59:28	2015-07-25 22:12:12
 Capitalization	4411235	lat	prīmā lūce eāmus.	User55521	2015-07-27 12:46:37	2015-07-27 12:46:37
 Capitalization	4411236	lat	prīmā lūce īmus.	User55521	2015-07-27 12:46:41	2015-07-27 12:46:41
 Capitalization	4416105	lat	sciō tē magistrum esse.	User55521	2015-07-29 08:39:17	2015-07-29 08:39:17
@@ -272,7 +260,6 @@ Capitalization	4759783	lat	peritissimus est	billt_estates	2015-12-12 05:28:39	20
 Final punctuation	4759783	lat	peritissimus est	billt_estates	2015-12-12 05:28:39	2015-12-12 05:29:22
 Capitalization	4761087	lat	heri pertransiit.	billt_estates	2015-12-12 17:36:45	2015-12-12 17:36:45
 Capitalization	4761206	lat	sine dubio, innocens est.	billt_estates	2015-12-12 18:36:26	2015-12-12 18:36:33
-Em dash: homoglyph	4801576	lat	Veni, vidi, vici - dixit Caesar.	maaster	2015-12-31 14:50:52	2015-12-31 21:27:51
 Final punctuation	4980665	lat	Peccavimus, Domine, dimitte nobis	Discipulus	2016-03-16 08:54:22	2016-03-16 08:54:22
 Period: preceeded by space	5007393	lat	I.N.R.I. = Iesus . Nasarenus . Rex . Iudeorum.	Muelisto	2016-03-25 10:56:57	2016-03-25 10:56:57
 Period: preceeded by space	5007399	lat	I.N.R.I. = IESVS . NASARENVS . REX . IVDAEORVM.	Muelisto	2016-03-25 10:58:50	2016-03-25 10:58:50
@@ -374,8 +361,6 @@ Final punctuation	7007417	lat	Absens heres non erit,	iart61	2018-07-20 16:53:47	
 Final punctuation	7041769	lat	Ut me conspexit venientem et Troia circum / arma amens vidit; magnis exterrita monstris / deriguit visu in medio, calor ossa reliquit, / labitur, et longo vix tandem tempore fatur:	carlosalberto	2018-08-03 19:28:20	2018-08-03 19:28:20
 Final punctuation	7047119	lat	Vix pauca furenti / subjicio et raris turbatus vocibus hisco:	carlosalberto	2018-08-06 14:40:33	2018-08-06 14:57:24
 Capitalization	7048488	lat	lra est initium insaniae.	iart61	2018-08-07 14:54:53	2018-08-07 14:54:53
-Em dash: homoglyph	7061183	lat	In expressione 5 - 3 = 2, 5 minuendus, 3 subtrahendus, 2 residuum vocatur.	alexmarcelo	2018-08-14 17:46:07	2018-08-14 17:46:07
-Em dash: homoglyph	7061185	lat	In expressione 5 - 3 = 2, 5 minuendus, 3 subtrahendus, 2 differentia vocatur.	alexmarcelo	2018-08-14 17:46:49	2018-08-14 17:46:49
 Final punctuation	7074292	lat	Hic Helenus, cæsis primum de more juvencis, / exorat pacem divum, vittasque resolvit / sacrati capitis, meque ad tua limina, Phœbe, / ipse manu multo suspensum numine ducit, / atque hæc deinde canit divino ex ore sacerdos:	carlosalberto	2018-08-20 14:20:54	2019-03-07 14:32:26
 Straight quotation marks: preceeded and succeeded by space	7086417	lat	"Cum tibi sollicito secreti ad fluminis undam / litoreis ingens inventa sub ilicibus sus, / triginta capitum fetus enixa, jacebit, / alba, solo recubans, albi circum ubera nati; / is locus urbis erit, requies ea certa laborum. "	carlosalberto	2018-08-24 15:07:44	2018-08-24 15:07:44
 Final punctuation	7137589	lat	Pullus pipit 'pi pi'	jimkillock	2018-09-09 08:18:48	2018-09-09 08:18:48
@@ -395,7 +380,6 @@ Straight quotation marks: odd number	7420378	lat	Quando expectas reditum patris?
 Final punctuation	7633339	lat	Dubii non habebo	la_tercme	2018-12-21 05:45:45	2018-12-21 05:45:45
 Final punctuation	7646574	lat	Multum mutaristis	la_tercme	2018-12-24 07:19:16	2018-12-24 07:19:16
 Final punctuation	7654420	lat	FRATER MEVS SAEPE FLET	la_tercme	2018-12-25 15:24:00	2018-12-25 15:24:11
-Em dash: homoglyph	7666364	lat	Ibisne? - Ita est, ibo.	Hans07	2018-12-27 10:15:45	2018-12-27 10:15:45
 Final punctuation	7666607	lat	Servatius discipulus ingeniosus est	la_tercme	2018-12-27 11:32:45	2018-12-27 11:32:45
 Final punctuation	7666802	lat	Numquam spem amitte	la_tercme	2018-12-27 14:26:10	2019-06-17 23:33:57
 Final punctuation	7675123	lat	AD LONDONIUM VENIVIT ANTE MENSE	la_tercme	2018-12-30 01:14:00	2018-12-30 01:14:45
@@ -476,12 +460,6 @@ Final punctuation	8088091	lat	Hæc sunt iudicia, quæ propones eis:	carlosalbert
 Final punctuation	8457413	lat	Thomas cultro coquinari armatus erat	alexmarcelo	2020-01-16 12:14:08	2020-01-16 12:14:37
 Final punctuation	8574760	lat	Exemplifica	whatzitdoe	2020-02-24 18:35:21	2020-02-24 18:36:21
 Quotation marks: homoglyphs	8598722	lat	Quomodo ''harpastum Americanum'' Anglice vocatur?	whatzitdoe	2020-03-06 19:37:46	2020-03-06 19:38:05
-Em dash: homoglyph	8650867	lat	"Quis libros scripsit?" - "Ego eos non scripsi."	shekitten	2020-04-01 15:45:47	2020-04-01 15:45:47
-Em dash: homoglyph	8650869	lat	"Quis orationes scripsit?" - "Ego eas non scripsi."	shekitten	2020-04-01 15:45:54	2020-04-01 15:45:54
-Em dash: homoglyph	8650870	lat	"Quis carmina scripsit?" - "Ego ea non scripsi."	shekitten	2020-04-01 15:45:59	2020-04-01 15:45:59
-Em dash: homoglyph	8650871	lat	"Quis libros scripsit?" - "Ego eos scripsi."	shekitten	2020-04-01 15:46:10	2020-04-01 15:46:10
-Em dash: homoglyph	8650872	lat	"Quis orationes scripsit?" - "Ego eas scripsi."	shekitten	2020-04-01 15:46:16	2020-04-01 15:46:16
-Em dash: homoglyph	8650873	lat	"Quis carmina scripsit?" - "Ego ea scripsi."	shekitten	2020-04-01 15:46:23	2020-04-01 15:46:23
 Capitalization	8696523	lat	hic Rhodos, hic salta!	manese	2020-04-20 15:25:40	2020-04-20 15:25:40
 Final punctuation	8733009	lat	Cīvēs Americāna fīam	jimkillock	2020-05-02 16:29:53	2020-05-02 16:29:53
 Final punctuation	8757976	lat	Quantum igitur habet de esse, tantum habet de bonitate	randomdude	2020-05-13 00:14:44	2020-05-13 00:14:44
@@ -506,31 +484,9 @@ Final punctuation	10330035	lat	Eccum	soridsolid	2021-09-30 01:19:43	2021-09-30 0
 Final punctuation	10494885	lat	Quattuor līberī mihi sunt	Zagreides	2021-11-08 16:08:12	2021-11-08 16:08:12
 Guillemets: not used	10512516	lat	« Intellēxistī? » « Plūs minus. »	Akenaseryan	2021-11-16 18:58:49	2021-11-16 18:58:49
 Guillemets: not used	10611459	lat	Quid est simpliciter mysterium huius loci qui « hic » appellatur?	carlosalberto	2022-01-07 17:51:24	2022-01-07 22:10:24
-Em dash: homoglyph	10810693	lat	Natalis meus - ante diem undecimum kalendas Februarias.	carlosalberto	2022-05-07 18:18:54	2022-05-08 12:35:42
-Em dash: homoglyph	10810743	lat	Natalis fratris uxoris meae - pridie kalendas Ianuarias.	carlosalberto	2022-05-07 19:14:43	2022-05-08 12:39:21
-Em dash: homoglyph	10810748	lat	Natalis coniugis sororis meae - pridie kalendas Ianuarias.	carlosalberto	2022-05-07 19:21:16	2022-05-08 12:39:46
-Em dash: homoglyph	10810760	lat	Natalis uxoris meae - idus Iunias.	carlosalberto	2022-05-07 19:34:05	2022-05-08 12:39:01
-Em dash: homoglyph	10810766	lat	Natalis amici mei - ante diem sextum idus Iunias.	carlosalberto	2022-05-07 19:41:50	2022-05-08 12:38:41
-Em dash: homoglyph	10810773	lat	Natalis sororis meae - ante diem tertium idus Februarias.	carlosalberto	2022-05-07 19:55:07	2022-05-08 12:38:15
-Em dash: homoglyph	10810782	lat	Natalis consobrinae meae - ante diem septimum kalendas Augustas.	carlosalberto	2022-05-07 20:04:40	2022-05-08 12:37:50
-Em dash: homoglyph	10810790	lat	Natalis fratris mei - ante diem quintum idus Septembres.	carlosalberto	2022-05-07 20:16:07	2022-05-08 12:37:29
-Em dash: homoglyph	10810798	lat	Natalis filii mei - nonnas Iulias.	carlosalberto	2022-05-07 20:25:21	2022-05-08 12:37:07
-Em dash: homoglyph	10810801	lat	Natalis duorum filiorum meorum - ante diem undecimum kalendas Martias.	carlosalberto	2022-05-07 20:30:34	2022-05-08 12:36:48
-Em dash: homoglyph	10810804	lat	Natalis filiae sororis meae - ante diem undecimum kalendas Apriles.	carlosalberto	2022-05-07 20:43:10	2022-05-08 12:36:26
-Em dash: homoglyph	10810811	lat	Natalis nepotis mei - ante diem decimum nonum kalendas Septembres.	carlosalberto	2022-05-07 20:51:28	2022-05-08 12:36:05
-Em dash: homoglyph	10810816	lat	Natalis consobrini mei - ante diem tertium nonnas Novembres.	carlosalberto	2022-05-07 21:02:28	2022-05-08 12:34:58
-Em dash: homoglyph	10810869	lat	Natalis matris meae - ante diem tertium kalendas Februarias.	carlosalberto	2022-05-07 22:18:43	2022-05-08 12:34:37
-Em dash: homoglyph	10810908	lat	Natalis patris mei - ante diem tertium kalendas Ianuarias.	carlosalberto	2022-05-07 22:34:27	2022-05-08 12:33:57
-Em dash: homoglyph	10812291	lat	Natalis huius actoris Americani - ante diem quartum nonnas Iulias.	carlosalberto	2022-05-08 11:17:59	2022-05-08 12:32:23
-Em dash: homoglyph	10812332	lat	Natalis huius scriptoris Russici - nonnas Octobres.	carlosalberto	2022-05-08 11:30:50	2022-05-08 12:31:29
-Em dash: homoglyph	10812355	lat	Natalis huius magistri Gallici - pridie idus Iulias.	carlosalberto	2022-05-08 11:48:11	2022-05-08 12:30:40
-Em dash: homoglyph	10812364	lat	Natalis cantatricis Americanae huius - ante diem tertium idus Septembres.	carlosalberto	2022-05-08 12:09:55	2022-05-08 12:29:57
-Em dash: homoglyph	10812369	lat	Natalis discipuli Brasiliensis - ante diem octavum kalendas Ianuarias.	carlosalberto	2022-05-08 12:24:41	2022-05-08 12:24:41
-Em dash: homoglyph	10812414	lat	Hoc anno, Matris Dies - ante diem octavum idus Maias.	carlosalberto	2022-05-08 13:36:49	2022-05-08 13:36:49
 Colon: preceeded by space	10969534	lat	Dixitque alter ad proximum suum : Venite, faciamus lateres, et coquamus eos igni.	carlosalberto	2022-07-06 23:34:25	2022-07-06 23:34:25
 Final punctuation	10977162	lat	Melius est librum primum legere et pelliculicam postea spectare	carlosalberto	2022-07-10 01:44:36	2022-07-10 01:44:36
 Guillemets: not used	11033310	lat	« Qui nescit, scire non potest », ait S. Augustinus.	AmarMecheri	2022-07-29 23:38:50	2022-07-29 23:38:50
-Em dash: homoglyph	11063016	lat	Linguae Lusitana et Hispanica tam similes inter se sunt ut interdum duae sententiae - altera Lusitanice, altera Hispanice - in eadem lingua scriptae esse videantur.	carlosalberto	2022-08-15 16:38:07	2022-08-16 13:15:39
 Quotation marks: homoglyphs	11072242	lat	''Iamne cenasti?'' ''Nondum cenavi.''	soridsolid	2022-08-20 19:57:42	2022-08-20 19:57:42
 Final punctuation	11141364	lat	INDVS NERONIS CLAVDI CAESARIS AVG CORPOR CUSTOS DEC SECVNDI NATIONE BATAVVS VIX ANN XXXVI H S E POSVIT EVMENES FRATER ET HERES EIVS EX COLLEGIO GERMANORVM	SunnyMoon	2022-09-26 09:34:17	2022-09-26 09:35:53
 Quotation marks: homoglyphs	11697752	lat	''Quid quaeris, caece?'' ''Lucem.''	soridsolid	2023-04-20 18:45:23	2023-04-20 18:45:23
@@ -539,12 +495,13 @@ Colon: preceeded by space	11714257	lat	Non est Judæus, neque Græcus : non est 
 Quotation marks: homoglyphs	11726013	lat	''Quis te adiuvit?'' ''Thomas.''	soridsolid	2023-04-30 14:37:40	2023-04-30 14:37:40
 Guillemets: not used	11784542	lat	« Libertas, aequalitas, fraternitas » exemplum est tripartitae sententiae.	carlosalberto	2023-05-22 20:10:15	2023-05-27 17:42:05
 Final punctuation	11794704	lat	Domi manere malo quam exire	soridsolid	2023-05-26 15:49:36	2023-05-26 15:49:36
-En dash or figure dash: possible homoglyph	12170307	lat	Sri Ramana Maharshi (30.12.1879-14.04.1950), qui cancro mortuus est, cum discipuli eum interrogarent si dolorem aliquem sentiret, respondere solebat: Dolor est in corpore meo. Scripsit librum "Quis sum?"	carlosalberto	2023-11-20 20:12:50	2023-11-20 20:12:50
-Em dash: homoglyph	12183236	lat	Quidquid id est, timeo Danaos - et dona ferentes!	soweli_Elepanto	2023-11-28 11:36:20	2023-11-28 11:36:20
-Em dash: homoglyph	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
 Multiplication sign: possible homoglyph	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
 Parentheses: unopened closing mark	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
 Parentheses: unbalanced closing marks	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
 Final punctuation	12211496	lat	Thomas mihi dixit meam vitam in dubio esse	soridsolid	2023-12-15 21:53:41	2023-12-15 21:53:41
 Capitalization	12341493	lat	identitas pueri amissi confirmata est vestibus suis.	carlosalberto	2024-02-26 17:08:20	2024-02-26 17:08:20
 Capitalization	12341494	lat	identitas puellae amissae confirmata est vestibus suis.	carlosalberto	2024-02-26 17:08:52	2024-02-26 17:08:52
+Ellipsis: too short	12358142	lat	Illi manus fune colligaverunt..	soridsolid	2024-03-06 03:27:52	2024-03-06 03:28:07
+Ellipsis: too short	12359075	lat	Eurystheus prīmum iussit Herculem leōnem interficere, quī in illo tempore vallem Nemeaeam reddebat infestam..	carlosalberto	2024-03-06 19:01:14	2024-03-06 19:01:14
+Final punctuation	12360968	lat	Cum volet, illa dies, quae nil nisi corporis huius ius habet, incerti spatium mihi finiat aevi:	carlosalberto	2024-03-07 21:36:51	2024-03-07 21:36:51
+Capitalization	12360982	lat	parte tamen meliore mei super alta perennis astra ferar, nomenque erit indelebile nostrum.	carlosalberto	2024-03-07 21:55:21	2024-03-07 21:55:21

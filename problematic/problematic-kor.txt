@@ -19,7 +19,6 @@ Comma: succeeded by letter	1123385	kor	안녕하세요,예약을 했는데요, �
 Ellipsis: too short	1176079	kor	S♥NE~~ 벌써 우리가 만난 지 4년 이예요!!^^ 참..시간이 빠른 것 같아요.	qweruiop	2011-10-14 16:07:33	2011-10-14 16:07:33
 Ellipsis: too short	1176082	kor	벌써 우리가 만난 지 4년 이예요!! 참..른 것 같아요.시간이 빠	qweruiop	2011-10-14 16:10:28	2011-10-14 16:10:28
 Final punctuation	1176082	kor	벌써 우리가 만난 지 4년 이예요!! 참..른 것 같아요.시간이 빠	qweruiop	2011-10-14 16:10:28	2011-10-14 16:10:28
-Em dash: homoglyph	1533375	kor	불규칙 동사의 활용 - 영어를 배우는 사람들의 필수.	mysonhs	2012-04-15 08:44:32	2012-04-15 08:44:32
 Final punctuation	1643628	kor	내 호버크라프트는 장어로 가득 차 있어요。	eastasiastudent	2012-06-24 17:11:12	2012-06-24 17:11:12
 Parentheses: opening mark preceeded by letter or digit	1756107	kor	그들은 파일럿(비행기 조종사)입니다.	Genie	2012-08-06 17:30:13	2012-08-06 17:30:13
 Parentheses: closing mark succeeded by letter or digit	1756107	kor	그들은 파일럿(비행기 조종사)입니다.	Genie	2012-08-06 17:30:13	2012-08-06 17:30:13
@@ -35,8 +34,6 @@ Final punctuation	2652665	kor	몰라요	KoreanBeaver	2013-08-03 23:18:29	2013-08
 Straight quotation marks: odd number	2652693	kor	작고 횐색 토끼는 '왠 일 있니?" 물어봤어요.	KoreanBeaver	2013-08-03 23:26:24	2013-08-03 23:26:24
 Final punctuation	2652739	kor	너 참 예쁜 아이구나	KoreanBeaver	2013-08-03 23:58:24	2013-08-04 16:36:30
 Straight quotation marks: odd number	2653722	kor	작고 횐색 토끼는 '무슨 일 있니?" 라고 물어봤다.	KoreanBeaver	2013-08-04 13:13:56	2013-08-04 16:19:36
-Em dash: homoglyph	2654595	kor	사랑해 - 나도.	KoreanBeaver	2013-08-04 19:32:04	2016-06-28 02:38:01
-Em dash: homoglyph	2654597	kor	사랑해요 - 나도	KoreanBeaver	2013-08-04 19:32:14	2013-08-04 19:32:14
 Final punctuation	2654597	kor	사랑해요 - 나도	KoreanBeaver	2013-08-04 19:32:14	2013-08-04 19:32:14
 Final punctuation	2654672	kor	고생했어요	KoreanBeaver	2013-08-04 20:44:11	2013-08-04 20:44:15
 Final punctuation	2655597	kor	저한테 신경 쓰지마세요	KoreanBeaver	2013-08-05 10:04:31	2013-08-05 10:04:31
@@ -58,7 +55,6 @@ Parentheses: opening mark preceeded by letter or digit	3655509	kor	나는 프랑
 Parentheses: opening mark preceeded by letter or digit	3655511	kor	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	rbbrbb	2014-11-24 22:20:37	2014-11-24 22:20:37
 Parentheses: closing mark succeeded by letter or digit	3655511	kor	내가 모로코에서 만난 프랑스 친구가 나에게 빠리의 공기(분위기)가 프랑스의 전부를 나타내는 것이 아니며, 다른 도시들과 시골이 아주 아름답다고 말했다.	rbbrbb	2014-11-24 22:20:37	2014-11-24 22:20:37
 Final punctuation	3678099	kor	당신은 복구	DoJiHan	2014-12-06 17:22:30	2014-12-06 17:22:41
-En dash or figure dash: possible homoglyph	3684952	kor	수신자부담전화 1-800-446-2581을 이용해주세요.	rainbow4us	2014-12-10 07:33:20	2016-03-04 06:04:24
 Final punctuation	4031818	kor	그들사이의 두터운 정을 보여준다. (반영한다)	intratech	2015-04-04 04:26:00	2015-04-04 04:26:44
 Parentheses: opening mark preceeded by letter or digit	4031849	kor	이 치마는 네 스타일(분위기)에 딱 맞는다.	intratech	2015-04-04 04:32:54	2015-04-04 04:32:54
 Parentheses: closing mark succeeded by letter or digit	4031849	kor	이 치마는 네 스타일(분위기)에 딱 맞는다.	intratech	2015-04-04 04:32:54	2015-04-04 04:32:54
@@ -162,9 +158,7 @@ Straight quotation marks: preceeded and succeeded by letter or digit	8358453	kor
 Capitalization	8358555	kor	e^x의 도함수가 뭐야?	Eunhee	2019-12-01 11:53:40	2019-12-01 11:53:40
 Straight quotation marks: preceeded and succeeded by letter or digit	8360531	kor	적어도 "고마워"라고는 해줘야지.	Eunhee	2019-12-02 12:30:06	2019-12-02 12:30:06
 Straight quotation marks: preceeded and succeeded by letter or digit	8365122	kor	"말들"은 "말"의 복수형이야.	Eunhee	2019-12-05 03:30:05	2019-12-05 03:30:05
-En dash or figure dash: possible homoglyph	8365268	kor	번호는 932-8647인데, 지역 코드는 몰라.	Eunhee	2019-12-05 06:47:09	2019-12-05 06:47:17
 Straight quotation marks: preceeded and succeeded by letter or digit	8367505	kor	적분 기호는 독일어 단어인 "Summe"를 연상시키는 S가 길게 늘여진 모양이야. 그걸 위대한 독일의 학자인 라이프니츠라는 사람이 고안했지.	Eunhee	2019-12-06 05:32:36	2019-12-06 05:32:36
-Em dash: homoglyph	8375050	kor	저 사람은 인생의 바닥을 쳤어. 아내는 떠났지, 직업도 잃었지, 심지어 알코올 중독자야. 가장 끔찍한 건 뭐냐면 내가 그를 알고 있다는 사실이야--그 인간은 5 년 전 까지만 해도 내 상사였거든.	Eunhee	2019-12-10 02:42:04	2019-12-10 02:44:24
 Final punctuation	8380526	kor	나를 쳐다보지 말아라	baehyunsol	2019-12-13 03:20:19	2019-12-13 03:20:19
 Straight quotation marks: preceeded and succeeded by letter or digit	8399410	kor	프랑스어로 "사랑해"를 어떻게 말하나요?	Eunhee	2019-12-23 14:05:50	2019-12-23 14:07:40
 Straight quotation marks: preceeded and succeeded by letter or digit	8399411	kor	"사랑해"를 프랑스어로 어떻게 말해?	Eunhee	2019-12-23 14:06:29	2019-12-23 14:07:25

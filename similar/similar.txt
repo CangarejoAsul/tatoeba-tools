@@ -2129,6 +2129,7 @@
 4322693	bel	Demetrius5	4414349	rus	michalina
 4283956	bel	Demetrius5	4414490	rus	michalina
 1215826	por	alexmarcelo	4416304	ita	Guybrush88
+1042201	pol	yessoos	4419602	ces	lovermann
 2428527	slk	slovak	4421844	ces	lovermann
 1032714	deu	Hans07	4422317	hun	bandeirante
 820299	nds	slomox	4422323	hun	bandeirante
@@ -2136,6 +2137,7 @@
 373339	nld	PaulP	4422726	hun	bandeirante
 1381613	por	tulio	4422730	hun	bandeirante
 702950	pol	zipangu	4422874	ces	lovermann
+368403	pol	zipangu	4424723	ces	lipao
 819542	deu	Espi	4428768	hun	bandeirante
 347739	eng	zhouj1955	4429972	hun	bandeirante
 3363420	fin	Silja	4432631	est	keegi
@@ -4457,7 +4459,7 @@
 2043807	ber	kouriet15	7056964	kab	belkacem77
 2041444	ber	kouriet15	7056965	kab	belkacem77
 2041445	ber	kouriet15	7056966	kab	belkacem77
-6483370	ber	ButterflyOfFire	7057700	kab	Selyan
+1620398	ber	Amastan	7057700	kab	Selyan
 1604011	ber	Amastan	7057701	kab	Selyan
 1733672	ber	Amastan	7057851	kab	Selyan
 1733696	ber	Amastan	7058157	kab	belkacem77
@@ -4613,6 +4615,7 @@
 2913516	ber	Amastan	7082095	kab	Amazigh_Bedar
 7082207	ber	Selyan	7082228	kab	Selyan
 2231996	ber	Amastan	7082277	kab	Amazigh_Bedar
+1746729	ber	Amastan	7082325	kab	Amazigh_Bedar
 2901900	ber	Amastan	7082488	kab	Amazigh_Bedar
 1617064	ber	Amastan	7082500	kab	Amazigh_Bedar
 505773	spa	Shishir	7082746	por	iart61
@@ -4636,6 +4639,7 @@
 5779035	ber	Amastan	7083964	kab	Amazigh_Bedar
 1673865	ber	Amastan	7083987	kab	Amazigh_Bedar
 2352340	ber	Amastan	7083988	kab	Amazigh_Bedar
+2354210	ber	Amastan	7084013	kab	Amazigh_Bedar
 1785192	ber	Amastan	7084077	kab	AmarMecheri
 1617030	ber	Amastan	7084166	kab	AmarMecheri
 2446121	ber	Amastan	7084383	kab	AmarMecheri
@@ -4827,7 +4831,7 @@
 1763178	ber	Amastan	7161650	kab	HocineBenamer
 7021513	ber	Amastan	7162173	kab	samir_t
 1616191	ber	Amastan	7162195	kab	Aylimas
-6483370	ber	ButterflyOfFire	7162212	kab	Aylimas
+1620398	ber	Amastan	7162212	kab	Aylimas
 5668556	bre	Iriep	7163236	eng	Sleekkat
 5103342	zsm	LeeSooHa	7163237	ind	purichan
 1889234	rus	marafon	7164851	ukr	deniko
@@ -4861,7 +4865,7 @@
 2842644	ber	NaravasMeksem	7187690	kab	Amazigh_Bedar
 5812176	ber	Amastan	7187738	kab	Amazigh_Bedar
 7017439	ber	Amastan	7187748	kab	Amazigh_Bedar
-2932910	ber	Amastan	7187802	kab	Amazigh_Bedar
+2854928	ber	Uyezjen	7187802	kab	Amazigh_Bedar
 7092089	ber	Amastan	7188122	kab	Amazigh_Bedar
 3544046	ber	Amastan	7188149	kab	Amazigh_Bedar
 2937423	ber	Amastan	7188181	kab	Amazigh_Bedar
@@ -4906,6 +4910,7 @@
 1598668	ber	Amastan	7204784	kab	Amazigh_Bedar
 1998095	ber	Amastan	7204805	kab	samir_t
 7205033	ber	Sabe	7205034	kab	Sabe
+2932896	ber	Amastan	7206498	kab	Selyan
 3591631	ber	Amastan	7206562	kab	Selyan
 4558466	ber	Amastan	7207106	kab	Igider
 4558464	ber	Amastan	7207108	kab	Igider
@@ -5034,6 +5039,7 @@
 2557895	ber	Amastan	7253031	kab	Selyan
 2551958	ber	Amastan	7253867	kab	Igider
 7214961	ber	Mohamedzakaria	7253878	kab	Igider
+7069379	ber	Amastan	7253884	kab	Igider
 2931353	ber	Amastan	7253920	kab	Igider
 2931357	ber	Amastan	7253925	kab	Igider
 7068729	ber	Amastan	7253933	kab	Igider
@@ -5351,6 +5357,7 @@
 7116517	kab	samir_t	7320523	ber	LamiaImen1
 7085936	kab	AmarMecheri	7320538	ber	MessDjaaf
 6717084	kab	amazigh84	7320544	ber	MessDjaaf
+7187759	kab	Amazigh_Bedar	7320545	ber	MessDjaaf
 7081818	kab	Amazigh_Bedar	7320549	ber	MessDjaaf
 7183485	kab	Amazigh_Bedar	7320560	ber	MessDjaaf
 7183487	kab	Amazigh_Bedar	7320561	ber	MessDjaaf
@@ -5375,6 +5382,8 @@
 7233711	kab	Amazigh_Bedar	7322827	ber	Amastan
 7233712	kab	Amazigh_Bedar	7322828	ber	Amastan
 7107536	kab	Yazid_Bouhamam	7322968	ber	Amastan
+7254052	kab	Igider	7323079	ber	Amastan
+7254053	kab	Igider	7323080	ber	Amastan
 7277536	kab	Igider	7323126	ber	Amastan
 7187804	kab	Amazigh_Bedar	7323162	ber	Amastan
 7222013	kab	samir_t	7323165	ber	Amastan
@@ -5547,6 +5556,7 @@
 2868607	ber	Amastan	7357378	kab	Igider
 2868608	ber	Amastan	7357379	kab	Igider
 2906089	ber	Amastan	7357398	kab	Igider
+2932902	ber	Amastan	7357878	kab	samir_t
 7282087	ber	Amastan	7358036	kab	Igider
 2092880	ber	Amastan	7358385	kab	Amazigh_Bedar
 7257552	ber	MessDjaaf	7358395	kab	Amazigh_Bedar
@@ -5760,6 +5770,7 @@
 2579187	ber	Amastan	7429419	kab	Igider
 2855679	ber	Amastan	7429433	kab	Igider
 3610884	ber	Amastan	7429451	kab	Igider
+7323078	ber	Amastan	7429457	kab	Igider
 2922836	ber	Amastan	7429495	kab	Igider
 2922838	ber	Amastan	7429496	kab	Igider
 7261313	kab	HocineBenamer	7429911	ber	Amastan
@@ -6326,6 +6337,14 @@
 7296564	ber	Amastan	7587129	kab	samir_t
 7296274	ber	Amastan	7587607	kab	Igider
 7296274	ber	Amastan	7587610	kab	Igider
+2859596	ber	Amastan	7587616	kab	Igider
+2859597	ber	Amastan	7587617	kab	Igider
+2859603	ber	Amastan	7587620	kab	Igider
+2859604	ber	Amastan	7587621	kab	Igider
+2859570	ber	Amastan	7587624	kab	Igider
+2859572	ber	Amastan	7587625	kab	Igider
+2859572	ber	Amastan	7587629	kab	Igider
+2859574	ber	Amastan	7587630	kab	Igider
 3650757	ber	Amastan	7587783	kab	Igider
 2883276	ber	Amastan	7587784	kab	Igider
 2535513	ber	Amastan	7587797	kab	Igider
@@ -6409,6 +6428,9 @@
 7256845	kab	Igider	7637525	ber	Amastan
 7256846	kab	Igider	7637526	ber	Amastan
 7256847	kab	Igider	7637529	ber	Amastan
+7256849	kab	Igider	7637530	ber	Amastan
+7256850	kab	Igider	7637531	ber	Amastan
+7256851	kab	Igider	7637533	ber	Amastan
 7256814	kab	Igider	7637546	ber	Amastan
 7256816	kab	Igider	7637547	ber	Amastan
 7256817	kab	Igider	7637549	ber	Amastan
@@ -6863,6 +6885,14 @@
 6165573	por	catarwww	7790385	spa	Goatstein
 4625693	cbk	Arondayot	7790409	spa	Goatstein
 7272185	ber	MessDjaaf	7790698	kab	samir_t
+2863040	ber	Amastan	7792501	kab	Igider
+2863041	ber	Amastan	7792502	kab	Igider
+2863047	ber	Amastan	7792505	kab	Igider
+2863048	ber	Amastan	7792506	kab	Igider
+2863053	ber	Amastan	7792509	kab	Igider
+2863056	ber	Amastan	7792510	kab	Igider
+2863054	ber	Amastan	7792514	kab	Igider
+2863057	ber	Amastan	7792515	kab	Igider
 459301	tur	deyta	7793456	lit	glavsaltulo
 1567614	kab	sacredceltic	7794171	thv	Aissimahfoud06
 7353609	kab	Igider	7794290	thv	Aissimahfoud06
@@ -6917,6 +6947,7 @@
 3645511	ber	Amastan	7808206	kab	samir_t
 607364	ita	Cero	7809039	lij	JeanM
 1381605	por	tulio	7809050	lij	JeanM
+7294784	kab	Igider	7810252	ber	Talwit
 6097108	ukr	deniko	7810861	rus	Txoria
 1960628	ber	Amastan	7812147	kab	samir_t
 2354268	ber	Amastan	7812162	kab	samir_t
@@ -6934,6 +6965,7 @@
 7084490	kab	AmarMecheri	7818769	ber	Amastan
 7188204	kab	Amazigh_Bedar	7818775	ber	Amastan
 7219686	kab	alemfarid	7818776	ber	Amastan
+7203539	kab	Selyan	7818778	ber	Amastan
 7219715	kab	alemfarid	7818782	ber	Amastan
 7192932	kab	Amazigh_Bedar	7818817	ber	Amastan
 7277623	kab	Igider	7818819	ber	Amastan
@@ -7122,6 +7154,7 @@
 7232911	kab	belkacem77	7840553	ber	Amastan
 7249579	kab	Igider	7840571	ber	Amastan
 7209845	kab	Selyan	7840704	ber	Amastan
+7210965	kab	Igider	7840837	ber	Amastan
 7088022	kab	samir_t	7840838	ber	Amastan
 7841675	arq	MisterBrown	7841677	ara	MisterBrown
 4064327	ber	Amastan	7842274	kab	nabil509
@@ -7158,6 +7191,7 @@
 7489158	nld	MarijnKp	7855762	gos	MarijnKp
 1458445	spa	marcelostockle	7856386	por	vilut9
 2901914	ber	Amastan	7858664	kab	samir_t
+7859364	ber	Amastan	7859952	kab	anzart
 7859923	ber	LinaTamazight	7859959	kab	anzart
 1764180	ber	Amastan	7861949	kab	samir_t
 487010	deu	human600	7863393	dan	danepo
@@ -7446,6 +7480,7 @@
 1620064	ber	Amastan	7987029	kab	samir_t
 2873552	ber	Amastan	7987031	kab	samir_t
 4261676	cmn	egg0073	7988292	yue	nickyeow
+7301932	kab	Igider	7988794	ber	Yagurten
 7789096	kab	samir_t	7988945	ber	Yagurten
 7342205	ber	Amastan	7989275	kab	Amgaray
 7342205	ber	Amastan	7989277	kab	Amgaray
@@ -8022,6 +8057,8 @@
 7300431	ber	Amastan	8219689	kab	belkacem77
 7300432	ber	Amastan	8219690	kab	belkacem77
 1784583	ber	Amastan	8219703	kab	samir_t
+7667573	ber	Yagurten	8220028	kab	alemfarid
+7762009	ber	Yagurten	8220030	kab	alemfarid
 7832889	ber	MisterBrown	8220895	kab	belkacem77
 8149250	ber	Amastan	8220977	kab	belkacem77
 8149252	ber	Amastan	8220978	kab	belkacem77
@@ -8104,6 +8141,7 @@
 7299698	kab	Igider	8233486	ber	Amastan
 7299699	kab	Igider	8233487	ber	Amastan
 2932265	nob	eirik174	8234060	dan	danepo
+7485021	ber	Amastan	8234704	kab	samir_t
 3675281	ber	Juba	8236252	kab	HocineBenamer
 5812319	ber	Amastan	8236438	kab	samir_t
 2796052	ber	yecca	8237218	kab	alemfarid
@@ -8367,6 +8405,8 @@
 8308439	shy	ichawiyen	8320239	ber	ichawiyen
 8308481	ber	ichawiyen	8320244	shy	ichawiyen
 8308482	ber	ichawiyen	8320247	shy	ichawiyen
+2859579	ber	Amastan	8321062	kab	ZiriSut
+2859581	ber	Amastan	8321063	kab	ZiriSut
 7283415	ber	Amastan	8321749	kab	samir_t
 4245089	rus	odexed	8321864	ukr	Teashrock
 1817653	ber	Amastan	8322089	kab	ZiriSut
@@ -8609,6 +8649,7 @@
 2862438	ber	Amastan	8368031	kab	ZiriSut
 3608830	ber	Amastan	8368502	kab	samir_t
 4564226	ber	Amastan	8368778	kab	ZiriSut
+2932899	ber	Amastan	8369030	kab	samir_t
 3700340	ber	Amastan	8369157	kab	samir_t
 1736081	ber	Amastan	8369321	kab	samir_t
 820299	nds	slomox	8370873	hun	Pandaa
@@ -8635,6 +8676,7 @@
 3876781	spa	SrTortuga	8377003	ita	Guybrush88
 2773452	rus	marafon	8377872	ukr	deniko
 4558801	ber	Amastan	8378266	kab	samir_t
+7320030	ber	Amastan	8378274	kab	samir_t
 2862441	ber	Amastan	8378734	kab	belkacem77
 2862444	ber	Amastan	8378735	kab	belkacem77
 2862447	ber	Amastan	8378737	kab	belkacem77
@@ -8704,7 +8746,6 @@
 2937819	ber	Amastan	8401499	kab	samir_t
 7490789	ber	Sammer	8402091	kab	samir_t
 1750793	ber	Amastan	8402095	kab	samir_t
-7988794	ber	Yagurten	8402115	kab	samir_t
 7363951	ber	MessDjaaf	8402539	kab	samir_t
 4657352	pap	Ricardo14	8404120	mwl	Txoria
 2522779	jbo	temlat	8405641	emx	Txoria
@@ -8766,10 +8807,10 @@
 7301778	kab	Igider	8413344	ber	Amastan
 7301781	kab	Igider	8413346	ber	Amastan
 7447248	kab	Igider	8413485	ber	Amastan
-7447252	kab	Igider	8413502	ber	Amastan
+7062328	kab	anzart	8413502	ber	Amastan
 7447248	kab	Igider	8413506	ber	Amastan
 8257007	kab	samir_t	8413559	ber	Amastan
-7447252	kab	Igider	8413622	ber	Amastan
+7062328	kab	anzart	8413622	ber	Amastan
 2920000	ber	Amastan	8414250	kab	samir_t
 2920001	ber	Amastan	8414252	kab	samir_t
 538722	nld	Dorenda	8414456	dan	_CannotLogin_
@@ -9036,6 +9077,7 @@
 7078499	kab	Igider	8588595	ber	Talwit
 2091000	swe	herrsilen	8588908	dan	danepo
 3191671	spa	cueyayotl	8589712	lad	shekitten
+7371324	kab	Amazigh_Bedar	8592395	ber	Talwit
 8592394	ile	shekitten	8592396	ina	shekitten
 8193944	kab	ZiriSut	8592437	ber	Talwit
 3841207	swe	herrsilen	8593868	nob	Thanuir
@@ -9244,6 +9286,7 @@
 4187162	ber	Amastan	8697960	kab	Rafik
 4187157	ber	Amastan	8697963	kab	Rafik
 1986538	ber	Amastan	8698141	kab	ZiriSut
+8222859	kab	ZiriSut	8698352	ber	Talwit
 1958629	ber	Amastan	8698393	kab	Rafik
 4062292	ber	Amastan	8698440	lat	Massi
 7740634	ber	Amastan	8698462	kab	Massi
@@ -9327,6 +9370,7 @@
 3493074	nld	megamanenm	8722634	gos	MarijnKp
 4392439	deu	Dokuyaku	8723170	kmr	dilo1
 2160627	ita	Guybrush88	8723179	kmr	dilo1
+8224852	kab	faridmaakni	8723698	ber	Talwit
 2865601	ber	Amastan	8724265	kab	Rafik
 5016766	spa	don_ramon	8725046	pcd	Julien_PDC
 5216495	rus	odexed	8725141	ukr	deniko
@@ -9379,6 +9423,7 @@
 3590271	ces	nueby	8750928	pol	nusia2302
 2583522	lat	alexmarcelo	8754699	ber	Amastan
 3439041	srp	neron	8755508	hrv	skanne
+8211245	kab	belkacem77	8756381	ber	Talwit
 1733665	ber	Amastan	8756552	kab	samir_t
 4598972	ber	Amastan	8756864	kab	Rafik
 7329622	kab	Aissimahfoud06	8758339	ber	Talwit
@@ -9942,7 +9987,7 @@
 2826870	ces	antochi	8962930	slk	Dominika7
 4748428	pol	AgnieszkaC	8962948	slk	Dominika7
 2077247	ces	lipao	8963110	slk	Dominika7
-4424723	ces	lipao	8963114	slk	Dominika7
+368403	pol	zipangu	8963114	slk	Dominika7
 8690493	ces	aldar	8963116	slk	Dominika7
 6027558	ces	nueby	8963144	slk	Dominika7
 8685823	ces	aldar	8963146	slk	Dominika7
@@ -10173,6 +10218,7 @@
 7694126	ber	MessDjaaf	9071675	kab	Alizen
 630772	spa	Leono	9071676	kab	Alizen
 7694125	ber	MessDjaaf	9071677	kab	Alizen
+7680899	ber	MessDjaaf	9071678	kab	Alizen
 7664863	ber	MessDjaaf	9071679	kab	Alizen
 7673683	ber	MessDjaaf	9071681	kab	Alizen
 7646125	ber	Yagurten	9071685	kab	Alizen
@@ -10477,6 +10523,7 @@
 8409898	kab	samir_t	9154104	ber	Yagurten
 7289481	kab	Igider	9154122	ber	Yagurten
 7204734	kab	Amazigh_Bedar	9154330	ber	Yagurten
+7204701	kab	Amazigh_Bedar	9154355	ber	Yagurten
 7316441	kab	Amazigh_Bedar	9154486	ber	Yagurten
 7491233	kab	Igider	9154511	ber	Yagurten
 7320222	kab	Grendayzer	9154513	ber	Yagurten
@@ -10667,6 +10714,7 @@
 2862787	ber	Amastan	9245814	kab	samir_t
 8055866	ber	Amastan	9246363	kab	BenkerouHani
 5252845	ber	Amgaray	9246533	kab	AmarMecheri
+7870014	ber	Talwit	9246884	kab	Mouatyedjer
 7467757	ber	Amastan	9249886	kab	BenkerouHani
 8221087	shy	Czar	9253070	ber	Maylis
 9253620	nld	MarijnKp	9253631	gos	MarijnKp
@@ -11098,6 +11146,8 @@
 7135943	kab	azerriw	9388868	ber	Aghsi_n_Unezruf
 7372168	kab	Igider	9388870	ber	Aghsi_n_Unezruf
 7139082	kab	samir_t	9388876	ber	Aghsi_n_Unezruf
+9323019	kab	Igider	9388879	ber	Aghsi_n_Unezruf
+7357331	kab	Igider	9388890	ber	Aghsi_n_Unezruf
 7419620	kab	Igider	9388897	ber	Aghsi_n_Unezruf
 7187533	kab	Amazigh_Bedar	9388909	ber	Aghsi_n_Unezruf
 7590998	kab	samir_t	9388945	ber	Aghsi_n_Unezruf
@@ -11632,7 +11682,7 @@
 7557660	ber	Amastan	9472056	kab	Igider
 1861537	ber	Amastan	9472061	kab	Igider
 1660456	ber	Amastan	9472065	kab	Igider
-2932910	ber	Amastan	9472202	kab	Igider
+2854928	ber	Uyezjen	9472202	kab	Igider
 7819039	ber	Amastan	9472210	kab	Igider
 8672198	ber	Amastan	9472216	kab	Igider
 2043307	ber	Amastan	9472223	kab	Igider
@@ -12496,6 +12546,7 @@
 2859512	ber	Amastan	9680399	kab	Igider
 8117757	rus	Ivanovb	9680406	ukr	deniko
 7484637	ber	Amastan	9682076	kab	BilalBouy
+9678428	kab	Igider	9682555	ber	Amastan
 9678426	kab	Igider	9682557	ber	Amastan
 8288229	kab	AmarMecheri	9682967	ber	Talwit
 9147373	ber	Yagurten	9683103	kab	Igider
@@ -12551,6 +12602,8 @@
 1915538	por	alexmarcelo	9706710	spa	Shishir
 5481114	por	ajdavidl	9706828	spa	Shishir
 8083596	lad	shekitten	9706909	spa	Shishir
+9097900	ber	Amastan	9706995	kab	Igider
+9097902	ber	Amastan	9706996	kab	Igider
 1627834	ber	Amastan	9707000	kab	samir_t
 7310842	ber	Amastan	9707003	kab	Igider
 1627805	ber	Amastan	9707025	kab	samir_t
@@ -13059,6 +13112,12 @@
 8193740	ber	Talwit	9787480	kab	Igider
 8193740	ber	Talwit	9787481	kab	Igider
 8193742	ber	Talwit	9787483	kab	Igider
+2865617	ber	Amastan	9787486	kab	Igider
+2865625	ber	Amastan	9787487	kab	Igider
+2865623	ber	Amastan	9787488	kab	Igider
+2865624	ber	Amastan	9787489	kab	Igider
+2865624	ber	Amastan	9787490	kab	Igider
+2865628	ber	Amastan	9787492	kab	Igider
 9153443	ber	Yagurten	9787494	kab	Igider
 9153445	ber	Yagurten	9787496	kab	Igider
 9153445	ber	Yagurten	9787497	kab	Igider
@@ -13692,6 +13751,7 @@
 4421783	ces	lovermann	9929614	slk	Dominika7
 7481859	fra	theachaean	9929817	epo	GrizaLeono
 7343189	ber	Amastan	9929847	kab	Agag
+7204701	kab	Amazigh_Bedar	9930353	ber	Talwit
 9929000	slk	Dominika7	9931243	ces	aldar
 9928996	slk	Dominika7	9931244	ces	aldar
 2863478	ber	Amastan	9931741	kab	Agag
@@ -13764,6 +13824,7 @@
 2497671	ber	Amastan	9947019	kab	Agag
 9948112	por	Ricardo14	9948113	spa	Ricardo14
 2147361	ces	moskbnea	9948213	slk	Dominika7
+8698597	kab	Massi	9949375	ber	Talwit
 8257535	kab	AmarMecheri	9949378	ber	Talwit
 7589751	kab	AmarMecheri	9949385	ber	Talwit
 8246859	kab	ZiriSut	9949406	ber	Talwit
@@ -14054,6 +14115,7 @@
 4165451	ber	Amastan	10044704	kab	Rafik
 5502623	ita	Guybrush88	10046759	ces	Ergulis
 2851606	ber	Amastan	10046878	kab	samir_t
+8198706	kab	belkacem77	10047054	ber	Talwit
 10045948	slk	Dominika7	10048098	ces	aldar
 9201748	slk	Dominika7	10048345	ces	aldar
 8977585	slk	Dominika7	10048387	ces	aldar
@@ -14476,10 +14538,15 @@
 5116506	spa	helpa	10213875	fra	Micsmithel
 8145930	kab	belkacem77	10214685	ber	Yagurten
 8081193	kab	samir_t	10214726	ber	Yagurten
+7042943	kab	Amazigh_Bedar	10214884	ber	Yagurten
+7083335	kab	Amazigh_Bedar	10214896	ber	Yagurten
 7447521	kab	Igider	10214902	ber	Yagurten
 7447522	kab	Igider	10214903	ber	Yagurten
 7081806	kab	Amazigh_Bedar	10214944	ber	Yagurten
 7419615	kab	Igider	10214973	ber	Yagurten
+7462393	kab	Igider	10214984	ber	Yagurten
+7357331	kab	Igider	10214992	ber	Yagurten
+7357332	kab	Igider	10214993	ber	Yagurten
 8390083	kab	samir_t	10215014	ber	Yagurten
 8393354	kab	samir_t	10215015	ber	Yagurten
 7104916	kab	samir_t	10215029	ber	Yagurten
@@ -14491,9 +14558,8 @@
 4483976	spa	cueyayotl	10217630	ido	shekitten
 7681614	kab	samir_t	10217714	ber	Talwit
 7203573	kab	HocineBenamer	10217741	ber	Yagurten
-7429457	kab	Igider	10218044	ber	Yagurten
 4557354	spa	swyter	10218261	eng	megamanenm
-7084013	kab	Amazigh_Bedar	10218424	ber	Yagurten
+7739335	kab	samir_t	10218399	ber	Yagurten
 8339450	kab	HocineBenamer	10218507	ber	Yagurten
 7533831	kab	Igider	10218561	ber	Yagurten
 421419	arz	KeEichi	10218688	ajp	\N
@@ -14728,6 +14794,8 @@
 7989177	ber	Amgaray	10305187	shi	AyourAchtouk
 2928486	ber	Amastan	10305892	shi	AyourAchtouk
 2928488	ber	Amastan	10305893	shi	AyourAchtouk
+7290012	kab	samir_t	10306308	ber	Amastan
+7290012	kab	samir_t	10306309	ber	Amastan
 7065763	kab	belkacem77	10306567	ber	Amastan
 7065763	kab	belkacem77	10306568	ber	Amastan
 7027066	kab	belkacem77	10306869	ber	Amastan
@@ -15134,6 +15202,11 @@
 9834231	ber	Talwit	10497952	kab	LdjuherTaqvaylit
 9834241	ber	Talwit	10497954	kab	LdjuherTaqvaylit
 3491159	ber	Amastan	10497997	kab	LdjuherTaqvaylit
+2902103	ber	Amastan	10498071	kab	LdjuherTaqvaylit
+2902113	ber	Amastan	10498072	kab	LdjuherTaqvaylit
+2902108	ber	Amastan	10498075	kab	LdjuherTaqvaylit
+2902126	ber	Amastan	10498077	kab	LdjuherTaqvaylit
+2902128	ber	Amastan	10498079	kab	LdjuherTaqvaylit
 7118486	kab	belkacem77	10498423	ber	Amastan
 10498403	epo	pkill	10498653	ido	Adelpa
 1870652	ber	Amastan	10499180	kab	belkacem77
@@ -15415,6 +15488,7 @@
 8616705	ber	Talwit	10557794	kab	Igider
 7558990	ber	Amastan	10557805	kab	Igider
 1829053	ber	Amastan	10557819	kab	madjidoumnia
+8719433	ber	Talwit	10557896	kab	Igider
 7646132	ber	Yagurten	10557928	kab	Igider
 7646133	ber	Yagurten	10557929	kab	Igider
 9215340	ber	Talwit	10557930	kab	madjidoumnia
@@ -15716,6 +15790,7 @@
 7530148	ber	Talwit	10624533	kab	samir_t
 8420570	ber	Amastan	10624556	kab	samir_t
 8420571	ber	Amastan	10624557	kab	samir_t
+9836557	ber	Aghsi_n_Unezruf	10624909	kab	samir_t
 5993475	por	bill	10625363	glg	Sanabio
 1711869	ber	Amastan	10626216	kab	samir_t
 7830773	ber	Amastan	10626794	kab	samir_t
@@ -15781,6 +15856,7 @@
 9520931	ber	Yagurten	10645098	kab	samir_t
 7584240	ber	LinaTamazight	10646318	kab	samir_t
 2920043	ber	Amastan	10647648	kab	Igider
+8077093	ber	Amastan	10647650	kab	Igider
 1668330	ber	Amastan	10647652	kab	Igider
 8412913	ber	Amastan	10647672	kab	Igider
 2472847	ber	Amastan	10647692	kab	Igider
@@ -15903,6 +15979,7 @@
 8440473	ber	Amastan	10691192	kab	Rafik
 5554679	dan	sifhg	10691657	isl	nipbud
 7816144	ces	jose76c	10691866	tlh	Vortarulo
+8416874	ber	Amastan	10692049	kab	Rafik
 10691757	swe	Pineapple	10692250	dan	danepo
 8422792	ber	Amastan	10692284	kab	Igider
 7720973	ber	Yagurten	10692817	kab	madjidoumnia
@@ -16199,6 +16276,7 @@
 2496028	rus	marafon	10852086	oss	grechka1
 3286710	rus	marafon	10852087	oss	grechka1
 7846520	fin	Thanuir	10852150	ita	dnnywld
+7822279	ber	Talwit	10852351	kab	Rafik
 10212125	ber	Yagurten	10852371	kab	Rafik
 8693422	ber	Talwit	10852382	kab	Rafik
 7849067	ind	dbahasa	10853877	mfa	alicetia
@@ -16832,6 +16910,7 @@
 3520685	ind	pryo	11082804	zsm	LeeSooHa
 11078228	ind	HAGNi	11082932	zsm	LeeSooHa
 8873975	ber	Talwit	11083029	kab	Rafik
+7196304	ber	Talwit	11083037	kab	Lwennas
 7870020	ber	Talwit	11083038	kab	Lwennas
 8451390	ber	Talwit	11083074	kab	Lwennas
 8763086	ber	Amastan	11083109	kab	Lwennas
@@ -16893,6 +16972,7 @@
 7018262	ber	Amastan	11094208	kab	Lwennas
 8233195	ber	Amastan	11094370	kab	madjidoumnia
 509816	uzb	\N	11094783	oss	Snezha_aa
+7463527	ber	Talwit	11095044	kab	Lwennas
 8238778	kab	ZiriSut	11095194	ber	BahiaChalah
 2086008	ber	Amastan	11095195	kab	Rafik
 8391935	ber	Talwit	11095237	kab	BahiaChalah
@@ -16956,6 +17036,7 @@
 7341311	ber	Amastan	11110321	kab	Lwennas
 9198276	ber	Yagurten	11110901	kab	Rafik
 7934882	spa	Seael	11111465	por	lucasmg123
+5963140	srp	dzoja	11111494	pol	tropical_goth
 1701339	por	alexmarcelo	11111809	spa	Shishir
 3267007	srp	neron	11111897	pol	tropical_goth
 8502557	ber	Talwit	11111909	kab	BahiaChalah
@@ -17011,6 +17092,7 @@
 7068422	ber	Amastan	11124009	kab	Lwennas
 8025062	ber	Amastan	11124115	kab	samir_t
 1839732	ber	Amastan	11124237	kab	Igider
+9340290	ber	Talwit	11124550	kab	madjidoumnia
 8995385	ber	Talwit	11124587	kab	Igider
 7546838	ber	Talwit	11124592	kab	Igider
 5885782	ind	Bilmanda	11124857	zsm	LeeSooHa
@@ -17062,7 +17144,7 @@
 2294289	ber	yecca	11128430	kab	Igider
 1381595	por	tulio	11128443	srn	deanoeba
 477061	eng	Ricardo14	11128444	srn	deanoeba
-6483370	ber	ButterflyOfFire	11128672	shi	Ghilasnnsn
+1620398	ber	Amastan	11128672	shi	Ghilasnnsn
 7259695	kab	AmarMecheri	11128674	shi	Ghilasnnsn
 5464829	ber	Amgaray	11128967	shi	Ghilasnnsn
 1788024	ber	Amastan	11130157	kab	Lwennas
@@ -18366,6 +18448,9 @@
 7068469	ber	Amastan	11143989	kab	Igider
 9388712	ber	Talwit	11144506	kab	madjidoumnia
 9388698	ber	Talwit	11144507	kab	madjidoumnia
+9340305	ber	Talwit	11145125	kab	madjidoumnia
+9340295	ber	Talwit	11145127	kab	madjidoumnia
+9340300	ber	Talwit	11145134	kab	madjidoumnia
 8978558	ber	Talwit	11145187	kab	madjidoumnia
 8439747	ber	Talwit	11145189	kab	madjidoumnia
 7495480	ber	Amastan	11145834	kab	samir_t
@@ -18401,11 +18486,11 @@
 10267042	ber	Talwit	11147419	kab	Igider
 10267044	ber	Talwit	11147420	kab	Igider
 10267041	ber	Talwit	11147421	kab	Igider
-10266554	ber	Talwit	11147422	kab	Igider
-10266553	ber	Talwit	11147423	kab	Igider
-10266551	ber	Talwit	11147424	kab	Igider
-10266550	ber	Talwit	11147425	kab	Igider
-10266549	ber	Talwit	11147426	kab	Igider
+8880672	ber	Talwit	11147422	kab	Igider
+8880671	ber	Talwit	11147423	kab	Igider
+8880670	ber	Talwit	11147424	kab	Igider
+8880669	ber	Talwit	11147425	kab	Igider
+9285701	ber	Talwit	11147426	kab	Igider
 10266528	ber	Talwit	11147428	kab	Igider
 10266524	ber	Talwit	11147429	kab	Igider
 10266522	ber	Talwit	11147430	kab	Igider
@@ -18428,7 +18513,7 @@
 10265624	ber	Talwit	11147449	kab	Igider
 10265615	ber	Talwit	11147450	kab	Igider
 10265614	ber	Talwit	11147451	kab	Igider
-10265612	ber	Talwit	11147452	kab	Igider
+9757109	ber	Talwit	11147452	kab	Igider
 10265524	ber	Talwit	11147453	kab	Igider
 10265508	ber	Talwit	11147454	kab	Igider
 10265504	ber	Talwit	11147455	kab	Igider
@@ -19148,6 +19233,8 @@
 10236554	ber	Talwit	11154643	kab	Igider
 10236553	ber	Talwit	11154644	kab	Igider
 10236552	ber	Talwit	11154646	kab	Igider
+7672901	kab	Igider	11155680	ber	Amastan
+7672902	kab	Igider	11155681	ber	Amastan
 3485885	ber	Amastan	11155693	kab	Rafik
 8319479	ber	LinaTamazight	11156430	kab	Igider
 2880981	ber	Amastan	11156508	kab	Rafik
@@ -19390,7 +19477,10 @@
 2371085	ber	Amastan	11157482	kab	Igider
 8773322	ber	Amastan	11157527	kab	Igider
 2712185	ber	Amastan	11157596	kab	Rafik
+9340308	ber	Talwit	11157841	kab	madjidoumnia
+9340312	ber	Talwit	11157842	kab	madjidoumnia
 1698379	ber	Amastan	11157858	kab	Rafik
+9973074	ber	Burar	11157867	kab	Rafik
 10224744	ber	Talwit	11158697	kab	Igider
 10223902	ber	Talwit	11158698	kab	Igider
 10223900	ber	Talwit	11158699	kab	Igider
@@ -20032,6 +20122,8 @@
 10177204	ber	Talwit	11176143	kab	Igider
 10177202	ber	Talwit	11176144	kab	Igider
 10180155	ber	Talwit	11176145	kab	Igider
+2173578	ber	Amastan	11176146	kab	Igider
+2173580	ber	Amastan	11176147	kab	Igider
 10177199	ber	Talwit	11176177	kab	Igider
 10177182	ber	Talwit	11176178	kab	Igider
 10177136	ber	Talwit	11176180	kab	Igider
@@ -20108,6 +20200,8 @@
 10171856	ber	Talwit	11176591	kab	Igider
 10171855	ber	Talwit	11176592	kab	Igider
 10171839	ber	Talwit	11176593	kab	Igider
+10171832	ber	Talwit	11176595	kab	Igider
+10171828	ber	Talwit	11176596	kab	Igider
 10169834	ber	Talwit	11176606	kab	Igider
 10169811	ber	Talwit	11176611	kab	Igider
 10169821	ber	Talwit	11176612	kab	Igider
@@ -21808,6 +21902,12 @@
 9317905	ber	Yagurten	11192746	kab	imalaqvayli
 7323731	ber	Amastan	11192770	kab	imalaqvayli
 11126148	ber	Amastan	11192783	kab	imalaqvayli
+2070272	ber	Amastan	11192785	kab	Lwennas
+2070275	ber	Amastan	11192788	kab	Lwennas
+2070279	ber	Amastan	11192796	kab	Lwennas
+2070268	ber	Amastan	11192800	kab	Lwennas
+2070270	ber	Amastan	11192803	kab	Lwennas
+2070282	ber	Amastan	11192805	kab	Lwennas
 7323730	ber	Amastan	11192817	kab	imalaqvayli
 7300518	ber	Amastan	11192833	kab	imalaqvayli
 9315549	ber	Amastan	11192840	kab	imalaqvayli
@@ -22295,7 +22395,6 @@
 5777387	ber	Amastan	11197993	kab	imalaqvayli
 7708569	ber	Yagurten	11197994	kab	imalaqvayli
 8009183	ber	Yagurten	11197997	kab	imalaqvayli
-7637531	ber	Amastan	11197998	kab	imalaqvayli
 7464548	ber	Amastan	11198000	kab	imalaqvayli
 7311206	ber	Amastan	11198001	kab	imalaqvayli
 7665413	ber	MessDjaaf	11198002	kab	imalaqvayli
@@ -23805,6 +23904,10 @@
 10057949	ber	Talwit	11214326	kab	Igider
 10057948	ber	Talwit	11214327	kab	Igider
 10057946	ber	Talwit	11214328	kab	Igider
+10057943	ber	Talwit	11214330	kab	Igider
+10057941	ber	Talwit	11214331	kab	Igider
+10057940	ber	Talwit	11214332	kab	Igider
+10057938	ber	Talwit	11214333	kab	Igider
 10057935	ber	Talwit	11214334	kab	Igider
 10057933	ber	Talwit	11214335	kab	Igider
 10057929	ber	Talwit	11214336	kab	Igider
@@ -25337,7 +25440,6 @@
 9949381	ber	Talwit	11248677	kab	Igider
 9949380	ber	Talwit	11248678	kab	Igider
 9949377	ber	Talwit	11248681	kab	Igider
-9949375	ber	Talwit	11248682	kab	Igider
 9949374	ber	Talwit	11248683	kab	Igider
 9949373	ber	Talwit	11248684	kab	Igider
 9949361	ber	Talwit	11248685	kab	Igider
@@ -25568,7 +25670,7 @@
 9937999	ber	Talwit	11249054	kab	Igider
 9937998	ber	Talwit	11249055	kab	Igider
 9937997	ber	Talwit	11249056	kab	Igider
-9937994	ber	Talwit	11249057	kab	Igider
+8503618	ber	Talwit	11249057	kab	Igider
 9937992	ber	Talwit	11249060	kab	Igider
 9937990	ber	Talwit	11249062	kab	Igider
 2798218	ber	yecca	11249063	kab	Rafik
@@ -26939,7 +27041,7 @@
 4598904	ber	Amastan	11271901	kab	Igider
 7665521	ber	MessDjaaf	11271906	kab	Igider
 7322248	ber	Amastan	11271907	kab	Igider
-7682713	ber	MessDjaaf	11271909	kab	Igider
+7665390	ber	MessDjaaf	11271909	kab	Igider
 2866311	ber	Uyezjen	11271910	kab	Igider
 7680906	ber	MessDjaaf	11271913	kab	Igider
 7664884	ber	MessDjaaf	11271914	kab	Igider
@@ -27617,7 +27719,6 @@
 1830270	ber	Amastan	11278505	kab	Igider
 9833421	ber	Talwit	11278506	kab	Igider
 5772784	ber	Amastan	11278507	kab	Igider
-7637530	ber	Amastan	11278508	kab	Igider
 7344542	ber	Amastan	11278509	kab	Igider
 7346449	ber	Amastan	11278517	kab	Igider
 7346451	ber	Amastan	11278518	kab	Igider
@@ -28729,11 +28830,8 @@
 1788127	ber	Amastan	11280930	kab	Igider
 2553648	ber	Amastan	11280931	kab	Igider
 7358994	ber	Amastan	11280932	kab	Igider
-7320545	ber	MessDjaaf	11280933	kab	Igider
 7320546	ber	MessDjaaf	11280934	kab	Igider
-7323079	ber	Amastan	11280935	kab	Igider
 7358995	ber	Amastan	11280937	kab	Igider
-7323080	ber	Amastan	11280938	kab	Igider
 2712195	ber	Amastan	11280940	kab	Igider
 7528661	ber	Amastan	11280943	kab	Igider
 3478236	ber	Amastan	11280944	kab	Igider
@@ -30973,6 +31071,8 @@
 7843881	ber	Talwit	11291495	kab	Igider
 7949271	ber	Talwit	11291496	kab	Igider
 8004947	ber	Talwit	11291497	kab	Igider
+8040434	ber	Talwit	11291498	kab	Igider
+8040438	ber	Talwit	11291499	kab	Igider
 8090882	ber	Talwit	11291500	kab	Igider
 8102604	ber	Talwit	11291502	kab	Igider
 8113109	ber	Talwit	11291503	kab	Igider
@@ -30990,6 +31090,7 @@
 8204093	ber	Talwit	11291515	kab	Igider
 8204095	ber	Talwit	11291516	kab	Igider
 8271724	ber	Talwit	11291517	kab	Igider
+8289901	ber	Talwit	11291518	kab	Igider
 8325878	ber	Talwit	11291519	kab	Igider
 8359628	ber	Talwit	11291520	kab	Igider
 8359633	ber	Talwit	11291521	kab	Igider
@@ -31433,6 +31534,25 @@
 8085099	ber	Talwit	11296421	kab	Igider
 8158162	ber	Talwit	11296423	kab	Igider
 8266514	ber	Talwit	11296424	kab	Igider
+8415362	ber	Talwit	11296442	kab	Igider
+8415363	ber	Talwit	11296443	kab	Igider
+8415364	ber	Talwit	11296445	kab	Igider
+8415365	ber	Talwit	11296448	kab	Igider
+8415366	ber	Talwit	11296449	kab	Igider
+8415367	ber	Talwit	11296451	kab	Igider
+8415368	ber	Talwit	11296453	kab	Igider
+8415369	ber	Talwit	11296454	kab	Igider
+8415370	ber	Talwit	11296456	kab	Igider
+8415371	ber	Talwit	11296460	kab	Igider
+8415381	ber	Talwit	11296461	kab	Igider
+8415383	ber	Talwit	11296463	kab	Igider
+8415385	ber	Talwit	11296468	kab	Igider
+8415386	ber	Talwit	11296469	kab	Igider
+8415388	ber	Talwit	11296471	kab	Igider
+8415390	ber	Talwit	11296472	kab	Igider
+8415392	ber	Talwit	11296474	kab	Igider
+8415393	ber	Talwit	11296475	kab	Igider
+8415394	ber	Talwit	11296476	kab	Igider
 8415426	ber	Talwit	11296481	kab	Igider
 8415429	ber	Talwit	11296483	kab	Igider
 8415431	ber	Talwit	11296487	kab	Igider
@@ -32108,8 +32228,7 @@
 8022402	ber	Amastan	11302089	kab	Igider
 7282320	ber	Amastan	11302090	kab	Igider
 1785804	ber	Amastan	11302091	kab	Igider
-7840837	ber	Amastan	11302096	kab	Igider
-7840836	ber	Amastan	11302097	kab	Igider
+7323077	ber	Amastan	11302097	kab	Igider
 1826187	ber	Amastan	11302101	kab	Igider
 1610245	ber	Amastan	11302102	kab	Igider
 1759814	ber	Amastan	11302106	kab	Igider
@@ -35738,7 +35857,7 @@
 8895281	ber	Talwit	11313092	kab	Igider
 8917832	ber	Talwit	11313094	kab	Igider
 8959349	ber	Talwit	11313106	kab	Igider
-9102946	ber	Talwit	11313107	kab	Igider
+8719472	ber	Talwit	11313107	kab	Igider
 9146502	ber	Talwit	11313109	kab	Igider
 9146496	ber	Talwit	11313110	kab	Igider
 9179786	ber	Talwit	11313111	kab	Igider
@@ -36789,6 +36908,7 @@
 5131810	ber	Amastan	11318641	kab	Igider
 7834682	ber	Amastan	11318642	kab	Igider
 1722755	ber	Amastan	11318646	kab	Igider
+1665106	ber	Amastan	11318647	kab	Igider
 1665062	ber	Amastan	11318650	kab	Igider
 1770030	ber	Amastan	11318656	kab	Igider
 1635213	ber	Amastan	11318658	kab	Igider
@@ -37755,6 +37875,7 @@
 7887223	ber	Amastan	11325803	kab	Igider
 4592449	ber	Amastan	11325804	kab	Igider
 2101092	ber	Amastan	11325808	kab	Igider
+8402606	ber	Talwit	11325832	kab	Igider
 7581890	ber	MessDjaaf	11325858	kab	Igider
 2070302	ber	Amastan	11326464	kab	Igider
 2856114	ber	Amastan	11326466	kab	Igider
@@ -38136,6 +38257,7 @@
 7585385	ber	Talwit	11329249	kab	Igider
 7739768	ber	Talwit	11329250	kab	Igider
 8060180	ber	Talwit	11329252	kab	Igider
+8086631	ber	Talwit	11329275	kab	Igider
 8089479	ber	Talwit	11329279	kab	Igider
 8157454	ber	Talwit	11329280	kab	Igider
 8157456	ber	Talwit	11329283	kab	Igider
@@ -38232,6 +38354,14 @@
 8977319	ber	Talwit	11329662	kab	Igider
 8977322	ber	Talwit	11329663	kab	Igider
 8995368	ber	Talwit	11329668	kab	Igider
+8996301	ber	Talwit	11329670	kab	Igider
+8996303	ber	Talwit	11329675	kab	Igider
+8996306	ber	Talwit	11329677	kab	Igider
+8996309	ber	Talwit	11329700	kab	Igider
+8996311	ber	Talwit	11329702	kab	Igider
+8996313	ber	Talwit	11329703	kab	Igider
+8996314	ber	Talwit	11329707	kab	Igider
+8996315	ber	Talwit	11329708	kab	Igider
 9045867	ber	Talwit	11329709	kab	Igider
 9045898	ber	Talwit	11329711	kab	Igider
 9045903	ber	Talwit	11329713	kab	Igider
@@ -38269,7 +38399,6 @@
 9930345	ber	Talwit	11329787	kab	Igider
 10369700	ber	Amastan	11329788	kab	Igider
 10369701	ber	Amastan	11329790	kab	Igider
-9154355	ber	Yagurten	11329792	kab	Igider
 9941373	ber	Talwit	11329795	kab	Igider
 9941374	ber	Talwit	11329796	kab	Igider
 9941375	ber	Talwit	11329797	kab	Igider
@@ -39059,6 +39188,7 @@
 8758747	ber	Talwit	11334281	kab	Igider
 8827617	ber	Talwit	11334283	kab	Igider
 8828427	ber	Talwit	11334285	kab	Igider
+8843335	ber	Talwit	11334292	kab	Igider
 8856264	ber	Talwit	11334301	kab	Igider
 8856271	ber	Talwit	11334303	kab	Igider
 8856270	ber	Talwit	11334304	kab	Igider
@@ -39148,6 +39278,7 @@
 3371575	dan	danepo	11334581	swe	morbrorper
 4869336	dan	danepo	11334592	swe	morbrorper
 7558088	ber	Talwit	11334594	kab	Igider
+7679542	ber	Talwit	11334599	kab	Igider
 7679572	ber	Talwit	11334600	kab	Igider
 7716163	ber	Talwit	11334601	kab	Igider
 7752849	ber	Talwit	11334603	kab	Igider
@@ -39212,6 +39343,7 @@
 8874405	ber	Talwit	11334977	kab	Igider
 8824967	ber	Talwit	11335050	kab	Igider
 9240690	ber	Talwit	11335619	kab	Rafik
+7283440	ber	Amastan	11335636	kab	Rafik
 5812791	ber	Amastan	11336085	kab	Igider
 8221633	ber	Yagurten	11337415	kab	Igider
 1913501	pol	Matatjahu	11338447	deu	Pfirsichbaeumchen
@@ -39259,6 +39391,7 @@
 8482165	ber	Talwit	11346605	kab	Igider
 8596457	ber	Talwit	11346608	kab	Igider
 8618372	ber	Talwit	11346610	kab	Igider
+8627232	ber	Talwit	11346613	kab	Igider
 8288710	ber	Talwit	11346615	kab	Igider
 8650630	ber	Talwit	11346617	kab	Igider
 8798263	ber	Talwit	11346618	kab	Igider
@@ -42880,7 +43013,7 @@
 7526359	ber	Amastan	11358733	kab	Igider
 7994297	ber	Yagurten	11358735	kab	Igider
 7526362	ber	Amastan	11358737	kab	Igider
-6483370	ber	ButterflyOfFire	11358750	kab	Rafik
+1620398	ber	Amastan	11358750	kab	Rafik
 2509054	ber	Amastan	11358775	kab	Igider
 7527927	ber	Talwit	11358783	kab	Igider
 7729541	ber	Yagurten	11358794	kab	Igider
@@ -45229,6 +45362,7 @@
 7217055	ber	Talwit	11365887	kab	Igider
 7296288	ber	Amastan	11365888	kab	Igider
 7753096	ber	Yagurten	11365890	kab	Igider
+7217085	ber	Talwit	11365891	kab	Igider
 7753140	ber	Yagurten	11365892	kab	Igider
 1744690	ber	Amastan	11365894	kab	Igider
 1673758	ber	Amastan	11365895	kab	Igider
@@ -45275,6 +45409,7 @@
 9836160	ber	Talwit	11365959	kab	Igider
 9836163	ber	Talwit	11365960	kab	Igider
 7753092	ber	Yagurten	11365961	kab	Igider
+9633295	ber	Talwit	11365965	kab	Igider
 9658031	ber	Talwit	11365966	kab	Igider
 9804499	ber	Talwit	11365967	kab	Igider
 9804503	ber	Talwit	11365968	kab	Igider
@@ -45464,6 +45599,7 @@
 8770695	ber	Talwit	11366304	kab	Igider
 8686309	ber	Talwit	11366306	kab	Igider
 8697445	ber	Talwit	11366308	kab	Igider
+8697833	ber	Talwit	11366309	kab	Igider
 8702618	ber	Talwit	11366321	kab	Igider
 8702619	ber	Talwit	11366322	kab	Igider
 8702621	ber	Talwit	11366323	kab	Igider
@@ -46930,7 +47066,15 @@
 8687021	ber	Talwit	11372290	kab	Igider
 8687024	ber	Talwit	11372292	kab	Igider
 8687023	ber	Talwit	11372293	kab	Igider
+8756307	ber	Talwit	11372296	kab	Igider
+8756312	ber	Talwit	11372297	kab	Igider
+8756314	ber	Talwit	11372300	kab	Igider
 7856035	ber	Talwit	11372301	kab	Igider
+8756315	ber	Talwit	11372303	kab	Igider
+8756317	ber	Talwit	11372305	kab	Igider
+8756318	ber	Talwit	11372307	kab	Igider
+8756319	ber	Talwit	11372309	kab	Igider
+8756321	ber	Talwit	11372310	kab	Igider
 8756387	ber	Talwit	11372312	kab	Igider
 8759082	ber	Talwit	11372315	kab	Igider
 8810824	ber	Talwit	11372324	kab	Igider
@@ -47192,7 +47336,6 @@
 7311710	ber	Amastan	11374081	kab	Igider
 8586090	ber	Talwit	11374083	kab	Igider
 8586137	ber	Talwit	11374084	kab	Igider
-8592395	ber	Talwit	11374085	kab	Igider
 8608901	ber	Talwit	11374086	kab	Igider
 8614814	ber	Talwit	11374087	kab	Igider
 8616321	ber	Talwit	11374090	kab	Igider
@@ -52540,6 +52683,7 @@
 6714852	deu	maaster	11396974	kha	Russell_Ranae
 4997606	srp	Lebad	11396975	kha	Russell_Ranae
 7069411	ber	Amastan	11396979	kab	Igider
+7723467	ber	Amastan	11396987	kab	Lwennas
 1753393	ber	Amastan	11397039	kab	Igider
 1659228	ber	Amastan	11397045	kab	Igider
 7019112	ber	Amastan	11397066	kab	Igider
@@ -52759,6 +52903,7 @@
 9683773	kab	Rafik	11399311	ber	Amastan
 9683774	kab	Rafik	11399312	ber	Amastan
 9683777	kab	Rafik	11399313	ber	Amastan
+10025658	ber	Talwit	11399405	kab	Aghanim
 7324878	kab	Amazigh_Bedar	11399436	ber	Amastan
 7447943	kab	Igider	11399459	ber	Amastan
 7447943	kab	Igider	11399460	ber	Amastan
@@ -56257,7 +56402,7 @@
 9324905	ber	Talwit	11415179	kab	Igider
 9327526	ber	Talwit	11415180	kab	Igider
 9391544	ber	Talwit	11415182	kab	Igider
-9549651	ber	Talwit	11415183	kab	Igider
+8794580	ber	Talwit	11415183	kab	Igider
 9570925	ber	Talwit	11415185	kab	Igider
 9584618	ber	Talwit	11415187	kab	Igider
 9811335	ber	Talwit	11415191	kab	Igider
@@ -63008,6 +63153,7 @@
 9406629	ber	Talwit	11453892	kab	Igider
 9406633	ber	Talwit	11453893	kab	Igider
 9481542	ber	Talwit	11453894	kab	Igider
+7664819	ber	MessDjaaf	11453896	kab	Rafik
 9588681	ber	Talwit	11453917	kab	Igider
 9806147	ber	Talwit	11453918	kab	Igider
 9836144	ber	Talwit	11453919	kab	Igider
@@ -63039,6 +63185,7 @@
 8691527	ber	Talwit	11453961	kab	Igider
 8742281	ber	Talwit	11453962	kab	Igider
 8742282	ber	Talwit	11453963	kab	Igider
+11115240	ber	Yagurten	11453964	kab	Rafik
 8756107	ber	Talwit	11453966	kab	Igider
 8756396	ber	Talwit	11453967	kab	Igider
 8769149	ber	Talwit	11453969	kab	Igider
@@ -63077,13 +63224,15 @@
 8960282	ber	Talwit	11454024	kab	Igider
 8983221	ber	Talwit	11454025	kab	Igider
 8995127	ber	Talwit	11454026	kab	Igider
+9930342	ber	Talwit	11454027	kab	Rafik
 8997118	ber	Talwit	11454029	kab	Igider
 9001153	ber	Talwit	11454032	kab	Igider
 9011636	ber	Talwit	11454033	kab	Igider
 9020561	ber	Talwit	11454038	kab	Igider
+9930340	ber	Talwit	11454039	kab	Rafik
 9021921	ber	Talwit	11454040	kab	Igider
 9023154	ber	Talwit	11454043	kab	Igider
-9040183	ber	Talwit	11454044	kab	Igider
+8772209	ber	Talwit	11454044	kab	Igider
 9044105	ber	Talwit	11454045	kab	Igider
 9066818	ber	Talwit	11454046	kab	Igider
 9076356	ber	Talwit	11454047	kab	Igider
@@ -63094,6 +63243,11 @@
 9152503	ber	Talwit	11454056	kab	Igider
 9152504	ber	Talwit	11454057	kab	Igider
 9155180	ber	Talwit	11454060	kab	Igider
+9388848	ber	Aghsi_n_Unezruf	11454073	kab	Rafik
+7988785	ber	Yagurten	11454082	kab	Rafik
+9930354	ber	Talwit	11454099	kab	Rafik
+9930356	ber	Talwit	11454101	kab	Rafik
+2299185	ber	yecca	11454123	kab	Rafik
 10214949	ber	Yagurten	11454126	kab	Rafik
 7292684	ber	Amastan	11454267	kab	Igider
 9315117	ber	Amastan	11454317	kab	Igider
@@ -63590,6 +63744,11 @@
 10012576	ber	Talwit	11478655	kab	Igider
 10074600	ber	Talwit	11478657	kab	Igider
 10074610	ber	Talwit	11478658	kab	Igider
+8631335	ber	Talwit	11478661	kab	Igider
+8631337	ber	Talwit	11478665	kab	Igider
+8631340	ber	Talwit	11478669	kab	Igider
+8631345	ber	Talwit	11478671	kab	Igider
+8631350	ber	Talwit	11478674	kab	Igider
 8829607	ber	Talwit	11478677	kab	Igider
 8829612	ber	Talwit	11478680	kab	Igider
 8829613	ber	Talwit	11478681	kab	Igider
@@ -63863,8 +64022,8 @@
 10106761	ber	Talwit	11493950	kab	Igider
 10106762	ber	Talwit	11493951	kab	Igider
 10106763	ber	Talwit	11493952	kab	Igider
-10118763	ber	Talwit	11493954	kab	Igider
-10118767	ber	Talwit	11493955	kab	Igider
+9025894	ber	Talwit	11493954	kab	Igider
+8868290	ber	Talwit	11493955	kab	Igider
 10118770	ber	Talwit	11493957	kab	Igider
 10125338	ber	Talwit	11493959	kab	Igider
 10127187	ber	Talwit	11493961	kab	Igider
@@ -64053,6 +64212,7 @@
 2023946	ber	Amastan	11581924	kab	Rafik
 11582244	ina	shekitten	11582246	lfn	shekitten
 477087	deu	Pfirsichbaeumchen	11582436	prg	totpreussen
+7099944	kab	samir_t	11583177	ber	Amastan
 10205937	ber	Yagurten	11584005	kab	Rafik
 2294644	ber	yecca	11584279	kab	madjidoumnia
 11584788	xmf	Laz	11584789	lzz	Laz
@@ -64088,6 +64248,8 @@
 2070692	ber	Amastan	11596755	kab	Rafik
 5811461	ber	Amastan	11596760	kab	Rafik
 2578880	ber	Amastan	11596775	kab	Rafik
+7667573	ber	Yagurten	11596923	kab	Rafik
+7762009	ber	Yagurten	11596927	kab	Rafik
 7686656	ber	Yagurten	11597125	kab	Rafik
 8153224	ber	Amastan	11597136	kab	Rafik
 3581792	ber	Amastan	11597183	kab	Rafik
@@ -64133,6 +64295,7 @@
 9967983	arq	waadbk	11622581	ary	elmassoudi
 8111500	ber	LinaTamazight	11624380	kab	madjidoumnia
 10306325	ber	Amastan	11624381	kab	madjidoumnia
+11068148	kab	Igider	11625811	ber	Amastan
 7759792	ber	Yagurten	11626262	kab	Rafik
 5050097	ara	Crataegus	11626520	ary	elmassoudi
 4113385	ara	fadi	11626521	ary	elmassoudi
@@ -64151,6 +64314,7 @@
 2213774	hrv	akvo	11633381	slv	Adelpa
 1057637	hrv	akvo	11633389	slv	Adelpa
 7922813	ber	Mohamedzakaria	11634953	kab	Rafik
+3700461	ber	Amastan	11635092	kab	Rafik
 1620032	ber	Amastan	11635140	kab	Rafik
 2807518	ber	yecca	11635155	kab	Rafik
 1673171	ber	Amastan	11635172	kab	Rafik
@@ -64281,11 +64445,14 @@
 8852760	ber	Talwit	11712942	kab	Aghanim
 11716861	kab	Rafik	11716862	ber	Amastan
 8070119	ber	sfnmer	11718598	kab	BouazizAitD
+11390752	ber	Amastan	11719942	kab	Rafik
+11390753	ber	Amastan	11719943	kab	Rafik
 10079065	ber	Yagurten	11719979	kab	Rafik
 2536852	ber	Amastan	11720015	kab	Rafik
 2492632	ber	Amastan	11720764	kab	Aghanim
 8949637	ber	Talwit	11720768	kab	Aghanim
 11720984	kab	Tighra_tlelli	11720991	ber	Tighra_tlelli
+10098568	ber	Talwit	11721244	kab	Aghanim
 6098661	pes	Towhidn	11723881	ara	dididodo
 2561055	ber	Amastan	11724452	kab	Rafik
 8323346	ber	Yagurten	11726106	kab	madjidoumnia
@@ -64323,6 +64490,7 @@
 5779287	ber	Amastan	11748933	kab	samir_t
 5466689	hun	maaster	11751149	aze	Aleksandro40
 8996763	slk	Dominika7	11751937	ces	aldar
+9340325	ber	Talwit	11753786	kab	madjidoumnia
 7320089	ber	Belarhzali	11754334	kab	Igider
 11399101	ber	Amastan	11758434	kab	Rafik
 2615024	ita	Guybrush88	11758972	por	ajdavidl
@@ -64421,7 +64589,9 @@
 9388698	ber	Talwit	11819584	kab	slahatuvelli
 3440830	srp	neron	11820817	slv	Adelpa
 11391295	ber	Amastan	11820847	kab	slahatuvelli
+2260507	ber	Amastan	11822151	kab	Aghanim
 2242663	ber	Amastan	11822900	kab	Rafik
+10498317	ber	Amastan	11823458	kab	Igider
 10865151	ber	Yagurten	11824474	rif	Amzir
 6717358	kab	amazigh84	11824768	rif	Amzir
 6483373	ber	ButterflyOfFire	11824775	rif	Amzir
@@ -64495,6 +64665,7 @@
 9309856	ber	Talwit	11841317	kab	Rafik
 7681772	eng	ouitroisheures19	11841796	ita	Guybrush88
 9317863	ber	Yagurten	11842306	kab	Rafik
+2551746	ber	Amastan	11843314	kab	Rafik
 7072929	por	iart61	11843698	spa	Eremon
 7096120	ber	Amastan	11843752	kab	Rafik
 8978416	ber	Talwit	11844571	kab	Lwennas
@@ -64698,6 +64869,7 @@
 2925878	ber	Amastan	11949523	kab	Rafik
 7451078	ber	Sammer	11949700	kab	Rafik
 2294498	ber	yecca	11949701	kab	Rafik
+10218417	ber	Yagurten	11950326	kab	Lwennas
 8290163	ber	Talwit	11950374	kab	Lwennas
 11315980	ber	LdjuherTaqvaylit	11950396	kab	Lwennas
 7705268	ber	Amastan	11952526	kab	samir_t
@@ -64792,6 +64964,7 @@
 1781076	ber	Amastan	11986091	kab	samir_t
 7017436	ber	Amastan	11986345	kab	Lwennas
 1753392	ber	Amastan	11986491	kab	Lwennas
+8724208	ber	Talwit	11986645	kab	Lwennas
 11965190	hau	puppetshow	11987082	arn	puppetshow
 1059528	ron	poxa	11987089	arn	puppetshow
 5098314	spa	don_ramon	11987297	lad	shekitten
@@ -64942,7 +65115,7 @@
 9975849	ber	Burar	12030066	kab	MuhendUsliman
 5174945	ber	Amgaray	12030075	kab	MuhendUsliman
 5779016	ber	Amastan	12030091	kab	MuhendUsliman
-6483370	ber	ButterflyOfFire	12030099	kab	MuhendUsliman
+1620398	ber	Amastan	12030099	kab	MuhendUsliman
 2555737	ber	Amastan	12030154	kab	MuhendUsliman
 7796347	thv	Aissimahfoud06	12030166	kab	MuhendUsliman
 1736550	ber	Amastan	12030191	kab	MuhendUsliman
@@ -64995,6 +65168,7 @@
 2201749	ber	Amastan	12043276	kab	Rafik
 7019438	ber	Amastan	12043298	kab	Rafik
 9317934	ber	Yagurten	12043677	kab	Rafik
+2870486	ber	Amastan	12043686	kab	Rafik
 10214811	ber	Yagurten	12043794	kab	Igider
 10214812	ber	Yagurten	12043796	kab	Igider
 8398285	ber	Amastan	12043830	kab	Igider
@@ -65247,6 +65421,7 @@
 7068460	ber	Amastan	12151583	kab	Lwennas
 6169184	rus	odexed	12151805	ukr	deniko
 12152401	fra	Rafik	12152402	kab	Rafik
+10217766	ber	Yagurten	12153082	kab	Lwennas
 8768971	ber	Amastan	12153308	kab	LdjuherTaqvaylit
 9647068	ber	Aghsi_n_Unezruf	12153315	kab	LdjuherTaqvaylit
 2069923	ber	Amastan	12153429	kab	LdjuherTaqvaylit
@@ -65281,7 +65456,6 @@
 1975391	ber	Amastan	12162391	kab	slahatuvelli
 7280995	ber	Talwit	12162420	kab	slahatuvelli
 10520920	ber	Amastan	12162806	kab	LdjuherTaqvaylit
-12163247	por	carlosalberto	12163248	glg	carlosalberto
 8616831	ber	Talwit	12163444	kab	LdjuherTaqvaylit
 2552027	ber	Amastan	12164435	kab	samir_t
 6063729	spa	EdwinPujols	12165956	por	GeremiasFCunha
@@ -65558,6 +65732,7 @@
 4468566	ron	Wenceslaus	12221457	oci	QuentiBc
 1733689	ber	Amastan	12221841	shi	Muh_lchgr
 4563832	ber	Amastan	12221948	shi	Muh_lchgr
+3578066	tok	soweli_Elepanto	12222062	\N	Muh_lchgr
 2366047	ber	Amastan	12222124	shi	Muh_lchgr
 2790571	ber	Amastan	12222454	shi	Muh_lchgr
 10407150	ber	Agestur	12222563	kab	Rafik
@@ -66197,3 +66372,40 @@
 2302739	ber	Amastan	12348746	kab	ButterflyOfFire
 8240876	deu	Luiaard	12349362	hrx	piterkeo
 2730129	ina	McDutchie	12349401	oci	QuentiBc
+6732015	cat	GB3	12349972	oci	QuentiBc
+9047623	kab	Igider	12352402	ber	hustledynamo
+8448676	kab	samir_t	12352404	ber	hustledynamo
+8000786	kab	samir_t	12352679	ber	hustledynamo
+7296179	ber	Amastan	12353838	kab	Rafik
+10338658	ber	Yagurten	12354106	kab	Rafik
+12352005	zgh	Muh_lchgr	12355510	shi	Muh_lchgr
+8450717	rif	doemaar14	12356105	shi	Muh_lchgr
+7428654	kab	samir_t	12356168	shi	Muh_lchgr
+2129094	ber	Amastan	12356580	kab	LdjuherTaqvaylit
+11687138	eng	shekitten	12356588	lfn	rul
+2231936	ber	Amastan	12357308	shi	Muh_lchgr
+11159138	ber	Amastan	12357535	shi	Muh_lchgr
+10219844	ber	Yagurten	12357612	kab	ButterflyOfFire
+10219848	ber	Yagurten	12357617	kab	ButterflyOfFire
+10212010	ber	Yagurten	12357621	kab	ButterflyOfFire
+10212011	ber	Yagurten	12357624	kab	ButterflyOfFire
+2855695	ber	Amastan	12357662	kab	ButterflyOfFire
+11381508	ber	Amastan	12357685	kab	ButterflyOfFire
+11381507	ber	Amastan	12357686	kab	ButterflyOfFire
+1804797	ber	Amastan	12357947	kab	LdjuherTaqvaylit
+373344	fin	Ricardo14	12358590	nno	Thanuir
+5290830	lfn	carlosalberto	12359124	ido	rul
+4205795	ber	Amastan	12359459	kab	LdjuherTaqvaylit
+10339093	ber	Yagurten	12359563	kab	Aghanim
+2933336	ber	Amastan	12359621	kab	Rafik
+2933338	ber	Amastan	12359623	kab	Rafik
+3458598	ces	nueby	12359624	pol	arie
+3458598	ces	nueby	12359646	pol	arie
+9734046	slk	Dominika7	12359742	pol	arie
+2609338	ber	Amastan	12361186	shi	Muh_lchgr
+2609340	ber	Amastan	12361187	shi	Muh_lchgr
+7259737	kab	AmarMecheri	12361387	shi	Muh_lchgr
+12361710	epo	carlosalberto	12361711	glg	carlosalberto
+12361805	por	carlosalberto	12361814	glg	carlosalberto
+9844002	ber	Aghsi_n_Unezruf	12362259	kab	LdjuherTaqvaylit
+7068381	ber	Amastan	12362514	shi	Muh_lchgr

@@ -1,113 +1,113 @@
-32	0x20	 	99601	877720	nds	Caitríona is 1985 boren.	slomox	\N	\N
-33	0x21	!	736	1100074	nds	Laat mi dor rut!	slomox	2011-09-12 15:53:03	2011-09-12 15:53:03
-34	0x22	"	24	809121	nds	Dat Passwoord is "Muiriel".	slomox	2011-03-24 14:02:22	2011-03-24 14:02:22
+32	0x20	 	18151	905262	nds	Ik mag Spraken!	slomox	2011-05-23 13:03:32	2011-05-23 13:03:32
+33	0x21	!	711	1010601	nds	Dissen Satz nich översetten!	slomox	2011-07-28 11:00:09	2011-07-28 11:00:09
+34	0x22	"	9	809194	nds	Mien Ökelnaam is "Itschi".	slomox	2011-03-24 14:33:42	2011-03-24 14:33:42
 37	0x25	%	4	878626	nds	De Sozialistische Partei hett man 18% von de Stimmen kregen.	slomox	\N	\N
-39	0x27	'	22	1516938	nds	Wat kost' dat nu?	Esperantostern	2012-04-05 15:31:14	2012-04-05 15:31:14
-40	0x28	(	4	839573	nds	Ik mag wxWidgets vonwegen dat dat anners as annere Toolkits en Funktion hett, de Centre() heet un nich Center().	slomox	2011-04-15 15:51:12	2011-04-15 15:51:12
-41	0x29	)	4	799999	nds	Ik bün dat Flegen Spaghettimonster. Du schasst kene annern monsters blangen mi hebben. (Na mi is okay; bruuk aver en Kondom.) Dat eenzig Monster, dat Grootschrift weert is, bün Ik! Annere monsters sünd verkehrte monsters, de keen Grootschrift verdeent hebbt.	slomox	2011-03-19 22:40:24	2011-03-19 22:40:24
+39	0x27	'	19	2973286	nds	Ik bün nu an't Football-Spelen. Un du? Wat büst du an't Doon?	Ealdwimor	2014-01-09 20:45:18	2014-08-25 15:52:02
+40	0x28	(	3	2801164	nds	Dat is dicht an söven. Wi mööt na School (gahn).	Ealdwimor	2013-10-20 19:21:49	2014-12-13 17:14:43
+41	0x29	)	3	2801164	nds	Dat is dicht an söven. Wi mööt na School (gahn).	Ealdwimor	2013-10-20 19:21:49	2014-12-13 17:14:43
 43	0x2b	+	1	1106591	nds	De Vörwahl för Italien is +39.	slomox	2011-09-15 12:27:53	2011-09-15 12:27:53
-44	0x2c	,	3775	6920440	nds	Tom un Ria säen, se wullen dat sülvst moken.	Pfirsichbaeumchen	2018-05-29 19:58:01	2018-05-29 19:58:10
-45	0x2d	-	157	1018371	nds	Enkelt- oder Dubbeltkamer?	slomox	2011-08-02 12:35:17	2011-08-02 12:35:17
-46	0x2e	.	15046	900428	nds	Ik heff wenig Geld bi mi.	slomox	2011-05-20 15:41:26	2011-05-20 15:41:26
-47	0x2f	/	6	5020312	nds	Junge lat dei Appels stahn, / süs packet deck dei Huckup an, / dei Huckup is en starken Wicht, / hölt mit dei Stehldeifs bös Gericht.	UliDolbarge	2016-03-29 04:37:53	2016-03-29 04:37:53
-48	0x30	0	210	842842	nds	Ik heff üm un bi 5.000 Yen.	slomox	2011-04-18 15:17:57	2011-04-18 15:17:57
-49	0x31	1	131	969697	nds	He hett nich mehr as 1.000 Yen.	slomox	2011-07-01 17:18:19	2011-07-01 17:18:19
-50	0x32	2	70	1114610	nds	Baven de 2000-Meter-Lien wasst keen Bööm.	slomox	2011-09-19 10:09:50	2011-09-19 10:09:50
-51	0x33	3	43	857172	nds	De Dezember hett 31 Daag.	slomox	2011-04-26 13:35:23	2011-04-26 13:35:23
-52	0x34	4	23	889916	nds	De Krieg füng 1941 an.	slomox	2011-05-13 10:52:29	2011-05-13 10:52:29
-53	0x35	5	61	2897371	nds	Morgen üm 7u.25 kümmt mien Tog in Düsseldorf an.	Ealdwimor	2013-12-02 17:59:10	2013-12-03 03:48:14
-54	0x36	6	32	900357	nds	De Koort weer bet Januar 2006 güllig.	slomox	2011-05-20 15:19:36	2011-05-20 15:19:36
-55	0x37	7	30	951696	nds	Se warrt tokamen Johr 17.	slomox	2011-06-23 10:21:07	2011-06-23 10:21:07
-56	0x38	8	42	905295	nds	Ik bün 1,83 m groot.	slomox	2011-05-23 13:14:47	2011-05-23 13:14:47
-57	0x39	9	52	930558	nds	De Vereen is 1990 grünnt worrn.	slomox	2011-06-09 10:55:37	2011-06-09 10:55:37
-58	0x3a	:	42	885871	nds	Dat Öller hett twee grote Vördelen: de Tähn kellt nich mehr un een höört nich mehr all dat Dummtüüg, dat ümto vertellt warrt.	slomox	2011-05-11 15:12:07	2011-05-11 15:12:07
-59	0x3b	;	25	2794712	nds	De Buer groov en Lock; he wull en Boom planten.	Pfirsichbaeumchen	2013-10-17 06:49:05	2013-10-17 06:49:15
-63	0x3f	?	2850	878936	nds	Glöövt ji an Godd?	slomox	\N	\N
-65	0x41	A	1218	905578	nds	Arme Lüüd Pannkoken un rieke Lüüd Krankheiden rüükt wied.	slomox	2011-05-23 16:33:21	2011-05-23 16:33:21
-66	0x42	B	2274	849356	nds	He hett mit sien Mest en Tacken von ’n Boom afsneden.	slomox	2011-04-22 13:24:21	2011-04-22 13:24:21
-67	0x43	C	152	2801189	nds	In 2001 hebbt Terroristen dat World Trade Center vun New York angrepen.	Ealdwimor	2013-10-20 19:48:07	2013-10-20 19:48:07
-68	0x44	D	5223	1048696	nds	Du dröffst nich spelen.	slomox	2011-08-17 10:21:26	2011-08-17 10:21:26
-69	0x45	E	984	1121039	nds	De Lüüd bi SETI söökt na intelligent Leven in ’t Universum vonwegen dat se dat hier op de Eer nich funnen hebbt!	slomox	2011-09-22 10:52:51	2011-09-22 10:52:51
-70	0x46	F	1533	939028	nds	Op jeden Fall geiht di dat nix an.	slomox	2011-06-14 13:11:19	2011-06-14 13:11:19
-71	0x47	G	1157	861389	nds	’Keen hett hier woll de Goldbarren inkuhlt?	slomox	2011-04-27 15:20:46	2011-04-27 15:20:46
-72	0x48	H	3232	1010707	nds	Hest du Füür?	slomox	2011-07-28 11:49:32	2011-07-28 11:49:32
-73	0x49	I	3822	1101731	nds	Ik heff mi verköhlt.	slomox	2011-09-13 15:26:16	2011-09-13 15:26:16
-74	0x4a	J	848	1034054	nds	Mehr as twintig Jungs güngen dor hen.	slomox	2011-08-09 11:19:52	2011-08-09 11:19:52
-75	0x4b	K	2410	843610	nds	He is vör Klock acht na Huus kamen.	slomox	2011-04-19 09:14:14	2011-04-19 09:14:14
-76	0x4c	L	1020	799751	nds	Laat mi gahn!	slomox	2011-03-19 19:57:49	2011-03-19 19:57:49
-77	0x4d	M	2124	848298	nds	Mien Vader speelt Golf, man nich good.	slomox	2011-04-21 19:54:13	2011-04-21 19:54:13
-78	0x4e	N	762	811049	nds	Ik kann miene Navers nich utstahn.	slomox	2011-03-25 15:36:34	2011-03-25 15:36:34
-79	0x4f	O	375	1021504	nds	Man kunn em mit dat blote Oog sehn.	slomox	2011-08-04 12:25:23	2011-08-04 12:25:23
-80	0x50	P	847	762859	nds	Use Nauber hett sich en smucket Peerd kofft.	Hans07	2011-02-20 14:13:37	2011-03-25 10:04:50
-81	0x51	Q	14	842542	nds	Wat is en Ruut mit en rechten Winkel? En Quadraat!	slomox	2011-04-18 10:39:36	2011-04-18 10:39:36
-82	0x52	R	723	927638	nds	En koold Beer schull nu jüst dat Richtige wesen!	slomox	2011-06-07 10:45:16	2011-06-07 10:45:16
-83	0x53	S	4576	1018404	nds	Sünd diene Öllern nu tohuus?	slomox	2011-08-02 12:51:29	2011-08-02 12:51:29
-84	0x54	T	1776	975480	nds	Wi hebbt keen Tee mehr.	slomox	2011-07-04 15:37:35	2011-07-04 15:37:35
-85	0x55	U	306	10026133	nds	Use Heens leggt veel Eier.	Pfirsichbaeumchen	2021-05-12 08:40:12	2021-05-12 08:40:12
-86	0x56	V	809	799366	nds	Vör veel Johren stünn hier en Slott.	slomox	2011-03-19 18:25:21	2011-03-19 18:25:21
-87	0x57	W	3342	1130342	nds	De Weg is lang.	slomox	2011-09-26 12:08:17	2011-09-26 12:08:17
-89	0x59	Y	67	843304	nds	Wi sünd mit dat Schipp von Yokohama na Kobe föhrt.	slomox	2011-04-18 20:11:47	2011-04-18 20:11:47
-90	0x5a	Z	58	905506	nds	Du büst dree Zentimeter grötter as ik.	slomox	2011-05-23 15:21:17	2011-05-23 15:21:17
-97	0x61	a	28043	723607	nds	Maak de door tau achter di.	Hans07	2011-01-23 21:27:35	2011-09-18 13:35:49
-98	0x62	b	5647	8705791	nds	Ik denk, Se bruukt en ne’e Brill.	Pfirsichbaeumchen	2020-04-23 22:43:05	2020-04-23 22:43:05
-99	0x63	c	8716	969696	nds	Kann ik dien Bleesticken bruken?	slomox	2011-07-01 17:17:57	2011-07-01 17:17:57
-100	0x64	d	21054	820222	nds	Ik kann em nich noog danken.	slomox	2011-04-01 16:10:08	2011-04-01 16:10:08
-101	0x65	e	68965	857528	nds	’Keen is dien leevsten Schauspeler?	slomox	2011-04-26 15:03:36	2011-04-26 15:03:36
-102	0x66	f	6842	843650	nds	Na? Föhlst du di frisch annern morgen nadem du mit dien Jumfernschop afslaten hest?	slomox	2011-04-19 09:54:00	2011-04-19 09:54:00
-103	0x67	g	10463	896541	nds	Disse Straat geiht na Hongkong.	slomox	2011-05-17 12:20:36	2011-05-17 12:20:36
-104	0x68	h	18769	940648	nds	Sien Töhn blöddt.	slomox	2011-06-16 12:10:51	2011-06-16 12:10:51
-105	0x69	i	26654	1021425	nds	De Melkpadd is sichtbor as en gigantisch Band von wied weg Steerns, de elk op sik en Sünn sünd jüst as uns egen Sünn.	slomox	2011-08-04 11:54:24	2011-08-04 11:54:24
-106	0x6a	j	1304	807787	nds	Se geiht jümmer na ’n Tähndokter un kriggt dorüm ook meist keen Tähnwehdaag.	slomox	2011-03-23 13:52:17	2011-03-23 13:52:17
-107	0x6b	k	14970	5224312	nds	Wo goot hest du Tom kennt?	Pfirsichbaeumchen	2016-06-19 21:29:25	2016-06-19 21:29:25
-108	0x6c	l	16817	832454	nds	Büst du nich glücklich?	User4473	2011-04-10 14:06:59	2011-04-10 14:06:59
-109	0x6d	m	11945	2811365	nds	Wullt du mi ümbringen?	Pfirsichbaeumchen	2013-10-27 17:23:00	2013-10-27 17:23:00
-110	0x6e	n	48244	6831516	nds	In’n Keller reuk det na de Appeln, de dor logern.	Pfirsichbaeumchen	2018-04-12 01:22:47	2018-04-12 01:22:57
-111	0x6f	o	20643	961835	nds	Ik heff Liz vonmorgen sehn.	slomox	2011-06-27 10:03:07	2011-06-27 10:03:07
-112	0x70	p	4944	1121039	nds	De Lüüd bi SETI söökt na intelligent Leven in ’t Universum vonwegen dat se dat hier op de Eer nich funnen hebbt!	slomox	2011-09-22 10:52:51	2011-09-22 10:52:51
-113	0x71	q	16	811105	nds	Dree Beer un een Tequila harr ik geern.	slomox	2011-03-25 16:03:03	2011-03-25 16:03:03
-114	0x72	r	25170	1018248	nds	De ole Stohl deed ünner ehr Wicht gnarren.	slomox	2011-08-02 11:18:03	2011-08-02 11:18:03
-115	0x73	s	23818	799969	nds	De Jung hett sien Verscheel nich ännert.	slomox	2011-03-19 22:12:13	2011-03-19 22:12:13
-116	0x74	t	36705	955351	nds	Ik heff de Stad op de Koort funnen.	slomox	2011-06-24 12:50:19	2011-06-24 12:50:19
-117	0x75	u	11214	947802	nds	De Wind hett dat Vagelhuus von ’n Boom dalstött.	slomox	2011-06-21 11:31:12	2011-06-21 11:31:12
-118	0x76	v	5864	930591	nds	De Dokter hett em seggt, he schull sik verhalen.	slomox	2011-06-09 11:03:39	2011-06-09 11:03:39
-119	0x77	w	5914	879006	nds	Se geev mi en Teken, dat ik swiegen schull.	slomox	\N	\N
-120	0x78	x	389	6173858	nds	Hest du noch nix daan?	Pfirsichbaeumchen	2017-08-03 14:52:28	2017-08-03 14:52:37
-121	0x79	y	336	809114	nds	Wat is de Oorsprung von de Olympschen Spelen?	slomox	2011-03-24 13:59:59	2011-03-24 13:59:59
-122	0x7a	z	538	7747389	nds	De Bookstaven sch in düütsche Wöör un sh in engelsche sünn schreven ŝ in Esperanto. Dat sport Platz un Dint.	Hans07	2019-01-23 14:04:44	2019-12-12 18:14:59
-160	0xa0	 	15	2775667	nds	„Worüm hest du mi dat nich vertellt?“ – „Du hest mi nich fraagt.“	Pfirsichbaeumchen	2013-10-06 11:36:39	2013-10-06 11:40:20
+44	0x2c	,	3214	810343	nds	Se hett mi vertellt, dat dat verkehrt weer to stehlen.	slomox	2011-03-25 10:34:09	2011-03-25 10:34:09
+45	0x2d	-	115	900333	nds	Dat sünd bloot teihn Graad un he geiht mit en T-Shirt na buten. Mi fröst, wenn ik em man seh.	slomox	2011-05-20 15:11:21	2011-05-20 15:11:21
+46	0x2e	.	14787	1217176	nds	Mi geiht dat beter.	slomox	2011-11-04 15:25:19	2011-11-04 15:25:19
+47	0x2f	/	4	5021873	nds	Na, Schauster, du wut mik wol brüen / Un tellst mik tau den detschen Lüen?	UliDolbarge	2016-03-29 13:16:22	2016-03-29 13:16:22
+48	0x30	0	109	885963	nds	Op dat Schild steiht: „Gefohr! 10.000 Volt“.	slomox	2011-05-11 16:02:50	2011-05-11 16:02:50
+49	0x31	1	105	811182	nds	Wi hebbt in ’e School lehrt, dat Shakespeare 1564 boren is.	slomox	2011-03-25 16:23:57	2011-03-25 16:23:57
+50	0x32	2	65	1044134	nds	De Tall 2011 hett twee Enen.	slomox	2011-08-15 10:06:39	2011-08-15 10:06:39
+51	0x33	3	38	1121075	nds	Dor weren alltohoop 30 Maten.	slomox	2011-09-22 10:58:31	2011-09-22 10:58:31
+52	0x34	4	23	877733	nds	Wi hebbt Anfang 1994 anfungen Windows 3.1 to bruken.	slomox	\N	\N
+53	0x35	5	57	837724	nds	Systemaatsch versöch Dima de Nummern von 962 bet 965 antoropen, man jümmer kreeg he den verkehrten Al-Sayib, ofschoonst se all Fanta müchen un nix von Noobs höllen.	slomox	2011-04-14 12:07:52	2011-04-14 12:07:52
+54	0x36	6	29	883692	nds	Dat engelsche Alphabeet tellt 26 Bookstaven.	slomox	\N	\N
+55	0x37	7	25	908132	nds	De Temperatur von ’n minschlichen Liev liggt üm de 37 °C.	slomox	2011-05-25 11:50:39	2011-05-25 11:50:39
+56	0x38	8	36	1090608	nds	Mit 18 Johr harr se al ehr eerst Kind.	slomox	2011-09-09 10:55:41	2011-09-09 10:55:41
+57	0x39	9	40	820005	nds	Bi en Noodfall, roop 119 an.	slomox	2011-04-01 14:32:18	2011-04-01 14:32:34
+58	0x3a	:	40	1006856	nds	De Hand hett fiev Fingers: den Dumen, den Wiesfinger, den Middelfinger, den Ringfinger un den lütten Finger.	slomox	2011-07-25 15:44:00	2011-07-25 15:44:00
+59	0x3b	;	23	8013847	nds	Und so en Lamm dörf kenen Feler hebben, un en Bucklamm vun een Jaar schall dat wesen. Neemt eer ruhig vun de Schaap un de Zegen. Düt Lamm schüllt ji denn bit to den veerteinten Dag in düssen Maand in den Stall beholen; denn aver schall dat mit de annern Lämmer för dat ganze Volk slacht warrn, wenn dat schummrig ward.	Esperantostern	2019-07-01 13:52:08	2019-07-01 13:52:08
+63	0x3f	?	2825	1114584	nds	’Keen is disse Fent?	slomox	2011-09-19 09:48:12	2011-09-19 09:48:12
+65	0x41	A	1170	873394	nds	Anners seggt, se is dumm.	slomox	\N	\N
+66	0x42	B	2154	951865	nds	Ik heff mien Brill verloren.	slomox	2011-06-23 11:22:09	2011-06-23 11:22:09
+67	0x43	C	149	873110	nds	De Heiden hebbt von dat Leven en Godd maakt, de Christen von ’n Dood.	slomox	\N	\N
+68	0x44	D	4745	985000	nds	Dat regent hier meist nie.	slomox	2011-07-11 16:06:22	2011-07-11 16:06:22
+69	0x45	E	947	809446	nds	Elk Maal as ik ’t probeert heff, hett dat nich klappt.	slomox	2011-03-24 16:28:05	2011-03-24 16:28:05
+70	0x46	F	1477	835269	nds	Wi hebbt üm dat Füür danst.	slomox	2011-04-12 12:14:32	2011-04-12 12:14:32
+71	0x47	G	1113	1006792	nds	He kann nich Gitarr spelen.	slomox	2011-07-25 15:12:00	2011-07-25 15:12:00
+72	0x48	H	3045	845361	nds	He deed ut en lütten Oort in de Bargen stammen.	slomox	2011-04-20 13:00:42	2011-04-20 13:00:42
+73	0x49	I	3771	9847367	nds	Ik hoff, dat Tom nich denkt, dat wi em nich afkünnt.	Pfirsichbaeumchen	2021-03-17 04:04:40	2021-03-17 04:04:40
+74	0x4a	J	821	894938	nds	Ik bün en groten Fan von Getter Jaani.	slomox	2011-05-16 11:30:13	2011-05-16 11:30:13
+75	0x4b	K	2264	686228	nds	Schmidt hätt küert un Kohl hätt schullen.	samueldora	2010-12-26 11:46:46	2010-12-26 11:46:46
+76	0x4c	L	980	857550	nds	Laat mi dien Temperatur meten.	slomox	2011-04-26 15:09:35	2011-04-26 15:09:35
+77	0x4d	M	1980	1016473	nds	Mengel de rode mit de blaue Farv.	slomox	2011-08-01 11:29:32	2011-08-01 11:29:32
+78	0x4e	N	737	804932	nds	Ik heff en Söhn un en Dochter. De een is in New York un de annere in London.	slomox	2011-03-22 13:30:59	2011-03-22 13:30:59
+79	0x4f	O	369	808897	nds	Tranen schöten ehr in de Ogen.	slomox	2011-03-24 10:15:22	2011-03-24 10:15:22
+80	0x50	P	813	1034062	nds	Disse Popp köst bloots sösstig Cent.	slomox	2011-08-09 11:21:06	2011-08-09 11:21:06
+81	0x51	Q	13	842873	nds	Ik frei mi, wenn ik Quechua snack.	slomox	2011-04-18 15:31:51	2011-04-18 15:31:51
+82	0x52	R	712	8692239	nds	Sünd Tom un Ria all beid in Boston boren worrn?	Pfirsichbaeumchen	2020-04-19 04:46:33	2020-04-19 04:46:33
+83	0x53	S	4113	2746423	nds	De automaatsche Spraakkenner geiht wedder nich.	Pfirsichbaeumchen	2013-09-18 10:23:57	2013-09-18 10:24:05
+84	0x54	T	1697	873368	nds	En Sioux hett den olen Trapper en Goldnugget geven.	slomox	\N	\N
+85	0x55	U	299	8034434	nds	Un bi de Maaltiet schüllt ji dat so maken: Bindt ju de Kleder up un treckt ju Scho an un neemt den Stock in de Hand! Eet de Maaltiet so gau, as ji dat jichtens künnt.	Esperantostern	2019-07-09 06:48:52	2019-07-09 06:48:52
+86	0x56	V	791	911336	nds	De Diktater deed dat Volk dalhollen.	slomox	2011-05-27 11:31:50	2011-05-27 11:31:50
+87	0x57	W	3179	899960	nds	Worüm hest du dat maakt?	slomox	2011-05-20 10:51:53	2011-05-20 10:51:53
+89	0x59	Y	67	969709	nds	Kannst du en 1000-Yen-Schien wesseln?	slomox	2011-07-01 17:22:32	2011-07-01 17:22:32
+90	0x5a	Z	54	828268	nds	He is as en Zebra mank Peer.	slomox	2011-04-07 12:45:27	2011-04-07 12:45:27
+97	0x61	a	13613	1036892	nds	De Mann sitt güntsied von ’n Beek.	slomox	2011-08-11 10:47:13	2011-08-11 10:47:13
+98	0x62	b	4281	899861	nds	Ik lehr en beten Engelsch.	slomox	2011-05-20 10:18:49	2011-05-20 10:18:49
+99	0x63	c	6747	828267	nds	Ik mag de franzöösche Köök.	slomox	2011-04-07 12:44:51	2011-04-07 12:44:51
+100	0x64	d	11815	5050627	nds	En bettchen scheif het God leif.	UliDolbarge	2016-04-08 17:17:53	2016-04-08 17:17:53
+101	0x65	e	17277	2787435	nds	Ik heff vergeten, em dorna to fragen.	Pfirsichbaeumchen	2013-10-12 20:59:47	2013-10-12 21:03:54
+102	0x66	f	4127	938813	nds	Kannst du en Taxi för mi bestellen?	slomox	2011-06-14 11:49:22	2011-06-14 11:49:22
+103	0x67	g	7475	1358379	nds	Dat is meist richtig.	Pfirsichbaeumchen	2012-01-13 15:16:55	2013-09-20 19:19:18
+104	0x68	h	11671	1109531	nds	Snack nich leeg von annere.	slomox	2011-09-16 16:31:07	2011-09-16 16:31:07
+105	0x69	i	14060	899061	nds	Vader seggt faken, dat Tied Geld is.	slomox	2011-05-19 13:31:18	2011-05-19 13:31:18
+106	0x6a	j	1204	1088960	nds	Se sütt jung ut, aver in Würklichkeid is se öller as du.	slomox	2011-09-08 12:12:39	2011-09-08 12:12:39
+107	0x6b	k	10128	951799	nds	Ik föhr elk Dag mit ’t Auto na Arbeid.	slomox	2011-06-23 10:59:40	2011-06-23 10:59:40
+108	0x6c	l	9783	889943	nds	Vör allen mööt ji enanner helpen.	slomox	2011-05-13 11:04:42	2011-05-13 11:04:42
+109	0x6d	m	8328	810691	nds	Na ’n langen Winter hett de Straat Löcker kregen un is temlich rubbelig worrn.	slomox	2011-03-25 12:49:29	2011-03-25 12:49:29
+110	0x6e	n	16183	967424	nds	Se driggt en blau Kleed.	slomox	2011-06-30 12:22:59	2011-06-30 12:22:59
+111	0x6f	o	10886	978233	nds	Wi sünd glieks dor.	slomox	2011-07-06 11:17:26	2011-07-06 11:17:26
+112	0x70	p	3817	810971	nds	Sien Peerd sprüng över ’n Tuun.	slomox	2011-03-25 15:14:51	2011-03-25 15:14:51
+113	0x71	q	16	1009485	nds	De Äquater deelt de Eer in twee Halvscheden.	slomox	2011-07-27 12:32:10	2011-07-27 12:32:10
+114	0x72	r	13064	828819	nds	De Wulken harrn sik vertrocken un leten de Sünn schienen.	slomox	2011-04-07 23:47:39	2011-04-07 23:47:39
+115	0x73	s	12989	988208	nds	Du hest dor toveel Peper rindaan.	slomox	2011-07-13 15:02:20	2011-07-13 15:02:20
+116	0x74	t	15345	811132	nds	De Student weer so fründlich, mi den Weg to wiesen.	slomox	2011-03-25 16:09:17	2011-03-25 16:09:17
+117	0x75	u	7612	5705933	nds	Wo hest du mit em över kört?	Pfirsichbaeumchen	2016-12-25 09:05:03	2016-12-25 09:05:03
+118	0x76	v	4873	941758	nds	’Keen hett vondaag Deenst?	slomox	2011-06-17 12:03:36	2011-06-17 12:03:36
+119	0x77	w	4832	1021475	nds	De Inwahnertall von dit Land warrt minner.	slomox	2011-08-04 12:16:24	2011-08-04 12:16:24
+120	0x78	x	377	841877	nds	Ik kann nix sehn!	slomox	2011-04-17 18:53:08	2011-04-17 18:53:08
+121	0x79	y	323	908153	nds	Ik speel veel Volleyball.	slomox	2011-05-25 11:55:11	2011-05-25 11:55:11
+122	0x7a	z	508	900460	nds	Ik bün keen goden Satz-Utdenker.	slomox	2011-05-20 15:48:24	2011-05-20 15:48:30
+160	0xa0	 	15	9704873	nds	„Tom hett dat seggt.“ – „Wenn de dat seggt, warrt dat wull so sien. Denn bruukst du mi jo nich to frogen.“	Pfirsichbaeumchen	2021-01-30 19:00:42	2021-01-30 19:06:42
 171	0xab	«	1	834121	nds	»Na klaar nich!« sę ik.	User4473	2011-04-11 17:19:03	2011-04-11 17:19:03
 176	0xb0	°	3	885383	nds	Dat Baguette ut dat Paket nehmen un in ’n vörbött Backaven bi 200 °C so 8 bet 10 Minuten, je nadem wo bruun dat warrn schall, op de middelste Plaat trechbacken.	slomox	\N	2011-05-11 18:25:09
 180	0xb4	´	3	797927	nds	De Schmitt iss ´n wunnerbor Vigelienstrieker.	Hans07	2011-03-18 17:13:54	2011-03-18 17:13:54
 187	0xbb	»	1	834121	nds	»Na klaar nich!« sę ik.	User4473	2011-04-11 17:19:03	2011-04-11 17:19:03
-196	0xc4	Ä	18	981057	nds	Ik kaam ut Ägypten.	slomox	2011-07-08 15:44:21	2011-07-08 15:44:21
+196	0xc4	Ä	16	8762951	nds	Ik slo de folgen Ännerung vör.	Pfirsichbaeumchen	2020-05-15 09:50:35	2020-05-15 09:50:42
 197	0xc5	Å	1	839374	nds	En Ångström is lütter as en Nanometer.	slomox	2011-04-15 14:59:03	2011-04-15 14:59:03
 201	0xc9	É	1	873227	nds	Dat weer Éamonn, de dat daan hett.	slomox	\N	\N
-214	0xd6	Ö	176	847308	nds	Mien Söhn is man lütt för sien Öller.	slomox	2011-04-21 14:33:40	2011-04-21 14:34:01
-220	0xdc	Ü	77	883553	nds	De Ünnerricht fangt an ’n 10. April an.	slomox	\N	\N
-223	0xdf	ß	72	3043726	nds	Hebbt ji wüßt, dat Tom dree Kinner hett?	Pfirsichbaeumchen	2014-02-12 08:38:52	2014-02-12 08:38:52
-225	0xe1	á	4	1176041	nds	Ehr Fründ is ut Ceará.	slomox	2011-10-14 15:48:43	2011-10-14 15:48:43
-227	0xe3	ã	3	1152968	nds	Em höört veer grote Buursteden in ’t Binnenland von ’n Staat São Paulo.	slomox	2011-10-05 11:47:28	2011-10-05 11:47:28
-228	0xe4	ä	677	1009509	nds	Wat köönt wi de Gäst anbeden?	slomox	2011-07-27 12:43:40	2011-07-27 12:43:40
-229	0xe5	å	4	2801237	nds	Wo lååt mutt ick inchecken?	Ealdwimor	2013-10-20 20:12:44	2013-10-20 20:12:44
-230	0xe6	æ	8	10730517	nds	Wenn ji düssen Breef læst, bediut det, dat ik nich mihr op de Welt bün.	Pfirsichbaeumchen	2022-03-22 21:24:07	2022-03-22 21:24:07
-233	0xe9	é	8	876413	nds	Moin, Mien Naam is José Silva. Wat is dien Naam?	slomox	\N	\N
-235	0xeb	ë	14	750317	nds	He is sau vöniënig, dat em de Annern uten Wiäge gaot.	samueldora	2011-02-10 22:32:26	2011-02-10 22:32:26
-237	0xed	í	5	874103	nds	Ik heff Eibhlín in ’e Bökeree sehn, nich Sorcha.	slomox	\N	\N
-244	0xf4	ô	3	9611428	nds	Môk de Dœr tau, wenn du up’n Pott sittst!	Pfirsichbaeumchen	2021-01-08 05:44:01	2021-01-08 05:44:01
-246	0xf6	ö	6903	826949	nds	Welk Soorten Eten maakt uns döstig.	slomox	2011-04-06 15:51:01	2011-04-06 15:51:01
-251	0xfb	û	7	8135075	nds	Ik heff merkt, dat ji gistern avend nich tohûs wören.	Pfirsichbaeumchen	2019-08-27 09:31:28	2019-08-27 09:32:54
-252	0xfc	ü	6626	906494	nds	Se is jümmer blied un smüüstert.	slomox	2011-05-24 14:35:48	2011-05-24 14:35:48
+214	0xd6	Ö	175	946094	nds	He is in ’t Öller von 54 Johr doodbleven.	slomox	2011-06-20 10:34:15	2011-06-20 10:34:15
+220	0xdc	Ü	77	900298	nds	Üm an ’n Born to kamen, mutt een gegen ’n Stroom swemmen.	slomox	2011-05-20 15:01:56	2011-05-20 15:01:56
+223	0xdf	ß	72	981044	nds	Dat is en groten Spaaß, mit di tohoop to wesen.	slomox	2011-07-08 15:40:13	2011-07-08 15:40:13
+225	0xe1	á	4	905369	nds	Bráulio is dat Översetten von Sätz leed un is na Bedd gahn.	slomox	2011-05-23 13:59:00	2011-05-23 13:59:00
+227	0xe3	ã	3	951766	nds	Juliana hett mi vertellt, dat du ut São Paulo büst.	slomox	2011-06-23 10:47:56	2011-06-23 10:47:56
+228	0xe4	ä	586	1151370	nds	Wenig Lüüd köönt sik hüdigendaags vörstellen, dat Lüüd in Sweden oder Noorwegen, de vondaag as twee von de rieksten Länner ankeken warrt, vör een Johrhunnerd noch vör Hunger doodbleven is.	slomox	2011-10-04 16:36:37	2011-10-04 16:36:37
+229	0xe5	å	3	1083380	nds	De längste Stroom in Däänmark is de Gudenå mit 160 Kilometers.	slomox	2011-09-05 12:27:16	2011-09-05 12:27:16
+230	0xe6	æ	8	10730444	nds	Wenn du düssen Breef læst, bediut det, dat ik nich mihr op de Welt bün.	Pfirsichbaeumchen	2022-03-22 20:27:57	2022-03-22 21:22:37
+233	0xe9	é	8	877721	nds	Séamas Mhicí Sheáin is vergangen Johr doodbleven.	slomox	\N	\N
+235	0xeb	ë	11	750292	nds	Et hät en lange Niërsen.	samueldora	2011-02-10 21:40:09	2011-02-10 21:40:18
+237	0xed	í	5	873371	nds	De Garcías sünd noch nich ankamen.	slomox	\N	\N
+244	0xf4	ô	3	8235103	nds	Ria is Tom sien Grôtmoder.	Pfirsichbaeumchen	2019-10-05 16:31:57	2019-10-05 16:31:57
+246	0xf6	ö	4702	799735	nds	De Jung straak de Deern üm ’t Kinn un geev ehr en Söten op de Back.	slomox	2011-03-19 19:54:04	2011-03-19 19:54:04
+251	0xfb	û	7	8135072	nds	Ik heff merkt, dat du gistern avend nich tohûs wœrst.	Pfirsichbaeumchen	2019-08-27 09:30:23	2019-08-27 09:32:47
+252	0xfc	ü	5057	1109666	nds	He keem ut China trügg.	slomox	2011-09-16 17:03:15	2011-09-16 17:03:15
 281	0x119	ę	1	834121	nds	»Na klaar nich!« sę ik.	User4473	2011-04-11 17:19:03	2011-04-11 17:19:03
-333	0x14d	ō	5	10075942	nds	Wat wullt du in Tōkyō?	Pfirsichbaeumchen	2021-05-31 08:06:20	2021-05-31 08:06:20
-339	0x153	œ	37	8692252	nds	Se wœr en Deern, un he wœr en Jung.	Pfirsichbaeumchen	2020-04-19 04:58:45	2020-04-19 04:59:15
-349	0x15d	ŝ	2	7747389	nds	De Bookstaven sch in düütsche Wöör un sh in engelsche sünn schreven ŝ in Esperanto. Dat sport Platz un Dint.	Hans07	2019-01-23 14:04:44	2019-12-12 18:14:59
-8211	0x2013	–	16	7079706	nds	„Sprickt ji Düütsch?“ – „Nä, ik bün Französin.“	Pfirsichbaeumchen	2018-08-22 13:22:02	2018-08-22 13:22:55
-8212	0x2014	—	4	1101684	nds	Kennst du mi? — Nee, ik kenn di nich.	slomox	2011-09-13 15:06:59	2011-09-13 15:06:59
-8216	0x2018	‘	5	883663	nds	‚Tammi‘ mit twee m. Also T-A-M-M-I.	slomox	\N	\N
-8217	0x2019	’	2184	946094	nds	He is in ’t Öller von 54 Johr doodbleven.	slomox	2011-06-20 10:34:15	2011-06-20 10:34:15
-8218	0x201a	‚	5	883663	nds	‚Tammi‘ mit twee m. Also T-A-M-M-I.	slomox	\N	\N
-8220	0x201c	“	118	1101310	nds	Goethe siene letzten Wöör weren nich „Mehr Licht!“, man wat he seggen wull, weer „Mer licht hier net guud.“, wat Hessisch is un soveel heet as „Men liggt hier nich good.“.	slomox	2011-09-13 10:22:32	2011-09-13 10:22:32
-8222	0x201e	„	118	857124	nds	„Michael“ is en Naam för Mannslüüd, man „Michelle“ is en Naam för Froonslüüd.	slomox	2011-04-26 13:26:53	2011-04-26 13:26:53
+333	0x14d	ō	3	10075942	nds	Wat wullt du in Tōkyō?	Pfirsichbaeumchen	2021-05-31 08:06:20	2021-05-31 08:06:20
+339	0x153	œ	34	8779032	nds	Ik kœr veel mit em.	Pfirsichbaeumchen	2020-05-21 14:46:19	2020-05-21 14:46:19
+349	0x15d	ŝ	2	7747393	nds	De Bookstaven sch in düütsche Wöör un sh in engelsche warrn schreven ŝ in Esperanto. Dat sport Platz un Dint.	Hans07	2019-01-23 14:08:59	2019-01-25 09:53:16
+8211	0x2013	–	16	7327619	nds	„Ik heff Tom und Ria froogt, worüm se nie heirodt hebbt.“ – „Un wat hebbt se antwoordt?“	Pfirsichbaeumchen	2018-10-22 16:03:39	2018-10-22 16:03:39
+8212	0x2014	—	4	1058635	nds	Se is man een Generation na dat Enn von de Slaveree boren; en Tied as dat noch keen Autos op de Straten un keen Flegers in de Luft geven hett; as een as ehr ut twee Grünn nich wählen dröff — vonwegen dat se en Froo weer un vonwegen ehr Huudfarv.	slomox	2011-08-22 10:11:08	2011-08-22 10:11:08
+8216	0x2018	‘	3	1131817	nds	Üm de Eenheiden von dat metrische na dat angloamerikaansche Maatsysteem un annersrüm to ännern, mutt de ‚Menü‘-Knoop klickt warrn.	slomox	2011-09-27 13:12:33	2011-09-27 13:14:40
+8217	0x2019	’	2063	857030	nds	Güstern weer ’t hitt.	slomox	2011-04-26 13:12:51	2011-04-26 13:12:51
+8218	0x201a	‚	3	799614	nds	De Mehrtall von ‚person‘ is ‚people‘ un nich ‚persons‘.	slomox	2011-03-19 19:24:45	2012-07-01 11:17:41
+8220	0x201c	“	85	842868	nds	Elk Satz, de anfangt mit „Ik bün keen Rassist, aver...“, is wohrschienlich temlich rassistisch.	slomox	2011-04-18 15:29:52	2011-04-18 15:29:52
+8222	0x201e	„	85	899915	nds	„Wat för en söten lütten Hund. Worüm heet he Panda?“ „Vonwegen dat sien Gesicht utsütt as dat von en Panda.“	slomox	2011-05-20 10:39:24	2011-05-20 10:39:24
 8230	0x2026	…	2	900513	nds	De Schäper tellt sien Schaap: „Een, twee, dree, veer, fiev … eenhunnerd.“	slomox	2011-05-20 16:06:18	2011-05-20 16:06:18
 8362	0x20aa	₪	1	938875	nds	Wenn du na Israel kummst, bruukst du veel Schekels. Water köst 0,50 ₪.	slomox	2011-06-14 12:05:33	2011-06-14 12:05:33
 8372	0x20b4	₴	1	938871	nds	En Diäät-Cola köst 2 ₴ in de Ukrain.	slomox	2011-06-14 12:04:52	2011-06-14 12:04:52
