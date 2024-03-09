@@ -627,11 +627,11 @@ def analyzepunctuation():
       if findall(r"""([^.]|^)\.\.([^.]|$)""", fields[2], flags = I):
         print("Ellipsis: too short", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
-        print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
+      # if findall(r"""--|(\s|^)-(\s|$)""", fields[2], flags = I):
+      #   print("Em dash: homoglyph", line, sep = "\t", end = "", file = write)
 
-      if findall(r"""\d-\d""", fields[2], flags = I):
-        print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
+      # if findall(r"""\d-\d""", fields[2], flags = I):
+      #   print("En dash or figure dash: possible homoglyph", line, sep = "\t", end = "", file = write)
 
       if language in ("ber", "fra", "kab") and findall(r"""\w[!]""", fields[2], flags = I):
         print("Exclamation mark: preceeded by letter or digit", line, sep = "\t", end = "", file = write)
