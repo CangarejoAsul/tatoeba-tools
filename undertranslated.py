@@ -25,6 +25,13 @@ def cleanupforsplitting(text):
   return text
 
 def getwords(text):
+  return findall(
+    r"""[^\s—―…'‘"“<«\[{][^\s—―…]+[)][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
+    r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[(][^\s—―…]+[^\s—―…'’"”>»\]},:;.?!‽]|"""
+    r"""(?:[^\s—―…'‘"“<«(\[{][^\s—―…]*)?(?:[^\W\d]\.){2,}(?![^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽])|"""
+    r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|"""
+    r"""[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""",
+    cleanupforsplitting(text))
   return findall(r"""[^\s—―…'‘"“<«(\[{][^\s—―…]*[^\s—―…'’"”>»)\]},:;.?!‽]|[^\s—―…'‘’"“”<>«»()\[\]{},:;.?!‽]""", cleanupforsplitting(text))
   return findall(r"(?:[\w#@-][\w#@'()/,:.-]*)?[\w#@-]", cleanupforsplitting(text))
 
@@ -49,6 +56,8 @@ for line in read:
       words.add(word)
 read.close()
 words = list(words)
+# words.sort()
+# words.sort(key = cleanupforsorting)
 shuffle(words)
 
 write = open("words.txt", "w", encoding = "utf-8")
