@@ -445,11 +445,12 @@ def selectsentences():
       file = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
       for line in file:
         fields = findall(r"[^\t\n]+", line)
-        sentence = getwordsinlanguage(janome, kkma, language, fields[2].lower())
-        for word in sentence:
-          if word not in dictionary:
-            dictionary[word] = []
-          dictionary[word].append(fields[0])
+        if len(fields[2]) >= 50:
+          sentence = getwordsinlanguage(janome, kkma, language, fields[2].lower())
+          for word in sentence:
+            if word not in dictionary:
+              dictionary[word] = []
+            dictionary[word].append(fields[0])
       file.close()
       for word in dictionary:
         shuffle(dictionary[word])
