@@ -125,7 +125,8 @@ def writelanguageset():
     fields = findall(r"[^\t\n]+", line)
     if fields[1] not in frequency:
       frequency[fields[1]] = 0
-    frequency[fields[1]] += 1
+    if len(fields[2]) >= 50:
+      frequency[fields[1]] += 1
   read.close()
   
   print("Writing language set...")
