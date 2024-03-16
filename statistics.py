@@ -89,7 +89,7 @@ def getwordsinenglish(text):
 
 def getwordsinlanguage(janome, kkma, language, text):
   words = set()
-  if language == "cmn":
+  if language in ("cmn", "lzh", "wuu", "yue"):
     for token in cut(text):
       words.update(getwords(token))
   elif language in ("eng", "fra", "ita", "por", "spa"):
@@ -120,23 +120,28 @@ def loadspellchecker(language):
 def writelanguageset():
   print("Reading language set...")
   frequency = {}
+  sample = {}
   read = open("sentences_detailed.csv", "r", encoding = "utf-8")
   for line in read:
     fields = findall(r"[^\t\n]+", line)
     if fields[1] not in frequency:
       frequency[fields[1]] = 0
+      sample[fields[1]] = line
     if len(fields[2]) >= 50:
       frequency[fields[1]] += 1
+      if randint(1, frequency[fields[1]]) == 1:
+        sample[fields[1]] = line
   read.close()
   
   print("Writing language set...")
   languages = list(frequency.keys())
+  shuffle(languages)
   languages.sort(key = lambda language: frequency[language], reverse = True)
   if not isdir("temporary"): 
     makedirs("temporary")
   write = open("temporary/languages.txt", "w", encoding = "utf-8")
   for language in languages:
-    print(language, frequency[language], sep = "\t", file = write)
+    print(language, frequency[language], sample[language], sep = "\t", end = "", file = write)
   write.close()
 
 def partitionsentences():
