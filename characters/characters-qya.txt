@@ -1,62 +1,62 @@
-32	0x20	 	112	1148287	qya	I aran túla.	cntrational	2011-10-04 01:01:12	2011-10-04 01:01:20
-33	0x21	!	22	1148376	qya	Alasse i Lirillon merendenna!	cntrational	2011-10-04 01:13:27	2014-04-26 06:30:48
-39	0x27	'	7	1148352	qya	Tenn' enomentielva!	cntrational	2011-10-04 01:10:15	2011-10-04 01:10:30
-44	0x2c	,	9	1148267	qya	Á tulë, Hísiel, hilyëalves! Á hauta!	cntrational	2011-10-04 00:58:53	2011-10-04 00:59:29
-45	0x2d	-	5	1130079	qya	Nai Valaraukar tye-mátar.	cntrational	2011-09-26 09:47:46	2011-09-26 09:48:00
-46	0x2e	.	110	11507241	qya	Nanyë lingwë.	shekitten	2023-02-03 12:57:53	2023-02-03 12:57:53
-58	0x3a	:	2	2917148	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · ar ámen apsene úcaremmar sív’ emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme e telehta ulcullo : násie	betigre	2013-12-10 01:40:19	2013-12-10 01:40:19
-63	0x3f	?	12	1148271	qya	Nammë Noldor. Nan Hísiel. Ma nalyë Sinda?	cntrational	2011-10-04 00:59:29	2011-10-04 00:59:38
-65	0x41	A	27	1148294	qya	Aran ar tári túlat.	cntrational	2011-10-04 01:01:56	2011-10-04 01:02:05
+32	0x20	 	112	1152116	qya	Elen síla lúmenn' omentielmo.	cntrational	2011-10-05 00:14:05	2012-11-18 08:07:33
+33	0x21	!	22	1148356	qya	Ná!	cntrational	2011-10-04 01:10:52	2011-10-04 01:11:01
+39	0x27	'	7	1152112	qya	Yomentielm' alassë ná.	cntrational	2011-10-05 00:13:20	2014-01-31 11:41:44
+44	0x2c	,	9	1419154	qya	Tiruvanyë eleninnar, nillin tiruvanyë voro.	tien_oroniel	2012-02-06 21:41:45	2012-02-06 21:41:52
+45	0x2d	-	5	1419113	qya	Fëanyassë calë tinta nwalya melmë, yan i lomë-antanë arantë findë.	Dreamk33	2012-02-06 21:28:20	2013-01-13 14:08:19
+46	0x2e	.	110	2917148	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · ar ámen apsene úcaremmar sív’ emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme e telehta ulcullo : násie	betigre	2013-12-10 01:40:19	2013-12-10 01:40:19
+58	0x3a	:	2	3230007	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · Ar ámen apsene úcaremmar sív' emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme etelehta ulcullo : násie :	Abcormal	2014-05-04 04:49:24	2014-05-04 04:49:24
+63	0x3f	?	12	1148263	qya	Massë cénatyes?	cntrational	2011-10-04 00:58:22	2011-10-04 00:58:29
+65	0x41	A	27	1418928	qya	Aiya nildo.	tien_oroniel	2012-02-06 20:52:12	2014-04-26 14:19:54
 67	0x43	C	4	1148321	qya	Cénalyen.	cntrational	2011-10-04 01:05:14	2011-10-04 01:05:23
 69	0x45	E	11	1148350	qya	Elen síla lúmenn' omentielvo.	cntrational	2011-10-04 01:08:57	2011-10-04 01:09:07
-70	0x46	F	3	1148384	qya	Findelya cala ve laure.	cntrational	2011-10-04 01:14:12	2011-10-04 01:14:25
-72	0x48	H	9	1130077	qya	Hria cuilë.	cntrational	2011-09-26 09:47:12	2011-09-26 09:47:35
-73	0x49	I	4	8901324	qya	I ambar vanya.	shekitten	2020-07-08 17:18:23	2020-09-08 11:42:51
-76	0x4c	L	11	1148303	qya	Lelyeat.	cntrational	2011-10-04 01:03:02	2011-10-04 01:03:09
-77	0x4d	M	30	1148347	qya	Ma Noldo nu i alda ná?	cntrational	2011-10-04 01:08:47	2011-10-04 01:10:26
-78	0x4e	N	18	1148356	qya	Ná!	cntrational	2011-10-04 01:10:52	2011-10-04 01:11:01
-79	0x4f	O	3	1152110	qya	Omentielm' alassë ná.	cntrational	2011-10-05 00:13:05	2011-10-05 00:16:23
+70	0x46	F	3	1130089	qya	Findesselya vanya.	cntrational	2011-09-26 09:50:29	2011-09-26 09:52:23
+72	0x48	H	9	1148325	qya	Híralmet.	cntrational	2011-10-04 01:05:41	2011-10-04 01:05:54
+73	0x49	I	4	1148287	qya	I aran túla.	cntrational	2011-10-04 01:01:12	2011-10-04 01:01:20
+76	0x4c	L	11	1148317	qya	Lantëanyë.	cntrational	2011-10-04 01:04:42	2011-10-04 01:04:49
+77	0x4d	M	30	1130125	qya	Mara tuilë.	cntrational	2011-09-26 10:07:51	2011-09-26 10:10:20
+78	0x4e	N	18	1130079	qya	Nai Valaraukar tye-mátar.	cntrational	2011-09-26 09:47:46	2011-09-26 09:48:00
+79	0x4f	O	3	1152131	qya	Omentielyë alassenen.	cntrational	2011-10-05 00:15:36	2011-10-05 00:15:44
 80	0x50	P	1	1148330	qya	Pólan quetë.	cntrational	2011-10-04 01:06:17	2011-10-04 01:06:26
-81	0x51	Q	3	8622787	qya	Quenya ná lambë eldaiva.	Teashrock	2020-03-20 11:53:04	2020-06-11 06:27:48
-83	0x53	S	5	1152129	qya	Sina mardenya.	cntrational	2011-10-05 00:15:28	2011-10-05 00:15:47
-84	0x54	T	15	1130074	qya	Tevenyel.	cntrational	2011-09-26 09:46:49	2011-09-26 09:47:27
-85	0x55	U	6	10218706	qya	Uan ista.	shekitten	2021-08-05 20:20:24	2021-08-05 20:20:24
+81	0x51	Q	3	1130093	qya	Quorëan!	cntrational	2011-09-26 09:52:12	2012-02-08 02:24:49
+83	0x53	S	5	1152106	qya	Suilantan ilquen.	cntrational	2011-10-05 00:12:46	2011-10-05 00:16:34
+84	0x54	T	15	1148312	qya	Tírastë.	cntrational	2011-10-04 01:04:03	2011-10-04 01:04:14
+85	0x55	U	6	8557119	qya	Uan matë apsa.	shekitten	2020-02-16 20:13:40	2020-02-16 20:13:40
 86	0x56	V	1	1130079	qya	Nai Valaraukar tye-mátar.	cntrational	2011-09-26 09:47:46	2011-09-26 09:48:00
 89	0x59	Y	3	1148364	qya	Yé! Utúvienyes!	cntrational	2011-10-04 01:11:34	2011-10-04 01:11:49
-97	0x61	a	137	1148386	qya	A hótule asinye i meneltannar tirien.	cntrational	2011-10-04 01:14:30	2011-10-04 01:14:41
-98	0x62	b	8	3230007	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · Ar ámen apsene úcaremmar sív' emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme etelehta ulcullo : násie :	Abcormal	2014-05-04 04:49:24	2014-05-04 04:49:24
-99	0x63	c	21	1148380	qya	Nai áre laireva calyuva i falassi!	cntrational	2011-10-04 01:13:49	2011-10-04 01:13:49
-100	0x64	d	28	1152119	qya	Anda lenda?	cntrational	2011-10-05 00:14:39	2011-10-05 00:16:06
-101	0x65	e	78	1148372	qya	Ná merye i turuhalmeri!	cntrational	2011-10-04 01:12:59	2011-10-04 01:13:07
-102	0x66	f	3	1148380	qya	Nai áre laireva calyuva i falassi!	cntrational	2011-10-04 01:13:49	2011-10-04 01:13:49
+97	0x61	a	137	1130103	qya	Mára mesta.	cntrational	2011-09-26 09:55:46	2011-09-26 09:56:00
+98	0x62	b	8	8622787	qya	Quenya ná lambë eldaiva.	Teashrock	2020-03-20 11:53:04	2020-06-11 06:27:48
+99	0x63	c	21	11507247	qya	Aldar coinar.	shekitten	2023-02-03 13:06:44	2023-02-03 13:08:12
+100	0x64	d	28	1152129	qya	Sina mardenya.	cntrational	2011-10-05 00:15:28	2011-10-05 00:15:47
+101	0x65	e	78	2142112	qya	Mára mesta!	Dreamk33	2013-01-13 14:43:40	2013-01-13 14:43:40
+102	0x66	f	3	1419113	qya	Fëanyassë calë tinta nwalya melmë, yan i lomë-antanë arantë findë.	Dreamk33	2012-02-06 21:28:20	2013-01-13 14:08:19
 103	0x67	g	1	11507241	qya	Nanyë lingwë.	shekitten	2023-02-03 12:57:53	2023-02-03 12:57:53
-104	0x68	h	12	1148386	qya	A hótule asinye i meneltannar tirien.	cntrational	2011-10-04 01:14:30	2011-10-04 01:14:41
-105	0x69	i	83	1130117	qya	Aiya meldor.	cntrational	2011-09-26 10:06:39	2011-09-26 16:13:49
+104	0x68	h	12	3521897	qya	Et eärello endorena utúlien. Sinome maruvam ar hildinyar tenn’ Ambar-metta.	Braunberg	2014-09-27 03:32:48	2014-09-27 03:32:48
+105	0x69	i	83	1148278	qya	Ata pólalmë tulë sinomë.	cntrational	2011-10-04 01:00:15	2011-10-04 01:00:23
 107	0x6b	k	1	1130079	qya	Nai Valaraukar tye-mátar.	cntrational	2011-09-26 09:47:46	2011-09-26 09:48:00
-108	0x6c	l	96	1130149	qya	Massë hotuli?	cntrational	2011-09-26 10:13:07	2011-09-26 10:20:29
-109	0x6d	m	62	1148372	qya	Ná merye i turuhalmeri!	cntrational	2011-10-04 01:12:59	2011-10-04 01:13:07
-110	0x6e	n	101	1152119	qya	Anda lenda?	cntrational	2011-10-05 00:14:39	2011-10-05 00:16:06
-111	0x6f	o	42	1148344	qya	Noldo nu i alda ná.	cntrational	2011-10-04 01:08:32	2011-10-04 01:08:42
-112	0x70	p	10	10667763	qya	Minë, atta, neldë, canta, lempë	Kiriboss19	2022-02-10 15:45:46	2022-02-10 15:45:46
-113	0x71	q	6	1148330	qya	Pólan quetë.	cntrational	2011-10-04 01:06:17	2011-10-04 01:06:26
-114	0x72	r	73	1419154	qya	Tiruvanyë eleninnar, nillin tiruvanyë voro.	tien_oroniel	2012-02-06 21:41:45	2012-02-06 21:41:52
-115	0x73	s	52	1148392	qya	Le meluvan úne ar alye lúmessen tenna nurucilie.	cntrational	2011-10-04 01:15:45	2011-10-04 01:15:54
-116	0x74	t	74	3521929	qya	Eru ná cánonya, ar macilinya ná sartonya.	Braunberg	2014-09-27 04:10:10	2014-09-27 04:10:10
-117	0x75	u	48	1152123	qya	Hantanyel tulesselyanen.	cntrational	2011-10-05 00:14:59	2011-10-05 00:15:58
-118	0x76	v	29	1148378	qya	Ná alya i vinya loa!	cntrational	2011-10-04 01:13:36	2011-10-04 01:13:44
-119	0x77	w	6	11507241	qya	Nanyë lingwë.	shekitten	2023-02-03 12:57:53	2023-02-03 12:57:53
-121	0x79	y	62	1130089	qya	Findesselya vanya.	cntrational	2011-09-26 09:50:29	2011-09-26 09:52:23
-183	0xb7	·	2	2917148	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · ar ámen apsene úcaremmar sív’ emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme e telehta ulcullo : násie	betigre	2013-12-10 01:40:19	2013-12-10 01:40:19
+108	0x6c	l	96	1152127	qya	Mardenya, mardelya.	cntrational	2011-10-05 00:15:17	2011-10-05 00:15:51
+109	0x6d	m	62	2142112	qya	Mára mesta!	Dreamk33	2013-01-13 14:43:40	2013-01-13 14:43:40
+110	0x6e	n	101	1165995	qya	Minë, atta, neldë, canta, lempë, enquë, otso, tolto, nertë, cainen.	cntrational	2011-10-09 03:42:45	2011-10-09 03:45:09
+111	0x6f	o	42	3521897	qya	Et eärello endorena utúlien. Sinome maruvam ar hildinyar tenn’ Ambar-metta.	Braunberg	2014-09-27 03:32:48	2014-09-27 03:32:48
+112	0x70	p	10	8557119	qya	Uan matë apsa.	shekitten	2020-02-16 20:13:40	2020-02-16 20:13:40
+113	0x71	q	6	3521901	qya	Á querë immo i quén nelyë nóna náven.	Braunberg	2014-09-27 03:44:24	2014-09-27 03:44:24
+114	0x72	r	73	1152121	qya	Órenya linda tyë-cenien.	cntrational	2011-10-05 00:14:49	2011-10-05 00:16:02
+115	0x73	s	52	1130103	qya	Mára mesta.	cntrational	2011-09-26 09:55:46	2011-09-26 09:56:00
+116	0x74	t	74	3230007	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · Ar ámen apsene úcaremmar sív' emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme etelehta ulcullo : násie :	Abcormal	2014-05-04 04:49:24	2014-05-04 04:49:24
+117	0x75	u	48	2917148	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · ar ámen apsene úcaremmar sív’ emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme e telehta ulcullo : násie	betigre	2013-12-10 01:40:19	2013-12-10 01:40:19
+118	0x76	v	29	1148352	qya	Tenn' enomentielva!	cntrational	2011-10-04 01:10:15	2011-10-04 01:10:30
+119	0x77	w	6	1148258	qya	Hísiel ar Nenwë tírat i taurë.	cntrational	2011-10-04 00:57:46	2011-10-04 00:57:46
+121	0x79	y	62	8509364	qya	Nanyë yaulë.	shekitten	2020-02-03 16:16:49	2020-02-03 16:16:49
+183	0xb7	·	2	3230007	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · Ar ámen apsene úcaremmar sív' emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme etelehta ulcullo : násie :	Abcormal	2014-05-04 04:49:24	2014-05-04 04:49:24
 193	0xc1	Á	6	1148332	qya	Á tirë taurë!	cntrational	2011-10-04 01:06:31	2011-10-04 01:06:41
 211	0xd3	Ó	1	1152121	qya	Órenya linda tyë-cenien.	cntrational	2011-10-05 00:14:49	2011-10-05 00:16:02
-225	0xe1	á	26	3230007	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · Ar ámen apsene úcaremmar sív' emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme etelehta ulcullo : násie :	Abcormal	2014-05-04 04:49:24	2014-05-04 04:49:24
+225	0xe1	á	26	2142112	qya	Mára mesta!	Dreamk33	2013-01-13 14:43:40	2013-01-13 14:43:40
 228	0xe4	ä	1	3521897	qya	Et eärello endorena utúlien. Sinome maruvam ar hildinyar tenn’ Ambar-metta.	Braunberg	2014-09-27 03:32:48	2014-09-27 03:32:48
-233	0xe9	é	13	8565441	qya	Méranyë parma.	shekitten	2020-02-20 12:44:49	2020-02-20 12:44:49
-235	0xeb	ë	71	1152121	qya	Órenya linda tyë-cenien.	cntrational	2011-10-05 00:14:49	2011-10-05 00:16:02
+233	0xe9	é	13	1130138	qya	Almién!	cntrational	2011-09-26 10:09:31	2011-09-26 10:09:44
+235	0xeb	ë	71	10667763	qya	Minë, atta, neldë, canta, lempë	Kiriboss19	2022-02-10 15:45:46	2022-02-10 15:45:46
 237	0xed	í	18	1148267	qya	Á tulë, Hísiel, hilyëalves! Á hauta!	cntrational	2011-10-04 00:58:53	2011-10-04 00:59:29
-243	0xf3	ó	8	1148330	qya	Pólan quetë.	cntrational	2011-10-04 01:06:17	2011-10-04 01:06:26
-250	0xfa	ú	15	1148315	qya	Túlattë.	cntrational	2011-10-04 01:04:27	2011-10-04 01:04:36
-8217	0x2019	’	2	2917148	qya	Átaremma i ëa han ëa · na aire esselya · aranielya na tuluva · na care indómelya cemende tambe Erumande : ámen anta síra ilaurëa massamma · ar ámen apsene úcaremmar sív’ emme apsenet tien i úcarer emmen. Álame tulya úsahtienna mal áme e telehta ulcullo : násie	betigre	2013-12-10 01:40:19	2013-12-10 01:40:19
+243	0xf3	ó	8	1148278	qya	Ata pólalmë tulë sinomë.	cntrational	2011-10-04 01:00:15	2011-10-04 01:00:23
+250	0xfa	ú	15	1152100	qya	Elen síla lúmenna yomentielmo.	cntrational	2011-10-05 00:11:07	2014-04-26 06:30:31
+8217	0x2019	’	2	3521897	qya	Et eärello endorena utúlien. Sinome maruvam ar hildinyar tenn’ Ambar-metta.	Braunberg	2014-09-27 03:32:48	2014-09-27 03:32:48
 57356	0xe00c		1	395028	qya	   	saeb	2010-05-28 04:49:53	2010-07-09 14:43:24
 57360	0xe010		1	395028	qya	   	saeb	2010-05-28 04:49:53	2010-07-09 14:43:24
 57361	0xe011		1	395028	qya	   	saeb	2010-05-28 04:49:53	2010-07-09 14:43:24

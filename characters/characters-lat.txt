@@ -1,131 +1,131 @@
-32	0x20	 	50126	7040948	lat	Molam qui vitat, farinam vitat.	iart61	2018-08-03 13:28:17	2018-08-03 13:28:17
-33	0x21	!	1139	10136891	lat	Liberate Catalauniam!	shekitten	2021-06-29 09:58:07	2021-06-29 09:58:07
-34	0x22	"	1099	6309045	lat	"Tibi enim adultero." "Quid est ei nomen?"	RudeGuyGames	2017-09-15 19:13:43	2017-09-15 19:13:43
+32	0x20	 	50295	5977324	lat	Quam stultus!	CarpeLanam	2017-03-25 18:54:35	\N
+33	0x21	!	1139	7350218	lat	"O si velles scribere mihi!" "Quidnam?"	carlosalberto	2018-10-27 17:18:52	2018-10-27 17:18:52
+34	0x22	"	1099	7491326	lat	"Ain' tu, pignori?" "Sic est ut dico."	carlosalberto	2018-11-21 17:05:36	2018-11-21 17:05:46
 35	0x23	#	1	11727526	lat	C# similis est Java.	soridsolid	2023-05-01 07:31:21	2023-05-01 07:31:21
 38	0x26	&	1	11141373	lat	Indus, Neronis Claudi Caesaris Augusti corporis custos, decuriae Secundi, natione batavus, vixit annos xxxvi, H.S.E. Posivit Eumenes frater & heres ejus ex collegio Germanorum.	SunnyMoon	2022-09-26 09:37:53	2022-09-26 10:06:39
-39	0x27	'	87	12349490	lat	Fefellin' te umquam?	soridsolid	2024-03-02 04:15:49	2024-03-02 04:16:03
-40	0x28	(	77	8016260	lat	Sic autem comedetis illum: renes vestros accingetis, calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter; est enim Pascha (id est Transitus) Domini!	carlosalberto	2019-07-02 15:02:58	2019-07-02 15:02:58
-41	0x29	)	79	7305902	lat	Arena et sabulam est comminutus lapis. Saxum est pars petrea (cautis). Cos, silex, marmor et cetera sunt lapides obscuri.	jimkillock	2018-10-17 19:30:33	2018-10-17 19:32:20
-43	0x2b	+	11	1184866	lat	Numerus praeselectorius Italiae est +39.	Hans07	2011-10-19 16:22:00	2011-10-19 16:22:00
-44	0x2c	,	6912	5122205	lat	Tutus es, si tecum sum.	alexmarcelo	2016-05-07 23:54:08	2016-05-07 23:54:08
-45	0x2d	-	59	1540239	lat	Erzsébet Szilágyi (1410-1483) animi magnitudine non modo prudentia severitate conscientia regnum administravit domum sed etiam magna ex parte.	Muelisto	2012-04-19 10:40:35	2012-04-22 18:58:02
-46	0x2e	.	41426	8457545	lat	Nulli manipulo lusorio faveo.	alexmarcelo	2020-01-16 12:46:07	2020-01-16 12:46:34
-47	0x2f	/	636	6827353	lat	Pereunt Hypanisque Dymasque, / confixi a sociis, nec te tua plurima, Panthu, / labentem pietas nec Apollinis infula texit.	carlosalberto	2018-04-09 14:22:23	2018-04-09 14:22:23
-48	0x30	0	18	10710080	lat	Hactenus plus locutionum Tatoebae additae sunt in lingua Toki Pona (46,500) quam in lingua latina (41,400).	carlosalberto	2022-03-09 11:00:23	2022-03-09 13:42:10
-49	0x31	1	25	7061195	lat	In expressione 2 × 5 = 10, 2 multiplicandus, 5 multiplicator, 10 productum vocatur.	alexmarcelo	2018-08-14 17:54:35	2018-08-14 17:54:46
-50	0x32	2	19	12170307	lat	Sri Ramana Maharshi (30.12.1879-14.04.1950), qui cancro mortuus est, cum discipuli eum interrogarent si dolorem aliquem sentiret, respondere solebat: Dolor est in corpore meo. Scripsit librum "Quis sum?"	carlosalberto	2023-11-20 20:12:50	2023-11-20 20:12:50
-51	0x33	3	19	3850113	lat	In principio anni MCMXCIV, Windows 3.1 uti coepimus.	alexmarcelo	2015-02-07 18:03:25	2018-08-24 04:42:26
-52	0x34	4	9	7061278	lat	Fractiones 1/2, 2/4, 4/8 aequales sunt.	alexmarcelo	2018-08-14 18:25:18	2018-08-14 18:25:18
-53	0x35	5	15	10652162	lat	51515 addidi sententias Lusitanae ad corpus Tatoeba.	carlosalberto	2022-01-31 13:46:13	2022-01-31 13:46:13
-54	0x36	6	8	7061085	lat	"Quomodo legitur numerus 123 456 789?" "Centum viginti et tres milliones, quadringenti quinquaginta et sex mille, septingenti octoginta et novem."	alexmarcelo	2018-08-14 16:59:14	2018-08-14 16:59:14
-55	0x37	7	10	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26
+39	0x27	'	88	6684755	lat	'Suspensi Eurypylum scitantem oracula Phœbi / mittimus; isque adytis hæc tristia dicta reportat: / "Sanguine placastis ventos et virgine cæsa, / cum primum Iliacas Danai venistis ad oras; / sanguine quærendi reditus, animaque litandum / Argolica."'	carlosalberto	2018-02-11 20:18:15	2019-02-09 20:51:35
+40	0x28	(	77	11058899	lat	In Toki Pona "telo" significat "aqua". Russice "тело" significat "corpus". Et aqua est principale corporis (humani) constitutio.	carlosalberto	2022-08-13 11:08:41	2022-08-13 11:08:41
+41	0x29	)	79	7355820	lat	Papillio est Eruca alata. Scarabans tegit alas Vaginis. Cicindela (Lampyris) noctu nitet.	jimkillock	2018-10-28 18:16:00	2018-10-28 18:16:00
+43	0x2b	+	11	7061092	lat	Signum '+' significat "plus".	alexmarcelo	2018-08-14 17:06:33	2018-08-14 17:06:33
+44	0x2c	,	6924	7755863	lat	Dixitque Abram: Domine Deus, quid dabis mihi? Ego vadam absque liberis, et heres domus meæ erit Damascenus Eliezer.	carlosalberto	2019-01-29 12:43:41	2019-02-01 18:14:52
+45	0x2d	-	59	7090243	lat	Nomina in -ον et -ων sunt neutrius generis.	alexmarcelo	2018-08-25 15:26:20	2018-08-25 15:26:20
+46	0x2e	.	41581	7966124	lat	Egressa est itaque de loco peregrinationis suæ cum utraque nuru et, iam in via posita revertendi in terram Iudæ.	carlosalberto	2019-06-08 18:45:02	2019-06-08 18:45:02
+47	0x2f	/	636	6551428	lat	"Sis felix, nostrumque leves, quæcumque, laborem, / et, quo sub cœlo tandem, quibus orbis in oris / jactemur, doceas".	carlosalberto	2017-12-12 00:18:50	2019-02-06 16:58:11
+48	0x30	0	18	10767931	lat	Thomas anno 2003 mortuus est.	soridsolid	2022-04-14 19:32:08	2022-04-14 19:32:08
+49	0x31	1	25	11005311	lat	Toki Pona vocabularium 123 vocum habet ex pluribus linguis derivatum.	carlosalberto	2022-07-19 10:56:52	2022-07-19 10:56:52
+50	0x32	2	19	7061183	lat	In expressione 5 - 3 = 2, 5 minuendus, 3 subtrahendus, 2 residuum vocatur.	alexmarcelo	2018-08-14 17:46:07	2018-08-14 17:46:07
+51	0x33	3	19	7061260	lat	Fractio 3/7 legitur "tres septimae partes".	alexmarcelo	2018-08-14 18:19:27	2018-08-14 18:19:27
+52	0x34	4	10	7061085	lat	"Quomodo legitur numerus 123 456 789?" "Centum viginti et tres milliones, quadringenti quinquaginta et sex mille, septingenti octoginta et novem."	alexmarcelo	2018-08-14 16:59:14	2018-08-14 16:59:14
+53	0x35	5	15	12074552	lat	Carmina 150 in Libro Psalmorum varietatem vocum motuumque humanorum significant, et inter plerosque versus in sacra volumina leguntur.	carlosalberto	2023-09-23 23:46:28	2023-09-23 23:46:28
+54	0x36	6	8	11004897	lat	A die 26 ad 28 Septembris 2015, novem homines ex quinque nationibus in Brunna (Res publica Bohemica) convenerunt, ut discere possent linguam Toki Pona uti. In hoc video in horto botanico universitatis sunt et de eo quod vident loquuntur.	carlosalberto	2022-07-19 09:26:42	2022-07-19 09:26:42
+55	0x37	7	10	7061070	lat	Numerus 37 significat tres decades et septem unitates.	alexmarcelo	2018-08-14 16:40:35	2018-08-14 16:40:35
 56	0x38	8	7	7061278	lat	Fractiones 1/2, 2/4, 4/8 aequales sunt.	alexmarcelo	2018-08-14 18:25:18	2018-08-14 18:25:18
-57	0x39	9	9	1474573	lat	Numerus praeselectorius Italiae +39 est.	Hans07	2012-03-08 14:59:07	2012-03-08 14:59:07
-58	0x3a	:	1093	10716057	lat	Iterum ergo locutus est eis Jesus, dicens: Ego sum lux mundi: qui sequitur me, non ambulat in tenebris, sed habebit lumen vitæ.	User103370	2022-03-13 06:34:43	2022-03-13 06:34:43
-59	0x3b	;	1036	7910626	lat	Dixit ergo Ioseph ad populos: En, ut cernitis, et vos et terram vestram pharao possidet; accipite semina et serite agros, ut fruges habere possitis. Quintam partem regi dabitis; quattuor reliquas permitto vobis in sementem et in cibum familiis et liberis vestris.	carlosalberto	2019-05-14 22:06:28	2019-05-14 22:06:28
-60	0x3c	<	3	7060215	lat	Expressio x < y denotat x maiorem esse quam y.	alexmarcelo	2018-08-14 04:32:59	2018-08-14 04:32:59
-61	0x3d	=	11	7060218	lat	Nota aequalitatis est '='.	alexmarcelo	2018-08-14 04:34:20	2018-08-14 04:34:20
+57	0x39	9	9	6904044	lat	Homines in annis 1960 sic dixerunt.	CarpeLanam	2018-05-21 15:54:50	2018-05-21 15:54:50
+58	0x3a	:	1093	3117238	lat	in se magna ruunt: laetis hunc numina rebus crescendi posuere modum.	mhenderson5	2014-03-22 18:57:11	2014-04-12 20:38:03
+59	0x3b	;	1038	7825859	lat	Sed pater vester circumvenit me et mutavit mercedem meam decem vicibus; et tamen non dimisit eum Deus, ut noceret mihi.	carlosalberto	2019-03-26 11:42:05	2019-03-26 11:42:05
+60	0x3c	<	3	7060207	lat	Expressio x < y indicat x minorem esse quam y.	alexmarcelo	2018-08-14 04:27:25	2018-08-14 04:27:30
+61	0x3d	=	11	7061195	lat	In expressione 2 × 5 = 10, 2 multiplicandus, 5 multiplicator, 10 productum vocatur.	alexmarcelo	2018-08-14 17:54:35	2018-08-14 17:54:46
 62	0x3e	>	1	7060208	lat	Expressio x > y indicat x maiorem esse quam y.	alexmarcelo	2018-08-14 04:27:44	2018-08-14 04:27:44
-63	0x3f	?	8945	9100922	lat	Potesne eos agnoscere?	soridsolid	2020-10-03 22:59:37	2020-10-03 22:59:37
+63	0x3f	?	8960	2169166	lat	Ubi Esperantice loqueris?	alexmarcelo	2013-01-26 20:34:48	2013-01-26 20:34:48
 64	0x40	@	2	1369930	lat	Quomodo signum "@" in lingua tua dicitur?	alexmarcelo	2012-01-18 20:28:02	2012-01-18 20:28:02
-65	0x41	A	4531	1107590	lat	Animalia sunt.	alexmarcelo	2011-09-15 20:35:08	2011-09-15 20:35:08
-66	0x42	B	1211	1022242	lat	E Britannia oriundus sum.	alexmarcelo	2011-08-05 00:32:01	2011-08-05 00:32:01
-67	0x43	C	3924	6636792	lat	Cur, quaeso domine, adhuc perfugae coram nobis sunt?	Reonaato	2018-01-29 16:45:16	2018-01-29 16:45:16
-68	0x44	D	4071	1508570	lat	De schola nostra ei narravi.	alexmarcelo	2012-03-29 23:55:58	2012-03-29 23:55:58
-69	0x45	E	3709	12145139	lat	Ego palatium habeo.	Rovo	2023-11-04 15:29:25	2023-11-04 15:29:25
-70	0x46	F	1742	5977151	lat	Fac aliquid!	CarpeLanam	2017-03-25 18:14:41	\N
-71	0x47	G	985	8907514	lat	Esne Germanus et tu?	alexmarcelo	2020-07-11 02:28:29	2020-07-11 02:28:29
-72	0x48	H	3200	9120217	lat	Hodie mane cum ea locutus sum.	soridsolid	2020-10-08 06:48:54	2020-10-08 06:48:54
-73	0x49	I	4209	6967192	lat	Invenistine lentes oculares tuas?	CarpeLanam	2018-06-28 03:28:20	2018-06-28 03:28:20
-74	0x4a	J	184	7024881	lat	Jam medio apparet fluctu nemorosa Zacynthos, / Dulichiumque, Sameque, et Neritos ardua saxis.	carlosalberto	2018-07-27 14:42:40	2018-07-27 14:42:40
-75	0x4b	K	63	7041548	lat	Hodie Kalendae Octobres sunt.	alexmarcelo	2018-08-03 18:26:54	2018-08-03 18:26:54
-76	0x4c	L	2014	5056763	lat	Ioannes, interrogatus a sacerdotibus et Levitis, negavit se esse Eliam.	alexmarcelo	2016-04-11 16:24:25	2016-04-11 16:24:41
-77	0x4d	M	4872	5223527	lat	Maria in nosocomio moritur.	alexmarcelo	2016-06-19 13:22:46	2016-06-19 13:22:46
-78	0x4e	N	4767	7745809	lat	Nolo facere id hodie.	Hans07	2019-01-22 17:30:54	2019-01-22 17:31:05
-79	0x4f	O	1262	10700163	lat	Ossa in pavimentum iacimus.	carlosalberto	2022-03-02 22:57:45	2022-03-02 22:57:45
-80	0x50	P	3893	11089134	lat	Pastam segmentātam amō.	alexmarcelo	2022-08-31 00:02:25	2022-08-31 00:02:31
-81	0x51	Q	4266	408349	lat	Q.E.D.	Liface	2010-06-20 10:01:28	2014-06-20 20:37:28
-82	0x52	R	1344	1203777	lat	Raedam ei dedit.	alexmarcelo	2011-10-29 00:43:41	2011-10-29 00:43:41
-83	0x53	S	3919	7869304	lat	Cumque fratres illius in pascendis gregibus patris morarentur in Sichem, dixit Israel ad Ioseph: Fratres tui pascunt oves in Sichimis; veni, mittam te ad eos.	carlosalberto	2019-04-25 14:25:52	2019-04-25 14:25:52
-84	0x54	T	7617	6016032	lat	Domus Tulii Hostilii de caelo tacta est.	alexmarcelo	2017-04-15 18:51:14	\N
-85	0x55	U	1612	10766161	lat	Unum tantum restat ut faciamus.	carlosalberto	2022-04-13 16:15:05	2022-04-13 16:15:05
-86	0x56	V	2150	8425727	lat	Vulnerabiles tamen sumus.	Vibius_Marcus	2020-01-03 14:58:45	2020-01-03 14:58:45
-87	0x57	W	12	1022275	lat	Wang vocor.	alexmarcelo	2011-08-05 00:52:49	2011-08-05 00:52:49
-88	0x58	X	91	8919485	lat	Pro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere arbitrabantur, qui in longitudinem milia passuum CCXL, in latitudinem CLXXX patebant.	tarob	2020-07-16 20:26:36	2020-07-16 20:26:36
-89	0x59	Y	16	1349300	lat	Nomen mihi est Yatarou.	alexmarcelo	2012-01-09 23:37:28	2012-01-09 23:37:28
-90	0x5a	Z	39	7024881	lat	Jam medio apparet fluctu nemorosa Zacynthos, / Dulichiumque, Sameque, et Neritos ardua saxis.	carlosalberto	2018-07-27 14:42:40	2018-07-27 14:42:40
+65	0x41	A	4538	5237680	lat	Angeli non sumus.	alexmarcelo	2016-06-26 18:25:07	2016-06-26 18:25:07
+66	0x42	B	1215	5090501	lat	Multos amicos Bostoniae habeo.	alexmarcelo	2016-04-27 23:26:36	2016-04-27 23:26:36
+67	0x43	C	3936	2136133	lat	Cur multi Catholici piscem Veneris diebus edunt?	alexmarcelo	2013-01-10 17:22:43	2013-01-10 17:22:47
+68	0x44	D	4080	7083647	lat	Dicunt eum aegrotare.	alexmarcelo	2018-08-23 20:57:23	2018-08-23 20:57:23
+69	0x45	E	3724	4761328	lat	Es tu Tom?	billt_estates	2015-12-12 19:16:43	2015-12-12 19:16:43
+70	0x46	F	1747	8066039	lat	Factum est ergo vespere, et ascendens coturnix operuit castra; mane quoque ros iacuit per circuitum castrorum.	carlosalberto	2019-07-20 19:08:55	2019-07-20 19:08:55
+71	0x47	G	986	5114734	lat	Gravida sum.	Wezel	2016-05-05 14:27:32	2016-05-05 14:27:32
+72	0x48	H	3215	2599506	lat	Haec magna sunt.	alexmarcelo	2013-07-18 05:26:56	2013-07-18 05:26:56
+73	0x49	I	4236	1200180	lat	In bibliopolio libros emit.	alexmarcelo	2011-10-27 04:09:06	2011-10-27 04:09:06
+74	0x4a	J	184	7744134	lat	Furtim igitur dant Mercurio mandata ad Jovem, afflictis ut succurrat.	carlosalberto	2019-01-21 13:21:24	2019-01-21 13:21:33
+75	0x4b	K	63	1273777	lat	Kati Wolf bona cantrix est.	alexmarcelo	2011-12-01 20:34:27	2011-12-01 20:34:27
+76	0x4c	L	2016	5037522	lat	Cometes Halleyanus anno MMLXI revertetur.	alexmarcelo	2016-04-04 05:38:45	2016-04-04 05:38:49
+77	0x4d	M	4886	8457346	lat	Me interpellatis.	alexmarcelo	2020-01-16 11:57:12	2020-01-16 16:07:27
+78	0x4e	N	4778	7710509	lat	Num gravis es?	CarpeLanam	2019-01-10 15:22:33	2019-01-10 15:22:33
+79	0x4f	O	1271	1264159	lat	Ovi simile est.	alexmarcelo	2011-11-26 14:12:20	2011-11-26 14:12:20
+80	0x50	P	3899	2217769	lat	Piger es!	alexmarcelo	2013-02-13 08:11:44	2013-02-13 08:11:44
+81	0x51	Q	4274	4995383	lat	Quid Thomas dixit?	Hans07	2016-03-20 19:41:06	2016-04-24 14:40:53
+82	0x52	R	1349	4980324	lat	Religiones mendacionibus plenae sunt.	Discipulus	2016-03-16 06:18:58	2016-03-16 06:18:58
+83	0x53	S	3930	10709296	lat	Suntne plures portae vel fenestrae in terra?	carlosalberto	2022-03-08 20:00:59	2022-03-08 20:00:59
+84	0x54	T	7649	9203527	lat	Thomas satis cibi non habet.	soridsolid	2020-10-29 02:24:07	2020-10-29 02:24:07
+85	0x55	U	1615	7973138	lat	Ubi amica tua?	CarpeLanam	2019-06-11 15:13:33	2019-06-11 15:13:33
+86	0x56	V	2151	8915711	lat	Viri sunt.	alexmarcelo	2020-07-14 15:37:43	2020-07-14 15:37:45
+87	0x57	W	12	7308833	lat	Aderat quidam Anglus, qui promittebat aureos montes virgini Walsinghamicae, si attigisset terram vivus.	jimkillock	2018-10-18 18:54:20	2018-10-18 18:56:09
+88	0x58	X	91	7080518	lat	Maxime verisimile est, Homerum vixisse saeculo a. C. n. X. exeunte.	alexmarcelo	2018-08-22 18:13:20	2018-08-22 18:13:20
+89	0x59	Y	16	1022271	lat	Yamada vocor.	alexmarcelo	2011-08-05 00:52:02	2011-08-05 00:52:02
+90	0x5a	Z	39	1225629	lat	Scisne linguam Zamenhofianam?	Hans07	2011-11-08 16:51:52	2011-11-08 16:51:52
 94	0x5e	^	1	8598497	lat	Quid est derivativum ex e^x?	whatzitdoe	2020-03-06 18:08:29	2020-03-06 18:08:29
-97	0x61	a	42508	9769489	lat	Thomas latrocinatur.	soridsolid	2021-02-16 15:53:55	2021-02-16 15:53:55
-98	0x62	b	17372	1337595	lat	Cras in Canadam ibo.	alexmarcelo	2012-01-04 16:55:32	2020-02-03 05:26:34
-99	0x63	c	29321	10606987	lat	Hypothesis alicuius programmatis ad operandum capax conscientiae plene excluditur.	carlosalberto	2022-01-05 02:41:57	2022-01-05 02:41:57
-100	0x64	d	24383	5126871	lat	Usque eo stetit, quoad assidere iussus fuit.	alexmarcelo	2016-05-10 00:57:57	2016-05-10 00:57:57
-101	0x65	e	46273	7054721	lat	Carmen recitavit.	alexmarcelo	2018-08-10 20:32:28	2018-08-10 20:32:28
-102	0x66	f	9495	7932131	lat	Nomen vero fluminis tertii Tigris: ipse vadit ad orientem Assyriæ. Fluvius autem quartus ipse est Euphrates.	carlosalberto	2019-05-24 23:27:40	2019-05-24 23:27:40
-103	0x67	g	10714	7966608	lat	Quæ respondit: Noli instare mihi, ut relinquam te et abeam; quocumque perrexeris, pergam; ubi morata fueris, et ego pariter morabor: populus tuus populus meus et Deus tuus Deus meus. Quæ te morientem terra susceperit, in ea moriar ibique locum accipiam sepulturæ. Hæc mihi faciat Dominus et hæc addat, si non sola mors me et te separaverit.	carlosalberto	2019-06-08 21:35:26	2019-06-08 22:00:53
-104	0x68	h	15484	5052222	lat	Thomas domi solus non erat.	alexmarcelo	2016-04-09 13:52:26	2016-04-09 13:52:30
-105	0x69	i	44504	1490359	lat	Quid dicere possum?	alexmarcelo	2012-03-16 23:59:18	2012-03-16 23:59:18
-106	0x6a	j	440	6823579	lat	Hic primum ex alto delubri culmine telis / nostrorum obruimur, oriturque miserrima cædes / armorum facie et Graiarum errore jubarum.	carlosalberto	2018-04-07 01:48:51	2019-02-09 22:32:42
-107	0x6b	k	221	5064966	lat	Pekini nata est.	alexmarcelo	2016-04-15 08:32:56	2016-04-16 16:42:57
-108	0x6c	l	26692	5163004	lat	Oblitus sum quid dixeris.	alexmarcelo	2016-05-24 18:09:06	2016-05-24 18:09:06
-109	0x6d	m	38646	7007371	lat	Caecus caecum ducet in foveam.	iart61	2018-07-20 16:42:05	2018-07-20 16:42:05
-110	0x6e	n	35685	9705680	lat	Prae tibi in hoc ludo modo tiro sum.	soridsolid	2021-01-31 00:55:17	2021-01-31 00:55:17
-111	0x6f	o	35803	8596824	lat	Sidendo assuefacta est.	whatzitdoe	2020-03-06 02:00:44	2020-03-06 02:01:39
-112	0x70	p	19718	1586852	lat	Estne cubiculum mihi purgandum?	alexmarcelo	2012-05-23 03:03:30	2012-05-23 03:03:30
-113	0x71	q	9798	7048118	lat	Feci quod potui, faciant meliora potentes.	iart61	2018-08-07 13:10:11	2018-08-07 13:10:11
-114	0x72	r	35826	10301066	lat	Bostonia est urbs periculosa.	soridsolid	2021-09-17 14:36:21	2021-09-17 14:36:21
-115	0x73	s	42892	1322078	lat	Musae genus pomi sunt.	alexmarcelo	2011-12-25 21:23:44	2011-12-25 21:23:44
-116	0x74	t	43683	5026411	lat	Iam scio ubi sit.	alexmarcelo	2016-03-31 05:33:48	2016-03-31 05:33:48
-117	0x75	u	41402	11089148	lat	Nōlīte clāmāre, quaesō!	alexmarcelo	2022-08-31 00:10:56	2022-09-01 01:19:04
-118	0x76	v	15331	2577734	lat	Haec arbor vere multos magnosque fructus edit.	alexmarcelo	2013-07-09 06:23:05	2013-07-09 06:23:05
-119	0x77	w	12	4701609	lat	Didymus systemate Windows 7 utitur.	sicerabibax	2015-11-15 00:19:29	2015-11-15 00:19:29
-120	0x78	x	5073	7420378	lat	Quando expectas reditum patris?" "Ad octavum diem hinc."	carlosalberto	2018-11-05 18:00:27	2018-11-05 18:00:27
-121	0x79	y	1858	7906538	lat	Ait illi: Ego sum Deus, Deus patris tui. Noli timere descendere in Aegyptum, quia in gentem magnam faciam te ibi.	carlosalberto	2019-05-13 12:47:13	2019-05-13 12:47:13
-122	0x7a	z	148	7858421	lat	Iacob autem dixit ad Simeon et Levi: Turbastis me et odiosum fecistis me Chananæis et Pherezæis habitatoribus terræ huius. Nos pauci sumus; illi congregati percutient me, et delebor ego et domus mea.	carlosalberto	2019-04-18 17:50:11	2019-04-18 17:50:46
-160	0xa0	 	5	11164253	lat	Homo: sicut fenum dies eius, / tamquam flos agri sic efflorebit. / Spirat ventus in illum, et non subsistet, / et non cognoscet eum amplius locus eius.	Pfirsichbaeumchen	2022-10-08 11:41:13	2022-10-08 11:41:13
-171	0xab	«	7	10512516	lat	« Intellēxistī? » « Plūs minus. »	Akenaseryan	2021-11-16 18:58:49	2021-11-16 18:58:49
-173	0xad	­	8	7786801	lat	Deinde sepelivit Abraham Saram uxorem suam in spelunca agri Machpela, qui respiciebat Mambre hæc est Hebron­ in terra Chanaan.	carlosalberto	2019-02-23 19:12:36	2019-02-23 19:22:38
-183	0xb7	·	6	786617	lat	NVM·​EST·​FILIVS·​TVVS·​BETTY	BraveSentry	2011-03-09 23:05:51	2011-03-09 23:06:53
-187	0xbb	»	7	11784542	lat	« Libertas, aequalitas, fraternitas » exemplum est tripartitae sententiae.	carlosalberto	2023-05-22 20:10:15	2023-05-27 17:42:05
-198	0xc6	Æ	2	786501	lat	LINGVA·​QVALIBET·​SCRIBERE·​POTES·​LINGVÆ·​OMNES·​IN·​TATOEBA·​ÆQVÆ·​SVNT	BraveSentry	2011-03-09 22:16:45	2011-03-12 23:31:10
+97	0x61	a	42662	11084774	lat	Plures peccare etiam saepius quam unum possunt.	carlosalberto	2022-08-28 14:21:58	2022-08-28 14:21:58
+98	0x62	b	17419	9112791	lat	Putabam me omnia responsa habere.	soweli_Elepanto	2020-10-06 09:33:42	2020-10-06 09:33:42
+99	0x63	c	29414	10700163	lat	Ossa in pavimentum iacimus.	carlosalberto	2022-03-02 22:57:45	2022-03-02 22:57:45
+100	0x64	d	24454	1368265	lat	Hodie ninguet.	alexmarcelo	2012-01-18 02:50:01	2012-01-18 02:50:01
+101	0x65	e	46438	7264623	lat	Num debes facere id?	soweli_Elepanto	2018-10-07 19:00:39	2018-10-07 19:00:44
+102	0x66	f	9569	7916485	lat	Applicitosque ad se deosculatus et circumplexus eos dixit ad filium suum: Non sum fraudatus aspectu tuo; insuper ostendit mihi Deus semen tuum.	carlosalberto	2019-05-17 15:44:06	2019-05-17 15:44:06
+103	0x67	g	10739	9130588	lat	Interrete utor ad versandum in negotio.	soridsolid	2020-10-10 15:33:38	2020-10-10 15:33:38
+104	0x68	h	15554	5875258	lat	Thomas est maximus natu.	alexmarcelo	2017-02-17 03:05:28	2017-02-17 03:05:28
+105	0x69	i	44665	5046114	lat	Thoman adiuturus sum.	alexmarcelo	2016-04-06 20:05:49	2016-04-06 20:05:49
+106	0x6a	j	443	5023443	lat	"Aliquid Gallice dic." "Quid?" "Quidquid convenit." "Bonjour. Merci. Aliquid dixi." "Quam molestus es!" "Nonne dixisti quidquid conventurum fuisse?"	alexmarcelo	2016-03-30 00:04:26	2016-03-30 00:05:48
+107	0x6b	k	221	2585585	lat	Cum duodeviginti annos nata esset, Tokium venit.	alexmarcelo	2013-07-12 03:58:25	2013-07-12 03:58:25
+108	0x6c	l	26771	9073591	lat	Heri cum Thoma locutus sum.	soridsolid	2020-09-26 02:28:47	2020-09-26 02:28:47
+109	0x6d	m	38781	11139226	lat	Ubi raedam statuimus?	alexmarcelo	2022-09-25 13:06:36	2022-09-25 13:06:36
+110	0x6e	n	35769	533818	lat	Ceterum censeo Carthaginem esse delendam.	samueldora	2010-09-26 08:52:43	2010-09-26 08:58:35
+111	0x6f	o	35936	2846850	lat	Ego dilecto meo, et ad me conversio eius.	carlosalberto	2013-11-13 14:35:32	2013-11-13 14:35:32
+112	0x70	p	19786	8452722	lat	Etiam nunc apud parentes habito.	alexmarcelo	2020-01-15 05:37:18	2020-01-15 05:37:18
+113	0x71	q	9827	10812291	lat	Natalis huius actoris Americani - ante diem quartum nonnas Iulias.	carlosalberto	2022-05-08 11:17:59	2022-05-08 12:32:23
+114	0x72	r	35956	7031154	lat	Cur hostibus in fugam se dandi facultatem concessisti?	alexmarcelo	2018-07-30 04:13:37	2018-07-30 04:13:37
+115	0x73	s	43045	11497122	lat	Esther in kibbutz nata est.	shekitten	2023-01-30 16:26:41	2023-01-30 16:26:41
+116	0x74	t	43840	3592382	lat	Estne Aemilia femina Graeca?	soweli_Elepanto	2014-10-29 20:22:56	2014-10-29 20:22:56
+117	0x75	u	41547	1213627	lat	Statio prope deversorium est.	alexmarcelo	2011-11-02 22:47:25	2011-11-02 22:47:25
+118	0x76	v	15380	12087058	lat	Solum lava est.	shekitten	2023-09-29 12:17:28	2023-09-29 12:17:28
+119	0x77	w	12	7083779	lat	Placetne tibi Schweppes?	alexmarcelo	2018-08-23 21:41:35	2018-08-23 21:41:35
+120	0x78	x	5090	5053028	lat	Inter se amplexi sunt.	alexmarcelo	2016-04-09 19:45:15	2016-04-09 19:45:22
+121	0x79	y	1860	8070644	lat	In die autem sexta collegerunt cibos duplices, id est duo gomor per singulos homines. Venerunt autem omnes principes congregationis et narraverunt Moysi.	carlosalberto	2019-07-22 19:40:11	2019-07-22 19:40:11
+122	0x7a	z	148	6131210	lat	Iesus ad Iordanem adiit ut ab Iohanne baptizaretur.	alexmarcelo	2017-06-05 12:15:30	\N
+160	0xa0	 	5	11177640	lat	Caritas patiens est, benigna est caritas, non aemulatur, non agit superbe, non inflatur, / non est ambitiosa, non quaerit, quae sua sunt, non irritatur, non cogitat malum, / non gaudet super iniquitatem, congaudet autem veritati; / omnia suffert, omnia credit, omnia sperat, omnia sustinet.	Pfirsichbaeumchen	2022-10-14 17:03:18	2022-10-14 17:03:18
+171	0xab	«	7	11033310	lat	« Qui nescit, scire non potest », ait S. Augustinus.	AmarMecheri	2022-07-29 23:38:50	2022-07-29 23:38:50
+173	0xad	­	8	7931867	lat	Sed fons ascendebat e terra irrigans universam superficiem terræ. ­ ­	carlosalberto	2019-05-24 20:13:32	2019-05-24 20:13:32
+183	0xb7	·	6	789547	lat	OSORES·​ODIENT	BraveSentry	2011-03-12 01:02:23	2011-03-12 01:02:34
+187	0xbb	»	7	10611459	lat	Quid est simpliciter mysterium huius loci qui « hic » appellatur?	carlosalberto	2022-01-07 17:51:24	2022-01-07 22:10:24
+198	0xc6	Æ	2	11206898	lat	Ahmedus in Ægyptō habitat.	janTuki	2022-10-25 19:53:20	2022-10-25 19:53:20
 201	0xc9	É	1	8808988	lat	Ébrius est.	jimkillock	2020-06-01 07:47:25	2020-06-01 07:47:25
 215	0xd7	×	2	7061195	lat	In expressione 2 × 5 = 10, 2 multiplicandus, 5 multiplicator, 10 productum vocatur.	alexmarcelo	2018-08-14 17:54:35	2018-08-14 17:54:46
 224	0xe0	à	2	12005917	lat	Nemo impetrare potest à Papa bullam nunquam moriendi.	Fenrir	2023-08-20 12:35:41	2023-08-20 12:35:41
-225	0xe1	á	37	8790326	lat	Sine írá et carítáte.	jimkillock	2020-05-25 14:35:51	2020-05-25 14:35:51
+225	0xe1	á	37	8790349	lat	Fécit sine írá et sine carítáte.	jimkillock	2020-05-25 14:43:59	2020-05-25 14:43:59
 226	0xe2	â	1	7366469	lat	Causam itaque pulcherrimam hac certâ fiduciâ lati aggrediamur ; illinc fraudem, fallaeciam, ignorantiam, atque; barbariem; hinc lucem, veritatem, rationem, et seculorum ommium optimorum studia, atque; doctrinam nobiscum stare.	jimkillock	2018-10-31 20:07:03	2018-10-31 20:07:03
 227	0xe3	ã	1	11027009	lat	Vocābulum "mão" ūnam syllabam habet.	alexmarcelo	2022-07-26 19:52:43	2022-07-26 19:52:43
-230	0xe6	æ	1328	7956348	lat	Exspectavitque nihilominus septem alios dies; et emisit columbam, quæ non est reversa ultra ad eum.	carlosalberto	2019-06-03 19:39:52	2019-06-03 19:39:52
+230	0xe6	æ	1328	7770946	lat	Dixitque de Sara uxore sua: "Soror mea est". Misit ergo Abimelech rex Geraræ et tulit eam.	carlosalberto	2019-02-10 12:41:56	2019-02-10 12:42:40
 232	0xe8	è	3	7366571	lat	Rex facilè possit, ut neque pater sit, neque rex.	jimkillock	2018-10-31 20:30:49	2018-10-31 20:30:53
-233	0xe9	é	45	8803455	lat	Júppiter! Péram meam oblítus sum.	jimkillock	2020-05-30 12:12:12	2020-05-30 12:15:00
-235	0xeb	ë	12	6485653	lat	Illi se prædæ accingunt dapibusque futuris: / tergora deripiunt costis et viscera nudant; / pars in frusta secant veribusque trementia figunt; / litore aëna locant alii flammasque ministrant.	carlosalberto	2017-11-27 17:47:14	2019-02-06 16:35:56
+233	0xe9	é	45	8839286	lat	Vincula nón timémus.	jimkillock	2020-06-13 10:29:32	2020-06-13 10:29:32
+235	0xeb	ë	12	6550986	lat	Volat ille per aëra magnum / remigio alarum ac Libyæ citus adstitit oris.	carlosalberto	2017-12-11 16:28:17	2019-02-06 16:51:18
 236	0xec	ì	1	10834805	lat	"Il nonno e la nonna hanno sempre vissuto in questa città?" "Sì, e anche i loro antenati."	carlosalberto	2022-05-16 21:07:10	2022-05-16 21:07:10
-237	0xed	í	46	8827053	lat	Estne vívárium in urbe?	jimkillock	2020-06-08 08:33:21	2020-06-08 09:08:32
+237	0xed	í	46	8783551	lat	Vídistíne acta díurna hodierna?	jimkillock	2020-05-23 11:14:19	2020-05-23 11:15:33
 239	0xef	ï	1	6473456	lat	"Sunt mihi bis septem præstanti corpore Nymphæ, / quarum, quæ forma pulcherrima Deïopea, / connubio jungam stabili propriamque dicabo, / omnes ut tecum meritis pro talibus annos / exigat, et pulchra faciat te prole parentem."	carlosalberto	2017-11-19 15:08:00	2019-02-06 15:35:10
 242	0xf2	ò	1	7366873	lat	O meritò quidem te ex jurisconsulto Grammaticum!	jimkillock	2018-10-31 21:31:01	2018-10-31 21:31:01
-243	0xf3	ó	47	8838160	lat	Placetne Thomae hic labóráre?	jimkillock	2020-06-12 21:19:01	2020-06-12 21:19:01
+243	0xf3	ó	47	8803479	lat	Nón vidémus manticae quid in tergó est.	jimkillock	2020-05-30 12:28:02	2020-05-30 12:28:02
 249	0xf9	ù	2	12017292	lat	Il tronco del pero è più grande di quello del susino.	carlosalberto	2023-08-26 13:13:54	2023-08-26 13:13:54
-250	0xfa	ú	18	8837088	lat	Cur Latíné loquí oportet, cum Rómání iamdiú mortuí sint?	jimkillock	2020-06-12 08:15:09	2020-06-12 08:15:09
+250	0xfa	ú	18	8839320	lat	Dícó nimiam lúxuriam iamnunc cívitátí inesse.	jimkillock	2020-06-13 11:10:17	2020-06-13 11:10:17
 253	0xfd	ý	2	8783061	lat	Cotídié orýzam edó.	jimkillock	2020-05-23 07:32:16	2020-05-23 07:35:37
-256	0x100	Ā	11	7037374	lat	Elephantēs Āfricānī māiōres sunt quam Asiāticī.	alexmarcelo	2018-08-01 17:19:48	2023-06-02 17:06:02
-257	0x101	ā	1891	5253616	lat	Mālum lavabo.	sicerabibax	2016-07-05 12:50:04	2016-07-05 12:50:04
-274	0x112	Ē	15	1894075	lat	Ē Sīnīs oriunda sum.	alexmarcelo	2012-10-05 02:10:18	2022-09-16 18:10:38
-275	0x113	ē	1953	11137940	lat	Cūr vēnistis?	alexmarcelo	2022-09-24 22:39:36	2022-09-24 22:39:36
-277	0x115	ĕ	2	588362	lat	Ut sementem fecĕris, ita metes.	leyla	2010-10-27 06:59:03	2010-10-27 06:59:03
+256	0x100	Ā	11	11067728	lat	Ābrahām quis fuit?	alexmarcelo	2022-08-18 03:18:42	2022-08-18 03:18:42
+257	0x101	ā	1892	11094490	lat	Invēnī imāginem photographicam, quam quaerēbās.	alexmarcelo	2022-09-03 12:11:41	2022-09-03 12:11:41
+274	0x112	Ē	15	11069433	lat	Ēbrius es?	alexmarcelo	2022-08-19 00:38:42	2022-08-19 00:38:42
+275	0x113	ē	1953	11108128	lat	Sciō Thōman tē vulnerāvisse.	alexmarcelo	2022-09-10 12:04:57	2022-09-10 12:04:57
+277	0x115	ĕ	2	1151573	lat	Ut sementem fecĕris, ita et metes.	Roggy	2011-10-04 18:16:29	2011-10-04 18:16:29
 292	0x124	Ĥ	1	7108484	lat	Ĥ littera rarissima est in lingua Esperantica.	alexmarcelo	2018-08-31 22:31:36	2018-08-31 22:31:36
-298	0x12a	Ī	13	5045794	lat	Īnstrūmenta nostra dēlēta sunt.	alexmarcelo	2016-04-06 18:13:07	2022-08-30 13:21:15
-299	0x12b	ī	1990	11139450	lat	Ubi eōs cremāvistī?	alexmarcelo	2022-09-25 13:30:06	2022-09-25 13:30:06
-301	0x12d	ĭ	2	3278929	lat	Mavultisne mālum aut pĭrum ?	sicerabibax	2014-05-26 17:49:34	2014-05-26 17:49:34
+298	0x12a	Ī	13	10810260	lat	Īnfāns nōnnūllōs gradūs ad mātrem versus fēcit.	alexmarcelo	2022-05-07 11:24:03	2022-05-07 11:24:03
+299	0x12b	ī	1990	11043096	lat	Dīves clārusque fierī volō.	alexmarcelo	2022-08-04 19:40:38	2022-08-04 19:40:38
+301	0x12d	ĭ	2	3278926	lat	Mavisne mālum aut pĭrum ?	sicerabibax	2014-05-26 17:45:50	2014-05-26 17:45:50
 304	0x130	İ	1	7987987	lat	İs quiete risit.	abdullahkasit	2019-06-19 13:58:06	2019-06-19 13:58:06
 308	0x134	Ĵ	1	7108485	lat	Ŝ et Ĵ litterae rarissimae sunt in lingua Esperantica, sed Ŝ non tam rara est quam Ĵ.	alexmarcelo	2018-08-31 22:32:26	2018-08-31 22:32:26
-332	0x14c	Ō	4	11088528	lat	Ōstium patēbit.	alexmarcelo	2022-08-30 19:14:06	2022-08-30 19:14:06
-333	0x14d	ō	2229	11068376	lat	Num tōtum lībum edet?	alexmarcelo	2022-08-18 12:17:48	2022-08-18 12:17:48
-339	0x153	œ	172	6921750	lat	Feror huc, et litore curvo / mœnia prima loco, fatis ingressus iniquis, / Aeneadas meo nomen de nomine fingo.	carlosalberto	2018-05-30 13:29:34	2019-03-07 13:04:34
+332	0x14c	Ō	4	11021527	lat	Ōstium claudī audīvī.	alexmarcelo	2022-07-25 00:32:13	2022-07-25 00:32:13
+333	0x14d	ō	2229	7073137	lat	Quō Thōman dīmīsistī?	alexmarcelo	2018-08-20 01:19:58	2022-09-24 23:17:21
+339	0x153	œ	172	7966226	lat	Et osculata est eas. Quæ elevata voce flere cœperunt.	carlosalberto	2019-06-08 19:26:39	2019-06-08 19:26:39
 348	0x15c	Ŝ	2	6737055	lat	Ŝi perdis la malmultan monon, kiun ŝi havis.	Hans07	2018-03-05 13:18:50	2018-03-05 13:18:50
 349	0x15d	ŝ	1	6737055	lat	Ŝi perdis la malmultan monon, kiun ŝi havis.	Hans07	2018-03-05 13:18:50	2018-03-05 13:18:50
-362	0x16a	Ū	7	11078243	lat	Ūmidus sum.	alexmarcelo	2022-08-25 03:09:07	2022-08-25 03:09:07
-363	0x16b	ū	640	11139424	lat	Ubi eōs pūrgāvistī?	alexmarcelo	2022-09-25 13:28:01	2022-09-25 13:28:01
+362	0x16a	Ū	7	10522702	lat	Ūsque ad lūcem dormīvī.	Akenaseryan	2021-11-22 07:27:07	2021-11-22 07:27:07
+363	0x16b	ū	640	10803860	lat	Magna avis in caelō volat, mergitur, unguibus ūtitur, bēstiolam capit, rūrsus in āera surgit.	alexmarcelo	2022-05-04 18:36:36	2022-05-04 18:36:36
 509	0x1fd	ǽ	1	824176	lat	Credo in unum Deum, Patrem omnipoténtem, factórem cǽli et terræ, visibílium ómnium et invisibílium.	RaspaKrusto	2011-04-04 17:47:34	2011-04-04 17:47:45
 563	0x233	ȳ	6	1057509	lat	Agricolae orȳzam serēbant.	alexmarcelo	2011-08-21 19:28:19	2022-10-01 18:41:31
-916	0x394	Δ	2	3578261	lat	"Δ" littera graeca est.	soweli_Elepanto	2014-10-24 19:31:05	2014-10-24 19:31:05
+916	0x394	Δ	2	3578267	lat	"Δ" et "Σ" sunt litterae Graecae.	soweli_Elepanto	2014-10-24 19:34:34	2014-10-24 19:34:34
 925	0x39d	Ν	1	4807820	lat	Nancy? Νάνκυ? Quis est?	sicerabibax	2016-01-03 14:35:54	2016-01-03 14:35:54
 931	0x3a3	Σ	1	3578267	lat	"Δ" et "Σ" sunt litterae Graecae.	soweli_Elepanto	2014-10-24 19:34:34	2014-10-24 19:34:34
 940	0x3ac	ά	1	4807820	lat	Nancy? Νάνκυ? Quis est?	sicerabibax	2016-01-03 14:35:54	2016-01-03 14:35:54
@@ -138,14 +138,14 @@
 1083	0x43b	л	1	11058899	lat	In Toki Pona "telo" significat "aqua". Russice "тело" significat "corpus". Et aqua est principale corporis (humani) constitutio.	carlosalberto	2022-08-13 11:08:41	2022-08-13 11:08:41
 1086	0x43e	о	1	11058899	lat	In Toki Pona "telo" significat "aqua". Russice "тело" significat "corpus". Et aqua est principale corporis (humani) constitutio.	carlosalberto	2022-08-13 11:08:41	2022-08-13 11:08:41
 1090	0x442	т	1	11058899	lat	In Toki Pona "telo" significat "aqua". Russice "тело" significat "corpus". Et aqua est principale corporis (humani) constitutio.	carlosalberto	2022-08-13 11:08:41	2022-08-13 11:08:41
-8203	0x200b	​	6	786575	lat	BETTY·​NECAVIT·​OMNES	BraveSentry	2011-03-09 22:52:31	2011-03-09 22:54:55
+8203	0x200b	​	6	789547	lat	OSORES·​ODIENT	BraveSentry	2011-03-12 01:02:23	2011-03-12 01:02:34
 8211	0x2013	–	19	11661842	lat	Mater tua sum. Mihi te parere oportet – nec dubitare.	RudeGuyGames	2023-04-06 19:53:10	2023-04-06 19:53:10
-8212	0x2014	—	10	4288940	lat	Venit, vidit — et nil dixit.	lipao	2015-06-20 09:43:51	2015-07-25 13:01:00
+8212	0x2014	—	10	7011561	lat	Cuique est sententia—series verborum—eum potens destruere … alia est sententia, alia verborum series, quae sanet.	RudeGuyGames	2018-07-22 15:55:31	2018-07-22 15:55:31
 8213	0x2015	―	1	8870228	lat	Dic mihi voluntatem tuam. Hanc plebo― dixit Alexander Magnus Diogeni. ―Nihil requiro― respondit sophus. ―Si vis tamen mihi placere, noli solem mihi obscurare.	shekitten	2020-06-24 15:38:09	2020-09-08 11:42:36
 8216	0x2018	‘	2	3117252	lat	non est, crede mihi, sapientis dicere ‘vivam’: sera nimis vita est crastina: vive hodie.	mhenderson5	2014-03-22 19:00:22	2014-03-22 19:00:22
 8217	0x2019	’	2	3117252	lat	non est, crede mihi, sapientis dicere ‘vivam’: sera nimis vita est crastina: vive hodie.	mhenderson5	2014-03-22 19:00:22	2014-03-22 19:00:22
-8220	0x201c	“	134	7812978	lat	Videns autem Esau quod benedixisset pater suus Iacob et misisset eum in Paddanaram, ut inde uxorem duceret, et quod post benedictionem præcepisset ei dicens: “Non accipies uxorem de filiabus Chanaan”, quodque obœdiens Iacob parentibus suis isset in Paddanaram; probans quoque quod non libenter aspiceret filias Chanaan pater suus.	carlosalberto	2019-03-16 10:08:54	2019-03-16 10:08:54
-8221	0x201d	”	139	7876590	lat	Accidit autem quadam die, ut intraret Ioseph domum et opus suum absque arbitris faceret; illa, apprehensa lacinia vestimenti eius, dixit: “Dormi mecum”. Qui, relicto in manu illius pallio, fugit et egressus est foras.	carlosalberto	2019-04-29 13:33:22	2019-04-29 13:33:22
+8220	0x201c	“	134	7848540	lat	“Quænam sunt, inquit, istæ turmæ, quas obvias habui?” Respondit: “Ut invenirem gratiam coram domino meo”.	carlosalberto	2019-04-12 18:57:49	2019-04-12 18:57:49
+8221	0x201d	”	139	7865611	lat	Apparuit iterum Deus Iacob, postquam reversus est de Paddanaram, benedixitque ei dicens: "Non vocaberis ultra Iacob, sed Israel erit nomen tuum”, et appellavit eum Israel.	carlosalberto	2019-04-22 21:28:35	2019-04-22 21:28:35
 8230	0x2026	…	2	1336074	lat	In lingua mea, "," virgula vocatur, ";" punctum et virgula vocatur, ":" duo puncta vocatur, "…" puncta reticentiae vocatur, et haec sententia puncto finitur.	alexmarcelo	2012-01-03 22:04:09	2012-01-03 22:41:18
 8239	0x202f	 	1	5052953	lat	Quid scrīpsistī ?	Wezel	2016-04-09 19:22:38	2016-04-09 19:29:06
 10140	0x279c	➜	1	12197823	lat	Algebra elementaria: a) sit x numerus sententiarum in lingua galiciana; b) sit x + 700 numerus sententiarum in lingua dacoromanica; c) hodie x + 700 = 2x; d) quid valeat ipsius x? Solutio: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusio: hodie sunt 700 propositiones in galiciana et 1,400 sententiae dacoromanicae.	carlosalberto	2023-12-06 19:48:26	2023-12-06 19:48:26

@@ -1,132 +1,132 @@
-32	0x20	 	182735	10005786	nld	Yanni heeft gekookt.	Micsmithel	2021-05-03 16:22:20	2021-05-03 16:22:20
-33	0x21	!	7015	11907817	nld	Ik schreeuw niet!	Slam4	2023-07-05 10:10:43	2023-07-05 10:10:43
-34	0x22	"	1521	11820961	nld	"Zet dit alsjeblieft bovenop." "Bovenop wat?"	Micsmithel	2023-06-04 16:47:57	2023-06-04 16:47:57
+32	0x20	 	182845	6052450	nld	Dit huis heeft een open keuken.	Mandalay	2017-05-02 17:21:28	\N
+33	0x21	!	7019	11833642	nld	Hoe nerveus is iedereen geworden!	PaulP	2023-06-09 18:57:57	2023-06-09 18:57:57
+34	0x22	"	1524	11225044	nld	Hij schraapte zijn keel, en zei: "Ik hou van Tatoeba!".	SunnyMoon	2022-11-03 11:45:43	2022-11-03 11:45:43
 35	0x23	#	2	11219396	nld	Hoe komt dat Tom een gepensioneerde tandarts is zoals getoond in zin #2957020, als al lang geleden in zin #1026235 is onthuld dat hij op jonge leeftijd stierf?	SunnyMoon	2022-10-31 12:12:29	2022-10-31 12:12:29
-36	0x24	$	11	7794486	nld	Hij keerde terug naar de apotheek, vond de machine, goot het staal in en stortte de $10,00.	Micsmithel	2019-03-02 23:50:31	2019-03-02 23:50:31
-37	0x25	%	50	5128796	nld	Meer dan 75 % van de boerderijen kweekten varkens en melkkoeien.	PaulP	2016-05-10 18:50:02	2016-05-10 18:50:36
-38	0x26	&	4	11162744	nld	Laten we dit afspreken: als u de opdracht van Müller & Söhne GmbH binnenhaalt, krijgt u de lening. Ik zal me er persoonlijk voor inzetten. Maar als u het contract niet krijgt, dan spijt het me.	Micsmithel	2022-10-07 16:58:36	2022-10-07 16:58:36
-39	0x27	'	2104	9234005	nld	Beiden zijn mijn collega's.	MarijnKp	2020-11-03 11:22:29	2020-11-03 11:22:29
-40	0x28	(	43	11342305	nld	Omdat ik Spaans vaak niet praat, kan ik min of meer juist praten (of beter, schrijven), maar ik heb niet te veel kleur of verscheidenheid in mijn taal. Ik gebruik altijd dezelfde zinsopbouwen, diegenen die ik ken, om te voorkomen dat ik manieren verzin om dingen uit te drukken en te klinken alsof ik Engels spreek. Ik zeg hetzelfde ding opnieuw en opnieuw, zonder veel idiomatische uitdrukkingen, en wanneer ik probeer om diegenen die ik ken gebruiken, ik verpest. Inmiddels, met het Engels, hoewel ik het perfect niet spreek, ik stel de verscheidenheid wel voor, en ik heb de ervaring om het met leeftijdsgenoten te praten, leren verschillende manieren om me uit te drukken.	SunnyMoon	2022-12-17 15:37:17	2022-12-17 15:38:11
-41	0x29	)	44	10795620	nld	Stedenbouwkundige planning draait om de vier functies: woon, werk, recreatie (in de vrije tijd) en verplaatsing.	Micsmithel	2022-04-30 17:34:45	2022-04-30 17:34:45
-43	0x2b	+	5	4507930	nld	Bepaal het bereik van de waarden van de constante k, waarvoor de kwadratische ongelijkheid x² + kx − 3k > 0 geldt voor elke willekeurige reële waarde van x.	Raizin	2015-09-07 19:08:04	2015-09-07 19:08:04
-44	0x2c	,	13230	834602	nld	Daar zij zelf geen kinderen hadden, besloten ze een klein meisje te adopteren.	McDutchie	2011-04-11 22:57:12	2011-04-11 22:57:12
-45	0x2d	-	1578	391674	nld	Het is maar tien graden, en hij loopt in een T-shirt buiten. Ik krijg het al koud als ik naar hem kijk.	Dorenda	2010-05-20 17:29:33	2010-05-20 18:50:45
-46	0x2e	.	149840	3261364	nld	Zij weet veel van de hedendaagse mode.	simonbr	2014-05-18 07:51:24	2014-05-18 07:51:24
-47	0x2f	/	12	656976	nld	In de keuzelijst kan je een thema/categorie kiezen en daarna verschijnt een lijst met zinnen die verband houden met dat thema, die categorie.	slavneui	2010-12-08 21:51:32	2010-12-08 21:51:32
-48	0x30	0	743	8258012	nld	Tom komt op 20 oktober weer thuis.	Elsofie	2019-10-16 09:53:52	2019-10-16 09:53:52
-49	0x31	1	738	661342	nld	Om 11u is OK voor mij.	slavneui	2010-12-11 17:07:16	2015-10-11 08:02:02
-50	0x32	2	501	8574066	nld	Ik ben in 2002 in Israël geboren.	MarijnKp	2020-02-24 08:29:20	2020-02-24 08:29:20
-51	0x33	3	398	12158187	nld	Ik heb niet meer dan 3000 yen.	PaulP	2023-11-12 09:16:28	2023-11-12 09:16:28
-52	0x34	4	206	6597914	nld	4219 is een zeer ongelukkig getal.	Micsmithel	2018-01-09 22:51:17	2018-01-09 22:51:17
-53	0x35	5	303	984067	nld	"Hoeveel kost deze zakdoek?" "95 cent."	martinod	2011-07-10 17:20:49	2011-07-10 17:20:49
-54	0x36	6	201	9668844	nld	Giovanni Cassini (1625–1712) was de eerste die vier Saturnusmanen observeerde, waaronder Iapetus.	MarijnKp	2021-01-17 10:19:14	2021-01-17 10:19:14
-55	0x37	7	170	10909595	nld	Een bijzondere zeeschildpad, met als naam Eretmochelys imbricata, kan zijn sperma 75 dagen lang behouden.	PaulP	2022-06-14 05:05:43	2022-06-14 05:05:43
-56	0x38	8	175	6743019	nld	Galileo stierf op 8 januari 1642.	Micsmithel	2018-03-09 01:28:41	2018-03-09 01:28:41
-57	0x39	9	302	4514341	nld	Het hele gebied van de Nederlandse provincie Flevoland lag voor 1930 nog op de bodem van de zee.	Raizin	2015-09-10 15:52:35	2015-09-10 21:14:02
-58	0x3a	:	488	3315294	nld	Wat wilt ge: koffie of thee?	martinod	2014-06-14 06:11:29	2014-06-14 06:11:29
-59	0x3b	;	238	721883	nld	Ik begrijp niet waarom men het zacht teken in het Oekraïens alfabet verplaatst heeft; het leek mij veel logischer als het aan het einde kwam.	martinod	2011-01-22 22:33:18	2011-01-22 22:33:18
-61	0x3d	=	2	1076166	nld	In de zevende eeuw vond de Indische wiskundige Brahmagupta de kleinste positieve gehele oplossing voor de vergelijking x²-92y²=1.	martinod	2011-09-01 14:56:19	2011-09-01 14:56:19
+36	0x24	$	11	9623665	nld	Hier is $10,00.	Nylez	2021-01-09 16:45:18	2021-01-09 16:45:18
+37	0x25	%	50	12154500	nld	Het bnp zal jaarlijks met ongeveer 4-5 % groeien.	PaulP	2023-11-10 07:07:30	2023-11-10 07:08:40
+38	0x26	&	4	10536436	nld	Het teken "&" betekent "en".	mdc1600	2021-11-29 20:57:19	2021-11-29 20:57:19
+39	0x27	'	2109	2785012	nld	Laten we 's morgens vroeg starten, OK?	anders	2013-10-11 17:16:40	2013-10-11 17:16:40
+40	0x28	(	43	3530788	nld	Terreurgroep IS (Islamitische Staat) heeft op drie verschillende plekken in het Syrische dorp Ziyaret haar vlag gehesen.	vvv123	2014-10-01 22:00:27	2014-10-01 22:00:27
+41	0x29	)	44	4234299	nld	Sinds april heeft Slovakije een kattencafé waar de gasten van koffie, thee en (glutenvrije) cake kunnen genieten in het bijzijn van katten.	PaulP	2015-05-29 15:20:05	2015-05-29 15:20:05
+43	0x2b	+	5	4610925	nld	„Welke talen ken jij, Tom?” – „C++ en Java, bovendien ook een beetje PHP. En jij, Maria?” – „Frans, Japans en Hebreeuws.”	PaulP	2015-10-15 11:23:06	2015-10-15 11:23:06
+44	0x2c	,	13242	6844847	nld	De enigen die ik hier ken, zijn Tom en Maria.	Micsmithel	2018-04-19 01:39:43	2018-04-19 23:31:46
+45	0x2d	-	1578	389990	nld	Het huis wordt verwarmd door middel van zonne-energie.	Dorenda	2010-05-17 17:35:39	2010-05-17 17:35:50
+46	0x2e	.	149935	12222128	nld	We vatten het even samen.	megamanenm	2023-12-21 14:21:20	2023-12-21 14:21:20
+47	0x2f	/	12	9296943	nld	Het wordt gebruikt onder de voorwaarde met een ruimtelijk gradiëntveld van 72 T/m (waarde geëxtrapoleerd) en minder.	Micsmithel	2020-11-14 14:24:36	2020-11-14 14:24:36
+48	0x30	0	745	4459708	nld	Je moet me nu meteen 500 dollar geven.	Raizin	2015-08-19 03:19:57	2015-08-19 03:19:57
+49	0x31	1	738	3550652	nld	Vanaf 14 jaar moet je in Nederland een legitimatiebewijs bij je hebben.	vvv123	2014-10-10 18:06:44	2014-10-10 18:06:44
+50	0x32	2	504	6593892	nld	Fadil omhelsde de islam op zijn 23ste.	Micsmithel	2018-01-07 15:01:16	2018-01-07 15:01:16
+51	0x33	3	397	4552646	nld	Bel 1-800-828-6322 voor een gratis brochure.	Raizin	2015-09-25 02:45:38	2015-09-25 02:45:38
+52	0x34	4	207	662688	nld	Christoffel Columbus ontdekte Amerika in het jaar 1492.	GrizaLeono	2010-12-12 13:02:51	2010-12-12 13:02:51
+53	0x35	5	304	7281502	nld	De coalitieregering van de rechts-populistische Lega en de protestpartij M5S (Vijfsterrenbeweging) is van plan meer schulden te maken, omdat daarmee de economie zou worden vlotgetrokken.	FreekVerkerk	2018-10-12 08:19:38	2018-10-12 08:19:38
+54	0x36	6	201	632623	nld	Uit een theaterprogramma: hij is geboren in 1961, zij is geboren in Zagreb.	martinod	2010-11-23 11:57:25	2010-11-23 11:57:25
+55	0x37	7	171	4093622	nld	Het aantal verdronken bootvluchtelingen sinds 1 januari bedraagt nu al 1700.	vvv123	2015-04-20 14:57:25	2015-04-20 14:57:25
+56	0x38	8	175	4514725	nld	Tussen 1920 en 1968 gebruikten de Nederlanders dijken en pompen om een ondiepe baai van de Noordzee af te sluiten, en van een deel ervan land te maken.	Raizin	2015-09-10 21:14:59	2015-09-10 21:14:59
+57	0x39	9	302	715467	nld	Ik ken Johano al sinds 1976.	martinod	2011-01-18 12:14:54	2011-01-18 12:14:54
+58	0x3a	:	488	4707851	nld	Tom wees naar een van de foto's en zei: ''Wie is dat?''	doemaar14	2015-11-17 22:38:46	2015-11-17 22:38:46
+59	0x3b	;	238	8206922	nld	Een bankier hoeft niet populair te zijn; een goede bankier zou in een gezonde kapitalistische samenleving ongetwijfeld weerzin moeten wekken. Mensen willen hun geld niet toevertrouwen aan iemand die prettig in de omgang is, maar aan een misantroop die nee kan zeggen.	Micsmithel	2019-09-24 11:55:52	2019-09-24 11:55:52
+61	0x3d	=	2	3349935	nld	Een geheel getal n is oneven als het voldoet aan n = 2k + 1, waarbij k een geheel getal is.	simonbr	2014-06-29 21:12:13	2014-06-29 21:12:13
 62	0x3e	>	1	4507930	nld	Bepaal het bereik van de waarden van de constante k, waarvoor de kwadratische ongelijkheid x² + kx − 3k > 0 geldt voor elke willekeurige reële waarde van x.	Raizin	2015-09-07 19:08:04	2015-09-07 19:08:04
-63	0x3f	?	28203	4506512	nld	Mag ik meedoen?	PaulP	2015-09-07 08:34:04	2015-09-07 08:34:04
-64	0x40	@	4	11223303	nld	Houd er rekening mee dat het juiste label om aan onjuiste zinnen toe te voegen "@change" is en niet "change". Alleen met het juiste label worden corpusonderhouders op de hoogte.	SunnyMoon	2022-11-02 11:27:33	2022-11-02 11:27:33
-65	0x41	A	5379	9996636	nld	Amerikanen houden van American football zoals Japanners van honkbal houden.	Nylez	2021-04-29 18:16:00	2021-04-29 18:16:00
-66	0x42	B	5002	11146928	nld	Blijkbaar heeft Tom dat nog niet gedaan.	SunnyMoon	2022-09-28 18:58:19	2022-09-28 18:58:19
-67	0x43	C	1280	641655	nld	Carole studeert al drie jaar Spaans.	martinod	2010-11-30 15:55:49	2010-11-30 15:55:49
-68	0x44	D	19555	7971527	nld	Dat was drie jaar geleden.	Micsmithel	2019-06-10 16:55:21	2019-06-10 16:55:21
-69	0x45	E	6841	664867	nld	Er bestaan veel soorten koffie.	martinod	2010-12-13 14:07:40	2010-12-13 14:07:40
-70	0x46	F	1854	7450994	nld	Ik ben van de FBI.	MarijnKp	2018-11-11 13:22:20	2018-11-11 13:22:20
-71	0x47	G	4131	9807897	nld	Tom gelooft in God.	Raizin	2021-02-26 14:27:18	2021-02-26 14:27:18
-72	0x48	H	27441	701107	nld	Het is lekker!	LaraCroft	2011-01-06 14:51:28	2011-01-06 21:48:43
-73	0x49	I	37866	9839643	nld	Ik bouw stenen huizen.	Micsmithel	2021-03-12 19:01:13	2021-03-12 19:01:13
-74	0x4a	J	8268	12148594	nld	Je grote mond wordt nog eens je dood.	PaulP	2023-11-06 10:54:46	2023-11-06 10:54:46
-75	0x4b	K	4784	7455883	nld	Kun je me goed genoeg horen?	MarijnKp	2018-11-12 18:27:42	2018-11-12 18:27:42
-76	0x4c	L	3642	5399815	nld	Toen ik leerling was in de klas van Latijn, beweerde men dikwijls dat de kennis van klassieke talen een hulp is voor het leren van onze moderne talen.	PaulP	2016-09-04 15:03:37	2016-09-04 15:03:37
-77	0x4d	M	12458	10756738	nld	Mensen zijn slapend terwijl ze leven. Ze worden wakker wanneer ze sterven.	megamanenm	2022-04-06 22:38:51	2022-04-06 22:38:51
-78	0x4e	N	3620	11534522	nld	Niemand wist wat er was gebeurd.	carlosalberto	2023-02-13 16:02:26	2023-02-13 16:02:26
-79	0x4f	O	2651	11508018	nld	Oh, de elektriciteit is uitgevallen.	megamanenm	2023-02-03 21:01:21	2023-02-03 21:01:21
-80	0x50	P	1776	9243348	nld	Ik woon in Peru.	MarijnKp	2020-11-05 13:52:13	2020-11-05 13:52:13
-81	0x51	Q	40	7452047	nld	Ik leer Quechua.	MarijnKp	2018-11-11 18:56:14	2018-11-11 18:56:14
-82	0x52	R	1328	8735764	nld	De Rijn is een rivier.	MarijnKp	2020-05-03 17:30:00	2020-05-03 17:30:00
-83	0x53	S	5613	3224879	nld	Straks meer hierover.	carlosalberto	2014-05-02 13:46:25	2014-05-02 13:46:25
-84	0x54	T	26662	5808174	nld	Tom weet dat hij gestraft zal worden.	doemaar14	2017-01-28 16:31:37	2017-01-28 16:31:37
-85	0x55	U	1530	3481091	nld	U bent veranderd.	PaulP	2014-09-08 20:07:38	2014-09-08 20:07:38
-86	0x56	V	4337	9032061	nld	Verzamelt u munten?	MarijnKp	2020-09-11 19:17:11	2020-09-11 19:17:11
-87	0x57	W	19300	12356912	nld	Waar denk je zo gekleed heen te gaan?	megamanenm	2024-03-05 16:41:40	2024-03-05 16:41:40
-88	0x58	X	27	7809676	nld	Een 737 MAX is in Ethiopië neergestort.	MarijnKp	2019-03-14 14:21:29	2019-03-14 14:21:29
-89	0x59	Y	487	10752888	nld	Sami heeft de video op YouTube gezet.	megamanenm	2022-04-04 10:32:20	2022-04-04 10:32:20
-90	0x5a	Z	12943	8699191	nld	Ze bleef maar praten.	Micsmithel	2020-04-21 21:03:46	2020-04-21 21:03:46
-91	0x5b	[	2	8678316	nld	[Ik vind], dat er nog altijd iets moois overblijft, aan de natuur, de zonneschijn, de vrijheid, aan jezelf, daar heb je wat aan. Kijk daarnaar, dan vind je jezelf weer en God, dan word je evenwichtig. En wie gelukkig is, zal ook anderen gelukkig maken, wie moed en vertrouwen heeft, zal nooit in de ellende ondergaan!	Hybrid	2020-04-13 19:42:40	2020-04-13 19:42:40
-93	0x5d	]	2	7715298	nld	Waarom, natuurlijk willen de mensen geen oorlog. Waarom zou een arme boerderij sloeber zijn leven in een oorlog riskeren wanneer hij er het beste uit kan komen door terug te keren naar zijn boerderij? Uiteraard willen de gewone mensen geen oorlog; noch in Rusland, noch in Engeland, noch in Amerika, noch wat dat betreft in Duitsland. Dat is vanzelfsprekend. Maar het zijn tenslotte de leiders van het land die het beleid bepalen en het is altijd een eenvoudige zaak om de mensen mee te slepen, of het nu gaat om een ​​democratie of een fascistische dictatuur of een parlement of een communistische dictatuur. [...] Inspraak of geen inspraak, de mensen kunnen altijd op het bevel van de leiders worden gebracht. Dat is gemakkelijk. Het enige wat je hoeft te doen is hen vertellen dat ze worden aangevallen en de pacifisten veroordelen vanwege het gebrek aan patriottisme en het blootstellen van het land aan gevaar. Het werkt op dezelfde manier in elk land.	MarijnKp	2019-01-12 11:52:33	2019-01-12 11:53:59
+63	0x3f	?	28217	9167355	nld	Waarom heb ik dat gedaan?	megamanenm	2020-10-20 13:20:34	2020-10-20 13:20:34
+64	0x40	@	4	4555589	nld	Hoe wordt het @-teken uitgesproken in jouw taal?	Raizin	2015-09-26 00:34:51	2015-09-26 00:34:51
+65	0x41	A	5383	2187321	nld	Als je een vrouw bent mag je je hoofddoek aanhouden als je een moskee binnengaat.	samson	2013-02-03 19:06:55	2015-07-10 16:24:10
+66	0x42	B	5002	839085	nld	Beschouw mij maar als een vriend.	martinod	2011-04-15 10:05:43	2011-04-15 10:05:43
+67	0x43	C	1280	6297354	nld	Het rapport onderstreept in het bijzonder dat hepatitis C de grootste schade aanbrengt aan naar schatting twaalf miljoen mensen die zich met drugs inspuiten.	PaulP	2017-09-09 12:25:25	2017-09-09 12:25:25
+68	0x44	D	19574	4218549	nld	De muziek begon opnieuw te spelen.	megamanenm	2015-05-23 17:50:03	2015-05-23 17:50:03
+69	0x45	E	6845	6086743	nld	Een dergelijke aanpak zou kortzichtig zijn en een averechts effect hebben.	Mandalay	2017-05-18 12:48:54	\N
+70	0x46	F	1854	446610	nld	Zijn auto is een Ford.	Citrine	2010-08-01 02:38:31	2012-06-16 10:09:44
+71	0x47	G	4134	6119812	nld	Geef dit alsjeblieft terug aan mij.	Mandalay	2017-06-01 15:37:06	\N
+72	0x48	H	27454	9051769	nld	Hij zal het druk hebben.	Micsmithel	2020-09-19 17:47:59	2020-09-19 17:47:59
+73	0x49	I	37882	4780665	nld	Ik hou er niet van als je vloekt.	Raizin	2015-12-21 00:06:20	2015-12-21 00:06:20
+74	0x4a	J	8273	10905858	nld	Je helpt helemaal niet.	megamanenm	2022-06-12 16:50:58	2022-06-12 16:50:58
+75	0x4b	K	4784	826818	nld	We gaan naar de cinema. Kom met ons mee.	martinod	2011-04-06 14:35:45	2011-04-06 14:35:45
+76	0x4c	L	3642	8759586	nld	Laat het daar!	Micsmithel	2020-05-13 17:47:32	2020-05-13 17:47:32
+77	0x4d	M	12469	9364098	nld	Mijn echtgenote kwam niet met me mee.	Nylez	2020-11-23 20:25:08	2020-11-23 20:25:08
+78	0x4e	N	3623	7694213	nld	Ik woon nu in Australië, maar ik woonde tot drie jaar geleden in Nieuw-Zeeland.	MarijnKp	2019-01-05 10:51:58	2019-01-05 10:51:58
+79	0x4f	O	2654	10003069	nld	In onze jeugd kunnen we elk uur van de dag volstrekt nieuwe, subjectieve of objectieve ervaringen beleven. Ons begripsvermogen is levendig, ons geheugen is scherp en onze herinneringen aan die tijd zijn, net als die aan een tijd van snelle en interessante reizen, ingewikkeld, veelvoudig en langdradig. Maar naarmate elk voorbijgaand jaar een deel van deze ervaring omzet in een automatische routine die we nauwelijks nog opmerken, vervagen de dagen en de weken in de herinnering tot een inhoudsloze eenheid en worden de jaren hol en storten ze ineen.	Micsmithel	2021-05-02 12:08:26	2021-05-02 12:08:26
+80	0x50	P	1778	12370412	nld	Ze was ervan overtuigd dat Pierre meer wist dan hij op wilde biechten.	megamanenm	2024-03-13 21:50:57	2024-03-13 21:51:10
+81	0x51	Q	40	7980893	nld	Q.e.d.	Micsmithel	2019-06-15 20:51:35	2019-06-15 20:51:35
+82	0x52	R	1329	2192689	nld	Hoe laat ging hij eergisteren terug naar Rotterdam?	samson	2013-02-05 09:25:55	2013-02-05 09:27:10
+83	0x53	S	5615	11223395	nld	Deze bijdrager heeft om een gevorderde bijdragerstatus gevraagd. Voel je vrij alsjeblieft om je mening met ons te delen. Stuur ons een bericht met de volgende link.	SunnyMoon	2022-11-02 12:40:43	2022-11-02 12:40:43
+84	0x54	T	26682	8501448	nld	Tom is degene die schuldig is.	Elsofie	2020-01-31 07:11:26	2020-01-31 07:11:26
+85	0x55	U	1531	2961865	nld	Ubuntu is een populaire Linuxdistributie.	Globetrotter	2014-01-03 12:52:44	2014-01-03 12:52:44
+86	0x56	V	4340	7268150	nld	Vooruit!	Micsmithel	2018-10-08 17:42:35	2018-10-08 17:42:35
+87	0x57	W	19315	5854969	nld	Waar kan ik mijn bagage afgeven?	PaulP	2017-02-11 17:22:02	2017-02-11 17:22:02
+88	0x58	X	27	8656120	nld	Xavier verkoopt avocadobrood op de markt.	MarijnKp	2020-04-04 09:58:53	2020-04-04 09:58:53
+89	0x59	Y	487	9672666	nld	Ik had verwacht dat Yoko ging stoppen met roken.	megamanenm	2021-01-18 22:18:50	2021-01-18 22:18:50
+90	0x5a	Z	12959	9190383	nld	Zij stinken.	Micsmithel	2020-10-25 13:41:59	2020-10-25 13:41:59
+91	0x5b	[	2	7715298	nld	Waarom, natuurlijk willen de mensen geen oorlog. Waarom zou een arme boerderij sloeber zijn leven in een oorlog riskeren wanneer hij er het beste uit kan komen door terug te keren naar zijn boerderij? Uiteraard willen de gewone mensen geen oorlog; noch in Rusland, noch in Engeland, noch in Amerika, noch wat dat betreft in Duitsland. Dat is vanzelfsprekend. Maar het zijn tenslotte de leiders van het land die het beleid bepalen en het is altijd een eenvoudige zaak om de mensen mee te slepen, of het nu gaat om een ​​democratie of een fascistische dictatuur of een parlement of een communistische dictatuur. [...] Inspraak of geen inspraak, de mensen kunnen altijd op het bevel van de leiders worden gebracht. Dat is gemakkelijk. Het enige wat je hoeft te doen is hen vertellen dat ze worden aangevallen en de pacifisten veroordelen vanwege het gebrek aan patriottisme en het blootstellen van het land aan gevaar. Het werkt op dezelfde manier in elk land.	MarijnKp	2019-01-12 11:52:33	2019-01-12 11:53:59
+93	0x5d	]	2	8678316	nld	[Ik vind], dat er nog altijd iets moois overblijft, aan de natuur, de zonneschijn, de vrijheid, aan jezelf, daar heb je wat aan. Kijk daarnaar, dan vind je jezelf weer en God, dan word je evenwichtig. En wie gelukkig is, zal ook anderen gelukkig maken, wie moed en vertrouwen heeft, zal nooit in de ellende ondergaan!	Hybrid	2020-04-13 19:42:40	2020-04-13 19:42:40
 94	0x5e	^	1	8213308	nld	Wat is de afgeleide van e^x?	MarijnKp	2019-09-27 10:33:48	2019-09-27 10:33:48
 95	0x5f	_	2	715322	nld	Waarschuwing: niet-ondersteunde tekens worden weergegeven als '_'.	qdii	2011-01-18 11:29:50	2011-01-18 11:29:50
-97	0x61	a	143988	2748088	nld	Wat zegt ze?	martinod	2013-09-19 11:33:58	2013-09-19 11:33:58
-98	0x62	b	65330	8442454	nld	Geef ons een beetje meer tijd.	doemaar14	2020-01-11 02:52:10	2020-01-11 02:52:10
-99	0x63	c	37615	8176709	nld	Het meisje gedroeg zich als een verwend nest naar haar moeder toe.	Elsofie	2019-09-09 17:50:26	2019-09-09 17:50:26
-100	0x64	d	118846	10740662	nld	Ze draagt een rare hoed.	Raizin	2022-03-27 21:44:39	2022-03-27 21:44:39
-101	0x65	e	179200	10034213	nld	Iedereen buiten!	Micsmithel	2021-05-14 17:19:54	2021-05-14 17:19:54
-102	0x66	f	35282	8738846	nld	Hij heeft een bril.	MarijnKp	2020-05-05 11:43:29	2020-05-05 11:43:29
-103	0x67	g	99026	7974675	nld	Ik ga op weg.	Elsofie	2019-06-12 09:13:38	2019-06-12 09:13:38
-104	0x68	h	94956	5321922	nld	Het merendeel van de landbouwers in dit godvergeten dorp kan niet lezen of schrijven.	PaulP	2016-08-06 14:19:44	2019-10-03 11:40:44
-105	0x69	i	153342	12240394	nld	De les gaat bijna beginnen.	Ag12x	2023-12-30 11:51:12	2023-12-30 11:51:12
-106	0x6a	j	87886	4581807	nld	Het is twee mijl van hier naar het station.	Raizin	2015-10-06 00:51:49	2015-10-06 00:51:49
-107	0x6b	k	102809	1622283	nld	Tom kent het verschil tussen een stad en een dorp niet.	Akradna	2012-06-12 02:19:00	2012-06-12 02:19:00
-108	0x6c	l	109045	7115631	nld	Dan heeft veel fans.	Micsmithel	2018-09-02 15:19:46	2018-09-02 15:19:46
-109	0x6d	m	98216	10014952	nld	Sami leidde twee levens.	MarijnKp	2021-05-08 10:06:17	2021-05-08 10:06:17
-110	0x6e	n	162624	1531771	nld	Tom heeft geen kredietkaart.	megamanenm	2012-04-14 11:33:26	2012-04-14 11:33:26
-111	0x6f	o	136548	737757	nld	Ik volgde hem naar zijn kamer.	martinod	2011-02-02 11:18:12	2011-02-02 11:18:12
-112	0x70	p	50668	8917694	nld	Sami is met pensioen.	Micsmithel	2020-07-15 18:50:29	2020-07-15 18:50:29
-113	0x71	q	160	7323788	nld	Tom identificeert zich als queer.	MarijnKp	2018-10-21 18:34:18	2018-10-21 18:34:18
-114	0x72	r	136154	7239278	nld	Hebben jullie geroepen?	FreekVerkerk	2018-09-30 17:44:10	2018-09-30 17:44:10
-115	0x73	s	113774	7907593	nld	Kampala is de hoofdstad van Oeganda.	MarijnKp	2019-05-13 18:43:47	2019-05-13 18:43:47
-116	0x74	t	151254	5272895	nld	Tom wacht op ons in de auto.	PaulP	2016-07-14 05:47:28	2016-07-14 05:47:36
-117	0x75	u	73031	8321615	nld	Niet alleen zij maar ook ik kreeg een uitbrander van de leraar.	Elsofie	2019-11-13 10:08:48	2019-11-13 10:08:48
-118	0x76	v	70906	379231	nld	Zalig de korten van geheugen.	Dorenda	2010-04-14 19:53:40	2010-04-14 19:53:40
-119	0x77	w	64721	4506870	nld	Het was vier jaar sinds we elkaar hadden ontmoet.	Raizin	2015-09-07 10:43:04	2015-09-07 10:43:04
-120	0x78	x	1177	6073217	nld	Onze excuses voor de onderbreking.	Mandalay	2017-05-12 14:17:03	\N
-121	0x79	y	5327	7037214	nld	Wacht in de lobby.	Micsmithel	2018-08-01 16:41:52	2018-08-01 16:41:52
-122	0x7a	z	58116	379370	nld	Ik wil je nooit meer zien.	Dorenda	2010-04-15 14:18:20	2010-04-15 14:18:20
+97	0x61	a	144084	8445122	nld	Ze zei dat ze moest overwerken.	doemaar14	2020-01-12 05:26:40	2020-01-12 05:26:40
+98	0x62	b	65370	8774586	nld	Niemand begreep het.	Micsmithel	2020-05-19 21:36:08	2020-05-19 21:36:08
+99	0x63	c	37638	3968605	nld	Had ik meer tijd gehad, dan had ik een kortere brief geschreven.	martinod	2015-03-18 08:00:36	2015-03-18 08:00:36
+100	0x64	d	118930	2350386	nld	Het enige wat telt is het vinden van een goedkope auto.	Lublin	2013-04-01 13:15:54	2013-04-01 13:15:54
+101	0x65	e	179308	10351179	nld	Waarom verven mensen hun haar?	doemaar14	2021-10-09 13:18:13	2021-10-09 13:18:13
+102	0x66	f	35304	10741232	nld	Beloof me dat je je best zal doen.	Raizin	2022-03-28 02:40:15	2022-03-28 02:40:15
+103	0x67	g	99087	9820339	nld	Is het veilig om bacon rauw te eten?	Raizin	2021-03-03 17:56:49	2021-03-03 17:56:49
+104	0x68	h	95024	7904299	nld	Ik hou niet van haar.	MarijnKp	2019-05-12 10:17:01	2019-05-12 10:17:01
+105	0x69	i	153439	11825574	nld	Niemand weet het behalve ik.	doemaar14	2023-06-07 00:41:04	2023-06-07 00:41:04
+106	0x6a	j	87937	4521354	nld	Geef je hem de borst of de fles?	Raizin	2015-09-13 20:59:22	2015-09-13 20:59:22
+107	0x6b	k	102872	8744574	nld	Doe niet zo bekrompen!	Micsmithel	2020-05-07 13:35:17	2020-05-07 13:35:17
+108	0x6c	l	109111	10714836	nld	Ik hoop snel van je te horen.	Micsmithel	2022-03-12 16:13:01	2022-03-12 16:13:01
+109	0x6d	m	98283	10635701	nld	Tom had niet de leiding.	rose_d	2022-01-22 09:55:37	2022-01-22 09:55:37
+110	0x6e	n	162723	3584120	nld	Ik heb nog nooit zo iets moois gezien.	martinod	2014-10-26 20:40:40	2014-10-26 20:40:40
+111	0x6f	o	136643	10015884	nld	Heb je goed gegeten?	Micsmithel	2021-05-08 16:24:15	2021-05-08 16:24:15
+112	0x70	p	50703	9341982	nld	Het oppervlak wordt bestrooid met een beetje oregano.	Nylez	2020-11-20 20:14:43	2020-11-20 20:14:43
+113	0x71	q	160	1507759	nld	Jacqueline is een Franse naam.	Citrine	2012-03-29 11:29:31	2014-02-11 19:15:15
+114	0x72	r	136250	3060226	nld	Het is iets van het verleden.	Citrine	2014-02-21 20:30:51	2014-02-21 20:30:51
+115	0x73	s	113848	8453909	nld	Tom speelde met de baby.	MarijnKp	2020-01-15 15:21:24	2020-01-15 15:21:24
+116	0x74	t	151353	5019583	nld	Tom heeft geprobeerd om Mary te redden.	LinguisticFusion	2016-03-28 19:58:54	2016-03-28 19:58:54
+117	0x75	u	73076	418803	nld	We hebben nauwelijks genoeg tijd om te ontbijten.	Dorenda	2010-07-05 22:02:26	2010-07-06 16:53:44
+118	0x76	v	70955	10642908	nld	Ik verlies altijd dingen.	rose_d	2022-01-25 15:50:17	2022-01-25 15:50:17
+119	0x77	w	64772	8537636	nld	Jouw fiets lijkt op die van mij.	simonbr	2020-02-09 08:59:33	2020-02-09 08:59:33
+120	0x78	x	1177	11538898	nld	Aan een appendix heb je niets.	megamanenm	2023-02-15 13:30:04	2023-02-15 13:31:33
+121	0x79	y	5330	11526743	nld	Dit is Disneyland niet.	megamanenm	2023-02-10 20:27:30	2023-02-10 20:27:32
+122	0x7a	z	58154	11906005	nld	Wat zijn jouw herinneringen aan Tom?	purple_ice	2023-07-04 19:02:21	2023-07-04 19:02:21
 123	0x7b	{	1	10017988	nld	De verzameling zonder elementen wordt de lege verzameling genoemd en wordt aangeduid met {}.	Micsmithel	2021-05-09 13:54:39	2021-05-09 13:54:39
 125	0x7d	}	1	10017988	nld	De verzameling zonder elementen wordt de lege verzameling genoemd en wordt aangeduid met {}.	Micsmithel	2021-05-09 13:54:39	2021-05-09 13:54:39
-160	0xa0	 	3	3530812	nld	IS riep drie maanden geleden een 'kalifaat' uit in delen van Syrië en Irak en kondigde ''een nieuw tijdperk van internationale jihad'' aan.	vvv123	2014-10-01 22:07:53	2014-10-01 22:07:53
+160	0xa0	 	3	3566703	nld	In september was 8 procent van de beroepsbevolking werkloos.	vvv123	2014-10-19 00:50:04	2014-10-19 00:50:04
 171	0xab	«	1	741429	nld	Ge hebt een commentaar toegevoegd, geen vertaling. Om een vertaling toe te voegen, klik op het symbool «あ→а» boven de zin.	martinod	2011-02-04 14:23:36	2011-02-04 14:24:44
-173	0xad	­	15	6129621	nld	Ik denk dat je weet wat het „Hornberger Schie­ßen” betekent.	Mandalay	2017-06-04 14:17:52	2017-06-29 12:18:57
-176	0xb0	°	8	3591420	nld	Verwarm de oven voor op 90 °C.	vvv123	2014-10-29 16:37:58	2014-10-29 16:37:58
-178	0xb2	²	5	1076166	nld	In de zevende eeuw vond de Indische wiskundige Brahmagupta de kleinste positieve gehele oplossing voor de vergelijking x²-92y²=1.	martinod	2011-09-01 14:56:19	2011-09-01 14:56:19
+173	0xad	­	15	10891174	nld	Er moet een eind komen aan geïn­sti­tu­ti­o­na­li­seerd ge­weld.	megamanenm	2022-06-06 03:53:35	2022-06-06 03:53:35
+176	0xb0	°	8	4915256	nld	Er wordt verwacht dat de temperatuur in Boston zal dalen naar -22°C.	Raizin	2016-02-16 00:17:10	2016-02-16 00:17:10
+178	0xb2	²	5	617681	nld	Te koop: vrijstaande woning met garage en 1200 m² grond op een mooie locatie aan zee.	Dorenda	2010-11-13 15:42:14	2011-12-14 23:12:34
 180	0xb4	´	1	1056975	nld	Ondanks al z´n opschepperij is het een lafaard.	ReneeMona	2011-08-21 14:24:18	2011-08-21 14:24:18
 187	0xbb	»	1	741429	nld	Ge hebt een commentaar toegevoegd, geen vertaling. Om een vertaling toe te voegen, klik op het symbool «あ→а» boven de zin.	martinod	2011-02-04 14:23:36	2011-02-04 14:24:44
 189	0xbd	½	1	9638641	nld	Als de resultaten kloppen, zou het universum tien miljard jaar nodig hebben om planeten te vormen. De aarde is nu 4½ miljard jaar oud en het universum 15 miljard jaar oud. We zouden dus tot de eerste generatie planeten en überhaupt tot het eerste intelligente leven behoren!	MarijnKp	2021-01-12 14:49:30	2021-01-12 14:49:30
 193	0xc1	Á	1	9754469	nld	We hebben op school geleerd dat de Portugees Pedro Álvares Cabral Brazilië heeft ontdekt.	Nylez	2021-02-12 21:33:06	2021-02-12 21:33:06
 199	0xc7	Ç	1	7781808	nld	In het Esperanto schrijven we Çorum "Ĉorum".	Micsmithel	2019-02-19 12:27:38	2019-02-19 12:27:38
-201	0xc9	É	7	11902919	nld	Éric Zemmour komt uit een Algerijns-joodse familie.	purple_ice	2023-07-03 16:00:10	2023-07-03 16:00:10
+201	0xc9	É	7	8437878	nld	Édith Piaf was een Franse zangeres.	Elsofie	2020-01-09 07:42:33	2020-01-09 07:43:56
 205	0xcd	Í	1	7462539	nld	IJsland wordt "Ísland" genoemd in het IJslands.	MarijnKp	2018-11-14 16:20:06	2020-02-11 19:11:22
 214	0xd6	Ö	1	7462499	nld	Oostenrijk wordt "Österreich" genoemd in het Duits.	MarijnKp	2018-11-14 16:11:31	2020-02-11 19:08:10
 215	0xd7	×	1	9068070	nld	Pagina's zijn meestal minstens 4 KiB (4×1024 bytes) groot en systemen met grote virtuele adresbereiken of grote hoeveelheden echt geheugen gebruiken over het algemeen grotere paginagroottes.	Micsmithel	2020-09-24 13:45:40	2020-09-24 13:45:40
-223	0xdf	ß	7	2332639	nld	Mijn favoriete worst is Weißwurst.	MSWindowsinside	2013-03-23 15:08:06	2013-03-23 15:08:06
+223	0xdf	ß	7	11305342	nld	Het Zwitserse toetsenbord heeft geen letter ß.	SunnyMoon	2022-12-07 18:37:06	2022-12-12 13:34:59
 224	0xe0	à	9	3852814	nld	Tom had een déjà vu.	PaulP	2015-02-08 16:45:30	2015-02-08 16:45:30
-225	0xe1	á	27	1620745	nld	De gedichten van János Balassi nemen een belangrijke plaats in in de Europese Renaissanceliteratuur.	Akradna	2012-06-11 14:56:49	2012-06-11 14:56:49
-226	0xe2	â	6	9267317	nld	Hij heeft hypokhâgne en khâgne gedaan.	Micsmithel	2020-11-09 14:19:10	2020-11-09 14:19:10
-227	0xe3	ã	8	7797316	nld	Juliana vertelde me dat je uit São Paulo komt.	MarijnKp	2019-03-05 16:35:15	2019-03-05 16:35:15
-228	0xe4	ä	8	10048928	nld	Hij is op zoek naar Händel.	Micsmithel	2021-05-19 18:04:56	2021-05-19 18:04:56
+225	0xe1	á	27	649858	nld	Het Christus-drieluik van de wereldberoemde Hongaarse schilder Mihály Munkácsy bestaat uit de schilderijen "Christus vóór Pilatus", "Golgotha" en "Ecce Homo".	Citrine	2010-12-04 23:58:35	2014-02-09 12:20:06
+226	0xe2	â	6	9929426	nld	Nederland wordt in het Fries "Nederlân" genoemd.	Raizin	2021-03-31 16:25:21	2021-03-31 16:25:21
+227	0xe3	ã	8	3218935	nld	Mijn zwager is op de dertigste van de vorige maand uit Rio de Janeiro gekomen en vertrekt morgen naar São Paulo.	simonbr	2014-04-30 21:13:42	2014-04-30 21:13:42
+228	0xe4	ä	8	9743726	nld	Het Hebreeuws en Fenicisch zijn Kanaänitische talen.	MarijnKp	2021-02-10 19:38:04	2021-02-10 19:38:04
 229	0xe5	å	1	7910136	nld	Hagåtña is de hoofdstad van Guam.	MarijnKp	2019-05-14 18:16:27	2019-05-14 18:16:27
 230	0xe6	æ	1	7535971	nld	Zweden wordt uitgesproken als "sværjə" in het Zweeds.	MarijnKp	2018-11-29 14:23:56	2018-11-29 14:23:56
 231	0xe7	ç	13	10703787	nld	De açaí is een bes die afkomstig is uit de staat Pará, Brazilië.	MarijnKp	2022-03-05 11:00:05	2022-03-05 11:00:05
-232	0xe8	è	189	12340333	nld	Elektrische stroom wordt in ampère gemeten.	doemaar14	2024-02-26 02:03:18	2024-02-26 02:04:28
-233	0xe9	é	961	9433332	nld	Oké. Daar ben ik het mee eens.	Micsmithel	2020-12-04 16:49:11	2020-12-04 16:49:11
-234	0xea	ê	33	11576369	nld	Weet je wel hoe gênant dit is voor Tom?	megamanenm	2023-03-04 22:13:56	2023-03-04 22:13:56
-235	0xeb	ë	2425	7323382	nld	Rome heeft de oorlog verklaard aan Venetië.	MarijnKp	2018-10-21 16:47:40	2018-10-21 16:47:40
+232	0xe8	è	189	10018236	nld	Ik heb de caissière betaald.	MarijnKp	2021-05-09 15:39:33	2021-05-09 15:39:33
+233	0xe9	é	961	6633806	nld	Hij heeft één hond en zes katten.	Raizin	2018-01-27 11:15:25	2018-01-27 11:15:25
+234	0xea	ê	33	11516041	nld	Het is erg gênant.	megamanenm	2023-02-06 21:15:24	2023-02-06 21:15:24
+235	0xeb	ë	2426	8537732	nld	Het is moeilijk goede ideeën te hebben.	Elsofie	2020-02-09 10:39:12	2020-02-09 10:39:12
 236	0xec	ì	1	7462776	nld	Het Verenigd Koninkrijk wordt "Rìoghachd Aonaichte" genoemd in het Schots-Gaelisch.	MarijnKp	2018-11-14 17:27:35	2020-02-11 19:25:02
-237	0xed	í	26	8836128	nld	Joaquín is Argentijn.	Micsmithel	2020-06-11 20:49:21	2020-06-11 20:49:21
-238	0xee	î	7	9672555	nld	Morgen ga ik naar Nîmes.	megamanenm	2021-01-18 21:46:10	2021-01-18 21:46:10
-239	0xef	ï	625	11762812	nld	Het was een geïmproviseerde oplossing die hun leven redde.	Micsmithel	2023-05-14 17:26:11	2023-05-14 17:26:11
+237	0xed	í	26	7817715	nld	Er zijn woorden in het Portugees die geen vertaling of equivalent hebben in andere talen, zoals „açaí”, „samba” of „guaraná”.	PaulP	2019-03-20 08:40:17	2019-03-20 08:42:03
+238	0xee	î	7	7462774	nld	De Centraal-Afrikaanse Republiek wordt "Ködörösêse tî Bêafrîka" genoemd in het Sango.	MarijnKp	2018-11-14 17:25:15	2020-02-11 19:24:42
+239	0xef	ï	628	11905037	nld	Aït Mahmoud is een dorp.	purple_ice	2023-07-04 13:29:48	2023-07-04 13:29:48
 240	0xf0	ð	1	5046049	nld	De minister-president van IJsland, Sigmundur Davíð Gunnlaugsson, trad af nadat het onthuld was dat zijn vrouw een offshore investeringsbedrijf had.	LinguisticFusion	2016-04-06 19:53:02	2016-04-06 19:53:02
-241	0xf1	ñ	7	12351277	nld	De chef bereidde een pittige saus voor de taco's en voegde jalapeños en cayennepeper toe voor een pittige kick.	megamanenm	2024-03-02 21:02:38	2024-03-02 21:02:38
-243	0xf3	ó	37	7907503	nld	Tórshavn is de hoofdstad van de Faeröer.	MarijnKp	2019-05-13 18:19:59	2019-05-13 18:19:59
-244	0xf4	ô	2	8103664	nld	De Commune van Parijs, die van mening is dat de keizerlijke zuil van de Place Vendôme een monument van barbaarsheid is, een symbool van bruut geweld en valse glorie, een bevestiging van het militarisme, een ontkenning van het internationale recht, een permanente belediging van de overwinnaars ten aanzien van de overwonnenen, een eeuwigdurende aanval op een van de drie grote principes van de Franse Republiek, de broederschap, heeft het volgende afgekondigd: De zuil van de Place Vendôme zal afgebroken worden.	Micsmithel	2019-08-12 13:11:44	2023-01-28 17:52:42
-246	0xf6	ö	42	7899281	nld	Spreken jullie Faeröers?	MarijnKp	2019-05-09 17:43:41	2019-05-09 17:43:41
+241	0xf1	ñ	7	8672083	nld	De Spaanse woorden "cigüeña", "pingüino" en "vergüenza" hebben een trema.	MarijnKp	2020-04-11 18:55:57	2020-04-11 18:55:57
+243	0xf3	ó	37	2823825	nld	Veel ouders zijn van mening dat het belangrijk is dat hun kinderen vóór 8 uur 's avonds eten.	anders	2013-11-01 23:42:50	2013-11-01 23:42:50
+244	0xf4	ô	2	8538435	nld	In het Portugees zeggen we doorgaans "alô" bij het opnemen van de telefoon.	simonbr	2020-02-09 14:56:22	2020-02-09 14:56:22
+246	0xf6	ö	42	11162744	nld	Laten we dit afspreken: als u de opdracht van Müller & Söhne GmbH binnenhaalt, krijgt u de lening. Ik zal me er persoonlijk voor inzetten. Maar als u het contract niet krijgt, dan spijt het me.	Micsmithel	2022-10-07 16:58:36	2022-10-07 16:58:36
 248	0xf8	ø	2	3560082	nld	Ole Einar Bjørndalen heeft 13 olympische medailles gewonnen.	Lebensfreude	2014-10-15 20:28:40	2014-10-15 20:28:40
-250	0xfa	ú	3	11524380	nld	We hadden wel kúnnen ontsnappen.	megamanenm	2023-02-09 21:41:38	2023-02-09 21:41:38
+250	0xfa	ú	3	7342162	nld	De Dominicaanse Republiek wordt "República Dominicana" genoemd in het Spaans.	MarijnKp	2018-10-25 22:11:12	2018-10-25 22:11:12
 251	0xfb	û	2	8447212	nld	Het Koerdische alfabet bestaat uit eenendertig letters: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	MarijnKp	2020-01-12 23:25:48	2020-01-12 23:34:58
-252	0xfc	ü	96	9182597	nld	Jürgen Klopp is een voetbalgenie.	sportsfreak	2020-10-23 21:08:31	2020-10-23 21:08:31
+252	0xfc	ü	96	7811500	nld	Ik heb mijn software geüpdatet.	MarijnKp	2019-03-15 13:57:31	2019-03-15 13:57:31
 255	0xff	ÿ	1	8746372	nld	Hij woont in L'Haÿ-les-Roses.	MarijnKp	2020-05-08 07:25:31	2020-05-08 07:25:31
 257	0x101	ā	2	7462585	nld	Singapore wordt "Xīnjiāpō" genoemd in het Chinees.	MarijnKp	2018-11-14 16:30:37	2020-02-11 19:15:05
 259	0x103	ă	1	11570742	nld	De mărțișor is het symbool van de lente.	PaulP	2023-03-01 21:05:13	2023-03-01 21:05:13
@@ -141,22 +141,22 @@
 304	0x130	İ	1	7535123	nld	Ik woon in İzmir.	MarijnKp	2018-11-29 09:18:37	2018-11-29 09:18:37
 305	0x131	ı	1	7462518	nld	Cyprus wordt "Kıbrıs" genoemd in het Turks.	MarijnKp	2018-11-14 16:16:19	2020-02-11 19:10:18
 307	0x133	ĳ	1	7786633	nld	Je twĳfelt.	Micsmithel	2019-02-23 17:11:22	2019-02-23 17:11:22
-308	0x134	Ĵ	2	4611657	nld	Ĵondo drinkt bubbelthee op de straat.	PaulP	2015-10-15 14:56:14	2015-10-15 14:56:14
+308	0x134	Ĵ	2	4611662	nld	Ĵondo probeert verschillende soorten bubbelthee uit.	PaulP	2015-10-15 14:57:11	2015-10-15 14:57:11
 309	0x135	ĵ	1	633898	nld	Het Esperanto-alfabet bevat achtentwintig letters: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	GrizaLeono	2010-11-24 12:41:19	2010-11-24 23:55:32
-322	0x142	ł	6	8443405	nld	De prijs van dit boek met korting is 10 złoty .	MarijnKp	2020-01-11 13:54:36	2020-01-11 13:54:36
+322	0x142	ł	6	8443404	nld	Het boek kost tien złoty met korting.	MarijnKp	2020-01-11 13:53:24	2020-01-11 13:53:24
 324	0x144	ń	1	8354062	nld	Copernicus is in Toruń geboren.	PaulP	2019-11-29 11:42:26	2019-11-29 11:53:53
 333	0x14d	ō	2	7462585	nld	Singapore wordt "Xīnjiāpō" genoemd in het Chinees.	MarijnKp	2018-11-14 16:30:37	2020-02-11 19:15:05
 335	0x14f	ŏ	1	7462647	nld	Noord-Korea wordt "Chosŏn" genoemd in het Koreaans.	MarijnKp	2018-11-14 16:46:09	2020-02-11 19:19:40
 337	0x151	ő	1	11519104	nld	Ik heet Ernő.	mraz	2023-02-08 08:27:59	2023-02-08 08:27:59
-349	0x15d	ŝ	4	633898	nld	Het Esperanto-alfabet bevat achtentwintig letters: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	GrizaLeono	2010-11-24 12:41:19	2010-11-24 23:55:32
+349	0x15d	ŝ	4	3324510	nld	Mikaelo Bronŝtejn schreef de roman "De stad Goblinsk".	PaulP	2014-06-19 06:39:37	2014-06-19 06:39:37
 351	0x15f	ş	1	8447212	nld	Het Koerdische alfabet bestaat uit eenendertig letters: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	MarijnKp	2020-01-12 23:25:48	2020-01-12 23:34:58
-353	0x161	š	2	11661750	nld	Het Sloveense alfabet bestaat uit 25 letters: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.	Adelpa	2023-04-06 19:01:32	2023-04-06 19:05:22
+353	0x161	š	2	9092199	nld	Mijn naam is Dušana.	Micsmithel	2020-10-01 21:40:13	2020-10-01 21:40:13
 363	0x16b	ū	1	7462773	nld	Saoedi-Arabië wordt "Al-Mamlakah Al-‘Arabiyyah As-Sa‘ūdiyyah" genoemd in het Arabisch.	MarijnKp	2018-11-14 17:24:09	2020-02-11 19:23:55
 365	0x16d	ŭ	1	633898	nld	Het Esperanto-alfabet bevat achtentwintig letters: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	GrizaLeono	2010-11-24 12:41:19	2010-11-24 23:55:32
 382	0x17e	ž	1	11661750	nld	Het Sloveense alfabet bestaat uit 25 letters: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.	Adelpa	2023-04-06 19:01:32	2023-04-06 19:05:22
-537	0x219	ș	6	11570742	nld	De mărțișor is het symbool van de lente.	PaulP	2023-03-01 21:05:13	2023-03-01 21:05:13
+537	0x219	ș	6	3793301	nld	Wat hebben de nieuwe politici, die aan de macht kwamen na de executie van het echtpaar Ceaușescu, dan gedaan?	PaulP	2015-01-24 16:26:30	2015-01-24 16:26:30
 539	0x21b	ț	2	3172681	nld	De gemeente Iași wordt begrensd door de provincies Botoșani in het noorden, Suceava in het noordwesten, Neamț in het westen en Vaslui in het zuiden.	PaulP	2014-04-13 13:15:02	2014-04-13 13:15:02
-601	0x259	ə	2	7535971	nld	Zweden wordt uitgesproken als "sværjə" in het Zweeds.	MarijnKp	2018-11-29 14:23:56	2018-11-29 14:23:56
+601	0x259	ə	2	7462615	nld	Azerbeidzjan wordt "Azərbaycan" genoemd in het Azerbeidzjaans.	MarijnKp	2018-11-14 16:39:47	2020-02-11 19:16:50
 603	0x25b	ɛ	1	11908094	nld	's Avonds na de les neemt professor Saɛid niet dezelfde route als 's ochtends om naar school te komen.	purple_ice	2023-07-05 11:39:50	2023-07-05 21:42:21
 941	0x3ad	έ	1	7963725	nld	Het woord „meteoor” komt van het Griekse woord μετέωρος en betekent „in de lucht”.	PaulP	2019-06-07 16:04:11	2019-06-07 16:04:11
 949	0x3b5	ε	1	7963725	nld	Het woord „meteoor” komt van het Griekse woord μετέωρος en betekent „in de lucht”.	PaulP	2019-06-07 16:04:11	2019-06-07 16:04:11
@@ -167,7 +167,7 @@
 962	0x3c2	ς	1	7963725	nld	Het woord „meteoor” komt van het Griekse woord μετέωρος en betekent „in de lucht”.	PaulP	2019-06-07 16:04:11	2019-06-07 16:04:11
 964	0x3c4	τ	1	7963725	nld	Het woord „meteoor” komt van het Griekse woord μετέωρος en betekent „in de lucht”.	PaulP	2019-06-07 16:04:11	2019-06-07 16:04:11
 969	0x3c9	ω	1	7963725	nld	Het woord „meteoor” komt van het Griekse woord μετέωρος en betekent „in de lucht”.	PaulP	2019-06-07 16:04:11	2019-06-07 16:04:11
-1072	0x430	а	3	11242468	nld	Je hebt een opmerking toegevoegd, geen vertaling. Om een vertaling toe te voegen klik je op het "あ→а"-icoon boven de zin.	SunnyMoon	2022-11-11 20:19:18	2023-03-16 15:54:42
+1072	0x430	а	3	4279893	nld	Het Esperantowoord "okazo" betekende oorspronkelijk" iets, wat gebeurt" en "bepaalde omstandigheid", net als het Russische woord "случай", terwijl "kazo" alleen "naamval" betekende. Onder westerse invloed kreeg "kazo" ook de betekenis van "rechtszaak" en later "gebeurtenis in het algemeen".	GrizaLeono	2015-06-17 10:16:45	2020-04-11 19:11:52
 1081	0x439	й	1	4279893	nld	Het Esperantowoord "okazo" betekende oorspronkelijk" iets, wat gebeurt" en "bepaalde omstandigheid", net als het Russische woord "случай", terwijl "kazo" alleen "naamval" betekende. Onder westerse invloed kreeg "kazo" ook de betekenis van "rechtszaak" en later "gebeurtenis in het algemeen".	GrizaLeono	2015-06-17 10:16:45	2020-04-11 19:11:52
 1083	0x43b	л	1	4279893	nld	Het Esperantowoord "okazo" betekende oorspronkelijk" iets, wat gebeurt" en "bepaalde omstandigheid", net als het Russische woord "случай", terwijl "kazo" alleen "naamval" betekende. Onder westerse invloed kreeg "kazo" ook de betekenis van "rechtszaak" en later "gebeurtenis in het algemeen".	GrizaLeono	2015-06-17 10:16:45	2020-04-11 19:11:52
 1089	0x441	с	1	4279893	nld	Het Esperantowoord "okazo" betekende oorspronkelijk" iets, wat gebeurt" en "bepaalde omstandigheid", net als het Russische woord "случай", terwijl "kazo" alleen "naamval" betekende. Onder westerse invloed kreeg "kazo" ook de betekenis van "rechtszaak" en later "gebeurtenis in het algemeen".	GrizaLeono	2015-06-17 10:16:45	2020-04-11 19:11:52
@@ -176,23 +176,23 @@
 1105	0x451	ё	1	5989168	nld	Een Prinse van Oranje ben ik, vrij onverveerd, den Koning van Hispanje heb ik altijd geёerd.	AqQoyriq_1	2017-03-31 05:13:12	\N
 7717	0x1e25	ḥ	1	7462772	nld	De Verenigde Arabische Emiraten worden "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah" genoemd in het Arabisch.	MarijnKp	2018-11-14 17:23:09	2020-02-11 19:23:41
 7771	0x1e5b	ṛ	1	7462557	nld	Marokko wordt "Meṛṛuk" genoemd in het Berbers.	MarijnKp	2018-11-14 16:24:34	2020-02-11 19:13:27
-8203	0x200b	​	145	8695380	nld	Mary draagt ​​een blauwe jurk.	MarijnKp	2020-04-20 08:05:40	2020-04-20 08:05:40
+8203	0x200b	​	145	7535694	nld	Ik gaf Tom een ​​keuze.	MarijnKp	2018-11-29 12:00:13	2018-11-29 12:00:13
 8209	0x2011	‑	1	4457002	nld	„Hoe gaat het met je?” ‑ „Ik mag niet klagen.”	PaulP	2015-08-17 12:08:56	2015-08-17 12:08:56
-8211	0x2013	–	31	9668842	nld	Giovanni Cassini (1625–1712) was de eerste die vier manen van Saturnus observeerde, waaronder Iapetus.	MarijnKp	2021-01-17 10:18:56	2021-01-17 10:18:56
-8212	0x2014	—	12	8319311	nld	„Wanneer komen jullie?” — „We komen de volgende maand.”	PaulP	2019-11-12 11:40:38	2019-11-17 13:21:53
+8211	0x2013	–	31	12276128	nld	„Waar heb ik mijn bril nu weer gelaten?” – „Kijk eens op de buffetkast.”	PaulP	2024-01-20 07:40:54	2024-01-20 07:40:54
+8212	0x2014	—	12	11028454	nld	Ze was niet dronken—ze had gewoon zin om uit volle borst te zingen.	megamanenm	2022-07-27 13:56:13	2022-07-27 13:56:13
 8216	0x2018	‘	18	7462772	nld	De Verenigde Arabische Emiraten worden "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah" genoemd in het Arabisch.	MarijnKp	2018-11-14 17:23:09	2020-02-11 19:23:41
-8217	0x2019	’	75	8444153	nld	Sami moest Layla’s auto gebruiken.	Elsofie	2020-01-11 18:31:01	2020-01-11 18:31:01
-8220	0x201c	“	28	8094705	nld	“Hoe durf je me naar het eind van deze zin te verbannen?” vroeg Tom.	Elsofie	2019-08-06 17:40:34	2019-08-07 13:16:16
-8221	0x201d	”	162	3257387	nld	Als een official, een functionaris, een vraag beantwoordt met „Geen commentaar”, dan begint de journalistenneus te jeuken: die heeft wat te verbergen.	PaulP	2014-05-17 08:13:54	2014-05-17 08:13:54
-8222	0x201e	„	134	7963725	nld	Het woord „meteoor” komt van het Griekse woord μετέωρος en betekent „in de lucht”.	PaulP	2019-06-07 16:04:11	2019-06-07 16:04:11
-8230	0x2026	…	5	11781509	nld	"Aan wat denkt u?" "Niets …"	Micsmithel	2023-05-21 14:25:16	2023-05-21 14:25:16
+8217	0x2019	’	71	3567994	nld	Als je zo goed bent, doe je ’t zelf maar.	vvv123	2014-10-19 15:32:00	2014-10-19 15:32:00
+8220	0x201c	“	28	8622195	nld	“Vanaf wanneer is het ontbijt?” “Vanaf half acht”.	Elsofie	2020-03-20 06:06:58	2020-03-20 06:06:58
+8221	0x201d	”	162	4416042	nld	„Jij praat te veel”, zei hij.	PaulP	2015-07-29 08:13:15	2015-07-29 08:13:15
+8222	0x201e	„	134	5441440	nld	Als je het spreekwoord „gedeelde smart is halve smart” moet geloven, dan zal het volgende bericht een troost zijn voor vele lezers, of ten minste voor hen wiens nachtmerrie de boor, de spuit en de rest van het instrumentarium is dat ten dienste staat van de tandartsen.	PaulP	2016-09-15 09:43:45	2016-09-15 09:43:45
+8230	0x2026	…	5	7462177	nld	"Klop klop, is er iemand thuis?" "Ga weg!" "Ik kan je niet horen." "Oké, wat is er?" "Mag ik mezelf voorstellen. Ik ben Geronimo Stilton." "Wat wil je?" "Uwe Hoogheid, laat me uw koninkrijk doorkruisen, zodat ik—" "Afgewezen." "Maar— " "Tenzij je een echte krijger bent." "Geloof me als ik u vertel dat ik GEEN ridder ben." "Dus je hebt geen zwaard?" "Niet eens één. Ik ben geen ridder." "Wat dacht je van een stuk van de Triforce?" "Ik ben GEEN ridder!" "Je ziet eruit als een ridder op deze foto die ik op jouw website heb gevonden." "Ik ben geen ridder!" "Ga dan weg." "Maar… oké."	MarijnKp	2018-11-14 15:14:14	2020-02-11 19:04:35
 8322	0x2082	₂	2	7902219	nld	De chemische formule voor water is H₂O.	MarijnKp	2019-05-11 09:36:56	2019-05-11 09:36:56
 8363	0x20ab	₫	1	8547577	nld	De Vietnameese munt is de dong. Het symbool daarvoor is "₫".	martinod	2020-02-13 08:47:02	2020-02-13 08:47:02
-8364	0x20ac	€	5	378722	nld	Ik verdien €100 per dag.	Dorenda	2010-04-11 23:05:09	2010-04-11 23:05:09
-8594	0x2192	→	2	741429	nld	Ge hebt een commentaar toegevoegd, geen vertaling. Om een vertaling toe te voegen, klik op het symbool «あ→а» boven de zin.	martinod	2011-02-04 14:23:36	2011-02-04 14:24:44
+8364	0x20ac	€	5	391168	nld	Als je €30 in je la vindt, dan komt dat doordat ik te veel bankbiljetten had en ze daarom bij jou gelaten heb.	Dorenda	2010-05-19 21:49:36	2016-03-30 15:58:42
+8594	0x2192	→	2	11242468	nld	Je hebt een opmerking toegevoegd, geen vertaling. Om een vertaling toe te voegen klik je op het "あ→а"-icoon boven de zin.	SunnyMoon	2022-11-11 20:19:18	2023-03-16 15:54:42
 8722	0x2212	−	1	4507930	nld	Bepaal het bereik van de waarden van de constante k, waarvoor de kwadratische ongelijkheid x² + kx − 3k > 0 geldt voor elke willekeurige reële waarde van x.	Raizin	2015-09-07 19:08:04	2015-09-07 19:08:04
-8730	0x221a	√	2	5404099	nld	De wortel van 3 is √3 of -√3.	Raizin	2016-09-05 18:45:30	2016-09-05 18:45:30
-12354	0x3042	あ	2	11242468	nld	Je hebt een opmerking toegevoegd, geen vertaling. Om een vertaling toe te voegen klik je op het "あ→а"-icoon boven de zin.	SunnyMoon	2022-11-11 20:19:18	2023-03-16 15:54:42
+8730	0x221a	√	2	5404101	nld	De vierkantswortel van 3 is √3 of -√3.	Raizin	2016-09-05 18:46:13	2016-09-05 18:46:13
+12354	0x3042	あ	2	741429	nld	Ge hebt een commentaar toegevoegd, geen vertaling. Om een vertaling toe te voegen, klik op het symbool «あ→а» boven de zin.	martinod	2011-02-04 14:23:36	2011-02-04 14:24:44
 127777	0x1f321	🌡	1	8963047	nld	Verschillende emoji's worden veel gebruikt tijdens de COVID-19-pandemie: 🦠🌡🧼🤧😷🤒🤧🤮.	MarijnKp	2020-08-07 13:16:00	2020-08-07 13:16:00
 128567	0x1f637	😷	1	8963047	nld	Verschillende emoji's worden veel gebruikt tijdens de COVID-19-pandemie: 🦠🌡🧼🤧😷🤒🤧🤮.	MarijnKp	2020-08-07 13:16:00	2020-08-07 13:16:00
 129298	0x1f912	🤒	1	8963047	nld	Verschillende emoji's worden veel gebruikt tijdens de COVID-19-pandemie: 🦠🌡🧼🤧😷🤒🤧🤮.	MarijnKp	2020-08-07 13:16:00	2020-08-07 13:16:00

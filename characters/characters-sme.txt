@@ -1,53 +1,53 @@
-32	0x20	 	211	4364450	sme	Man boaris don leat?	Silja	2015-07-12 22:57:19	2015-10-13 19:45:23
-33	0x21	!	20	5020852	sme	Bures boahtin Tatoebai!	\N	2016-03-29 08:12:57	2016-03-29 08:13:20
+32	0x20	 	211	9681667	sme	Don fertet čorget du lanja juohke beaivvi.	skanne	2021-01-22 00:22:34	2021-01-22 00:22:34
+33	0x21	!	20	8755512	sme	In jáhke!	skanne	2020-05-12 00:29:30	2020-05-12 00:29:30
 44	0x2c	,	2	6309998	sme	Bill, jus don boađát mu fárrui, don nai govddut.	\N	2017-09-16 15:41:48	2017-10-04 08:00:47
-46	0x2e	.	139	8754205	sme	In astta.	skanne	2020-05-11 15:02:10	2020-05-11 15:02:10
-63	0x3f	?	60	7585964	sme	Siđatgo gáfe?	Borkonall	2018-12-16 10:35:33	2018-12-16 10:35:33
+46	0x2e	.	139	9684947	sme	Galggan diehtit.	skanne	2021-01-23 09:05:39	2021-01-23 09:05:39
+63	0x3f	?	60	8755495	sme	Leatgo gullan dán?	skanne	2020-05-12 00:22:09	2020-05-12 00:22:09
 65	0x41	A	2	10844875	sme	Ale vajálduhte čállit!	skanne	2022-05-20 23:37:44	2022-05-20 23:37:44
-66	0x42	B	14	4739829	sme	Buorre eahket.	Orava	2015-12-02 15:57:18	2020-05-27 08:26:11
-68	0x44	D	26	9686605	sme	Don áiggut liikot Tomai.	skanne	2021-01-23 21:20:56	2021-01-23 21:20:56
-69	0x45	E	3	1359386	sme	Sámegielat leat Eurohpá eamigielat ja nuortamearasuoma lagamus fuolkkit.	bovoeo	2012-01-13 21:12:33	2012-01-15 17:54:25
+66	0x42	B	14	7801003	sme	Beduinnat orrot sáttoábis.	Balamax	2019-03-08 17:11:04	2019-03-08 17:11:52
+68	0x44	D	26	10894637	sme	Dat lea jáhkkemeahttun!	skanne	2022-06-07 07:23:18	2022-06-07 07:23:18
+69	0x45	E	3	11930544	sme	Háliidan fárret Englándii.	OlaafSoren	2023-07-14 16:30:10	2023-07-14 16:30:10
 70	0x46	F	1	9684946	sme	Ferten diehtit.	skanne	2021-01-23 09:05:01	2021-01-23 09:05:01
-71	0x47	G	20	7586002	sme	Gii?	Borkonall	2018-12-16 10:42:21	2018-12-16 10:42:21
+71	0x47	G	20	8753928	sme	Gos don leat eret?	skanne	2020-05-11 13:56:17	2020-05-11 13:56:17
 72	0x48	H	3	8766898	sme	Háliidat go vuolgit?	skanne	2020-05-16 22:03:09	2020-05-16 22:03:09
-73	0x49	I	8	8752689	sme	In sáhte dál boahtit.	skanne	2020-05-10 23:08:27	2020-05-10 23:08:32
-74	0x4a	J	3	8762861	sme	Jurddaš maid don háliidat!	skanne	2020-05-15 08:32:27	2020-05-15 08:32:27
+73	0x49	I	8	8753988	sme	In ádde.	skanne	2020-05-11 14:14:17	2020-05-11 14:14:17
+74	0x4a	J	3	8755413	sme	Jearan.	skanne	2020-05-11 23:39:59	2020-05-11 23:39:59
 76	0x4c	L	13	8754501	sme	Lea go dus ruhta?	skanne	2020-05-11 17:15:41	2020-05-11 17:15:41
-77	0x4d	M	80	4739878	sme	Mun in bora bierggu.	Orava	2015-12-02 16:20:40	2015-12-02 16:20:40
-78	0x4e	N	4	8755406	sme	Njálgga!	skanne	2020-05-11 23:34:49	2020-05-11 23:34:49
-79	0x4f	O	6	10844861	sme	Oamastatgo don biilla?	skanne	2022-05-20 23:18:33	2022-05-20 23:18:33
+77	0x4d	M	80	8755440	sme	Maid don meidnet?	skanne	2020-05-11 23:49:39	2020-05-11 23:49:39
+78	0x4e	N	4	7586790	sme	Oidnen maid Niillasa.	Borkonall	2018-12-16 17:37:28	2018-12-16 17:37:28
+79	0x4f	O	6	7586790	sme	Oidnen maid Niillasa.	Borkonall	2018-12-16 17:37:28	2018-12-16 17:37:28
 80	0x50	P	1	9685004	sme	Leago Toki Pona giella studeremii heivvolaš?	skanne	2021-01-23 09:30:23	2021-01-23 09:30:39
-82	0x52	R	5	7585994	sme	Mun lean Ricardo.	Borkonall	2018-12-16 10:40:47	2018-12-16 10:40:47
-83	0x53	S	26	8800025	sme	Son bovdii mu.	skanne	2020-05-28 21:39:18	2020-05-28 21:39:18
-84	0x54	T	23	9686557	sme	Doai ráhkistivččiide Toma.	skanne	2021-01-23 21:13:23	2021-01-23 21:13:23
-97	0x61	a	186	4739829	sme	Buorre eahket.	Orava	2015-12-02 15:57:18	2020-05-27 08:26:11
-98	0x62	b	53	8753951	sme	Maid don barggat?	skanne	2020-05-11 14:08:40	2020-05-11 14:08:40
-99	0x63	c	5	5631561	sme	Galbarihcis eai leat bánit.	Balamax	2016-11-22 23:30:30	2016-11-22 23:31:09
-100	0x64	d	114	8753955	sme	Mii lea du telefonnummir?	skanne	2020-05-11 14:09:48	2020-05-11 14:09:48
-101	0x65	e	165	7586790	sme	Oidnen maid Niillasa.	Borkonall	2018-12-16 17:37:28	2018-12-16 17:37:28
-102	0x66	f	14	1359386	sme	Sámegielat leat Eurohpá eamigielat ja nuortamearasuoma lagamus fuolkkit.	bovoeo	2012-01-13 21:12:33	2012-01-15 17:54:25
-103	0x67	g	75	3176274	sme	Dan gujis lea boares viessu.	\N	2014-04-14 17:42:06	2015-10-14 13:48:35
-104	0x68	h	69	11861279	sme	Son vástidii gažaldahkii.	enebi	2023-06-20 23:14:02	2023-06-20 23:14:02
-105	0x69	i	160	11929258	sme	Lean guokte jagi boarráseabbo go don.	OlaafSoren	2023-07-14 04:34:37	2023-07-14 04:34:37
-106	0x6a	j	43	8763220	sme	Sami riŋgii politiijii.	skanne	2020-05-15 12:51:58	2020-05-15 12:51:58
-107	0x6b	k	51	7196022	sme	Son vázzá nuoraidskuvlla.	ae_hutchings	2018-09-21 20:20:01	2018-09-21 20:20:01
-108	0x6c	l	123	11929252	sme	Eanan lea jorbbas.	OlaafSoren	2023-07-14 04:25:21	2023-07-14 04:25:21
-109	0x6d	m	104	8763157	sme	Mun áiggun gáfe milkkiin.	skanne	2020-05-15 12:16:34	2020-05-15 12:16:34
-110	0x6e	n	152	11930483	sme	Mun in máhte dárogiela.	OlaafSoren	2023-07-14 15:59:17	2023-07-14 15:59:17
-111	0x6f	o	147	8754222	sme	Leat go bassan gieđaid?	skanne	2020-05-11 15:12:49	2020-05-11 15:12:49
-112	0x70	p	23	9684992	sme	Gos don ohppet latiinnagiela?	skanne	2021-01-23 09:25:02	2021-01-23 09:25:02
-114	0x72	r	86	6309998	sme	Bill, jus don boađát mu fárrui, don nai govddut.	\N	2017-09-16 15:41:48	2017-10-04 08:00:47
+82	0x52	R	5	11930530	sme	Mun ásan Ruonáeatnamis.	OlaafSoren	2023-07-14 16:22:23	2023-07-14 16:22:23
+83	0x53	S	26	8763220	sme	Sami riŋgii politiijii.	skanne	2020-05-15 12:51:58	2020-05-15 12:51:58
+84	0x54	T	23	9686486	sme	Dii gottiidet Toma.	skanne	2021-01-23 20:56:42	2021-01-23 20:56:42
+97	0x61	a	186	3176272	sme	Sus leat rukses lieđit.	\N	2014-04-14 17:41:13	2015-10-14 13:48:25
+98	0x62	b	53	10844861	sme	Oamastatgo don biilla?	skanne	2022-05-20 23:18:33	2022-05-20 23:18:33
+99	0x63	c	5	7585994	sme	Mun lean Ricardo.	Borkonall	2018-12-16 10:40:47	2018-12-16 10:40:47
+100	0x64	d	114	8755554	sme	Mana eret dáppe!	skanne	2020-05-12 01:50:31	2020-05-12 01:50:31
+101	0x65	e	165	9684959	sme	Ale čuohpa suorpmat.	skanne	2021-01-23 09:12:32	2021-01-23 09:12:32
+102	0x66	f	14	7586793	sme	Goas don fas boađát?	Borkonall	2018-12-16 17:38:29	2018-12-16 17:38:29
+103	0x67	g	75	4851855	sme	Jugat go gáfe?	al_ex_an_der	2016-01-23 16:42:04	2016-01-23 16:42:55
+104	0x68	h	69	9684976	sme	Mun lean easka čuohppan suorpman.	skanne	2021-01-23 09:19:45	2021-01-23 09:19:45
+105	0x69	i	160	10844862	sme	Leago dus biila?	skanne	2022-05-20 23:19:40	2022-05-20 23:19:40
+106	0x6a	j	43	8763387	sme	Tom jámii doppe.	skanne	2020-05-15 14:36:56	2020-05-15 14:36:56
+107	0x6b	k	51	9685127	sme	Mun lean skuvllas.	skanne	2021-01-23 10:19:56	2021-01-23 10:19:56
+108	0x6c	l	123	7196022	sme	Son vázzá nuoraidskuvlla.	ae_hutchings	2018-09-21 20:20:01	2018-09-21 20:20:01
+109	0x6d	m	104	9686486	sme	Dii gottiidet Toma.	skanne	2021-01-23 20:56:42	2021-01-23 20:56:42
+110	0x6e	n	152	9685127	sme	Mun lean skuvllas.	skanne	2021-01-23 10:19:56	2021-01-23 10:19:56
+111	0x6f	o	147	10894654	sme	Movt manná?	skanne	2022-06-07 07:46:48	2022-06-07 07:46:48
+112	0x70	p	23	8755554	sme	Mana eret dáppe!	skanne	2020-05-12 01:50:31	2020-05-12 01:50:31
+114	0x72	r	86	11929258	sme	Lean guokte jagi boarráseabbo go don.	OlaafSoren	2023-07-14 04:34:37	2023-07-14 04:34:37
 115	0x73	s	91	7586786	sme	Oidnen maiddái Niillasa.	Borkonall	2018-12-16 17:36:53	2018-12-16 17:36:53
-116	0x74	t	129	8753951	sme	Maid don barggat?	skanne	2020-05-11 14:08:40	2020-05-11 14:08:40
-117	0x75	u	123	7586032	sme	Human eŋgelasgiela.	Borkonall	2018-12-16 10:49:24	2018-12-16 10:49:24
-118	0x76	v	55	7196123	sme	David lea ruovttus.	ae_hutchings	2018-09-21 21:03:36	2018-09-21 21:03:36
-122	0x7a	z	2	7586797	sme	Moai goasii báziime busses.	Borkonall	2018-12-16 17:40:59	2019-07-09 21:50:55
-193	0xc1	Á	3	8755490	sme	Ále mana!	skanne	2020-05-12 00:16:56	2020-05-12 00:16:56
-225	0xe1	á	117	7586815	sme	Mun áiggun oahppa.	Borkonall	2018-12-16 18:01:42	2018-12-16 18:01:42
+116	0x74	t	129	11930490	sme	Mu eadni lea Irlánddas eret.	OlaafSoren	2023-07-14 16:02:01	2023-07-14 16:02:01
+117	0x75	u	123	10844864	sme	Čále munnje!	skanne	2022-05-20 23:22:59	2022-05-20 23:22:59
+118	0x76	v	55	7586873	sme	Mii leat dávjá Romssas.	Borkonall	2018-12-16 18:58:22	2018-12-16 18:58:22
+122	0x7a	z	2	7196022	sme	Son vázzá nuoraidskuvlla.	ae_hutchings	2018-09-21 20:20:01	2018-09-21 20:20:01
+193	0xc1	Á	3	9686618	sme	Áhčán lea buoremus áhčči máilmmis.	skanne	2021-01-23 21:23:59	2021-01-23 21:23:59
+225	0xe1	á	117	3176276	sme	Bártnis lea heasta.	\N	2014-04-14 17:42:33	2015-10-14 13:48:44
 229	0xe5	å	1	11930614	sme	Mu bearaš fárrii Bådåddjui.	OlaafSoren	2023-07-14 17:19:17	2023-07-14 17:19:17
-268	0x10c	Č	9	10844873	sme	Čále du nama dohko!	skanne	2022-05-20 23:34:11	2022-05-20 23:34:18
-269	0x10d	č	22	8767241	sme	Son muitala ollu ilolaččat.	skanne	2020-05-16 23:41:52	2020-05-16 23:41:52
-273	0x111	đ	18	8754222	sme	Leat go bassan gieđaid?	skanne	2020-05-11 15:12:49	2020-05-11 15:12:49
-331	0x14b	ŋ	7	8763223	sme	Sami riŋgii buletiijai.	skanne	2020-05-15 12:53:15	2020-05-15 12:53:15
-353	0x161	š	15	10824014	sme	Borgguheapme váikkuha du dearvvašvuođa.	skanne	2022-05-12 17:13:49	2022-05-12 17:13:49
+268	0x10c	Č	9	5978184	sme	Čáhci lea eallin.	\N	2017-03-26 04:09:27	0000-00-00 00:00:00
+269	0x10d	č	22	8964384	sme	Mon máhtán lohkat čuođi rádjái.	skanne	2020-08-08 01:14:56	2020-08-08 01:14:56
+273	0x111	đ	18	10894650	sme	Leatgo don oastán oba ođđa biilla?	skanne	2022-06-07 07:38:14	2022-06-07 07:38:14
+331	0x14b	ŋ	7	8763219	sme	Sami riŋgii poliisii.	skanne	2020-05-15 12:51:46	2020-05-15 12:51:46
+353	0x161	š	15	7586818	sme	Mus leat dušše guokte máná.	Borkonall	2018-12-16 18:04:50	2018-12-16 18:04:50
 382	0x17e	ž	3	10844718	sme	Mun ožžon reivve suohkanis.	skanne	2022-05-20 21:13:05	2022-05-20 21:13:05

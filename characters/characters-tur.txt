@@ -1,170 +1,170 @@
-32	0x20	 	729169	6018330	tur	Hep Tom'un iyi olduğunu düşündüm.	deyta	2017-04-17 00:38:00	\N
-33	0x21	!	9528	3342150	tur	Oh, hayır! Benzinimiz bitti!	deyta	2014-06-26 10:42:47	2014-06-26 10:42:47
-34	0x22	"	13699	7685776	tur	"Kuzenlerin nereli?" "Rus."	turita	2019-01-04 20:06:10	2019-09-19 12:12:05
+32	0x20	 	729207	5860613	tur	Ben ödeme almıyorum.	duran	2017-02-12 19:29:20	2017-02-12 19:29:20
+33	0x21	!	9528	8153768	tur	Görüşürüz!	ritualesatanum	2019-08-31 21:06:05	2019-08-31 21:06:05
+34	0x22	"	13701	7692807	tur	"Komşularımızın milliyeti neydi?" "Çek."	turita	2019-01-04 23:26:54	2019-09-18 21:32:29
 35	0x23	#	4	5264621	tur	# 2416352 numaralı cümle benim Tatoeba'da şimdiye kadarki ilk katkımdır.	deyta	2016-07-10 18:08:17	2016-08-02 13:24:25
-36	0x24	$	15	6207798	tur	Biletler 13 $, 30 $ ve 33 $ 'dır ve öğleden sonra Pazartesi günü satışa sunulmaktadır.	duran	2017-08-23 08:44:43	2017-08-23 08:44:43
-37	0x25	%	211	5348847	tur	Kredi % 5.5 faiz taşır.	deyta	2016-08-17 13:20:13	2016-08-17 13:20:13
-38	0x26	&	12	3530253	tur	"&" işareti, "ve" kelimesini simgeler.	maydoo	2014-10-01 17:59:47	2014-10-01 17:59:55
-39	0x27	'	107355	7667680	tur	Bulgaristan'ı ziyaret etmediler.	turita	2018-12-27 20:41:38	2019-09-19 10:56:14
-40	0x28	(	94	2442824	tur	Kawa bir JVM(Java Sanal Makinesi) gerçekleştirme projesidir.Bu bütün Java kütüphanelerini avantajlı bir şekilde kullanmaya izin verir.	meinung44	2013-05-20 00:49:15	2013-05-20 00:54:26
-41	0x29	)	95	5574026	tur	Gelecek yıl Amerika'ya (ABD) gitmeyi planlıyorum.	deyta	2016-11-03 11:57:53	2016-11-03 11:57:53
-42	0x2a	*	7	3952124	tur	Şu anda çileğin ne kadar olduğunu biliyor musunuz*	duran	2015-03-13 03:45:56	2015-03-13 03:45:56
-43	0x2b	+	28	5618374	tur	Tom, LGBTQ+ topluluğunun bir parçası.	Gulo_Luscus	2016-11-17 20:58:40	2016-11-17 20:58:40
-44	0x2c	,	75083	1201815	tur	Tom çikolatayı onun istediğinden çok daha fazla istediği için, Mary ona onu yemesine izin verdi.	duran	2011-10-27 21:57:18	2011-10-27 21:57:18
-45	0x2d	-	1711	1035250	tur	Dokuz-beş işinde çalışmaktan bıktım.	duran	2011-08-10 09:27:52	2011-08-10 09:27:52
-46	0x2e	.	623467	4277928	tur	Siz ikiniz beni hasta ediyorsunuz.	duran	2015-06-16 13:11:11	2015-06-16 13:11:11
-47	0x2f	/	55	10143335	tur	Akan gözyaşlarıyla çifte veda ediyorum. / "Kaderleri belli olan sizler, mutlu yaşayın; / biz yine de Kaderin zorladığı yerde dolaşmalıyız."	BUSRA16	2021-07-02 10:12:23	2021-07-02 10:12:23
-48	0x30	0	4644	9426614	tur	Filmin galası 2011 yılında yapılacak.	CVTR	2020-12-03 15:15:25	2020-12-12 13:17:30
-49	0x31	1	3346	5979720	tur	1986 yapımı "Alın Yazım" filmini düzgün izleyip anlayabilirseniz suçsuzluğumu da anlarsınız.	Ahmet123	2017-03-26 18:54:48	2019-11-13 15:21:47
-50	0x32	2	3087	9570779	tur	Tatoeba'da 2021'in ilk Türkçe cümlesi bu olsun.	soliloquist	2020-12-31 22:04:21	2021-01-01 08:18:18
-51	0x33	3	2864	9357438	tur	"Atom numarası 43 olan element hangisidir?" "Teknetyum."	Bilgi	2020-11-22 15:33:43	2020-11-22 15:33:43
-52	0x34	4	897	5274769	tur	Onlar her ay 247.32 euroluk bir ödenek alırlar.	deyta	2016-07-14 20:53:05	2016-07-14 20:53:05
-53	0x35	5	1308	1182534	tur	Savaş 45 yıl önce gerçekleşti.	duran	2011-10-18 05:27:22	2011-10-18 05:27:22
-54	0x36	6	1015	9427655	tur	Festival 6 Nisan'da sona eriyor.	CVTR	2020-12-03 18:07:30	2020-12-04 13:09:00
-55	0x37	7	745	3269817	tur	Bay D'Espilly, 1772'de Fransa nüfusunun 22 milyondan fazla olduğunu hesapladı; yani 10,562,631 erkek ve 11,451,726 kadın; sonuç olarak kadınların erkeklere oranı yaklaşık 14'e 13'tü.	deyta	2014-05-22 10:57:26	2014-05-22 10:57:26
-56	0x38	8	940	5274706	tur	Biz onların saat 8'de geleceklerini unutmamalıyız.	deyta	2016-07-14 20:35:25	2016-07-14 20:35:33
-57	0x39	9	1186	5819416	tur	2009'da, Kore, OECD ülkeleri arasında en yüksek intihar oranına sahip olma onursuzluğunu yaşadı.	deyta	2017-02-01 22:24:55	2017-02-01 22:24:55
-58	0x3a	:	736	4435134	tur	Japon dilinin üç farklı alfabesi var: hiragana, katakana ve kanji.	duran	2015-08-06 14:27:02	2015-08-06 14:27:02
-59	0x3b	;	989	9676225	tur	O; patavatsız.	User95519	2021-01-20 01:31:49	2021-01-20 01:31:49
+36	0x24	$	15	1925828	tur	Onun yıllık geliri 100.000$'dan fazladır.	emrekargi	2012-10-15 17:52:04	2012-10-15 17:52:04
+37	0x25	%	211	5322742	tur	Okyanuslar dünya'nın yüzeyinin % 70'ini kaplarlar.	deyta	2016-08-06 19:16:15	2016-08-06 19:16:15
+38	0x26	&	12	1250320	tur	Ben R & B'yi seviyorum.	duran	2011-11-20 11:30:53	2013-08-04 08:54:55
+39	0x27	'	107361	5701684	tur	Bence Tom'un öfkesi sadece bir savunma mekanizması; Yerinde olsam şahsen bunu kabul etmezdim.	duran	2016-12-22 18:02:57	2016-12-22 18:02:57
+40	0x28	(	94	3676269	tur	Bana (bunu ) öğretebilir misin?	elifcakir	2014-12-05 19:48:59	2014-12-05 19:48:59
+41	0x29	)	95	10748053	tur	En uzun, en çaresiz (ümitsiz) geceyi düşün. Sabah olmadı mı?	Erdenurdas	2022-03-31 21:03:38	2022-03-31 21:03:38
+42	0x2a	*	7	6110952	tur	Onu kiminle yapabilirsin*	duran	2017-05-29 06:30:44	\N
+43	0x2b	+	28	3759332	tur	2 + 2 kaçtır?	deyta	2015-01-10 21:41:24	2016-04-14 15:43:04
+44	0x2c	,	75091	4818839	tur	Bu kurak bir bölge, neredeyse bir çöl.	duran	2016-01-08 19:54:58	2016-01-08 19:54:58
+45	0x2d	-	1711	4000110	tur	Bir kriz olduğunda biz Allah'a dua ederiz - sonra kriz bittiğinde Allah'ı unuturuz.	duran	2015-03-29 07:29:20	2015-03-29 07:29:20
+46	0x2e	.	623500	4834276	tur	Kentimde, Esperanto öğrenmek için hiçbir okul yoktur.	deyta	2016-01-15 19:40:37	2016-01-15 19:40:37
+47	0x2f	/	55	8074068	tur	Alüminyumun yoğunluğu 2,7gr/cm³ şeklindedir.	quagliarella	2019-07-24 16:33:41	2019-07-24 16:33:41
+48	0x30	0	4644	4446687	tur	Tom filme 10 üzerinden 7 puan verdi.	duran	2015-08-11 11:36:51	2015-08-11 11:36:51
+49	0x31	1	3346	3455030	tur	Polis beni durdurduğunda saatte 120 kilometre hızla sürüyordum.	deyta	2014-08-26 22:57:27	2014-08-26 22:57:27
+50	0x32	2	3088	6848722	tur	Saat 2.30'dan önce oraya ulaşmam gerek.	deyta	2018-04-20 22:21:36	2018-04-20 22:21:36
+51	0x33	3	2864	4750695	tur	Tom 6.30'da onu uyandırmamı istedi.	duran	2015-12-07 20:17:48	2015-12-07 20:17:48
+52	0x34	4	897	2159089	tur	1943'te Japonya savaştaydı.	Cookiejardino	2013-01-22 10:46:53	2013-01-22 10:46:53
+53	0x35	5	1308	5394848	tur	Kara mayınları her yıl çoğu çocuk 15.000 ila 20.000 insanı öldürür.	deyta	2016-09-02 22:34:49	2016-09-02 22:34:49
+54	0x36	6	1015	10012315	tur	5 üzeri 4, 625'tir.	soliloquist	2021-05-06 19:21:26	2021-05-06 19:21:29
+55	0x37	7	745	4827635	tur	Albert Einstein 1879 yılında Ulm, Almanya'da doğdu.	deyta	2016-01-12 18:55:55	2016-01-12 18:55:55
+56	0x38	8	940	5490566	tur	Brezilya'da 13 Mayıs 1888'de kölelik resmen kaldırılmıştır.	deyta	2016-10-03 18:57:24	2016-10-03 18:57:24
+57	0x39	9	1186	4832096	tur	Mary ve kocası 1903 yılında Nobel Fizik Ödülü'nü aldılar.	deyta	2016-01-14 23:21:32	2016-01-14 23:21:32
+58	0x3a	:	737	5409544	tur	"Http://example.org/" bir URL'dir.	deyta	2016-09-06 22:52:17	2016-09-06 22:55:27
+59	0x3b	;	990	1052540	tur	O gömleği deneyin; ince pamuktan yapılmıştır.	duran	2011-08-18 22:06:35	2011-08-18 22:06:35
 60	0x3c	<	1	1052993	tur	Fuji <dağı'nın tepesine tırmandık.	duran	2011-08-19 05:08:02	2011-08-19 05:08:02
 61	0x3d	=	8	5408313	tur	2 . 7 . 11 . 13 + 4 = 2006	deyta	2016-09-06 18:00:06	2016-10-17 18:20:31
-62	0x3e	>	2	4508435	tur	x bir reel sayı olmak üzere, x² + kx - 3k > 0 eşitsizliğinde k sabitinin alabileceği değer aralığını bulunuz.	tornado	2015-09-07 23:48:49	2015-09-08 00:42:56
-63	0x3f	?	112274	2322492	tur	Bu yol beni istasyona götürecek mi?	Gulo_Luscus	2013-03-20 15:13:20	2013-03-20 15:13:20
-64	0x40	@	7	2570078	tur	"@" karakterini sizin lisanınızda nasıl telaffuz edersiniz?	Gulo_Luscus	2013-07-06 12:23:27	2020-02-12 16:23:28
-65	0x41	A	38326	1037743	tur	Amcam her ne zaman gelse, o bizim için bazı güzel şeyler getirir.	duran	2011-08-11 22:59:29	2011-08-11 22:59:29
-66	0x42	B	153856	6008158	tur	Bu insanların üstüne düşmekten vazgeç.	deyta	2017-04-11 17:11:45	\N
-67	0x43	C	4804	4271720	tur	Ben Chiba sakiniyim ama Tokyo'da çalışıyorum.	deyta	2015-06-13 19:16:43	2015-06-13 19:16:43
-68	0x44	D	21533	4474662	tur	Dedesinin ölümünün ardından ülkeden ayrıldı.	deyta	2015-08-26 20:45:06	2015-08-26 20:45:06
-69	0x45	E	16179	477105	tur	Evli misin?	duran	2010-08-23 21:11:23	2015-12-14 10:42:06
-70	0x46	F	12105	5935592	tur	Leyla, Fadıl'ı kavga etmeden terk etmiyordu.	deyta	2017-03-10 22:00:41	\N
-71	0x47	G	18644	6322126	tur	Gitmemi istiyorsan gidebilirim.	duran	2017-09-23 07:50:36	2017-09-23 07:50:36
-72	0x48	H	30371	7687164	tur	"Hocaları nereli?" "Galler."	turita	2019-01-04 22:14:45	2019-09-19 12:34:56
-73	0x49	I	1088	5855643	tur	Islık çalmaya devam ettim.	deyta	2017-02-11 21:18:34	2017-02-11 21:18:34
-74	0x4a	J	6593	5990858	tur	Hem Tom hem de Mary, John için çalıştılar.	deyta	2017-03-31 22:34:08	\N
-75	0x4b	K	37104	8461284	tur	Kazaya tanık olmuştu.	Cumle_Kurucu	2020-01-17 18:30:25	2020-02-20 10:50:29
-76	0x4c	L	12356	1995022	tur	Lütfen yarın doktora gitmemi hatırlat.	duran	2012-11-10 11:50:55	2012-11-10 11:50:55
-77	0x4d	M	50142	6463566	tur	Tom bunu Mary için yapacağımızı umuyordu.	duran	2017-11-14 10:24:57	2017-11-14 10:24:57
-78	0x4e	N	20824	3552053	tur	Nefes kesici görünüyor.	vvv123	2014-10-11 16:50:16	2014-10-11 16:50:16
-79	0x4f	O	89260	1256002	tur	Onu hakkında endişe ediyorum.	duran	2011-11-22 20:09:59	2011-11-22 20:09:59
-80	0x50	P	12078	1063748	tur	Polis kırmızı ışıkta caddeyi geçmememizi söyledi.	duran	2011-08-25 09:21:29	2011-08-25 09:21:29
-81	0x51	Q	52	9811702	tur	100 IQ ortalama sayılmaktadır.	User95519	2021-02-27 22:14:35	2021-02-27 22:14:35
-82	0x52	R	4498	6131580	tur	Ruslar bizim yanımızdadır.	deyta	2017-06-05 16:54:20	\N
-83	0x53	S	61237	4855856	tur	Çiçekler mutlu görünmüyor. Onları sulamak istiyorum. Sulama kovası var mı?	User20656	2016-01-24 19:47:13	2016-01-24 19:47:13
-84	0x54	T	193969	6079083	tur	Tom Mary'nin onu yapabileceğini düşünüyor mu?	duran	2017-05-15 07:19:32	\N
-85	0x55	U	5030	1568393	tur	Uçak saat üçte varacak.	duran	2012-05-12 14:27:24	2012-05-12 14:27:24
-86	0x56	V	2899	9922690	tur	Vicdani retçiyiz.	soliloquist	2021-03-29 13:09:12	2021-03-29 13:09:15
-87	0x57	W	700	4827319	tur	WhatsApp'ta kaç tane gruba katıldın?	maydoo	2016-01-12 16:33:29	2016-01-12 16:33:29
-88	0x58	X	79	865467	tur	XYZ mağazasına giden yolu bana söyleyin lütfen.	duran	2011-04-29 14:57:40	2011-04-29 14:57:40
-89	0x59	Y	20851	3275617	tur	Yarına kadar yapmam gereken bir sürü şey var.	duran	2014-05-24 14:47:32	2014-05-24 14:47:32
-90	0x5a	Z	2655	3027081	tur	Zombiler hakkında ne biliyorsun?	duran	2014-02-02 15:32:31	2014-02-02 15:32:48
+62	0x3e	>	2	4806054	tur	">" den büyüktür demektir.	deyta	2016-01-02 19:14:14	2016-01-02 19:14:14
+63	0x3f	?	112280	2522223	tur	Ailem nerede?	duran	2013-06-24 18:48:41	2013-06-24 18:48:41
+64	0x40	@	7	3998516	tur	Yanlış cümlelere "@change" etiketini eklemeyi unutma.	duran	2015-03-28 21:27:57	2015-03-28 21:27:57
+65	0x41	A	38328	1080969	tur	Astro çocuk ülkeyi tehlikeden korudu.	duran	2011-09-04 09:54:14	2011-09-04 09:55:28
+66	0x42	B	153864	4653607	tur	Bir mola almamız gerektiğini düşünen kişi Tom'du.	duran	2015-10-29 16:27:46	2015-10-29 16:27:46
+67	0x43	C	4804	5189572	tur	Ben Park Caddesinde yaşardım.	duran	2016-06-03 17:43:57	2016-06-03 17:43:57
+68	0x44	D	21535	4842299	tur	Dün iki tane buğulanmış çörek satın aldım.	deyta	2016-01-18 20:48:40	2016-01-18 20:48:40
+69	0x45	E	16179	3972093	tur	En az 250 kelime yazın.	duran	2015-03-19 14:29:52	2015-03-19 14:29:52
+70	0x46	F	12105	7674310	tur	Tatile Filistin'e gitmiyoruz.	turita	2018-12-30 00:17:58	2019-09-19 11:27:06
+71	0x47	G	18647	923161	tur	Gece bir film izlemeye ne dersin?	duran	2011-06-03 21:31:44	2015-12-10 05:43:02
+72	0x48	H	30373	5734394	tur	Hâlâ bir ayımız var.	duran	2017-01-04 14:04:35	2017-01-04 14:04:35
+73	0x49	I	1088	1491784	tur	O, bir FBI ajanıdır.	duran	2012-03-18 00:22:35	2012-03-18 00:22:35
+74	0x4a	J	6593	1168136	tur	Tabii ki, ben Japonya'da iken Çin hakkında ders kitaplarından öğrendim, ama benim kendi adıma Çin'de gördüğüm bu ders kitaplarında anlatıldığından tamamen farklıdır.	duran	2011-10-10 12:48:45	2011-10-10 12:49:09
+75	0x4b	K	37108	7685862	tur	"Kuzenleri nereli?" "İspanyol."	turita	2019-01-04 20:08:43	2019-09-19 12:13:32
+76	0x4c	L	12356	4058219	tur	Laurent Weber Portland'ın başpiskoposu.	duran	2015-04-10 16:44:48	2015-04-10 16:44:48
+77	0x4d	M	50143	6296185	tur	Tom ve Mary bugün burada benimle birlikte.	duran	2017-09-08 14:22:46	2017-09-08 14:22:46
+78	0x4e	N	20824	4600800	tur	Ne istediğin ve neye ihtiyacın olduğu iki farklı şeydir.	duran	2015-10-12 06:02:56	2015-10-12 06:02:56
+79	0x4f	O	89262	1394745	tur	O yarın beyzbol oynayacak.	duran	2012-01-26 13:10:40	2012-01-26 13:10:40
+80	0x50	P	12078	3561182	tur	Zaten iPad'im var.	deyta	2014-10-16 11:34:25	2014-10-16 11:34:25
+81	0x51	Q	52	4131129	tur	Biz Quebec eyaletinin dil akademilerindeki en düşük fiyatı garanti ediyoruz.	deyta	2015-04-30 17:13:27	2015-04-30 17:13:27
+82	0x52	R	4498	3167333	tur	Rusya'dayım.	deyta	2014-04-11 18:11:09	2014-04-11 18:11:09
+83	0x53	S	61239	3615278	tur	Sen aldın demedim.	Katabasis	2014-11-08 17:43:10	2014-11-08 17:43:10
+84	0x54	T	193978	5710247	tur	Tom'u kim koruyor?	duran	2016-12-27 07:23:20	2016-12-27 07:23:20
+85	0x55	U	5030	5701570	tur	Umarım bu devam eder.	deyta	2016-12-22 16:39:02	2017-01-01 20:12:00
+86	0x56	V	2900	4629610	tur	Bu TV gösterisi genç gebelik ve eşcinsellik konuları ele almaktadır.	duran	2015-10-21 08:55:10	2015-10-21 08:55:10
+87	0x57	W	700	8544522	tur	Waffle sever misin?	soliloquist	2020-02-11 21:35:58	2020-02-11 21:35:58
+88	0x58	X	79	4541325	tur	Bir TXT dosyası bir metin dosyasıdır.	duran	2015-09-21 06:53:16	2015-09-21 06:53:16
+89	0x59	Y	20852	5051628	tur	Yıllardır sigara içmedim.	odien16	2016-04-09 06:35:24	2016-04-09 06:35:33
+90	0x5a	Z	2655	5104449	tur	Zaten bir yemek yedin mi yoksa yemedin mi?	duran	2016-05-02 18:35:02	2016-05-02 18:35:02
 91	0x5b	[	2	9038094	tur	Bu dilde, fonem olan /b/ bir kelimenin sonunda geçtiğinde [p] şeklinde telaffuz edilir.	drowsykush	2020-09-14 14:49:35	2020-09-14 14:49:35
 93	0x5d	]	2	9038094	tur	Bu dilde, fonem olan /b/ bir kelimenin sonunda geçtiğinde [p] şeklinde telaffuz edilir.	drowsykush	2020-09-14 14:49:35	2020-09-14 14:49:35
 94	0x5e	^	2	3768971	tur	"Tom'un partisine gidecek misin?" "Hâla^emin değilim."	duran	2015-01-14 21:05:58	2015-01-14 21:05:58
 95	0x5f	_	7	852103	tur	Haydi bu konuda yeni sözcük haznesiyle cümleler bulun, yandaki _____ listesine onları ekleyin; ve çevirin.	Adopter	2011-04-24 22:38:22	2020-04-27 19:21:22
-96	0x60	`	3	11500095	tur	Bu sınıfın düzeni a`dan z`ye kadar bozuk.	jlake	2023-02-01 04:16:24	2023-02-01 04:16:24
-97	0x61	a	650028	4530190	tur	Erkekler amaçlarına ulaştı.	duran	2015-09-16 18:28:15	2015-09-16 18:28:15
-98	0x62	b	344551	4195937	tur	Bir an Tom'un olan bitenleri gerçekten Mary'ye anlatacağını düşündüm.	deyta	2015-05-17 14:05:35	2015-05-17 14:05:35
-99	0x63	c	172057	4448362	tur	Davacının avukatı davalının suçunu kanıtlamaya çalışır.	deyta	2015-08-12 12:05:25	2016-11-13 10:26:56
-100	0x64	d	524534	1780995	tur	Birkaç gün otelde kaldı.	duran	2012-08-17 15:57:59	2012-08-17 15:57:59
-101	0x65	e	607401	4033907	tur	Ne istiyorsun benden?	vvv123	2015-04-04 12:45:55	2015-04-04 12:45:55
-102	0x66	f	68214	5940850	tur	Onu yapmak için fazla gençsin.	deyta	2017-03-11 18:52:55	\N
-103	0x67	g	203287	11677284	tur	Lillo'daki ikinci el satış güvenlik nedeniyle iptal edildi.	hasanyildiz	2023-04-12 20:06:46	2023-04-12 20:06:46
-104	0x68	h	166394	1709367	tur	Sahip olduğu parayı sana verecek.	duran	2012-07-19 13:13:27	2012-07-19 13:13:27
-105	0x69	i	610253	4580246	tur	O, kapıyı açar açmaz, beyaz bir köpek evden kaçtı.	duran	2015-10-05 12:48:01	2015-10-05 12:48:01
-106	0x6a	j	6273	4805914	tur	Bu cümle daha önce Tatoeba projesine eklenmedi.	deyta	2016-01-02 17:51:33	2016-01-02 17:51:38
-107	0x6b	k	475293	2660767	tur	Tom birisiyle çıkıyor muydu?	Gulo_Luscus	2013-08-08 09:41:53	2013-08-08 09:41:59
-108	0x6c	l	548804	6467893	tur	Tom, Mary'nin yorgun olduğunu düşündüğünü söyledi.	duran	2017-11-16 20:48:29	2017-11-16 20:48:29
-109	0x6d	m	586092	4049537	tur	Bunun ne hakkında olduğunu bana söyleyebilir misin?	deyta	2015-04-08 09:22:47	2015-04-08 09:22:47
-110	0x6e	n	620758	7689915	tur	"Hekimlerin nereli?" "İzlanda."	turita	2019-01-04 23:00:47	2019-09-18 23:13:40
-111	0x6f	o	496514	5661850	tur	Artık bir erkek gibi hissetmiyorum.	duran	2016-12-06 05:37:44	2016-12-06 05:37:44
-112	0x70	p	144964	5609157	tur	Tom gerçekten tek bir çocuk olduğu için pişman.	duran	2016-11-14 19:22:33	2016-11-14 19:22:33
-113	0x71	q	74	1096874	tur	Ben bir daiquiri istiyorum.	duran	2011-09-10 13:49:07	2011-09-10 13:49:07
-114	0x72	r	623833	2590466	tur	Kahramanlara ihtiyacımız var.	duran	2013-07-13 21:35:34	2013-07-13 21:35:34
-115	0x73	s	397477	7022590	tur	Tom bunu yapan tek kişi olduğunu söyledi.	duran	2018-07-26 16:05:15	2018-07-26 16:05:15
-116	0x74	t	397264	3860252	tur	Ne yapmam gerektiğini bana tekrar söyle.	duran	2015-02-11 13:55:09	2015-02-11 13:55:09
-117	0x75	u	417883	3581606	tur	Ellerini onun omuzlarına koydu.	vvv123	2014-10-25 23:19:00	2014-10-25 23:19:00
-118	0x76	v	156729	9837312	tur	Pazar günleri yapmaktan zevk aldığın bir hobin var mı?	TR724	2021-03-11 13:40:09	2021-03-11 13:47:39
-119	0x77	w	1479	5700772	tur	Hawaii'den az önce döndüm.	duran	2016-12-22 10:57:07	2016-12-22 10:57:07
-120	0x78	x	376	1751320	tur	Onlar başkent Mexico City'ye taşındılar.	duran	2012-08-04 16:50:03	2012-08-04 16:50:03
-121	0x79	y	504421	6548847	tur	Tom rekabetten korkmuyor.	duran	2017-12-10 07:01:29	2017-12-10 07:01:29
-122	0x7a	z	257361	11273662	tur	Dokümantasyonun bu bölümü hâlâ sizin dilinize çevrilmedi.	quagliarella	2022-11-28 09:51:05	2022-11-28 09:51:05
+96	0x60	`	3	11500118	tur	Sen daha dur, atı alan Üsküdar`ı çoktan geçti.	jlake	2023-02-01 04:26:22	2023-02-01 04:26:22
+97	0x61	a	650061	3875664	tur	Kimseyle tanıştın mı?	soliloquist	2015-02-17 21:47:15	2019-10-23 15:33:47
+98	0x62	b	344574	2742469	tur	Boşuna beni aramayın.	freefighter	2013-09-16 10:21:41	2013-09-16 10:21:41
+99	0x63	c	172067	5150518	tur	Ben annemden para isteyeceğim.	duran	2016-05-19 06:13:37	2016-05-19 06:13:37
+100	0x64	d	524566	6032941	tur	Nedeni hemen belli olmadı.	deyta	2017-04-24 00:25:37	\N
+101	0x65	e	607435	4428598	tur	Ablam İngilizce öğretmenidir.	deyta	2015-08-03 16:08:36	2018-03-22 21:42:54
+102	0x66	f	68219	5954496	tur	Kar fırtınası yüzünden bütün gün içeride kaldım.	deyta	2017-03-16 13:45:58	\N
+103	0x67	g	203300	5786856	tur	Nasıl yardımcı olmam gerekiyor?	duran	2017-01-21 14:40:01	2017-01-21 14:40:01
+104	0x68	h	166408	3033829	tur	Tom hariç burada hepimiz Kanadalıyız.	duran	2014-02-07 10:41:57	2014-02-07 10:41:57
+105	0x69	i	610288	2788252	tur	Ne zaman istersen beni ziyaret et.	deyta	2013-10-13 10:39:28	2016-11-13 17:22:27
+106	0x6a	j	6274	3977433	tur	Tom sizin için bir mesaj bıraktı.	duran	2015-03-21 18:16:24	2015-03-21 18:16:24
+107	0x6b	k	475325	7479751	tur	Yüzlerini sakladılar.	deyta	2018-11-17 22:28:39	2018-11-17 22:28:39
+108	0x6c	l	548835	6288485	tur	Tom ve ben rahatladık.	duran	2017-09-04 11:14:57	2017-09-04 11:14:57
+109	0x6d	m	586126	4089312	tur	Tom ne görmeni istemedi?	User20656	2015-04-19 09:27:35	2015-04-19 09:27:35
+110	0x6e	n	620792	5252751	tur	Sabahleyin odayı temizle.	deyta	2016-07-04 21:31:00	2016-07-04 21:31:00
+111	0x6f	o	496542	2008052	tur	Durmak zorunda kaldık.	duran	2012-11-15 15:38:53	2012-11-15 15:38:53
+112	0x70	p	144974	6109252	tur	Onu nerede yapabiliriz?	duran	2017-05-28 13:22:16	\N
+113	0x71	q	74	4806745	tur	Joaquim'in dindar olduğu söylenir ama o Rab'bin duasını zorlukla biliyor.	deyta	2016-01-02 23:53:43	2016-01-02 23:53:43
+114	0x72	r	623867	3950991	tur	Ben bu göreve gitmek istemiyordum ama bana emir verildi.	duran	2015-03-12 17:05:14	2015-03-12 17:05:14
+115	0x73	s	397499	5614880	tur	Neden içeri girmiyorsun?	duran	2016-11-16 19:16:25	2016-11-16 19:16:25
+116	0x74	t	397288	5361529	tur	Öğlenleyin kız kardeşimle birlikte yemek yiyorum.	deyta	2016-08-22 12:08:30	2016-08-22 12:08:30
+117	0x75	u	417907	4448494	tur	Bu sabah neredeydin?	deyta	2015-08-12 13:03:37	2015-08-12 13:03:37
+118	0x76	v	156740	1363846	tur	Sigara içmekten gerçekten vazgeçmelisin.	duran	2012-01-16 09:35:30	2012-01-16 09:35:30
+119	0x77	w	1479	1080611	tur	Çok kişiye istenmeyen e posta gönderdiğim için Twitter hesabım askıya alındı.	duran	2011-09-03 22:53:17	2011-09-03 22:56:14
+120	0x78	x	376	5273381	tur	Brexit İngilterenin AB'den ayrılması anlamına gelir.	duran	2016-07-14 09:59:11	2016-07-14 09:59:11
+121	0x79	y	504449	6329544	tur	Tom hâlâ yemek yemedi.	duran	2017-09-27 08:54:03	2017-09-27 08:54:03
+122	0x7a	z	257373	3969378	tur	Seni buna sürüklediğim için üzgünüm.	duran	2015-03-18 13:19:26	2015-03-18 13:19:26
 126	0x7e	~	1	2879971	tur	S♥NE~~ Tanışalı dört yıl oluyor! Zaman su gibi akmış gibi.	Efsun	2013-11-26 04:30:38	2013-11-26 18:44:24
-160	0xa0	 	10	1732022	tur	Kalktığın zaman, okuyor olacak.	wwkudu	2012-07-28 06:49:37	2012-07-28 06:49:37
-163	0xa3	£	3	5097792	tur	Yaklaşık 300 £ ağırlığındadır.	duran	2016-04-30 13:57:45	2016-04-30 13:57:45
+160	0xa0	 	10	7745013	tur	Harbiden, dostumuz nerede?	quagliarella	2019-01-22 04:00:04	2019-01-22 04:00:04
+163	0xa3	£	3	5079595	tur	Tom tam 33 £ ağırlığındadır.	duran	2016-04-23 09:26:48	2016-04-23 09:26:48
 165	0xa5	¥	1	8112880	tur	Bu saat kordonunun fiyatı yaklaşık 50.000 ¥.	soliloquist	2019-08-17 19:40:04	2019-08-17 19:40:04
 168	0xa8	¨	1	8603477	tur	Göz¨¨ümle gördüm.	ajje	2020-03-09 01:38:40	2020-03-09 01:38:40
-171	0xab	«	3	6994183	tur	«Kolun ağrıyor mu?» «Biraz ağrıyor.»	evka	2018-07-14 08:01:22	2018-07-14 08:01:22
-173	0xad	­	2	1532595	tur	Muvaffakiyet­siz­leş­ti­ri­ci­leş­ti­ri­ve­re­me­ye­bi­le­cek­le­ri­miz­den­miş­si­niz­ce­si­ne hareket edin.	animyrch	2012-04-14 22:14:16	2013-08-25 09:28:36
-176	0xb0	°	21	4789043	tur	Aktinyum 1051°C'de erir.	deyta	2015-12-24 19:20:42	2015-12-24 19:20:46
-178	0xb2	²	90	8115194	tur	Şu üçüncü dereceden denklemin çözümünü bulunuz: x³ + 2x² − x − 2 = 0	soliloquist	2019-08-18 20:29:46	2019-08-18 20:29:46
-179	0xb3	³	3	8115194	tur	Şu üçüncü dereceden denklemin çözümünü bulunuz: x³ + 2x² − x − 2 = 0	soliloquist	2019-08-18 20:29:46	2019-08-18 20:29:46
-180	0xb4	´	2	4492717	tur	Sen Tom´a mı gidiyorsun?	ruth_tatoeba	2015-09-05 19:27:31	2015-09-05 19:27:31
-186	0xba	º	3	5781216	tur	Dün maksimum sıcaklık 37ºC idi.	duran	2017-01-19 11:23:06	2017-01-19 11:23:06
+171	0xab	«	3	4786639	tur	Üniversite «Hizmet Gösteren En İyi Yer» olarak KC Cumhurbaşkanlığı «Altın Kalite» ödülünü aldı.	turan	2015-12-23 10:58:23	2015-12-23 10:59:00
+173	0xad	­	2	1532594	tur	Ancak bir gün gelir de, biri size bir başkası hakkında "O mu­vaf­fa­ki­yet­siz­leş­ti­ri­ci­leş­ti­ri­ve­re­me­ye­bi­le­cek­le­ri­miz­den­miş." derse, o kişiyi bulup "Siz mu­vaf­fa­ki­yet­siz­leş­ti­ri­ci­leş­ti­ri­ve­re­me­ye­bi­le­cek­le­ri­miz­den­miş­si­niz." deyin.	animyrch	2012-04-14 22:14:00	2013-08-22 09:00:45
+176	0xb0	°	21	4048643	tur	Güneşin yüzey sıcaklığı 6000 ° C civarındadır.	deyta	2015-04-07 20:09:50	2015-04-07 20:09:50
+178	0xb2	²	90	9355849	tur	Kırıkkale ilinin yüz ölçümü 4.791 km²'dir.	Bilgi	2020-11-22 13:46:29	2020-11-22 13:46:29
+179	0xb3	³	3	8074068	tur	Alüminyumun yoğunluğu 2,7gr/cm³ şeklindedir.	quagliarella	2019-07-24 16:33:41	2019-07-24 16:33:41
+180	0xb4	´	2	2021930	tur	Milli Piyango´da kazandı.	Ebruli	2012-11-19 13:36:44	2012-11-19 13:36:44
+186	0xba	º	3	5563196	tur	Öğretmenimiz suyun 100ºC derecede kaynadığını söyledi.	duran	2016-10-30 11:08:42	2016-10-30 11:08:42
 187	0xbb	»	3	923657	tur	Diyarbakır'da adı «Yaşmar» olan bir market vardı.	maydoo	2011-06-04 10:39:11	2016-01-12 17:57:29
 193	0xc1	Á	2	5307592	tur	Pedro Álvares Cabral'ın Brezilya'yı keşfeden biri olduğu kabul edilir.	deyta	2016-07-29 17:50:35	2016-07-29 17:50:35
-194	0xc2	Â	21	7336938	tur	Âmin.	soliloquist	2018-10-24 19:41:46	2018-10-24 19:41:46
-197	0xc5	Å	3	5074739	tur	Åland adalarının en önemli cazibeleri samimi insanlar ve güzel manzara.	duran	2016-04-20 14:50:21	2016-04-20 14:50:21
-199	0xc7	Ç	11174	4623126	tur	Çok özel planlanmış bir şeyim var.	duran	2015-10-19 10:22:00	2015-10-19 10:22:00
+194	0xc2	Â	21	8930183	tur	Zaman akıp gider, insan farkına varmaz. Âdemoğlu ebedî kalmaz.	soliloquist	2020-07-21 19:05:56	2020-07-21 19:24:08
+197	0xc5	Å	3	9355365	tur	"Mariehamn hangi ülkenin başkentidir?" "Åland."	Bilgi	2020-11-22 13:22:43	2020-11-22 13:22:43
+199	0xc7	Ç	11175	4886861	tur	Çamaşırı yıkamana yardım etmemi istemediğinden emin misin?	duran	2016-02-04 21:50:40	2016-02-04 21:50:40
 201	0xc9	É	1	5153425	tur	Bunu yapan kişi Éamonn'dur.	duran	2016-05-20 08:57:32	2016-05-20 08:57:32
-214	0xd6	Ö	6203	4868749	tur	Öyle pahalı bir mağazadan alışveriş yapmaya param yetmez.	dursun	2016-01-29 16:42:55	2020-03-29 18:56:44
+214	0xd6	Ö	6203	1463831	tur	Öğretmenimiz gelecek ay ABD'ye gidecek.	duran	2012-03-01 07:45:26	2012-03-01 07:45:26
 215	0xd7	×	1	1080229	tur	Sayfaların boyutu genellikle en az 4 KiB (4 × 1024 bayt) büyüklüğündedir ve büyük sanal adres alanlarına ya da büyük gerçek bellek miktarlarına sahip sistemler genellikle daha büyük sayfalar kullanırlar.	duran	2011-09-03 21:11:24	2013-12-30 18:15:12
 218	0xda	Ú	1	5429697	tur	Sümercede "LÚ.GAL" hükümdar veya kral anlamına gelir.	deyta	2016-09-12 10:16:21	2016-09-12 10:16:21
-220	0xdc	Ü	3021	3319571	tur	Üşütmek istemedim, bu nedenle dışarı çıkmadım.	deyta	2014-06-16 11:28:47	2014-06-16 11:28:47
-223	0xdf	ß	4	7298763	tur	"ß" harfi İsçivre'nin tarafsız olmadığı birkaç şeyden biridir.	soliloquist	2018-10-16 04:16:41	2018-10-16 04:16:50
+220	0xdc	Ü	3022	3532293	tur	Ülkemizin ekonomisi bu yıl daha da gelişmiştir.	vvv123	2014-10-02 18:39:59	2014-10-02 18:39:59
+223	0xdf	ß	4	937778	tur	İsviçre klavyesinin ß'i yoktur.	deyta	2011-06-13 15:43:28	2019-10-23 22:10:16
 224	0xe0	à	1	8759700	tur	Tòmas, Màiri'yi davet etti.	\N	2020-05-13 18:24:46	2020-11-07 21:27:53
-225	0xe1	á	23	8352777	tur	Senti-me solitário sem ele.	ritualesatanum	2019-11-28 17:56:41	2019-11-28 17:56:48
-226	0xe2	â	6794	8315501	tur	Rüşveti kabul ettiğini inkâr etti.	ritualesatanum	2019-11-10 16:28:48	2019-11-10 16:28:48
-227	0xe3	ã	15	5323009	tur	Biri São Paulo ya da New York'ta çok iyi yiyebilir.	deyta	2016-08-06 20:44:10	2016-08-06 20:44:10
-228	0xe4	ä	9	3935815	tur	Hiç Pfirsichbäumchen'i Almanca selamladın mı?	duran	2015-03-06 19:54:34	2015-03-06 19:54:34
+225	0xe1	á	23	4770152	tur	Çek dilinde Çek Cumhuriyetine "Česká republika" denilir.	duran	2015-12-16 08:58:34	2015-12-16 08:58:34
+226	0xe2	â	6796	6048132	tur	Hâlâ sürekli olarak o konuda endişeleniyoruz.	deyta	2017-04-30 20:43:39	\N
+227	0xe3	ã	15	9355462	tur	"São Tomé hangi ülkenin başkentidir?" "São Tomé ve Príncipe."	Bilgi	2020-11-22 13:27:24	2020-11-22 13:27:24
+228	0xe4	ä	9	2595360	tur	Spätzle bir çeşit alman pastasıdır.	meinung44	2013-07-16 00:11:32	2013-07-16 00:11:32
 229	0xe5	å	1	9355301	tur	"Hagåtña hangi ülkenin başkentidir?" "Guam."	Bilgi	2020-11-22 13:19:29	2020-11-22 13:19:29
-231	0xe7	ç	205741	3875361	tur	Hiç gözlüğünü kırdın mı?	duran	2015-02-17 19:22:31	2015-02-17 19:22:31
-232	0xe8	è	9	3798661	tur	Agnès ne zamandır beri burada?	maydoo	2015-01-25 20:51:24	2015-01-25 20:51:24
-233	0xe9	é	62	5229822	tur	Béla oğlunu her gün okula götürür, çünkü o dikkatli bir baba.	duran	2016-06-22 12:04:25	2016-06-22 12:04:25
+231	0xe7	ç	205757	4284344	tur	Gerçek bir taneye sahip misin?	duran	2015-06-18 19:33:49	2015-06-18 19:33:49
+232	0xe8	è	9	5252689	tur	İşte crème brûlée için klasik bir reçete.	deyta	2016-07-04 20:54:41	2016-07-04 20:54:41
+233	0xe9	é	62	4776577	tur	Geçerli Fransızca konuşmama rağmen benim Jérôme'nin düğününde konuşma yapabileceğimi bekleme.	duran	2015-12-19 08:01:06	2015-12-19 08:01:06
 234	0xea	ê	3	9638624	tur	Ben de Hesekêliyim.	jj07	2021-01-12 14:45:35	2021-01-29 19:19:27
 235	0xeb	ë	7	4839308	tur	Nenwë bir Noldodur.	deyta	2016-01-17 12:45:00	2016-01-17 12:45:05
 236	0xec	ì	1	4417490	tur	Lütfen pizzayì üç dilim şeklinde kes.	maydoo	2015-07-30 01:02:05	2015-07-30 01:02:05
-237	0xed	í	24	8442718	tur	Ne kadardır Brasília'dasın?	Gulo_Luscus	2020-01-11 07:52:27	2020-01-11 07:52:27
-238	0xee	î	156	4528699	tur	Gontran sık sık Nîmes'in sokaklarında Olga ile oynadı.	duran	2015-09-16 16:19:57	2015-09-16 16:19:57
+237	0xed	í	24	9355462	tur	"São Tomé hangi ülkenin başkentidir?" "São Tomé ve Príncipe."	Bilgi	2020-11-22 13:27:24	2020-11-22 13:27:24
+238	0xee	î	156	9664823	tur	Bu fotoğrafta safî karizma çıkmışsın.	TR724	2021-01-15 22:11:12	2021-01-15 22:11:12
 240	0xf0	ð	1	5250301	tur	Bárðarbunga İzlanda'da püskürüyor.	deyta	2016-07-03 20:06:58	2016-07-03 20:06:58
-241	0xf1	ñ	7	4755495	tur	Etkin kökenin ne? Zamboangueño!	deyta	2015-12-10 00:01:34	2015-12-10 00:01:34
+241	0xf1	ñ	7	3783623	tur	Ben bir piña colada istiyorum.	duran	2015-01-21 08:32:55	2015-01-21 08:32:55
 242	0xf2	ò	5	8759734	tur	Tòmas'ın evine git.	\N	2020-05-13 18:35:48	2020-11-07 21:28:04
-243	0xf3	ó	12	919795	tur	Magdalena, Łódź Japon Okulunda okuyor.	deyta	2011-06-02 00:19:27	2019-10-19 17:13:18
-244	0xf4	ô	3	4457888	tur	Jérôme ayaklarını tabağın içine koydu.	duran	2015-08-18 05:01:26	2015-08-18 05:01:26
-246	0xf6	ö	143682	5654675	tur	John iyi ödevlerinden ötürü övüldü.	duran	2016-12-03 08:28:47	2016-12-03 08:28:47
+243	0xf3	ó	12	5431913	tur	Józsika bahçede.	deyta	2016-09-12 18:33:47	2016-09-12 18:33:47
+244	0xf4	ô	3	4776577	tur	Geçerli Fransızca konuşmama rağmen benim Jérôme'nin düğününde konuşma yapabileceğimi bekleme.	duran	2015-12-19 08:01:06	2015-12-19 08:01:06
+246	0xf6	ö	143688	10473494	tur	İyi geçinmenin şartı kusursuz olmak değil, kusurları karşılıklı hoş görebilmektir.	soliloquist	2021-10-31 11:57:45	2021-10-31 11:57:45
 247	0xf7	÷	1	10687947	tur	Fikrini değişyirned÷değiştirmedi.	Ekim	2022-02-23 15:26:03	2022-02-23 15:26:03
-250	0xfa	ú	7	4777994	tur	Dominik Cumhuriyeti'ne İspanyolcada "República Dominicana" denir.	deyta	2015-12-19 20:01:56	2015-12-19 20:01:56
-251	0xfb	û	140	2637402	tur	Ben bir mahkûmum.	duran	2013-08-02 10:47:35	2014-10-29 22:15:00
-252	0xfc	ü	186122	2941521	tur	İnanç istihbaratın ölümüdür.	duran	2013-12-26 07:59:43	2013-12-26 07:59:43
+250	0xfa	ú	7	927679	tur	Raúl, Casillas, Puyol ve Xavi, Golden Foot 2011'de yarışıyor.	maydoo	2011-06-07 11:00:42	2016-01-12 17:51:14
+251	0xfb	û	140	2129469	tur	Hapisten çıktığımda, hiç kimse eski bir mahkûmu istihdam etmediği için evime yakın bir yerde iş bulamadım.	duran	2013-01-07 15:02:21	2014-10-29 22:32:33
+252	0xfc	ü	186138	1676021	tur	Dün gece evime zorla girildi.	duran	2012-07-08 20:43:28	2012-07-08 20:43:28
 253	0xfd	ý	2	7931713	tur	Hellowine ýakynlaşýarys we bu gün Hellowin hakynda seniň bilen gürleşip biljegimi pikir etdim.	Jum	2019-05-24 18:44:03	2019-05-24 18:46:08
-257	0x101	ā	2	7207959	tur	"Nāpan?" "Nāpam?" "Ee, nāpçan."	soliloquist	2018-09-24 22:45:33	2018-11-30 21:44:27
+257	0x101	ā	2	8998070	tur	"Avy jorrāelan" Yüksek Valyria dilinde "Seni seviyorum" demektir.	soliloquist	2020-08-27 09:44:19	2020-08-27 09:44:19
 263	0x107	ć	1	476759	tur	Bogdan Tanjević kolon kanseri nedeniyle istifa edecek.	deyta	2010-08-23 17:26:11	2016-11-14 12:29:59
-265	0x109	ĉ	3	2883826	tur	Esperanto alfabesinde 28 harf vardır: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Gulo_Luscus	2013-11-27 22:27:04	2013-11-27 22:27:04
+265	0x109	ĉ	3	633982	tur	Esperanto alfabesi 28 harflidir: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	deyta	2010-11-24 14:27:26	2016-11-14 10:53:58
 268	0x10c	Č	1	4770152	tur	Çek dilinde Çek Cumhuriyetine "Česká republika" denilir.	duran	2015-12-16 08:58:34	2015-12-16 08:58:34
 275	0x113	ē	1	5307566	tur	Andris Bērziņši, Letonya'nın yeni devlet başkanı olacak.	deyta	2016-07-29 17:30:13	2016-07-29 17:30:13
-281	0x119	ę	4	919049	tur	En büyük oğlum Lech Zaręba'dır.	deyta	2011-06-01 17:26:55	2016-11-13 19:59:42
-285	0x11d	ĝ	3	2883826	tur	Esperanto alfabesinde 28 harf vardır: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Gulo_Luscus	2013-11-27 22:27:04	2013-11-27 22:27:04
+281	0x119	ę	4	919050	tur	En büyük kızım Magdalena Zarębówna'dır.	maydoo	2011-06-01 17:27:15	2016-02-21 08:06:12
+285	0x11d	ĝ	3	633984	tur	Esperanto alfabesi 28 harften oluşur: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	deyta	2010-11-24 14:27:49	2016-11-14 10:53:53
 286	0x11e	Ğ	1	1071227	tur	Türkçe Ğ ve İspanyolca H kaçtı ve birlikte birsürü tamamen sessiz çocukları oldu.	Gulo_Luscus	2011-08-29 12:26:26	2016-09-30 20:51:23
-287	0x11f	ğ	219812	5694702	tur	Yağmur yağdığı zaman üzülürüm.	duran	2016-12-19 10:49:11	2016-12-19 10:49:11
-293	0x125	ĥ	3	633982	tur	Esperanto alfabesi 28 harflidir: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	deyta	2010-11-24 14:27:26	2016-11-14 10:53:58
-299	0x12b	ī	2	8998067	tur	"Tubī daor" Yüksek Valyria dilinde "bugün olmaz" demektir.	soliloquist	2020-08-27 09:43:30	2020-08-27 09:43:30
-304	0x130	İ	20104	4827942	tur	İnsanların zayıf hafızaları vardır.	deyta	2016-01-12 21:42:07	2016-01-12 21:42:07
-305	0x131	ı	448735	6137953	tur	Tom, Mary'ye onu yapması gerekmediğini söylemesi gerekir.	deyta	2017-06-09 00:30:42	\N
-309	0x135	ĵ	3	2883826	tur	Esperanto alfabesinde 28 harf vardır: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Gulo_Luscus	2013-11-27 22:27:04	2013-11-27 22:27:04
-321	0x141	Ł	5	921665	tur	Felicja, Łazarz adında yakışıklı bir adamla evli.	maydoo	2011-06-03 00:12:50	2016-01-26 08:22:06
+287	0x11f	ğ	219825	4544068	tur	Tom bunun eğlenceli olduğunu düşünüyor mu?	duran	2015-09-22 07:05:33	2015-09-22 07:05:33
+293	0x125	ĥ	3	633984	tur	Esperanto alfabesi 28 harften oluşur: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	deyta	2010-11-24 14:27:49	2016-11-14 10:53:53
+299	0x12b	ī	2	8998066	tur	"Tubī daor" Yüksek Valyria dilinde "bugün değil" demektir.	soliloquist	2020-08-27 09:43:25	2020-08-27 09:43:25
+304	0x130	İ	20108	3305087	tur	"İlgisiz misin yoksa yalnızca cahil misin?" "Bilmiyorum ve umurumda değil."	deyta	2014-06-09 15:46:28	2014-06-09 15:46:28
+305	0x131	ı	448762	6819955	tur	Sami, cinayet konusunda masum olduğunda ısrar etti.	deyta	2018-04-04 20:25:40	2018-04-04 20:25:40
+309	0x135	ĵ	3	633984	tur	Esperanto alfabesi 28 harften oluşur: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	deyta	2010-11-24 14:27:49	2016-11-14 10:53:53
+321	0x141	Ł	5	921680	tur	Łazarz'nın çocukları, anneleri Felicja'nın dünyadaki en güzel bayan olduğunu düşünüyorlar.	duran	2011-06-03 00:16:00	2015-12-10 06:23:22
 322	0x142	ł	8	919809	tur	Martyna bir Wrocław yerlisidir.	deyta	2011-06-02 00:22:46	2016-11-13 19:58:56
-324	0x144	ń	4	8346426	tur	Kopernik, Toruń'da doğdu.	Gulo_Luscus	2019-11-26 02:00:45	2019-11-26 02:02:24
+324	0x144	ń	4	919798	tur	Libusza Poznań'da yaşıyor.	duran	2011-06-02 00:20:04	2015-12-10 06:29:30
 326	0x146	ņ	1	5307566	tur	Andris Bērziņši, Letonya'nın yeni devlet başkanı olacak.	deyta	2016-07-29 17:30:13	2016-07-29 17:30:13
 328	0x148	ň	1	7931713	tur	Hellowine ýakynlaşýarys we bu gün Hellowin hakynda seniň bilen gürleşip biljegimi pikir etdim.	Jum	2019-05-24 18:44:03	2019-05-24 18:46:08
 333	0x14d	ō	1	12104820	tur	Satō saat 11'de telefonla aradı.	Ciks	2023-10-10 09:31:38	2023-10-10 09:31:38
-349	0x15d	ŝ	3	633984	tur	Esperanto alfabesi 28 harften oluşur: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	deyta	2010-11-24 14:27:49	2016-11-14 10:53:53
-350	0x15e	Ş	8493	3353193	tur	Şangay'a ilk gelişimdi.	deyta	2014-07-01 19:32:12	2014-07-01 19:32:12
-351	0x15f	ş	243833	7680441	tur	Hangi şekilde?	Dogukhan48	2019-01-02 12:15:58	2019-01-02 12:16:16
-353	0x161	š	4	10952198	tur	Benim ismim Dušana.	GabrielPires	2022-06-30 18:13:24	2022-06-30 18:13:24
+349	0x15d	ŝ	3	2883826	tur	Esperanto alfabesinde 28 harf vardır: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Gulo_Luscus	2013-11-27 22:27:04	2013-11-27 22:27:04
+350	0x15e	Ş	8493	3108812	tur	Şiiri anlamıyorsan ben sana açıklayayım.	duran	2014-03-19 21:07:14	2016-01-26 10:24:07
+351	0x15f	ş	243853	2593510	tur	Ben meşgul bir kişiyim.	meinung44	2013-07-15 12:01:48	2013-07-15 12:01:48
+353	0x161	š	4	5307566	tur	Andris Bērziņši, Letonya'nın yeni devlet başkanı olacak.	deyta	2016-07-29 17:30:13	2016-07-29 17:30:13
 365	0x16d	ŭ	4	4126359	tur	Biri fiil "anstataŭi"'i "anstataŭigi" anlamında kullanmamalıdır.	duran	2015-04-29 13:36:09	2015-04-29 13:36:09
-378	0x17a	ź	2	919795	tur	Magdalena, Łódź Japon Okulunda okuyor.	deyta	2011-06-02 00:19:27	2019-10-19 17:13:18
+378	0x17a	ź	2	919810	tur	Magdalena bir Łódź yerlisidir.	maydoo	2011-06-02 00:23:17	2016-02-05 06:07:15
 380	0x17c	ż	1	919818	tur	Bożena, güzel ötesi sarı saçlı bir kızdır. Ayrıca o, bizim okuldaki en güzel öğrencidir.	maydoo	2011-06-02 00:26:02	2016-02-05 06:06:43
 487	0x1e7	ǧ	1	9563711	tur	Bu plaklardan hiçbirini beǧenmedim.	kby	2020-12-30 21:59:17	2020-12-30 21:59:17
-537	0x219	ș	6	5596637	tur	Halı mavi mi, yeșil mi?	Gulo_Luscus	2016-11-10 21:18:28	2016-11-10 21:22:10
+537	0x219	ș	6	1064536	tur	Su kaynayıp buharlașıyor.	duran	2011-08-25 18:16:24	2015-12-08 18:53:47
 601	0x259	ə	2	3303262	tur	Məryəmin ölməsinə icazə verə bilməzsən.	deyta	2014-06-08 16:37:56	2016-02-05 14:04:46
 947	0x3b3	γ	1	889886	tur	Modern Yunanca'da harfleri birleştirerek sesler oluşturabilirsiniz. Örneğin "b" sesi için μπ'yi, "d" sesi için ντ'yi, "g" sesi için γκ'yi ve "c" sesi için ise τζ'yi kullanabilirsiniz.	duran	2011-05-13 10:25:52	2015-12-10 07:16:25
 950	0x3b6	ζ	1	889886	tur	Modern Yunanca'da harfleri birleştirerek sesler oluşturabilirsiniz. Örneğin "b" sesi için μπ'yi, "d" sesi için ντ'yi, "g" sesi için γκ'yi ve "c" sesi için ise τζ'yi kullanabilirsiniz.	duran	2011-05-13 10:25:52	2015-12-10 07:16:25
@@ -174,9 +174,9 @@
 957	0x3bd	ν	1	889886	tur	Modern Yunanca'da harfleri birleştirerek sesler oluşturabilirsiniz. Örneğin "b" sesi için μπ'yi, "d" sesi için ντ'yi, "g" sesi için γκ'yi ve "c" sesi için ise τζ'yi kullanabilirsiniz.	duran	2011-05-13 10:25:52	2015-12-10 07:16:25
 960	0x3c0	π	4	885609	tur	Pi sayısı, yaklaşık olarak 3,14 ya da 22/7'ye eşdeğerdir. Sembolü "π"'dir.	deyta	2011-05-11 09:45:00	2016-11-13 20:14:00
 964	0x3c4	τ	1	889886	tur	Modern Yunanca'da harfleri birleştirerek sesler oluşturabilirsiniz. Örneğin "b" sesi için μπ'yi, "d" sesi için ντ'yi, "g" sesi için γκ'yi ve "c" sesi için ise τζ'yi kullanabilirsiniz.	duran	2011-05-13 10:25:52	2015-12-10 07:16:25
-1057	0x421	С	2	6734491	tur	Sıcaklık -20...-30°С bandına ulaştı.	quagliarella	2018-03-04 20:48:05	2018-03-04 20:48:19
+1057	0x421	С	2	8343398	tur	Başlamadan önce Profesör Anna Сosta'ya en içten teşekkürlerimi sunmak istiyorum.	quagliarella	2019-11-24 07:44:41	2019-11-24 07:44:56
 1058	0x422	Т	1	4453339	tur	Тom kirli elbisesini sepete attı.	marllboro06	2015-08-15 07:26:53	2015-08-15 07:26:53
-1072	0x430	а	3	9795656	tur	Çocukluğunu hakkıyla yаşаmаmış insаnların içinde tamiri zor bir tatminsizlik duygusu hep olur.	TR724	2021-02-23 03:27:30	2021-02-23 03:27:30
+1072	0x430	а	3	476251	tur	Bir yorum eklediniz, çeviri değil. Çeviri eklemek için cümle üzerindeki "あ→а" simgesine tıklayın.	soliloquist	2010-08-23 11:48:49	2019-10-10 21:10:36
 1075	0x433	г	1	5499324	tur	Rusça kelime "друг" İngilizce "arkadaş"'la tamamen aynı anlama gelmez.	duran	2016-10-07 05:37:31	2016-10-07 05:37:31
 1076	0x434	д	1	5499324	tur	Rusça kelime "друг" İngilizce "arkadaş"'la tamamen aynı anlama gelmez.	duran	2016-10-07 05:37:31	2016-10-07 05:37:31
 1077	0x435	е	3	9795586	tur	Dinlеmеk çok iyi bir iletişim yöntemidir.	TR724	2021-02-23 02:27:49	2021-02-23 02:27:49
@@ -193,28 +193,28 @@
 2368	0x940	ी	1	778934	tur	Nepalce'nin yerel adı "नेपाली"'dir.	deyta	2011-03-04 22:16:04	2016-11-13 22:39:36
 2375	0x947	े	1	778934	tur	Nepalce'nin yerel adı "नेपाली"'dir.	deyta	2011-03-04 22:16:04	2016-11-13 22:39:36
 7771	0x1e5b	ṛ	1	4770134	tur	Fas'a Berberi dilinde "Meṛṛuk" denilir.	duran	2015-12-16 08:45:40	2015-12-16 08:45:46
-7779	0x1e63	ṣ	4	6738480	tur	Hayallerinin olması, mutlu bir geleceğin bir ön ṣartıdır.	ruth_tatoeba	2018-03-06 09:13:51	2018-03-06 09:13:51
-8203	0x200b	​	218	12071834	tur	Kötü bir başlangıç ​​yaptık.	deyta	2023-09-22 16:35:47	2023-09-22 16:35:47
+7779	0x1e63	ṣ	4	7759893	tur	Mutluluk her an ulaṣabileceğin mesafede olsun, en yakın dostların her an yanında olsun, baṣlayan her yeni gün sana özel bir sevinç getirsin, öyle ki hayatını bu ışıklar daha da aydınlatsın.	ruth_tatoeba	2019-02-02 10:16:42	2019-10-13 17:53:01
+8203	0x200b	​	218	4830086	tur	Tom onu ​​bir daha hiç görmeyeceğinden emindi.	deyta	2016-01-13 23:41:54	2016-01-13 23:41:54
 8205	0x200d	‍	1	11449277	tur	👨🏼‍🎤''Hastanın iyileşmesi ne kadar sürecek?'' 👨🏽‍⚕️'' Bu hasta tedavi edilemez.''	dryaco	2023-01-10 08:06:41	2023-01-10 08:09:29
 8206	0x200e	‎	5	9356398	tur	"Evciler‎ ilçesi hangi ile bağlıdır?" "Afyonkarahisar."	Bilgi	2020-11-22 14:22:41	2020-11-22 14:22:41
-8211	0x2013	–	8	9563858	tur	"Olur o!" – "Hayır, Tom, inan bana: O kötü gidecek!"	kby	2020-12-30 22:27:32	2020-12-30 22:27:32
-8212	0x2014	—	11	2692890	tur	“Yabancı bir dil öğrenmek istemez misin?” — “Boş versene. Günümüzde nasıl olsa herkes İngilizce konuşuyor!”	Gulo_Luscus	2013-08-22 12:29:30	2019-11-07 19:05:56
-8216	0x2018	‘	6	9430501	tur	Bir kimse ‘tek millet' ilkesine karşı olduğunu söyleyebilir mi?	CVTR	2020-12-03 20:27:59	2020-12-03 20:27:59
-8217	0x2019	’	377	7128194	tur	Artık Tom’a yazmıyorum.	duran	2018-09-06 10:40:58	2018-09-06 10:40:58
-8220	0x201c	“	101	11683824	tur	Tüm metni seçmek için “Control” tuşuna basılı tutun ve hemen arkasından “A” tuşuna basın.	quagliarella	2023-04-15 10:46:46	2023-04-15 10:47:06
-8221	0x201d	”	88	1242139	tur	“Yazmak için bana bir şey ver.” “Bu olur mu?” “Evet, olur.”	Alichar	2011-11-16 15:02:03	2013-10-13 15:06:08
-8222	0x201e	„	17	6900847	tur	„Neden her gün bu kadar çok müzik dinliyorsun? „Çünkü ona ihtiyacım var. Yeme içme vücut için gıdadır. Müzik ruh için gıdadır!“	ruth_tatoeba	2018-05-20 05:26:10	2018-05-20 05:26:10
+8211	0x2013	–	8	3806364	tur	"Sen zaten Japon mutfağına alışık değil misin?" – "Alışmak zorunda kalmadım. O bana ilk görüşte aşık oldu!"	vodka	2015-01-28 22:12:05	2019-11-03 16:07:38
+8212	0x2014	—	11	6026868	tur	"Sınıftaki en sevimli kızın hangisi olduğunu düşünüyorsun, Tom?" —"Hmm, Maria olabilir." —"Ne? Maria mı? Ama o gerçekten çok da sevimli değil!"	Kattsk	2017-04-21 01:56:50	\N
+8216	0x2018	‘	6	3586892	tur	Ona sarılıp, kulağına dakikalarca ‘beni hiç bırakma’ diye fısıldamak istiyorum.	vvv123	2014-10-28 00:36:53	2014-10-28 00:36:53
+8217	0x2019	’	377	7480973	tur	Tom Avustralya’dan ayrıldığından beri üç yıl geçti.	duran	2018-11-18 11:44:31	2018-11-18 11:44:31
+8220	0x201c	“	101	4046537	tur	“Anlıyor musun?” “Hiç anlamıyorum.”	maydoo	2015-04-07 07:19:01	2015-12-27 07:50:52
+8221	0x201d	”	88	8100521	tur	Biri Seir'den bana sesleniyor: “Ey gözcü, geceden geriye ne kaldı? Geceden geriye ne kaldı?” Yanıtım şöyle: “Sabah olmak üzere, ama yine gece olacak. Soracaksanız sorun, yine gelin.”	Ivanovb	2019-08-10 17:23:46	2019-08-10 17:23:55
+8222	0x201e	„	17	6962701	tur	„Bu imkansız!“ dedi korku. „Çok fazla risk!“ dedi tecrübe. „Anlamı yok!“ dedi kaygı. „Dene!“ diye fısıldadı kalp.	ruth_tatoeba	2018-06-25 19:44:49	2018-06-25 19:49:37
 8322	0x2082	₂	3	6212768	tur	CO₂'nin sözde sera etkisi ile ilgisi vardır.	duran	2017-08-27 15:13:54	2017-08-27 15:13:54
 8355	0x20a3	₣	1	706718	tur	Fransa'nın para birimi franktı ve sembolü "₣" idi. Frank Fransa'da artık kullanılmıyor ama Gine gibi bazı eski Fransız kolonilerinde hâlâ kullanılmaktadır.	deyta	2011-01-10 21:53:14	2016-11-14 10:12:04
 8356	0x20a4	₤	1	706719	tur	Eski İtalyan para birimi liretti ve sembolü "₤" idi. Liret Türk lirasıyla alâkalı değildir.	deyta	2011-01-10 21:54:06	2016-11-14 10:11:54
 8361	0x20a9	₩	1	4127929	tur	Won hem Kuzey Kore'de hem de Güney Kore'de kullanılmaktadır.Onun sembolü "₩" dır.	duran	2015-04-29 20:05:09	2015-04-29 20:05:09
 8362	0x20aa	₪	1	3833428	tur	İsrail'e gitmek istiyorsan çok paraya ihtiyacın var. Su sadece 0,50 ₪.	duran	2015-02-02 09:38:38	2015-02-02 09:38:38
-8364	0x20ac	€	6	4173896	tur	Apple fare satın aldım. sadece 69€!	Miremir	2015-05-11 09:38:56	2015-05-11 09:38:56
+8364	0x20ac	€	6	2680813	tur	Birtakım Avrupa ülkelerinde geçerli para birimi avrodur. Simgesi € şeklindedir. Bir avro yaklaşık iki Türk lirası değerindedir.	Gulo_Luscus	2013-08-16 17:28:44	2013-08-16 17:28:44
 8371	0x20b3	₳	1	706721	tur	Arjantin'in eski para birimi Austral'di. Sembolü "₳" idi.	deyta	2011-01-10 21:54:49	2016-11-14 10:11:43
 8372	0x20b4	₴	1	5311108	tur	Ukrayna'da bir diyet kola 2₴.	deyta	2016-08-01 01:09:04	2016-08-01 01:09:04
 8378	0x20ba	₺	6	12123918	tur	Tosuncuk Erdem'i 30 bin ₺ dolandırdı.	enebi	2023-10-23 16:05:24	2023-10-23 16:05:24
 8594	0x2192	→	1	476251	tur	Bir yorum eklediniz, çeviri değil. Çeviri eklemek için cümle üzerindeki "あ→а" simgesine tıklayın.	soliloquist	2010-08-23 11:48:49	2019-10-10 21:10:36
-8722	0x2212	−	2	8115194	tur	Şu üçüncü dereceden denklemin çözümünü bulunuz: x³ + 2x² − x − 2 = 0	soliloquist	2019-08-18 20:29:46	2019-08-18 20:29:46
+8722	0x2212	−	2	3945866	tur	Kübik denklemini çözün x³ + 2x² − x − 2 = 0.	vodka	2015-03-10 19:57:47	2015-03-10 19:57:47
 8730	0x221a	√	1	5405740	tur	Üçün karekökü √3 ya da -√3'tür.	duran	2016-09-06 08:45:39	2016-09-06 08:45:39
 8834	0x2282	⊂	1	7992693	tur	A ⊂ B ise, B' ⊂ A' dir.	soliloquist	2019-06-21 14:33:40	2019-06-21 14:33:40
 9633	0x25a1	□	1	5220514	tur	Kız arkadaşım olmak ister misin? □ Evet. □ Hayır □ Belki.	deyta	2016-06-17 20:04:42	2016-06-17 20:04:42

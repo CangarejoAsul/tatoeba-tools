@@ -1,53 +1,53 @@
-32	0x20	 	85	5101811	min	Awak makan apel.	deel	2016-05-01 23:07:29	2016-05-01 23:07:29
-33	0x21	!	26	5101786	min	Lari!	deel	2016-05-01 22:59:12	2016-05-01 22:59:12
+32	0x20	 	85	5072928	min	Tom masih mudo dan polos.	anod	2016-04-19 17:56:37	2016-04-19 23:10:21
+33	0x21	!	26	5101730	min	Makanlah!	deel	2016-05-01 22:42:26	2016-05-01 22:42:26
 34	0x22	"	1	5392693	min	"Sabananyo", kato Dima. "Aden sabana ndak ingek sia urang-urang tu..."	deel	2016-09-02 07:16:18	2016-09-02 07:16:18
 39	0x27	'	1	5023685	min	Ba'a kaba?	\N	2016-03-30 04:29:41	2016-08-30 05:47:54
 44	0x2c	,	8	5387091	min	Tolong potongan kayu ko jadi duo. Panjangnyo sameter. Aden paralu nan purtamo panjangnyo 80 cm, nan ciek lai 20 cm.	deel	2016-08-31 10:26:40	2016-09-03 13:46:23
 45	0x2d	-	3	5268321	min	Nyo baliak ka sakolah sajak lah lamo indak masuak-masuak.	anod	2016-07-12 13:07:26	2016-07-12 13:07:26
-46	0x2e	.	65	5102355	min	Awak arok bisa tingga labiah lamo.	deel	2016-05-02 06:51:17	2016-05-02 06:51:17
+46	0x2e	.	65	5101641	min	Indak.	deel	2016-05-01 22:23:55	2016-05-01 22:23:55
 48	0x30	0	3	5102378	min	Inyo punyo 2.000 buku.	deel	2016-05-02 06:55:34	2016-05-02 06:55:34
 49	0x31	1	1	5102337	min	Bisa pinjam pitih 10.000 yen?	deel	2016-05-02 06:47:52	2016-05-02 06:47:52
 50	0x32	2	2	5387091	min	Tolong potongan kayu ko jadi duo. Panjangnyo sameter. Aden paralu nan purtamo panjangnyo 80 cm, nan ciek lai 20 cm.	deel	2016-08-31 10:26:40	2016-09-03 13:46:23
 56	0x38	8	1	5387091	min	Tolong potongan kayu ko jadi duo. Panjangnyo sameter. Aden paralu nan purtamo panjangnyo 80 cm, nan ciek lai 20 cm.	deel	2016-08-31 10:26:40	2016-09-03 13:46:23
-63	0x3f	?	30	5101728	min	Apo?	deel	2016-05-01 22:42:05	2016-05-01 22:42:05
-65	0x41	A	27	5102399	min	Aneh ma.	deel	2016-05-02 07:01:24	2016-05-02 07:01:24
-66	0x42	B	11	5102337	min	Bisa pinjam pitih 10.000 yen?	deel	2016-05-02 06:47:52	2016-05-02 06:47:52
-67	0x43	C	2	5101762	min	Cukuik!	deel	2016-05-01 22:53:34	2016-05-01 22:53:34
-68	0x44	D	5	5383188	min	Den sangko ang sedang flu.	deel	2016-08-30 07:23:13	2016-08-30 07:23:13
+63	0x3f	?	30	5101768	min	Litak?	deel	2016-05-01 22:54:19	2016-05-01 22:54:19
+65	0x41	A	27	5392693	min	"Sabananyo", kato Dima. "Aden sabana ndak ingek sia urang-urang tu..."	deel	2016-09-02 07:16:18	2016-09-02 07:16:18
+66	0x42	B	11	5072970	min	Bantuaknyo indak ado nan nio manari jo awak do.	anod	2016-04-19 18:27:07	2016-04-19 23:14:05
+67	0x43	C	2	5101652	min	Capeklah!	deel	2016-05-01 22:27:11	2016-05-01 22:27:11
+68	0x44	D	5	5072931	min	Dima si Marika kini?	anod	2016-04-19 17:58:18	2016-04-19 23:10:59
 69	0x45	E	1	5072922	min	Esperanto tu agak mirip jo italia.	anod	2016-04-19 17:53:52	2016-04-19 23:09:50
-71	0x47	G	2	5101683	min	Gratis.	deel	2016-05-01 22:33:10	2016-05-01 22:33:10
-72	0x48	H	2	5101678	min	Hujan hari?	deel	2016-05-01 22:32:13	2016-05-01 22:32:13
-73	0x49	I	12	5398328	min	Iko di jua per kilo atau sabungkuih atau ciek ciek?	aboubasha	2016-09-04 00:00:39	2016-09-04 00:00:39
-74	0x4a	J	8	5023733	min	Namo ambo Jack.	\N	2016-03-30 05:19:26	2016-08-30 05:47:51
-75	0x4b	K	4	5398343	min	Kalau ado tampek nan rancak disiko, bara haragonyo kiro-kiro sameter, pasarannyo bara?	aboubasha	2016-09-04 00:06:22	2016-09-04 00:06:22
-76	0x4c	L	6	5102366	min	Laman wak ketek.	deel	2016-05-02 06:52:56	2016-05-02 06:53:22
-77	0x4d	M	11	5101646	min	Mati?	deel	2016-05-01 22:24:44	2016-05-01 22:24:44
-78	0x4e	N	5	5023733	min	Namo ambo Jack.	\N	2016-03-30 05:19:26	2016-08-30 05:47:51
+71	0x47	G	2	5101769	min	Gilo!	deel	2016-05-01 22:54:27	2016-05-01 22:54:27
+72	0x48	H	2	5383174	min	Hujan bana hari, inyo ka main golf juo.	deel	2016-08-30 07:15:41	2016-08-30 07:15:41
+73	0x49	I	12	5102401	min	Iko ndak paralu.	deel	2016-05-02 07:02:12	2016-05-02 07:02:12
+74	0x4a	J	8	5383166	min	Jan antuak an kapalo ang ka tembok batu.	deel	2016-08-30 07:12:25	2016-08-30 07:12:25
+75	0x4b	K	4	5101674	min	Kamari.	deel	2016-05-01 22:31:24	2016-05-01 22:31:24
+76	0x4c	L	6	5102416	min	Litak bana wak e.	deel	2016-05-02 07:08:01	2016-05-02 07:08:01
+77	0x4d	M	11	5072933	min	Tingga samo gaek nyo juo si Marika?	anod	2016-04-19 17:59:12	2016-04-19 23:12:32
+78	0x4e	N	5	5101696	min	Ngantuak?	deel	2016-05-01 22:35:11	2016-05-01 22:35:11
 80	0x50	P	5	5276586	min	Alah pai ka TPS tadi?	anod	2016-07-15 18:14:36	2016-07-15 18:14:36
 82	0x52	R	1	5101788	min	Rancak.	deel	2016-05-01 22:59:31	2016-05-01 22:59:31
-83	0x53	S	11	5101722	min	Samparono!	deel	2016-05-01 22:40:42	2016-05-01 22:40:42
-84	0x54	T	16	5072925	min	Tom baranti untuak mamakai sapatunyo.	anod	2016-04-19 17:55:36	2016-04-19 23:10:06
-87	0x57	W	2	5387163	min	Wak lah cubo mamelok annyo taruih, tapi nyo alun elok juo lai.	deel	2016-08-31 10:52:22	2016-08-31 10:52:22
-89	0x59	Y	2	5101793	min	Yo!	deel	2016-05-01 22:59:49	2016-05-01 22:59:49
-97	0x61	a	109	5102372	min	Wak harus ka kamar mandi.	deel	2016-05-02 06:54:23	2016-05-02 06:54:23
-98	0x62	b	39	5102392	min	Inyo capek bana berang.	deel	2016-05-02 06:59:30	2016-05-02 06:59:30
-99	0x63	c	11	5398328	min	Iko di jua per kilo atau sabungkuih atau ciek ciek?	aboubasha	2016-09-04 00:00:39	2016-09-04 00:00:39
-100	0x64	d	42	5101632	min	Apo lagunyo ka jadi terkenal masih diraguan.	deel	2016-05-01 22:22:00	2016-05-01 22:22:00
+83	0x53	S	11	5102123	min	Sado urang punyo kasalahan.	deel	2016-05-02 05:46:38	2016-05-02 05:46:38
+84	0x54	T	16	5276586	min	Alah pai ka TPS tadi?	anod	2016-07-15 18:14:36	2016-07-15 18:14:36
+87	0x57	W	2	5102372	min	Wak harus ka kamar mandi.	deel	2016-05-02 06:54:23	2016-05-02 06:54:23
+89	0x59	Y	2	5101670	min	Yo bana tu?	deel	2016-05-01 22:30:19	2016-05-01 22:30:19
+97	0x61	a	109	5387163	min	Wak lah cubo mamelok annyo taruih, tapi nyo alun elok juo lai.	deel	2016-08-31 10:52:22	2016-08-31 10:52:22
+98	0x62	b	39	5387151	min	Mokasi banyak yo.	deel	2016-08-31 10:49:36	2016-08-31 10:49:36
+99	0x63	c	11	5387091	min	Tolong potongan kayu ko jadi duo. Panjangnyo sameter. Aden paralu nan purtamo panjangnyo 80 cm, nan ciek lai 20 cm.	deel	2016-08-31 10:26:40	2016-09-03 13:46:23
+100	0x64	d	42	5102374	min	Buliah ndak wak bukak jendela?	deel	2016-05-02 06:54:53	2016-05-02 06:54:53
 101	0x65	e	39	5398347	min	Bara harago sewa toko siko?	aboubasha	2016-09-04 00:07:53	2016-09-04 00:07:53
 102	0x66	f	3	5383174	min	Hujan bana hari, inyo ka main golf juo.	deel	2016-08-30 07:15:41	2016-08-30 07:15:41
 103	0x67	g	45	5383181	min	Pa angek aia tu pakai gas.	deel	2016-08-30 07:19:13	2016-08-30 07:19:13
-104	0x68	h	48	5102395	min	Bagarah nyo.	deel	2016-05-02 07:00:04	2016-05-02 07:00:04
-105	0x69	i	71	5383181	min	Pa angek aia tu pakai gas.	deel	2016-08-30 07:19:13	2016-08-30 07:19:13
-106	0x6a	j	22	5102374	min	Buliah ndak wak bukak jendela?	deel	2016-05-02 06:54:53	2016-05-02 06:54:53
-107	0x6b	k	87	5102123	min	Sado urang punyo kasalahan.	deel	2016-05-02 05:46:38	2016-05-02 05:46:38
-108	0x6c	l	43	5276586	min	Alah pai ka TPS tadi?	anod	2016-07-15 18:14:36	2016-07-15 18:14:36
-109	0x6d	m	62	5392672	min	Sakolah ma nan mandalami paham budha?	deel	2016-09-02 07:09:53	2016-09-02 07:09:53
-110	0x6e	n	89	5101673	min	Dingin.	deel	2016-05-01 22:31:02	2016-05-01 22:31:02
-111	0x6f	o	79	5387091	min	Tolong potongan kayu ko jadi duo. Panjangnyo sameter. Aden paralu nan purtamo panjangnyo 80 cm, nan ciek lai 20 cm.	deel	2016-08-31 10:26:40	2016-09-03 13:46:23
-112	0x70	p	37	5102404	min	Kama arah pantai?	deel	2016-05-02 07:02:46	2016-05-02 07:02:46
-114	0x72	r	54	5398328	min	Iko di jua per kilo atau sabungkuih atau ciek ciek?	aboubasha	2016-09-04 00:00:39	2016-09-04 00:00:39
-115	0x73	s	39	5101771	min	Tasarah!	deel	2016-05-01 22:54:40	2016-05-01 22:54:40
-116	0x74	t	47	5072925	min	Tom baranti untuak mamakai sapatunyo.	anod	2016-04-19 17:55:36	2016-04-19 23:10:06
-117	0x75	u	60	5268306	min	Sejarah ko rumik lo dari pado nan wak kiro.	anod	2016-07-12 13:05:14	2016-07-12 13:05:14
-119	0x77	w	26	5101608	min	Tom bajanji ka awak untuak ndak mangarajoan itu lai.	deel	2016-05-01 22:08:01	2016-05-01 22:08:01
-121	0x79	y	29	5102408	min	Lah tibonyo?	deel	2016-05-02 07:05:37	2016-05-02 07:05:37
+104	0x68	h	48	5101771	min	Tasarah!	deel	2016-05-01 22:54:40	2016-05-01 22:54:40
+105	0x69	i	71	5386596	min	Tarimo kasih banyak!	aboubasha	2016-08-31 06:50:18	2016-08-31 06:50:18
+106	0x6a	j	22	5101678	min	Hujan hari?	deel	2016-05-01 22:32:13	2016-05-01 22:32:13
+107	0x6b	k	87	5398345	min	Bara harago rumah ko?	aboubasha	2016-09-04 00:07:15	2016-09-04 00:07:15
+108	0x6c	l	43	5102384	min	Ado lapau dakek rumah wak.	deel	2016-05-02 06:57:19	2016-05-02 06:57:19
+109	0x6d	m	62	5102337	min	Bisa pinjam pitih 10.000 yen?	deel	2016-05-02 06:47:52	2016-05-02 06:47:52
+110	0x6e	n	89	5383188	min	Den sangko ang sedang flu.	deel	2016-08-30 07:23:13	2016-08-30 07:23:13
+111	0x6f	o	79	5101809	min	Jan remehan tanago wak.	deel	2016-05-01 23:06:21	2016-05-01 23:06:21
+112	0x70	p	37	5387091	min	Tolong potongan kayu ko jadi duo. Panjangnyo sameter. Aden paralu nan purtamo panjangnyo 80 cm, nan ciek lai 20 cm.	deel	2016-08-31 10:26:40	2016-09-03 13:46:23
+114	0x72	r	54	5101786	min	Lari!	deel	2016-05-01 22:59:12	2016-05-01 22:59:12
+115	0x73	s	39	5398343	min	Kalau ado tampek nan rancak disiko, bara haragonyo kiro-kiro sameter, pasarannyo bara?	aboubasha	2016-09-04 00:06:22	2016-09-04 00:06:22
+116	0x74	t	47	5073742	min	Ambo indak takuik mati.	\N	2016-04-19 23:17:06	2016-08-30 05:47:43
+117	0x75	u	60	5268321	min	Nyo baliak ka sakolah sajak lah lamo indak masuak-masuak.	anod	2016-07-12 13:07:26	2016-07-12 13:07:26
+119	0x77	w	26	5102413	min	Ma koran wak?	deel	2016-05-02 07:07:03	2016-05-02 07:07:03
+121	0x79	y	29	5101632	min	Apo lagunyo ka jadi terkenal masih diraguan.	deel	2016-05-01 22:22:00	2016-05-01 22:22:00

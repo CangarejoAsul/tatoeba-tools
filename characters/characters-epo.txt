@@ -1,203 +1,203 @@
-32	0x20	 	743352	6975662	epo	Vi, stultulo!	GrizaLeono	2018-07-03 14:08:38	2018-07-03 14:08:38
-33	0x21	!	27947	3423598	epo	Tio estis tro bona!	carlosalberto	2014-08-12 21:40:54	2014-08-13 02:43:55
-34	0x22	"	8937	5220109	epo	La bankon forigis la elektronikan monujon "chipknip" el la merkato sen ĝustatempa prezento de bona solvo.	GrizaLeono	2016-06-17 17:31:38	2016-06-17 17:31:38
+32	0x20	 	744546	3108940	epo	Johana proponis, ke ŝi prizorgu niajn infanojn, kiam ni eliras.	nimfeo	2014-03-19 22:41:29	2014-03-19 22:41:29
+33	0x21	!	27985	502205	epo	Kio?! Vi manĝis mian ĉokoladan urson?!	GrizaLeono	2010-09-06 23:50:02	2010-09-06 23:50:02
+34	0x22	"	8947	1539251	epo	"Abrakadabra!" Kaj tri kolomboj flugis el lia ĉapelo.	esocom	2012-04-18 21:49:56	2012-04-18 21:50:35
 35	0x23	#	4	3457065	epo	C# estas simila al Java.	LunaVulpo	2014-08-28 04:37:18	2014-08-28 04:37:33
 36	0x24	$	20	3956817	epo	Mi donos $30 al vi.	fekundulo	2015-03-14 11:24:52	2015-03-14 11:24:52
-37	0x25	%	133	590316	epo	Nia parto de tiu entrepreno estas sesdek procentoj (60 %).	esocom	2010-10-28 15:47:29	2010-10-28 15:47:29
-38	0x26	&	11	6736387	epo	Li kantis la kantojn de Simon & Garfunkel.	Dejo	2018-03-05 04:14:34	2018-03-05 04:14:34
-39	0x27	'	1148	7243223	epo	La angla teksto de l' Manifesto de l' komunista Partio aperis en Londono en la jaro mil okcent kvindek.	carlosalberto	2018-10-01 14:13:50	2018-10-01 14:13:50
-40	0x28	(	408	4147277	epo	Ni nun supozu, ke (a_n) estas severe malkreskanta vico, konverĝanta al a.	GrizaLeono	2015-05-04 14:44:13	2015-05-04 14:44:13
-41	0x29	)	414	11391753	epo	Diri ke atleto estas (aŭ estis) la Pelé de sia sporto -- ekzemple, ke Michael Jordan estis la Pelé de basketbalo -- signifas levi lin al la kategorio de la plej granda legendo, de ĉiuj tempoj, en tiu sporto.	carlosalberto	2022-12-30 10:02:06	2022-12-30 10:02:06
-42	0x2a	*	3	8311850	epo	La luno nur duone prezentas sin impone; ĝi tamen estas sfer': Facile ni priridas aferon, se ni vidas nur parton de la plena ver*.	Esperantostern	2019-11-09 07:11:03	2019-11-09 07:11:03
-43	0x2b	+	28	3038369	epo	4 + 4 estas adicio.	rado	2014-02-09 10:28:10	2014-02-09 10:28:10
-44	0x2c	,	190304	1326439	epo	La libro estas tro dika, por ke mi povu ĝin legi ĝisfine.	alekso	2011-12-28 14:52:16	2011-12-28 14:52:16
-45	0x2d	-	11981	2973348	epo	Ili enŝipiĝis en Southampton al Nov-Jorko.	GrizaLeono	2014-01-09 21:09:34	2014-01-09 21:09:34
-46	0x2e	.	638004	2272996	epo	Tom ne pensis tiel.	al_ex_an_der	2013-03-01 15:24:46	2013-03-01 15:24:46
-47	0x2f	/	154	6903695	epo	La subtila virineleganteco, / en poezi' terene voluptema... / Vegeta fort' de roz', lum' mateniĝa... / Fora muziko, pastorala danco...	carlosalberto	2018-05-21 11:04:32	2018-06-08 22:10:18
-48	0x30	0	2615	601301	epo	Tiu lernejo estis fondita en 1970.	Dejo	2010-11-04 03:11:09	2010-11-04 03:11:09
-49	0x31	1	2909	5222527	epo	En 1632 Galilejo publikigis libron, en kiu estas asertite, ke Tero rivoluas ĉirkaŭ Suno. Li estis arestita kaj juĝita de la katolika eklezio.	nimfeo	2016-06-18 18:19:46	2016-06-19 06:12:51
-50	0x32	2	1931	8614009	epo	Frederiko la Dua estis ekde 1740 reĝo en Prusujo kaj reĝo de Prusujo ekde 1772.	Esperantostern	2020-03-15 07:14:33	2020-03-15 07:14:33
-51	0x33	3	1162	6297794	epo	Mia koramiko havas 3 mampintojn.	RobinvanderVliet	2017-09-09 17:31:33	2017-09-09 17:31:33
-52	0x34	4	815	10774616	epo	Sondilo pendanta de balono flosas inter la pli malvarmetaj nuboj de Venuso, ĉar ĝi evitas la surfactemperaturojn de pli ol 400 celsiusgradoj.	nonong	2022-04-18 19:05:20	2022-04-18 19:05:20
-53	0x35	5	1200	1346267	epo	La Granda Murego de Ĉinio estas pli ol 5,500 mejlojn longa.	Eldad	2012-01-08 22:16:09	2012-01-08 22:16:09
-54	0x36	6	703	1347425	epo	Tiu tapiŝo grandas 120 je 160 centimetrojn.	GrizaLeono	2012-01-09 14:36:41	2012-01-09 14:36:41
-55	0x37	7	725	522030	epo	3 je la tria potenco estas 27.	GrizaLeono	2010-09-20 14:16:46	2010-12-03 20:37:53
-56	0x38	8	906	3032598	epo	Vroclava Esperanto-klubo invitas por la romantika Sankt-Valentena Vespero vendrede la 14-an de februaro 2014 en la horoj 18:00-24:00 (persone aŭ virtuale).	sambuko	2014-02-06 18:40:44	2014-02-06 18:40:44
-57	0x39	9	1256	632607	epo	El teatra programo: Li naskiĝis en 1961; Ŝi naskiĝis en Zagrebo.	Maksimo	2010-11-23 11:40:36	2010-11-23 11:40:36
-58	0x3a	:	4922	5642531	epo	La profeto diris: "Plifaciligu la vojon, ne igu ĝin malfacila. Anoncu tion, kio estas agrabla, ne teruru vian aŭdantaron."	nimfeo	2016-11-27 19:19:46	2016-11-27 19:19:46
-59	0x3b	;	4542	3859382	epo	La vera filozofia Akto estas neniigo de la memo (Selbsttötung); tio estas la reala komenco de ĉiu filozofio; ĉiuj kondiĉoj por esti disĉiplo de Filozofio atentigas ĉi tien. Tiu Akto sola respondas al ĉiuj kondiĉoj kaj trajtoj de transcenda konduto.	carlosalberto	2015-02-11 00:22:29	2015-02-11 16:07:09
-60	0x3c	<	10	2383991	epo	Sendu vian detalan kariertabelon al <ret-adreso>.	nimfeo	2013-04-16 16:34:42	2013-04-16 16:34:42
-61	0x3d	=	20	1161457	epo	Por ĉiu tago mi ricevas kvin frankojn, sed por la hodiaŭa tago mi ricevis duoblan pagon, t. e. (= tio estas) dek frankojn.	tulio	2011-10-08 01:50:26	2011-10-08 01:50:26
+37	0x25	%	133	520359	epo	Tiu vestaĵo konsistas je 100 % el lano.	esocom	2010-09-19 12:30:32	2010-09-19 12:30:32
+38	0x26	&	11	10572293	epo	Karola & Mardo estas interesa japana animeo pri du knabinaj muzikistinoj, kiuj volas famiĝi sur Marso.	nonong	2021-12-21 08:05:26	2021-12-21 08:05:26
+39	0x27	'	1148	648581	epo	Kio tra l' dentoj travenis, tion la lipoj ne retenos.	salikh	2010-12-04 19:08:08	2010-12-04 19:08:08
+40	0x28	(	409	9931539	epo	La Akademio de Esperanto deklaras, ke ĝi nun ne alprenas starpunkton pri la uzindeco de ne-oficialaj seks-neŭtralaj pronomoj (kiel ekzemple "ri" aŭ "ŝli"), kaj decidis ne okupiĝi pri tiu temo dum almenaŭ dek jaroj.	soweli_Elepanto	2021-04-01 18:40:32	2021-04-06 17:26:03
+41	0x29	)	415	8746152	epo	Mia preferata antropologia modelo pri mongoloidoj havas tri variantojn, kiuj estas la sundadontoj (aŭstronezianoj), la sinodontoj (orientazianoj), kaj la supersinodontoj (indianoj de la Amerikoj).	nonong	2020-05-08 00:07:50	2020-05-08 00:07:50
+42	0x2a	*	3	8311851	epo	Leviĝis luno hele, orpompas surĉiele la steloj al okul*. Arbaro mute revas; el la herbej' sin levas mirinde blanka la nebul'.	Esperantostern	2019-11-09 07:17:53	2019-11-09 07:17:53
+43	0x2b	+	28	5188190	epo	Entjero n estas nepara, se ĝi respondas al n = 2k + 1, en kiu n estas entjero.	GrizaLeono	2016-06-03 11:09:41	2016-06-03 11:09:41
+44	0x2c	,	190564	1122128	epo	Li ne nur parolas la anglan, sed ankaŭ la germanan.	GrizaLeono	2011-09-22 20:32:30	2011-09-22 20:32:30
+45	0x2d	-	12005	12006056	epo	"Kiu estas via plej ŝatata planedo?" - "Novjorko."	shekitten	2023-08-20 14:32:32	2023-08-20 14:32:32
+46	0x2e	.	639019	4331743	epo	Vi ĉiam povas konfidi min.	Verdastelo	2015-07-03 11:50:23	2015-07-03 11:50:23
+47	0x2f	/	155	11535284	epo	La lumo generita en la Praeksplodo daŭre vojaĝas tra la spaco kun rapideco de 300 000 km/s.	carlosalberto	2023-02-13 22:23:42	2023-02-14 06:33:12
+48	0x30	0	2617	10660961	epo	Dum la mateno de la 5-a de februaro de 2022, survoje al la picejo kaj la kafejo, mi vidis bonaspektulon en nigra vesto kaj nigra basbalĉapo, dum li estis vaporfumanta proksime de la drinkejo kaj portante skatolon da tasoj da kafo. Ĉe la kafejo, fortika viro en nigra vesto eniris por akiri sian kafon.	nonong	2022-02-05 19:35:43	2022-02-05 19:38:33
+49	0x31	1	2911	10684639	epo	En la 1970-aj jaroj, en la televida sciencfikcia serio Spaco: 1999, ekzistis eksterteranino nomita Maja, kiu estis metamorfo. Ŝi povus transformi en malsamajn bestojn.	nonong	2022-02-21 14:57:19	2022-02-21 14:57:49
+50	0x32	2	1933	2786258	epo	La Unuiĝintaj Nacioj deklaris la 20an de novembro Universala Tago de la Infano. Je tiu tago ni festas la adopton de la Deklaracio pri la Rajtoj de la Infano. En Brazilo la 12a de oktobro estas Infana Tago.	carlosalberto	2013-10-12 12:19:56	2013-10-13 01:49:04
+51	0x33	3	1163	8916575	epo	Mi renkontos la profesoron je la 13:30.	martinod	2020-07-15 05:28:24	2020-07-15 05:28:24
+52	0x34	4	818	12270550	epo	Romo estis en 410 prirabita de la visigotoj sub la gvidado de reĝo Alarik.	GrizaLeono	2024-01-16 19:10:03	2024-01-16 19:10:03
+53	0x35	5	1201	5481240	epo	Tomo naskiĝis en Anglio, je nepreciza dato, proksimume 1500 jarojn antaŭ Jesuo Kristo.	nimfeo	2016-09-30 05:02:18	2016-10-01 17:58:53
+54	0x36	6	703	10599163	epo	La okcidenta jaro 2022 estas la budaisma taja jaro 2565.	nonong	2022-01-01 02:39:21	2022-01-01 02:44:50
+55	0x37	7	728	10579369	epo	Perua Esteban Canal (1896-1981) gajnis la titolon de grandmajstro de ŝako en 1977, en la aĝo de okdek unu!	carlosalberto	2021-12-24 17:57:39	2021-12-24 17:57:39
+56	0x38	8	906	487727	epo	Mi akiros la kondukpermesilon kiam mi havos 18 jarojn.	esocom	2010-08-30 12:09:59	2014-11-16 14:36:01
+57	0x39	9	1256	660569	epo	John kaj Mary konas unu la alian ekde 1976.	Vortarulo	2010-12-11 07:08:47	2010-12-11 07:08:47
+58	0x3a	:	4926	647220	epo	Per plej profunda tenereco ŝi diris: "Ĉu vi bonfartas?"	jxan	2010-12-04 13:20:07	2010-12-04 13:20:07
+59	0x3b	;	4544	1397234	epo	Tiajn malfacilaĵojn la kamparano ne atendis; la leĝo ja estu alirebla por ĉiu kaj ĉiam, li pensas.	al_ex_an_der	2012-01-27 09:53:24	2012-01-27 09:53:24
+60	0x3c	<	10	1160244	epo	Ĉi tie, vi ĵus tradukis el la frazo en < lingvo el kiu vi tradukis > kaj vi kreis ligilon al tiu. Mi opinias, ke la frazo, kiun vi volis traduki, estas la frazo en < lingvo kiun vi volas traduki >. Por fari tion, vi devas unue alklaki la frazon en <lingvo kiun vi volas traduki > antaŭ ol alklaki la tradukobutonon. La frazo kiun vi tradukadas devas ĈIAM stari super la aliaj (en la plej grandaj literoj) kaj ĝi estas la nura videbla kiam vi skribadas vian tradukon, kaj tio estas celita por eviti influon en via traduko, kiel ĉe Tatoeba, frazoj estas ligitaj duope, ne blok-ope, ĉar frazo povas havi plurajn malsamajn tradukojn en la sama lingvo!	sacredceltic	2011-10-07 17:59:51	2014-03-30 10:41:55
+61	0x3d	=	20	11364700	epo	La imaginara unuo i estas nombro kun i² = −1. El tio sekvas, ke i ne povas esti reala nombro, ĉar la kvadrato de reala nombro ja ĉiam estas ne-negativa.	Pfirsichbaeumchen	2022-12-23 20:29:10	2024-02-21 10:57:22
 62	0x3e	>	11	2381645	epo	Oferto valida de <dato1> ĝis <dato2>.	nimfeo	2013-04-15 11:11:03	2013-04-15 11:11:03
-63	0x3f	?	88881	8980565	epo	Ĉu la polico almenaŭ kontrolis alibion de Tomaso?	soweli_Elepanto	2020-08-17 08:18:05	2020-08-17 08:18:05
-64	0x40	@	12	944954	epo	Kiel oni elparolas la signon @ en via lingvo?	Hans07	2011-06-19 17:01:59	2011-08-28 13:25:43
-65	0x41	A	19550	562342	epo	La unuiĝinta reĝlando konsistas el Anglujo, Skotlando, Kimrujo kaj Norda Irlando.	sigfrido	2010-10-12 19:51:07	2014-12-12 04:03:42
-66	0x42	B	15311	702496	epo	Bonvolu ĉirkaŭdoni la paperon.	Alois	2011-01-07 19:06:09	2011-01-07 19:06:09
-67	0x43	C	2278	5450233	epo	La urbo Cuzco estis la ĉefurbo de la Inkaa Imperio, kiu estis forigita de la hispana konkero de la plej granda parto de la Amerikoj.	carlosalberto	2016-09-18 13:20:31	2016-09-18 13:20:31
-68	0x44	D	15102	4929754	epo	Delonge mi revas pri tiu vojaĝo.	nimfeo	2016-02-23 07:42:25	2016-02-23 07:42:25
-69	0x45	E	33379	1754935	epo	Eŭropa Unio estas kreaĵo unika.	al_ex_an_der	2012-08-06 10:01:17	2023-11-04 09:31:27
-70	0x46	F	9770	3872152	epo	Feinrakonto estas kvazaŭ kanono de poezio — por esti poezia, ĉio estu fea, magia.	carlosalberto	2015-02-16 11:25:32	2015-02-16 17:22:32
-71	0x47	G	4366	5636047	epo	Granda Nov-Jorka gazeto anoncas, ke inundoj ĉe la marbordo sekve de la klimatŝanĝiĝo jam estas survoje.	GrizaLeono	2016-11-24 21:22:17	2016-11-24 21:22:17
-72	0x48	H	9274	6317431	epo	Hieraŭ ni havis belan veteron.	nimfeo	2017-09-20 18:32:53	2017-09-20 18:32:53
-73	0x49	I	22180	1343956	epo	Iuj soldatoj plu pafis, kvankam ilia superulo ordonis pafpaŭzon.	GrizaLeono	2012-01-07 12:16:50	2012-01-07 12:16:50
-74	0x4a	J	15341	6621920	epo	Jen la skipo.	Guybrush88	2018-01-21 14:30:57	2018-01-21 14:30:57
-75	0x4b	K	62258	1762690	epo	Kiom da infanoj oni transdonos al la nova instruisto?	zalaim	2012-08-08 23:38:08	2012-08-08 23:38:08
-76	0x4c	L	118521	1127298	epo	Li faris tre valoran malkovron.	Hans07	2011-09-24 16:34:38	2011-09-24 16:34:38
-77	0x4d	M	174862	9626190	epo	Tomo petis Manjon reveni morgaŭ.	GrizaLeono	2021-01-09 21:18:06	2021-01-09 21:18:06
-78	0x4e	N	56533	1808019	epo	Dankon! Nun la penso de tiu frazo estas pli klara.	Lumo	2012-08-31 01:22:39	2012-10-19 23:20:33
-79	0x4f	O	8741	1875518	epo	Oni kondukis la arestiton al la ekzekuta taĉmento.	nimfeo	2012-09-29 16:41:21	2012-09-29 16:41:21
-80	0x50	P	22560	688673	epo	Pli frue en la urbo funkciis kvin fabrikoj.	Aleksandro40	2010-12-27 20:31:24	2010-12-27 20:31:24
-81	0x51	Q	49	1356310	epo	Mi esperas kontakti aliajn esperantistojn per la radio, ĉar mi estas radioamatoro. Mia voksigno estas F5NQW.	Bon	2012-01-12 11:44:14	2015-12-30 13:26:19
-82	0x52	R	7088	4299640	epo	Senti sin bezonata al aliaj kaj kapabla lerni ion novan — jen estas fontoj por plu vivi. Retrovo de tiuj fontoj denove faras la homon vivema kaj feliĉa.	carlosalberto	2015-06-23 14:50:28	2015-06-23 14:50:28
-83	0x53	S	25679	2937848	epo	Mi legis la unuan volumon de "Murena". — Dankon pro la rekomendo, Sacredceltic!	GrizaLeono	2013-12-16 19:44:59	2013-12-16 19:44:59
-84	0x54	T	118203	11385384	epo	Eble Tomaso kaj Maria serĉis ĝuste tion.	soweli_Elepanto	2022-12-29 08:15:43	2022-12-29 08:15:43
-85	0x55	U	4322	10467115	epo	Unu el miaj fratinoj estas tre bona artisto.	Verdastelo	2021-10-29 02:53:34	2021-10-29 02:53:34
-86	0x56	V	36012	5013540	epo	Vi ekstaris kaj vi iris al la fenestro.	nimfeo	2016-03-27 11:38:10	2016-03-27 11:38:10
-87	0x57	W	473	1967973	epo	Iru vidi, ĉu s-ro Wilson estas hejme.	GrizaLeono	2012-10-30 15:11:40	2012-10-30 15:11:40
-88	0x58	X	94	10556613	epo	En la japana animeoserio Vampira Kavaliro, ekzistas festado nomita la Tago de Sankta Xocolatl.	nonong	2021-12-11 14:21:49	2021-12-11 14:21:49
-89	0x59	Y	292	1228931	epo	Ŝi nomiĝas Yotchan.	GrizaLeono	2011-11-10 14:45:49	2011-11-10 14:45:49
-90	0x5a	Z	986	10672585	epo	Doktoro Zamenhof naskiĝis en la 15-a de decembro mil okcent kvindek naŭ.	AutoBot	2022-02-13 11:51:09	2022-04-29 06:43:45
-91	0x5b	[	50	9793469	epo	Esperanta vorto "viruso" devenis de samsignifa latina vorto "virus" [vírus], kies rekta signifo estas "veneno".	soweli_Elepanto	2021-02-22 08:21:04	2021-02-22 12:12:50
-93	0x5d	]	50	9793458	epo	Esperanta vorto "respubliko" devenis de samsignifa latina vortokombino "res publica" [res públika], kiu laŭvorte signifas "publika afero".	soweli_Elepanto	2021-02-22 08:05:41	2021-02-22 12:15:00
-94	0x5e	^	2	10546469	epo	Kio estas la derivaĵo de e^x?	GrizaLeono	2021-12-05 19:57:51	2021-12-05 19:57:51
-95	0x5f	_	8	4911900	epo	Saluton, Source_VOA!	Guybrush88	2016-02-14 13:57:33	2016-02-14 13:57:33
-97	0x61	a	711540	2390414	epo	Vojaĝi en la sudaj ŝtatoj dumvintre kostos pli multe ol nun.	nimfeo	2013-04-18 16:34:26	2013-04-18 16:34:26
-98	0x62	b	194194	5682303	epo	Tomo metis tre bonan demandon.	nimfeo	2016-12-13 15:37:38	2016-12-13 15:37:38
-99	0x63	c	141153	4916845	epo	Ĝi estas kornelieca alternativo.	nimfeo	2016-02-16 18:03:57	2016-02-16 18:03:57
-100	0x64	d	364671	4109232	epo	Certe ne povas esti nura hazardo, ke li fakte, sangokorpe ekzistas.	carlosalberto	2015-04-25 01:07:49	2015-04-25 01:07:49
-101	0x65	e	665915	10654499	epo	Ni busis de Akeno Lieĝen.	GrizaLeono	2022-02-01 20:39:57	2022-02-01 20:39:57
-102	0x66	f	208716	5208635	epo	Mi ne kredis, ke ni povas fari tion.	nimfeo	2016-06-12 13:18:00	2016-06-12 13:18:00
-103	0x67	g	195607	2966601	epo	Ŝi rapide purigis sian ĉambron.	nimfeo	2014-01-05 16:31:30	2014-01-05 16:31:30
-104	0x68	h	99120	1469096	epo	Se vi helpas min, mi invitas vin al manĝo.	Hans07	2012-03-04 15:36:49	2012-03-04 15:36:49
-105	0x69	i	718490	3098275	epo	Ĉiuj aplaŭdis.	nimfeo	2014-03-15 19:19:04	2014-03-15 19:19:04
-106	0x6a	j	292624	984616	epo	Ĉu vi estas kontenta pri via nuna salajro?	sacredceltic	2011-07-11 10:00:01	2020-12-19 11:39:57
-107	0x6b	k	429722	3163729	epo	Ne malpli ol cent personoj ĉeestis la kunvenon.	nimfeo	2014-04-10 09:05:04	2014-04-10 09:05:04
-108	0x6c	l	554151	8492198	epo	Ĉu iu estis en la trinkejo?	PaulP	2020-01-26 19:11:07	2020-01-26 19:11:07
-109	0x6d	m	473030	1430536	epo	Ne maltrankviliĝu, mi povas certigi vin, ke ĉio iros glate.	GrizaLeono	2012-02-12 12:11:02	2012-02-12 12:11:02
-110	0x6e	n	659029	5117053	epo	Estas bone vidi vin.	nimfeo	2016-05-06 07:23:24	2016-05-06 07:23:24
-111	0x6f	o	691620	12098616	epo	Mi ne tre bone ludis hodiaŭ.	Verdastelo	2023-10-06 05:02:52	2023-10-06 05:02:52
-112	0x70	p	378539	5074472	epo	Tio estas liliputa domo.	Guybrush88	2016-04-20 10:36:14	2016-06-11 18:18:14
-113	0x71	q	87	6400605	epo	Tarquinius estis la lasta reĝo de la romianoj.	Hans07	2017-10-27 15:29:42	2017-10-27 15:29:50
-114	0x72	r	584492	9444214	epo	La plej terura rimedo kontraŭ turmentaj pensoj estas distro: ĝi kondukas al senpripenseco.	Esperantostern	2020-12-07 06:56:17	2020-12-07 06:56:17
-115	0x73	s	717674	12125348	epo	Mi estis punita pro farado de tio.	soweli_Elepanto	2023-10-24 10:33:23	2023-10-24 10:33:23
-116	0x74	t	574236	4849566	epo	La polico rekonstruigis la situacion de la akcidento.	Aleksandro40	2016-01-22 19:05:09	2016-01-22 19:06:42
-117	0x75	u	453117	2145468	epo	Petro ŝajnas jam ne juna.	Aleksandro40	2013-01-15 12:41:40	2013-01-15 12:41:40
-118	0x76	v	371388	544140	epo	Kia sinjoro estas, tiu kun la okulvitroj?	slavneui	2010-10-03 17:45:22	2010-10-03 17:45:22
-119	0x77	w	622	1969469	epo	Kiom distas New York?	Alois	2012-10-31 09:36:42	2012-10-31 09:36:42
-120	0x78	x	233	1363462	epo	Malfermu Mozilla Firefox.	Hans07	2012-01-15 23:57:42	2012-01-15 23:57:42
-121	0x79	y	3826	2757983	epo	Tom akceptis la laborpostenon, kiun Mary proponis al li.	belgavox	2013-09-24 18:52:24	2014-05-25 17:22:51
-122	0x7a	z	104596	1957443	epo	Rapidnudeloj estas la bazo de la studentara nutraĵo.	nimfeo	2012-10-27 14:50:35	2012-10-27 14:50:35
+63	0x3f	?	89035	716236	epo	Kiel ni traktu tiun aferon?	Alois	2011-01-19 09:05:02	2011-01-19 09:05:02
+64	0x40	@	12	1247360	epo	"Kiel oni prononcas la simbolon @ en tiu lingvo?" - "Ĉe".	Alois	2011-11-18 21:16:31	2015-02-26 08:05:17
+65	0x41	A	19591	547789	epo	Antaŭ ol iri al Francio ni decidis studi la francan.	Andranik	2010-10-06 10:36:39	2015-12-09 17:15:36
+66	0x42	B	15334	2629195	epo	Bonvolu atendi dek sekundojn.	Alois	2013-07-30 09:52:55	2015-04-04 00:36:41
+67	0x43	C	2280	2916050	epo	Cirklo havas nek komencon nek finon.	Manfredo	2013-12-09 15:59:41	2013-12-09 15:59:41
+68	0x44	D	15123	5601632	epo	Donu al mi tiun alian skatolon.	GrizaLeono	2016-11-12 14:46:57	2016-11-12 14:46:57
+69	0x45	E	33406	1151671	epo	En la unuaj jaroj de la ekzistado de Esperanto unu sinjoro montris al mi germanan libron (tradukon de verko de Dickens) kaj diris: ĉi tion oni certe ne povus traduki en Esperanton.	FernandoMaiaJr	2011-10-04 19:02:51	2011-10-04 19:02:51
+70	0x46	F	9786	3198771	epo	Fosiliaj brulaĵoj ne ĉiam disponeblos.	GrizaLeono	2014-04-24 21:36:16	2014-05-25 17:08:34
+71	0x47	G	4371	12200053	epo	En Rusujo estas kutimo, ke oni demetas siajn ŝuojn, enirante loĝejon. Gastoj ĝenerale ricevas pantoflojn.	GrizaLeono	2023-12-08 10:22:35	2023-12-08 10:22:35
+72	0x48	H	9286	11803336	epo	Niĝerio estas proksimume je la areo de Federacia Respubliko Germanio sen Ŝlesvigo-Holstinio pli malgranda ol Niĝero.	Pfirsichbaeumchen	2023-05-29 15:36:00	2023-05-29 18:25:08
+73	0x49	I	22220	5193709	epo	Ili kuŝas en apartaj ĉambroj.	nimfeo	2016-06-05 05:29:23	2016-06-05 05:29:23
+74	0x4a	J	15357	1513482	epo	Jen bela afero!	Manfredo	2012-04-02 11:06:09	2012-04-02 11:06:09
+75	0x4b	K	62365	1415364	epo	Kiam ŝi tie sidis kaj korŝire ploris, ŝi aŭdis voĉon, kiu demandis: "Kio okazis al vi, reĝa filino?"	al_ex_an_der	2012-02-05 00:29:08	2012-02-05 02:10:52
+76	0x4c	L	118706	3997133	epo	La aglo majeste ŝvebis super la neĝkovritaj montopintoj.	GrizaLeono	2015-03-28 15:34:57	2015-03-28 15:34:57
+77	0x4d	M	175115	4424419	epo	Mi prenis mian fratineton je la mano, kaj ni ambaŭ ekkuris.	GrizaLeono	2015-08-01 20:32:59	2015-08-01 20:33:18
+78	0x4e	N	56644	5373482	epo	Ni devigis ilin esti diskretaj.	GrizaLeono	2016-08-26 17:22:08	2016-08-26 17:22:08
+79	0x4f	O	8759	5077317	epo	Olivero flugigas ruĝan kajton en la blua ĉielo.	nonong	2016-04-22 00:36:39	2016-04-22 00:36:39
+80	0x50	P	22585	3957299	epo	Pri sia laboro oni strebu al aprobo, neniam al aplaŭdo.	GrizaLeono	2015-03-14 14:15:30	2015-03-14 14:15:30
+81	0x51	Q	49	5450161	epo	La konstruaĵo daŭre staras, sed la plejparto de ĝia dekoracia interno estas detruita, inkluzive verkojn de Diego Quispe Tito, loka artisto de la deksepa jarcento.	carlosalberto	2016-09-18 12:52:55	2016-09-18 12:52:55
+82	0x52	R	7099	3932887	epo	Nun Lindao estas forŝovita, Dano povus edziĝi kun Ritjo, sia malfidulino.	fekundulo	2015-03-05 15:07:36	2015-03-05 15:59:11
+83	0x53	S	25737	628195	epo	Same por mi.	pjer	2010-11-19 20:42:37	2010-11-19 20:42:37
+84	0x54	T	118421	5230472	epo	Tio ne estas feria tago.	nimfeo	2016-06-22 18:38:18	2016-06-22 18:38:18
+85	0x55	U	4325	11792531	epo	Ni devas detrui Usonon.	shekitten	2023-05-25 21:31:08	2023-05-25 21:31:08
+86	0x56	V	36068	1909510	epo	Vi ne kredos, kion ĵus mi vidis!	al_ex_an_der	2012-10-10 05:53:09	2012-10-10 05:53:09
+87	0x57	W	474	5295037	epo	Laŭ David Frum, la usona Respublika Partio enscenigis kongreson, kiu estis ilia plej apatia kaj plej senĝoja en dudek jaroj, sed Elizabeth Warren karakterizis tiun kunvenon kiel la plej aĉan kaj plej divideman en duona jarcento.	Objectivesea	2016-07-22 18:49:45	2016-07-23 07:50:49
+88	0x58	X	94	3976735	epo	Kiel oni diras XXX en via lingvo?	Vortarulo	2015-03-21 13:42:41	2015-03-21 13:42:41
+89	0x59	Y	292	845117	epo	Facebook, Twitter, YouTube kaj Blogger minacas vian vivon.	Manfredo	2011-04-20 10:46:15	2011-04-20 10:46:15
+90	0x5a	Z	993	6626593	epo	Iuj komparis Esperantismon kun sekto, sed baldaŭ venos la tempo kiam Zamenhof revenos kaj punos ilin pro tiu sakrilegio.	shekitten	2018-01-23 10:36:50	2019-04-04 17:09:01
+91	0x5b	[	50	3655399	epo	La vorto [oboronosposóbnostj] estas unika en la rusa lingvo, ĉar tie ne ekzistas alia vorto, enhavanta sep vokalojn, el kiuj ĉiu estas la sama!	soweli_Elepanto	2014-11-24 21:04:27	2014-11-25 01:43:28
+93	0x5d	]	50	9793469	epo	Esperanta vorto "viruso" devenis de samsignifa latina vorto "virus" [vírus], kies rekta signifo estas "veneno".	soweli_Elepanto	2021-02-22 08:21:04	2021-02-22 12:12:50
+94	0x5e	^	2	10680477	epo	Pli maljunaj esperantistoj ankoraŭ skribas "au^stra s^inko", "auxstra sxinko", aŭ "austra shinko" por "aŭstra ŝinko" en la Interreto. Tiaj estas anstataŭaĵoj por supersignoj.	nonong	2022-02-19 06:57:05	2022-02-19 07:04:38
+95	0x5f	_	8	5247004	epo	Averto: ne subtenataj signoj estas prezentataj kiel "_".	GrizaLeono	2016-07-02 12:01:05	2016-07-02 12:01:05
+97	0x61	a	712662	3307927	epo	"Kiom longe vi jam estas amikoj?" – "Ekde kiam ni havis tri jarojn, kaj ni neniam kverelis."	al_ex_an_der	2014-06-11 10:12:42	2014-06-11 10:12:42
+98	0x62	b	194449	571085	epo	Eble vi havas bonan kialon por pensi, ke via junaĝo jam forpasis.	pliiganto	2010-10-18 07:04:53	2014-10-23 00:55:14
+99	0x63	c	141368	5536938	epo	Hodiaŭ mi skribis mian dekmilan francan frazon.	GrizaLeono	2016-10-21 15:09:36	2016-10-21 15:09:36
+100	0x64	d	365230	429969	epo	La tempo por agi etiĝas senĉese plu por venki la defiojn pri la klimato, pri energio kaj pri biodiverseco.	sciuro	2010-07-18 22:03:46	2010-07-18 22:03:46
+101	0x65	e	666942	1196466	epo	La policisto fajfis kaj signalis, ke la aŭto haltu.	al_ex_an_der	2011-10-25 04:56:42	2011-10-25 04:56:42
+102	0x66	f	209039	2583165	epo	La arbaro ekfoliis.	Dimitrije	2013-07-10 23:17:52	2013-07-10 23:17:52
+103	0x67	g	195854	6916001	epo	Tio ŝajnas grandioza.	Hans07	2018-05-27 12:02:31	2018-05-27 12:02:31
+104	0x68	h	99253	1680843	epo	Al mi plaĉas la mallonga harostilo.	jose76c	2012-07-10 21:44:52	2012-07-10 21:44:52
+105	0x69	i	719628	3242366	epo	"Kiam li studas?" — "Li studas antaŭ la vespermanĝo."	GrizaLeono	2014-05-10 11:52:48	2014-05-10 11:52:48
+106	0x6a	j	293037	6388254	epo	Miaj kruroj tremantis.	GrizaLeono	2017-10-18 19:39:27	2017-10-18 19:39:27
+107	0x6b	k	430339	5294152	epo	Decidu ĉu esti formala aŭ neformala antaŭ ol vi komencos skribi.	carlosalberto	2016-07-22 11:50:02	2016-07-22 11:50:02
+108	0x6c	l	554985	3465669	epo	Kiel vi povis fari tiaĵon?	nimfeo	2014-09-02 00:39:50	2014-09-02 00:39:50
+109	0x6d	m	473777	8458281	epo	Ĉu vi postmorgaŭ liberas?	GrizaLeono	2020-01-16 19:13:17	2020-01-16 19:13:17
+110	0x6e	n	660063	512736	epo	Estas jam je la dek-unua horo. Vi devus esti en la lito jam delonge.	esocom	2010-09-14 17:10:01	2023-11-03 14:54:55
+111	0x6f	o	692697	5551220	epo	Kreditkompanioj sendas al siaj klientoj monatajn fakturojn.	Esperantostern	2016-10-26 06:16:52	2016-10-26 06:16:52
+112	0x70	p	379071	5259844	epo	Pri kelkaj aferoj estas preferinde ne paroli.	nimfeo	2016-07-08 14:02:31	2016-07-08 14:02:31
+113	0x71	q	87	5226043	epo	Chiqui estas esperantista papago.	Pfirsichbaeumchen	2016-06-20 16:54:49	2016-06-20 16:54:49
+114	0x72	r	585376	597566	epo	Disrompu la duonamaran ĉokoladon je malgrandaj pecoj.	jxan	2010-11-01 22:15:43	2010-11-01 22:15:43
+115	0x73	s	718802	11874078	epo	Ŝi sepdekjara verkis sian memoraĵaron.	GrizaLeono	2023-06-25 09:48:05	2023-06-25 09:48:05
+116	0x74	t	575095	4883097	epo	En Italio en 1992 oni publikigis verkon titolitan “Hitler estas bonkora kaj amas Italion". La teksto baziĝas sur aŭtentikaj lernejaj verkotaskoj, kaj montras, kiel per taŭga propagando oni povas tordi la pensmanieron de la amasoj.	JoKo	2016-02-03 16:13:06	2016-02-03 19:08:57
+117	0x75	u	453773	7703676	epo	Mi ĉiam havis multajn amikojn.	Pfirsichbaeumchen	2019-01-07 18:02:15	2019-01-07 18:02:15
+118	0x76	v	371956	1149219	epo	Oni bezonas multan akvon.	Hans07	2011-10-04 15:24:50	2011-10-04 15:24:50
+119	0x77	w	622	12039634	epo	Tomo ne plu uzas Twitter.	shekitten	2023-09-06 02:36:52	2023-09-06 02:36:52
+120	0x78	x	233	3589467	epo	Marx ne kulpas pri krimoj de komunistaj reĝimoj, same kiel Kristo ne kulpas pri kruelaĵoj de Inkvizicio.	alik_farber	2014-10-28 22:31:37	2014-10-30 19:02:53
+121	0x79	y	3827	1766186	epo	Betty mortigis vian patrinon.	GrizaLeono	2012-08-10 14:25:22	2012-08-10 14:25:22
+122	0x7a	z	104714	1866812	epo	Estas bezonata urĝa bezono de sperta jura konsilisto.	nimfeo	2012-09-26 10:21:26	2013-02-13 05:18:25
 123	0x7b	{	1	7370455	epo	Aro sen elemento nomiĝas "malplena aro". Oni skribas ĝin jene {}.	GrizaLeono	2018-11-01 17:59:25	2018-11-01 17:59:25
 124	0x7c	|	1	2781263	epo	Estimataj uzantoj de la Tut-Tera Teksaĵo|! Tatoeba salutas vin en sia oficiala TTT-ejo.	Fajrereto	2013-10-09 20:22:11	2013-10-09 20:22:11
 125	0x7d	}	1	7370455	epo	Aro sen elemento nomiĝas "malplena aro". Oni skribas ĝin jene {}.	GrizaLeono	2018-11-01 17:59:25	2018-11-01 17:59:25
 126	0x7e	~	2	1359883	epo	“Se la sola preĝo kiun vi diras en via tuta vivo estas “Dankon”, tio sufiĉus.” ~ Meister Eckhart	AMIKEMA	2012-01-14 01:59:12	2012-01-14 02:00:19
-160	0xa0	 	792	6365017	epo	„Kie estas Manjo?“ – „Mi venis sen ŝi.“	Pfirsichbaeumchen	2017-10-04 21:53:39	2017-10-04 21:53:44
+160	0xa0	 	792	7010945	epo	„Mi amis vin, Manjo!“ – „Se tio estas vera, kial vi malfidelis al mi?“	Pfirsichbaeumchen	2018-07-22 08:15:06	2018-07-22 08:26:33
 167	0xa7	§	1	3266393	epo	Jen la kvin artikoloj de la vivo: §1 Ne pensu! §2 Kiam vi pensas, ne parolu! §3 Kiam vi parolas, ne skribu! §4 Kiam vi skribas, ne subskribu! §5 Kiam vi subskribas, tiam ne miru!	nimfeo	2014-05-20 12:45:05	2014-05-20 12:45:05
 168	0xa8	¨	1	5560373	epo	¨Pluvis. Ili tamen iris al sia lerneja ekskurso.	GrizaLeono	2016-10-29 11:29:03	2016-10-29 11:29:03
-171	0xab	«	96	539835	epo	Kio estas saĝo? Diri « jes » al tio, kio estas!	pjer	2010-09-30 11:53:20	2010-09-30 11:53:20
-173	0xad	­	16	8964436	epo	«­Kial vi malakceptis ŝin?» — «Ĉar mi havas vin»­.	ZegPhig	2020-08-08 04:32:14	2021-05-22 13:03:42
-176	0xb0	°	15	7239359	epo	La akso de Pluto estas inklinita je 122,5°, kio fakte signifas, ke ĝi rotacias sur la kapo.	GrizaLeono	2018-09-30 18:25:59	2018-09-30 18:25:59
-178	0xb2	²	10	4996701	epo	Oni nomas nombron a la kvadrata radiko de alia nombro b, se la kvadrato de a estas egala al b, en formuloj: a² = b.	Pfirsichbaeumchen	2016-03-21 15:46:44	2016-03-21 15:48:13
+171	0xab	«	96	8551005	epo	La klingona nomo de Egiptio estas «maSIr».	shekitten	2020-02-14 16:07:38	2020-02-14 16:07:38
+173	0xad	­	16	3500031	epo	Mi iris al la akvokrano kaj trin­kis akvon.	al_ex_an_der	2014-09-16 21:32:14	2014-09-16 21:32:14
+176	0xb0	°	15	512188	epo	Antaŭhejtu la fornon je 200°C.	esocom	2010-09-14 12:42:15	2010-09-14 12:42:15
+178	0xb2	²	10	12218757	epo	Kiel oni povas geometrie klarigi al si, ke la surfaco de sfero, 4𝜋𝑅², precize egalas al la areo de kvar cirkloj de la sama radiuso 𝑅?	Pfirsichbaeumchen	2023-12-19 18:31:36	2023-12-19 18:31:36
 179	0xb3	³	2	9980061	epo	Trovu la reston, kiam 2²⁰¹³ dividiĝas per 3.	shekitten	2021-04-23 10:36:42	2021-04-23 10:36:42
 180	0xb4	´	1	3860188	epo	Dank´al Dio, li komplete resaniĝis.	vekiano	2015-02-11 13:28:19	2015-02-11 13:28:19
 183	0xb7	·	2	1646670	epo	Mi estis certa, ke mia edzino, se mi·klarigos al ŝi la aferon, ĉion aprobos.	al_ex_an_der	2012-06-26 01:13:57	2012-06-26 01:13:57
-185	0xb9	¹	2	9980061	epo	Trovu la reston, kiam 2²⁰¹³ dividiĝas per 3.	shekitten	2021-04-23 10:36:42	2021-04-23 10:36:42
+185	0xb9	¹	2	8234680	epo	Se oni dividas la numeron 2²⁰¹³ per 3, restas 1, ĉar 2013 estas nepara.	Pfirsichbaeumchen	2019-10-05 10:52:01	2019-10-05 10:52:01
 186	0xba	º	1	790556	epo	Mi skribis la frazon nº 777777 sur Tatoeba.	rado	2011-03-12 22:54:13	2011-03-12 22:54:29
-187	0xbb	»	97	734512	epo	Li ĉiam diras al mi «Bonan tagon!» kiam ajn mi vidas lin.	dominiko	2011-01-31 08:35:06	2011-01-31 08:35:06
+187	0xbb	»	97	10268855	epo	«Kion vi faros ĉi-jare por Kristnasko?» – «Mi ankoraŭ ne volas pripensi tion. Nun estas nur la fino de aŭgusto.»	Objectivesea	2021-08-29 22:56:24	2021-08-29 22:56:24
 189	0xbd	½	3	11210008	epo	30 monatoj estas 2½ jaroj.	danepo	2022-10-27 10:41:21	2022-10-27 10:41:21
-193	0xc1	Á	9	1718781	epo	Álvaro estas el Venezuelo. Li estas venezuelano.	Maksimo	2012-07-23 09:16:55	2012-07-23 09:16:55
-197	0xc5	Å	2	3440526	epo	Åle, la plej maljuna angilo de la mondo, mortis antaŭ nelonge. Li atingis aĝon de proksimume cent kvindek jaroj.	al_ex_an_der	2014-08-19 14:46:45	2014-08-19 14:46:45
+193	0xc1	Á	9	3533354	epo	Estas interese, ĉu ROZENTÁL mem elpensis por ni tiun ĉi inferan teruraĵon?	soweli_Elepanto	2014-10-02 23:44:05	2014-10-02 23:44:05
+197	0xc5	Å	2	3440523	epo	Ĵus mortis Åle, la plej maljuna angilo de la mondo. Li atingis aĝon de proksimume cent kvindek jaroj.	al_ex_an_der	2014-08-19 14:44:38	2014-08-19 14:45:50
 198	0xc6	Æ	1	5814220	epo	Estis tiam reĝo nomita Æthelberht de Kent, kaj li estis potenca.	nimfeo	2017-01-31 09:26:07	2017-01-31 09:26:35
 199	0xc7	Ç	2	2393799	epo	Ni skribas Çorum "Ĉorum" en Esperanto.	nimfeo	2013-04-20 18:15:40	2013-04-20 18:15:40
-201	0xc9	É	13	3616043	epo	Mi forgesis aĉeti floron por Éva.	mraz	2014-11-09 01:20:34	2014-11-09 02:01:17
-205	0xcd	Í	4	11865022	epo	Islando islande nomiĝas "Ísland".	GrizaLeono	2023-06-22 09:10:55	2023-06-22 09:10:55
-211	0xd3	Ó	2	5062906	epo	La lernejanoj vizitis la muzean bienon de Leo TOLSTÓJ.	soweli_Elepanto	2016-04-14 08:52:12	2016-04-14 08:52:12
+201	0xc9	É	13	1051873	epo	Tiu, kiu faris tion, estis Éamonn.	Hans07	2011-08-18 16:52:38	2023-10-30 15:23:30
+205	0xcd	Í	4	4035703	epo	Simile al DJUÍ, RUSSEL kaj ceteraj filozofemaj instigantoj de milito, ankaŭ multaj usonaj kaj anglaj sciencistoj aktive propagandas atommiliton.	soweli_Elepanto	2015-04-04 17:50:47	2015-04-04 17:50:47
+211	0xd3	Ó	2	6066542	epo	Líndon ĜÓNSON transprenis la prezidentecon, kiam Johano KÉNNEDI estis murdita.	soweli_Elepanto	2017-05-09 19:49:03	\N
 215	0xd7	×	2	12184042	epo	Paĝoj kutime grandas almenaŭ 4 KiB (4×1024 bitokoj), kaj sistemoj kun grandaj virtualaj adresatingoj aŭ grandaj kvantoj de reala memoro ĝenerale uzas pli grandajn paĝograndojn.	GrizaLeono	2023-11-28 19:21:51	2023-11-28 19:21:51
 216	0xd8	Ø	1	10333611	epo	Davy, brita ĥemiisto, izolis la purajn elementojn bario, boro, kalcio, magnezio, kalio, natrio kaj stroncio, sed ni ŝuldas la malkovron de metala aluminio al Ørsted, dana fizikisto.	Objectivesea	2021-10-01 08:40:57	2021-10-01 08:40:57
 218	0xda	Ú	2	1973213	epo	En la sumera lingvo "LÚ.GAL" signifas reganton aŭ reĝon.	Vortarulo	2012-11-01 15:27:51	2013-04-05 19:26:08
-223	0xdf	ß	12	6092395	epo	"Kiel oni diras en Esperanto 'Ich weiß nicht'?" "Mi ne scias". "Diable, kiun ajn mi demandas, tiu ne scias!"	carlosalberto	2017-05-20 23:14:46	\N
-224	0xe0	à	8	10360132	epo	Ekzistas kelkaj sistemoj por skribi la hoklan: per logogramoj kun bopomofoj, per logogramoj kun strekaj kanaoj, per logogramoj, per logogramoj kun romliteroj, kaj per kelkaj romliteraj sistemoj, nome Pe̍h-ōe-jī (POJ), Bbánlám pìngyīm, Daighi tongiong pingim, Moderna Laŭvorta Tajvana (MLT), Phofsit Daibuun, Tâi-uân Lô-má-jī Phing-im Hong-àn, kaj la Tajvanlingva Fonetika Alfabeto (TLPA). Ekzistas almenaŭ 11 metodoj por skribi la hoklan, la hokkienan.	nonong	2021-10-13 14:34:07	2021-10-13 14:34:07
-225	0xe1	á	82	1242417	epo	Tiun ĉi bonan ĉevalon mi aĉetis de Pál.	Aleksandro40	2011-11-16 17:33:27	2011-11-16 17:33:27
-226	0xe2	â	9	2981050	epo	Mâtho perdis siajn ŝultroprotektilojn, sian kaskon, sian kirason: li estis tute nuda.	nimfeo	2014-01-13 13:53:30	2014-01-13 13:53:30
-227	0xe3	ã	18	4058677	epo	Fernão Lopes estis portugala historiisto el la 15a jarcento.	alexmarcelo	2015-04-10 18:44:05	2015-04-10 18:44:05
-228	0xe4	ä	17	858365	epo	Evitu do konfuzajn priskribojn, kiajn «Geschäftsführer» aŭ «Vorsitzender».	\N	2011-04-26 18:53:05	2023-11-19 13:03:09
+223	0xdf	ß	12	3812360	epo	Prenu la buson en la direkto al „Badstraße“ ĝis la „Seestraße“.	Esperantostern	2015-01-30 16:46:12	2015-01-30 16:46:12
+224	0xe0	à	8	10009246	epo	Iam estis homo, kiu nomiĝis Xiàng Yǔ [sjan juj]. Li estis nevenkebla militestro.	soweli_Elepanto	2021-05-05 14:14:36	2021-05-05 14:14:36
+225	0xe1	á	82	6859055	epo	Neniu povas malhelpi al mi paroli kun Márika.	soweli_Elepanto	2018-04-27 10:42:27	2018-04-27 10:42:27
+226	0xe2	â	9	10360132	epo	Ekzistas kelkaj sistemoj por skribi la hoklan: per logogramoj kun bopomofoj, per logogramoj kun strekaj kanaoj, per logogramoj, per logogramoj kun romliteroj, kaj per kelkaj romliteraj sistemoj, nome Pe̍h-ōe-jī (POJ), Bbánlám pìngyīm, Daighi tongiong pingim, Moderna Laŭvorta Tajvana (MLT), Phofsit Daibuun, Tâi-uân Lô-má-jī Phing-im Hong-àn, kaj la Tajvanlingva Fonetika Alfabeto (TLPA). Ekzistas almenaŭ 11 metodoj por skribi la hoklan, la hokkienan.	nonong	2021-10-13 14:34:07	2021-10-13 14:34:07
+227	0xe3	ã	18	5678503	epo	Manjo estas ĝentila kaj trankvila knabino, sed ŝi estas ankãu persistema kaj obstina.	ianna	2016-12-12 13:13:51	2016-12-12 13:13:51
+228	0xe4	ä	17	3015695	epo	Por la transformado de krudfero en ŝtalon la anglo Bessemer inventis fornon, similan al tiu, kiun vi ankoraŭ nun povas vidi en Gävle, en Svedio.	al_ex_an_der	2014-01-29 17:37:42	2023-01-28 04:16:35
 229	0xe5	å	3	4562595	epo	La plej longa rivero de Danujo estas Gudenå, kiu longas 160 kilometrojn.	GrizaLeono	2015-09-27 18:55:14	2015-09-27 18:55:14
 230	0xe6	æ	2	5491585	epo	Svedujo estas prononcata "ˈsværjə" en la sveda.	GrizaLeono	2016-10-04 08:45:34	2016-10-04 08:45:34
-231	0xe7	ç	16	5673417	epo	Jean-François Champollion sukcesis malĉifri la hieroglifojn, pristudante la Rozetan ŝtonon.	nimfeo	2016-12-10 09:23:10	2016-12-10 09:23:10
-232	0xe8	è	30	2222708	epo	Ekde kiam Agnès estas ĉi tie?	Matheus	2013-02-14 20:39:03	2013-02-14 20:39:03
-233	0xe9	é	148	1627305	epo	La gentomortigo farita de Hernán Cortés estas unu el la plej grandaj el la historio.	bufo	2012-06-15 03:44:42	2017-10-30 07:26:50
+231	0xe7	ç	16	7817716	epo	Ekzistas vortoj en la portugala, kiuj ne havas tradukon aŭ samsencan vorton en alia lingvo, kiel „açaí”, „samba” aŭ „guaraná”.	PaulP	2019-03-20 08:41:45	2019-03-20 08:41:45
+232	0xe8	è	30	1922266	epo	Por pli da detaloj, kontaktu Gisèle-n.	slavneui	2012-10-14 17:43:41	2012-10-14 17:43:41
+233	0xe9	é	148	527246	epo	La sola golo de la finalo estis farita de Andrés Iniesta.	samueldora	2010-09-22 22:10:10	2010-09-22 22:34:31
 234	0xea	ê	12	11035377	epo	Lisbono estis fascina vizito por mi. La malnova urbo estis plena de enmigrintoj el Afriko, Brazilo, kaj Makao. Afrik-aspektanto petis direktojn, sed mi diris per la baza portugala, "Não falo português" (Mi ne parolas la portugalan). Li diris: "Não?" (Ne?). Kun mia familio, mi manĝis ĉe Pickabano aŭ Pico de Domino picon ŝarĝitan per cepoj. Estis antikvaj konstruaĵoj abunde. La trotuaroj estis ŝarĝitaj per ruĝaj brikoj. Tubulo, ĉieldancisto, moviĝanta estis memorinda vidaĵo vespere.	nonong	2022-07-30 21:53:02	2022-07-30 22:18:16
 235	0xeb	ë	13	11253776	epo	Belgio flandre nomiĝas "België".	GrizaLeono	2022-11-17 18:05:08	2022-11-17 18:05:08
-236	0xec	ì	6	4821838	epo	Onidire tiu, kiu sukcesas pasi sub la ĉìelarko, ĉiam en la vivo sukcesos plenumi sian deziron!	ianna	2016-01-09 23:49:28	2016-01-09 23:49:28
-237	0xed	í	60	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
-238	0xee	î	12	2552129	epo	Tom morgaŭ vojaĝos al Nîmes.	Alois	2013-07-01 12:28:23	2013-07-01 12:28:23
-239	0xef	ï	9	793717	epo	Morgaŭ ni festos je Aïd-el-Fitr.	GrizaLeono	2011-03-15 09:02:57	2011-03-15 09:02:57
+236	0xec	ì	6	10725160	epo	La hinduoj disiĝas al du grupoj: al la personistoj kaj al la nepersonistoj. La nepersonistoj kredas, ke Dio estas nepersona ento kiel Brahman, kaj la personistoj kredas, ke Dio estas persona ento en la ĉefa formo de Kriŝna. Ĉinoj nomas la nepersonan enton Tiāndì (天地) aŭ Ĉielo-kaj-Tero, la Universo.	nonong	2022-03-19 06:16:30	2022-03-19 15:38:23
+237	0xed	í	60	7872790	epo	Pasis multe da tempo, kaj mortis la filino de Ŝua, la edzino de Jehuda. Kiam Jehuda konsoliĝis, li íris Timnan, al la tondantoj de liaj ŝafoj, li kaj lia amiko, Ĥira la Adulamano.	carlosalberto	2019-04-27 11:14:59	2019-04-27 11:15:24
+238	0xee	î	12	5240502	epo	Ŝi ploris ĝis elĉerpîĝo de la larmoj.	nimfeo	2016-06-28 15:27:34	2016-06-28 15:27:34
+239	0xef	ï	9	2981693	epo	Gotthold Éphraïm Lessing : "La vorto hazardo estas blasfemo. Nenio estas hazardo subsune."	nimfeo	2014-01-13 20:01:52	2014-01-13 20:01:52
 240	0xf0	ð	1	5048515	epo	La islanda ĉefministro, Sigmundur Davíð Gunnlaugsson, eksiĝis post la malkaŝo, ke lia edzino havas eksterlandan investan entreprenon.	GrizaLeono	2016-04-07 18:01:38	2016-04-07 18:01:38
-241	0xf1	ñ	8	8761997	epo	Jeanine Áñez estas rasista, faŝista diktatoro, enpostenigita per militista puĉo.	shekitten	2020-05-14 20:20:51	2020-05-14 20:21:12
-243	0xf3	ó	43	1725828	epo	Vilhelmo Gejts estas la fondinto de Mikrosóft.	soweli_Elepanto	2012-07-25 18:08:28	2023-04-29 21:39:31
-244	0xf4	ô	14	2769207	epo	La montomasivo Vercors situas en la sudoriento de Francio, en la departementoj Isère kaj Drôme inter la urboj Grenoble kaj Die.	al_ex_an_der	2013-10-02 00:28:31	2013-10-02 00:31:46
-246	0xf6	ö	47	8376574	epo	En sia televida serio "kuiri orientgermane" montras Jörg, interalie, kiel baki tipajn "GDR-bulkojn".	Esperantostern	2019-12-11 07:17:27	2019-12-11 07:17:27
-248	0xf8	ø	8	1683515	epo	Sven O. Høiby aŭ Paĉjo Høiby vendis historiojn kaj bildojn de Mette Marit al la gazetaro kaj malbenis la reĝan familion.	al_ex_an_der	2012-07-11 23:51:48	2012-07-11 23:51:48
-249	0xf9	ù	1	4742576	epo	La fungo "mù-ěr", ankaŭ konata kiel judasorelo, estas uzata en multaj pladoj de azia, aparte la ĉina kuirarto.	GrizaLeono	2015-12-03 19:30:11	2015-12-03 19:30:11
-250	0xfa	ú	20	8913297	epo	Hispane Domingo estas nomata "República Dominicana".	GrizaLeono	2020-07-13 11:19:02	2020-07-13 11:19:02
-251	0xfb	û	5	5067648	epo	Laûdire li estas specialisto pri skiado.	nimfeo	2016-04-16 17:36:18	2016-04-16 17:36:30
-252	0xfc	ü	57	3640785	epo	"Villa Hügel", la palacosimila iama vilao de la industriista familio Krupp, situas en la sudo de la germana urbo Essen. Tiu tre impona konstruaĵo kompletiĝis en la jaro mil okcent sepdek tri.	al_ex_an_der	2014-11-17 20:59:17	2014-11-17 21:04:34
+241	0xf1	ñ	8	4591426	epo	El Niño estas la plej grava klimata fenomeno, kiun kaŭzas la altiĝo de la temperaturo de la akvoj en la pacifika oceano ĉe la ekvatoro.	ianna	2015-10-09 12:31:50	2015-10-09 12:31:50
+243	0xf3	ó	43	922072	epo	Mi dezirus, ke Quim Monzó subskribu la libron por mi, sed mi hontas peti lin.	ae5s	2011-06-03 07:42:13	2011-06-03 07:42:13
+244	0xf4	ô	14	10360132	epo	Ekzistas kelkaj sistemoj por skribi la hoklan: per logogramoj kun bopomofoj, per logogramoj kun strekaj kanaoj, per logogramoj, per logogramoj kun romliteroj, kaj per kelkaj romliteraj sistemoj, nome Pe̍h-ōe-jī (POJ), Bbánlám pìngyīm, Daighi tongiong pingim, Moderna Laŭvorta Tajvana (MLT), Phofsit Daibuun, Tâi-uân Lô-má-jī Phing-im Hong-àn, kaj la Tajvanlingva Fonetika Alfabeto (TLPA). Ekzistas almenaŭ 11 metodoj por skribi la hoklan, la hokkienan.	nonong	2021-10-13 14:34:07	2021-10-13 14:34:07
+246	0xf6	ö	47	3267199	epo	La verkoj de Heinrich Böll estas altagrade tragikaj, sed tre interesaj por la postmilita generacio.	al_ex_an_der	2014-05-20 21:16:49	2014-05-24 23:19:00
+248	0xf8	ø	8	5108188	epo	Ole Einar Bjørndalen gajnis dek tri olimpiajn medalojn.	GrizaLeono	2016-05-03 15:48:12	2016-05-03 15:48:12
+249	0xf9	ù	2	12363064	epo	Ĉu ĉi tiu ragù estas farita el viando?	Guybrush88	2024-03-09 15:51:23	2024-03-09 15:51:23
+250	0xfa	ú	20	1882766	epo	Pútin diris, ke "oni murdu teroristojn en necesejoj".	soweli_Elepanto	2012-10-02 00:25:44	2012-11-23 16:44:47
+251	0xfb	û	5	5253946	epo	Li eldiris malgrandan alparolon improvize, senprepare, kaj li kortuŝis la aûskultantaron.	nimfeo	2016-07-05 16:15:46	2016-07-05 16:15:46
+252	0xfc	ü	57	1378696	epo	En la tempo, kiam aperis Esperanto, estis propagandata la lingvo artefarita “Volapük”, kreita de l’ germana pastro katolika Johano Martino Schleyer.	tulio	2012-01-20 13:46:13	2012-01-20 13:46:13
 253	0xfd	ý	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
 255	0xff	ÿ	1	9804985	epo	Li loĝas en L'Haÿ-les-Roses.	GrizaLeono	2021-02-25 17:24:53	2021-02-25 17:24:53
 256	0x100	Ā	2	10725165	epo	Ĵainismo, alia orienta religio, havas tion, kio estas la bonega koncepto pri Anekāntavāda, malabsolutismo aŭ multpunkteco; ĝi signifas, ke oni povas fari nenian pretendon pri absoluta vero; ĉiuj veroj dependas sur variaj perspektivoj kaj, do, ĉiu scio estas parta. Ekzistas klasika tradicia rakonto pri blindaj homoj tuŝantaj elefanton kaj provantaj priskribi tion, kio ĝi estas. Ĉiu homo donas malsaman priskribon depende sur tio, kion li tuŝis: sur la rostro, la flanko, la dentego, kaj tiel plu. Ĉiuj estas validaj, sed neniu povas difini la tutan elefanton. Ĉi tiu paradigmo rememorigas pri la hinduisma Ātman, la Eterna Memo, kaj pri la budaisma Anātman, la Ne-memo. La ĵainoj kredas, ke la perspektivo pri la konstanta memo kaj la perspektivo pri la malkonstanta memo estas malsamaj, sed egale validaj; ambaŭ povas esti veraj simultane.	nonong	2022-03-19 06:19:50	2022-03-19 15:40:20
-257	0x101	ā	34	10724687	epo	Scivoleme, mi legas pri Hinduismo pro kompari kun Budaismo. En politeisma Hinduismo, ekzistas ĉioampleksa dio, kiu nomiĝas Brahmā, kiu estas la Kreanto, parto de la Triopo, kiu inkluzivas de Viŝnu, la Konservanto; kaj de Ŝiva, la Detruanto. Krom tiu Triopo, ekzistas en Hinduismo panteono da multmultaj gedioj. Rigortraktite Budaismo kontraŭe agnoskas nenian Mastran Dion, personigitan kune kun homecaj atributoj: ĵaluzeco, pardonemeco, afableco, kolereco, kaj tiel plu. Budaismo konsentas, ke ĝi mem ne povas plene ekspliki tiun, kiu la dio estas, aŭ tiujn, kiuj la dioj estas, kaj ĝi ne penas fari tiel. Budaismo estas ne diocentra. Tamen, multaj laikaj Budaistoj ja adoras gediojn. Eĉ la Budaisma Vortaro de Nyānatiloka mencias la koncepton pri la nava-sattāvāsa, la 9 loĝejoj da estaĵoj, el kiuj kelkaj estas ja gedioj... Inter Hinduoj, ekzistas polemiko pri la koncepto de "Multaj Dioj-Kiel-Unu". Alivorte, ĉu la multmultaj gedioj ja estas "enkarniĝoj" de la sama Dio aŭ ĉu la gedioj ja estas vere malsamaj entoj? Tio dependas de la individua Hinduo...	nonong	2022-03-18 20:55:06	2022-03-18 20:55:06
+257	0x101	ā	34	10534891	epo	Budaistoj filozofias, ke ĉi tiu tuta universo estas Māyā—iluzio—kovranta realecon. Venas al la menso la demando: Ĉu la Luno aŭ Marso estas same solida kiel la Tero? Portugalio kaj Hispanio estas same solidaj kiel Meksiko. Ĉu oni scias, eĉ se ili neniam metis piedon en tiuj landoj? Ĉu ekzistas dubantoj, ke la Grandaj Piramidoj de Egiptio ekzistas, neniam vizitinte ilin? Persone, mi vidis la Grandajn Piramidojn, en decembro de 1991!	nonong	2021-11-28 23:02:53	2021-11-29 01:35:27
 263	0x107	ć	1	1248307	epo	Se ni tiutempe ne forpelus Saddam Hussein el Kuvajto, ĉu ni tiuokaze hodiaŭ finance subtenus Kuvajton? Se ni tiam ne elĉasus Milošević el Bosnio, ĉu ni nun al ĝi donus financan helpon? Diru al Turkio, ke ĝi forlasu la insulon, por ke la nordo de Kipro povu evolui. Neniu deziras malriĉajn najbarojn. Kaj antaŭ ĉiuj la grekaj kipranoj ne volas malriĉajn najbarojn. Se vi kuraĝus, forpeli la okupadan armeon – ĝi estas la unusola okupada armeo en eŭropa lando – tiam kiel sekvo la evoluo ekelanus per propraj fortoj.	al_ex_an_der	2011-11-19 13:16:40	2020-09-26 16:37:32
-264	0x108	Ĉ	61774	1234357	epo	Ĉie oni bonvenigis lin afable.	al_ex_an_der	2011-11-12 20:06:52	2011-11-12 20:06:52
-265	0x109	ĉ	125113	1446494	epo	Kompreni ĉi tiun libron superas miajn kapablojn.	al_ex_an_der	2012-02-20 23:40:28	2012-02-20 23:40:44
+264	0x108	Ĉ	61871	2416622	epo	Mi petas pardonon. Ĉu vi povus indiki al mi la plej proksiman metroan stacion?	nimfeo	2013-05-03 09:20:30	2013-05-03 09:20:30
+265	0x109	ĉ	125316	11937861	epo	Mi loĝas ĉe la orienta marbordo de Usono.	Fenrir	2023-07-17 21:04:59	2023-07-17 21:04:59
 268	0x10c	Č	1	8911529	epo	Ĉeĥujo nomatas "Česká republika" en la ĉeĥa.	GrizaLeono	2020-07-12 14:57:31	2020-07-12 14:57:31
-269	0x10d	č	2	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
+269	0x10d	č	2	10310972	epo	Via plano al mi plačas.	glavsaltulo	2021-09-21 12:40:40	2021-09-21 12:40:40
 271	0x10f	ď	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
 272	0x110	Đ	1	4169043	epo	Đừng nói gì với bà ấy về điều đó.	autuno	2015-05-10 06:57:26	2015-05-14 06:57:37
-273	0x111	đ	2	1785631	epo	La vjetnamuja valuto estas "đồng". Ĝia simbolo estas "₫".	GrizaLeono	2012-08-19 10:58:27	2012-08-19 10:58:27
-275	0x113	ē	4	1175950	epo	Andris Bērziņš ekoficiĝis kiel nova prezidanto de Latvio.	belgavox	2011-10-14 14:40:50	2011-10-14 14:40:50
+273	0x111	đ	2	4169043	epo	Đừng nói gì với bà ấy về điều đó.	autuno	2015-05-10 06:57:26	2015-05-14 06:57:37
+275	0x113	ē	4	5491112	epo	"Tepe" estas dirita kiel "tepētl" en la nahuatla.	kitkat23	2016-10-03 23:42:28	2016-10-03 23:42:28
 281	0x119	ę	1	1136243	epo	La lando estos elektita de la direktoroj de "Instituto Lula" kaj de la anoj de la pola fondaĵo. La premio „Lech Wałęsa” estis kreita en 2008.	flipe	2011-09-29 23:14:42	2018-04-02 11:57:14
-283	0x11b	ě	2	4742576	epo	La fungo "mù-ěr", ankaŭ konata kiel judasorelo, estas uzata en multaj pladoj de azia, aparte la ĉina kuirarto.	GrizaLeono	2015-12-03 19:30:11	2015-12-03 19:30:11
-284	0x11c	Ĝ	7126	2901295	epo	Ĝis la fino li asertis sian senkulpecon.	GrizaLeono	2013-12-04 09:27:48	2013-12-04 09:27:48
-285	0x11d	ĝ	138041	10417662	epo	La folioj de la aŭtuna arbaro estas brunaj, oranĝaj, kaj flavaj.	nonong	2021-10-20 22:43:15	2021-10-20 22:43:15
+283	0x11b	ě	2	1717205	epo	Iru rekte, poste en dua strato maldekstren kaj tuj dekstren, en la straton "Karlova". Kaj poste senĉese rekte trans la "Karlův most" (ponto de Karel) en la straton "Mostecká" kaj "Malostranské náměstí" (placo Malostranské).	flegistino	2012-07-22 18:42:52	2012-07-22 18:42:52
+284	0x11c	Ĝ	7135	8346438	epo	Ĝi estas kie ĝi devas esti.	Dejo	2019-11-26 02:22:32	2019-11-26 02:22:32
+285	0x11d	ĝ	138225	1355979	epo	Mi aranĝis plenan dismembriĝon de la ideoj en memstarajn vortojn, tiel ke la tuta lingvo, anstataŭ vortoj en diversaj gramatikaj formoj, konsistas sole nur el senŝanĝaj vortoj. Se vi prenos verkon, skribitan en mia lingvo, vi trovos, ke tie ĉiu vorto sin trovas ĉiam kaj sole en unu konstanta formo, nome en tiu formo, en kiu ĝi estas presita en la vortaro.	al_ex_an_der	2012-01-12 08:40:44	2012-01-12 08:40:44
 286	0x11e	Ğ	1	12092591	epo	Ğis nun mi ne estis vidinta ion tiom grandioza.	pliiganto	2023-10-02 18:11:14	2023-10-02 18:11:14
 287	0x11f	ğ	3	7867822	epo	En la turka la nomoj de multaj organoj kaj membroj komenciĝas per la litero B, ekzemple: Baş - kapo, Burun - nazo, Boğaz - kolo, Beyin - cerbo, Bel - lumboregiono, Bacak - kruro, Bilek - manradiko, Bağır - brusto, Böğür - flanko, Bağırsak - la intesto, Böbrek - reno.	GrizaLeono	2019-04-24 12:55:27	2019-04-24 12:55:27
-292	0x124	Ĥ	127	5225733	epo	Ĝinĝis-Ĥano estas sendube la plej granda konkeranto el ĉiuj tempoj.	nimfeo	2016-06-20 15:52:19	2016-06-20 15:52:19
-293	0x125	ĥ	1311	6154350	epo	Eĥo estis tre ĝoja, ĉar lia patrino revenis.	Pfirsichbaeumchen	2017-07-11 01:03:42	2017-07-11 01:03:50
-299	0x12b	ī	8	10727425	epo	Sufiismo estas la interna, mistika dimensio de Islamo. Praktikistoj estas nomitaj ṣūfī. Akademiuloj juĝas, ke sufiismo ne povas esti lernita el libroj, sed prefere povas esti lernita kiel disĉiplo de kvalifikita instruisto.	nonong	2022-03-20 20:25:39	2022-03-20 20:27:19
+292	0x124	Ĥ	128	7958199	epo	Kaj Ĥam, la patro de Kanaan, vidis la nudecon de sia patro, kaj li diris tion al siaj du fratoj ekstere.	carlosalberto	2019-06-04 22:52:25	2019-06-04 22:52:25
+293	0x125	ĥ	1312	1004047	epo	Multopo en Anglujo volas vidi la finon de la publika financado al la monarĥismo.	GrizaLeono	2011-07-22 20:34:23	2011-07-22 20:34:23
+299	0x12b	ī	8	527999	epo	Per kiu bus-numero mi povas veturi al Waikīkī?	Maksimo	2010-09-23 11:19:46	2010-09-23 11:19:46
 305	0x131	ı	4	10031768	epo	Kipro nomiĝas "Kıbrıs" en la turka.	GrizaLeono	2021-05-13 19:39:20	2021-05-13 19:39:20
-308	0x134	Ĵ	403	1265356	epo	Ĵus finiĝis plia tago de mia restado en malsanulejo.	al_ex_an_der	2011-11-27 02:07:48	2023-09-24 09:10:07
-309	0x135	ĵ	25671	11979731	epo	Fiŝaĵo bonas por vi.	GrizaLeono	2023-08-04 11:11:04	2023-08-04 11:11:04
+308	0x134	Ĵ	403	1352074	epo	Ĵaluzo estas dolore sentata suspektoplena maltrankvilo pri la fideleco de amata persono.	AMIKEMA	2012-01-11 00:28:39	2014-01-10 23:50:39
+309	0x135	ĵ	25711	1583522	epo	Tiu apliko ebligas vin rapide kalkuli la korpomasan karakterizaĵon.	GrizaLeono	2012-05-20 17:49:53	2012-05-20 17:49:53
 314	0x13a	ĺ	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
 318	0x13e	ľ	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
 321	0x141	Ł	2	1317628	epo	La gefiloj de Felicja pensas, ke ilia patro Łazarz estas pli bela ol Justin Bieber.	Mutusen	2011-12-23 19:54:50	2011-12-23 19:54:50
-322	0x142	ł	8	4982064	epo	Stanisław Jerzy Lec iam diris: "Fojfoje oni devas silenti por esti aŭskultata."	aldolit58	2016-03-16 18:25:11	2016-03-17 07:24:40
-324	0x144	ń	2	3798149	epo	Hańža devenas el Luzacio.	Tlustulimu	2015-01-25 18:54:34	2015-01-25 18:54:34
+322	0x142	ł	8	990322	epo	Bronisław estas 18 jarojn aĝa.	riccioberto	2011-07-14 18:19:19	2011-07-14 18:19:19
+324	0x144	ń	2	1606523	epo	En Gdańsk sur ducent sesdek du kvadrataj kilometroj loĝas kvarcent sepdek mil loĝantoj.	al_ex_an_der	2012-06-04 23:34:30	2013-01-24 05:32:10
 326	0x146	ņ	1	1175950	epo	Andris Bērziņš ekoficiĝis kiel nova prezidanto de Latvio.	belgavox	2011-10-14 14:40:50	2011-10-14 14:40:50
 328	0x148	ň	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
-332	0x14c	Ō	2	2679299	epo	La poemo "Mignon" de Goethe estas ŝatata en Japanio pro la fama traduko de Mori Ōgai.	Alois	2013-08-15 22:17:28	2013-08-15 22:20:15
-333	0x14d	ō	23	9755476	epo	En la moderna japana socio oni uzas la vorton kjōsei (kunvivado) en la senco de iuspeca interrilatado inter vivaĵoj kaj/aŭ homoj, kiuj kunekzistas en rekta aŭ nerekta interdependeco.	PaulP	2021-02-13 10:18:21	2021-02-13 10:18:21
+332	0x14c	Ō	2	10695434	epo	Plurfoje mia patrino gastigis japanajn "hejmrestantajn" studentojn en nia domo sur Lulu-insulo. La plej memorindaj estis la du knabinoj de Ōsaka, Kaori kaj Noriko. Ili instruis min miksi laktan glaciaĵon kun verda tea pulvoro; ĝi estis mirinda kombinaĵo.	nonong	2022-02-27 21:41:52	2022-02-27 21:41:52
+333	0x14d	ō	23	10726709	epo	Gnostikismo estis religia movado pli malnova ol kristanismo. Ekzistis ambaŭ specoj de kristana kaj ne-kristana gnostikismo, ĉar ekzistis sinkretismo, aŭ miksado. Ili kredis, ke homoj estas kaptitaj en siaj korpoj kaj en ĉi tiu malbona materia mondo, kiu estis kreita de kosma katastrofo, de malica diaĵo, kiu ne estis Kristo. Kristanaj gnostikuloj kredis, ke Kristo estis unu el la eonoj aŭ diaj estaĵoj de la Pleromo, la Dia Sfero, kiel priskribite en la Apokrifo de Johano, parto de la Biblioteko Nag Hammadi de gnostika literaturo. Savo estis per esotera scio, kvankam finfine memscio. Gnostikuloj kredis je la dualismo de la bona spirito kaj malbona materio. La materia mondo estis malbona loko de kie gnostikuloj devis eskapi. Ili kredis, ke ne ĉiuj homoj havis la Dian Fajreron. La eonoj eliris el la Finfina Dio, la Monado en la Pleromo. La originoj de Gnostikismo estas neklaraj hodiaŭ, sed verŝajne ĝi venis de Irano aŭ pli oriente. Ĝi havis multajn grekajn influojn. Hodiaŭ, post la malkovro de la Biblioteko Nag Hammadi kiel led-binditaj papirusaj kodeksoj en hermetika vazo en Egiptujo, en 1945, kelkaj homoj provas revivigi Gnostikismon. "Gnōsis" estas greka por scio.	nonong	2022-03-20 09:35:49	2022-03-20 09:35:49
 335	0x14f	ŏ	1	11572763	epo	Norda Koreujo koree nomiĝas "Chosŏn".	GrizaLeono	2023-03-02 20:51:25	2023-03-02 20:51:25
-337	0x151	ő	6	4302315	epo	Kiam estas la naskiĝtago de Ernő?	GrizaLeono	2015-06-24 11:29:10	2015-06-24 11:29:10
-339	0x153	œ	3	4885684	epo	Crèvecœur estas rara raso de franca koko.	JoKo	2016-02-04 13:04:10	2016-02-04 13:04:10
+337	0x151	ő	6	3632449	epo	Kiam Ernő havas naskiĝtagon?	Eldad	2014-11-15 14:24:43	2014-11-16 09:36:39
+339	0x153	œ	3	11943399	epo	"Cœur" kaj "chœur" havas la saman prononcon.	shekitten	2023-07-20 03:55:59	2023-07-20 03:55:59
 341	0x155	ŕ	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
 347	0x15b	ś	1	10555873	epo	Guānyīn estas kiel la Virgulino Maria en budaismo. En Barato, la sama unuo estas maskla, Avalokiteśvara.	nonong	2021-12-11 03:38:59	2021-12-11 03:38:59
-348	0x15c	Ŝ	28619	4706753	epo	Ŝi stiradis la tutan tagon.	nimfeo	2015-11-17 13:53:32	2015-11-17 13:53:32
-349	0x15d	ŝ	84555	5439970	epo	Oni metis lignan breteton sur fazeolojn kun peza ŝtono.	GrizaLeono	2016-09-14 19:43:10	2016-09-14 19:43:10
-351	0x15f	ş	5	1175966	epo	Eksiĝis estraro de la armitaj fortoj de Turkio: la ĉefkomandanto kaj estro de la ĉefa stabo Işık Koşaner kaj komandantoj de teraj trupoj, aerarmeo kaj ŝiparo.	belgavox	2011-10-14 14:45:24	2014-03-03 23:48:07
+348	0x15c	Ŝ	28661	1420510	epo	Ŝlosu la pordon.	Hans07	2012-02-07 15:17:57	2012-02-15 15:38:50
+349	0x15d	ŝ	84676	3399867	epo	Mi ne multe ŝatas televidon.	nimfeo	2014-08-03 10:56:18	2014-08-03 10:56:18
+351	0x15f	ş	5	7867822	epo	En la turka la nomoj de multaj organoj kaj membroj komenciĝas per la litero B, ekzemple: Baş - kapo, Burun - nazo, Boğaz - kolo, Beyin - cerbo, Bel - lumboregiono, Bacak - kruro, Bilek - manradiko, Bağır - brusto, Böğür - flanko, Bağırsak - la intesto, Böbrek - reno.	GrizaLeono	2019-04-24 12:55:27	2019-04-24 12:55:27
 353	0x161	š	5	1175950	epo	Andris Bērziņš ekoficiĝis kiel nova prezidanto de Latvio.	belgavox	2011-10-14 14:40:50	2011-10-14 14:40:50
 354	0x162	Ţ	1	10198436	epo	La ĉielarko kabile nomiĝas ankaŭ "la zono de Ţeriel".	shekitten	2021-07-29 10:23:22	2021-07-29 10:23:22
 357	0x165	ť	1	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
 361	0x169	ũ	1	8605615	epo	La klasĉambro estis preskaũ malplena.	PaulP	2020-03-10 14:15:55	2020-03-10 14:15:55
-363	0x16b	ū	9	11207288	epo	"Oṃ maṇi padme hūṃ" estas en Budaismo sanskrita mantro, kiu signifas "Laŭdon al la juvelo en la lotuso" kaj estas densigita formo de budaisma instruo.	nonong	2022-10-26 02:29:23	2022-10-26 02:47:19
-364	0x16c	Ŭ	16	2156579	epo	Ŭa, tio estis rapida!	Alois	2013-01-20 22:41:28	2013-01-20 22:41:28
-365	0x16d	ŭ	101301	559429	epo	Ĉu en Eŭropo estas multaj homoj kiuj ankoraŭ kredas je fantomoj?	esocom	2010-10-11 13:35:59	2010-12-06 23:18:29
+363	0x16b	ū	9	10724628	epo	Ĝenerala Budaisma koncepto estas sūnyatā per la sanskrita aŭ suññatā per la palia; ĝi estas la nuleco de ĉiuj aferoj. Nenio ekzistas esence. La Kora Sutro diras, ke "formo estas nuleco, nuleco estas formo". Dume, saṃsāra estas la malo de nirvāṇa. Saṃsāra, senĉesa vagado, estas la mondo, en kiu oni nun vivas, la mondo de iluzio, aŭ eble la spiraloj da renaskiĝoj. Per Budaismo, oni provas eskapi saṃsāra-n por atingi la lastan celon, la malekziston de avareco, malamo, kaj iluzio; ĉi tiu celo nomiĝas nirvāṇa per la sanskrita aŭ nibbāna per la palia. Ĉi tiu atingo estas unu formo de iluminiĝo. En la Zen-sekto de Budaismo, oni aŭdas pri alia, kiu nomiĝas satori (悟り) per la japana. Ĝi estas subita abrupta evento atingebla en onia vivo; estas io kiel la plej brila ideo, kiun oni povas havi, sed sen la ideo; oni ne povas esprimi ĝin per vortoj. Zeno estas vere malsama kompare al aliaj Budaismaj sektoj ĉar gi evitas vortcentran pensadon. Zeno estas Budaismo pasinte influita de Taoismo.	nonong	2022-03-18 20:45:36	2022-03-18 20:51:14
+364	0x16c	Ŭ	16	9775147	epo	Gloru Ĝonon, la novan Reĝon de Ŭellston.	Teashrock	2021-02-18 12:08:30	2021-02-18 12:08:30
+365	0x16d	ŭ	101430	2587580	epo	Ni preskaŭ ĉiam pardonas tion, kion ni komprenas.	al_ex_an_der	2013-07-12 22:01:32	2013-07-12 22:01:32
 367	0x16f	ů	1	1717205	epo	Iru rekte, poste en dua strato maldekstren kaj tuj dekstren, en la straton "Karlova". Kaj poste senĉese rekte trans la "Karlův most" (ponto de Karel) en la straton "Mostecká" kaj "Malostranské náměstí" (placo Malostranské).	flegistino	2012-07-22 18:42:52	2012-07-22 18:42:52
 378	0x17a	ź	1	1317640	epo	Magdalena studas en la japana lernejo de Łódź.	Mutusen	2011-12-23 19:57:31	2011-12-23 19:57:31
-382	0x17e	ž	2	3798149	epo	Hańža devenas el Luzacio.	Tlustulimu	2015-01-25 18:54:34	2015-01-25 18:54:34
-462	0x1ce	ǎ	8	10349298	epo	Mi parolis kun Miĥaelo la ĉino en la kafejo Starbukso ĉi tiun sunbrilan 21-an de septembro de 2021. Li vere aspektas pli kiel japano laŭ mi kaj aliaj. Li demandis al mi, ĉu mi "sopiras" mian "hejmurbon". Mi diris, ke mi ŝatas ambaŭ. Mi estis sur Lulu-insulo delonge, mi diris. Mi diris, ke ruĝa "savano" estas kie mi loĝis en Filipinoj. Poste, li rigardis "savano" per sia saĝtelefono. Li diris, ke lia pasporto estas de Ĉinio, ĉar li havas teron aŭ lueblajn posedaĵojn en Guǎngzhōu en Ĉinio. Ni parolis pri internacia korupteco. Li diris, ke lia familio vizitos Mongolion. Mi scias, ke estas bele tie. Li diras, ke estas malfacile en restoracioj hodiaŭ pro la Pandemio. Se mi povus kuiri sola, Miĥaelo demandis. Mi diris, ke mi havas miajn proprajn receptojn.	nonong	2021-10-08 06:03:47	2021-10-08 06:10:37
+382	0x17e	ž	2	9832074	epo	La slovaka alfabeto konsistas el kvardek ses literoj: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	ZegPhig	2021-03-08 16:39:08	2021-03-08 16:39:11
+462	0x1ce	ǎ	8	10566954	epo	Mia amiko Glen en universitato estis el familio de Xiānggǎng. Li estis diketa ulo kaj ŝatis badmintonon. Lia plej ŝatata fremda lingvo estis la franca.	nonong	2021-12-17 04:20:35	2021-12-17 04:20:35
 464	0x1d0	ǐ	1	10726206	epo	Taoistoj kredas ankaŭ, ke ĉiu persono havas du specojn da animoj, la sep Jin-animojn, kiuj produktiĝas ĉe koncipo, kaj la tri Jang-animojn, kiuj kuniĝas kun la Jin-animoj ĉe naskiĝo. Kiam ili kuniĝas en harmonia unio, vivo floras; kiam ili apartiĝas, malsano aŭ morto okazas. La Skolo de la Higieno pri Internaj Dioj kredas en siaj specifaĵoj, ke mirinde 36 000 dioj aŭ shén (神) loĝas en la makrokosmo kaj en ĉiu homa korpo. (La nombro estas eble metafora aŭ figura.) La shén estas kontrasto de guǐ (鬼), kiuj estas friponaj demonoj, formitaj el Jin-animoj de mortintoj. Parenteze, la hinduoj de Barato kredas, ke ekzistas dia grajno en ĉiu homa ento. Taoismo estas formo de Animismo aŭ Panteismo.	nonong	2022-03-19 22:25:47	2022-03-19 22:25:47
-468	0x1d4	ǔ	35	5043864	epo	Mi bezonas novan aǔton.	nizoverdulo	2016-04-06 06:22:59	2016-04-06 06:22:59
-537	0x219	ș	5	5166417	epo	La provincoj Botoșani norde, Suceava nordokcidente, Neamț okcidente kaj Vaslui sude limas la komunumon Iași.	GrizaLeono	2016-05-26 11:09:48	2016-05-26 11:09:48
+468	0x1d4	ǔ	35	2756412	epo	Kvankam en tiu tempo li estis ankoraǔ infano, li bone memoras, kion li sentis tiam.	al_ex_an_der	2013-09-23 23:47:49	2013-09-23 23:47:49
+537	0x219	ș	5	5429674	epo	Jam pli ol okcent jarojn germanaj setlintoj precipe el mozelaj kaj rejnaj landoj loĝas en Transilvanio, sub la regado de hungaraj reĝoj, de la Habsburga Imperio, de la komunismo de Ceaușescu.	PaulP	2016-09-12 10:11:06	2016-09-12 10:11:06
 539	0x21b	ț	1	5166417	epo	La provincoj Botoșani norde, Suceava nordokcidente, Neamț okcidente kaj Vaslui sude limas la komunumon Iași.	GrizaLeono	2016-05-26 11:09:48	2016-05-26 11:09:48
 596	0x254	ɔ	1	995614	epo	Multaj germanlingvanoj diras [ˌd͡ʒɔʁnaˈlɪsmʊs], kaj multaj diras [ʒelanˈtiːnə], sen ekzisto de komprenebla klarigo.	PaulP	2011-07-17 14:54:28	2024-02-29 07:01:23
 601	0x259	ə	2	5491585	epo	Svedujo estas prononcata "ˈsværjə" en la sveda.	GrizaLeono	2016-10-04 08:45:34	2016-10-04 08:45:34
@@ -206,7 +206,7 @@
 641	0x281	ʁ	1	995614	epo	Multaj germanlingvanoj diras [ˌd͡ʒɔʁnaˈlɪsmʊs], kaj multaj diras [ʒelanˈtiːnə], sen ekzisto de komprenebla klarigo.	PaulP	2011-07-17 14:54:28	2024-02-29 07:01:23
 650	0x28a	ʊ	1	995614	epo	Multaj germanlingvanoj diras [ˌd͡ʒɔʁnaˈlɪsmʊs], kaj multaj diras [ʒelanˈtiːnə], sen ekzisto de komprenebla klarigo.	PaulP	2011-07-17 14:54:28	2024-02-29 07:01:23
 658	0x292	ʒ	1	995614	epo	Multaj germanlingvanoj diras [ˌd͡ʒɔʁnaˈlɪsmʊs], kaj multaj diras [ʒelanˈtiːnə], sen ekzisto de komprenebla klarigo.	PaulP	2011-07-17 14:54:28	2024-02-29 07:01:23
-699	0x2bb	ʻ	2	10198329	epo	Iru, Kaʻiulani.	Objectivesea	2021-07-29 08:51:15	2021-07-29 08:51:15
+699	0x2bb	ʻ	2	10198331	epo	Saluton, Kaʻiulani.	Objectivesea	2021-07-29 08:53:21	2021-07-29 08:53:21
 701	0x2bd	ʽ	1	11047107	epo	Kaʽb al-Aḥbār proponis la Templan Monton al la kalifo Umaro kiel lokon, kie oni konstruu moskeon, ne pro Mahometo, sed pro tio, ke ĝi estis sankta al li kiel juda konvertito.	shekitten	2022-08-07 13:19:58	2022-08-07 13:19:58
 712	0x2c8	ˈ	2	5491585	epo	Svedujo estas prononcata "ˈsværjə" en la sveda.	GrizaLeono	2016-10-04 08:45:34	2016-10-04 08:45:34
 716	0x2cc	ˌ	1	995614	epo	Multaj germanlingvanoj diras [ˌd͡ʒɔʁnaˈlɪsmʊs], kaj multaj diras [ʒelanˈtiːnə], sen ekzisto de komprenebla klarigo.	PaulP	2011-07-17 14:54:28	2024-02-29 07:01:23
@@ -222,7 +222,7 @@
 954	0x3ba	κ	1	10523068	epo	Ĉu la greka vorto "κᾰκός" estas parenca al la latina vorto "cacō"?	shekitten	2021-11-22 15:35:41	2021-11-22 15:35:41
 956	0x3bc	μ	1	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
 959	0x3bf	ο	2	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
-960	0x3c0	π	10	446143	epo	Anna scias la unuajn mil ciferojn de π parkere.	landano	2010-07-31 20:57:29	2010-09-24 19:13:33
+960	0x3c0	π	10	8002991	epo	La plej vaste konataj transcendaj nombroj estas "π" kaj "e".	soweli_Elepanto	2019-06-27 11:19:08	2019-06-27 11:19:08
 961	0x3c1	ρ	1	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
 962	0x3c2	ς	2	10523068	epo	Ĉu la greka vorto "κᾰκός" estas parenca al la latina vorto "cacō"?	shekitten	2021-11-22 15:35:41	2021-11-22 15:35:41
 964	0x3c4	τ	1	7963723	epo	La vorto „meteoro” venas de la greka vorto μετέωρος kaj signifas „en la aero”.	PaulP	2019-06-07 16:02:17	2019-06-07 16:02:17
@@ -231,50 +231,50 @@
 1047	0x417	З	1	6959030	epo	„Злой“ estas la sola rusa unusilaba adjektivo.	PaulP	2018-06-23 12:17:28	2018-06-23 12:18:18
 1052	0x41c	М	1	7947857	epo	Мi neniam sunumas min.	soweli_Elepanto	2019-05-30 11:27:08	2019-05-30 11:28:29
 1071	0x42f	Я	2	6885227	epo	En la rusa, mi ne povas diri "Mi venis" sen samtempe subkomprenigi, ke mi estas viro – Ja priŝol [Я пришел] – aŭ virino – Ja priŝlá [Я пришлa].	carlosalberto	2018-05-10 12:17:20	2018-05-11 00:57:02
-1072	0x430	а	19	5463418	epo	Ili ne permesis min fari aferojn, kiel mi dezirаs.	carlosalberto	2016-09-22 18:51:58	2016-09-22 19:15:03
+1072	0x430	а	19	8848767	epo	Laŭvortaj tradukoj povas esti perfidaj. Ekzemple, kiam ruso diras "тоска зелёная", li ne volas esprimi, ke "nostalgio estas verda", sed, fakte, ke li konsideras, aŭ konsideris, ion teda aŭ enuiga.	carlosalberto	2020-06-16 14:15:48	2020-06-16 16:22:54
 1073	0x431	б	2	4945290	epo	Neniam skribu la vortojn "борщ" kaj "щи" en la germana!	Raizin	2016-02-29 21:09:37	2016-02-29 21:09:37
-1074	0x432	в	3	6886027	epo	En la rusa, mi ne povas diri "mi parolis" sen samtempe subkomprenigi, ke mi estas viro – Ja gavaril [я говорил] – aŭ virino – Ja gavarila [я говорила].	carlosalberto	2018-05-11 01:36:34	2018-05-11 14:14:40
-1075	0x433	г	2	6886027	epo	En la rusa, mi ne povas diri "mi parolis" sen samtempe subkomprenigi, ke mi estas viro – Ja gavaril [я говорил] – aŭ virino – Ja gavarila [я говорила].	carlosalberto	2018-05-11 01:36:34	2018-05-11 14:14:40
+1074	0x432	в	3	8330551	epo	"Являлся" estas bela vorto, kiel valso inter litero "я" kaj litero "л".	Teashrock	2019-11-18 11:39:04	2019-11-18 11:40:56
+1075	0x433	г	2	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1076	0x434	д	3	4568549	epo	La rusa vorto „карандаш“ ekestis per kunmeto de la turkaj vortoj „kara“ (nigra) kaj „taş“ (ŝtono).	GrizaLeono	2015-09-30 09:45:46	2015-09-30 09:45:46
-1077	0x435	е	7	6885227	epo	En la rusa, mi ne povas diri "Mi venis" sen samtempe subkomprenigi, ke mi estas viro – Ja priŝol [Я пришел] – aŭ virino – Ja priŝlá [Я пришлa].	carlosalberto	2018-05-10 12:17:20	2018-05-11 00:57:02
+1077	0x435	е	7	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1078	0x436	ж	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1079	0x437	з	2	8848767	epo	Laŭvortaj tradukoj povas esti perfidaj. Ekzemple, kiam ruso diras "тоска зелёная", li ne volas esprimi, ke "nostalgio estas verda", sed, fakte, ke li konsideras, aŭ konsideris, ion teda aŭ enuiga.	carlosalberto	2020-06-16 14:15:48	2020-06-16 16:22:54
-1080	0x438	и	7	6885227	epo	En la rusa, mi ne povas diri "Mi venis" sen samtempe subkomprenigi, ke mi estas viro – Ja priŝol [Я пришел] – aŭ virino – Ja priŝlá [Я пришлa].	carlosalberto	2018-05-10 12:17:20	2018-05-11 00:57:02
+1080	0x438	и	7	8181721	epo	La frazo # 3559685 de Soweli_Elepanto igis min pensi, ke Zamenhof donis al la adverbo "nome", en Esperanto, la signifon de "ĝuste", pro influo de la rusa vorto "именно", kiu eble devenas de "имя" (nomo).	carlosalberto	2019-09-11 22:45:39	2019-09-12 00:01:14
 1081	0x439	й	3	6959030	epo	„Злой“ estas la sola rusa unusilaba adjektivo.	PaulP	2018-06-23 12:17:28	2018-06-23 12:18:18
-1082	0x43a	к	4	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
-1083	0x43b	л	10	3161077	epo	La Esperanto-vorto 'okazo' origine signifis kaj 'io, kio okazas' kaj 'difinita cirkonstanco', same kiel la rusa 'случай', dum 'kazo' signifis nur 'deklinacia kazo'. Sub okcidenta influo 'kazo' ankaŭ komencis signifi 'jura okazaĵo' kaj poste 'okazo ĝenerale'.	PaulP	2014-04-09 12:55:29	2014-04-09 12:56:28
+1082	0x43a	к	4	8848767	epo	Laŭvortaj tradukoj povas esti perfidaj. Ekzemple, kiam ruso diras "тоска зелёная", li ne volas esprimi, ke "nostalgio estas verda", sed, fakte, ke li konsideras, aŭ konsideris, ion teda aŭ enuiga.	carlosalberto	2020-06-16 14:15:48	2020-06-16 16:22:54
+1083	0x43b	л	10	6885996	epo	En la rusa, mi ne povas diri "Mi naskiĝis" sen samtempe subkomprenigi, ke mi estas viro – Ja radilsa [я родился] – aŭ virino – Ja radilás [я родилась].	carlosalberto	2018-05-11 00:56:29	2018-05-11 14:16:50
 1084	0x43c	м	2	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1085	0x43d	н	6	4568549	epo	La rusa vorto „карандаш“ ekestis per kunmeto de la turkaj vortoj „kara“ (nigra) kaj „taş“ (ŝtono).	GrizaLeono	2015-09-30 09:45:46	2015-09-30 09:45:46
-1086	0x43e	о	12	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
-1087	0x43f	п	3	6886018	epo	En la rusa, mi ne povas diri "mi aĉetis" sen samtempe subkomprenigi, ke mi estas viro – Ja kupil [я купил] – aŭ virino – Ja kupila [я купила].	carlosalberto	2018-05-11 01:28:23	2018-05-11 14:15:54
+1086	0x43e	о	12	2503082	epo	Ĉi tiо estas la lasta memoro pri mia hejmlando, kiu ne plu ekzistas.	al_ex_an_der	2013-06-16 22:51:06	2013-06-16 22:51:06
+1087	0x43f	п	3	6885227	epo	En la rusa, mi ne povas diri "Mi venis" sen samtempe subkomprenigi, ke mi estas viro – Ja priŝol [Я пришел] – aŭ virino – Ja priŝlá [Я пришлa].	carlosalberto	2018-05-10 12:17:20	2018-05-11 00:57:02
 1088	0x440	р	8	4568549	epo	La rusa vorto „карандаш“ ekestis per kunmeto de la turkaj vortoj „kara“ (nigra) kaj „taş“ (ŝtono).	GrizaLeono	2015-09-30 09:45:46	2015-09-30 09:45:46
-1089	0x441	с	10	3688714	epo	Mi eĉ lasus nur la vorton "странно".	Eldad	2014-12-12 11:34:01	2014-12-12 11:34:01
-1090	0x442	т	5	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
-1091	0x443	у	3	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
+1089	0x441	с	10	8848767	epo	Laŭvortaj tradukoj povas esti perfidaj. Ekzemple, kiam ruso diras "тоска зелёная", li ne volas esprimi, ke "nostalgio estas verda", sed, fakte, ke li konsideras, aŭ konsideris, ion teda aŭ enuiga.	carlosalberto	2020-06-16 14:15:48	2020-06-16 16:22:54
+1090	0x442	т	5	3688714	epo	Mi eĉ lasus nur la vorton "странно".	Eldad	2014-12-12 11:34:01	2014-12-12 11:34:01
+1091	0x443	у	3	3161077	epo	La Esperanto-vorto 'okazo' origine signifis kaj 'io, kio okazas' kaj 'difinita cirkonstanco', same kiel la rusa 'случай', dum 'kazo' signifis nur 'deklinacia kazo'. Sub okcidenta influo 'kazo' ankaŭ komencis signifi 'jura okazaĵo' kaj poste 'okazo ĝenerale'.	PaulP	2014-04-09 12:55:29	2014-04-09 12:56:28
 1092	0x444	ф	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1093	0x445	х	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1094	0x446	ц	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1095	0x447	ч	2	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
-1096	0x448	ш	3	4568549	epo	La rusa vorto „карандаш“ ekestis per kunmeto de la turkaj vortoj „kara“ (nigra) kaj „taş“ (ŝtono).	GrizaLeono	2015-09-30 09:45:46	2015-09-30 09:45:46
+1096	0x448	ш	3	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1097	0x449	щ	2	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1098	0x44a	ъ	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1099	0x44b	ы	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
-1100	0x44c	ь	2	6885996	epo	En la rusa, mi ne povas diri "Mi naskiĝis" sen samtempe subkomprenigi, ke mi estas viro – Ja radilsa [я родился] – aŭ virino – Ja radilás [я родилась].	carlosalberto	2018-05-11 00:56:29	2018-05-11 14:16:50
+1100	0x44c	ь	2	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1101	0x44d	э	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1102	0x44e	ю	1	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
 1103	0x44f	я	7	8330551	epo	"Являлся" estas bela vorto, kiel valso inter litero "я" kaj litero "л".	Teashrock	2019-11-18 11:39:04	2019-11-18 11:40:56
-1105	0x451	ё	2	9832068	epo	La rusa alfabeto havas tridek tri literojn: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	ZegPhig	2021-03-08 16:35:27	2021-03-08 16:49:51
+1105	0x451	ё	2	8848767	epo	Laŭvortaj tradukoj povas esti perfidaj. Ekzemple, kiam ruso diras "тоска зелёная", li ne volas esprimi, ke "nostalgio estas verda", sed, fakte, ke li konsideras, aŭ konsideris, ion teda aŭ enuiga.	carlosalberto	2020-06-16 14:15:48	2020-06-16 16:22:54
 1463	0x5b7	ַ	2	10074200	epo	En la antikva hebrea, עַל kaj אַל ne estis samsonaj.	shekitten	2021-05-30 10:41:44	2021-05-30 10:42:08
-1488	0x5d0	א	2	10074199	epo	En la antikva hebrea, עַל kaj אַל ne estis homofonoj.	shekitten	2021-05-30 10:41:33	2021-05-30 16:39:17
-1492	0x5d4	ה	2	11091043	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥá" en la moderna hebrea kaj "miŝpóĥe" (aŭ "miŝpúĥe") en la jida.	shekitten	2022-09-01 12:19:32	2022-09-01 12:19:32
-1495	0x5d7	ח	2	11091042	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥa'" en la moderna hebrea kaj "miŝpoĥe" (aŭ "miŝpuĥe") en la jida.	shekitten	2022-09-01 12:18:45	2022-09-01 12:19:15
-1500	0x5dc	ל	2	10074200	epo	En la antikva hebrea, עַל kaj אַל ne estis samsonaj.	shekitten	2021-05-30 10:41:44	2021-05-30 10:42:08
+1488	0x5d0	א	2	10074200	epo	En la antikva hebrea, עַל kaj אַל ne estis samsonaj.	shekitten	2021-05-30 10:41:44	2021-05-30 10:42:08
+1492	0x5d4	ה	2	11091042	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥa'" en la moderna hebrea kaj "miŝpoĥe" (aŭ "miŝpuĥe") en la jida.	shekitten	2022-09-01 12:18:45	2022-09-01 12:19:15
+1495	0x5d7	ח	2	11091043	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥá" en la moderna hebrea kaj "miŝpóĥe" (aŭ "miŝpúĥe") en la jida.	shekitten	2022-09-01 12:19:32	2022-09-01 12:19:32
+1500	0x5dc	ל	2	10074199	epo	En la antikva hebrea, עַל kaj אַל ne estis homofonoj.	shekitten	2021-05-30 10:41:33	2021-05-30 16:39:17
 1502	0x5de	מ	2	11091042	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥa'" en la moderna hebrea kaj "miŝpoĥe" (aŭ "miŝpuĥe") en la jida.	shekitten	2022-09-01 12:18:45	2022-09-01 12:19:15
 1506	0x5e2	ע	2	10074200	epo	En la antikva hebrea, עַל kaj אַל ne estis samsonaj.	shekitten	2021-05-30 10:41:44	2021-05-30 10:42:08
-1508	0x5e4	פ	2	11091043	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥá" en la moderna hebrea kaj "miŝpóĥe" (aŭ "miŝpúĥe") en la jida.	shekitten	2022-09-01 12:19:32	2022-09-01 12:19:32
-1513	0x5e9	ש	2	11091043	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥá" en la moderna hebrea kaj "miŝpóĥe" (aŭ "miŝpúĥe") en la jida.	shekitten	2022-09-01 12:19:32	2022-09-01 12:19:32
+1508	0x5e4	פ	2	11091042	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥa'" en la moderna hebrea kaj "miŝpoĥe" (aŭ "miŝpuĥe") en la jida.	shekitten	2022-09-01 12:18:45	2022-09-01 12:19:15
+1513	0x5e9	ש	2	11091042	epo	La vorton משפחה (familio) oni prononcas kiel "miŝpaĥa'" en la moderna hebrea kaj "miŝpoĥe" (aŭ "miŝpuĥe") en la jida.	shekitten	2022-09-01 12:18:45	2022-09-01 12:19:15
 1567	0x61f	؟	2	1988518	epo	Franca poeto, Alcanter de Brahm, proponis la ironian markon, ؟, je la fino de la 19a jarcento por indiki frazon komprenenda ironie aŭ sarkasme.	GrizaLeono	2012-11-07 13:38:15	2012-11-07 13:41:06
-7717	0x1e25	ḥ	4	11047107	epo	Kaʽb al-Aḥbār proponis la Templan Monton al la kalifo Umaro kiel lokon, kie oni konstruu moskeon, ne pro Mahometo, sed pro tio, ke ĝi estis sankta al li kiel juda konvertito.	shekitten	2022-08-07 13:19:58	2022-08-07 13:19:58
+7717	0x1e25	ḥ	4	10724651	epo	La plej centraj pensoj de Budaismo estas la Kvar Noblaj Veroj: Estas la vero pri la nekontentigo (palie dukkha, sanskrite duḥkha); tiu koncepto inkluzivas suferon, sed estas pli vasta. Estas la vero pri la kaŭzo de la nekontentigo, nome la triobla deziro aŭ soifo—plezurosoifo, iĝosoifo, neniiĝosoifo. Estas la vero pri la fino de la nekontentigo, nome la fino de ties kaŭzo. Estas la vero pri la vojo al la fino de la nekontentigo, nome la Nobla Okopa Vojo: ĝusta rigardado ĝusta pensado, ĝusta parolado, ĝusta agado, ĝusta vivtenado, ĝusta strebado, ĝusta atentado, ĝusta koncentrado.	nonong	2022-03-18 20:48:58	2022-03-18 20:50:12
 7747	0x1e43	ṃ	2	11207288	epo	"Oṃ maṇi padme hūṃ" estas en Budaismo sanskrita mantro, kiu signifas "Laŭdon al la juvelo en la lotuso" kaj estas densigita formo de budaisma instruo.	nonong	2022-10-26 02:29:23	2022-10-26 02:47:19
 7749	0x1e45	ṅ	1	10698326	epo	Reen en 2002 kaj plurajn jarojn poste, mi regule ĉeestis meditajn sesiojn ĉe la Budaisma Templo Wat Yanviriya en Orienta Vankuvero, BK. Mi pli konis la tajan kulturon pro ĝi. Pāli-ĉantado, lunfestivaloj, spektado de relikvoj, ktp estis parto de mia vivo tiam. Mi memoras vastan salonon kun durlignaj plankoj kaj Budaa altaro antaŭe. En someroj, la pordoj estus malfermitaj al la suna verdo ekstere. En la pli malsekaj sezonoj nokte, kandeloj estus lumigitaj en la silenta mallumo interne. (Mi portis nigran aŭstralian Aŭtbak-jakon tiam.) Ĉiea estis la Aĵahn Bhoontam en oranĝa robo, kondukante la ritojn. Nia saṅgha aŭ parokanaro estis mezgranda kaj multetna. Vera saṅgha plena de tajoj permesis al ni kunhavi la kuriozan konstruaĵon. La du grupoj renkontis en malsamaj tempoj.	nonong	2022-03-01 15:40:09	2022-03-01 18:07:10
 7751	0x1e47	ṇ	2	10724628	epo	Ĝenerala Budaisma koncepto estas sūnyatā per la sanskrita aŭ suññatā per la palia; ĝi estas la nuleco de ĉiuj aferoj. Nenio ekzistas esence. La Kora Sutro diras, ke "formo estas nuleco, nuleco estas formo". Dume, saṃsāra estas la malo de nirvāṇa. Saṃsāra, senĉesa vagado, estas la mondo, en kiu oni nun vivas, la mondo de iluzio, aŭ eble la spiraloj da renaskiĝoj. Per Budaismo, oni provas eskapi saṃsāra-n por atingi la lastan celon, la malekziston de avareco, malamo, kaj iluzio; ĉi tiu celo nomiĝas nirvāṇa per la sanskrita aŭ nibbāna per la palia. Ĉi tiu atingo estas unu formo de iluminiĝo. En la Zen-sekto de Budaismo, oni aŭdas pri alia, kiu nomiĝas satori (悟り) per la japana. Ĝi estas subita abrupta evento atingebla en onia vivo; estas io kiel la plej brila ideo, kiun oni povas havi, sed sen la ideo; oni ne povas esprimi ĝin per vortoj. Zeno estas vere malsama kompare al aliaj Budaismaj sektoj ĉar gi evitas vortcentran pensadon. Zeno estas Budaismo pasinte influita de Taoismo.	nonong	2022-03-18 20:45:36	2022-03-18 20:51:14
@@ -290,34 +290,34 @@
 7915	0x1eeb	ừ	1	4169043	epo	Đừng nói gì với bà ấy về điều đó.	autuno	2015-05-10 06:57:26	2015-05-14 06:57:37
 8112	0x1fb0	ᾰ	1	10523068	epo	Ĉu la greka vorto "κᾰκός" estas parenca al la latina vorto "cacō"?	shekitten	2021-11-22 15:35:41	2021-11-22 15:35:41
 8201	0x2009	 	1	8895806	epo	Oni legu jenon, ĉerpitan el "Espero Katolika" (Januara n-ro, 1921). Temas pri la 7-a kongreso de la katolika esperantistaro: "Dum tiu kongreso en Graz, oni devos fondi fortegan internacian armeon kontraŭ la potencoj de blinda renverso, kontraŭ la materialisma bolŝevismo, la danĝera anarkismo, la kontraŭ-eklezia agado de la framasonaro, ktp..." Tiel la katolikaro jam uzas esperanton por kontraŭstari nian agadon, por malhelpi nian liberiĝon.	shekitten	2020-07-06 11:49:05	2020-07-06 11:49:05
-8203	0x200b	​	3	2783328	epo	Nun mi bezonas alibion​​.	al_ex_an_der	2013-10-11 02:06:04	2013-10-11 02:06:04
+8203	0x200b	​	3	2617789	epo	Tom serĉas vizitokarton de negoca partnero, kuŝantan verŝajne ie ​​sub aliaj aĵoj en la koridora bretaro.	al_ex_an_der	2013-07-24 14:39:23	2013-07-24 14:39:23
 8204	0x200c	‌	1	795509	epo	Ili parolas anka‌‌ŭ Esperanton.	pliiganto	2011-03-16 08:59:35	2011-03-16 08:59:35
-8211	0x2013	–	1159	3372576	epo	Ni faru surprizan viziton al Tomo! Estas la dekdua horo – eble ni sukcesos igi lin inviti nin al la tagomanĝo.	Pfirsichbaeumchen	2014-07-11 10:49:10	2014-07-11 10:49:10
-8212	0x2014	—	1818	4278245	epo	Tempo kaj eterneco — alforĝitaj al si reciproke en la daŭro de unu momento.	carlosalberto	2015-06-16 17:12:43	2015-06-16 17:12:43
-8213	0x2015	―	5	735555	epo	Ĉevalido estas nematura ĉevalo, kokido ― nematura koko, bovido ― nematura bovo, birdido ― nematura birdo.	Aleksej	2011-01-31 22:55:21	2011-01-31 22:55:21
-8216	0x2018	‘	76	2756121	epo	‘Saluton, Tomo!’ – ‘Saluton, Manjo!’	Pfirsichbaeumchen	2013-09-23 20:29:07	2013-09-23 20:29:07
-8217	0x2019	’	233	8705914	epo	„Mia penso estis ‚Ho, mi deziras, ke mi scius tion antaŭ dek jaroj, kiam mi ekzamenis lernejojn’”, li diris.	Pfirsichbaeumchen	2020-04-23 23:50:46	2020-04-23 23:50:59
-8218	0x201a	‚	7	8705914	epo	„Mia penso estis ‚Ho, mi deziras, ke mi scius tion antaŭ dek jaroj, kiam mi ekzamenis lernejojn’”, li diris.	Pfirsichbaeumchen	2020-04-23 23:50:46	2020-04-23 23:50:59
-8220	0x201c	“	712	6364981	epo	„Ĉu vi parolas la rusan lingvon?“ – „Iomete.“	Pfirsichbaeumchen	2017-10-04 21:39:25	2017-10-04 21:39:28
-8221	0x201d	”	950	3038950	epo	„Kiam vi venos?” — „Ni venos la venontan monaton.”	rado	2014-02-09 17:11:29	2019-11-25 17:03:15
-8222	0x201e	„	945	8952262	epo	La devizo de la vivo de Tomo estas „Ĉesu, kiam ĉio estas plej plezura”.	Pfirsichbaeumchen	2020-08-01 03:09:29	2020-08-01 03:09:29
-8230	0x2026	…	38	4236003	epo	Li similas al kato: li voras, fetoras… kaj dormas dek kvin horojn tage.	lipao	2015-05-30 06:53:56	2015-05-30 06:53:56
-8239	0x202f	 	7	6967447	epo	La kajuto surmariĝis en la Hinda oceano kaj estis sukcese savita. Pro difektiĝo en la konduksistemo la vivaĵoj tamen estis elmetitaj al balistika reenira malakcelo de 20 𝘨.	GrizaLeono	2018-06-28 08:17:11	2018-06-28 08:17:11
+8211	0x2013	–	1159	2796502	epo	‘Ĉu vi iam vidis Manjon sen ŝia mansako?’ – ‘Manjon? Ne, neniam.’	Pfirsichbaeumchen	2013-10-18 08:15:20	2013-10-18 08:15:36
+8212	0x2014	—	1818	10830191	epo	Hindio—Barato—estas ankoraŭ plena de mistero por mi. Mi ankoraŭ ne povas diferenci la hindian de la panĝaba post aŭdado de konversacio. El barataj lingvoj, miaj plej ŝatataj estas la palia, la sanskrita, kaj la tamila. La palia estas la liturgia lingvo de suda budaismo, dum la sanskrita estas la liturgia lingvo de norda budaismo kaj hinduismo. La tamila estas oficiala en Singapuro, kune kun la mandarena, la malaja, kaj la angla.	nonong	2022-05-14 19:22:32	2022-05-14 19:34:33
+8213	0x2015	―	5	2055299	epo	"Per kio ni do vivtenu nin?" ― "Nuda pugo en lunbrilo?"	danepo	2012-12-03 20:31:51	2014-12-22 02:52:08
+8216	0x2018	‘	76	1693274	epo	‘Kiam finfine ĉesos tiu konjugacia tabelo?’ ŝi demandis.	Pfirsichbaeumchen	2012-07-14 20:07:10	2012-07-14 20:07:10
+8217	0x2019	’	234	12363175	epo	Sur la tero se azenoj ne amasus, la milit’ eĉ ne okazus.	Rovo	2024-03-09 16:45:57	2024-03-09 16:45:57
+8218	0x201a	‚	7	7941310	epo	„La neĝa lando“ (雪国, ‚yukiguni‘) estas romano de la japana verkisto Kaŭabata Jasunari, gajninto de la Premio Nobel de Literaturo.	Pfirsichbaeumchen	2019-05-28 10:41:26	2019-05-28 10:41:26
+8220	0x201c	“	713	1359815	epo	“Rapidu malrapide!” Ĉi tiu saĝa konsilo aplikas ĉu ni estas kontemplanta laborpostenan ŝanĝon, alfrontanta morton, aŭ plutraktanta ĉiutagan rutinon.	AMIKEMA	2012-01-14 01:32:28	2012-01-14 01:32:28
+8221	0x201d	”	950	11765333	epo	"Rabinoviĉ, mi aŭdis, ke vi legas antisemitajn gazetojn!" "Jes, mi legas." “Kiel vi povas! Vi estas judo!” “Tio ĉi estas tre simpla. Komence mi legis judajn gazetojn. Tie regas tiela deprimo, mi diru al vi! Ĉiuj volas ekstermi la judojn, ĉirkaŭe estas antisemitismo, subpremo, problemoj, ĉiuj ploras... Mi laŭvorte ne povis dormi! Kaj nun mi legas antisemitizman gazetaron — kaj kion vi opinias? Daŭra pozitivo! La judoj regas la mondon, ili konkeris ĉion, ili estas la plej riĉaj, ili decidas ĉion ĉie!”	Balamax	2023-05-15 16:51:18	2023-05-15 16:51:18
+8222	0x201e	„	945	613255	epo	Anstataŭ „ci” oni uzas ordinare „vi”.	Aleksej	2010-11-11 12:06:19	2010-11-11 12:07:15
+8230	0x2026	…	38	10702135	epo	Ho! Mi forgesis… Mia nomo estas Tomo.	AutoBot	2022-03-04 13:33:15	2022-03-04 13:38:46
+8239	0x202f	 	7	11136669	epo	Precize tion mi ŝatas pri li.	Pfirsichbaeumchen	2022-09-24 03:48:29	2022-09-24 03:48:29
 8304	0x2070	⁰	2	8234680	epo	Se oni dividas la numeron 2²⁰¹³ per 3, restas 1, ĉar 2013 estas nepara.	Pfirsichbaeumchen	2019-10-05 10:52:01	2019-10-05 10:52:01
 8319	0x207f	ⁿ	1	2721120	epo	La noaj radikoj el kompleksa nombro w estas la solvoj de la ekvacio zⁿ = w. Ekzistas n tiaj.	GrizaLeono	2013-09-05 11:18:47	2013-09-05 11:19:21
-8322	0x2082	₂	7	9942507	epo	NO₂-malpurigo kaŭzas tutmonde laŭtakse kvar milionojn da astmokazoj ĉe infanoj ĉiujare.	GrizaLeono	2021-04-07 16:23:57	2021-04-07 16:23:57
+8322	0x2082	₂	7	12290766	epo	„Duhidrogena unuoksido” simple estas akvo (H₂O).	Pfirsichbaeumchen	2024-01-29 11:58:40	2024-01-29 11:58:40
 8363	0x20ab	₫	1	1785631	epo	La vjetnamuja valuto estas "đồng". Ĝia simbolo estas "₫".	GrizaLeono	2012-08-19 10:58:27	2012-08-19 10:58:27
-8364	0x20ac	€	6	1634552	epo	Mi gajnas po €100 tage.	bufo	2012-06-19 03:03:54	2012-06-19 03:03:54
-8477	0x211d	ℝ	2	7370476	epo	La aro de ĉiuj reelaj nombroj estas skribata kiel ℝ.	GrizaLeono	2018-11-01 18:02:21	2019-12-01 18:00:47
-8594	0x2192	→	3	2419696	epo	Vi aldonis komenton, ne tradukon. Por aldoni tradukon, alklaku la simbolon «あ→а» supre de la frazo.	nimfeo	2013-05-05 12:03:37	2013-09-27 16:08:33
+8364	0x20ac	€	6	7533624	epo	Post longa atendado mi nun gajnis en lotumado. Granda ĝojo! Mi gajnis 6,60 €. Jam post unu horo mi tute spezis mian riĉaĵon: mi pagis por la sekvanta semajno.	Hans07	2018-11-28 14:26:31	2018-11-28 14:29:47
+8477	0x211d	ℝ	2	7370483	epo	Se x estas reela nombro, oni skribas x∈ℝ.	GrizaLeono	2018-11-01 18:03:07	2018-11-01 18:03:07
+8594	0x2192	→	3	11566343	epo	Vi aldonis komenton, ne tradukon. Por aldoni tradukon alklaku la signon "あ→а" super la frazo.	GrizaLeono	2023-02-27 19:15:12	2023-02-27 19:15:27
 8712	0x2208	∈	1	7370483	epo	Se x estas reela nombro, oni skribas x∈ℝ.	GrizaLeono	2018-11-01 18:03:07	2018-11-01 18:03:07
-8722	0x2212	−	2	11364700	epo	La imaginara unuo i estas nombro kun i² = −1. El tio sekvas, ke i ne povas esti reala nombro, ĉar la kvadrato de reala nombro ja ĉiam estas ne-negativa.	Pfirsichbaeumchen	2022-12-23 20:29:10	2024-02-21 10:57:22
+8722	0x2212	−	2	6572878	epo	La kvadrataj radikoj de 3 estas √3 kaj −√3.	GrizaLeono	2017-12-26 14:59:21	2017-12-26 14:59:21
 8730	0x221a	√	2	5404111	epo	La kvadrata radiko de 3 estas √3 aŭ -√3.	danepo	2016-09-05 18:48:43	2016-09-05 18:48:54
 9633	0x25a1	□	1	1299841	epo	Ĉu vi volas esti mia amikino? □ Jes. □ Ne. □ Eble.	PaulP	2011-12-14 19:54:12	2023-03-20 16:11:42
-9815	0x2657	♗	2	9967654	epo	Ruy López de Segura, pastro kaj fama hispana ŝakludanto de la 16-a jarcento, verkis libron de 150 paĝoj, nomatan Libro del Ajedrez, pri ĝisfundaj studoj, kiujn li faris pri la malfermo (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5), kiu nomiĝas laŭ li.	carlosalberto	2021-04-18 11:23:29	2021-09-08 20:43:39
-9816	0x2658	♘	2	9967654	epo	Ruy López de Segura, pastro kaj fama hispana ŝakludanto de la 16-a jarcento, verkis libron de 150 paĝoj, nomatan Libro del Ajedrez, pri ĝisfundaj studoj, kiujn li faris pri la malfermo (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5), kiu nomiĝas laŭ li.	carlosalberto	2021-04-18 11:23:29	2021-09-08 20:43:39
+9815	0x2657	♗	2	9967547	epo	La Ruy López malfermo, ankaŭ konata kiel la hispana malfermo (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5), estas eble la plej fama kaj certe unu el la plej studataj ŝaklinioj.	carlosalberto	2021-04-18 10:45:25	2021-09-08 20:49:38
+9816	0x2658	♘	2	9967547	epo	La Ruy López malfermo, ankaŭ konata kiel la hispana malfermo (1. e4 e5 2. ♘f3 ♘c6 3. ♗b5), estas eble la plej fama kaj certe unu el la plej studataj ŝaklinioj.	carlosalberto	2021-04-18 10:45:25	2021-09-08 20:49:38
 10140	0x279c	➜	1	12197789	epo	Elementa algebro: a) estu x la nombro da frazoj en la galega; b) estu x + 700 la nombro da frazoj en la rumana; c) hodiaŭ, x + 700 = 2x; d) kiu estas la valoro de x? Solvo: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Konkludo: hodiaŭ estas 700 frazoj en la galega kaj 1.400 frazoj en la rumana.	carlosalberto	2023-12-06 19:27:47	2023-12-06 19:27:47
-12354	0x3042	あ	3	11566343	epo	Vi aldonis komenton, ne tradukon. Por aldoni tradukon alklaku la signon "あ→а" super la frazo.	GrizaLeono	2023-02-27 19:15:12	2023-02-27 19:15:27
+12354	0x3042	あ	3	2419696	epo	Vi aldonis komenton, ne tradukon. Por aldoni tradukon, alklaku la simbolon «あ→а» supre de la frazo.	nimfeo	2013-05-05 12:03:37	2013-09-27 16:08:33
 12398	0x306e	の	1	10520448	epo	En la fascina japana animeo Zamdo: Perditaj Memoroj (亡念のザムド), oni trovas dizelpunkon kiel parton de ĝia stranga skizoteknika universo, en kiu malsamaj teknologioj ĉeestas anakronisme.	nonong	2021-11-20 23:47:54	2021-11-20 23:47:54
 12426	0x308a	り	1	10724628	epo	Ĝenerala Budaisma koncepto estas sūnyatā per la sanskrita aŭ suññatā per la palia; ĝi estas la nuleco de ĉiuj aferoj. Nenio ekzistas esence. La Kora Sutro diras, ke "formo estas nuleco, nuleco estas formo". Dume, saṃsāra estas la malo de nirvāṇa. Saṃsāra, senĉesa vagado, estas la mondo, en kiu oni nun vivas, la mondo de iluzio, aŭ eble la spiraloj da renaskiĝoj. Per Budaismo, oni provas eskapi saṃsāra-n por atingi la lastan celon, la malekziston de avareco, malamo, kaj iluzio; ĉi tiu celo nomiĝas nirvāṇa per la sanskrita aŭ nibbāna per la palia. Ĉi tiu atingo estas unu formo de iluminiĝo. En la Zen-sekto de Budaismo, oni aŭdas pri alia, kiu nomiĝas satori (悟り) per la japana. Ĝi estas subita abrupta evento atingebla en onia vivo; estas io kiel la plej brila ideo, kiun oni povas havi, sed sen la ideo; oni ne povas esprimi ĝin per vortoj. Zeno estas vere malsama kompare al aliaj Budaismaj sektoj ĉar gi evitas vortcentran pensadon. Zeno estas Budaismo pasinte influita de Taoismo.	nonong	2022-03-18 20:45:36	2022-03-18 20:51:14
 12470	0x30b6	ザ	1	10520448	epo	En la fascina japana animeo Zamdo: Perditaj Memoroj (亡念のザムド), oni trovas dizelpunkon kiel parton de ĝia stranga skizoteknika universo, en kiu malsamaj teknologioj ĉeestas anakronisme.	nonong	2021-11-20 23:47:54	2021-11-20 23:47:54
@@ -337,10 +337,10 @@
 39740	0x9b3c	鬼	1	10726206	epo	Taoistoj kredas ankaŭ, ke ĉiu persono havas du specojn da animoj, la sep Jin-animojn, kiuj produktiĝas ĉe koncipo, kaj la tri Jang-animojn, kiuj kuniĝas kun la Jin-animoj ĉe naskiĝo. Kiam ili kuniĝas en harmonia unio, vivo floras; kiam ili apartiĝas, malsano aŭ morto okazas. La Skolo de la Higieno pri Internaj Dioj kredas en siaj specifaĵoj, ke mirinde 36 000 dioj aŭ shén (神) loĝas en la makrokosmo kaj en ĉiu homa korpo. (La nombro estas eble metafora aŭ figura.) La shén estas kontrasto de guǐ (鬼), kiuj estas friponaj demonoj, formitaj el Jin-animoj de mortintoj. Parenteze, la hinduoj de Barato kredas, ke ekzistas dia grajno en ĉiu homa ento. Taoismo estas formo de Animismo aŭ Panteismo.	nonong	2022-03-19 22:25:47	2022-03-19 22:25:47
 40636	0x9ebc	麼	1	2421712	epo	Se mi uzas simpligitan ĉinan lingvon por serĉi "什么", mi krome esperas trovi en la rezultoj "甚麼".	nimfeo	2013-05-06 20:09:49	2013-05-06 20:09:49
 49888	0xc2e0	신	2	3514720	epo	Kio estus la plej taŭga maniero traduki «허신» en la hispanan?	nimfeo	2014-09-23 15:59:47	2014-09-23 15:59:47
-54728	0xd5c8	허	2	3628598	epo	Kio estus la plej bona maniero traduki «허신» en la hispanan?	nimfeo	2014-11-13 17:31:29	2014-11-13 17:31:29
+54728	0xd5c8	허	2	3514720	epo	Kio estus la plej taŭga maniero traduki «허신» en la hispanan?	nimfeo	2014-09-23 15:59:47	2014-09-23 15:59:47
 65294	0xff0e	．	1	647077	epo	Vi devas pli zorgi pri via sekureco．	vastalto	2010-12-04 11:23:02	2014-11-21 12:06:01
 119877	0x1d445	𝑅	1	12218757	epo	Kiel oni povas geometrie klarigi al si, ke la surfaco de sfero, 4𝜋𝑅², precize egalas al la areo de kvar cirkloj de la sama radiuso 𝑅?	Pfirsichbaeumchen	2023-12-19 18:31:36	2023-12-19 18:31:36
 119896	0x1d458	𝑘	1	1748814	epo	Afina algebra grupo super korpo 𝑘 estas reprezentebla kovarianta funktoro de la kategorio de la komutaj algebroj super 𝑘 al la kategorio de la grupoj tia, ke la reprezentanta algebro estas fine generita.	Pfirsichbaeumchen	2012-08-03 14:27:56	2017-11-13 02:29:37
 120340	0x1d614	𝘔	1	11664272	epo	Estu (𝘔, 𝘨) koneksa sternaĵo de Lorentz. En ĉiu tanĝa spaco la tempspecaj vektoroj, ili estas tiuj kun pozitiva longo rilate al la metrika tensoro 𝘨, formas du disajn konusojn (de malfinia alto). Se oni povas elekti unu el ĉi du tiamaniere, ke iu ajn glata kampo de vektoroj kun pozitiva longo jam tute situas en tiuj elektitaj konusoj, se oni scias tion nur pri sola vektoro, oni nomas (𝘔, 𝘨) temporientita, kaj la (tempspecaj) vektoroj en la elektitaj konusoj nomiĝas tempdirektaj.	Pfirsichbaeumchen	2023-04-07 18:29:39	2023-04-07 20:13:49
-120360	0x1d628	𝘨	2	6967447	epo	La kajuto surmariĝis en la Hinda oceano kaj estis sukcese savita. Pro difektiĝo en la konduksistemo la vivaĵoj tamen estis elmetitaj al balistika reenira malakcelo de 20 𝘨.	GrizaLeono	2018-06-28 08:17:11	2018-06-28 08:17:11
+120360	0x1d628	𝘨	2	11664272	epo	Estu (𝘔, 𝘨) koneksa sternaĵo de Lorentz. En ĉiu tanĝa spaco la tempspecaj vektoroj, ili estas tiuj kun pozitiva longo rilate al la metrika tensoro 𝘨, formas du disajn konusojn (de malfinia alto). Se oni povas elekti unu el ĉi du tiamaniere, ke iu ajn glata kampo de vektoroj kun pozitiva longo jam tute situas en tiuj elektitaj konusoj, se oni scias tion nur pri sola vektoro, oni nomas (𝘔, 𝘨) temporientita, kaj la (tempspecaj) vektoroj en la elektitaj konusoj nomiĝas tempdirektaj.	Pfirsichbaeumchen	2023-04-07 18:29:39	2023-04-07 20:13:49
 120587	0x1d70b	𝜋	1	12218757	epo	Kiel oni povas geometrie klarigi al si, ke la surfaco de sfero, 4𝜋𝑅², precize egalas al la areo de kvar cirkloj de la sama radiuso 𝑅?	Pfirsichbaeumchen	2023-12-19 18:31:36	2023-12-19 18:31:36
