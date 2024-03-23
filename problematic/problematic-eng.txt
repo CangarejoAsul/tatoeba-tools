@@ -1066,7 +1066,6 @@ Multiplication sign: possible homoglyph	12197785	eng	Elementary algebra: a) let 
 Parentheses: unopened closing mark	12197785	eng	Elementary algebra: a) let x be the number of sentences in Galician; b) let x + 700 be the number of sentences in Romanian; c) today, x + 700 = 2x; d) what is the value of x? Solution: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusion: today there are 700 sentences in Galician and 1,400 sentences in Romanian.	carlosalberto	2023-12-06 19:23:51	2023-12-06 19:23:51
 Parentheses: unbalanced closing marks	12197785	eng	Elementary algebra: a) let x be the number of sentences in Galician; b) let x + 700 be the number of sentences in Romanian; c) today, x + 700 = 2x; d) what is the value of x? Solution: 2x = x + 700 ➜ 2x - x = 700 ➜ x = 700. Conclusion: today there are 700 sentences in Galician and 1,400 sentences in Romanian.	carlosalberto	2023-12-06 19:23:51	2023-12-06 19:23:51
 Straight quotation marks: odd number	12205804	eng	"What do you think is the meaning of life?" "Does it need to have a meaning? Enjoy everyday.	maaster	2023-12-12 07:00:22	2023-12-12 07:00:22
-Final punctuation	12236071	eng	He built a house in the mountain	hichamnait	2023-12-28 14:12:35	2023-12-28 14:12:35
 Final punctuation	12241376	eng	While most spell the name of this animal “raccoon”, you will sometimes see “racoon”	Tangobango	2023-12-30 19:52:39	2023-12-30 19:52:39
 Straight quotation marks: odd number	12249884	eng	"Eat that. That's good for your health." "I do know what I want to eat, okay?	maaster	2024-01-03 18:48:40	2024-01-03 18:48:40
 Quotation marks: mixed curly and straight	12285669	eng	I’m sorry for not being as supportive as I should've been.	CK	2024-01-26 00:39:33	2024-01-26 00:39:33
@@ -1080,14 +1079,17 @@ Final punctuation	12317779	eng	I promise I'll be back by 7 o'clock	CK	2024-02-15
 Quotation marks: homoglyphs	12340417	eng	''I'm sorry.'' ''You'd better be sorry!''	doemaar14	2024-02-26 02:59:16	2024-02-26 02:59:16
 Quotation marks: homoglyphs	12340419	eng	''I'm sorry.'' ''You'd better be!''	doemaar14	2024-02-26 03:00:04	2024-02-26 03:00:04
 Capitalization	12344435	eng	little by little.	Amntag	2024-02-28 09:51:08	2024-02-28 09:51:08
-Exclamation mark: preceeded by space	12360678	eng	Shotgun !	ceviri_atolyesi	2024-03-07 18:22:40	2024-03-07 18:22:40
 Capitalization	12368898	eng	e is an irrational number.	Miktsoanit	2024-03-12 20:57:16	2024-03-12 20:57:16
 Final punctuation	12370206	eng	In dreams, the bride searches for her beloved. She sees him arriving through the desert, and the groom highly praises her beauty	carlosalberto	2024-03-13 19:27:29	2024-03-13 19:27:29
 Capitalization	12370548	eng	bread.	jan_usawi_sewi_o	2024-03-14 00:47:34	2024-03-14 00:47:34
 Final punctuation	12370560	eng	The sun shines	jan_usawi_sewi_o	2024-03-14 00:52:38	2024-03-14 00:52:38
 Final punctuation	12370563	eng	True! You're good	jan_usawi_sewi_o	2024-03-14 00:53:30	2024-03-14 00:53:30
-Capitalization	12372055	eng	wheat field	jan_usawi_sewi_o	2024-03-14 21:30:55	2024-03-14 21:30:55
-Final punctuation	12372055	eng	wheat field	jan_usawi_sewi_o	2024-03-14 21:30:55	2024-03-14 21:30:55
-English quotation marks: unopened closing mark	12372678	eng	"This sea lion should be a beautiful reddish color," she said, "and what we’re actually seeing is little glimmering spots of that beautiful reddish tone of its fur, but the rest is coated in what looks like black tar.”	Cangarejo	2024-03-15 12:29:08	2024-03-15 12:29:08
-Straight quotation marks: odd number	12372678	eng	"This sea lion should be a beautiful reddish color," she said, "and what we’re actually seeing is little glimmering spots of that beautiful reddish tone of its fur, but the rest is coated in what looks like black tar.”	Cangarejo	2024-03-15 12:29:08	2024-03-15 12:29:08
-Quotation marks: mixed curly and straight	12372678	eng	"This sea lion should be a beautiful reddish color," she said, "and what we’re actually seeing is little glimmering spots of that beautiful reddish tone of its fur, but the rest is coated in what looks like black tar.”	Cangarejo	2024-03-15 12:29:08	2024-03-15 12:29:08
+Final punctuation	12376987	eng	Older people get sick easily	CK	2024-03-18 01:38:30	2024-03-18 01:38:30
+Quotation marks: mixed curly and straight	12379127	eng	“What nationality are your mothers?” "Mexican."	VPZ	2024-03-19 15:46:19	2024-03-19 15:46:19
+Cyrillic characters: possible homoglyphs	12379358	eng	We all consider it wrong to cheat оn exams.	AlanF_US	2024-03-19 19:54:06	2024-03-19 19:54:06
+Final punctuation	12380849	eng	I'd really rather not do that	CK	2024-03-20 21:42:21	2024-03-20 21:49:11
+Zero-width space	12380945	eng	In 1912, Japan gave 3,000 cherry trees to the U.S. capital city of Washington, D.C. The gift was to honor the lasting friendship between the United States and Japan. ​	Source_VOA	2024-03-21 00:00:45	2024-03-21 00:00:45
+Final punctuation	12381060	eng	I got an Austrian passport	InfinitusPrimus	2024-03-21 06:37:37	2024-03-21 06:37:47
+Final punctuation	12383451	eng	I still want to see Tom	CK	2024-03-22 22:31:36	2024-03-22 22:31:36
+Final punctuation	12383452	eng	I still need to see Tom	CK	2024-03-22 22:31:42	2024-03-22 22:31:42
+Final punctuation	12383453	eng	I still have to see Tom	CK	2024-03-22 22:31:45	2024-03-22 22:31:45

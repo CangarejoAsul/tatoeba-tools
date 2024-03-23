@@ -1,104 +1,104 @@
-32	0x20	 	55475	4317135	swe	Jag är inte så glad.	richke	2015-06-29 16:15:36	2015-06-29 16:15:36
-33	0x21	!	1705	4030605	swe	Du kör som en galning!	malinef	2015-04-03 19:53:56	2015-04-03 19:53:56
-34	0x22	"	144	4359661	swe	Österrikes kuperade landskap påminde herr Bogart om "Sound of Music".	richke	2015-07-11 12:41:10	2015-07-11 12:41:15
+32	0x20	 	55505	2514391	swe	Regnet avtog.	herrsilen	2013-06-21 18:52:41	2013-06-21 18:52:41
+33	0x21	!	1705	1992182	swe	Fåntratt! Man kan inte multiplicera så här stora tal för hands!	Siljan	2012-11-09 06:47:38	2019-09-20 01:43:31
+34	0x22	"	144	4427075	swe	"Jag kan rita en perfekt cirkel på fri hand." "Ha! Det skulle jag bra gärna vilja se!"	richke	2015-08-03 07:07:31	2015-08-03 07:07:31
 35	0x23	#	1	8891333	swe	C# påminner om Java.	morbrorper	2020-07-04 12:00:25	2020-07-04 12:00:25
-37	0x25	%	3	2460424	swe	Vi använder endast 10 % av hjärnan.	herrsilen	2013-05-27 21:28:09	2013-05-27 21:28:09
+37	0x25	%	3	2284266	swe	Vi använder endast 10 % av vår hjärna.	freddy1	2013-03-05 17:22:30	2013-05-27 22:17:41
 38	0x26	&	1	3841278	swe	I lördags shoppade jag på H&M.	\N	2015-02-04 19:00:07	2015-02-07 14:32:57
-39	0x27	'	12	684135	swe	Ena sidan av ett mynt kallas för 'krona' och den andra kallas för 'klave'.	herrsilen	2010-12-24 12:18:41	2010-12-24 12:18:41
-40	0x28	(	6	12100345	swe	Yetin ("Snömannen") försvann över kullen.	johanrhg	2023-10-07 11:30:23	2023-10-07 11:30:23
-41	0x29	)	6	12100345	swe	Yetin ("Snömannen") försvann över kullen.	johanrhg	2023-10-07 11:30:23	2023-10-07 11:30:23
+39	0x27	'	12	11907263	swe	Tom didn't turn off the basement light.	herrsilen	2023-07-05 08:05:27	2023-07-05 08:05:27
+40	0x28	(	6	12110693	swe	Istanbul (Konstantinopel) är Turkiets ekonomiska huvudstad.	johanrhg	2023-10-13 15:35:15	2023-10-13 15:35:15
+41	0x29	)	6	12110693	swe	Istanbul (Konstantinopel) är Turkiets ekonomiska huvudstad.	johanrhg	2023-10-13 15:35:15	2023-10-13 15:35:15
 43	0x2b	+	1	2125176	swe	Min blodgrupp är A+.	jongausib	2013-01-05 21:42:18	2013-01-05 21:42:18
-44	0x2c	,	2333	5798174	swe	Hjälp mig att översätta det här dokumentet, tack.	suedenjin	2017-01-25 11:40:12	2017-01-25 11:40:12
-45	0x2d	-	182	3434879	swe	”Kan du laga mat?” - ”Laga kan jag, men jag kan inte lova att det smakar gott.”	Don3187	2014-08-17 15:13:57	2014-08-31 00:36:15
-46	0x2e	.	44940	11277225	swe	Jag gillar inte storstäder.	Pineapple	2022-11-29 19:04:09	2022-11-29 19:04:09
-47	0x2f	/	7	12084905	swe	Det tvåfaldiga loppet förstår Anchise / det dubbla majestätet, och känner sig vilseledd / genom modernt fel mellan två forntida länder.	johanrhg	2023-09-28 10:23:54	2023-09-28 10:23:54
-48	0x30	0	173	9679480	swe	Bron mellan Danmark och Sverige är nästan 50 kilometer lång.	morbrorper	2021-01-21 10:03:39	2021-01-21 10:03:39
-49	0x31	1	159	1291528	swe	Boken är också en resa genom 1900-talet.	PeterR	2011-12-10 17:08:57	2011-12-10 17:08:57
-50	0x32	2	95	3502435	swe	I augusti 2014 bestämde Svenska byggnadsarbetareförbundet att könsneutrala pronomenet ”hen” (”han eller hon eller varken han eller hon”) bör användas istället för ”han” i kommande versioner av sina stadgar.	Objectivesea	2014-09-18 12:14:27	2015-01-26 01:31:19
-51	0x33	3	62	9451573	swe	Tom är 32 år och äger tio miljoner euro.	morbrorper	2020-12-08 18:30:47	2020-12-08 18:30:47
-52	0x34	4	43	3720326	swe	Andra världskriget tog slut 1945.	herrsilen	2014-12-31 19:07:42	2014-12-31 19:07:42
-53	0x35	5	67	3081528	swe	Den 15 januari är ”Interlinguadagen” med aktiviteter och publicitet för att sprida interlingua i hela världen.	untorrente	2014-03-07 16:16:00	2015-02-11 09:21:25
-54	0x36	6	48	1999467	swe	16 kilometer är inte en kort sträcka.	herrsilen	2012-11-11 20:43:50	2012-11-11 20:43:50
-55	0x37	7	27	4407036	swe	Osmanska turkar erövrade Egypten år 1517.	richke	2015-07-25 20:08:52	2015-07-25 20:08:52
-56	0x38	8	37	2173668	swe	Detta hus har anor från 1800-talets slut.	herrsilen	2013-01-28 21:05:44	2013-01-28 21:05:44
-57	0x39	9	81	5330381	swe	Finland var en del av Ryssland åren 1809–1917.	herrsilen	2016-08-09 20:12:14	2016-08-09 22:42:31
-58	0x3a	:	119	11350824	swe	Jag har läst den här boken: Den är intressant.	Pineapple	2022-12-19 17:59:54	2022-12-19 17:59:54
-59	0x3b	;	40	11917357	swe	Jag kommer att instruera dig denna gång, och bara denna gång; därför är det bäst att du är beredd.	herrsilen	2023-07-08 19:18:10	2023-07-08 19:18:10
-63	0x3f	?	9327	4842918	swe	Vem sa att jag har en pistol?	Nour	2016-01-18 23:52:29	2016-01-18 23:52:29
-65	0x41	A	1051	5891839	swe	Alla gör det.	herrsilen	2017-02-22 10:19:23	\N
-66	0x42	B	1120	2132788	swe	Batterierna i min miniräknare är slut.	herrsilen	2013-01-09 11:31:38	2013-01-09 11:31:38
-67	0x43	C	91	4158344	swe	Hur många språk kan Charlotte?	richke	2015-05-07 10:42:28	2015-05-07 10:42:28
-68	0x44	D	8201	6002139	swe	Det är nästan färdigt.	CannedBread	2017-04-08 04:21:56	\N
-69	0x45	E	835	11329024	swe	Elvis Presley lever!	morbrorper	2022-12-14 11:52:05	2022-12-14 11:52:05
-70	0x46	F	1324	3453011	swe	Flickan som sjunger där är min syster.	mrkalling	2014-08-25 18:21:10	2021-01-01 07:34:26
-71	0x47	G	1047	778582	swe	God dag.	marloncori	2011-03-04 17:18:59	2011-03-04 17:18:59
-72	0x48	H	8392	3720863	swe	Hon har bragt många på fall.	herrsilen	2015-01-01 01:53:41	2015-01-01 01:53:41
-73	0x49	I	938	10681156	swe	I den här skogen bor det tomtar och troll.	morbrorper	2022-02-19 14:36:27	2022-02-19 14:36:27
-74	0x4a	J	11664	1134748	swe	Jag heter Wang Jiaming.	arahlen	2011-09-29 09:27:16	2011-09-29 09:27:16
-75	0x4b	K	1761	8419652	swe	Kom i morgon förmiddag.	morbrorper	2019-12-31 15:51:14	2019-12-31 15:51:14
-76	0x4c	L	920	8945178	swe	Litar ni på oss?	Matteusmauritz	2020-07-28 12:30:50	2020-07-28 12:30:50
-77	0x4d	M	2865	9650429	swe	Tom sa att han kunde hjälpa Mary.	mrkalling	2021-01-14 14:20:44	2021-01-14 14:20:44
-78	0x4e	N	1236	3993342	swe	Ni är inte klara.	malinef	2015-03-27 14:29:06	2015-03-27 14:29:06
-79	0x4f	O	475	12347484	swe	Och varför skulle jag göra det?	SilasNordgren	2024-02-29 21:31:49	2024-02-29 21:31:49
-80	0x50	P	747	3124057	swe	Planen gick vägen.	herrsilen	2014-03-25 06:29:55	2014-03-25 06:29:55
+44	0x2c	,	2334	3837670	swe	Imponerande, eller hur?	herrsilen	2015-02-03 15:59:17	2015-02-03 15:59:17
+45	0x2d	-	183	10627235	swe	Jag har bifogat mitt CV i en PDF-fil.	Matteusmauritz	2022-01-17 06:12:34	2022-01-17 06:12:34
+46	0x2e	.	44963	6390973	swe	Sami är inte värd det.	SilasNordgren	2017-10-20 22:18:14	2017-10-20 22:18:14
+47	0x2f	/	7	12097125	swe	Jag kommer att hjälpa dig/er i morgon.	johanrhg	2023-10-05 10:42:44	2023-10-05 10:42:44
+48	0x30	0	173	10747289	swe	Tom och jag har varit gifta i 30 år.	Pineapple	2022-03-31 14:21:25	2022-03-31 14:21:25
+49	0x31	1	159	5874242	swe	Fredagen den 13 anses vara en otursdag.	herrsilen	2017-02-16 20:59:05	2017-02-16 20:59:05
+50	0x32	2	95	10660970	swe	Han fångade 20 fjärilar.	Pineapple	2022-02-05 19:39:34	2022-02-05 19:39:34
+51	0x33	3	62	10747289	swe	Tom och jag har varit gifta i 30 år.	Pineapple	2022-03-31 14:21:25	2022-03-31 14:21:25
+52	0x34	4	43	4543730	swe	Mitt telefonnummer är 98 76 54 32.	herrsilen	2015-09-22 04:00:53	2015-09-22 04:01:01
+53	0x35	5	67	10663033	swe	Vi har öppet 365 dagar om året.	Pineapple	2022-02-06 19:50:39	2022-02-06 19:50:39
+54	0x36	6	48	2730821	swe	Påven Francis återvänder till Rio år 2016.	Balamax	2013-09-10 04:12:49	2013-09-15 15:58:44
+55	0x37	7	27	1125895	swe	Den här skolan grundades år 1970.	Spraaksugen	2011-09-24 03:00:16	2011-09-24 03:00:16
+56	0x38	8	37	10894846	swe	Grilla filén 8 till 12 minuter på varje sida.	Sprakify	2022-06-07 09:27:24	2022-06-07 09:27:24
+57	0x39	9	81	2235403	swe	Plutonium-239 har en halveringstid på 24 100 år.	Tximist	2013-02-20 01:26:54	2013-02-20 01:26:54
+58	0x3a	:	118	3122009	swe	Jag har sagt det innan och jag säger det igen: rör inte mina saker!	herrsilen	2014-03-24 13:31:23	2014-03-24 13:31:23
+59	0x3b	;	40	4193816	swe	Jag sörjer över dig, du min broder Jonatan; mycket ljuvlig var du mig. Dyrbar var mig din kärlek, mer än kvinnokärlek.	richke	2015-05-16 18:35:47	2015-05-16 18:35:47
+63	0x3f	?	9334	3874165	swe	Vad är det i kaffet?	herrsilen	2015-02-17 09:35:02	2015-02-17 09:35:02
+65	0x41	A	1051	12360604	swe	När NATO en gång bildades valde Sverige och Finland att inte gå med, utan kallade sig istället alliansfria.	morbrorper	2024-03-07 17:26:30	2024-03-07 17:26:30
+66	0x42	B	1120	10337460	swe	Bilen stannade inte.	morbrorper	2021-10-03 07:59:28	2021-10-03 07:59:28
+67	0x43	C	91	3853735	swe	Vilken tycker du bäst om, Cola eller Pepsi?	Gosha	2015-02-09 00:05:54	2015-02-09 00:05:54
+68	0x44	D	8205	3208798	swe	Det här är min soffa.	Milja	2014-04-27 15:10:35	2014-04-27 15:10:35
+69	0x45	E	835	11163116	swe	Titta! En kanin!	Pineapple	2022-10-07 20:01:18	2022-10-07 20:01:22
+70	0x46	F	1324	1433510	swe	Försök att se det som det är.	arahlen	2012-02-13 21:27:45	2012-02-13 21:27:45
+71	0x47	G	1048	4363774	swe	Går det bra att jag sitter?	richke	2015-07-12 15:47:04	2015-07-12 15:47:04
+72	0x48	H	8402	2611848	swe	Hur lång tid tar det att ta sig till Wien till fots?	Alex1975	2013-07-22 12:45:37	2013-08-02 16:16:03
+73	0x49	I	938	7044930	swe	På grund av hettan var resan inte behaglig. I själva verket var det en riktig pärs.	herrsilen	2018-08-05 12:38:15	2018-08-05 12:38:15
+74	0x4a	J	11668	10661341	swe	Joe Biden höll på att somna.	Pineapple	2022-02-05 22:04:32	2022-02-05 22:04:32
+75	0x4b	K	1763	2022978	swe	Kan jag få prata med dig?	herrsilen	2012-11-19 21:31:23	2012-11-19 21:31:23
+76	0x4c	L	920	6363877	swe	Layla är en fantastisk kock.	SilasNordgren	2017-10-04 12:21:52	2017-10-04 12:21:52
+77	0x4d	M	2869	4163845	swe	Mary satte några blommor i vasen.	richke	2015-05-08 22:23:44	2015-05-08 22:23:44
+78	0x4e	N	1237	3840724	swe	Ni får inte komma för sent denna gång.	herrsilen	2015-02-04 15:47:29	2015-02-04 15:47:29
+79	0x4f	O	475	12068834	swe	Om jag hittar ditt pass så ringer jag dig genast.	hietjmo	2023-09-21 11:06:47	2023-09-21 11:06:47
+80	0x50	P	747	12218220	swe	Pratar du kroatiska?	Adelpa	2023-12-19 13:51:26	2023-12-19 13:51:26
 81	0x51	Q	5	6389492	swe	Tom tog ett IQ-test.	SilasNordgren	2017-10-19 14:37:33	2017-10-19 14:37:33
-82	0x52	R	442	2122657	swe	Ring mig när det är färdigt.	herrsilen	2013-01-04 20:01:34	2013-01-04 20:01:34
-83	0x53	S	2658	2378929	swe	Så synd att ni inte kunde komma.	freddy1	2013-04-13 22:33:09	2013-04-13 22:33:09
-84	0x54	T	8765	12107112	swe	Sami är före detta polis i Toronto.	johanrhg	2023-10-11 13:19:23	2023-10-11 13:19:23
-85	0x55	U	248	8931084	swe	Uppsala är en liten stad i Sverige.	nut	2020-07-22 06:23:36	2020-07-22 06:23:36
-86	0x56	V	6110	5926635	swe	Varför så mycket hat?	herrsilen	2017-03-07 20:52:31	\N
-87	0x57	W	42	10951878	swe	De skriver Wikipedia-artiklar.	Sprakify	2022-06-30 15:39:05	2022-06-30 15:39:05
-88	0x58	X	2	1988696	swe	Du glömde att dividera med X här.	Ribon	2012-11-07 16:16:51	2012-11-07 16:16:51
-89	0x59	Y	125	7864048	swe	På den tiden åkte Yuri ofta till London.	mr_vile	2019-04-22 01:26:19	2019-04-22 01:26:19
-90	0x5a	Z	212	10663310	swe	Ziri var begravd.	Pineapple	2022-02-06 20:54:10	2022-02-06 20:54:10
+82	0x52	R	442	12240222	swe	Rambo finns inte.	Adelpa	2023-12-30 09:16:47	2023-12-30 09:16:47
+83	0x53	S	2658	2172884	swe	Sjung ut! Ut med språket!	freddy1	2013-01-28 16:04:33	2013-01-28 16:04:54
+84	0x54	T	8769	11910942	swe	Tom hängde upp sitt diplom på väggen.	herrsilen	2023-07-06 07:50:35	2023-07-06 07:50:35
+85	0x55	U	248	9159867	swe	Ursäkta att jag lät dig vänta så länge.	herrsilen	2020-10-18 11:02:42	2020-10-18 11:02:42
+86	0x56	V	6113	9430449	swe	Vad är din temperatur?	morbrorper	2020-12-03 20:25:38	2020-12-03 20:25:38
+87	0x57	W	42	9988243	swe	Tycker du om Wagner?	morbrorper	2021-04-26 16:33:44	2021-04-26 16:33:44
+88	0x58	X	2	10667899	swe	Hur säger man XXX på engelska?	Pineapple	2022-02-10 16:49:48	2022-02-10 16:49:48
+89	0x59	Y	125	4724036	swe	Varför är fru Yamada populär i din skola?	Theocracy	2015-11-24 21:25:32	2015-11-24 21:26:25
+90	0x5a	Z	212	12097191	swe	Hur dåligt mår Ziri?	johanrhg	2023-10-05 10:58:46	2023-10-05 10:58:46
 91	0x5b	[	1	12100367	swe	Min bästa väninna säger att hon svärmar [för någon].	johanrhg	2023-10-07 11:38:34	2023-10-07 11:38:43
 93	0x5d	]	1	12100367	swe	Min bästa väninna säger att hon svärmar [för någon].	johanrhg	2023-10-07 11:38:34	2023-10-07 11:38:43
-97	0x61	a	49699	2030843	swe	Det var en tyst natt i vintertid.	Lazzlo	2012-11-23 10:52:34	2012-11-23 10:52:34
-98	0x62	b	13625	5798207	swe	Enligt långtidsprognosen verkar det som att det blir en mild vinter.	suedenjin	2017-01-25 11:48:57	2017-01-25 11:48:57
-99	0x63	c	9072	3122201	swe	De gick hand i hand till restaurangen.	herrsilen	2014-03-24 14:13:43	2014-03-24 14:13:43
-100	0x64	d	34453	3809630	swe	Hur uttalas ditt efternamn?	Amabayashi	2015-01-30 00:59:25	2015-01-30 00:59:31
-101	0x65	e	47943	10970713	swe	Har du ett konkret exempel?	Sprakify	2022-07-07 07:51:16	2022-07-07 07:51:16
-102	0x66	f	16011	1433527	swe	När inträffade händelsen?	arahlen	2012-02-13 21:31:05	2012-02-13 21:31:05
-103	0x67	g	35380	10686364	swe	Min far dog för tio år sedan.	Pineapple	2022-02-22 17:34:16	2022-02-22 17:34:16
-104	0x68	h	20414	4345865	swe	Jag kan förklara det här.	richke	2015-07-07 07:54:26	2015-07-07 07:54:26
-105	0x69	i	39879	10763207	swe	Hon säger att hon inte kan lita på sig själv.	herrsilen	2022-04-11 11:46:47	2022-04-11 11:46:47
-106	0x6a	j	9745	10071089	swe	Jag tycker om djur, exempelvis katter och hundar.	morbrorper	2021-05-29 07:14:47	2021-05-29 07:14:47
-107	0x6b	k	28457	1959419	swe	Han verkar ha haft ett svårt liv i sin ungdom.	Coedwig	2012-10-28 09:39:30	2012-10-28 09:39:40
-108	0x6c	l	31948	5872214	swe	Fadil ville gå vidare.	User73201	2017-02-16 13:32:08	2017-02-16 13:32:08
-109	0x6d	m	29818	1992097	swe	De kommer bli de första som ställs mot väggen när revolutionen kommer.	Siljan	2012-11-09 06:08:11	2019-09-20 01:43:14
-110	0x6e	n	44264	5067351	swe	Jag har ett brev från dig.	elliotmarklund	2016-04-16 14:57:54	2016-04-16 14:57:54
-111	0x6f	o	31348	1456342	swe	Moder Teresa föddes 1910 i Jugoslavien.	Balamax	2012-02-26 07:08:43	2012-02-26 07:08:43
-112	0x70	p	14298	3840394	swe	Han tyckte om poesi och musik.	herrsilen	2015-02-04 14:15:01	2015-02-04 14:15:01
-113	0x71	q	16	6389198	swe	Gillar du quinoa?	SilasNordgren	2017-10-19 13:30:59	2017-10-19 13:30:59
-114	0x72	r	49172	1125874	swe	Tom tror inte att detta är någon tillfällighet.	HannesP	2011-09-24 02:51:49	2011-09-24 02:51:49
-115	0x73	s	34162	8777284	swe	Var snäll och tänd lyset.	morbrorper	2020-05-21 04:26:22	2020-05-21 04:26:22
-116	0x74	t	44280	4384040	swe	Vart är jag på väg?	richke	2015-07-18 14:43:09	2015-07-18 14:43:09
-117	0x75	u	20040	9737391	swe	Min farbrors son är min kusin.	Cabo	2021-02-08 20:55:55	2021-02-08 20:55:55
-118	0x76	v	21353	12250701	swe	Vad heter huvudstaden i Jemen?	Adelpa	2024-01-04 11:31:43	2024-01-04 11:31:43
-119	0x77	w	141	12244275	swe	Vad heter Zimbabwes huvudstad?	Adelpa	2023-12-31 16:46:56	2023-12-31 16:46:56
-120	0x78	x	808	8940505	swe	Läraren låter någon läsa texten högt.	morbrorper	2020-07-26 06:57:40	2020-07-26 06:57:40
-121	0x79	y	7691	2094365	swe	Fyll i denna, tack.	herrsilen	2012-12-21 00:44:30	2012-12-21 00:44:30
-122	0x7a	z	123	12244506	swe	Astana är huvudstaden i Kazakstan.	Adelpa	2023-12-31 17:47:22	2023-12-31 17:47:22
+97	0x61	a	49727	5926084	swe	Snälla berätta vidare!	herrsilen	2017-03-07 15:21:51	\N
+98	0x62	b	13633	8944970	swe	Jag önskar er en bra dag.	Matteusmauritz	2020-07-28 11:12:35	2020-07-28 11:12:35
+99	0x63	c	9075	8737405	swe	Han stod med händerna i fickan.	morbrorper	2020-05-04 13:08:21	2020-05-04 13:08:21
+100	0x64	d	34471	4347212	swe	Borde jag klippa håret?	richke	2015-07-07 13:02:29	2015-07-07 13:02:29
+101	0x65	e	47973	11907097	swe	Vi tycker om barn.	herrsilen	2023-07-05 07:33:05	2023-07-05 07:33:05
+102	0x66	f	16020	2122241	swe	Betalade du för boken?	freddy1	2013-01-04 16:32:12	2013-01-04 16:32:12
+103	0x67	g	35396	4343768	swe	Han glömde hennes namn.	richke	2015-07-06 16:55:30	2015-07-06 16:55:30
+104	0x68	h	20422	4347985	swe	Jag har mina order.	richke	2015-07-07 17:49:30	2015-07-07 17:49:30
+105	0x69	i	39899	4374987	swe	Vi är bra vänner.	atropos	2015-07-15 14:36:44	2015-07-15 14:36:44
+106	0x6a	j	9748	3790006	swe	Tror du inte att jag är allvarlig?	herrsilen	2015-01-23 15:26:45	2015-01-23 15:26:45
+107	0x6b	k	28472	4317403	swe	Jag bad om att få pengarna tillbaka.	richke	2015-06-29 17:42:47	2015-06-29 17:42:47
+108	0x6c	l	31970	12097126	swe	Tom åker tillbaka till Australien i morgon.	johanrhg	2023-10-05 10:42:58	2023-10-05 10:42:58
+109	0x6d	m	29834	2111135	swe	Han tog en uppfriskande promenad.	herrsilen	2012-12-29 12:49:10	2012-12-29 12:49:10
+110	0x6e	n	44288	2513595	swe	De färdades efter en avsmalnande väg.	herrsilen	2013-06-21 12:41:28	2013-06-21 12:41:28
+111	0x6f	o	31364	4335377	swe	Barn tycker om sagor.	richke	2015-07-04 12:41:51	2015-07-04 12:41:51
+112	0x70	p	14307	11909197	swe	Min födelsedag infaller i juli, så jag planerar en liten fest.	herrsilen	2023-07-05 17:25:14	2023-07-05 17:25:14
+113	0x71	q	16	4328343	swe	Spelar du squash?	richke	2015-07-02 15:22:34	2015-07-02 15:22:34
+114	0x72	r	49198	7681205	swe	Detta kommer kosta 30 €.	nickrobson	2019-01-02 19:10:16	2019-01-02 19:10:30
+115	0x73	s	34185	10618998	swe	Denna mening består av sex ord.	morbrorper	2022-01-11 19:38:47	2022-01-11 19:38:47
+116	0x74	t	44306	4371081	swe	Tror du att det kommer att göra någon skillnad?	richke	2015-07-14 13:15:58	2015-07-14 13:15:58
+117	0x75	u	20053	11910660	swe	Tom sa att han skulle hjälpa oss att måla vårt hus.	herrsilen	2023-07-06 06:39:00	2023-07-06 06:39:00
+118	0x76	v	21369	11914372	swe	Hämta en kniv.	herrsilen	2023-07-07 13:03:03	2023-07-07 13:03:03
+119	0x77	w	141	3829725	swe	Vilken webbläsare använder du?	Pineapple	2015-02-01 18:59:04	2022-11-06 18:20:42
+120	0x78	x	808	1125891	swe	Han besökte ett barnhem i Texas.	HannesP	2011-09-24 02:59:11	2011-09-24 02:59:11
+121	0x79	y	7693	1972103	swe	Jag klarar inte av synen av blod.	herrsilen	2012-11-01 00:51:13	2012-11-01 00:51:13
+122	0x7a	z	124	2591781	swe	Jimmy insisterade på att jag skulle ta honom till zoot.	herrsilen	2013-07-14 14:12:47	2013-07-14 14:12:47
 160	0xa0	 	2	2146191	swe	Alla i Tyskland har rätt att vistas ute i naturen.	jeedrek	2013-01-15 19:42:49	2013-01-15 20:32:03
 173	0xad	­	1	1226725	swe	Efter avslutat samtal sä­­ger han vänligt adjö och önskar mig en trevlig kväll.	PeterR	2011-11-09 12:23:31	2011-11-09 12:23:31
-196	0xc4	Ä	1036	11164035	swe	"Är han psykiater?" "Nej, han är en av patienterna."	Pineapple	2022-10-08 10:07:12	2022-10-08 10:07:17
-197	0xc5	Å	72	8893846	swe	Ångesten var omöjlig att med ord beskriva.	morbrorper	2020-07-05 13:05:07	2020-07-05 13:05:07
-214	0xd6	Ö	106	9622173	swe	Översätt inte ord för ord.	morbrorper	2021-01-09 10:32:34	2021-01-09 10:32:34
+196	0xc4	Ä	1036	3790876	swe	Är min franska verkligen så dålig?	herrsilen	2015-01-23 20:08:59	2015-01-23 20:08:59
+197	0xc5	Å	72	9163199	swe	Åldern är oviktig.	morbrorper	2020-10-19 11:14:42	2020-10-19 11:14:42
+214	0xd6	Ö	106	9714643	swe	Ön har en fin hamn.	morbrorper	2021-02-03 07:49:34	2021-02-03 07:49:34
 224	0xe0	à	2	2181505	swe	De spelade à quatre mains.	herrsilen	2013-02-01 17:28:42	2013-02-01 17:28:42
-225	0xe1	á	2	12244942	swe	Colombias huvudstad heter Bogotá.	Adelpa	2023-12-31 21:11:39	2023-12-31 21:11:39
-228	0xe4	ä	27898	11061859	swe	Jag borde ha berättat för Maria att jag älskade henne.	SilasNordgren	2022-08-14 19:27:50	2022-08-14 19:27:50
-229	0xe5	å	18323	3817880	swe	Tom låg på sjukhuset i över en vecka.	Balamax	2015-02-01 08:46:42	2015-02-01 08:46:42
-231	0xe7	ç	2	2172106	swe	François, är detta ditt?	herrsilen	2013-01-28 11:14:07	2013-01-28 11:14:07
-233	0xe9	é	180	11061883	swe	Tycker du om européer?	SilasNordgren	2022-08-14 19:30:35	2022-08-14 19:30:35
-237	0xed	í	2	4388127	swe	Anaís är ett vackert kvinnonamn av grekiskt ursprung.	richke	2015-07-19 17:20:58	2015-07-19 17:20:58
-246	0xf6	ö	16068	3874128	swe	Varför är du inte där?	herrsilen	2015-02-17 09:30:13	2015-02-17 09:30:13
+225	0xe1	á	2	12244951	swe	Huvudstaden i Colombia heter Bogotá.	Adelpa	2023-12-31 21:13:28	2023-12-31 21:13:28
+228	0xe4	ä	27913	6399383	swe	Sami är en skrupelfri lögnare.	SilasNordgren	2017-10-26 18:49:41	2017-10-26 18:49:41
+229	0xe5	å	18333	3830631	swe	Fråga mamma!	herrsilen	2015-02-01 21:07:39	2015-02-01 21:07:39
+231	0xe7	ç	2	2170433	swe	François, är denna din?	martinmartin	2013-01-27 11:16:23	2013-01-27 20:20:40
+233	0xe9	é	180	4449550	swe	Jag har fått lite idéer.	richke	2015-08-13 08:24:11	2015-08-13 08:24:11
+237	0xed	í	2	921563	swe	Tímea är en ungrare som bor i Polen.	Tximist	2011-06-02 23:17:05	2011-06-02 23:17:05
+246	0xf6	ö	16073	10660993	swe	Varför tar du så mycket medicin?	Pineapple	2022-02-05 19:46:49	2022-02-05 19:46:49
 248	0xf8	ø	1	9840538	swe	Danskt "rugbrød", ett bröd gjort av rågmjöl, är känt över hela världen.	morbrorper	2021-03-13 08:42:37	2021-03-13 08:42:37
 252	0xfc	ü	2	1141948	swe	Zürich betraktas som en större finansiell knutpunkt.	arahlen	2011-10-01 22:43:06	2011-10-01 22:43:06
 287	0x11f	ğ	1	9523122	swe	Erdoğan är Turkiets president.	herrsilen	2020-12-22 19:25:12	2023-07-05 08:21:24
 353	0x161	š	1	10952180	swe	Jag heter Dušana.	GabrielPires	2022-06-30 18:06:38	2022-06-30 18:06:38
-8211	0x2013	–	14	5885145	swe	Ställ inga frågor – följ bara med mig!	herrsilen	2017-02-19 20:15:31	\N
-8212	0x2014	—	3	7864056	swe	Mina föräldrar förstår mig inte — bara mormor förstår mig.	mr_vile	2019-04-22 01:29:27	2019-04-22 01:29:27
+8211	0x2013	–	14	1248350	swe	En riktig cider för mig ska ha en doft av mogna äpplen med frisk äppelsyra och en viss skalbeska – torr med toner av fruktsötma.	PeterR	2011-11-19 14:46:11	2011-11-19 14:46:11
+8212	0x2014	—	3	8955603	swe	Nu har jag pengar — 100 euro i kontanter. Nu ska jag försöka att hitta apoteket innan jag går tillbaka. Ursäkta mig, frun, var kan jag hitta apoteket?	mr_vile	2020-08-03 00:13:29	2020-08-03 00:13:29
 8217	0x2019	’	2	1332017	swe	Jag jobbar på McDonald’s.	Mauritz	2011-12-31 04:33:49	2015-02-06 16:46:13
-8221	0x201d	”	148	1960777	swe	”Skicka mig saltet, tack.” ”Varsågod.”	herrsilen	2012-10-28 15:23:09	2015-01-25 22:27:28
+8221	0x201d	”	148	3436236	swe	”Jag undrar varför spöken bara kommer fram på natten.” ”Va, jag har sett spöken på dagen.” ”Allvarligt?”	Don3187	2014-08-18 01:54:31	2015-02-10 12:24:32
 8230	0x2026	…	4	5940088	swe	Oliktänkande … tänker också.	herrsilen	2017-03-11 14:58:34	\N
 8364	0x20ac	€	2	7681204	swe	Det här kommer kosta 30 €.	nickrobson	2019-01-02 19:10:11	2019-01-02 19:10:29

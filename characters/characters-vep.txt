@@ -1,62 +1,62 @@
-32	0x20	 	400	12101246	vep	Lumi sulab.	Wezel	2023-10-07 22:28:00	2023-10-07 22:28:00
-33	0x21	!	23	12145430	vep	Hüväd Äipäiväd!	Wezel	2023-11-04 16:53:39	2023-11-04 16:53:39
-44	0x2c	,	51	12146657	vep	Tervhen, kut elät?	Wezel	2023-11-05 08:34:17	2023-11-05 08:34:17
-45	0x2d	-	29	12094613	vep	Hätkeks-ik tulid tänna?	Wezel	2023-10-03 20:10:53	2023-10-03 20:10:53
-46	0x2e	.	334	12096200	vep	Kaži job maidod.	Wezel	2023-10-04 18:08:08	2023-10-04 18:08:08
-58	0x3a	:	5	12092641	vep	Sinä sanud: minä olen bohat, minä bohattuin, minai ei ole mairišt miš-ni! A sinä ed teda, mitte oled ozatoi, rauk, goll’, soged da alastoi.	Wezel	2023-10-02 18:49:52	2023-10-02 18:49:52
+32	0x20	 	400	12148445	vep	Hän om völ nor’.	Wezel	2023-11-06 08:03:00	2023-11-06 08:03:00
+33	0x21	!	23	12096268	vep	Hüväd litud!	Wezel	2023-10-04 18:50:25	2023-10-04 18:50:25
+44	0x2c	,	51	12092355	vep	Minä tedan, kut sindai kuctas.	Wezel	2023-10-02 15:52:15	2023-10-02 15:52:15
+45	0x2d	-	29	12145384	vep	Oma-k kaik joucned vauktad?	Wezel	2023-11-04 16:34:52	2023-11-04 16:34:52
+46	0x2e	.	334	12092762	vep	Tuli mez’, kudamban oli oigendanu Jumal. Hänen nimi oli Joan.	Wezel	2023-10-02 20:18:35	2023-10-02 20:18:35
+58	0x3a	:	5	12092751	vep	Konz Pilat nägišti, miše nimi ei abuta, a zavodiše tora, hän oti vet, pezi ičeze käded rahvahan sil’miš i sanui: «Minä en ole vär necen oiktan mehen veres».	Wezel	2023-10-02 20:12:39	2023-10-02 20:12:39
 59	0x3b	;	1	12092635	vep	Se, kudamb tegeb pahad, ei navedi lämoid; hän ei tule lämoinnoks sikš, miše hänen pahad tegod ei pall’astuiži.	Wezel	2023-10-02 18:46:05	2023-10-02 18:46:05
-63	0x3f	?	52	12090341	vep	Kus om keitai?	Wezel	2023-10-01 09:07:49	2023-10-01 09:07:49
-65	0x41	A	12	12094644	vep	Avaida sil’mäd, Tom.	Wezel	2023-10-03 20:53:15	2023-10-03 20:53:15
-66	0x42	B	11	12090559	vep	Tom eläb Bostonas.	Wezel	2023-10-01 11:59:03	2023-10-01 11:59:03
+63	0x3f	?	52	12146713	vep	Kus teiden lapsed oliba?	Wezel	2023-11-05 09:27:40	2023-11-05 09:27:40
+65	0x41	A	12	12094639	vep	Avaida su i ozuta kel’.	Wezel	2023-10-03 20:47:52	2023-10-03 20:47:52
+66	0x42	B	11	12090557	vep	Hö oma Bostonas.	Wezel	2023-10-01 11:58:22	2023-10-01 11:58:22
 68	0x44	D	1	12119670	vep	Olgat hüväd, kaks’ biletad San-Diegohosai.	Wezel	2023-10-21 11:01:57	2023-10-21 11:01:57
-69	0x45	E	7	12114065	vep	Eglai paštoi päiväine.	Wezel	2023-10-18 15:44:07	2023-10-18 15:44:07
-72	0x48	H	46	12145416	vep	Hüvid lebupäivid!	Wezel	2023-11-04 16:43:57	2023-11-04 16:43:57
-73	0x49	I	7	12092772	vep	Konz Iisus nägišti, miše Nafanail astub hänennoks, hän sanui: «Naku om todesine izrail’aine! Hän ei ole vällišpä».	Wezel	2023-10-02 20:24:52	2023-10-02 20:24:52
-74	0x4a	J	14	12092615	vep	Armastuz om tirpai, armastuz om sula. Armastuz ei kadehti, ei kitte, ei ülendelde, ei vedä ičtaze pahoin, ei eci ičeleze hüväd, ei abittu, ei mušta ičeleze tehtud pahad, ei ihastu värhudehe, a om hüviš meliš, konz vägestab tozi. Se kaiken katab, kaikes uskob, kaiken nadeiše, kaiken tirpab. Armastuz nikonz ei kado. No Jumalan vestiden sanelend lopiše, tundmatomil kelil pagižend hilleneb, i tedo lopiše.	Wezel	2023-10-02 18:38:27	2023-10-02 18:38:27
-75	0x4b	K	48	5192493	vep	Ken naku om?	sikmir	2016-06-04 22:17:53	2016-06-04 22:18:04
-76	0x4c	L	19	12141834	vep	Londuz om vihand.	Wezel	2023-11-02 15:49:22	2023-11-02 15:49:22
-77	0x4d	M	84	12094605	vep	Mö segoim mecha.	Wezel	2023-10-03 20:03:23	2023-10-03 20:03:23
-78	0x4e	N	21	12145379	vep	Nece joucen om must.	Wezel	2023-11-04 16:31:48	2023-11-04 16:31:48
-79	0x4f	O	20	12090332	vep	Om-ik Tom lekar’?	Wezel	2023-10-01 08:52:24	2023-10-01 08:52:24
-80	0x50	P	19	12105871	vep	Pöud om kattud lumel.	Wezel	2023-10-10 21:03:00	2023-10-10 21:03:00
-82	0x52	R	4	12090258	vep	Redukus naku paksus vihmub.	Wezel	2023-10-01 06:52:27	2023-10-01 06:52:27
-83	0x53	S	31	12090232	vep	Se aig om mända.	Wezel	2023-10-01 06:18:13	2023-10-01 06:18:13
-84	0x54	T	89	12090323	vep	Tom om lekar’ i kirjutai.	Wezel	2023-10-01 08:31:14	2023-10-01 08:31:14
-85	0x55	U	3	12145385	vep	Uitos ujuba sorzad da joucned.	Wezel	2023-11-04 16:36:41	2023-11-04 16:36:41
-86	0x56	V	12	7885072	vep	Tulgat tervhin Vikipedijaha.	Thanuir	2019-05-03 07:30:01	2019-05-03 07:30:05
-97	0x61	a	342	12119685	vep	To vajehnik, ole hüvä.	Wezel	2023-10-21 11:09:49	2023-10-21 11:09:49
-98	0x62	b	125	12089474	vep	Tämbei sinun poigal om praznik.	Wezel	2023-09-30 17:09:56	2023-09-30 17:09:56
-99	0x63	c	44	12092700	vep	Ecii löudab.	Wezel	2023-10-02 19:32:22	2023-10-02 19:32:22
-100	0x64	d	246	12109533	vep	Tom om mecnik da kalanik.	Wezel	2023-10-12 19:40:56	2023-10-12 19:40:56
-101	0x65	e	305	12096198	vep	Hän läksi elospäi viž vot tagaze.	Wezel	2023-10-04 18:04:57	2023-10-04 18:04:57
-102	0x66	f	6	12092772	vep	Konz Iisus nägišti, miše Nafanail astub hänennoks, hän sanui: «Naku om todesine izrail’aine! Hän ei ole vällišpä».	Wezel	2023-10-02 20:24:52	2023-10-02 20:24:52
-103	0x67	g	125	12089474	vep	Tämbei sinun poigal om praznik.	Wezel	2023-09-30 17:09:56	2023-09-30 17:09:56
-104	0x68	h	131	12090344	vep	Tom om hüvä keitai.	Wezel	2023-10-01 09:08:52	2023-10-01 09:08:52
-105	0x69	i	350	12148638	vep	Ročinman eläjiden lugu kazvab.	Wezel	2023-11-06 12:05:00	2023-11-06 12:05:00
-106	0x6a	j	75	12095895	vep	Kaikuččel lindul om ičeze pajo.	Wezel	2023-10-04 15:42:45	2023-10-04 15:42:45
-107	0x6b	k	198	12089521	vep	Mikš? Sikš miše minä muga sanuin.	Wezel	2023-09-30 17:19:32	2023-09-30 17:19:32
-108	0x6c	l	226	12101627	vep	Sadab lunt.	Wezel	2023-10-08 07:41:12	2023-10-08 07:41:12
-109	0x6d	m	284	12096350	vep	Mecas oli pimed.	Wezel	2023-10-04 20:44:04	2023-10-04 20:44:04
-110	0x6e	n	280	12105849	vep	Tö et el’genugoi.	Wezel	2023-10-10 20:39:50	2023-10-10 20:39:50
-111	0x6f	o	305	12094607	vep	Mikš sinä segoid mecha?	Wezel	2023-10-03 20:04:59	2023-10-03 20:04:59
-112	0x70	p	117	5192462	vep	Sinnä pidab mända mecröunaiči.	sikmir	2016-06-04 21:51:56	2016-06-04 21:52:00
-114	0x72	r	121	12101223	vep	Toman sebranikad kuctas Peteraks.	Wezel	2023-10-07 21:17:05	2023-10-20 18:58:42
-115	0x73	s	204	12146713	vep	Kus teiden lapsed oliba?	Wezel	2023-11-05 09:27:40	2023-11-05 09:27:40
-116	0x74	t	218	12094617	vep	Algat tokadagoiš seinha, se om vaiše mujutadud.	Wezel	2023-10-03 20:15:43	2023-10-03 20:15:43
-117	0x75	u	225	12089842	vep	Nece om kaks’žiruine pert’.	Wezel	2023-09-30 19:52:26	2023-09-30 19:52:26
-118	0x76	v	155	12141916	vep	Hän om teiden vihanik.	Wezel	2023-11-02 16:09:53	2023-11-02 16:09:53
-122	0x7a	z	71	12146695	vep	Hänel om sur’ kanz.	Wezel	2023-11-05 09:08:33	2023-11-05 09:08:33
-171	0xab	«	3	12092520	vep	«Kuna tö mänet?» – «Kinoho».	Wezel	2023-10-02 17:25:20	2023-10-02 17:25:20
-187	0xbb	»	3	12092520	vep	«Kuna tö mänet?» – «Kinoho».	Wezel	2023-10-02 17:25:20	2023-10-02 17:25:20
-196	0xc4	Ä	7	12146655	vep	Äjak päiväd om vilukus?	Wezel	2023-11-05 08:32:11	2023-11-05 08:32:11
-214	0xd6	Ö	3	12096344	vep	Öl om pimed.	Wezel	2023-10-04 20:43:01	2023-10-04 20:43:01
-220	0xdc	Ü	2	9603689	vep	Necil oiktudel ei voi olda väged, konz küzünd om todeks ei politižes pahas tegos vai Ühthižrahvazkundan pätegendoid i principoid vastkaroičijas tegos.	Thanuir	2021-01-07 12:01:06	2021-01-07 12:01:13
-228	0xe4	ä	215	12100820	vep	Eglai vihmui, tämbei om hüvä sä.	Wezel	2023-10-07 16:21:21	2023-10-07 16:21:21
-246	0xf6	ö	56	12105773	vep	Tom radoi pol’öhösai.	Wezel	2023-10-10 19:42:40	2023-10-10 19:42:40
-252	0xfc	ü	57	12090277	vep	Om-ik teil kaik hüvä?	Wezel	2023-10-01 07:10:09	2023-10-01 07:10:09
-269	0x10d	č	33	12092611	vep	Rahanhimo om kaikenlaižen pahan jur’. Rahan ectes erased segoiba uskondan tespäi i saiba ičeleze sen tagut äi mokid.	Wezel	2023-10-02 18:31:09	2023-10-02 18:31:09
-353	0x161	š	58	12092828	vep	Hätken-ik völ jumalatomad linneba hüviš meliš?	Wezel	2023-10-02 20:56:11	2023-10-02 20:56:11
+69	0x45	E	7	12092618	vep	En tege sidä hüväd, midä tahtoin, a tegen sidä pahad, midä en tahtoi.	Wezel	2023-10-02 18:39:50	2023-10-02 18:39:50
+72	0x48	H	46	12105851	vep	Hän ei el’gendand.	Wezel	2023-10-10 20:40:56	2023-10-10 20:40:56
+73	0x49	I	7	12092681	vep	I konz abutad gollile, ala torda torvehe, kut tegeba koiverdelijad suimpertiš i irdal, miše mehed kitäižiba heid. Todeks sanun teile: hö oma sanuded jo ičeze paukan.	Wezel	2023-10-02 19:13:01	2023-10-02 19:13:01
+74	0x4a	J	14	12092734	vep	Ozavad oma puhtazsüdäimeližed: hö nägištaba Jumalan.	Wezel	2023-10-02 19:59:11	2023-10-02 19:59:11
+75	0x4b	K	48	12119734	vep	Kaikjal om jä.	Wezel	2023-10-21 11:28:33	2023-10-21 11:28:33
+76	0x4c	L	19	12141832	vep	Londuz heraštub.	Wezel	2023-11-02 15:47:38	2023-11-02 15:47:38
+77	0x4d	M	84	12092340	vep	Midä sinä tahtoid?	Wezel	2023-10-02 15:48:29	2023-10-02 15:48:29
+78	0x4e	N	21	12092836	vep	Nju Jorkan irdad oma lujas levedad.	Wezel	2023-10-02 21:10:04	2023-10-02 21:10:04
+79	0x4f	O	20	12119680	vep	Ozutagat teiden bilet, olgat hüväd.	Wezel	2023-10-21 11:06:37	2023-10-21 11:06:37
+80	0x50	P	19	12101223	vep	Toman sebranikad kuctas Peteraks.	Wezel	2023-10-07 21:17:05	2023-10-20 18:58:42
+82	0x52	R	4	12145422	vep	Hüvid Raštvoid!	Wezel	2023-11-04 16:46:03	2023-11-04 16:46:03
+83	0x53	S	31	12095857	vep	Saubakat uks’.	Wezel	2023-10-04 15:25:09	2023-10-04 15:25:09
+84	0x54	T	89	12119718	vep	Togat minei avadim.	Wezel	2023-10-21 11:20:35	2023-10-21 11:20:35
+85	0x55	U	3	5192487	vep	Uden vodenke!	sikmir	2016-06-04 22:14:59	2021-10-21 07:33:23
+86	0x56	V	12	12092613	vep	Armastuses ei ole varaidust, täuz’ armastuz kükseb varaidusen. Varaiduz iče-ki om jo mok, i ken varaidab, hänes armastuz völ ei ole tehnus täudeks.	Wezel	2023-10-02 18:33:38	2023-10-02 18:33:38
+97	0x61	a	342	12096192	vep	Tom ei ole minun sebranik.	Wezel	2023-10-04 18:00:21	2023-10-04 18:00:21
+98	0x62	b	125	12112306	vep	Minä olen adivoiš sebranikoidenno.	Wezel	2023-10-17 15:56:27	2023-10-17 15:56:27
+99	0x63	c	44	12094604	vep	Hän segoi mecha.	Wezel	2023-10-03 20:03:13	2023-10-03 20:03:13
+100	0x64	d	246	12090254	vep	Vihmub-ik paksus neciš lidnas?	Wezel	2023-10-01 06:48:26	2023-10-01 06:48:26
+101	0x65	e	305	12089808	vep	Tom eläb naku.	Wezel	2023-09-30 19:19:48	2023-09-30 19:19:48
+102	0x66	f	6	12141837	vep	Afrikan londuz om bohat.	Wezel	2023-11-02 15:50:45	2023-11-02 15:50:45
+103	0x67	g	125	12105849	vep	Tö et el’genugoi.	Wezel	2023-10-10 20:39:50	2023-10-10 20:39:50
+104	0x68	h	131	12092659	vep	Hän tuli ičeze rahvahannoks, no hänen rahvaz ei vasttand händast.	Wezel	2023-10-02 19:06:28	2023-10-02 19:06:28
+105	0x69	i	350	12119692	vep	Togat vilud vet, olgat hüväd.	Wezel	2023-10-21 11:13:35	2023-10-21 11:13:35
+106	0x6a	j	75	12089827	vep	Jä jogel om völ hoik i räbed.	Wezel	2023-09-30 19:33:28	2023-09-30 19:33:28
+107	0x6b	k	198	12119698	vep	To minei kofed.	Wezel	2023-10-21 11:16:10	2023-10-21 11:16:10
+108	0x6c	l	226	12094658	vep	Minä olin siloi Kanadas.	Wezel	2023-10-03 21:21:11	2023-10-03 21:21:11
+109	0x6d	m	284	12092751	vep	Konz Pilat nägišti, miše nimi ei abuta, a zavodiše tora, hän oti vet, pezi ičeze käded rahvahan sil’miš i sanui: «Minä en ole vär necen oiktan mehen veres».	Wezel	2023-10-02 20:12:39	2023-10-02 20:12:39
+110	0x6e	n	280	12090275	vep	Minai om kaik hüvä.	Wezel	2023-10-01 07:06:48	2023-10-01 07:06:48
+111	0x6f	o	305	12148445	vep	Hän om völ nor’.	Wezel	2023-11-06 08:03:00	2023-11-06 08:03:00
+112	0x70	p	117	12102521	vep	Kerakat stolalpäi.	Wezel	2023-10-08 19:07:09	2023-10-08 19:07:09
+114	0x72	r	121	12102507	vep	Kerada stolalpäi.	Wezel	2023-10-08 19:05:31	2023-10-08 19:05:31
+115	0x73	s	204	12089352	vep	Hö longitadas.	Wezel	2023-09-30 16:08:54	2023-09-30 16:12:58
+116	0x74	t	218	12090380	vep	Tom kirjutab dädäle.	Wezel	2023-10-01 09:52:40	2023-10-01 09:52:40
+117	0x75	u	225	12092770	vep	No mikš abidoitta heid? Mäne järvele i taci ong vedhe. Ota ezmäine kala, kudamb putub ongele, i avaida sen su. Sigä om statir-raha. Ota se i maksa sil heile minus dai sinus.	Wezel	2023-10-02 20:22:48	2023-10-02 20:22:48
+118	0x76	v	155	12090274	vep	Om-ik kaik hüvä?	Wezel	2023-10-01 07:04:26	2023-10-01 07:04:26
+122	0x7a	z	71	12092762	vep	Tuli mez’, kudamban oli oigendanu Jumal. Hänen nimi oli Joan.	Wezel	2023-10-02 20:18:35	2023-10-02 20:18:35
+171	0xab	«	3	12092751	vep	Konz Pilat nägišti, miše nimi ei abuta, a zavodiše tora, hän oti vet, pezi ičeze käded rahvahan sil’miš i sanui: «Minä en ole vär necen oiktan mehen veres».	Wezel	2023-10-02 20:12:39	2023-10-02 20:12:39
+187	0xbb	»	3	12092772	vep	Konz Iisus nägišti, miše Nafanail astub hänennoks, hän sanui: «Naku om todesine izrail’aine! Hän ei ole vällišpä».	Wezel	2023-10-02 20:24:52	2023-10-02 20:24:52
+196	0xc4	Ä	7	12145430	vep	Hüväd Äipäiväd!	Wezel	2023-11-04 16:53:39	2023-11-04 16:53:39
+214	0xd6	Ö	3	12096343	vep	Ö oli pimed.	Wezel	2023-10-04 20:41:46	2023-10-04 20:41:46
+220	0xdc	Ü	2	7918868	vep	Üks’, kaks’, koume, nell’, viž, kuz’, seičeme, kahesa, ühesa, kümne.	Wezel	2019-05-18 12:58:07	2023-09-30 19:40:10
+228	0xe4	ä	215	12090273	vep	Kaik om hüvä.	Wezel	2023-10-01 07:04:14	2023-10-01 07:04:14
+246	0xf6	ö	56	12092700	vep	Ecii löudab.	Wezel	2023-10-02 19:32:22	2023-10-02 19:32:22
+252	0xfc	ü	57	12145424	vep	Hüväd ehtad!	Wezel	2023-11-04 16:47:25	2023-11-04 16:47:25
+269	0x10d	č	33	12101640	vep	Pus čičitiba lindud.	Wezel	2023-10-08 08:04:09	2023-10-08 08:04:09
+353	0x161	š	58	12092770	vep	No mikš abidoitta heid? Mäne järvele i taci ong vedhe. Ota ezmäine kala, kudamb putub ongele, i avaida sen su. Sigä om statir-raha. Ota se i maksa sil heile minus dai sinus.	Wezel	2023-10-02 20:22:48	2023-10-02 20:22:48
 381	0x17d	Ž	1	12116801	vep	Žan ecib pokemonoid.	Wezel	2023-10-19 21:36:42	2023-10-19 21:36:42
-382	0x17e	ž	37	12148455	vep	Päiväine nouzeb edahaižen mecan tagapäi.	Wezel	2023-11-06 08:40:21	2023-11-06 08:40:21
+382	0x17e	ž	37	12092697	vep	Lekar’, tege tervheks ičtaiž!	Wezel	2023-10-02 19:31:14	2023-10-02 19:31:14
 8211	0x2013	–	1	12092520	vep	«Kuna tö mänet?» – «Kinoho».	Wezel	2023-10-02 17:25:20	2023-10-02 17:25:20
-8217	0x2019	’	64	12090324	vep	Tom ei ole lekar’.	Wezel	2023-10-01 08:32:04	2023-10-01 08:32:04
+8217	0x2019	’	64	12144385	vep	Minai om üks’ vel’l’ da koume sizart.	Wezel	2023-11-04 08:20:16	2023-11-04 08:20:16

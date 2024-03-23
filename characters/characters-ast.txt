@@ -1,82 +1,82 @@
-32	0x20	 	485	12021773	ast	Les llibreríes nun son biblioteques.	enolp	2023-08-28 18:44:30	2023-08-28 18:44:30
-33	0x21	!	94	9728794	ast	Adiós!	mialiesperantistas	2021-02-05 22:31:37	2021-02-05 22:31:37
-34	0x22	"	6	9728666	ast	La publicación del primer llibru de "El Señor de los Aniellos" polo autor británicu Tolkien n'asturianu ye una mui bona noticia pa la lliteratura asturiana y pal propiu idioma.	mialiesperantistas	2021-02-05 21:51:31	2021-02-05 21:54:32
-39	0x27	'	88	11976834	ast	Tien de dir al bañu cuando la comida tá servía, siempres ye asina d'inoportunu.	Fueyes	2023-08-02 16:26:55	2023-08-02 16:26:55
-44	0x2c	,	81	3813209	ast	Por favor, dime lo que quies.	\N	2015-01-30 23:49:48	2015-01-30 23:49:54
-45	0x2d	-	21	5457348	ast	Dio-ylu el to xenru, que-y fía bona falta.	Mouguias	2016-09-20 19:41:23	2016-09-21 14:13:18
-46	0x2e	.	453	12021785	ast	El mundu nun se fixo nel tiempu, sinón con tiempu.	enolp	2023-08-28 18:48:36	2023-08-28 18:48:36
+32	0x20	 	485	909285	ast	¿Necesites les llaves?	Duernu	2011-05-25 22:44:29	2011-05-25 22:44:29
+33	0x21	!	94	12373311	ast	¡Valió!	Fueyes	2024-03-15 20:49:47	2024-03-15 20:49:47
+34	0x22	"	6	871194	ast	"¿Ye ella moza?" "Sí."	Duernu	\N	2011-05-11 18:53:48
+39	0x27	'	88	12253112	ast	N'anguañu, esi afirmamientu nun pue facese definitivo.	Fueyes	2024-01-05 20:23:31	2024-01-05 20:23:31
+44	0x2c	,	81	12253151	ast	Naide vien equí, nun siendo que tengan una bona razón.	Fueyes	2024-01-05 20:36:40	2024-01-05 20:36:40
+45	0x2d	-	21	909269	ast	Dixo que diba a echa-yos una mano.	Duernu	2011-05-25 22:39:52	2011-05-25 22:39:52
+46	0x2e	.	453	11976663	ast	L'atmósfera d'esti llugar ye andromática.	Fueyes	2023-08-02 15:43:24	2023-08-02 15:43:24
 48	0x30	0	2	12021814	ast	1000 m son 1 km.	enolp	2023-08-28 19:07:24	2023-08-28 19:07:24
-49	0x31	1	3	12021814	ast	1000 m son 1 km.	enolp	2023-08-28 19:07:24	2023-08-28 19:07:24
+49	0x31	1	3	11976786	ast	¿Tienen vós 17 años?	Fueyes	2023-08-02 16:13:29	2023-08-02 16:13:29
 50	0x32	2	1	12253050	ast	De normal, empreses d'impresión de pel mundu tán dispuestes a pagar quiciabes un 20 per cientu premium pa mercar una impresora d'Alemaña, pues les impresores alemanes son mui sólides y tán mecanizaes a tolerancies esixentes.	Fueyes	2024-01-05 19:58:10	2024-01-05 19:58:10
 55	0x37	7	1	11976786	ast	¿Tienen vós 17 años?	Fueyes	2023-08-02 16:13:29	2023-08-02 16:13:29
 56	0x38	8	1	11976640	ast	Merqué'l mi primer coche'n 1998.	Fueyes	2023-08-02 15:38:30	2023-08-02 15:38:30
 57	0x39	9	1	11976640	ast	Merqué'l mi primer coche'n 1998.	Fueyes	2023-08-02 15:38:30	2023-08-02 15:38:30
-58	0x3a	:	2	2141770	ast	Béteme o mío secreto. Ye muito simple: no se bei bien sino con o corazón. Tot lo esenzial ye imbeyible t'os güellos.	madoromi	2013-01-13 10:51:16	2014-03-21 09:52:29
+58	0x3a	:	2	12253040	ast	La nuestra cena güei va ser mui cenciella: pan, quesu de cabra, figos y vino.	Fueyes	2024-01-05 19:52:22	2024-01-05 19:52:30
 59	0x3b	;	1	11976762	ast	Esta novela nun ye más que una retafila d'acontecimientos unu tres otru; nun tien estructura.	Fueyes	2023-08-02 16:07:20	2023-08-02 16:07:20
-63	0x3f	?	73	12253142	ast	¿Pienses que Tom quiciabes quier dir a Boston con nós?	Fueyes	2024-01-05 20:31:51	2024-01-05 20:31:51
-65	0x41	A	34	9728969	ast	Atentamente.	mialiesperantistas	2021-02-05 23:40:53	2021-02-05 23:40:53
-66	0x42	B	22	9728805	ast	Bésame.	mialiesperantistas	2021-02-05 22:42:05	2021-02-05 22:42:05
-67	0x43	C	41	12253043	ast	¿Cualos de los llibros que t'empresté prestáronte más?	Fueyes	2024-01-05 19:53:52	2024-01-05 19:53:52
-68	0x44	D	31	11976710	ast	Déxame entrar otra vegada.	Fueyes	2023-08-02 15:53:51	2023-08-02 15:53:51
-69	0x45	E	123	3349073	ast	¡Entaína ho!	andrmene	2014-06-29 13:31:01	2014-06-29 13:31:08
-70	0x46	F	20	9728801	ast	Fuerza!	mialiesperantistas	2021-02-05 22:39:44	2021-02-05 22:39:44
-71	0x47	G	6	9728958	ast	Gracies!	mialiesperantistas	2021-02-05 23:36:04	2021-02-05 23:36:04
-72	0x48	H	9	9728766	ast	Hola!	mialiesperantistas	2021-02-05 22:12:40	2021-02-05 22:12:40
-73	0x49	I	3	3349887	ast	El budismu orixinose na India.	andrmene	2014-06-29 20:42:33	2014-06-29 20:43:31
-75	0x4b	K	3	3714313	ast	El Burj Khalifa ye por agora el rascacielos más altu del mundu.	Balamax	2014-12-27 22:19:44	2015-01-17 09:46:41
-76	0x4c	L	66	11976678	ast	¡Qué coincidencia! La mio corbata ye egual a la de to.	Fueyes	2023-08-02 15:46:51	2023-08-02 15:46:51
-77	0x4d	M	30	5530608	ast	¡Meca!	Mouguias	2016-10-19 15:03:17	2016-10-19 15:03:42
-78	0x4e	N	58	11976881	ast	Naide piensa asina.	Fueyes	2023-08-02 16:35:35	2023-08-02 16:35:35
-80	0x50	P	52	11976771	ast	N'un mes taré'n París.	Fueyes	2023-08-02 16:09:42	2023-08-02 16:09:42
-81	0x51	Q	21	5167041	ast	¿Qué faes aende?	Silvestre	2016-05-26 14:29:11	2016-05-26 14:29:11
-82	0x52	R	8	9731580	ast	Ridículu!	mialiesperantistas	2021-02-06 18:07:11	2021-02-06 18:07:11
+63	0x3f	?	73	11976772	ast	¿Nun esiste otru métodu?	Fueyes	2023-08-02 16:09:56	2023-08-02 16:09:56
+65	0x41	A	34	3349170	ast	Al platu vendrás arbeyu, seas xóven o seas vieyu.	andrmene	2014-06-29 14:12:08	2014-06-29 14:12:08
+66	0x42	B	22	3714313	ast	El Burj Khalifa ye por agora el rascacielos más altu del mundu.	Balamax	2014-12-27 22:19:44	2015-01-17 09:46:41
+67	0x43	C	41	12253107	ast	Camereru, por favor. Necesito una cuyar pa la sopa.	Fueyes	2024-01-05 20:21:09	2024-01-05 20:21:09
+68	0x44	D	31	3349176	ast	¿D'ú vienes?	andrmene	2014-06-29 14:13:42	2014-06-29 14:13:42
+69	0x45	E	123	11976950	ast	El cachopu sigue siendo meyor que'l kebab.	Fueyes	2023-08-02 16:45:59	2023-08-02 16:45:59
+70	0x46	F	20	11976929	ast	¿Fumes?	Fueyes	2023-08-02 16:40:53	2023-08-02 16:40:53
+71	0x47	G	6	11976682	ast	Güei pasélu perbien con vosotres.	Fueyes	2023-08-02 15:47:41	2023-08-02 15:47:41
+72	0x48	H	9	9728790	ast	Digo "Hola, amiga.".	mialiesperantistas	2021-02-05 22:30:29	2021-02-05 22:30:29
+73	0x49	I	3	5491456	ast	Inda nun atopé trabayu.	Mouguias	2016-10-04 08:08:45	2016-10-04 08:08:45
+75	0x4b	K	3	7806261	ast	Kawasaki tien fabriques abondo	Pachug	2019-03-12 09:07:51	2019-03-12 09:07:51
+76	0x4c	L	66	11976711	ast	¡Les habilidaes malabarístiques de la to hermana son veramente eseicionales!	Fueyes	2023-08-02 15:54:21	2023-08-02 15:54:21
+77	0x4d	M	30	11976801	ast	Mientres el pa va mercar, la ma quedáse nel coche.	Fueyes	2023-08-02 16:17:12	2023-08-02 16:17:12
+78	0x4e	N	58	12253127	ast	Nun yera una idea estúpida.	Fueyes	2024-01-05 20:28:17	2024-01-05 20:28:17
+80	0x50	P	52	11976723	ast	Prestóme enforma falar con Tom.	Fueyes	2023-08-02 15:57:32	2023-08-02 15:57:32
+81	0x51	Q	21	5457375	ast	Voi pa la rula. ¿Qué quies de xinta? ¿Xarda o parrochina?	Mouguias	2016-09-20 19:48:17	2016-09-20 19:49:17
+82	0x52	R	8	3350010	ast	Rindióse.	andrmene	2014-06-29 21:57:23	2014-06-29 21:57:23
 83	0x53	S	32	3349837	ast	Soi primerizu, nun lo entiendo.	andrmene	2014-06-29 20:25:11	2014-06-29 20:25:11
-84	0x54	T	84	11976786	ast	¿Tienen vós 17 años?	Fueyes	2023-08-02 16:13:29	2023-08-02 16:13:29
-85	0x55	U	7	5457540	ast	¿Qué cosa cosadiella ye? Una vieya con un diente, apiella a tola xente. La campana.	Mouguias	2016-09-20 20:51:19	2016-09-20 20:51:19
-86	0x56	V	26	11976811	ast	Voi llavar les sábanes y el cobrecolchón. Les mantes y los cobertores, les dexaré pal brañu.	Fueyes	2023-08-02 16:19:57	2023-08-02 16:19:57
-88	0x58	X	9	3349875	ast	El so llibru llegara a ser super-ventes tanto en Francia como en Estaos Xuníos.	andrmene	2014-06-29 20:35:04	2014-06-29 20:35:04
-89	0x59	Y	22	856630	ast	Yes mui guapa.	Duernu	2011-04-26 11:20:24	2011-05-11 18:52:53
-90	0x5a	Z	2	11976755	ast	Pa un vuelu de Zurich a Boston necesítense ocho hores, peru pal vuelu de vuelta solu seyes.	Fueyes	2023-08-02 16:05:19	2023-08-02 16:05:19
-97	0x61	a	514	9730768	ast	Nun soi gay.	mialiesperantistas	2021-02-06 13:27:36	2021-02-06 13:27:36
-98	0x62	b	136	11976950	ast	El cachopu sigue siendo meyor que'l kebab.	Fueyes	2023-08-02 16:45:59	2023-08-02 16:45:59
-99	0x63	c	286	11976818	ast	Ella y-pidió que entrara a la so casa, peru elli negóse.	Fueyes	2023-08-02 16:21:25	2023-08-02 16:21:25
-100	0x64	d	304	3349101	ast	Tienes que dir a chucate.	andrmene	2014-06-29 13:44:36	2014-06-29 13:44:36
-101	0x65	e	534	11976710	ast	Déxame entrar otra vegada.	Fueyes	2023-08-02 15:53:51	2023-08-02 15:53:51
-102	0x66	f	134	11976843	ast	Tom nun fai naida de lo que quiero que faiga.	Fueyes	2023-08-02 16:29:59	2023-08-02 16:29:59
-103	0x67	g	154	12253032	ast	Lleva más el güeyu que'l butiellu	Fueyes	2024-01-05 19:44:24	2024-01-05 19:44:24
-104	0x68	h	81	3349064	ast	¡Calla ho!	andrmene	2014-06-29 13:29:03	2014-06-29 13:29:12
-105	0x69	i	448	3349081	ast	Tienes de facelo meyor.	andrmene	2014-06-29 13:34:58	2014-06-29 13:34:58
-106	0x6a	j	2	3714313	ast	El Burj Khalifa ye por agora el rascacielos más altu del mundu.	Balamax	2014-12-27 22:19:44	2015-01-17 09:46:41
-107	0x6b	k	8	11976950	ast	El cachopu sigue siendo meyor que'l kebab.	Fueyes	2023-08-02 16:45:59	2023-08-02 16:45:59
-108	0x6c	l	375	12373311	ast	¡Valió!	Fueyes	2024-03-15 20:49:47	2024-03-15 20:49:47
-109	0x6d	m	329	11976806	ast	Elli ye idiferente al sufrimientu de los demás.	Fueyes	2023-08-02 16:18:22	2023-08-02 16:18:22
-110	0x6e	n	433	1332486	ast	¿Qué fais ne?	txoriburu	2011-12-31 14:57:08	2012-01-01 17:16:29
-111	0x6f	o	430	12021767	ast	L'edificiu del conceyu ye mui antiguu.	enolp	2023-08-28 18:42:41	2023-08-28 18:42:41
-112	0x70	p	229	3350018	ast	Pa mercar una entrá vas tener qu'esperar como poco una hora.	andrmene	2014-06-29 22:06:36	2014-06-29 22:06:36
-113	0x71	q	145	11976756	ast	¿Y esu a min que m'emporta?	Fueyes	2023-08-02 16:05:31	2023-08-02 16:05:35
-114	0x72	r	416	12253121	ast	María paez un home.	Fueyes	2024-01-05 20:26:33	2024-01-05 20:26:42
-115	0x73	s	427	3349831	ast	Esa muyer encaprichose contigo.	andrmene	2014-06-29 20:22:52	2014-06-29 20:22:52
-116	0x74	t	367	11976646	ast	El locutor de la radio tenía una voz masculina.	Fueyes	2023-08-02 15:39:59	2023-08-02 15:39:59
-117	0x75	u	441	909273	ast	¿Danos permisu pa facer un enllaz de la so páxina al nuestru sitiu corporativu?	Duernu	2011-05-25 22:41:04	2011-05-25 22:41:04
-118	0x76	v	130	11976855	ast	Esu va al otru llau.	Fueyes	2023-08-02 16:32:05	2023-08-02 16:32:05
+84	0x54	T	84	11976850	ast	Tatoeba merézse lo meyor de cada llingua.	Fueyes	2023-08-02 16:31:15	2023-08-02 16:31:15
+85	0x55	U	7	11976666	ast	Una vegada apurrió-y la mano un home prietu, asina que nun pue ser racista.	Fueyes	2023-08-02 15:44:45	2024-01-05 20:40:26
+86	0x56	V	26	11976827	ast	El Vedante enseña que la conciencia ye singular, que toos los eventos llévense a cabu, de principiu a fin, dientro de una sola cociencia universal, y que nun hai una multiplicidá de seres.	Fueyes	2023-08-02 16:24:14	2023-08-02 16:24:14
+88	0x58	X	9	11976729	ast	Xeneralmente falando, los escolinos universitarios tienen más tiempu llibre que los escolinos de secundaria.	Fueyes	2023-08-02 15:58:27	2023-08-02 15:58:27
+89	0x59	Y	22	11976758	ast	Yo quería esi coche.	Fueyes	2023-08-02 16:06:03	2023-08-02 16:06:03
+90	0x5a	Z	2	9729024	ast	Zárrala!	mialiesperantistas	2021-02-05 23:53:27	2021-02-05 23:53:27
+97	0x61	a	514	12021742	ast	Los vagones coloraos son de vaques y los verdes de gochos.	enolp	2023-08-28 18:33:36	2023-08-28 18:33:36
+98	0x62	b	136	12253150	ast	El so vestíu taba fechu de llana tosco.	Fueyes	2024-01-05 20:36:04	2024-01-05 20:36:04
+99	0x63	c	286	12020583	ast	Viquingo es el nombre dado a los miembros de un grupo étnico, originario de Escandinavia.	ivarela	2023-08-28 08:19:27	2023-08-28 08:19:27
+100	0x64	d	304	3349081	ast	Tienes de facelo meyor.	andrmene	2014-06-29 13:34:58	2014-06-29 13:34:58
+101	0x65	e	534	12253086	ast	Sami nun dixo na de na.	Fueyes	2024-01-05 20:16:13	2024-01-05 20:16:13
+102	0x66	f	134	11976734	ast	Nun fai entrugues, solu sigui órdes.	Fueyes	2023-08-02 15:59:48	2023-08-02 15:59:48
+103	0x67	g	154	11976642	ast	Enxamás tengo vistu un arcu la vieya.	Fueyes	2023-08-02 15:39:18	2023-08-02 15:39:18
+104	0x68	h	81	3349831	ast	Esa muyer encaprichose contigo.	andrmene	2014-06-29 20:22:52	2014-06-29 20:22:52
+105	0x69	i	448	12253040	ast	La nuestra cena güei va ser mui cenciella: pan, quesu de cabra, figos y vino.	Fueyes	2024-01-05 19:52:22	2024-01-05 19:52:30
+106	0x6a	j	2	3714328	ast	El Burj Khalifa ye actualmente el rascacielos más altu del mundu.	Balamax	2014-12-27 22:26:00	2015-01-17 09:47:01
+107	0x6b	k	8	11976839	ast	D'equí ta ehí hai solu un par de kilómetros.	Fueyes	2023-08-02 16:28:30	2023-08-02 16:28:30
+108	0x6c	l	375	5457379	ast	Rapaz, aballa el xiculate, que nun ensame.	Mouguias	2016-09-20 19:52:26	2016-09-20 19:52:26
+109	0x6d	m	329	11976733	ast	Comerá salchiches gratis.	Fueyes	2023-08-02 15:59:21	2023-08-02 15:59:21
+110	0x6e	n	433	9797744	ast	Pienso, depués esisto.	escudo119	2021-02-23 15:42:49	2021-12-24 21:59:09
+111	0x6f	o	430	3349167	ast	Sólo queremos d'atopar a Tom.	andrmene	2014-06-29 14:11:01	2014-06-29 14:11:01
+112	0x70	p	229	11976795	ast	Dempués de munchu tiempu, deprendí a cortar una piña'n rodaxes.	Fueyes	2023-08-02 16:16:23	2023-08-02 16:16:23
+113	0x71	q	145	11976836	ast	Escaecímos pagar el nuesu alquiler.	Fueyes	2023-08-02 16:27:26	2023-08-02 16:27:26
+114	0x72	r	416	12253140	ast	Namás déxalu nel mio escritoriu.	Fueyes	2024-01-05 20:31:26	2024-01-05 20:31:26
+115	0x73	s	427	12021733	ast	Comimos les mazanes	enolp	2023-08-28 18:30:34	2023-08-28 18:30:34
+116	0x74	t	367	11976693	ast	El asuntu foi resueltu.	Fueyes	2023-08-02 15:49:53	2023-08-02 15:49:53
+117	0x75	u	441	909259	ast	¿Cuál ye'l to profesor favoritu?	Duernu	2011-05-25 22:37:36	2011-05-25 22:37:36
+118	0x76	v	130	11976655	ast	Elli nun ve venir güei.	Fueyes	2023-08-02 15:42:02	2023-08-02 15:42:02
 119	0x77	w	1	7806261	ast	Kawasaki tien fabriques abondo	Pachug	2019-03-12 09:07:51	2019-03-12 09:07:51
-120	0x78	x	93	12253060	ast	Enxamás violaré una llei.	Fueyes	2024-01-05 20:03:40	2024-01-05 20:03:40
-121	0x79	y	181	3349156	ast	Toi arguyosu de lo bien que cocina mio pá.	andrmene	2014-06-29 14:07:27	2014-06-29 14:07:58
-122	0x7a	z	52	909273	ast	¿Danos permisu pa facer un enllaz de la so páxina al nuestru sitiu corporativu?	Duernu	2011-05-25 22:41:04	2011-05-25 22:41:04
+120	0x78	x	93	5457348	ast	Dio-ylu el to xenru, que-y fía bona falta.	Mouguias	2016-09-20 19:41:23	2016-09-21 14:13:18
+121	0x79	y	181	12253129	ast	Nun yera necesario.	Fueyes	2024-01-05 20:28:27	2024-01-05 20:28:27
+122	0x7a	z	52	3349837	ast	Soi primerizu, nun lo entiendo.	andrmene	2014-06-29 20:25:11	2014-06-29 20:25:11
 161	0xa1	¡	53	5530606	ast	¡Norabona!	Mouguias	2016-10-19 15:02:40	2016-10-19 15:02:40
-191	0xbf	¿	63	3349186	ast	¿Ula?	andrmene	2014-06-29 14:15:05	2014-06-29 14:15:05
+191	0xbf	¿	63	3349134	ast	¿Apetezte venir al baile?	andrmene	2014-06-29 13:58:02	2014-06-29 13:58:02
 193	0xc1	Á	1	9728799	ast	Ánimu!	mialiesperantistas	2021-02-05 22:39:38	2021-02-05 22:39:38
 201	0xc9	É	1	9731537	ast	Él tien un podcast.	mialiesperantistas	2021-02-06 17:57:16	2021-02-06 17:57:16
 205	0xcd	Í	1	5530622	ast	Ía prestame que fixeras una prueba de sangre.	Mouguias	2016-10-19 15:06:41	2016-10-19 15:06:41
 209	0xd1	Ñ	1	12253147	ast	Ñací n'una islla pequeña.	Fueyes	2024-01-05 20:34:30	2024-01-05 20:34:30
 211	0xd3	Ó	1	11976820	ast	¿Ónde ye'l barcu?	Fueyes	2023-08-02 16:21:46	2023-08-02 16:21:46
-225	0xe1	á	135	3349222	ast	Nun yes más fatu porque nun entrenes.	andrmene	2014-06-29 14:24:19	2014-06-29 14:24:19
-233	0xe9	é	103	5530624	ast	Valíame más tener dexao la pistola au la atopé.	Mouguias	2016-10-19 15:08:24	2016-10-19 15:08:24
-237	0xed	í	96	11976758	ast	Yo quería esi coche.	Fueyes	2023-08-02 16:06:03	2023-08-02 16:06:03
-241	0xf1	ñ	40	11976700	ast	L'espada flamíxera asonsaña cola forma de la so fueya'l movimientu d'una llapada.	Fueyes	2023-08-02 15:51:54	2023-08-02 15:51:54
-243	0xf3	ó	88	5457466	ast	¡Ay, ho! ¿Pues cómo nun fuiste quién d'algamalu inda?	Mouguias	2016-09-20 20:28:15	2016-09-20 20:29:21
-250	0xfa	ú	26	12253085	ast	Tom nun foi l'únicu que se mancó.	Fueyes	2024-01-05 20:16:01	2024-01-05 20:16:01
-252	0xfc	ü	15	12253037	ast	El mio güelu maternu yera asturianu.	Fueyes	2024-01-05 19:49:08	2024-01-05 19:49:08
+225	0xe1	á	135	12253043	ast	¿Cualos de los llibros que t'empresté prestáronte más?	Fueyes	2024-01-05 19:53:52	2024-01-05 19:53:52
+233	0xe9	é	103	9729025	ast	Cérrala!	mialiesperantistas	2021-02-05 23:53:30	2021-02-05 23:53:30
+237	0xed	í	96	11976780	ast	Fixera lo que fixera, elli nun facía casu al mi conseyu.	Fueyes	2023-08-02 16:11:56	2023-08-02 16:11:56
+241	0xf1	ñ	40	11976786	ast	¿Tienen vós 17 años?	Fueyes	2023-08-02 16:13:29	2023-08-02 16:13:29
+243	0xf3	ó	88	12253050	ast	De normal, empreses d'impresión de pel mundu tán dispuestes a pagar quiciabes un 20 per cientu premium pa mercar una impresora d'Alemaña, pues les impresores alemanes son mui sólides y tán mecanizaes a tolerancies esixentes.	Fueyes	2024-01-05 19:58:10	2024-01-05 19:58:10
+250	0xfa	ú	26	3349169	ast	¿Quién yes tú?	andrmene	2014-06-29 14:11:30	2014-06-29 14:11:30
+252	0xfc	ü	15	5457373	ast	Desque-y lo igües, has llavar les manes que tiénesles abondo puerques.	Mouguias	2016-09-20 19:47:11	2016-09-21 14:14:44
 7716	0x1e24	Ḥ	1	11976893	ast	¡Ḥoler!	Fueyes	2023-08-02 16:37:01	2023-08-02 16:37:01
 8211	0x2013	–	1	4919879	ast	Una bisarma anda Europa – la bisarma del comunismu.	Balamax	2016-02-18 06:31:57	2016-02-18 06:35:46
 8217	0x2019	’	1	5457334	ast	Pa nuesu que tás nel altor, seya’l to nome santificáu. Amiye’l to reinu.	Mouguias	2016-09-20 19:37:17	2016-09-21 08:26:24

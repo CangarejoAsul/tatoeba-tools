@@ -1,113 +1,113 @@
-32	0x20	 	23591	10975335	swc	Uswizi ni nchi iliyo mashariki mwa Ufaransa.	\N	2022-07-09 04:52:19	2022-07-09 04:52:21
-33	0x21	!	1784	10945462	swc	Je! unawaza sana na kufwata kazi za gari za kukimbia mbio mbio?	\N	2022-06-28 06:28:02	2022-06-28 06:28:03
-34	0x22	"	138	11010355	swc	"Sana sana tangu siku ambayo iliongezeka mwa iyi ma eneo , / ukubwa na iyi muti ilishangaza macho yenu, / mbingu yote inayala miripuko ya radi. "	\N	2022-07-21 04:25:23	2022-07-21 04:25:25
+32	0x20	 	23590	10922699	swc	Sauti yako ni sawa vile nyimbo ya sirène.	\N	2022-06-19 05:03:14	2022-06-19 05:03:15
+33	0x21	!	1784	10991150	swc	Je! Una shida na mimi kuvua shati langu?	\N	2022-07-15 03:45:21	2022-07-15 03:45:22
+34	0x22	"	138	11025884	swc	"Kama pesa hazilete amani, zirudishe." alisema Jules Renard.	\N	2022-07-26 04:11:05	2022-07-26 04:11:06
 35	0x23	#	1	10909152	swc	Mutuambie ma beyi zenu na muda ya kuleta bitu kwa haraka juu ya lupango ya cuma ya bustaniyenu #STL3456.	\N	2022-06-14 04:40:12	2022-06-14 04:40:14
-36	0x24	$	2	10926640	swc	Niliweka zile $ 20 zenye nililogota mu barabara.	\N	2022-06-21 02:53:35	2022-06-21 02:53:36
-37	0x25	%	9	10936749	swc	Tunaitika kupunguza bei mpaka 5% lakini kwa sharti ya kusema ikusaidie kuendelesha soko mpya ya biashara yetu.	\N	2022-06-25 06:06:20	2022-06-25 06:06:21
+36	0x24	$	2	10991517	swc	Kodi ya moyenne ya ghorofa huko Manhattan ni karibu $ 4,000 kwa mwezi.	\N	2022-07-15 04:06:14	2022-07-15 04:06:15
+37	0x25	%	9	11012703	swc	Niko na uhakika wa uamzi wangu kwa 100%.	\N	2022-07-22 02:12:49	2022-07-22 02:12:50
 38	0x26	&	1	10902207	swc	Ninapenda R&B.	\N	2022-06-11 09:10:21	2022-06-11 09:10:24
-39	0x27	'	38	10970492	swc	Carnet d'adresse yake haina majina mingi, itakuwa rahisi kwa polisi kuanda liste ya washutumiwa.	\N	2022-07-07 05:22:47	2022-07-07 05:22:48
-40	0x28	(	9	10907867	swc	Muji yangu ya kuzaliwa iko ku 10 miles (karibu kilometa 16) kusini ya New York.	\N	2022-06-13 05:38:51	2022-06-13 05:38:52
-41	0x29	)	9	10980312	swc	Tiya mu four ku 240°C (thermostat 8), na upunguze baada ya dakika 5 ku 200°C (thermostat 6-7); acha ingine dakika 10. Piga chakula kwa uangalifu!	\N	2022-07-11 04:29:06	2022-07-11 04:29:07
-43	0x2b	+	3	10952676	swc	Maître de conférence wangu alisema kama kujua muzuri analyse numérique, hesabu ya stochastique na programmation mu C++ ni ya muhimu kwa kazi ndani ya banki.	\N	2022-07-01 04:02:04	2022-07-01 04:02:05
-44	0x2c	,	5895	11025884	swc	"Kama pesa hazilete amani, zirudishe." alisema Jules Renard.	\N	2022-07-26 04:11:05	2022-07-26 04:11:06
-45	0x2d	-	229	10931795	swc	Chou ya mweupe, chou-fleur, brocoli, na chou ya Bruxelles zote ni aina moya ya mumea.	\N	2022-06-23 05:03:19	2022-06-23 05:03:20
-46	0x2e	.	20647	10944721	swc	Piko lijiwe ya mkubwa yulu ya mbao.	\N	2022-06-28 05:47:30	2022-06-28 05:47:31
-47	0x2f	/	138	11016416	swc	Lakini mupepo inapita na inapotea na siku. / Kupitia mupepeo ya kutisha sana minaanza siku: / Nilikuwa siijui.	\N	2022-07-23 03:47:57	2022-07-23 03:47:59
-48	0x30	0	129	10975173	swc	Muimbaji wa Urusi wa Eurovision wanasikika kama waimbaji wa Uswidi wa Eurovision wa miaka ya 80. Maendeleo yaku onekana.	\N	2022-07-09 04:43:16	2022-07-09 04:43:17
-49	0x31	1	169	10931781	swc	Munyama guépard ambayo iko mu haraka inaweza kufikia mbio ya kilomita 120 kwa saa.	\N	2022-06-23 05:02:34	2022-06-23 05:02:35
-50	0x32	2	87	11019754	swc	Mnamo mwaka wa 1912, mushonaji wa Austria Franz Reichelt alikufa akiruka kutoka kwenye ngazi ya kwanza ya Munara wa Eiffel ili kujaribu uvumbuzi wake mupya, koti ya parachuti, ambayo haikufanya kazi ......	\N	2022-07-24 04:48:38	2022-07-24 04:48:39
-51	0x33	3	55	10917298	swc	Marilyn Monroe alishafanya miaka 33 sasa tangu akufe.	\N	2022-06-17 04:34:25	2022-06-17 04:34:26
-52	0x34	4	41	10997439	swc	Munamo mwaka wa 1492, Wayahudi walifukuzwa huko Hispania.	\N	2022-07-17 04:18:15	2022-07-17 04:18:16
-53	0x35	5	63	11007460	swc	Minapimaka 1m58.	\N	2022-07-20 04:21:57	2022-07-20 04:21:58
-54	0x36	6	48	10934447	swc	Nili pokeya kitabu ya muzuri ya kurasa 600 ; hivyo, nika soma ukurasa 30 kila mangaribi, nita maliza kusoma kitabu yote mu siku 20.	\N	2022-06-24 05:26:47	2022-06-24 05:26:48
-55	0x37	7	38	10924454	swc	Utawala huko Ufaransa katika karne ya 17 haukuwa tu ufalme, lakini ufalme kamili, ambapo nguvu tatu za serikali, mtendaji, sheria na mahakama, zilijikita mikononi mwa mtu mmoja, mfalme.	\N	2022-06-20 04:08:51	2022-06-20 04:08:52
-56	0x38	8	48	10983301	swc	upigaji picha uli gunduliwa mu karne ya 18.	\N	2022-07-12 04:29:11	2022-07-12 04:29:12
-57	0x39	9	57	10906975	swc	Pembe ya kulia inapimaka 90 degrés.	\N	2022-06-13 04:47:31	2022-06-13 04:47:32
-58	0x3a	:	315	11016100	swc	Alisema: «Mbele ufungule kinywa yako nilijua nini ulitaka sema.».	\N	2022-07-23 03:31:12	2022-07-23 03:31:13
-59	0x3b	;	232	10977726	swc	Nilijifanya askari; ila sikukuwa jasiri. Nilijifanya mataawa; ila sikukuwa mwenye kujitolea sana.	\N	2022-07-10 04:48:43	2022-07-10 04:48:44
+39	0x27	'	38	10967823	swc	Uko na 'bip' yako?	\N	2022-07-06 05:13:57	2022-07-06 05:13:58
+40	0x28	(	9	10972966	swc	Ile ndege, Boeing 777-200, yenye ilitoka Kuala Lumpur siku ya sita na 0 h 41 (siku ya tano na 17 h 40 huko Paris), ilipashwa fika Pékin na 6 h 30 ya pale (23 h 30 ya huko Paris).	\N	2022-07-08 05:12:33	2022-07-08 05:12:34
+41	0x29	)	9	11022281	swc	Hakuna njia, hakuna namna (wala mlango, wala mlango).	\N	2022-07-25 04:06:53	2022-07-25 04:06:54
+43	0x2b	+	3	10924938	swc	"Ujuzi ya kawaida ya C++: Programmation intermédiaire ya muhimu" ya Stephen C. Dewhurst, trad. : Quipu	\N	2022-06-20 04:37:01	2022-06-20 04:37:02
+44	0x2c	,	5894	11021752	swc	Timu la kijapani, wali shinda kikombe cha dunia, na kurudi kwa ushindi.	\N	2022-07-25 03:37:33	2022-07-25 03:37:34
+45	0x2d	-	229	10967570	swc	Marekani ilijaribu hata kumushtaki Chavez kwa kuchunga magaidi wa Al-Kaida inchini Venezuela. Kama Venezuela ingekuwa inchi ya kiislamu, kama hivi ilishaka teketezwa na Marekani tangu zamani.	\N	2022-07-06 04:59:12	2022-07-06 04:59:13
+46	0x2e	.	20646	10925024	swc	Muzigo ilikuwa buzito sana kwa dereva moya kuibeba yeye peke.	\N	2022-06-20 04:41:58	2022-06-20 04:41:59
+47	0x2f	/	138	11010587	swc	Miungu! gisi alikuwa naniangalia na huruma! Hector alionekana kidogo kama / Uyo Hector mubaya ambaye katika meli yabo yenye iko nawaka moto / alisukuma vikundi vya maadui wanaotetemeka, / ao Achille alikuwa nabeba maiti zaku toka moshi!	\N	2022-07-21 04:37:43	2022-07-21 04:37:44
+48	0x30	0	129	10935927	swc	Kwa hivyo kuko kilomita 10 ya embouteillage.	\N	2022-06-25 05:28:56	2022-06-25 05:28:57
+49	0x31	1	169	10934014	swc	Miti ya Bonsai ni miti ndogo, ambayo katika mazingira yao ya asili inaweza kufikia mita 10 hadi 20 kwa urefu.	\N	2022-06-24 05:01:55	2022-06-24 05:01:56
+50	0x32	2	87	10920018	swc	Je! Haunge jikuta uko na tafuta vitu vilivyo andikwa ako 20% ya zaidi?	\N	2022-06-18 04:27:47	2022-06-18 04:27:48
+51	0x33	3	55	10902128	swc	Ni vigumu ku jua Kifaransa kwa mda wa miaka 2 au 3.	\N	2022-06-11 09:03:38	2022-06-11 09:03:41
+52	0x34	4	41	11010212	swc	Ni waarabu ndo walituletea 1, 2, 3, 4, 5... Bila abo, kama tungali kwenye namba za Kirumi. Unafikiria vile hali ingekua ngumu?	\N	2022-07-21 04:17:22	2022-07-21 04:17:23
+53	0x35	5	63	11000873	swc	Pesa za mchango zilizo tolewa na maltu moja ama vikundi vingi haziwezi kupita euro 7500 kwa mwaka.	\N	2022-07-18 05:13:51	2022-07-18 05:13:52
+54	0x36	6	48	10974891	swc	Wakati hadithi hii inafanyika - mnamo 1699 - Ufalme wa Norway ulikuwa bado umeungana na Denmark.	\N	2022-07-09 04:27:16	2022-07-09 04:27:17
+55	0x37	7	38	10907677	swc	Tulifanya sherehe ya kusherekea siku yake ya kuzaliwa ya myaka 70.	\N	2022-06-13 05:28:01	2022-06-13 05:28:03
+56	0x38	8	48	10980327	swc	Siku yako ya kuzaliwa, mwaka huu, ulikua na miaka 28, Andrea, sindiyo?	\N	2022-07-11 04:29:56	2022-07-11 04:29:58
+57	0x39	9	57	10974891	swc	Wakati hadithi hii inafanyika - mnamo 1699 - Ufalme wa Norway ulikuwa bado umeungana na Denmark.	\N	2022-07-09 04:27:16	2022-07-09 04:27:17
+58	0x3a	:	315	10929788	swc	Kifaranga hiki ni kama kamba: Ninapenda kila kitu kumhusu isipokuwa kichwa.	\N	2022-06-22 05:14:26	2022-06-22 05:14:29
+59	0x3b	;	232	11012789	swc	Kwa hiyo tuna rudiya ku bahari; na bote, kisha ku epuka zaruba, nvula ita nyesha ku visiwa ya Strophades, kuondoka kwa ndege bisimu zinazo itwa vinubi, wana sahau kurudiya kwenye bote.	\N	2022-07-22 02:17:20	2022-07-22 02:17:21
 60	0x3c	<	1	10918295	swc	Ni kwa heshima njo nakujulisha kwamba kesi yetu itasikilizwa na chumba ya tatu ya mahakama ya kazi ya Charleroi, tarehe <date>.	\N	2022-06-17 05:29:29	2022-06-17 05:29:31
 62	0x3e	>	1	10918295	swc	Ni kwa heshima njo nakujulisha kwamba kesi yetu itasikilizwa na chumba ya tatu ya mahakama ya kazi ya Charleroi, tarehe <date>.	\N	2022-06-17 05:29:29	2022-06-17 05:29:31
-63	0x3f	?	2163	10958741	swc	Je! Unayo alibi?	\N	2022-07-03 04:52:10	2022-07-03 04:52:11
-65	0x41	A	2382	10927110	swc	Alifungula gazet imbele saa ya rendez-vous yake ifike.	\N	2022-06-21 03:16:43	2022-06-21 03:16:44
-66	0x42	B	1073	10924847	swc	Bob alirudia ku nyumba nyuma.	\N	2022-06-20 04:31:38	2022-06-20 04:31:39
-67	0x43	C	469	11016255	swc	Yesu ali zaliwa mwaka wa 1940 mbele ya Chuck Norris.	\N	2022-07-23 03:39:07	2022-07-23 03:39:09
-68	0x44	D	408	10917544	swc	Dirisha au ukanda?	\N	2022-06-17 04:48:13	2022-06-17 04:48:14
-69	0x45	E	187	10938494	swc	Entomolojia sio tu utafiti wa kuruka ya inzi!	\N	2022-06-26 05:18:03	2022-06-26 05:18:04
-70	0x46	F	280	10921916	swc	Funga kinywa. Kama siivyo, utafukuzwa ku kazi.	\N	2022-06-19 04:18:34	2022-06-19 04:18:36
-71	0x47	G	198	10925037	swc	Gari ilikuwa natembea mbio sana ikatereza na kujigonga nyuma ya camion kabla dereva aliye kuwa naitembeza aseme Jack Robinson.	\N	2022-06-20 04:42:43	2022-06-20 04:42:45
-72	0x48	H	1730	10933486	swc	Kitabu «Minakuomba haki ya kufa» inasimulia tukio ya kusikitisha ya kifo cha Vincent Humbert.	\N	2022-06-24 04:32:49	2022-06-24 04:32:50
-73	0x49	I	1339	10953115	swc	Ilikuwa sherehe muzuri.	\N	2022-07-01 04:27:15	2022-07-01 04:27:17
-74	0x4a	J	1060	10936759	swc	Walicheka kukata nywele ya Jack.	\N	2022-06-25 06:06:45	2022-06-25 06:06:46
-75	0x4b	K	2928	11000878	swc	Jaribu kujifunza Kingereza.	\N	2022-07-18 05:14:08	2022-07-18 05:14:09
-76	0x4c	L	570	10924832	swc	Leo sina pesa.	\N	2022-06-20 04:30:46	2022-06-20 04:30:47
-77	0x4d	M	3473	10975262	swc	Mukutano wa star na mashabiki wake ilituma batu mingi sana banakusanyika.	\N	2022-07-09 04:48:13	2022-07-09 04:48:14
-78	0x4e	N	4317	10911800	swc	Ah? Unaweza kuandika bila kuangaliya kibodi. Ni poa!	\N	2022-06-15 04:11:15	2022-06-15 04:11:16
-79	0x4f	O	174	10920589	swc	Ours ya mweusi na ya mweupe yenyi inakaa katika milima ya Uchina na Tibet inaitwa "panda".	\N	2022-06-18 05:28:14	2022-06-18 05:28:16
-80	0x50	P	616	10902879	swc	Panya ikavuka barabara.	\N	2022-06-11 10:21:04	2022-06-11 10:21:07
-81	0x51	Q	16	10973061	swc	Al-Qaïda siyo hii inayoitwa "shirika la kigaidi ambalo linatishia amani duniani", lakini silaha ya kimbinu iliyo tengenezwa na Marekani mu miaka ya 1980 ili kutetemekesha inchi mbali mbali, ikiwemo Urusi.	\N	2022-07-08 05:17:57	2022-07-08 05:17:58
-82	0x52	R	307	10931435	swc	Rudi mara moja, Tafadhali.	\N	2022-06-23 04:43:21	2022-06-23 04:43:22
-83	0x53	S	1908	10983414	swc	Ndugu yake mwenyi anaishi Suede njo alimutia iyi veste ya muzuri.	\N	2022-07-12 04:35:02	2022-07-12 04:35:04
-84	0x54	T	2005	10919820	swc	Tafazali jaza iyi kartasi na uchunge tukujulishe.	\N	2022-06-18 04:16:30	2022-06-18 04:16:31
-85	0x55	U	2752	10932133	swc	Usiogope kitu.	\N	2022-06-23 05:21:33	2022-06-23 05:21:34
-86	0x56	V	196	10964324	swc	Vita, ni jehenama.	\N	2022-07-05 04:35:33	2022-07-05 04:35:34
-87	0x57	W	1420	10926633	swc	Unaweza kutoka Washington kwenda New York na reli.	\N	2022-06-21 02:53:14	2022-06-21 02:53:16
-88	0x58	X	8	10902819	swc	Je! Ninaweza kupata tikiti mbili za Malcom X?	\N	2022-06-11 10:14:25	2022-06-11 10:14:28
-89	0x59	Y	301	10962015	swc	Uchafu wa hewa ni mingi sana pale New York hadi mara nyingi wakimbiaji wana vala ma mask wakati wanakimbia.	\N	2022-07-04 05:26:23	2022-07-04 05:26:24
-90	0x5a	Z	81	10929695	swc	Huko Uwingereza katika Zama za kale, miji yote ilicheza mupira kwenye likizo fulani, wakati mwingine hadi wachezaji mia tano kwa wakati mumoja.	\N	2022-06-22 05:04:02	2022-06-22 05:04:05
+63	0x3f	?	2163	10939198	swc	Nilikuambia lazima uende nyumbani. Kwanini bado uko hapa?	\N	2022-06-26 05:58:24	2022-06-26 05:58:25
+65	0x41	A	2382	11019600	swc	Anajivunia mtoto wake juu anakuwa daktari.	\N	2022-07-24 04:40:12	2022-07-24 04:40:14
+66	0x42	B	1072	10953096	swc	Barafu ili acha ku hanguka.	\N	2022-07-01 04:26:08	2022-07-01 04:26:09
+67	0x43	C	469	10953199	swc	Chombo inayo gundua uongo inatumikaka kwa kugundua mabadiliko katika mapigo ya moyo na kupumua.	\N	2022-07-01 04:32:07	2022-07-01 04:32:08
+68	0x44	D	408	11010163	swc	Dido, macho inashushwa, kwa malalamiko yabo yakuleta huruma / anajibia kwa maneno kidogo: "Tosha boga yoyote; / kutoka kwa mahitaji yenye inaanza komola / inanilazimishwa kuweka hizi mashurti za nguvu: busara yangu ilishughulikia / kuzunguka askari mipaka yangu ya mingi. "	\N	2022-07-21 04:14:40	2022-07-21 04:14:42
+69	0x45	E	187	10972470	swc	Wana sheria biko na vitamini E ya mingi sana.	\N	2022-07-08 04:44:24	2022-07-08 04:44:26
+70	0x46	F	280	10921905	swc	Funga kinywa. kama sivyo, utafukuzwa.	\N	2022-06-19 04:17:54	2022-06-19 04:17:55
+71	0x47	G	198	11013123	swc	Luga ya cornique inafanana na luga ya Gallois na pia zaidi luga ya Breton, yenye inatokea mu luga ya Waingereza wa zamani, ambao zama za kale, walikimbilia eneo ya Ufaransa kutoka eneo ambao sasa ni Bretagne.	\N	2022-07-22 02:35:04	2022-07-22 02:35:05
+72	0x48	H	1730	11022303	swc	Hii na neno ya kuonyesha cuki zidi ya mwanadamu.	\N	2022-07-25 04:08:07	2022-07-25 04:08:08
+73	0x49	I	1339	10932195	swc	« Je! Mwanauma anaweza kuoa dada ya muke wake mwenya anakufa? » « Iko na haki lakini siyo uwezo. »	\N	2022-06-23 05:24:56	2022-06-23 05:24:57
+74	0x4a	J	1060	10922242	swc	Mnyenyekevu na mufupi wa mawazo, Justin alijua uovu tu kwa kusikia.	\N	2022-06-19 04:37:03	2022-06-19 04:37:04
+75	0x4b	K	2928	11019206	swc	Alipiga kelele akisema :" Kwenye moto".	\N	2022-07-24 04:18:02	2022-07-24 04:18:03
+76	0x4c	L	570	10983436	swc	Liste ya ma eneo yenye ningependa kutembelea huko Venezuela haina mwisho.	\N	2022-07-12 04:36:18	2022-07-12 04:36:19
+77	0x4d	M	3473	10903857	swc	Mwezi ujao nita funga miaka kumi tangu ni hanze kuishi hapa.	\N	2022-06-12 04:17:10	2022-06-12 04:17:11
+78	0x4e	N	4317	10967524	swc	Nili furahi kuona una cheza.	\N	2022-07-06 04:56:36	2022-07-06 04:56:38
+79	0x4f	O	174	10933848	swc	Imbwa ya mama ilikua inaitwa Oscar.	\N	2022-06-24 04:52:31	2022-06-24 04:52:32
+80	0x50	P	616	10929271	swc	Pato yake ulipunguzwa nusu kisha kuacha kazi na kwenda kupumuzika.	\N	2022-06-22 04:22:41	2022-06-22 04:22:44
+81	0x51	Q	16	10973063	swc	Kote kwenye Marekani inataka kutetea uingiliaji wa kisiasa ao wa kijeshi, inadai kwamba kuko bikundi ya al-Qaida na inawashtaki viongozi wa hiyo inchi kwa kuunga mkono iyi "bikundi".	\N	2022-07-08 05:18:04	2022-07-08 05:18:05
+82	0x52	R	307	11025884	swc	"Kama pesa hazilete amani, zirudishe." alisema Jules Renard.	\N	2022-07-26 04:11:05	2022-07-26 04:11:06
+83	0x53	S	1908	11000277	swc	Sinna uwezo ya kukushauria.	\N	2022-07-18 03:30:36	2022-07-18 04:44:24
+84	0x54	T	2005	11016470	swc	Chumba ya Tom ni ya kidogo.	\N	2022-07-23 03:51:06	2022-07-23 03:51:07
+85	0x55	U	2752	11015976	swc	Je! Unatafuta koti? Kwa tukio gani?	\N	2022-07-23 03:25:02	2022-07-23 03:25:03
+86	0x56	V	196	10950337	swc	Venus, sayari ya jangwa iliyo na mawingu mazito ya asidi ya sulfuri, je! Iliongeza mustakabali wa Dunia?	\N	2022-06-30 05:14:44	2022-06-30 05:14:45
+87	0x57	W	1420	10983332	swc	Waliwaona?	\N	2022-07-12 04:30:46	2022-07-12 04:30:47
+88	0x58	X	8	10950076	swc	Filamu iko mu kiwango ya X.	\N	2022-06-30 05:00:13	2022-06-30 05:00:14
+89	0x59	Y	301	10926633	swc	Unaweza kutoka Washington kwenda New York na reli.	\N	2022-06-21 02:53:14	2022-06-21 02:53:16
+90	0x5a	Z	81	10947701	swc	Zaidi ya yote, hakuna mambo ya ujinga!	\N	2022-06-29 05:44:58	2022-06-29 05:44:59
 92	0x5c	\	1	10997543	swc	\\Anatokeya quartier za ngumu ya Marseille.	\N	2022-07-17 04:24:13	2022-07-17 04:24:14
 95	0x5f	_	2	10917382	swc	Kutokana na vyanzo vya habari vinavyo kamilika, ____ Ltd. inajiandaa kujiunga na sehemu ya kwanza ya Soko ya kiuchumi ya Tokyo.	\N	2022-06-17 04:39:00	2022-06-17 04:39:02
-97	0x61	a	23636	10988640	swc	Tulijipata hatuna pesa tena.	\N	2022-07-14 04:16:06	2022-07-14 04:16:07
-98	0x62	b	11655	10927100	swc	Tuliona halama za bidole ya nyama mu seluji.	\N	2022-06-21 03:16:12	2022-06-21 03:16:13
-99	0x63	c	5661	10958396	swc	Hii ni test yenyi inakuambia nani njo kandudeti ku ucaguzi wa rais ya Amerika mwenyi anastahili kwako zaidi.	\N	2022-07-03 04:32:05	2022-07-03 04:32:06
-100	0x64	d	10020	10997049	swc	Utafiti ya zaidi inahitajika.	\N	2022-07-17 03:55:33	2022-07-17 03:55:34
-101	0x65	e	18281	10929269	swc	Mzunguko wa matetemeko ya ardhi katika siku za hivi karibuni unatia wasiwasi.	\N	2022-06-22 04:22:27	2022-06-22 04:22:30
-102	0x66	f	7470	11012633	swc	Ni nani aliyekulazimisha kufanya hivi?	\N	2022-07-22 02:09:15	2022-07-22 02:09:16
-103	0x67	g	11184	10912444	swc	Niliona mtiani huu kuwa mgumu.	\N	2022-06-15 04:49:28	2022-06-15 04:49:29
-104	0x68	h	14867	11022265	swc	Mutayarishe batu yenu. Tuta toka asubui mapema.	\N	2022-07-25 04:06:03	2022-07-25 04:06:04
-105	0x69	i	23098	11003985	swc	Ikiwa ungeweza kwenda kuhishi kwenda kisiwa cha jangwa na uweze kubeba kitabu kimoja tu, unge chagua nini?	\N	2022-07-19 03:53:58	2022-07-19 03:54:00
-106	0x6a	j	7691	10929424	swc	Kama gisi wanazowea sema: mambo inajudiaka.	\N	2022-06-22 04:38:22	2022-06-22 04:38:24
-107	0x6b	k	20798	10956077	swc	Ah! dada mpendwa, ni tafurahi ku kuona unageuka mke wa mkulima mzuri na kuwa moja wa jirani zetu.	\N	2022-07-02 05:31:17	2022-07-02 05:31:19
-108	0x6c	l	15827	10902220	swc	Hatukualikwa kwenye sherehe.	\N	2022-06-11 09:11:04	2022-06-11 09:11:07
-109	0x6d	m	18616	11007013	swc	Utaambia wa jeshi wapite wa mwisho na kulunguza kilalo, kama vile nili wa ambiya.	\N	2022-07-20 03:56:35	2022-07-20 03:56:36
-110	0x6e	n	21503	11012770	swc	Watu waliendelea kuongezeka, / wanawake, watoto, wazee, na wengine wasiyo kuwa na bakati / wakielemewa na mizigo yabo ya buchafu, walihukumia kwenda ukumbizini.	\N	2022-07-22 02:16:23	2022-07-22 02:16:24
-111	0x6f	o	17043	10972263	swc	Temperature ya mwili inaongezeka, mapigo pia... Anakosa hewa.	\N	2022-07-08 04:32:52	2022-07-08 04:32:53
-112	0x70	p	8934	10944942	swc	Habari za muripuko ziko napita ku ma radio zote.	\N	2022-06-28 05:59:57	2022-06-28 05:59:59
-113	0x71	q	188	10994847	swc	Siku yenye vikundi vyenye kuwa na musimamo mkali wataweza kuharibu msikiti wa al-Aqsa, wakubwa wa inchi hawatafanya kitu chochote kwa kuwazuia.	\N	2022-07-16 04:46:37	2022-07-16 04:46:38
-114	0x72	r	11128	10958387	swc	Niko naona sawa haufikiri kama weye uko sehemu ya dunia. Unazani kama labda dunia ni sehemu yako, lakini unajidanganya.	\N	2022-07-03 04:31:33	2022-07-03 04:31:34
-115	0x73	s	15700	10980294	swc	Walishinda mashindamano ya quatre couple bila barreur.	\N	2022-07-11 04:28:06	2022-07-11 04:28:07
-116	0x74	t	15823	11018831	swc	Bahati inapendelea wenye kuwa kujiandaa.	\N	2022-07-24 03:58:03	2022-07-24 03:58:04
-117	0x75	u	21497	10906919	swc	Aksanti kwakunitumia barua muzuri.	\N	2022-06-13 04:44:05	2022-06-13 04:44:06
-118	0x76	v	3377	10978090	swc	Siyo vyepesi kuelezea gisi ya kuitamka juu ieleweke muzuri.	\N	2022-07-10 05:09:11	2022-07-10 05:09:12
-119	0x77	w	15831	10950156	swc	Siwezi ji uziya iyi.	\N	2022-06-30 05:04:40	2022-06-30 05:04:42
-120	0x78	x	160	10936604	swc	Fungua Mozilla Firefox.	\N	2022-06-25 05:59:21	2022-06-25 05:59:22
-121	0x79	y	15632	10991349	swc	Panda ku etage ya tatu tafazali.	\N	2022-07-15 03:56:35	2022-07-15 03:56:36
-122	0x7a	z	11904	10933598	swc	Soko haiwezi kufanya uwekezaji wa muda mrefu katika sekta ya umeme .	\N	2022-06-24 04:38:39	2022-06-24 04:38:41
-160	0xa0	 	47	10953174	swc	«Tunajaribu kukusanyika pamoja, kama, angalau mara moja kwa wiki.» «Na nyinyi nyote mnacheza na nani?»	\N	2022-07-01 04:30:34	2022-07-01 04:30:36
+97	0x61	a	23635	10922793	swc	Alijua hawata mupatia maua, ingekuwa siku kuu yake.	\N	2022-06-19 05:08:37	2022-06-19 05:08:38
+98	0x62	b	11655	10959169	swc	Ku ngambo yangu, sisafiri kwenda fasi fulani. Minasafiri kwa kusafiri tu. Ya maana ni kusafiri.	\N	2022-07-03 05:16:51	2022-07-03 05:16:52
+99	0x63	c	5661	11018985	swc	Johnny alimwambia Alice amuowe na Alice aliitika.	\N	2022-07-24 04:06:06	2022-07-24 04:06:08
+100	0x64	d	10019	10907301	swc	Anapenda ma myama zote bila chevaux.	\N	2022-06-13 05:05:53	2022-06-13 05:05:55
+101	0x65	e	18281	10961692	swc	Paradizo haiko mu dunia, lakini kuna bipande bipande yake. Kuna paradiso iliyovunjika mu dunia.	\N	2022-07-04 05:08:17	2022-07-04 05:08:18
+102	0x66	f	7469	10933711	swc	Samahani, siifanyi bila rafiki yako.	\N	2022-06-24 04:45:02	2022-06-24 04:45:03
+103	0x67	g	11183	11025379	swc	Kwa sababu ya pourcentage mingi ya hewa, watu walijisikia kuwa na bidii sana na nguvu.	\N	2022-07-26 03:42:56	2022-07-26 03:42:57
+104	0x68	h	14866	10953449	swc	Wakati unaingia mu darasani, unasimama nyuma ya kiti yako na una ngoa mwalimu aku patie ishara ya kukaa chini.	\N	2022-07-01 04:46:11	2022-07-01 04:46:13
+105	0x69	i	23097	10939019	swc	Sheria inalaani ushuhuda wa uwongo.	\N	2022-06-26 05:48:16	2022-06-26 05:48:17
+106	0x6a	j	7691	10982814	swc	Alivunja ahadi yake.	\N	2022-07-12 04:03:37	2022-07-12 04:03:39
+107	0x6b	k	20797	10961759	swc	Unataka kwendela kuwa tu mkubwa wa jeshi?	\N	2022-07-04 05:12:09	2022-07-04 05:12:11
+108	0x6c	l	15826	10925357	swc	Lee Leffingwell ana shimania baraza ya mashauri ya muji ya Austin.	\N	2022-06-20 05:01:22	2022-06-20 05:01:23
+109	0x6d	m	18615	10950611	swc	Kuna mara moja hupita, lakini usikubali kutokea mara nyingi sana.	\N	2022-06-30 05:29:38	2022-06-30 05:29:39
+110	0x6e	n	21502	10925232	swc	Walinzi wa gereza watafanya mugomo ya miezi tatu kuanzia leo busiku.	\N	2022-06-20 04:54:03	2022-06-20 04:54:04
+111	0x6f	o	17042	11015820	swc	Mtoto alifanya muzuri sana.	\N	2022-07-23 03:16:42	2022-07-23 03:16:43
+112	0x70	p	8933	10955385	swc	Kulingana na mpangilio wangu wakati huo yaliyomo katika kitabu hiki yangeundwa na data, ambayo itakuwa ya uwasilishaji wa mambo ya kiroho, habari madhubuti kwa mawazo yanayotumiwa katika uwanja wa sayansi asilia.	\N	2022-07-02 04:52:36	2022-07-02 04:52:37
+113	0x71	q	188	11000362	swc	Nili komala mu iyi quartier.	\N	2022-07-18 03:35:24	2022-07-18 04:49:03
+114	0x72	r	11127	10927508	swc	Mu hurumiye!	\N	2022-06-21 03:38:04	2022-06-21 03:38:05
+115	0x73	s	15699	10917328	swc	Fanya mshikamano na haki sawa kuwa jiwe la msingi la hatua ya umma.	\N	2022-06-17 04:36:05	2022-06-17 04:36:06
+116	0x74	t	15822	10941990	swc	Byenyi uko unaniuliza ni engagement ya lazima; aca niwaze kwanza juu yayo ...	\N	2022-06-27 05:24:49	2022-06-27 05:24:50
+117	0x75	u	21496	10980385	swc	Kobe wa majini ni viumbe vizuri sana.	\N	2022-07-11 04:33:12	2022-07-11 04:33:13
+118	0x76	v	3376	11006776	swc	Sami aliishi katika eneo ya vijijini sana.	\N	2022-07-20 03:43:28	2022-07-20 03:43:29
+119	0x77	w	15830	10917286	swc	Ujumla ya hesabu kamili ni mufano wa mwili kamili.	\N	2022-06-17 04:33:47	2022-06-17 04:33:48
+120	0x78	x	160	10947772	swc	Unawaza kama ma poil ku kifuwa inakuwaka sexi?	\N	2022-06-29 05:48:56	2022-06-29 05:48:58
+121	0x79	y	15631	11016356	swc	Kuwa muvumilivu mama, hata kawiya kufika.	\N	2022-07-23 03:44:46	2022-07-23 03:44:47
+122	0x7a	z	11903	11019653	swc	Mfalme aliombea roho za marehemu.	\N	2022-07-24 04:43:09	2022-07-24 04:43:10
+160	0xa0	 	47	10985437	swc	« Oh. Uko hai? » « Ndio. Batu bote biko wapi? » « JSijui. »	\N	2022-07-13 03:39:51	2022-07-13 03:39:53
 167	0xa7	§	1	10953594	swc	Vipengele tano ya maisha: §1 Usiwaze! §2 Wakati unawaza, usiseme! §3 Wakati unasema,usiandike! §4 Wakati unaandika, usisahini! §5 Kama unasahini, kwa hivyo usishangale!	\N	2022-07-01 04:54:25	2022-07-01 04:54:27
-171	0xab	«	312	10947869	swc	«Ni mchezo ya kupitisha wakati ya kushangaza yenye iko nayo, ule mwanafunzi wa mupya.» «Ni murembo, manake sina hata shida moya.»	\N	2022-06-29 05:54:30	2022-06-29 05:54:31
-176	0xb0	°	4	10930197	swc	Hakikisha ku kamata bus n°2, na ushukie ku barabara ya 21.	\N	2022-06-22 05:58:10	2022-06-22 05:58:12
+171	0xab	«	312	10977314	swc	«Niko mu kikundi ya watu wakufikiri» «Ah sijui kama ulikuwa nafikiria sana, pale mu kikundi yako, lakini ndio, uko sawa.»	\N	2022-07-10 04:26:03	2022-07-10 04:26:04
+176	0xb0	°	4	10953274	swc	Leo ni kifukutu mingi; ni 45 ° C fasi ya kivuli.	\N	2022-07-01 04:36:28	2022-07-01 04:36:29
 178	0xb2	²	1	10950514	swc	Daktari alijaribu kutosha lisasi ²ndani ya mugongo yake.	\N	2022-06-30 05:24:23	2022-06-30 05:24:24
-187	0xbb	»	320	10941961	swc	Decteteur ya compte yangu version 3000 ya kisasa, edition de luxe™ hakuitika hata motif moja «à la bora» kwa gisi inatumikaka.	\N	2022-06-27 05:23:05	2022-06-27 05:23:06
+187	0xbb	»	320	11004167	swc	«Ushuru mwingi huua ushuru.»	\N	2022-07-19 04:04:00	2022-07-19 04:04:01
 200	0xc8	È	1	10941652	swc	Sijuwe Ève ao d'Adam.	\N	2022-06-27 05:05:17	2022-06-27 05:05:19
-201	0xc9	É	12	11010226	swc	Énée alindaganywa yeye mwenyewe. Didon ana mukumbatiya, anamugusa sawa mutoto wa mufalme wa Troy na polepole upendo inaingiya ndani ya nafsi yake.	\N	2022-07-21 04:18:10	2022-07-21 04:18:12
+201	0xc9	É	12	11010108	swc	«Aliikala,kisha kufa kwake,ku kiti ca ufalme wa Énée,/Ascagne mara makumi tatu akaona mwaka inafika,/na, kutokea Lavinium mpaka ngambo ya Albains,/akakkuwa wa kwanza kubeba msinji ya Warumi.»	\N	2022-07-21 04:11:36	2022-07-21 04:11:37
 217	0xd9	Ù	1	10967813	swc	Kurudiya muparadizo kwa wakati ile ita kuwa piya mwisho ya kuvala manguo ya sasa, ndio ita kuwa shida kubwa kuÙ banamuke.	\N	2022-07-06 05:13:22	2022-07-06 05:13:24
-224	0xe0	à	12	10941743	swc	Alikuwaka na myaka kumi na mnane na nusu na déjà alikuwa alisha kuwa na relations tatu, zenyi ndani alikuwa alisha fanya ngono.	\N	2022-06-27 05:10:26	2022-06-27 05:10:27
+224	0xe0	à	12	10953223	swc	Le bonheur de mai frappe à ta porte.	\N	2022-07-01 04:33:29	2022-07-01 04:33:31
 225	0xe1	á	1	10917555	swc	Jarida la ugonjwa uliyotabiriwa ni riwaya ya mwandishi wa Colombia, Gabriel García Márquez.	\N	2022-06-17 04:48:51	2022-06-17 04:48:52
-226	0xe2	â	11	10972306	swc	Nataka kula chakula ya nyumbani, nyama ya ku kifua ya nguruwe ya kukalangiwa légumes ya châtaignes pembeni na supu nengyouchijiang.	\N	2022-07-08 04:35:17	2022-07-08 04:35:18
+226	0xe2	â	11	10933984	swc	Sikuweza ona chaâteau.	\N	2022-06-24 05:00:15	2022-06-24 05:00:16
 227	0xe3	ã	1	10936231	swc	Carlos ataenda São Paulo siku ya tatu.	\N	2022-06-25 05:42:31	2022-06-25 05:42:32
 228	0xe4	ä	1	10953544	swc	Hauwezi andika « Pfirsichbäumchen »? Ijapokuwa ni rahisi.	\N	2022-07-01 04:51:31	2022-07-01 04:51:32
-231	0xe7	ç	32	10974667	swc	Franga française ilikuwa franc, na alama yayo “F”. Ingawa haitumiki tena Ufaransa, faranga hiyo bado inatumiwa katika makoloni ya zamani ya Ufaransa, kama vile Guinea.	\N	2022-07-09 04:14:27	2022-07-09 04:14:28
-232	0xe8	è	83	10975518	swc	Piko benki kwenye kilometa mia kutoka kwenye bibliothèque.	\N	2022-07-09 05:02:28	2022-07-09 05:02:29
-233	0xe9	é	411	10909101	swc	Labda siyo busara kwako ujulishe kama uko présent.	\N	2022-06-14 04:37:18	2022-06-14 04:37:20
-234	0xea	ê	10	10922690	swc	Eurêka !	\N	2022-06-19 05:02:43	2022-06-19 05:02:44
-235	0xeb	ë	5	10988139	swc	Noël njema.	\N	2022-07-14 03:48:21	2022-07-14 03:48:22
+231	0xe7	ç	32	10972241	swc	Ba garçons walienda ngambo ya kaskazini.	\N	2022-07-08 04:31:40	2022-07-08 04:31:41
+232	0xe8	è	83	10932336	swc	Wa Anglo-Saxons wanatumia ma unités tafauti kuliko système métrique.	\N	2022-06-23 05:33:05	2022-06-23 05:33:06
+233	0xe9	é	411	10924507	swc	Unaweza tazama télévision baada ya chakula cha jioni.	\N	2022-06-20 04:11:53	2022-06-20 04:11:54
+234	0xea	ê	10	10947155	swc	Siwezi kuhudhuria ku fête lakini asante kwa kunialika.	\N	2022-06-29 05:13:19	2022-06-29 05:13:20
+235	0xeb	ë	5	11019723	swc	Sikia, Israëli! Bwana, Mungu wetu, Bwana ni umoja!	\N	2022-07-24 04:46:57	2022-07-24 04:46:58
 237	0xed	í	1	10917555	swc	Jarida la ugonjwa uliyotabiriwa ni riwaya ya mwandishi wa Colombia, Gabriel García Márquez.	\N	2022-06-17 04:48:51	2022-06-17 04:48:52
-238	0xee	î	6	11013139	swc	Tunaondoka: tunaona Oléaros tajiri, / Naxos chère ku Bacchus, na Paros nyeupe, / Donyse na shamba za vert, ma îles zinazo julikana / ambazo zina pandwa ku bahari kubwa za muviringo.	\N	2022-07-22 02:36:01	2022-07-22 02:36:02
-239	0xef	ï	9	10912477	swc	Anna Sergeiïevna alikuya muona Moscou.	\N	2022-06-15 04:51:28	2022-06-15 04:51:29
-244	0xf4	ô	7	10929712	swc	Mimi ni Alex Tulikutana kwenye hôtel juma iliyopita.	\N	2022-06-22 05:05:55	2022-06-22 05:05:58
+238	0xee	î	6	11007142	swc	Minaeza pata ka calîn.	\N	2022-07-20 04:03:48	2022-07-20 04:03:49
+239	0xef	ï	9	10986079	swc	Aïe ! Acha!	\N	2022-07-13 04:16:33	2022-07-13 04:16:35
+244	0xf4	ô	7	11003759	swc	Parc naturel regional ya Camargue, eneo kubwa la mvua lililo kwenye Delta ya Rhône, ni nzuri sana !	\N	2022-07-19 03:41:24	2022-07-19 03:41:25
 249	0xf9	ù	1	10965115	swc	Balikwama ùu ascenseur kwa masaa ine.	\N	2022-07-05 05:21:09	2022-07-05 05:21:10
 250	0xfa	ú	1	10990734	swc	Kwa sasa, ni wakati ya kifukutu huko Cancún.	\N	2022-07-15 03:22:33	2022-07-15 03:22:34
-251	0xfb	û	4	10920616	swc	ma goûts yangu ni tofauti sana na yako.	\N	2022-06-18 05:29:47	2022-06-18 05:29:49
+251	0xfb	û	4	10936161	swc	Niko sûr kama ulifanya byenyi uliwaza ni bya muzuri kufanya.	\N	2022-06-25 05:39:36	2022-06-25 05:39:38
 265	0x109	ĉ	1	10947195	swc	Alfabeti ya Kiesperanto inajumuisha herufi makumi mbili na munane: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:34	2022-06-29 05:15:35
 285	0x11d	ĝ	1	10947195	swc	Alfabeti ya Kiesperanto inajumuisha herufi makumi mbili na munane: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:34	2022-06-29 05:15:35
 293	0x125	ĥ	1	10947195	swc	Alfabeti ya Kiesperanto inajumuisha herufi makumi mbili na munane: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:34	2022-06-29 05:15:35
@@ -117,13 +117,13 @@
 351	0x15f	ş	1	11026044	swc	Alfabeti ya Kikurdi ina herufi makumi tatu na moya: a, b, c, ç, d, e, e, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	\N	2022-07-26 04:20:17	2022-07-26 04:20:18
 365	0x16d	ŭ	1	10947195	swc	Alfabeti ya Kiesperanto inajumuisha herufi makumi mbili na munane: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:34	2022-06-29 05:15:35
 7717	0x1e25	ḥ	1	11025731	swc	Tumupe sifa MoḥYa, ju tusisahabu, yeye mwenye labda anatusikiliza, kwa sababu anaishi hivi sasa kupitia maneno yake, milele na milele.	\N	2022-07-26 04:02:07	2022-07-26 04:02:08
-8203	0x200b	​	2	10931574	swc	Kiongozi kijana aliyepandishwa cheo, ​​mulevi wa mamulaka, alikuwa najifanya tajiri mbele ya wa fanyakazi wenzake wa zamani.	\N	2022-06-23 04:51:10	2022-06-23 04:51:12
+8203	0x200b	​	2	10933983	swc	Piko wakati alikuwa naonekana ghafla nyuma ya Emma, ​​kichwa wazi.	\N	2022-06-24 05:00:12	2022-06-24 05:00:13
 8212	0x2014	—	8	10983784	swc	"Je! Mukutano ulikuwa juu ya nini leo?" » — « Ilikuwa kuhusu kampeni ya Urusi munamo mwaka wa 1812. »	\N	2022-07-12 04:56:28	2022-07-12 04:56:29
 8216	0x2018	‘	5	11025121	swc	Aye? “Uli chukuwa tayari mapumuziko ya muchana? ‘ “juanini? Ni saangapi?”	\N	2022-07-26 03:28:22	2022-07-26 03:28:23
-8217	0x2019	’	6	10907679	swc	‘‘Hey, weye, funga kinywa! Unasema sana’’ Ma ganster wana sema.	\N	2022-06-13 05:28:08	2022-06-13 05:28:10
-8220	0x201c	“	32	10942169	swc	“Nilisoma maandishi kuhusu hizi hali mubaya zenye minaona. » « Hiyi ni muzuri, itakupatia nguvu! »	\N	2022-06-27 05:35:02	2022-06-27 05:35:03
-8221	0x201d	”	36	10953412	swc	Siko naweza elewa kama bana lala pamoya! Kwa “”nini isiwe hivyo? Ni sawa kabisa kuchukua teddy kubeba kitandani na wewe.»	\N	2022-07-01 04:44:13	2022-07-01 04:44:14
+8217	0x2019	’	6	10991589	swc	Wa koloni wa Cisjordania wana tarajia ku ‘‘acha inchi yao ya ahadi’’ kwa amani ya ma bombe za kulunguza na silaha za atomiki.	\N	2022-07-15 04:10:26	2022-07-15 04:10:27
+8220	0x201c	“	32	10952906	swc	Marie anasema, akiwaza: «Kuko “jambo” muhimu yenye ulisahabu kabisa, Tom, na ni: mimba yangu!»	\N	2022-07-01 04:15:27	2022-07-01 04:15:29
+8221	0x201d	”	36	10994064	swc	“Biolojia” ni neno ya kigriki inayo maanisha “utafiti ya viumbe hai.	\N	2022-07-16 04:01:40	2022-07-16 04:01:42
 8230	0x2026	…	3	11007018	swc	Kwa nyuma, milima hiyo ya hudhurungi iliyo na unajisi wa ajabu, nyumba hii ya watawa, misitu hii ya pine iliyofichwa nyuma ya ukungu wa uwazi… Kulikuwa na amani, kulikuwa na furaha!	\N	2022-07-20 03:56:51	2022-07-20 03:56:52
-8239	0x202f	 	18	11012595	swc	Ha ha ha ! Unapenda kuuwa inzi zote?	\N	2022-07-22 02:07:14	2022-07-22 02:07:16
+8239	0x202f	 	18	10930030	swc	Aie ! Kidole yangu ilibana mu mulango!	\N	2022-06-22 05:41:02	2022-06-22 05:41:05
 8477	0x211d	ℝ	1	10994840	swc	ℝ ni Archimédien : kwa X réel yoyote, kuko entier naturel N ambayo ni kubwa zaidi kuliko X.	\N	2022-07-16 04:46:13	2022-07-16 04:46:14
 8482	0x2122	™	1	10941961	swc	Decteteur ya compte yangu version 3000 ya kisasa, edition de luxe™ hakuitika hata motif moja «à la bora» kwa gisi inatumikaka.	\N	2022-06-27 05:23:05	2022-06-27 05:23:06

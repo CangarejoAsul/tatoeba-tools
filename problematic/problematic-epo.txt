@@ -4801,9 +4801,15 @@ Guillemets: closing mark preceeded by space	12292345	epo	La fazeolo « Coco de P
 Final punctuation	12298971	epo	Mi venas el Respubliko Pollando, vi venas el Germana Federacia Respubliko	GrizaLeono	2024-02-03 21:16:40	2024-02-03 21:16:40
 Capitalization	12299531	epo	teo kaj kafo ne donas akvon al nia korpo, sed ankaŭ malpliigas la akvon de la korpo.	Soomi	2024-02-04 10:57:21	2024-02-04 10:57:21
 Quotation marks: mixed curly and straight	12305538	epo	– Ĉu vi scias kiel diri "oferto" en la pola? – Mi scias: “oferta”.	carlosalberto	2024-02-08 14:12:41	2024-02-08 14:12:41
-Capitalization	12351892	epo	ĉit!	Maksimo	2024-03-03 11:53:16	2024-03-03 11:53:16
 Capitalization	12368907	epo	e estas neracionala nombro.	danepo	2024-03-12 21:16:51	2024-03-12 21:17:06
 Final punctuation	12371857	epo	Preĝu pli/	GrizaLeono	2024-03-14 19:19:49	2024-03-14 19:19:49
 English quotation marks: opening mark succeeded by space	12373071	epo	“Ĉu mi povas kisi vin?“ - demandis li timide.	dimitris	2024-03-15 18:12:39	2024-03-15 18:12:39
 English quotation marks: unclosed opening mark	12373071	epo	“Ĉu mi povas kisi vin?“ - demandis li timide.	dimitris	2024-03-15 18:12:39	2024-03-15 18:12:39
 English quotation marks: unbalanced opening marks	12373071	epo	“Ĉu mi povas kisi vin?“ - demandis li timide.	dimitris	2024-03-15 18:12:39	2024-03-15 18:12:39
+English quotation marks: unopened closing mark	12377179	epo	„Kien vi planas ferii?” – „En Kipro.”	PaulP	2024-03-18 10:28:08	2024-03-18 10:28:08
+English quotation marks: unbalanced closing marks	12377179	epo	„Kien vi planas ferii?” – „En Kipro.”	PaulP	2024-03-18 10:28:08	2024-03-18 10:28:08
+Low quotation mark: not used	12377179	epo	„Kien vi planas ferii?” – „En Kipro.”	PaulP	2024-03-18 10:28:08	2024-03-18 10:28:08
+Low quotation mark: not used	12377179	epo	„Kien vi planas ferii?” – „En Kipro.”	PaulP	2024-03-18 10:28:08	2024-03-18 10:28:08
+English quotation marks: unopened closing mark	12377180	epo	„Kial vi ne baniĝas? Ĉu vi alergias pri akvo?”	PaulP	2024-03-18 10:29:52	2024-03-18 10:29:52
+Low quotation mark: not used	12377180	epo	„Kial vi ne baniĝas? Ĉu vi alergias pri akvo?”	PaulP	2024-03-18 10:29:52	2024-03-18 10:29:52
+Low quotation mark: not used	12377180	epo	„Kial vi ne baniĝas? Ĉu vi alergias pri akvo?”	PaulP	2024-03-18 10:29:52	2024-03-18 10:29:52

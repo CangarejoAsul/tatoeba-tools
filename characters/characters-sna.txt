@@ -1,41 +1,41 @@
-32	0x20	 	43	3676530	sna	Mune imba yakadini?	\N	2014-12-05 21:37:36	2016-01-21 08:29:45
+32	0x20	 	43	3676544	sna	Tinotsvaira ngemutsvairo.	\N	2014-12-05 21:39:53	2016-01-21 08:29:25
 33	0x21	!	1	3676524	sna	Tinoida zvakanyanya kwazvo!	\N	2014-12-05 21:36:36	2016-01-21 08:29:48
-46	0x2e	.	41	3366460	sna	Tichasanda.	\N	2014-07-07 20:10:17	2016-01-21 08:29:58
-63	0x3f	?	5	3676530	sna	Mune imba yakadini?	\N	2014-12-05 21:37:36	2016-01-21 08:29:45
-65	0x41	A	7	2888672	sna	Anorarama nevabereki vake.	\N	2013-11-30 10:18:53	2016-01-21 08:31:05
+46	0x2e	.	41	3366456	sna	Achakuendera kuguta.	\N	2014-07-07 20:09:41	2016-01-21 08:30:14
+63	0x3f	?	5	3676526	sna	Chitoro chenyu chakadini?	\N	2014-12-05 21:37:00	2016-01-21 08:29:47
+65	0x41	A	7	11491727	sna	Akasarudza kutamira kuBelgium.	janTuki	2023-01-28 13:22:49	2023-01-28 13:23:07
 66	0x42	B	2	4232514	sna	Burj Khalifa ndicho chivakwa chihombe pasirose.	Balamax	2015-05-29 00:31:33	2015-05-29 00:31:37
-67	0x43	C	3	11491938	sna	Chitima chakasvika pachiteshi nenguva.	janTuki	2023-01-28 15:17:08	2023-01-28 15:17:08
+67	0x43	C	3	3676528	sna	Chitoro chedu chikuru.	\N	2014-12-05 21:37:14	2016-01-21 08:29:46
 69	0x45	E	1	2888673	sna	Emily akanyora chirevo.	\N	2013-11-30 10:23:59	2016-01-21 08:31:04
 71	0x47	G	1	5329044	sna	Goude ar chal an dichal.	Iriep	2016-08-09 09:03:42	2016-08-09 09:04:38
-72	0x48	H	5	3633480	sna	Handidi kuenda kuchikoro.	\N	2014-11-15 20:40:07	2016-01-21 08:30:00
-75	0x4b	K	2	4232514	sna	Burj Khalifa ndicho chivakwa chihombe pasirose.	Balamax	2015-05-29 00:31:33	2015-05-29 00:31:37
-77	0x4d	M	4	3676533	sna	Munoda yemarinyiko?	\N	2014-12-05 21:38:15	2016-01-21 08:29:32
-78	0x4e	N	9	3366428	sna	Ndichagocha nyama.	\N	2014-07-07 20:06:21	2016-01-27 08:37:15
+72	0x48	H	5	12119800	sna	Handisi muimbi.	enebi	2023-10-21 11:50:22	2023-10-21 11:50:39
+75	0x4b	K	2	5340600	sna	Kamba hadzina mazino.	Balamax	2016-08-13 19:04:42	2016-08-13 19:05:25
+77	0x4d	M	4	3676530	sna	Mune imba yakadini?	\N	2014-12-05 21:37:36	2016-01-21 08:29:45
+78	0x4e	N	9	3366433	sna	Ndichagadzira dovi.	\N	2014-07-07 20:07:10	2016-01-27 08:37:33
 80	0x50	P	1	11700199	sna	Pane aita mweya patiri pano.	BrianLegit	2023-04-21 22:45:07	2023-04-21 22:47:21
-84	0x54	T	10	3676544	sna	Tinotsvaira ngemutsvairo.	\N	2014-12-05 21:39:53	2016-01-21 08:29:25
-86	0x56	V	3	3366442	sna	Vanoda parafini.	\N	2014-07-07 20:08:13	2016-01-21 08:30:33
+84	0x54	T	10	3676524	sna	Tinoida zvakanyanya kwazvo!	\N	2014-12-05 21:36:36	2016-01-21 08:29:48
+86	0x56	V	3	3366454	sna	Vachavaka imba.	\N	2014-07-07 20:09:21	2016-01-21 08:30:11
 87	0x57	W	1	3163798	sna	Wakadini mukunda?	\N	2014-04-10 09:43:43	2016-01-21 08:31:00
-97	0x61	a	46	11491938	sna	Chitima chakasvika pachiteshi nenguva.	janTuki	2023-01-28 15:17:08	2023-01-28 15:17:08
-98	0x62	b	10	3366454	sna	Vachavaka imba.	\N	2014-07-07 20:09:21	2016-01-21 08:30:11
+97	0x61	a	46	11491727	sna	Akasarudza kutamira kuBelgium.	janTuki	2023-01-28 13:22:49	2023-01-28 13:23:07
+98	0x62	b	10	12119800	sna	Handisi muimbi.	enebi	2023-10-21 11:50:22	2023-10-21 11:50:39
 99	0x63	c	19	3676528	sna	Chitoro chedu chikuru.	\N	2014-12-05 21:37:14	2016-01-21 08:29:46
-100	0x64	d	34	4232514	sna	Burj Khalifa ndicho chivakwa chihombe pasirose.	Balamax	2015-05-29 00:31:33	2015-05-29 00:31:37
-101	0x65	e	27	3676528	sna	Chitoro chedu chikuru.	\N	2014-12-05 21:37:14	2016-01-21 08:29:46
-102	0x66	f	4	3366441	sna	Tichatenga parafini.	\N	2014-07-07 20:08:08	2016-01-21 08:30:34
-103	0x67	g	21	3647250	sna	Ndinozogara pano mwedzi wose.	\N	2014-11-20 22:51:12	2016-01-21 08:29:49
-104	0x68	h	21	4232514	sna	Burj Khalifa ndicho chivakwa chihombe pasirose.	Balamax	2015-05-29 00:31:33	2015-05-29 00:31:37
-105	0x69	i	43	3676524	sna	Tinoida zvakanyanya kwazvo!	\N	2014-12-05 21:36:36	2016-01-21 08:29:48
+100	0x64	d	34	3647248	sna	Ndinozogara pano gore rose.	\N	2014-11-20 22:50:50	2016-01-21 08:30:01
+101	0x65	e	27	3366458	sna	Haugoni kuenda kuguta.	\N	2014-07-07 20:09:59	2016-01-21 08:30:18
+102	0x66	f	4	3366442	sna	Vanoda parafini.	\N	2014-07-07 20:08:13	2016-01-21 08:30:33
+103	0x67	g	21	3366427	sna	Ndichamugochera nyama.	\N	2014-07-07 20:06:13	2016-01-27 08:37:10
+104	0x68	h	21	3366453	sna	Vachamuvakira imba.	\N	2014-07-07 20:09:14	2016-01-21 08:30:31
+105	0x69	i	43	3676544	sna	Tinotsvaira ngemutsvairo.	\N	2014-12-05 21:39:53	2016-01-21 08:29:25
 106	0x6a	j	1	4232514	sna	Burj Khalifa ndicho chivakwa chihombe pasirose.	Balamax	2015-05-29 00:31:33	2015-05-29 00:31:37
-107	0x6b	k	23	3366458	sna	Haugoni kuenda kuguta.	\N	2014-07-07 20:09:59	2016-01-21 08:30:18
+107	0x6b	k	23	3366453	sna	Vachamuvakira imba.	\N	2014-07-07 20:09:14	2016-01-21 08:30:31
 108	0x6c	l	4	11491727	sna	Akasarudza kutamira kuBelgium.	janTuki	2023-01-28 13:22:49	2023-01-28 13:23:07
-109	0x6d	m	24	4838919	sna	Hanzvadzi yangu inoda kutamba.	Balamax	2016-01-17 10:15:50	2016-01-17 10:16:24
-110	0x6e	n	40	3366428	sna	Ndichagocha nyama.	\N	2014-07-07 20:06:21	2016-01-27 08:37:15
-111	0x6f	o	29	11700199	sna	Pane aita mweya patiri pano.	BrianLegit	2023-04-21 22:45:07	2023-04-21 22:47:21
-112	0x70	p	10	3366442	sna	Vanoda parafini.	\N	2014-07-07 20:08:13	2016-01-21 08:30:33
-114	0x72	r	26	11491727	sna	Akasarudza kutamira kuBelgium.	janTuki	2023-01-28 13:22:49	2023-01-28 13:23:07
-115	0x73	s	14	3676544	sna	Tinotsvaira ngemutsvairo.	\N	2014-12-05 21:39:53	2016-01-21 08:29:25
-116	0x74	t	15	3676541	sna	Tinobika ngemugoti.	\N	2014-12-05 21:39:37	2016-01-21 08:29:31
-117	0x75	u	24	2888675	sna	Ari mudzimai wangu.	\N	2013-11-30 10:39:54	2016-01-21 08:31:01
-118	0x76	v	15	3366453	sna	Vachamuvakira imba.	\N	2014-07-07 20:09:14	2016-01-21 08:30:31
-119	0x77	w	6	3647250	sna	Ndinozogara pano mwedzi wose.	\N	2014-11-20 22:51:12	2016-01-21 08:29:49
-121	0x79	y	12	3676533	sna	Munoda yemarinyiko?	\N	2014-12-05 21:38:15	2016-01-21 08:29:32
-122	0x7a	z	12	3366436	sna	Ndichamugadzirira dovi.	\N	2014-07-07 20:07:26	2016-01-21 08:30:37
+109	0x6d	m	24	11491727	sna	Akasarudza kutamira kuBelgium.	janTuki	2023-01-28 13:22:49	2023-01-28 13:23:07
+110	0x6e	n	40	2888671	sna	Ndinokuda.	\N	2013-11-30 10:11:24	2016-01-21 08:31:14
+111	0x6f	o	29	3366442	sna	Vanoda parafini.	\N	2014-07-07 20:08:13	2016-01-21 08:30:33
+112	0x70	p	10	3676532	sna	Mipanda yakadini?	\N	2014-12-05 21:37:52	2016-01-21 08:29:33
+114	0x72	r	26	11700185	sna	Ndaane nenzara.	BrianLegit	2023-04-21 22:34:45	2023-04-21 22:34:45
+115	0x73	s	14	4231817	sna	Maswerasei.	Balamax	2015-05-28 16:33:56	2015-05-29 00:18:17
+116	0x74	t	15	3676528	sna	Chitoro chedu chikuru.	\N	2014-12-05 21:37:14	2016-01-21 08:29:46
+117	0x75	u	24	3676530	sna	Mune imba yakadini?	\N	2014-12-05 21:37:36	2016-01-21 08:29:45
+118	0x76	v	15	11491938	sna	Chitima chakasvika pachiteshi nenguva.	janTuki	2023-01-28 15:17:08	2023-01-28 15:17:08
+119	0x77	w	6	3676524	sna	Tinoida zvakanyanya kwazvo!	\N	2014-12-05 21:36:36	2016-01-21 08:29:48
+121	0x79	y	12	3676524	sna	Tinoida zvakanyanya kwazvo!	\N	2014-12-05 21:36:36	2016-01-21 08:29:48
+122	0x7a	z	12	3647248	sna	Ndinozogara pano gore rose.	\N	2014-11-20 22:50:50	2016-01-21 08:30:01

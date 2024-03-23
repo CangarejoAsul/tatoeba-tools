@@ -1,36 +1,36 @@
-32	0x20	 	53	8992982	lut	spaʔc tiʔił	EricYarnell	2020-08-24 19:35:54	2020-08-24 20:12:34
-46	0x2e	.	18	8994018	lut	ləʔibəš čəł ʔi tsə mali.	EricYarnell	2020-08-25 08:15:40	2020-08-31 17:40:54
+32	0x20	 	53	8992985	lut	sqigʷəc tiʔił	EricYarnell	2020-08-24 19:36:42	2020-08-31 21:30:02
+46	0x2e	.	18	8994011	lut	ʔuqʷulułs.	EricYarnell	2020-08-25 08:12:12	2020-08-31 21:28:47
 63	0x3f	?	2	8992980	lut	stab əw̓ə tiʔił?	EricYarnell	2020-08-24 19:35:37	2020-08-27 20:18:00
-97	0x61	a	36	8994015	lut	ʔəslaqil čəd.	EricYarnell	2020-08-25 08:13:51	2020-08-31 21:28:34
-98	0x62	b	26	8993995	lut	ʔuʔabyid čəd ti č́ač́as ʔə ti sqʷəbayʔ.	EricYarnell	2020-08-25 08:05:36	2020-08-31 17:45:48
-99	0x63	c	5	8992985	lut	sqigʷəc tiʔił	EricYarnell	2020-08-24 19:36:42	2020-08-31 21:30:02
-100	0x64	d	34	8991891	lut	q́ʷəlb čəd ʔə ti sʔuladxʷ	EricYarnell	2020-08-24 07:48:24	2020-08-24 20:15:44
-101	0x65	e	2	8992499	lut	ʔugʷəč́teb ʔə ti č́ač́as ti sqʷəbayʔ	EricYarnell	2020-08-24 17:10:35	2020-08-31 21:31:18
-103	0x67	g	9	8992939	lut	ʔugʷəč́əb čəd ʔə tsi č́ač́as	EricYarnell	2020-08-24 19:14:51	2020-08-27 20:17:49
-104	0x68	h	3	8992506	lut	ʔulax̌dxʷəxʷ tiʔił tudshuy	EricYarnell	2020-08-24 17:13:18	2020-08-31 21:31:07
-105	0x69	i	41	8992490	lut	ʔuʔəýdxʷ ti sqʷəbayʔ	EricYarnell	2020-08-24 17:07:49	2020-08-31 21:32:07
+97	0x61	a	36	8991898	lut	ʔułidid čəd ti sqʷəbayʔ	EricYarnell	2020-08-24 07:49:21	2020-08-24 20:15:38
+98	0x62	b	26	8993999	lut	ʔuʔabyid ti č̓ač̓as ʔə ti sqʷəbayʔ	EricYarnell	2020-08-25 08:06:55	2020-08-31 21:29:17
+99	0x63	c	5	8991903	lut	t́ućud čəd tə sqiqʷəc	EricYarnell	2020-08-24 07:50:54	2020-08-27 20:17:37
+100	0x64	d	34	8994002	lut	ʔəsq̓ʷuʔ tiʔił ʔiišəds.	EricYarnell	2020-08-25 08:07:57	2020-08-31 21:29:10
+101	0x65	e	2	8994016	lut	tul̓ʔal čəd sqaǰet.	EricYarnell	2020-08-25 08:15:01	2020-08-31 21:28:27
+103	0x67	g	9	8992497	lut	ʔugʷəč́əb ti č́ač́as ʔə ti sqəlalitut	EricYarnell	2020-08-24 17:09:55	2020-08-31 21:31:25
+104	0x68	h	3	8992502	lut	haʔł ʔuk̓ʷik̓ʷəł tiʔəʔ qʷuʔ	EricYarnell	2020-08-24 17:12:26	2020-08-31 21:31:02
+105	0x69	i	41	8992947	lut	ʔuʔux̌ʷtub ʔə ti luƛ̓ ti č́ač́as	EricYarnell	2020-08-24 19:17:07	2020-08-31 21:30:22
 107	0x6b	k	2	8992502	lut	haʔł ʔuk̓ʷik̓ʷəł tiʔəʔ qʷuʔ	EricYarnell	2020-08-24 17:12:26	2020-08-31 21:31:02
-108	0x6c	l	23	8993997	lut	x̌ʷul̓ p̓aƛ̓aƛ̓ tiʔəʔ dsʔabyid	EricYarnell	2020-08-25 08:06:25	2020-08-31 21:29:23
+108	0x6c	l	23	8992506	lut	ʔulax̌dxʷəxʷ tiʔił tudshuy	EricYarnell	2020-08-24 17:13:18	2020-08-31 21:31:07
 109	0x6d	m	1	8994018	lut	ləʔibəš čəł ʔi tsə mali.	EricYarnell	2020-08-25 08:15:40	2020-08-31 17:40:54
-112	0x70	p	6	8992982	lut	spaʔc tiʔił	EricYarnell	2020-08-24 19:35:54	2020-08-24 20:12:34
-113	0x71	q	28	8992479	lut	ʔuqʷulutsut tsi č́ač́as	EricYarnell	2020-08-24 17:05:42	2020-08-31 21:32:38
-115	0x73	s	49	8992998	lut	stab haẃəʔ tiʔił?	EricYarnell	2020-08-24 19:40:54	2020-08-31 21:29:48
-116	0x74	t	46	8994014	lut	ʔuqʷulułsut.	EricYarnell	2020-08-25 08:13:13	2020-08-31 21:28:41
-117	0x75	u	49	8992488	lut	ʔuʔəýdxʷ čəd ti sqʷəbayʔ	EricYarnell	2020-08-24 17:07:28	2020-08-31 21:32:13
+112	0x70	p	6	8991874	lut	ʔupusud čəd	EricYarnell	2020-08-24 07:40:56	2020-08-31 21:33:16
+113	0x71	q	28	8994014	lut	ʔuqʷulułsut.	EricYarnell	2020-08-25 08:13:13	2020-08-31 21:28:41
+115	0x73	s	49	8992499	lut	ʔugʷəč́teb ʔə ti č́ač́as ti sqʷəbayʔ	EricYarnell	2020-08-24 17:10:35	2020-08-31 21:31:18
+116	0x74	t	46	8991903	lut	t́ućud čəd tə sqiqʷəc	EricYarnell	2020-08-24 07:50:54	2020-08-27 20:17:37
+117	0x75	u	49	8992947	lut	ʔuʔux̌ʷtub ʔə ti luƛ̓ ti č́ač́as	EricYarnell	2020-08-24 19:17:07	2020-08-31 21:30:22
 119	0x77	w	1	8992980	lut	stab əw̓ə tiʔił?	EricYarnell	2020-08-24 19:35:37	2020-08-27 20:18:00
-120	0x78	x	15	8991877	lut	ʔupusudxʷ čəd	EricYarnell	2020-08-24 07:42:22	2020-08-24 20:15:13
-121	0x79	y	13	8991898	lut	ʔułidid čəd ti sqʷəbayʔ	EricYarnell	2020-08-24 07:49:21	2020-08-24 20:15:38
+120	0x78	x	15	8992488	lut	ʔuʔəýdxʷ čəd ti sqʷəbayʔ	EricYarnell	2020-08-24 17:07:28	2020-08-31 21:32:13
+121	0x79	y	13	8993999	lut	ʔuʔabyid ti č̓ač̓as ʔə ti sqʷəbayʔ	EricYarnell	2020-08-25 08:06:55	2020-08-31 21:29:17
 253	0xfd	ý	3	8992490	lut	ʔuʔəýdxʷ ti sqʷəbayʔ	EricYarnell	2020-08-24 17:07:49	2020-08-31 21:32:07
 263	0x107	ć	1	8991903	lut	t́ućud čəd tə sqiqʷəc	EricYarnell	2020-08-24 07:50:54	2020-08-27 20:17:37
-269	0x10d	č	38	8992928	lut	ʔugʷəč́əd tsi č́ač́as	EricYarnell	2020-08-24 19:12:56	2020-08-31 21:31:12
+269	0x10d	č	38	8993977	lut	ʔuʔəƛ̓ čəł.	EricYarnell	2020-08-25 07:59:42	2020-08-31 17:49:02
 322	0x142	ł	22	8994011	lut	ʔuqʷulułs.	EricYarnell	2020-08-25 08:12:12	2020-08-31 21:28:47
 353	0x161	š	6	8992941	lut	ʔušabatəb ʔə tsi luƛ̓ ti sʔuladxʷ	EricYarnell	2020-08-24 19:15:49	2020-08-31 21:30:36
-411	0x19b	ƛ	10	8992941	lut	ʔušabatəb ʔə tsi luƛ̓ ti sʔuladxʷ	EricYarnell	2020-08-24 19:15:49	2020-08-31 21:30:36
+411	0x19b	ƛ	10	8993981	lut	ʔuʔəƛ̓.	EricYarnell	2020-08-25 08:00:28	2020-08-31 17:50:38
 496	0x1f0	ǰ	1	8994016	lut	tul̓ʔal čəd sqaǰet.	EricYarnell	2020-08-25 08:15:01	2020-08-31 21:28:27
-601	0x259	ə	51	8991877	lut	ʔupusudxʷ čəd	EricYarnell	2020-08-24 07:42:22	2020-08-24 20:15:13
-660	0x294	ʔ	57	8992982	lut	spaʔc tiʔił	EricYarnell	2020-08-24 19:35:54	2020-08-24 20:12:34
-695	0x2b7	ʷ	40	8993979	lut	ʔuʔəƛ̓ čəxʷ.	EricYarnell	2020-08-25 08:00:07	2020-08-31 17:48:54
-769	0x301	́	15	8992497	lut	ʔugʷəč́əb ti č́ač́as ʔə ti sqəlalitut	EricYarnell	2020-08-24 17:09:55	2020-08-31 21:31:25
-780	0x30c	̌	4	8992943	lut	ʔuʔux̌ʷcəb ʔə ti luƛ̓ ti č́ač́as	EricYarnell	2020-08-24 19:16:27	2020-08-31 21:30:29
-787	0x313	̓	21	8994016	lut	tul̓ʔal čəd sqaǰet.	EricYarnell	2020-08-25 08:15:01	2020-08-31 21:28:27
+601	0x259	ə	51	8994006	lut	ʔuʔəłtubš.	EricYarnell	2020-08-25 08:11:23	2020-08-31 17:43:50
+660	0x294	ʔ	57	8993990	lut	ʔəsluud čəd.	EricYarnell	2020-08-25 08:02:23	2020-08-31 21:29:31
+695	0x2b7	ʷ	40	8994002	lut	ʔəsq̓ʷuʔ tiʔił ʔiišəds.	EricYarnell	2020-08-25 08:07:57	2020-08-31 21:29:10
+769	0x301	́	15	8991914	lut	ʔuʔabyid ti č́ač̓́as	EricYarnell	2020-08-24 07:52:45	2020-08-31 21:32:44
+780	0x30c	̌	4	8992947	lut	ʔuʔux̌ʷtub ʔə ti luƛ̓ ti č́ač́as	EricYarnell	2020-08-24 19:17:07	2020-08-31 21:30:22
+787	0x313	̓	21	8993979	lut	ʔuʔəƛ̓ čəxʷ.	EricYarnell	2020-08-25 08:00:07	2020-08-31 17:48:54
 7811	0x1e83	ẃ	1	8992998	lut	stab haẃəʔ tiʔił?	EricYarnell	2020-08-24 19:40:54	2020-08-31 21:29:48
