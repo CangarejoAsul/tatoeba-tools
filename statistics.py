@@ -10,6 +10,9 @@ from re import findall, I, search, sub
 from regex import findall as find
 from unicodedata import normalize
 
+minimum = 50
+minimumasian = 20
+
 def cleanupforhashing(text):
   text = normalize("NFKC", text)
   # text = sub(r"""\s+""", "", text)
@@ -127,7 +130,7 @@ def writelanguageset():
     if fields[1] not in frequency:
       frequency[fields[1]] = 0
       sample[fields[1]] = line
-    if len(fields[2]) >= 50:
+    if len(fields[2]) >= minimum or fields[1] in ("cmn", "jpn", "kor", "lzh", "wuu", "yue") and len(fields[2]) >= minimumasian:
       frequency[fields[1]] += 1
       if randint(1, frequency[fields[1]]) == 1:
         sample[fields[1]] = line
@@ -451,7 +454,7 @@ def selectsentences():
       file = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
       for line in file:
         fields = findall(r"[^\t\n]+", line)
-        if len(fields[2]) >= 50:
+        if len(fields[2]) >= minimum or fields[1] in ("cmn", "jpn", "kor", "lzh", "wuu", "yue") and len(fields[2]) >= minimumasian:
           sentence = getwordsinlanguage(janome, kkma, language, fields[2].lower())
           for word in sentence:
             if word not in dictionary:
