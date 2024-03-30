@@ -4201,7 +4201,6 @@ Question mark: preceeded by letter or digit	8660566	fra	Il s'est trompé, non?	J
 Question mark: preceeded by letter or digit	8660568	fra	Elle s'est trompée, non?	Julien_PDC	2020-04-06 11:52:24	2020-04-06 11:52:24
 Question mark: preceeded by letter or digit	8660838	fra	Êtes-vous sérieux au sujet de cette question?	Julien_PDC	2020-04-06 12:44:11	2020-04-06 12:44:11
 Colon: preceeded by letter or punctuation	8665375	fra	L'artiste Jean-Louis Aubert a apparemment raison de dire: « Si vous avez de la joie en vous, vous attrapez plus facilement le bonheur. » Ainsi, en toutes circonstances, le bienheureux ne sera jamais complètement abattu ; il gardera toujours un peu de verve. C'est ce qu'on pourrait appeler la résilience.	AmarMecheri	2020-04-08 19:54:39	2020-04-08 19:54:39
-Semicolon: not preceeded by space	8665662	fra	Il faut faire coulisser le manche du pic quand vous piochez; il ne faut surtout pas le retenir !	AmarMecheri	2020-04-08 22:52:45	2020-04-08 22:52:45
 Question mark: preceeded by letter or digit	8672237	fra	« Cet homme est-il marié? » « Non, il est divorcé. »	felix63	2020-04-11 19:39:54	2020-04-11 19:40:29
 Exclamation mark: preceeded by letter or digit	8674804	fra	Souvenez-vous!	virgil	2020-04-12 20:01:03	2020-04-12 20:01:03
 Exclamation mark: preceeded by letter or digit	8678784	fra	Oui, baise-moi!	virgil	2020-04-13 23:09:44	2020-04-13 23:09:44
@@ -4951,7 +4950,6 @@ Final punctuation	12163019	fra	La mendicité est interdite dans la zone métropo
 Question mark: preceeded by letter or digit	12168438	fra	Tu es d'accord, n'est-ce pas?	LdjuherTaqvaylit	2023-11-19 15:35:35	2023-11-19 15:35:35
 Guillemets: unclosed opening mark	12170277	fra	Sri Ramana Maharshi (30.12.1879-14.04.1950), qui est mort d'un cancer, lorsque ses disciples lui demandaient s'il ressentait de la douleur, il avait l'habitude de répondre : Il y a de la douleur dans mon corps. Il a écrit le livre « Qui suis-je ? ".	carlosalberto	2023-11-20 20:02:27	2023-11-20 20:02:27
 Straight quotation marks: odd number	12170277	fra	Sri Ramana Maharshi (30.12.1879-14.04.1950), qui est mort d'un cancer, lorsque ses disciples lui demandaient s'il ressentait de la douleur, il avait l'habitude de répondre : Il y a de la douleur dans mon corps. Il a écrit le livre « Qui suis-je ? ".	carlosalberto	2023-11-20 20:02:27	2023-11-20 20:02:27
-Final punctuation	12172302	fra	Ces lunettes vous vont très bien	\N	2023-11-22 12:53:42	2023-11-22 12:53:45
 Quotation marks: mixed curly and straight	12176507	fra	C'est important de s’entraider.	Rovo	2023-11-24 17:32:33	2023-11-24 17:32:33
 Question mark: preceeded by letter or digit	12176784	fra	Avez-vous des nouvelles?	xallace	2023-11-24 20:36:56	2023-11-24 20:36:56
 Question mark: preceeded by letter or digit	12176862	fra	Voulez-vous venir avec moi?	xallace	2023-11-24 21:10:44	2023-11-24 21:10:44
@@ -5007,4 +5005,5 @@ Final punctuation	12365113	fra	Je l'ai cherché en vain	Rafik	2024-03-10 20:25:4
 Quotation marks: mixed curly and straight	12371797	fra	La plupart des gens savent que l’eau de mer n'est pas potable.	Rovo	2024-03-14 19:01:29	2024-03-14 19:01:29
 Exclamation mark: preceeded by letter or digit	12374579	fra	Les fils de ma mère se sont emportés contre moi, ils m'ont mise à garder les vignes. Ma vigne a moi, je ne l'avais pas gardée!	carlosalberto	2024-03-16 12:30:29	2024-03-16 12:30:29
 Final punctuation	12379181	fra	Elle est en chemin vers Ait Wemouche	slahatuvelli	2024-03-19 16:45:21	2024-03-19 16:45:21
-Final punctuation	12382259	fra	Elle bâille toute la journée	LdjuherTaqvaylit	2024-03-22 02:18:44	2024-03-22 02:18:44
+Final punctuation	12387735	fra	Elle considère son patron comme son propre père	Tighra_tlelli	2024-03-25 13:29:09	2024-03-25 13:29:09
+Quotation marks: mixed curly and straight	12389747	fra	Tout ce qui a trait aux sciences, à la philosophie et l’humanité m'intéresse.	madjidoumnia	2024-03-26 19:25:52	2024-03-26 19:25:52

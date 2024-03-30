@@ -1,83 +1,83 @@
-32	0x20	 	961	4747333	csb	Dożdżë le sztócëk.	RadzieckiFuteral	2015-12-06 00:17:24	2018-05-14 23:31:54
-33	0x21	!	25	4712700	csb	Jes të ale bladi!	RadzieckiFuteral	2015-11-20 00:16:47	2015-11-20 00:16:47
+32	0x20	 	961	6920797	csb	Njedrëch mòjewo njedrëcha je mój drëch.	RadzieckiFuteral	2018-05-30 00:31:50	2018-05-30 00:31:50
+33	0x21	!	25	6918811	csb	To je vnetka pół noce, bjéj v łóżkò!	RadzieckiFuteral	2018-05-28 23:39:17	2018-05-28 23:39:17
 34	0x22	"	1	4719712	csb	Rzeklë kùcharzevi "dzëkùjemë za stravã".	RadzieckiFuteral	2015-11-23 05:52:22	2018-05-16 08:52:16
-44	0x2c	,	189	6918744	csb	Szkòda, le jô jem procmù temù projektovi.	RadzieckiFuteral	2018-05-28 22:52:31	2018-05-28 22:52:31
-45	0x2d	-	7	6907280	csb	Rôz na rok - to nje je czãsto.	RadzieckiFuteral	2018-05-23 19:02:47	2018-05-23 19:02:47
-46	0x2e	.	809	6897651	csb	Dzisô nji móm njiżódnë pjenjõdze.	RadzieckiFuteral	2018-05-18 22:21:31	2018-05-18 22:21:31
+44	0x2c	,	189	6920680	csb	To, co wona rzekła, nje je richtich.	RadzieckiFuteral	2018-05-30 00:07:11	2018-05-30 00:07:11
+45	0x2d	-	7	6895162	csb	Jô wostavjił notércji v jisbji - doraza je halóm.	RadzieckiFuteral	2018-05-17 09:31:49	2018-05-17 09:31:56
+46	0x2e	.	809	4712564	csb	Më jesmë rechcenvalcë.	RadzieckiFuteral	2015-11-19 22:50:38	2015-11-19 22:50:38
 48	0x30	0	1	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
 49	0x31	1	2	4712704	csb	Zalatos Ken bõdze 15 lat stôri.	RadzieckiFuteral	2015-11-20 00:21:12	2018-05-20 23:23:50
 51	0x33	3	1	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
 53	0x35	5	1	4712704	csb	Zalatos Ken bõdze 15 lat stôri.	RadzieckiFuteral	2015-11-20 00:21:12	2018-05-20 23:23:50
 56	0x38	8	1	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
 58	0x3a	:	3	6918769	csb	A jô wodpòvjôdajã: njé.	RadzieckiFuteral	2018-05-28 23:08:05	2018-05-28 23:08:05
-63	0x3f	?	130	6904352	csb	Je tú vjele jinozemscjich lëdzi?	RadzieckiFuteral	2018-05-21 23:02:19	2018-05-21 23:02:19
-65	0x41	A	18	6892532	csb	Afrikanscjé zvjérzãta sõ pò prôvdze pjãkné.	RadzieckiFuteral	2018-05-15 12:46:04	2018-05-15 12:46:04
-66	0x42	B	18	6918784	csb	Bez té knidzji jô bë nji móg sã wuczëc.	RadzieckiFuteral	2018-05-28 23:17:13	2018-05-28 23:17:13
-67	0x43	C	46	6891837	csb	Cjéj të nje znajesz znaczenjéwo jacjéwo słova, pòszëkéj ve słovarzú.	RadzieckiFuteral	2018-05-15 00:01:05	2018-05-15 00:01:05
-68	0x44	D	49	4719731	csb	Dô to v Njemcach vjeldzjé rzécji?	RadzieckiFuteral	2015-11-23 05:55:59	2018-05-15 19:06:12
-69	0x45	E	8	6902488	csb	Esperanto mô vjele dërżenjóv słóv z jinjdoeuropscjich jãzëkóv.	RadzieckiFuteral	2018-05-20 23:09:07	2018-05-20 23:09:07
-70	0x46	F	7	6903967	csb	Fadil a Layla mjeszka pòd jednim dakã.	RadzieckiFuteral	2018-05-21 14:23:28	2018-05-21 14:23:28
-71	0x47	G	16	4712703	csb	Gdzeż të môsz në bjałcji vjidzoné?	RadzieckiFuteral	2015-11-20 00:20:21	2018-05-16 09:09:47
-74	0x4a	J	264	8925177	csb	Jesz jeden szrët ë jô bë béł z klifù spadłi.	RadzieckiFuteral	2020-07-19 11:43:25	2020-07-19 11:43:25
-75	0x4b	K	31	6895144	csb	Kùleż wocjen tú sõ?	RadzieckiFuteral	2018-05-17 09:22:36	2018-05-17 09:22:36
-76	0x4c	L	8	6903967	csb	Fadil a Layla mjeszka pòd jednim dakã.	RadzieckiFuteral	2018-05-21 14:23:28	2018-05-21 14:23:28
-77	0x4d	M	103	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
-78	0x4e	N	41	4712878	csb	Njechtërni lëdze vjerzõ, co lëczba trzënôsce przënôszô njeszczescé.	RadzieckiFuteral	2015-11-20 02:11:41	2018-05-16 21:01:39
+63	0x3f	?	130	6905923	csb	Mùszã jô płacëc vprzódk?	RadzieckiFuteral	2018-05-23 00:06:47	2018-05-23 00:06:47
+65	0x41	A	18	4728422	csb	Andora je môłé ksãżtvò, chtërno sã pòcigô mjedzë Szpanjolskõ a Francëjõ.	RadzieckiFuteral	2015-11-27 02:11:18	2018-05-15 19:03:58
+66	0x42	B	18	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
+67	0x43	C	46	6909817	csb	Czemùż të płaczesz, mùlkù?	RadzieckiFuteral	2018-05-24 23:52:42	2018-05-24 23:52:42
+68	0x44	D	49	6892479	csb	Déj mje pòkú.	RadzieckiFuteral	2018-05-15 12:23:29	2018-05-15 12:23:29
+69	0x45	E	8	4712536	csb	Kùleż jãzëkóv to dô v Europje?	RadzieckiFuteral	2015-11-19 22:31:34	2018-05-20 23:35:57
+70	0x46	F	7	4712709	csb	Fliger jõł spadac, cjéj drëdzji mòtór sã skaził.	RadzieckiFuteral	2015-11-20 00:26:15	2018-05-14 23:06:47
+71	0x47	G	16	6897664	csb	Gdzeż won je?	RadzieckiFuteral	2018-05-18 22:40:47	2018-05-18 22:40:47
+74	0x4a	J	264	8925151	csb	Dożdżë. Jô chcã cë co rzec.	RadzieckiFuteral	2020-07-19 11:31:10	2020-07-19 11:31:10
+75	0x4b	K	31	4712731	csb	Kjijevô je stolëca Wûkrájnë.	RadzieckiFuteral	2015-11-20 00:50:04	2015-11-20 00:50:04
+76	0x4c	L	8	6920676	csb	Lëdze sõ njelogiczni.	RadzieckiFuteral	2018-05-30 00:04:42	2018-05-30 00:04:42
+77	0x4d	M	103	4728466	csb	Ma jesma z Njemc.	RadzieckiFuteral	2015-11-27 02:31:41	2015-11-27 02:31:41
+78	0x4e	N	41	6904356	csb	Nje lúbjã bëc sóm doma.	RadzieckiFuteral	2018-05-21 23:04:16	2018-05-21 23:04:16
 79	0x4f	O	2	4730253	csb	Dobridzenj, jesce vë Ogawa?	RadzieckiFuteral	2015-11-27 18:37:18	2015-11-27 18:37:18
-80	0x50	P	35	6918787	csb	Paulëna mô różevõ mùcã.	RadzieckiFuteral	2018-05-28 23:19:05	2018-05-28 23:19:05
-82	0x52	R	11	6907280	csb	Rôz na rok - to nje je czãsto.	RadzieckiFuteral	2018-05-23 19:02:47	2018-05-23 19:02:47
-83	0x53	S	31	6904365	csb	Starszé tepjichë sõ drogszé jak nové.	RadzieckiFuteral	2018-05-21 23:09:44	2018-05-21 23:09:44
-84	0x54	T	207	6892934	csb	Të môsz trëmõd knig.	RadzieckiFuteral	2018-05-15 18:48:56	2018-05-15 18:48:56
-86	0x56	V	42	4712538	csb	Vjeleż jãzëkóv to dô v Europje?	RadzieckiFuteral	2015-11-19 22:31:56	2018-05-14 23:20:22
-87	0x57	W	106	6892453	csb	Wona szła tam vczerô.	RadzieckiFuteral	2018-05-15 12:02:31	2018-05-15 12:02:31
-90	0x5a	Z	13	6905903	csb	Zó czim të szúkôsz?	RadzieckiFuteral	2018-05-22 23:57:26	2018-05-22 23:57:26
-97	0x61	a	672	4712534	csb	Klúcz njigdze nje béł do nalézenjô.	RadzieckiFuteral	2015-11-19 22:30:51	2018-05-20 23:08:10
-98	0x62	b	333	4728446	csb	Jejé zãbë bëłë bjôłé.	RadzieckiFuteral	2015-11-27 02:22:45	2018-05-15 00:15:22
-99	0x63	c	578	8929401	csb	Jô jem wolni człovjek.	RadzieckiFuteral	2020-07-21 11:53:45	2020-07-21 11:53:45
-100	0x64	d	539	6915493	csb	Dzôtkò, za chtërnégò bavjidłama jô szúkóm, je mój sin.	RadzieckiFuteral	2018-05-27 01:16:05	2018-05-27 01:16:05
-101	0x65	e	780	4728460	csb	Jejé famjilëjô je barzo vjelgô.	RadzieckiFuteral	2015-11-27 02:30:01	2018-05-15 00:13:32
-102	0x66	f	62	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
-103	0x67	g	190	6892933	csb	Të môsz skòpjicõ knig.	RadzieckiFuteral	2018-05-15 18:48:47	2018-05-15 18:48:47
-104	0x68	h	206	4719755	csb	Jô cë radzã, że të bë njechôł kùrzëc.	RadzieckiFuteral	2015-11-23 06:00:29	2018-05-15 19:05:58
-105	0x69	i	603	8929358	csb	Njicht nje chce temù przësvjadczëc.	RadzieckiFuteral	2020-07-21 11:41:14	2020-07-21 11:41:14
-106	0x6a	j	838	4730280	csb	Jô chcã napjisac knigã.	RadzieckiFuteral	2015-11-27 18:44:39	2018-05-14 23:32:18
-107	0x6b	k	455	4684529	csb	Tatk je jidzoni pò vjeczerzi bjegac.	Piteris	2015-11-07 16:30:31	2021-09-05 10:20:31
-108	0x6c	l	327	6915470	csb	Spëtéjce jewo, cjéj ten nasladovczi fliger jedze.	RadzieckiFuteral	2018-05-27 00:57:39	2018-05-27 00:57:39
-109	0x6d	m	589	4712634	csb	Më jesmë strašné scenë ve zdřélnjikú vjidzelë.	RadzieckiFuteral	2015-11-19 23:34:01	2015-11-19 23:34:01
-110	0x6e	n	641	6892518	csb	Të môsz pòdiktovóné tekstë.	RadzieckiFuteral	2018-05-15 12:41:28	2018-05-15 12:41:28
-111	0x6f	o	638	6892569	csb	Wonë wubùdovałë mòst.	RadzieckiFuteral	2018-05-15 12:55:43	2018-05-15 12:55:43
-112	0x70	p	322	4728435	csb	Nji mògã dobrze pò anjelskú, chòcô szesc rokóv jô sã ve szkòli wucził.	RadzieckiFuteral	2015-11-27 02:17:18	2018-05-15 19:02:22
-114	0x72	r	554	6905898	csb	To nje je to, co jô rzek.	RadzieckiFuteral	2018-05-22 23:55:49	2018-05-22 23:55:49
-115	0x73	s	612	4728454	csb	Jô jem tak tôłsti.	RadzieckiFuteral	2015-11-27 02:26:17	2018-05-14 23:09:01
-116	0x74	t	571	6918793	csb	Vjele dzeci nje lúbjõ wogrodovjiznë, le mój młodszi brat jã kòchô.	RadzieckiFuteral	2018-05-28 23:26:08	2018-05-28 23:26:08
-117	0x75	u	82	6907275	csb	Njikòmù sã nje wuzdarzëło przeżëc.	RadzieckiFuteral	2018-05-23 18:59:52	2018-05-23 18:59:52
-118	0x76	v	514	6905220	csb	To je ten nôvjikszi jidiotism, jacji jô móm v żëcim vjidzoné.	RadzieckiFuteral	2018-05-22 10:34:06	2018-05-22 10:34:06
-119	0x77	w	240	4712651	csb	Kòt mô dvòje wuszi.	RadzieckiFuteral	2015-11-19 23:42:15	2018-05-30 00:59:19
-121	0x79	y	26	6899807	csb	Tom a Mary sã pòtka v lazaretovim bùfece, v dzénj smjerce Maryczënéwo tatka.	RadzieckiFuteral	2018-05-19 09:42:54	2018-05-30 00:54:30
-122	0x7a	z	711	4712839	csb	Jô gôdajã pò szvédzkú.	RadzieckiFuteral	2015-11-20 01:53:18	2018-05-16 21:06:15
-201	0xc9	É	7	6915474	csb	Élefanjt je mòcno vjeldzji zvjérz.	RadzieckiFuteral	2018-05-27 01:00:05	2018-05-27 01:00:05
+80	0x50	P	35	6905879	csb	Pitanjé bëło zażimcjé, co bë nó nje wodkôzôł.	RadzieckiFuteral	2018-05-22 23:45:58	2018-05-22 23:45:58
+82	0x52	R	11	9053463	csb	Rozmjejesz të grac na trõbce?	RadzieckiFuteral	2020-09-20 13:42:29	2020-09-20 13:42:29
+83	0x53	S	31	6904364	csb	Starszé tepjichji sõ drogszé jak nové.	RadzieckiFuteral	2018-05-21 23:09:21	2018-05-21 23:09:21
+84	0x54	T	207	6918760	csb	Ta znjija nje je jiftatô.	RadzieckiFuteral	2018-05-28 23:01:39	2018-05-28 23:01:39
+86	0x56	V	42	6920713	csb	Vjédz, co të mje nje przestrôszôsz.	RadzieckiFuteral	2018-05-30 00:26:03	2018-05-30 00:26:03
+87	0x57	W	106	6892941	csb	Jô jewo nje kùsznã. Won kùsznõł mjã.	RadzieckiFuteral	2018-05-15 18:51:33	2018-05-15 18:51:33
+90	0x5a	Z	13	6904348	csb	Z pjersza vóm sã nje vjidza ta wudba, ale terôzcji vë mést jesce z tim spòkójni.	RadzieckiFuteral	2018-05-21 22:59:19	2018-05-21 22:59:19
+97	0x61	a	672	4712513	csb	Won szed przez las.	RadzieckiFuteral	2015-11-19 22:22:19	2018-05-14 23:11:58
+98	0x62	b	333	6892469	csb	Jô nje mdã z njim robjił.	RadzieckiFuteral	2018-05-15 12:15:57	2018-05-15 12:15:57
+99	0x63	c	578	6892471	csb	Jô móm vjele drëchóv.	RadzieckiFuteral	2018-05-15 12:16:39	2018-05-15 12:16:39
+100	0x64	d	539	6894622	csb	Jô tam wostónã do zvón szesc.	RadzieckiFuteral	2018-05-16 19:52:38	2018-05-16 19:52:38
+101	0x65	e	780	6915470	csb	Spëtéjce jewo, cjéj ten nasladovczi fliger jedze.	RadzieckiFuteral	2018-05-27 00:57:39	2018-05-27 00:57:39
+102	0x66	f	62	6918791	csb	Jô jem pravje tak vësocji jak mój foder.	RadzieckiFuteral	2018-05-28 23:21:09	2018-05-28 23:21:09
+103	0x67	g	190	4719766	csb	Gvësno je cos, co v tim jô pòmòc mògã.	RadzieckiFuteral	2015-11-23 06:03:38	2018-05-15 19:05:21
+104	0x68	h	206	9053454	csb	Mòje chëcze sõ vjelgjé.	RadzieckiFuteral	2020-09-20 13:37:05	2020-09-20 13:37:05
+105	0x69	i	603	6905917	csb	Tom je barzo dobri drëch, ale ma nje jesma ze sobõ.	RadzieckiFuteral	2018-05-23 00:03:05	2018-05-23 00:03:05
+106	0x6a	j	838	6892491	csb	Won je ten nôvjikszi v svòji klasi.	RadzieckiFuteral	2018-05-15 12:33:40	2018-05-15 12:33:40
+107	0x6b	k	455	6892507	csb	Më kòchómë snôżõ.	RadzieckiFuteral	2018-05-15 12:38:20	2018-05-15 12:38:20
+108	0x6c	l	327	6899808	csb	Tom a Mary sã trafja v lazaretovim bùfece, v dzénj smjerce Maryczënéwo wojca.	RadzieckiFuteral	2018-05-19 09:43:33	2018-05-30 00:54:15
+109	0x6d	m	589	4719770	csb	Przëdéj trochã mléka.	RadzieckiFuteral	2015-11-23 06:05:11	2018-05-14 23:10:40
+110	0x6e	n	641	6892500	csb	Më rôd słëchómë na gòvôr ptôchóv.	RadzieckiFuteral	2018-05-15 12:37:00	2018-05-15 12:37:00
+111	0x6f	o	638	6920706	csb	To padało.	RadzieckiFuteral	2018-05-30 00:21:47	2018-05-30 00:21:47
+112	0x70	p	322	6902500	csb	Proszã ce, bãdzë baczlëvszi ve przinjdzoce.	RadzieckiFuteral	2018-05-20 23:13:50	2018-05-20 23:13:50
+114	0x72	r	554	6918788	csb	Jô jem v tim drëdzjim ambùlansú.	RadzieckiFuteral	2018-05-28 23:19:55	2018-05-28 23:19:55
+115	0x73	s	612	6903960	csb	Kãdëż je tvòja sostra?	RadzieckiFuteral	2018-05-21 14:18:31	2018-05-21 14:18:31
+116	0x74	t	571	12013971	csb	Białka pije arbatã z cëkrã abò miodã.	Piteris	2023-08-24 16:04:25	2023-08-24 16:04:25
+117	0x75	u	82	6899830	csb	Kògù to bëła wudba ten telc túwo pòstavjic?	RadzieckiFuteral	2018-05-19 09:53:24	2018-05-19 09:53:24
+118	0x76	v	514	6904400	csb	Më nji móżemë egzistovac bez wodë.	RadzieckiFuteral	2018-05-21 23:19:40	2018-05-21 23:19:40
+119	0x77	w	240	12013966	csb	Frisztëk, òbiôd abò wieczerzô?	Piteris	2023-08-24 16:01:39	2023-08-24 16:01:39
+121	0x79	y	26	4717013	csb	Mòjn mòjn, Sayoko!	RadzieckiFuteral	2015-11-21 20:59:30	2018-05-14 23:29:49
+122	0x7a	z	711	6895128	csb	Të mje jes zdradził.	RadzieckiFuteral	2018-05-17 09:12:03	2018-05-17 09:12:03
+201	0xc9	É	7	6915475	csb	Élefanjt je barzo vjaldzjé zvjérzã.	RadzieckiFuteral	2018-05-27 01:00:28	2018-05-27 01:00:28
 210	0xd2	Ò	1	12015247	csb	Òni nigdë nie chcelë jachac do Warszawë.	Piteris	2023-08-25 12:07:42	2023-08-25 12:07:42
-225	0xe1	á	8	4712732	csb	Wôn má strach svôjéwô wôtca.	RadzieckiFuteral	2015-11-20 00:50:48	2015-11-20 00:50:48
-227	0xe3	ã	348	4712745	csb	Jô nji mògã vama pòmòc.	RadzieckiFuteral	2015-11-20 00:56:10	2018-05-14 23:27:43
-233	0xe9	é	322	4712602	csb	Jô chcã tú dłëżé wostac.	RadzieckiFuteral	2015-11-19 23:15:02	2018-05-21 14:34:29
-235	0xeb	ë	582	4712878	csb	Njechtërni lëdze vjerzõ, co lëczba trzënôsce przënôszô njeszczescé.	RadzieckiFuteral	2015-11-20 02:11:41	2018-05-16 21:01:39
-242	0xf2	ò	317	6902460	csb	Jô gôdóm z Tomã a Marëjõ pò francëzkú.	RadzieckiFuteral	2018-05-20 23:00:11	2018-05-20 23:00:11
-243	0xf3	ó	271	6892500	csb	Më rôd słëchómë na gòvôr ptôchóv.	RadzieckiFuteral	2018-05-15 12:37:00	2018-05-15 12:37:00
-244	0xf4	ô	542	6918790	csb	Jô jem genau tak vësokô jak mój wojc.	RadzieckiFuteral	2018-05-28 23:20:36	2018-05-28 23:20:36
-245	0xf5	õ	152	6909814	csb	Ananase majõ v se enzim nazvóni bromelina, jacji rozkłôdô njejednë bjôłtka.	RadzieckiFuteral	2018-05-24 23:49:08	2018-05-24 23:49:08
-249	0xf9	ù	146	6915477	csb	To je eufemjismùs.	RadzieckiFuteral	2018-05-27 01:00:59	2018-05-27 01:00:59
-250	0xfa	ú	118	4712678	csb	Zómk je na drëdzjim brzegú rzécji.	RadzieckiFuteral	2015-11-19 23:56:09	2018-05-16 09:07:10
-251	0xfb	û	4	4712783	csb	Dzis reno mój drëch zjád všëden břád, chtëren môja sostra mjaa kûpjoné.	RadzieckiFuteral	2015-11-20 01:10:17	2015-11-20 01:10:17
-261	0x105	ą	3	5891189	csb	Żółwie nié mają zãbòw.	Balamax	2017-02-21 22:33:25	\N
-269	0x10d	č	5	4712768	csb	Môja wôtčëzna je tam, gdze je môja dëša.	RadzieckiFuteral	2015-11-20 01:02:47	2015-11-20 01:02:47
-321	0x141	Ł	2	6891791	csb	V Łúżëci żëjõ łúżëccji Serbòvje.	RadzieckiFuteral	2018-05-14 23:41:13	2018-05-14 23:41:13
-322	0x142	ł	293	9053464	csb	Bóma sã zvôrcëła na zemjã.	RadzieckiFuteral	2020-09-20 13:43:07	2020-09-20 13:43:07
-324	0x144	ń	5	4684516	csb	Kòżdi dzéń mój brat pòżëczô z bjiblotékji jednã novõ kniżkã.	Piteris	2015-11-07 16:28:37	2021-09-05 10:16:06
-345	0x159	ř	3	4712634	csb	Më jesmë strašné scenë ve zdřélnjikú vjidzelë.	RadzieckiFuteral	2015-11-19 23:34:01	2015-11-19 23:34:01
-353	0x161	š	8	4712721	csb	Já vjidzáł mjesõdz vëšé vjidnjika.	RadzieckiFuteral	2015-11-20 00:34:46	2015-11-20 00:34:46
-379	0x17b	Ż	3	6905127	csb	Żëvòt bez rojenjóv je szari a pùsti.	RadzieckiFuteral	2018-05-22 10:23:13	2018-05-22 10:23:13
-380	0x17c	ż	207	6918809	csb	Cjéjże të mje dôsz nazôd dëtcji, jacjé të pòżëcził wod mje przed rokã?	RadzieckiFuteral	2018-05-28 23:38:21	2018-05-28 23:38:21
-382	0x17e	ž	6	4713623	csb	Më móżemë vjidzec dzëvé zvjérze v trôvje ležõcë.	RadzieckiFuteral	2015-11-20 11:27:51	2018-05-16 08:56:43
+225	0xe1	á	8	4712730	csb	Ten njimá njižódnëch drëchóv.	RadzieckiFuteral	2015-11-20 00:48:29	2015-11-20 00:48:29
+227	0xe3	ã	348	4728426	csb	Vjodro bëło pjãkné jaż do dzisészéwo dnja.	RadzieckiFuteral	2015-11-27 02:13:06	2018-05-15 19:03:13
+233	0xe9	é	322	6905881	csb	To dô novéwo knôpa ve szkòli.	RadzieckiFuteral	2018-05-22 23:47:55	2018-05-22 23:47:55
+235	0xeb	ë	582	6905247	csb	Przinjdzëta a wuzdrzëta.	RadzieckiFuteral	2018-05-22 10:40:16	2018-05-22 10:40:16
+242	0xf2	ò	317	8929391	csb	Kògùż bùdink to je?	RadzieckiFuteral	2020-07-21 11:49:45	2020-07-21 11:49:45
+243	0xf3	ó	271	4712597	csb	V zó sõ téż brúné mjedvjedze.	RadzieckiFuteral	2015-11-19 23:12:00	2018-05-21 14:35:31
+244	0xf4	ô	542	4712697	csb	Jô mùszã do szandaróv jic.	RadzieckiFuteral	2015-11-20 00:13:15	2018-05-20 23:24:22
+245	0xf5	õ	152	6899788	csb	To je ta nôdłëgszô fabùła, jakõ jô móm czëtóné.	RadzieckiFuteral	2018-05-19 09:36:32	2018-05-19 09:36:32
+249	0xf9	ù	146	8929388	csb	Kòżdégò pòrénkù wona pjije bùdlã mlékã.	RadzieckiFuteral	2020-07-21 11:48:41	2020-07-21 11:48:41
+250	0xfa	ú	118	6897668	csb	Nó tim wodjimkú të trzimjesz mòjã rãkã.	RadzieckiFuteral	2018-05-18 22:44:10	2018-05-18 22:44:10
+251	0xfb	û	4	4712725	csb	Wôn vjé wûščestlëvjic svôjã bjałkã.	RadzieckiFuteral	2015-11-20 00:41:36	2015-11-20 00:41:36
+261	0x105	ą	3	12014029	csb	Belgiô pòwsta w 1830 jakno bùfor midzë wiecznyma procëmnikama - Francëską a Miemiecką.	Piteris	2023-08-24 16:48:04	2023-08-24 16:48:04
+269	0x10d	č	5	4712735	csb	Wôn přëšed do dóm pôzdze vječór.	RadzieckiFuteral	2015-11-20 00:52:11	2015-11-20 00:52:11
+321	0x141	Ł	2	6918751	csb	Téż Arnošt sztamùje wod Łúżëce.	RadzieckiFuteral	2018-05-28 22:57:15	2018-05-28 22:57:15
+322	0x142	ł	293	6899800	csb	Tom téż béł v autobùsú.	RadzieckiFuteral	2018-05-19 09:40:17	2018-05-19 09:40:17
+324	0x144	ń	5	8925165	csb	Won je njé le blós jińteligeńtni, ale téż forsz.	RadzieckiFuteral	2020-07-19 11:36:19	2020-07-19 11:36:19
+345	0x159	ř	3	4712783	csb	Dzis reno mój drëch zjád všëden břád, chtëren môja sostra mjaa kûpjoné.	RadzieckiFuteral	2015-11-20 01:10:17	2015-11-20 01:10:17
+353	0x161	š	8	4712735	csb	Wôn přëšed do dóm pôzdze vječór.	RadzieckiFuteral	2015-11-20 00:52:11	2015-11-20 00:52:11
+379	0x17b	Ż	3	6905126	csb	Żëcé bez snjicóv je szaré ë próżné.	RadzieckiFuteral	2018-05-22 10:22:55	2018-05-22 10:22:55
+380	0x17c	ż	207	6918794	csb	Më bëlë njé blós głodni, ale téż pragłi.	RadzieckiFuteral	2018-05-28 23:26:53	2018-05-28 23:26:53
+382	0x17e	ž	6	4712722	csb	Bôgû njick njeje njemôžné.	RadzieckiFuteral	2015-11-20 00:36:02	2015-11-20 00:36:02
 8211	0x2013	–	1	6918766	csb	„Sõ to jabka?” – „Njé, to sõ tomatë.”	RadzieckiFuteral	2018-05-28 23:05:53	2018-05-28 23:05:53
 8221	0x201d	”	1	6918766	csb	„Sõ to jabka?” – „Njé, to sõ tomatë.”	RadzieckiFuteral	2018-05-28 23:05:53	2018-05-28 23:05:53
 8222	0x201e	„	1	6918766	csb	„Sõ to jabka?” – „Njé, to sõ tomatë.”	RadzieckiFuteral	2018-05-28 23:05:53	2018-05-28 23:05:53

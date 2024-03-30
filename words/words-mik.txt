@@ -6,7 +6,7 @@ ayvscesomahôt	+0	1	+	10781909	eeyinn
 Cahtv	+0	1	+	10691446	eeyinn
 Carl	+0	1	+	10578123	eeyinn
 cebâno	+0	1	+	10781910	eeyinn
-cehapuyēkon	+1	1	+	12381411	eeyinn
+cehapuyēkon	+0	1	+	12381411	eeyinn
 Cehēcvlales	+0	1	+	10533554	eeyinn
 Cehmvnē	+0	1	+	10533580	eeyinn
 cehocefke	+0	1	+	10720698	eeyinn
@@ -40,7 +40,7 @@ cvhocefkûs	+0	1	+	10720681	eeyinn
 cvlâles	+0	1	+	10720723	eeyinn
 Cvolēkon	+0	1	+	12271001	eeyinn
 cvtokonawhvtkon	+0	1	+	10533569	eeyinn
-Cę	+0	2	+	10720693	eeyinn
+Cę	+0	2	+	10720692	eeyinn
 cę	+0	1	+	12186297	eeyinn
 Ē	+0	2	+	11808847	eeyinn
 ē	+0	1	+	10564957	eeyinn
@@ -82,7 +82,7 @@ heckvtekvn	+0	1	+	10533600	eeyinn
 hēcvlektvhv	+0	1	+	10717153	eeyinn
 hemasvkvn	+0	1	+	12186835	eeyinn
 Hemayâmekv	+0	1	+	10564380	eeyinn
-Hemv	+0	9	+	10906670	eeyinn
+Hemv	+0	9	+	10720741	eeyinn
 Hene	+0	1	+	10577294	eeyinn
 hke	+0	1	+	10718853	eeyinn
 hkvk	+0	1	+	10720742	eeyinn
@@ -95,11 +95,11 @@ Hvntâmekfûkon	+0	1	+	10717540	eeyinn
 hvntâmo	+0	1	+	10720692	eeyinn
 Hvnten	+0	1	+	10720785	eeyinn
 hvnten	+0	1	+	10691446	eeyinn
-Hvnton	+0	5	+	10720715	eeyinn
-hvyâketehcot	+0	2	+	10717527	eeyinn
+Hvnton	+0	5	+	10538158	eeyinn
+hvyâketehcot	+0	2	+	10717525	eeyinn
 hvyehcûs	+0	1	+	10720759	eeyinn
-Hę	+0	2	+	10533540	eeyinn
-hę	+0	4	+	10718854	eeyinn
+Hę	+0	2	+	11804235	eeyinn
+hę	+0	4	+	10784037	eeyinn
 keceknekayusen	+0	1	+	10577294	eeyinn
 Kēhûme	+0	1	+	10717952	eeyinn
 kleles	+0	1	+	10715897	eeyinn
@@ -117,7 +117,7 @@ lêckvkv	+0	1	+	11808845	eeyinn
 les	+0	1	+	12186297	eeyinn
 luses	+0	1	+	10906675	eeyinn
 Lvpą	+0	1	+	10906675	eeyinn
-lvs	+0	2	+	10720765	eeyinn
+lvs	+0	2	+	10564957	eeyinn
 mamehen	+0	1	+	10534544	eeyinn
 Mâmekv	+0	1	+	11808951	eeyinn
 Mâmesvkles	+0	1	+	11808946	eeyinn
@@ -132,7 +132,7 @@ Mvhmēcêckvlâkvkvn	+0	1	+	10715897	eeyinn
 Mvhmēcvlektvhv	+0	1	+	10716967	eeyinn
 mvme	+0	2	+	10717153	eeyinn
 mįcek	+0	1	+	10883900	eeyinn
-Nake	+0	2	+	10720697	eeyinn
+Nake	+0	2	+	10906673	eeyinn
 nakencâokon	+0	1	+	10564385	eeyinn
 Nakenomen	+0	1	+	10564379	eeyinn
 Nakon	+0	1	+	10781910	eeyinn
@@ -153,8 +153,8 @@ Okvpvlwen	+0	1	+	10715904	eeyinn
 omektvwats	+0	1	+	10717525	eeyinn
 omekv	+0	1	+	10883900	eeyinn
 omele	+0	1	+	10990582	eeyinn
-omes	+0	3	+	10717529	eeyinn
-omewats	+0	2	+	10883900	eeyinn
+omes	+0	3	+	10717527	eeyinn
+omewats	+0	2	+	11804235	eeyinn
 ommek	+0	1	+	10781909	eeyinn
 oncokûles	+0	1	+	10533597	eeyinn
 ontomêc	+0	1	+	10720713	eeyinn
@@ -164,7 +164,7 @@ ontomêckoko	+0	1	+	10720715	eeyinn
 pen	+0	1	+	10784037	eeyinn
 pere	+0	1	+	10578123	eeyinn
 poftekv	+0	1	+	10533547	eeyinn
-pomes	+1	1	+	12381411	eeyinn
+pomes	+0	1	+	12381411	eeyinn
 Pusucot	+0	1	+	10538849	eeyinn
 Rare	+0	1	+	10718853	eeyinn
 râs	+0	1	+	10784037	eeyinn
@@ -173,10 +173,10 @@ roklo	+0	1	+	10720693	eeyinn
 rusa	+0	1	+	10533540	eeyinn
 rûsse	+0	1	+	11808845	eeyinn
 rvlvlą	+0	1	+	10717529	eeyinn
-rvnekvn	+1	1	+	12381412	eeyinn
+rvnekvn	+0	1	+	12381412	eeyinn
 rvpêkcût	+0	1	+	11804235	eeyinn
-s	+0	2	+	10533598	eeyinn
-sa	+0	3	+	10564382	eeyinn
+s	+0	2	+	12187528	eeyinn
+sa	+0	3	+	10781909	eeyinn
 Sawot	+0	1	+	10533597	eeyinn
 se	+0	1	+	10906711	eeyinn
 shokukon	+0	1	+	10578123	eeyinn
@@ -201,8 +201,8 @@ tkvtehcot	+0	1	+	10717529	eeyinn
 Tokyo	+0	1	+	10534530	eeyinn
 Tolopkeksa	+0	2	+	10533544	eeyinn
 Tom-ke	+0	2	+	10717525	eeyinn
-Tom'kot	+1	1	+	12381412	eeyinn
-Tom-kot	+1	5	+	10781880	eeyinn
+Tom'kot	+0	1	+	12381412	eeyinn
+Tom-kot	+0	5	+	10717540	eeyinn
 Tvbv	+0	1	+	11800631	eeyinn
 tvkąłkeles	+0	1	+	10533389	eeyinn
 Tvpvksûs	+0	1	+	10533581	eeyinn
@@ -214,7 +214,7 @@ utvke	+0	2	+	10533598	eeyinn
 v	+0	4	+	10715897	eeyinn
 Vcaherų	+0	1	+	10720751	eeyinn
 Vcanucek	+0	1	+	12186297	eeyinn
-vcatvsrâcessa	+0	2	+	10780397	eeyinn
+vcatvsrâcessa	+0	2	+	10780398	eeyinn
 Vkcomon	+0	1	+	10715900	eeyinn
 vkelelâkvs	+0	1	+	10781880	eeyinn
 vkletik	+0	1	+	10883900	eeyinn
@@ -228,7 +228,7 @@ vmēkeksa	+0	1	+	10564380	eeyinn
 Vmekēpek	+0	1	+	10564378	eeyinn
 Vmocąfes	+0	1	+	10720769	eeyinn
 vmv	+0	1	+	10534544	eeyinn
-vmvpoftôhmes	+1	1	+	12381412	eeyinn
+vmvpoftôhmes	+0	1	+	12381412	eeyinn
 vmvtârvtis	+0	1	+	10691446	eeyinn
 Vntâte	+0	1	+	10691461	eeyinn
 vntâte	+0	1	+	10691446	eeyinn
@@ -236,7 +236,7 @@ Vntvkareksa	+0	1	+	10564036	eeyinn
 vnwvntûs	+0	1	+	10781909	eeyinn
 Vpoftę	+0	1	+	12187535	eeyinn
 vpvlwon	+0	2	+	10533599	eeyinn
-vrē	+1	2	+	12381411	eeyinn
+vrē	+0	2	+	10538158	eeyinn
 vrēyâles	+0	1	+	10577294	eeyinn
 vrvlektvhv	+0	1	+	10715904	eeyinn
 vtarē	+0	1	+	10784037	eeyinn
@@ -247,7 +247,7 @@ vtohkêckvlâkvs	+0	1	+	10781883	eeyinn
 vyyêc	+0	1	+	10720784	eeyinn
 vyyêcko	+0	1	+	10720785	eeyinn
 vyyēke	+0	1	+	10578123	eeyinn
-vyyomwa	+1	1	+	12381412	eeyinn
+vyyomwa	+0	1	+	12381412	eeyinn
 wats	+0	1	+	10578123	eeyinn
 wvntacek	+0	1	+	10906711	eeyinn
 yaknon	+0	1	+	10533595	eeyinn
@@ -258,7 +258,7 @@ yat-ketescûletę	+0	1	+	10534544	eeyinn
 yeckeso	+0	1	+	10538158	eeyinn
 yokvhacelektvhv	+0	1	+	10715900	eeyinn
 ytēma	+0	1	+	10534544	eeyinn
-ytes	+0	7	+	10717274	eeyinn
+ytes	+0	7	+	10717150	eeyinn
 Yvkne	+0	2	+	10534544	eeyinn
 yvkne	+0	3	+	10533580	eeyinn
 yvknûskēpûkv	+0	1	+	10691446	eeyinn

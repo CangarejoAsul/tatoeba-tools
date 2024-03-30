@@ -1,10 +1,10 @@
-32	0x20	 	100	2180406	hat	Ou, nou papa ki dan lesyel, Fer ou ganny rekonnet konman Bondye.	Manfredo	2013-02-01 10:47:22	2014-04-15 06:21:51
-33	0x21	!	10	4697819	hat	Fèmen pòt sa a!	panamicua	2015-11-13 04:22:57	2015-11-13 04:23:07
+32	0x20	 	100	5342154	hat	Ki kote w ye?	panamicua	2016-08-14 23:33:01	2016-08-14 23:33:11
+33	0x21	!	10	3138161	hat	Bonjou! Bon maten!	LanguageExpert	2014-03-30 02:27:13	2014-03-30 02:27:13
 34	0x22	"	6	3138151	hat	Kijan ou di "Mwen renmen w" an franse?	LanguageExpert	2014-03-30 02:13:41	2014-03-30 02:13:41
-39	0x27	'	4	8011629	hat	Mwen renmen'w.	kanpekin	2019-06-30 20:32:03	2019-06-30 20:32:03
-44	0x2c	,	7	8011595	hat	Lè Tom te reveye, li te jwenn Mary ap li yon liv nan biwo a.	kanpekin	2019-06-30 20:10:47	2019-06-30 20:10:47
-45	0x2d	-	4	1897923	hat	Bon apre-midi!	LanguageExpert	2012-10-06 03:53:30	2012-10-06 03:53:30
-46	0x2e	.	59	4697789	hat	Yo a ka kanpe w.	panamicua	2015-11-13 04:10:32	2015-11-13 04:10:38
+39	0x27	'	4	8011626	hat	Pote'l pi pre.	kanpekin	2019-06-30 20:29:14	2019-06-30 20:29:14
+44	0x2c	,	7	2180406	hat	Ou, nou papa ki dan lesyel, Fer ou ganny rekonnet konman Bondye.	Manfredo	2013-02-01 10:47:22	2014-04-15 06:21:51
+45	0x2d	-	4	11929097	hat	Ki laj-ou ?	assitan	2023-07-13 22:34:33	2023-11-18 07:00:26
+46	0x2e	.	59	1897920	hat	Byen veni.	LanguageExpert	2012-10-06 03:51:20	2012-10-06 03:51:20
 48	0x30	0	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
 49	0x31	1	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
 50	0x32	2	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
@@ -13,48 +13,48 @@
 55	0x37	7	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
 56	0x38	8	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
 58	0x3a	:	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
-63	0x3f	?	36	10852324	hat	Kiyès mwen ye?	janTuki	2022-05-23 20:57:45	2022-05-23 20:57:45
-65	0x41	A	5	11929116	hat	Alo !	assitan	2023-07-13 22:51:13	2023-11-18 06:58:56
-66	0x42	B	13	2180406	hat	Ou, nou papa ki dan lesyel, Fer ou ganny rekonnet konman Bondye.	Manfredo	2013-02-01 10:47:22	2014-04-15 06:21:51
+63	0x3f	?	36	10852293	hat	Èske ou pale angle?	janTuki	2022-05-23 20:36:52	2022-05-23 20:36:52
+65	0x41	A	5	11929115	hat	Atann an ti moman, souplé.	assitan	2023-07-13 22:50:15	2023-11-18 06:58:04
+66	0x42	B	13	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
 68	0x44	D	1	3138149	hat	"Mesi." "De ryen."	LanguageExpert	2014-03-30 02:07:20	2014-03-30 02:07:26
 69	0x45	E	3	4697794	hat	Eske Galileo Galilei se yon vrè non?	panamicua	2015-11-13 04:12:43	2015-11-13 04:12:51
-70	0x46	F	4	10472976	hat	Moun Filipin yo pa tankou moun Swis.	nonong	2021-10-31 06:06:06	2021-10-31 06:08:35
+70	0x46	F	4	8886036	hat	Felisitasyon!	gringoton	2020-07-02 03:08:47	2020-07-02 03:08:47
 71	0x47	G	1	4697794	hat	Eske Galileo Galilei se yon vrè non?	panamicua	2015-11-13 04:12:43	2015-11-13 04:12:51
 74	0x4a	J	1	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
-75	0x4b	K	31	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
-76	0x4c	L	2	8011595	hat	Lè Tom te reveye, li te jwenn Mary ap li yon liv nan biwo a.	kanpekin	2019-06-30 20:10:47	2019-06-30 20:10:47
-77	0x4d	M	33	4697787	hat	M te vini, m te wè, m te vannen.	panamicua	2015-11-13 04:07:26	2015-11-13 04:07:33
-78	0x4e	N	6	4697879	hat	Nou bezwen konkou li.	panamicua	2015-11-13 04:50:23	2015-11-13 04:50:31
-79	0x4f	O	5	8011588	hat	Ou pa pral genyen pwoblèm sa a.	kanpekin	2019-06-30 20:07:52	2019-06-30 20:07:52
-80	0x50	P	3	8011626	hat	Pote'l pi pre.	kanpekin	2019-06-30 20:29:14	2019-06-30 20:29:14
-83	0x53	S	3	10472976	hat	Moun Filipin yo pa tankou moun Swis.	nonong	2021-10-31 06:06:06	2021-10-31 06:08:35
-84	0x54	T	9	4697823	hat	Tanpri ban m youn.	panamicua	2015-11-13 04:24:37	2015-11-13 04:24:43
+75	0x4b	K	31	3138151	hat	Kijan ou di "Mwen renmen w" an franse?	LanguageExpert	2014-03-30 02:13:41	2014-03-30 02:13:41
+76	0x4c	L	2	4697839	hat	Li pa renmen pwason.	panamicua	2015-11-13 04:31:33	2015-11-13 04:31:33
+77	0x4d	M	33	3633477	hat	M pa vlè alè nan lekòl.	\N	2014-11-15 20:39:35	2020-05-15 13:46:59
+78	0x4e	N	6	4697829	hat	"Eske w pale franse?" "Non."	panamicua	2015-11-13 04:27:54	2015-11-13 04:28:05
+79	0x4f	O	5	2180406	hat	Ou, nou papa ki dan lesyel, Fer ou ganny rekonnet konman Bondye.	Manfredo	2013-02-01 10:47:22	2014-04-15 06:21:51
+80	0x50	P	3	10468129	hat	Pita!	Julien_PDC	2021-10-29 10:44:03	2021-10-29 10:44:03
+83	0x53	S	3	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
+84	0x54	T	9	4697809	hat	Tom fè plis lajan pase paran li yo.	panamicua	2015-11-13 04:18:48	2015-11-13 04:19:00
 86	0x56	V	1	10852319	hat	Vant mwen fè mal.	janTuki	2022-05-23 20:55:03	2022-05-23 20:55:07
 89	0x59	Y	2	4697786	hat	Yo a konprann nou.	panamicua	2015-11-13 04:03:27	2015-11-13 04:03:27
-97	0x61	a	75	8011604	hat	Tom pa ka fè fòt.	kanpekin	2019-06-30 20:14:53	2019-06-30 20:14:53
-98	0x62	b	10	8011588	hat	Ou pa pral genyen pwoblèm sa a.	kanpekin	2019-06-30 20:07:52	2019-06-30 20:07:52
-100	0x64	d	19	8011625	hat	Ki sa yo te di ou?	kanpekin	2019-06-30 20:28:10	2019-06-30 20:28:10
-101	0x65	e	86	10852314	hat	Mwen pè areye.	janTuki	2022-05-23 20:53:38	2022-05-23 20:53:38
-102	0x66	f	16	4697809	hat	Tom fè plis lajan pase paran li yo.	panamicua	2015-11-13 04:18:48	2015-11-13 04:19:00
-103	0x67	g	10	2180406	hat	Ou, nou papa ki dan lesyel, Fer ou ganny rekonnet konman Bondye.	Manfredo	2013-02-01 10:47:22	2014-04-15 06:21:51
-104	0x68	h	4	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
-105	0x69	i	65	9939192	hat	Konbe li koute?	Alairis	2021-04-05 17:08:36	2021-04-05 17:08:40
-106	0x6a	j	24	3138153	hat	Kijan ou di "kaisha" an angle?	LanguageExpert	2014-03-30 02:17:51	2014-03-30 02:17:51
-107	0x6b	k	40	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
-108	0x6c	l	46	4697785	hat	M a rete lakay mwen an demen.	panamicua	2015-11-13 04:01:05	2015-11-13 04:01:05
-109	0x6d	m	48	10713359	hat	Mwen pa mò.	\N	2022-03-11 17:20:13	2022-03-11 17:20:21
-110	0x6e	n	85	8886036	hat	Felisitasyon!	gringoton	2020-07-02 03:08:47	2020-07-02 03:08:47
-111	0x6f	o	71	10852306	hat	Mwen pa renmen manje tomat.	janTuki	2022-05-23 20:47:49	2022-05-23 20:47:49
-112	0x70	p	41	4697829	hat	"Eske w pale franse?" "Non."	panamicua	2015-11-13 04:27:54	2015-11-13 04:28:05
-114	0x72	r	42	4697839	hat	Li pa renmen pwason.	panamicua	2015-11-13 04:31:33	2015-11-13 04:31:33
-115	0x73	s	40	8011617	hat	Pèsonn pa te konen kote li te ale.	kanpekin	2019-06-30 20:23:00	2019-06-30 20:23:00
-116	0x74	t	46	8011598	hat	Mwen te pè pale.	kanpekin	2019-06-30 20:11:35	2019-06-30 20:11:35
-117	0x75	u	45	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
-118	0x76	v	8	8011621	hat	Tom ak Mary toulède konnen sa pa vre	kanpekin	2019-06-30 20:24:54	2019-06-30 20:24:54
-119	0x77	w	46	4257292	hat	Aktyelman Burj Khalifa se gratsyél ki pi wo nan mond lan.	Balamax	2015-06-06 05:46:14	2015-06-06 05:46:48
-121	0x79	y	42	5342153	hat	Ki kote ou ye?	panamicua	2016-08-14 23:31:36	2016-08-14 23:31:36
-122	0x7a	z	5	10468120	hat	Mwen se yon zanmi!	Julien_PDC	2021-10-29 10:42:33	2021-10-29 10:42:33
-200	0xc8	È	4	10852447	hat	Èske ou pale kreyòl ayisyen?	janTuki	2022-05-24 00:25:37	2022-05-24 00:25:37
-232	0xe8	è	29	8011595	hat	Lè Tom te reveye, li te jwenn Mary ap li yon liv nan biwo a.	kanpekin	2019-06-30 20:10:47	2019-06-30 20:10:47
-233	0xe9	é	6	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
-242	0xf2	ò	14	4697819	hat	Fèmen pòt sa a!	panamicua	2015-11-13 04:22:57	2015-11-13 04:23:07
+97	0x61	a	75	4256771	hat	Burj Khalifa aktyelman se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:33:47	2015-06-05 22:52:54
+98	0x62	b	10	4697879	hat	Nou bezwen konkou li.	panamicua	2015-11-13 04:50:23	2015-11-13 04:50:31
+100	0x64	d	19	10852308	hat	Mwen renmen madanm mwen.	janTuki	2022-05-23 20:48:40	2022-05-23 20:48:44
+101	0x65	e	86	4697794	hat	Eske Galileo Galilei se yon vrè non?	panamicua	2015-11-13 04:12:43	2015-11-13 04:12:51
+102	0x66	f	16	4697829	hat	"Eske w pale franse?" "Non."	panamicua	2015-11-13 04:27:54	2015-11-13 04:28:05
+103	0x67	g	10	3138153	hat	Kijan ou di "kaisha" an angle?	LanguageExpert	2014-03-30 02:17:51	2014-03-30 02:17:51
+104	0x68	h	4	3138153	hat	Kijan ou di "kaisha" an angle?	LanguageExpert	2014-03-30 02:17:51	2014-03-30 02:17:51
+105	0x69	i	65	10724027	hat	Kisa mwen ye?	\N	2022-03-18 12:50:15	2022-03-18 12:50:19
+106	0x6a	j	24	11973721	hat	Jodi a se 26 jiyè 2023: Bòn Jounen Esperanto! Sa fè 136 ane, 1887-2023. Sonje ke pandan plizyè deseni, pa te gen okenn Entènèt, ki kounye a ede gaye nan lang tankou Esperanto, atravè lemond.	nonong	2023-08-01 09:46:46	2023-08-01 09:47:35
+107	0x6b	k	40	10852297	hat	Nou pale kreyòl ayisyen.	janTuki	2022-05-23 20:39:07	2022-05-23 20:39:07
+108	0x6c	l	46	8011615	hat	Mwen pral jwe tenis.	kanpekin	2019-06-30 20:21:48	2019-06-30 20:21:48
+109	0x6d	m	48	10852302	hat	Mwen te manje diri a.	janTuki	2022-05-23 20:44:35	2022-05-23 20:44:38
+110	0x6e	n	85	1897919	hat	Bonjou!	LanguageExpert	2012-10-06 03:48:53	2012-10-06 03:48:53
+111	0x6f	o	71	10852447	hat	Èske ou pale kreyòl ayisyen?	janTuki	2022-05-24 00:25:37	2022-05-24 00:25:37
+112	0x70	p	41	4697819	hat	Fèmen pòt sa a!	panamicua	2015-11-13 04:22:57	2015-11-13 04:23:07
+114	0x72	r	42	10852314	hat	Mwen pè areye.	janTuki	2022-05-23 20:53:38	2022-05-23 20:53:38
+115	0x73	s	40	4256772	hat	Burj Khalifa kounye a se gratsyél ki pi wo nan mond.	Balamax	2015-06-05 22:34:13	2015-06-05 22:49:25
+116	0x74	t	46	4697811	hat	Mwen te timid.	panamicua	2015-11-13 04:20:02	2015-11-13 04:20:02
+117	0x75	u	45	5342153	hat	Ki kote ou ye?	panamicua	2016-08-14 23:31:36	2016-08-14 23:31:36
+118	0x76	v	8	1897920	hat	Byen veni.	LanguageExpert	2012-10-06 03:51:20	2012-10-06 03:51:20
+119	0x77	w	46	4697851	hat	Mwen pa janm pral konprann.	panamicua	2015-11-13 04:37:07	2015-11-13 04:37:07
+121	0x79	y	42	8011625	hat	Ki sa yo te di ou?	kanpekin	2019-06-30 20:28:10	2019-06-30 20:28:10
+122	0x7a	z	5	2427231	hat	Matant mwen renmen kreyòl mizik.	google	2013-05-09 18:31:59	2014-05-20 13:06:11
+200	0xc8	È	4	10468127	hat	Èske ou pale fransè?	Julien_PDC	2021-10-29 10:43:27	2021-10-29 10:43:27
+232	0xe8	è	29	10852315	hat	Èske ou pè areye?	janTuki	2022-05-23 20:54:04	2022-05-23 20:54:04
+233	0xe9	é	6	11929109	hat	An ki lanné ou wè jou ?	assitan	2023-07-13 22:44:29	2023-11-18 06:55:41
+242	0xf2	ò	14	3633477	hat	M pa vlè alè nan lekòl.	\N	2014-11-15 20:39:35	2020-05-15 13:46:59

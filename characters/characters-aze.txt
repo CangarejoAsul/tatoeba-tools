@@ -1,96 +1,96 @@
-32	0x20	 	5643	11906554	aze	Qız çirkin.	enebi	2023-07-05 00:12:19	2023-07-05 00:12:19
-33	0x21	!	192	3303849	aze	Daha çox baxma, lütfən!	Ulvi	2014-06-08 20:33:05	2014-06-08 20:33:05
-34	0x22	"	20	4108669	aze	"Gələn dəfə", o dedi.	vertigo93	2015-04-24 19:55:03	2015-04-24 19:55:03
+32	0x20	 	5643	2603312	aze	Bir çox çiçəyim var. Bəziləri qırmızı və bəziləri də sarı.	\N	2013-07-19 19:08:38	2016-01-22 16:00:03
+33	0x21	!	192	4539785	aze	Ey, qulaq as!	vertigo93	2015-09-20 14:01:49	2015-09-20 14:01:49
+34	0x22	"	20	4099295	aze	"İrəli Ukrayna!", azarkeşlər qışqırdılar.	vertigo93	2015-04-22 12:34:28	2015-04-22 12:34:28
 39	0x27	'	14	3306964	aze	Tom'un əvvəlki kimi gücü yoxdur.	Ulvi	2014-06-10 17:27:22	2014-06-10 17:27:22
-40	0x28	(	7	3303826	aze	Abdal düyündən,uşaq oyundan usanmaz.(Atasözü)	Ulvi	2014-06-08 20:15:32	2014-06-08 20:15:32
-41	0x29	)	8	7463708	aze	İsrail haqqında nə bilirsiniz)	vertigo93	2018-11-14 23:07:15	2018-11-14 23:07:15
-44	0x2c	,	476	4099358	aze	Buş Əfqanıstanda, İraqda və Quantanamoda nə baş verdiyini bilmir.	vertigo93	2015-04-22 13:02:28	2015-04-22 13:02:28
-45	0x2d	-	104	2767162	aze	Onun işi qab-qacaq yumaqdır.	\N	2013-09-30 15:02:00	2016-01-22 16:14:16
-46	0x2e	.	4765	3453073	aze	O həmişə giley edir.	\N	2014-08-25 18:45:56	2016-01-28 18:37:12
-48	0x30	0	23	4076610	aze	Qazaxıstanda 150 muzey var.	vertigo93	2015-04-15 21:42:12	2015-04-15 21:42:12
-49	0x31	1	28	8801770	aze	Duman təxminən saat 10-da dağılmağa başladı.	atlilobya	2020-05-29 16:31:51	2020-05-29 16:31:51
-50	0x32	2	14	5156235	aze	Yeni metroya görə məktəbə 20 dəqiqəyə çatıram.	Adazul77	2016-05-21 12:23:53	2016-05-21 12:24:26
-51	0x33	3	9	10233745	aze	Tom 2013-cü ildə Avstraliyada öldü.	vertigo93	2021-08-10 20:36:26	2021-08-10 20:36:26
-52	0x34	4	5	3990126	aze	Mənim 45 yaşım var.	vertigo93	2015-03-26 13:49:09	2015-03-26 13:49:09
-53	0x35	5	16	4123529	aze	105-ci otaq haradadır?	vertigo93	2015-04-28 15:21:25	2015-04-28 15:21:25
-54	0x36	6	5	4321325	aze	Kosovo 2016 Olimpiya Oyunlarında iştirak edəcək.	vertigo93	2015-07-01 00:13:22	2015-07-01 00:13:52
-55	0x37	7	3	4419548	aze	1975-ci ildə Anqola müstəqil dövlət oldu.	vertigo93	2015-07-30 22:35:48	2015-07-30 22:35:48
-56	0x38	8	3	4279570	aze	Məktəb aprelin 8-i başlayır.	vertigo93	2015-06-17 08:45:58	2015-06-17 08:45:58
-57	0x39	9	14	4321210	aze	Almaniya Federativ Respublikası 1949-cu ildə yaradılıb.	vertigo93	2015-06-30 22:54:41	2015-06-30 22:54:41
-58	0x3a	:	7	5998587	aze	O, 7:30 avtobusuna gecikmişdi.	vo_gne	2017-04-06 05:04:54	\N
-63	0x3f	?	809	2144302	aze	Necəsən?	revista	2013-01-14 18:46:18	2013-03-30 18:23:08
-65	0x41	A	313	4410937	aze	Mən təhsil almaq üçün Amerikaya getdim.	vertigo93	2015-07-27 10:50:19	2015-07-27 10:50:19
-66	0x42	B	892	4422381	aze	Biz eşitdik.	vertigo93	2015-07-31 23:48:41	2015-07-31 23:48:41
-67	0x43	C	42	3994926	aze	Ciddi ol!	vertigo93	2015-03-27 20:48:58	2015-03-27 20:48:58
-68	0x44	D	167	4412935	aze	Doloresin dörd bacısı var.	vertigo93	2015-07-27 23:20:20	2015-07-27 23:20:20
-69	0x45	E	72	2989011	aze	Ev böyükdür.	\N	2014-01-16 16:38:29	2016-01-22 16:27:39
-70	0x46	F	62	3303570	aze	Mən o qədərdə yaxşı Fransızca danışa bilmirəm.	Ulvi	2014-06-08 18:17:35	2014-06-08 18:17:35
-71	0x47	G	88	5336316	aze	Güclü külək əsməyə başladı.	vo_gne	2016-08-12 07:29:51	2016-08-12 07:29:51
-72	0x48	H	197	11906384	aze	Haradan gəlirsən?	enebi	2023-07-04 21:47:04	2023-07-04 21:47:04
+40	0x28	(	7	3303589	aze	Bu mənim kompyuterimdir.(düzgün yazılış)	Ulvi	2014-06-08 18:24:49	2014-06-08 18:24:49
+41	0x29	)	8	3303833	aze	Ac elə bilər hamı acdır , tox elə bilər hamı toxdur. (Atasözü)	Ulvi	2014-06-08 20:19:05	2014-06-08 20:19:05
+44	0x2c	,	476	5336152	aze	Rahat ol, Tom. Biz məzuniyyətdəyik.	vo_gne	2016-08-12 05:24:25	2016-08-12 05:24:25
+45	0x2d	-	104	4419545	aze	Anqola 1975-ci ildə müstəqil oldu.	vertigo93	2015-07-30 22:30:14	2015-07-30 22:30:14
+46	0x2e	.	4765	3986592	aze	Mənim adım Rikardodur.	vertigo93	2015-03-24 23:27:07	2015-03-24 23:27:07
+48	0x30	0	23	4321325	aze	Kosovo 2016 Olimpiya Oyunlarında iştirak edəcək.	vertigo93	2015-07-01 00:13:22	2015-07-01 00:13:52
+49	0x31	1	28	4036515	aze	Biz binanı saat 18 radələrində tərk etdik.	vertigo93	2015-04-04 20:38:17	2015-04-04 20:38:17
+50	0x32	2	14	8798886	aze	Azərbaycan Cumhuriyyətinin yaranmasının 102-ci il dönümünü səmimi arzularımla təbrik edir, Prezident İlham Əliyev qardaşım başda olmaqla, bütün Azərbaycan xalqına öz adımdan və millətim adından salamlarımı və sevgilərimi çatdırıram.	RTE	2020-05-28 15:44:24	2020-05-28 15:44:24
+51	0x33	3	9	4097320	aze	İtaliya 1935-ci ildə Efiopiyanı işğal etdi.	vertigo93	2015-04-21 16:15:12	2015-04-21 16:15:12
+52	0x34	4	5	4321210	aze	Almaniya Federativ Respublikası 1949-cu ildə yaradılıb.	vertigo93	2015-06-30 22:54:41	2015-06-30 22:54:41
+53	0x35	5	16	4410968	aze	Ən azı 250 söz yazın.	vertigo93	2015-07-27 10:58:10	2015-07-27 10:58:10
+54	0x36	6	5	2423309	aze	"Yaş?" "16."	vertigo93	2013-05-07 18:43:11	2015-07-27 14:09:07
+55	0x37	7	3	5998587	aze	O, 7:30 avtobusuna gecikmişdi.	vo_gne	2017-04-06 05:04:54	\N
+56	0x38	8	3	4036515	aze	Biz binanı saat 18 radələrində tərk etdik.	vertigo93	2015-04-04 20:38:17	2015-04-04 20:38:17
+57	0x39	9	14	4419545	aze	Anqola 1975-ci ildə müstəqil oldu.	vertigo93	2015-07-30 22:30:14	2015-07-30 22:30:14
+58	0x3a	:	7	10716128	aze	Sonra İsa yenə xalqa dedi: «Dünyanın nuru Mənəm. Mənim ardımca gələn heç vaxt qaranlıqda gəzməyəcək, həyat nuruna malik olacaq».	User103370	2022-03-13 07:19:24	2022-03-13 07:21:50
+63	0x3f	?	809	8541688	aze	Qızımı gördünüzmü?	\N	2020-02-10 20:26:23	2020-06-26 09:30:28
+65	0x41	A	313	4109164	aze	Atam niyə mətbəxdədir?	vertigo93	2015-04-25 00:25:11	2015-04-25 00:25:11
+66	0x42	B	892	2883700	aze	Biraz incidəcək, çox yox.	\N	2013-11-27 20:38:47	2014-12-16 04:30:51
+67	0x43	C	42	4321368	aze	Mənim adım Cekdir.	vertigo93	2015-07-01 01:00:31	2015-07-01 01:00:31
+68	0x44	D	167	5364208	aze	Dəqiq?	vo_gne	2016-08-23 07:45:41	2016-08-23 07:45:41
+69	0x45	E	72	3990359	aze	Emili biraz rumın dili öyrənib.	vertigo93	2015-03-26 15:22:36	2015-03-26 15:22:36
+70	0x46	F	62	4417005	aze	Mən heç vaxt Floridada olmamışam.	vertigo93	2015-07-29 16:58:55	2015-07-29 16:58:55
+71	0x47	G	88	4404968	aze	Gecədir. Ailə şam edir.	vertigo93	2015-07-24 22:11:23	2015-07-24 22:11:23
+72	0x48	H	197	5336149	aze	Həmişə başqa vaxt var.	vo_gne	2016-08-12 05:23:54	2016-08-12 05:23:54
 73	0x49	I	1	3305253	aze	Iyirmidən çox oğlan uşağı ora getdi.	Ulvi	2014-06-09 16:49:09	2014-06-09 16:49:20
-74	0x4a	J	4	8805751	aze	Və Jacob oğullarına səsləndi və dedi: başıma toplanın, sizə son günlərdə başınıza gələcəklər haqqında bildirəcəyəm.	banter_bro	2020-05-31 08:17:43	2020-05-31 08:17:43
-75	0x4b	K	165	4344101	aze	Mariya Kallas məşhur opera müğənnisi idi.	vertigo93	2015-07-06 18:55:06	2015-07-06 18:55:06
-76	0x4c	L	66	4422185	aze	Yana Londonda yaşayır.	vertigo93	2015-07-31 21:53:56	2015-07-31 21:53:56
-77	0x4d	M	1123	4108831	aze	Maşın istəyirsən?	vertigo93	2015-04-24 20:34:36	2015-04-24 20:34:36
-78	0x4e	N	137	2603299	aze	Salam Bil. Necəsən?	\N	2013-07-19 19:04:36	2016-01-22 16:00:18
-79	0x4f	O	769	3305088	aze	Onlar hər ikisi məktəb uşaqlardır.	Ulvi	2014-06-09 15:46:37	2014-06-09 15:46:37
-80	0x50	P	137	4407449	aze	Pis fikir deyil.	vertigo93	2015-07-26 01:17:42	2015-07-26 01:17:42
-81	0x51	Q	225	11906560	aze	Qızımı ərə verdim.	enebi	2023-07-05 00:14:12	2023-07-05 00:14:12
-82	0x52	R	50	4421156	aze	Restoran boşdur.	vertigo93	2015-07-31 14:23:49	2015-07-31 14:23:49
-83	0x53	S	542	3989903	aze	Siz mənim dediyimə fikir vermirsiniz. Sizin fikriniz başqa yerdədir.	vertigo93	2015-03-26 12:30:16	2015-03-26 12:30:16
-84	0x54	T	684	4407440	aze	Tom barmağını kəsib.	vertigo93	2015-07-26 01:05:44	2015-07-26 01:05:44
+74	0x4a	J	4	3305129	aze	Jane cavan evləndi.	Ulvi	2014-06-09 15:58:04	2014-06-09 15:58:04
+75	0x4b	K	165	4100964	aze	Ken nə yeyir?	vertigo93	2015-04-23 00:54:58	2015-04-23 00:54:58
+76	0x4c	L	66	4407615	aze	Leykositlər qan hüceyrələridir.	vertigo93	2015-07-26 03:55:08	2015-07-26 03:55:08
+77	0x4d	M	1123	10852169	aze	Mənim ölkəm respublikadır.	janTuki	2022-05-23 19:35:23	2022-05-23 19:35:23
+78	0x4e	N	137	3303367	aze	NƏ düşündüyünü bilirəm.	Ulvi	2014-06-08 17:22:01	2014-06-08 17:22:01
+79	0x4f	O	769	5343469	aze	O, həyat yoldaşı ilə internetdə tanış olub.	vo_gne	2016-08-15 16:32:56	2016-08-15 16:32:56
+80	0x50	P	137	4076638	aze	Məncə, biz hələ də Polşadayıq!	vertigo93	2015-04-15 21:54:43	2015-04-15 21:54:50
+81	0x51	Q	225	3995029	aze	Qatar gözdən itdi.	vertigo93	2015-03-27 21:24:03	2015-03-27 21:24:03
+82	0x52	R	50	11505179	aze	Baba Abdullah çox varlı tacir idi və xəlifə Harun ər-Rəşidin dövründə Bağdad şəhərində yaşayırdı.	eses	2023-02-02 18:27:44	2023-02-02 18:27:44
+83	0x53	S	542	3991027	aze	Siz mənim fikirlərimi oxuyursunuz.	vertigo93	2015-03-26 19:48:39	2015-03-26 19:48:39
+84	0x54	T	684	7463646	aze	Tom yumurtasını duzladı.	vertigo93	2018-11-14 22:59:33	2018-11-14 22:59:33
 85	0x55	U	43	3991265	aze	Uruqvayda hansı dil danışılır?	vertigo93	2015-03-26 21:24:34	2015-03-26 21:24:34
-86	0x56	V	28	8805751	aze	Və Jacob oğullarına səsləndi və dedi: başıma toplanın, sizə son günlərdə başınıza gələcəklər haqqında bildirəcəyəm.	banter_bro	2020-05-31 08:17:43	2020-05-31 08:17:43
-87	0x57	W	3	3990012	aze	O, öz Opelini satdı və BMW aldı.	vertigo93	2015-03-26 13:12:42	2015-03-26 13:12:54
-88	0x58	X	53	12129120	aze	Xahiş edirəm Tomu tapmağıma kömək et.	enebi	2023-10-26 14:32:07	2023-10-26 14:32:07
-89	0x59	Y	201	3991217	aze	Mən Yeni Zelandiyadanam.	vertigo93	2015-03-26 21:17:43	2015-03-26 21:17:43
-90	0x5a	Z	27	3303285	aze	Zooparkda işleyirəm.	Ulvi	2014-06-08 16:55:57	2014-06-08 16:55:57
+86	0x56	V	28	4417087	aze	Oreqon Vaşinqtonun cənubunda yerləşir.	vertigo93	2015-07-29 17:57:41	2015-07-29 17:57:41
+87	0x57	W	3	3837743	aze	Sənin WhatsApp-ın varmı?	Lehceler	2015-02-03 16:20:57	2015-04-27 15:27:10
+88	0x58	X	53	3304262	aze	Xaricə getdim.	Ulvi	2014-06-09 06:37:30	2014-06-09 06:37:30
+89	0x59	Y	201	4100899	aze	Salam, mən Yaponiyadan Tomoko Satoyam.	vertigo93	2015-04-22 23:56:13	2015-04-22 23:56:13
+90	0x5a	Z	27	10967283	aze	Ziri maşınını satır.	janTuki	2022-07-06 00:13:03	2022-07-06 00:13:03
 96	0x60	`	1	5374593	aze	Playstation 3`ün var?	vo_gne	2016-08-27 05:56:44	2016-08-27 05:56:44
-97	0x61	a	4482	3006836	aze	Səsin batsa belə oxumağı dayandırma.	\N	2014-01-25 09:37:34	2016-01-22 16:29:19
-98	0x62	b	1999	8854155	aze	Mən şübhə edirəm ki, Tom həqiqətən həkimdir.	aytanrust	2020-06-18 13:59:53	2020-06-18 13:59:53
-99	0x63	c	914	2871091	aze	Nancy, al sənə bir məktub.	\N	2013-11-22 21:07:00	2014-12-16 04:33:38
-100	0x64	d	4220	4407540	aze	Burada içəridə qaranlıqdır.	vertigo93	2015-07-26 03:29:54	2015-07-26 03:29:54
-101	0x65	e	2364	12175719	aze	Bu gün hava necədir?	Iye_Tete	2023-11-24 11:40:24	2023-11-24 11:40:24
-102	0x66	f	368	4119955	aze	Çin Yaponiyadan iyirmi dəfə böyükdür.	vertigo93	2015-04-27 17:29:47	2015-04-27 17:29:47
-103	0x67	g	1052	8809461	aze	Buludsuz bir gündə qovaq meşəsində gəzməyə çıxsaz nəfis bir işıq şousuna şahid olacaqsınız.	atlilobya	2020-06-01 13:09:22	2020-06-01 13:09:22
-104	0x68	h	1211	4407532	aze	Bu çox qəribə bir heyvandır.	vertigo93	2015-07-26 03:27:03	2015-07-26 03:27:03
-105	0x69	i	4525	3991495	aze	Mən pis adam deyiləm.	vertigo93	2015-03-26 21:58:07	2015-03-26 21:58:07
-106	0x6a	j	15	8805760	aze	O banjo çala bilir.	banter_bro	2020-05-31 08:23:55	2020-05-31 08:23:55
-107	0x6b	k	1753	2876519	aze	Bir çox insan hökumətə güvənmir.	\N	2013-11-24 18:27:47	2014-12-16 04:31:51
-108	0x6c	l	3555	3988800	aze	Mənim qardaşım Fransada işləyir.	vertigo93	2015-03-25 22:28:59	2015-03-25 22:28:59
-109	0x6d	m	3754	4340480	aze	Tom başa düşməyə başladı.	vertigo93	2015-07-05 18:41:32	2015-07-05 18:41:32
-110	0x6e	n	4466	4191143	aze	Şokolad Lindanın çox xoşuna gəldi.	vertigo93	2015-05-15 22:48:04	2015-05-15 22:48:04
-111	0x6f	o	2336	3762983	aze	Con kitab oxuyan bir uşaqdır.	Lehceler	2015-01-12 00:04:01	2015-04-27 15:24:14
-112	0x70	p	615	4100900	aze	Tom 10 il Yaponiyada yaşadı.	vertigo93	2015-04-22 23:56:38	2015-04-22 23:56:38
-113	0x71	q	1510	3991098	aze	Onlar təklifi qəbul etdilər.	vertigo93	2015-03-26 20:19:59	2015-03-26 20:19:59
-114	0x72	r	4639	4339258	aze	Bu işi çətinləşdirir.	vertigo93	2015-07-05 10:16:30	2015-07-05 10:16:30
-115	0x73	s	2532	5362619	aze	Bu ətiri bəyənirsiz?	vo_gne	2016-08-22 16:20:04	2016-08-22 16:20:04
-116	0x74	t	2577	4407583	aze	Qusmaq istəyirəm.	vertigo93	2015-07-26 03:44:40	2015-07-26 03:44:40
-117	0x75	u	2143	4512470	aze	Moskva Rusiyanın paytaxtıdır.	vertigo93	2015-09-09 20:04:24	2015-09-09 20:04:24
-118	0x76	v	1246	9510379	aze	Sizə bir neçə kitab tövsiyə edə bilərəm.	\N	2020-12-20 23:01:33	2021-01-04 05:42:56
+97	0x61	a	4482	4339245	aze	Mən bir qara və bir ağ itim var.	vertigo93	2015-07-05 10:12:57	2015-07-05 10:12:57
+98	0x62	b	1999	2876523	aze	Siz də ona qabaqcadan deyə bilərsiniz.	\N	2013-11-24 18:30:10	2014-12-16 04:31:40
+99	0x63	c	914	2719317	aze	Gəncə Azərbaycanın ən böyük şəhərlərindən biridir.	\N	2013-09-04 14:41:41	2016-01-22 16:13:25
+100	0x64	d	4220	5365197	aze	Qərar bir sürpriz deyildi.	vo_gne	2016-08-23 14:04:32	2016-08-23 14:04:42
+101	0x65	e	2364	4407330	aze	Sevgi hər şeyə cavabdır.	vertigo93	2015-07-25 23:41:20	2015-07-25 23:41:20
+102	0x66	f	368	2603314	aze	Bu lüğət tamamilə istifadəsiz.	\N	2013-07-19 19:09:14	2016-01-22 16:01:26
+103	0x67	g	1052	8824488	aze	Onlar mənə geri qayıdacaqlarını söz verdilər.	aytanrust	2020-06-07 12:37:02	2020-06-07 12:37:02
+104	0x68	h	1211	8803252	aze	Mary burada təhlükəsiz yerdədir, elə deyil?	aytanrust	2020-05-30 10:21:09	2020-05-30 10:21:09
+105	0x69	i	4525	7463656	aze	Mariya əti duzladı.	vertigo93	2018-11-14 23:00:13	2018-11-14 23:00:13
+106	0x6a	j	15	2852642	aze	O muzdlu jurnalistdir.	\N	2013-11-16 09:04:40	2016-01-22 16:16:53
+107	0x6b	k	1753	4101012	aze	Yeni iliniz mübarək!	vertigo93	2015-04-23 01:44:55	2015-04-23 01:44:55
+108	0x6c	l	3555	4321353	aze	Tomun pişiklərdən xoşu gəlmir.	vertigo93	2015-07-01 00:33:38	2015-07-01 00:33:38
+109	0x6d	m	3754	4120026	aze	Mən bununla fəxr etmirəm.	vertigo93	2015-04-27 17:43:08	2015-04-27 17:43:08
+110	0x6e	n	4466	4411346	aze	Mənim sürücüm hara getdi?	vertigo93	2015-07-27 13:19:04	2015-07-27 13:19:04
+111	0x6f	o	2336	3994804	aze	Tom gəlmək istəmir.	vertigo93	2015-03-27 20:01:09	2015-03-27 20:01:09
+112	0x70	p	615	2719315	aze	Bakı Azərbaycanın paytaxtıdır.	\N	2013-09-04 14:40:31	2016-01-22 16:13:23
+113	0x71	q	1510	4340801	aze	Biz bu səhər dəhşətli xəbərlə oyandıq.	vertigo93	2015-07-05 20:56:49	2015-07-05 20:56:49
+114	0x72	r	4639	3303388	aze	Tomun etməyə cəhd gösterdiyini bilirəm.	Ulvi	2014-06-08 17:27:25	2014-06-08 17:28:00
+115	0x73	s	2532	3036903	aze	Körpəm danışmaq istəyir.	\N	2014-02-08 17:16:01	2016-01-22 16:29:09
+116	0x74	t	2577	3988895	aze	Bu mənim anama hədiyyə etmək istədiyim kitabdır.	vertigo93	2015-03-25 23:40:46	2015-03-25 23:40:46
+117	0x75	u	2143	3305171	aze	O, ən çoxu 50 dollar ödəyəcək.	Ulvi	2014-06-09 16:12:19	2014-06-09 16:12:30
+118	0x76	v	1246	3986502	aze	Həmişə vaxtında gəl.	vertigo93	2015-03-24 22:58:27	2015-03-24 22:58:27
 119	0x77	w	4	3305185	aze	Xanım Swan bizim İngilis dili müəllimimizdir.	Ulvi	2014-06-09 16:15:56	2014-06-09 16:15:56
-120	0x78	x	1141	4099814	aze	Tom Merini çox gözlətmədi.	vertigo93	2015-04-22 16:42:10	2015-04-22 16:42:10
-121	0x79	y	2984	4109090	aze	İspaniya qərbi Avropada ikinci böyük ölkədir.	vertigo93	2015-04-24 23:47:26	2015-04-24 23:47:26
-122	0x7a	z	1645	3303840	aze	Başmaqçının başmağı olmaz,börkçünün börkü.(Atasözü)	Ulvi	2014-06-08 20:25:11	2014-06-08 20:25:11
+120	0x78	x	1141	4522520	aze	O, yayda üzməyi xoşlayır.	vertigo93	2015-09-14 09:24:24	2015-09-14 09:24:24
+121	0x79	y	2984	11904900	aze	Keçən gecə yatmamışam.	enebi	2023-07-04 10:55:34	2023-07-04 10:55:34
+122	0x7a	z	1645	4336763	aze	Mən parkda gəzirəm.	vertigo93	2015-07-04 18:41:48	2015-07-04 18:41:48
 160	0xa0	 	1	3499479	aze	Bizim shəhərimizdə her il tedrici deyisiklikler bas verir .	aziza	2014-09-16 17:58:18	2014-09-16 17:58:18
-171	0xab	«	3	2837291	aze	«Rio de Janeyro haradadır?» «Braziliyadadır.»	\N	2013-11-08 20:35:00	2016-01-22 16:16:43
-187	0xbb	»	3	2837287	aze	«Səyahət etməyi sevirsənmi?» «Bəli.»	\N	2013-11-08 20:33:33	2016-01-22 16:16:41
-199	0xc7	Ç	92	8829274	aze	O Çin dilində danışır.	aytanrust	2020-06-09 10:45:37	2020-06-09 10:45:37
-214	0xd6	Ö	32	3702659	aze	Öyrənməyə nifrət edirəm.	\N	2014-12-20 21:09:15	2016-01-23 23:25:30
-220	0xdc	Ü	30	4174365	aze	Ümidimi itirmişəm.	vertigo93	2015-05-11 12:01:21	2015-05-11 12:01:21
+171	0xab	«	3	2837287	aze	«Səyahət etməyi sevirsənmi?» «Bəli.»	\N	2013-11-08 20:33:33	2016-01-22 16:16:41
+187	0xbb	»	3	2837291	aze	«Rio de Janeyro haradadır?» «Braziliyadadır.»	\N	2013-11-08 20:35:00	2016-01-22 16:16:43
+199	0xc7	Ç	92	4116178	aze	Çətirimi tapa bilmirəm.	vertigo93	2015-04-26 16:45:30	2015-04-26 16:45:30
+214	0xd6	Ö	32	4407555	aze	Ötən gecə çox yorğun idim.	vertigo93	2015-07-26 03:34:34	2015-07-26 03:34:34
+220	0xdc	Ü	30	4109211	aze	Ümid edirəm məni başa düşürsən.	vertigo93	2015-04-25 00:51:32	2015-04-25 00:51:32
 228	0xe4	ä	1	7902386	aze	Sami Laýlany polisiýa mälim etdi.	Annadursun	2019-05-11 11:03:50	2019-05-11 11:04:39
-231	0xe7	ç	956	3989094	aze	Bizim çətirlərimiz haradadır?	vertigo93	2015-03-26 00:54:41	2015-03-26 00:54:41
-246	0xf6	ö	752	3994965	aze	Mən sizin sözlərinizi başa düşürəm.	vertigo93	2015-03-27 21:07:29	2015-03-27 21:07:29
-252	0xfc	ü	1196	3716035	aze	Şaxta Baba şimal qütbündə yaşayır.	\N	2014-12-29 00:07:04	2016-01-23 23:27:00
+231	0xe7	ç	956	8814840	aze	Yeni koronavirus çox yoluxucudur.	\N	2020-06-04 01:24:35	2020-07-01 17:53:56
+246	0xf6	ö	752	8803247	aze	O qız gözəl olduğundan daha çox şirindir.	aytanrust	2020-05-30 10:17:01	2020-05-30 10:17:01
+252	0xfc	ü	1196	3988958	aze	Tom iş tapmaq ümidiylə Bostona gəldi.	vertigo93	2015-03-25 23:56:42	2015-03-25 23:56:42
 253	0xfd	ý	1	7902386	aze	Sami Laýlany polisiýa mälim etdi.	Annadursun	2019-05-11 11:03:50	2019-05-11 11:04:39
-287	0x11f	ğ	681	4407353	aze	Ürəyim ağrıyır.	vertigo93	2015-07-26 00:05:38	2015-07-26 00:05:38
-304	0x130	İ	286	7463711	aze	Yerusəlim İsrailin paytaxtıdır.	vertigo93	2018-11-14 23:07:44	2018-11-14 23:07:44
-305	0x131	ı	2817	3453049	aze	Tom mənimlə danışırdı.	\N	2014-08-25 18:37:24	2016-01-28 18:36:54
-350	0x15e	Ş	52	3991179	aze	Böyük Britaniya Uelsdən, İngiltərədən və Şotlandiyadan ibarətdir.	vertigo93	2015-03-26 21:00:25	2015-03-26 21:00:25
-351	0x15f	ş	1759	2705342	aze	İtalyan dili eşqin dilidir.	\N	2013-08-28 23:11:09	2016-01-22 16:10:57
-399	0x18f	Ə	71	8163613	aze	Əlbəttə.	vo_gne	2019-09-04 04:49:08	2019-09-04 04:49:08
-601	0x259	ə	4324	4411450	aze	Gəl qarpız yeyək!	vertigo93	2015-07-27 13:58:57	2015-07-27 13:58:57
-1041	0x411	Б	2	9642607	aze	Бу лүғәтдир?	TurkishReform	2021-01-13 18:00:03	2021-01-13 18:00:05
+287	0x11f	ğ	681	4036688	aze	Sənin otağın haradadır?	vertigo93	2015-04-04 21:31:09	2015-04-04 21:31:09
+304	0x130	İ	286	3453076	aze	İşsizlik artır.	\N	2014-08-25 18:46:21	2016-01-28 18:36:48
+305	0x131	ı	2817	4099315	aze	O, uzun illər Ukraynada yaşadı.	vertigo93	2015-04-22 12:39:05	2015-04-22 12:39:05
+350	0x15e	Ş	52	4076686	aze	Şimali İrlandiyada minimal əmək haqqı nə qədərdir?	vertigo93	2015-04-15 22:05:50	2015-04-15 22:05:50
+351	0x15f	ş	1759	5343283	aze	Dilin mənşəyi haqqında çoxlu nəzəriyyələr var, amma əslində heç kəs dəqiq bilmir.	vo_gne	2016-08-15 15:49:56	2016-08-15 15:49:56
+399	0x18f	Ə	71	8854154	aze	Ən yaxşı həll hansıdır?	aytanrust	2020-06-18 13:59:20	2020-06-18 13:59:20
+601	0x259	ə	4324	4097327	aze	İtaliya çox gözəl ölkədir.	vertigo93	2015-04-21 16:17:45	2015-04-21 16:17:45
+1041	0x411	Б	2	9642611	aze	Бә'зиләрини севмәрәм.	TurkishReform	2021-01-13 18:01:15	2021-01-13 18:01:18
 1052	0x41c	М	7	9643280	aze	Мән мүһәндисәм.	TurkishReform	2021-01-13 20:46:06	2021-01-13 20:46:06
 1053	0x41d	Н	1	9642616	aze	Нә үчүн мәнә нифрәт едәрсән?	TurkishReform	2021-01-13 18:03:06	2021-01-13 18:03:09
 1054	0x41e	О	1	9642208	aze	Онлар мәним дејил.	TurkishReform	2021-01-13 15:47:32	2021-01-13 15:47:32
@@ -98,35 +98,35 @@
 1058	0x422	Т	1	9641394	aze	Тәләбәнин китабы һардадыр?	TurkishReform	2021-01-13 09:53:25	2021-01-13 09:53:25
 1059	0x423	У	1	9641404	aze	Ушағым вар.	TurkishReform	2021-01-13 10:01:40	2021-01-13 10:01:42
 1063	0x427	Ч	1	9641681	aze	Чек гәбул едирсиниз?	TurkishReform	2021-01-13 13:06:21	2021-01-13 13:06:23
-1072	0x430	а	7	9642619	aze	Мән ҝинекологам.	TurkishReform	2021-01-13 18:04:16	2021-01-13 18:04:19
-1073	0x431	б	3	9641394	aze	Тәләбәнин китабы һардадыр?	TurkishReform	2021-01-13 09:53:25	2021-01-13 09:53:25
+1072	0x430	а	7	9641708	aze	Aна көрпәсини өпдү.	TurkishReform	2021-01-13 13:10:23	2021-01-13 13:10:23
+1073	0x431	б	3	9641339	aze	Мән тәләбә дејиләм.	TurkishReform	2021-01-13 09:35:22	2021-01-13 09:35:24
 1074	0x432	в	4	9641404	aze	Ушағым вар.	TurkishReform	2021-01-13 10:01:40	2021-01-13 10:01:42
 1075	0x433	г	2	9641681	aze	Чек гәбул едирсиниз?	TurkishReform	2021-01-13 13:06:21	2021-01-13 13:06:23
-1076	0x434	д	12	9642616	aze	Нә үчүн мәнә нифрәт едәрсән?	TurkishReform	2021-01-13 18:03:06	2021-01-13 18:03:09
-1077	0x435	е	9	9642657	aze	Мән мүәллим дејиләм.	TurkishReform	2021-01-13 18:23:26	2021-01-13 18:23:29
-1079	0x437	з	3	9642611	aze	Бә'зиләрини севмәрәм.	TurkishReform	2021-01-13 18:01:15	2021-01-13 18:01:18
-1080	0x438	и	16	9642616	aze	Нә үчүн мәнә нифрәт едәрсән?	TurkishReform	2021-01-13 18:03:06	2021-01-13 18:03:09
+1076	0x434	д	12	9641681	aze	Чек гәбул едирсиниз?	TurkishReform	2021-01-13 13:06:21	2021-01-13 13:06:23
+1077	0x435	е	9	9642611	aze	Бә'зиләрини севмәрәм.	TurkishReform	2021-01-13 18:01:15	2021-01-13 18:01:18
+1079	0x437	з	3	9641681	aze	Чек гәбул едирсиниз?	TurkishReform	2021-01-13 13:06:21	2021-01-13 13:06:23
+1080	0x438	и	16	9642611	aze	Бә'зиләрини севмәрәм.	TurkishReform	2021-01-13 18:01:15	2021-01-13 18:01:18
 1082	0x43a	к	7	9643373	aze	Су ичмәк истәмирәм.	TurkishReform	2021-01-13 20:56:53	2021-01-13 20:56:53
 1083	0x43b	л	10	9641394	aze	Тәләбәнин китабы һардадыр?	TurkishReform	2021-01-13 09:53:25	2021-01-13 09:53:25
-1084	0x43c	м	13	9641672	aze	Ҝүнортадан сонра ики саат дәрсимиз вар.	TurkishReform	2021-01-13 13:04:27	2021-01-13 13:04:29
-1085	0x43d	н	13	9642619	aze	Мән ҝинекологам.	TurkishReform	2021-01-13 18:04:16	2021-01-13 18:04:19
-1086	0x43e	о	2	9642619	aze	Мән ҝинекологам.	TurkishReform	2021-01-13 18:04:16	2021-01-13 18:04:19
+1084	0x43c	м	13	9641404	aze	Ушағым вар.	TurkishReform	2021-01-13 10:01:40	2021-01-13 10:01:42
+1085	0x43d	н	13	9642208	aze	Онлар мәним дејил.	TurkishReform	2021-01-13 15:47:32	2021-01-13 15:47:32
+1086	0x43e	о	2	9641672	aze	Ҝүнортадан сонра ики саат дәрсимиз вар.	TurkishReform	2021-01-13 13:04:27	2021-01-13 13:04:29
 1087	0x43f	п	1	9641708	aze	Aна көрпәсини өпдү.	TurkishReform	2021-01-13 13:10:23	2021-01-13 13:10:23
-1088	0x440	р	11	9642208	aze	Онлар мәним дејил.	TurkishReform	2021-01-13 15:47:32	2021-01-13 15:47:32
-1089	0x441	с	8	9641672	aze	Ҝүнортадан сонра ики саат дәрсимиз вар.	TurkishReform	2021-01-13 13:04:27	2021-01-13 13:04:29
-1090	0x442	т	6	9641394	aze	Тәләбәнин китабы һардадыр?	TurkishReform	2021-01-13 09:53:25	2021-01-13 09:53:25
+1088	0x440	р	11	9641394	aze	Тәләбәнин китабы һардадыр?	TurkishReform	2021-01-13 09:53:25	2021-01-13 09:53:25
+1089	0x441	с	8	9641681	aze	Чек гәбул едирсиниз?	TurkishReform	2021-01-13 13:06:21	2021-01-13 13:06:23
+1090	0x442	т	6	9641339	aze	Мән тәләбә дејиләм.	TurkishReform	2021-01-13 09:35:22	2021-01-13 09:35:24
 1091	0x443	у	4	9641681	aze	Чек гәбул едирсиниз?	TurkishReform	2021-01-13 13:06:21	2021-01-13 13:06:23
 1092	0x444	ф	1	9642616	aze	Нә үчүн мәнә нифрәт едәрсән?	TurkishReform	2021-01-13 18:03:06	2021-01-13 18:03:09
 1095	0x447	ч	2	9642616	aze	Нә үчүн мәнә нифрәт едәрсән?	TurkishReform	2021-01-13 18:03:06	2021-01-13 18:03:09
-1096	0x448	ш	2	9641405	aze	Мәним ушағым вар.	TurkishReform	2021-01-13 10:01:53	2021-01-13 10:01:56
+1096	0x448	ш	2	9641404	aze	Ушағым вар.	TurkishReform	2021-01-13 10:01:40	2021-01-13 10:01:42
 1099	0x44b	ы	3	9641404	aze	Ушағым вар.	TurkishReform	2021-01-13 10:01:40	2021-01-13 10:01:42
-1112	0x458	ј	5	9642656	aze	Мүәллим дејиләм.	TurkishReform	2021-01-13 18:23:14	2021-01-13 18:23:16
-1171	0x493	ғ	3	9642607	aze	Бу лүғәтдир?	TurkishReform	2021-01-13 18:00:03	2021-01-13 18:00:05
+1112	0x458	ј	5	9642208	aze	Онлар мәним дејил.	TurkishReform	2021-01-13 15:47:32	2021-01-13 15:47:32
+1171	0x493	ғ	3	9641404	aze	Ушағым вар.	TurkishReform	2021-01-13 10:01:40	2021-01-13 10:01:42
 1180	0x49c	Ҝ	1	9641672	aze	Ҝүнортадан сонра ики саат дәрсимиз вар.	TurkishReform	2021-01-13 13:04:27	2021-01-13 13:04:29
 1181	0x49d	ҝ	1	9642619	aze	Мән ҝинекологам.	TurkishReform	2021-01-13 18:04:16	2021-01-13 18:04:19
-1199	0x4af	ү	7	9642607	aze	Бу лүғәтдир?	TurkishReform	2021-01-13 18:00:03	2021-01-13 18:00:05
-1211	0x4bb	һ	2	9641394	aze	Тәләбәнин китабы һардадыр?	TurkishReform	2021-01-13 09:53:25	2021-01-13 09:53:25
-1241	0x4d9	ә	18	9642611	aze	Бә'зиләрини севмәрәм.	TurkishReform	2021-01-13 18:01:15	2021-01-13 18:01:18
+1199	0x4af	ү	7	9643280	aze	Мән мүһәндисәм.	TurkishReform	2021-01-13 20:46:06	2021-01-13 20:46:06
+1211	0x4bb	һ	2	9643280	aze	Мән мүһәндисәм.	TurkishReform	2021-01-13 20:46:06	2021-01-13 20:46:06
+1241	0x4d9	ә	18	9641339	aze	Мән тәләбә дејиләм.	TurkishReform	2021-01-13 09:35:22	2021-01-13 09:35:24
 1257	0x4e9	ө	1	9641708	aze	Aна көрпәсини өпдү.	TurkishReform	2021-01-13 13:10:23	2021-01-13 13:10:23
 8220	0x201c	“	1	11505213	aze	Amma “Baba Abdullah” ticarətə heç bir maraq göstərməmiş, ona etinasızlıq göstərmiş, pulu ehtiyatsızlıqla israf etmişdir.	eses	2023-02-02 18:40:09	2023-02-02 18:40:09
 8221	0x201d	”	1	11505213	aze	Amma “Baba Abdullah” ticarətə heç bir maraq göstərməmiş, ona etinasızlıq göstərmiş, pulu ehtiyatsızlıqla israf etmişdir.	eses	2023-02-02 18:40:09	2023-02-02 18:40:09

@@ -1,86 +1,86 @@
-32	0x20	 	801	3564742	pms	It l'has confodù la margarin-a con ël butir?	ema_rega	2014-10-18 02:14:02	2014-10-18 02:14:02
-33	0x21	!	52	5968961	pms	Catte la version antrèja!	AtreiusAries	2017-03-22 11:12:28	\N
-34	0x22	"	9	3584603	pms	I son nèn d'acòrde, a l'é nèn rassist dovré la paròla "rassa".	ema_rega	2014-10-27 01:05:55	2014-10-27 01:05:55
-39	0x27	'	549	3528036	pms	Pija l'àutra cadrega!	AtreiusAries	2014-09-30 16:28:17	2014-09-30 16:28:17
-44	0x2c	,	106	3510487	pms	Scuseme, i l'hai nèn 'vù temp ëd lese bin l'artìcol.	ema_rega	2014-09-22 01:20:21	2014-09-22 01:20:21
-45	0x2d	-	138	5586300	pms	Peter a l'era 'n giugador ëd video-gieugh altruista; chiel a l'avrìa dait la ròba a la gent ch'a n'avìa da manca, pitòst che vëndje për profit përsonal.	ema_rega	2016-11-07 00:19:53	2016-11-07 00:22:29
-46	0x2e	.	655	1647251	pms	A peul dese ch'a pijo la màchina.	matsuteo	2012-06-26 12:24:26	2012-06-26 12:24:26
+32	0x20	 	801	3541350	pms	It deve scondte.	ema_rega	2014-10-06 01:10:41	2014-10-06 01:11:01
+33	0x21	!	52	3543557	pms	It armersio istess!	Simon_Uslengh	2014-10-07 02:57:31	2014-10-07 02:57:31
+34	0x22	"	9	3564736	pms	Cò' a l'é 'n "terpomo"? Un pom ant la tera, o na patata?	ema_rega	2014-10-18 02:05:35	2014-10-18 02:05:35
+39	0x27	'	549	5968945	pms	Amprende l'Inglèis a l'é dura.	AtreiusAries	2017-03-22 11:00:29	\N
+44	0x2c	,	106	3653309	pms	A che ora i rivroma a Akita, s'i pijoma 'l treno dle neuv e mesa?	ema_rega	2014-11-23 20:28:58	2014-11-23 20:28:58
+45	0x2d	-	138	3571899	pms	A l'é na bon-a abitùdin ten-e 'n diari.	ema_rega	2014-10-21 03:24:37	2014-10-21 03:24:37
+46	0x2e	.	655	3543417	pms	Chiel a l'ha dëstissà la lus.	Simon_Uslengh	2014-10-07 02:13:24	2014-10-07 02:13:24
 48	0x30	0	2	1647246	pms	La Mauritania a l'é stàita un possediment dla Fransa fin al 1960, quand a l'ha otnù l'indipendensa.	al_ex_an_der	2012-06-26 12:20:57	2012-11-03 14:54:06
-49	0x31	1	2	1647246	pms	La Mauritania a l'é stàita un possediment dla Fransa fin al 1960, quand a l'ha otnù l'indipendensa.	al_ex_an_der	2012-06-26 12:20:57	2012-11-03 14:54:06
-50	0x32	2	3	3498475	pms	Ant jë Stat Unì ël salari mìnim a l'é 'd 7,25 dòlar a l'ora.	ema_rega	2014-09-16 00:58:28	2014-09-16 00:58:28
+49	0x31	1	2	3853706	pms	"123456" a l'é na password dovrà sovens.	ema_rega	2015-02-08 23:37:35	2015-02-08 23:45:16
+50	0x32	2	3	3503983	pms	L'eva a gèila a 32 grad Fahrenheit.	ema_rega	2014-09-19 01:28:01	2014-09-19 01:28:01
 51	0x33	3	3	3853706	pms	"123456" a l'é na password dovrà sovens.	ema_rega	2015-02-08 23:37:35	2015-02-08 23:45:16
 52	0x34	4	1	3853706	pms	"123456" a l'é na password dovrà sovens.	ema_rega	2015-02-08 23:37:35	2015-02-08 23:45:16
 53	0x35	5	2	3498475	pms	Ant jë Stat Unì ël salari mìnim a l'é 'd 7,25 dòlar a l'ora.	ema_rega	2014-09-16 00:58:28	2014-09-16 00:58:28
 54	0x36	6	3	3853706	pms	"123456" a l'é na password dovrà sovens.	ema_rega	2015-02-08 23:37:35	2015-02-08 23:45:16
 55	0x37	7	1	3498475	pms	Ant jë Stat Unì ël salari mìnim a l'é 'd 7,25 dòlar a l'ora.	ema_rega	2014-09-16 00:58:28	2014-09-16 00:58:28
 57	0x39	9	1	1647246	pms	La Mauritania a l'é stàita un possediment dla Fransa fin al 1960, quand a l'ha otnù l'indipendensa.	al_ex_an_der	2012-06-26 12:20:57	2012-11-03 14:54:06
-58	0x3a	:	4	3527990	pms	I son nen bon ëd balé la sala: gnanca 'n pass.	AtreiusAries	2014-09-30 16:21:00	2014-09-30 16:21:00
-59	0x3b	;	2	3527983	pms	Për chiel la fam a l'era mach teoria; a l'ha sempre avune sè da mangé.	AtreiusAries	2014-09-30 16:18:44	2014-09-30 16:18:44
-63	0x3f	?	125	3663620	pms	Dame 'l teléfon, va bin?	ema_rega	2014-11-28 23:56:04	2014-11-28 23:56:04
-65	0x41	A	156	3500803	pms	A l'ha ciamaje dal general d'artiré 'l comand.	AtreiusAries	2014-09-17 11:09:14	2014-09-17 11:09:14
-66	0x42	B	18	1647230	pms	Bin ëvnù!	matsuteo	2012-06-26 12:09:38	2012-06-26 12:09:38
-67	0x43	C	115	5578826	pms	Cor.	ema_rega	2016-11-04 19:57:49	2016-11-04 19:57:49
-68	0x44	D	26	5587703	pms	Dividoma la polìtica da la religion.	ema_rega	2016-11-07 18:10:51	2016-11-07 18:10:51
-69	0x45	E	9	5599290	pms	An Esperanto a-i é 'l prinsipi 'd necessità e suficiènsa.	ema_rega	2016-11-11 21:45:46	2016-11-11 21:45:46
+58	0x3a	:	4	5578145	pms	Tom a l'ha dësvijà Mary a 6:30 e chila a l'era nèn contenta 'd sòn.	ema_rega	2016-11-04 16:28:10	2016-11-04 16:28:10
+59	0x3b	;	2	5586300	pms	Peter a l'era 'n giugador ëd video-gieugh altruista; chiel a l'avrìa dait la ròba a la gent ch'a n'avìa da manca, pitòst che vëndje për profit përsonal.	ema_rega	2016-11-07 00:19:53	2016-11-07 00:22:29
+63	0x3f	?	125	3671639	pms	Chi a l'ha mandalo sì?	ema_rega	2014-12-03 15:52:08	2014-12-03 15:52:08
+65	0x41	A	156	5582427	pms	A l'é pront adess.	ema_rega	2016-11-05 18:08:15	2016-11-05 18:08:15
+66	0x42	B	18	3532062	pms	It l'has-to nen vëdù la BMW ch'a-i é fòra?	AtreiusAries	2014-10-02 17:49:21	2014-10-02 17:49:21
+67	0x43	C	115	5578716	pms	Cat-lo për mi, për piasì.	ema_rega	2016-11-04 19:10:57	2016-11-04 19:10:57
+68	0x44	D	26	3780330	pms	Dësmèntia nèn Tom.	ema_rega	2015-01-20 00:27:37	2015-01-20 00:27:37
+69	0x45	E	9	3584537	pms	A-i é motobin ëd gent ëstran-a an palestra a la matin a quatr ore. E con fierëssa mi i son un ëd lor.	ema_rega	2014-10-27 00:53:15	2014-10-27 00:53:15
 70	0x46	F	17	3780298	pms	Fame savej s'it peule felo doman.	ema_rega	2015-01-20 00:09:22	2015-01-20 00:09:22
-71	0x47	G	14	5333574	pms	Mi im ciamo Giaco.	matsuteo	2016-08-11 06:38:23	2016-08-11 06:38:23
-73	0x49	I	179	3545491	pms	I l'hai fàit na spassëggiada.	ema_rega	2014-10-08 00:38:41	2014-10-08 00:38:41
-74	0x4a	J	8	3665263	pms	J'edifissi an bosch a pijo feu facilment.	ema_rega	2014-11-30 03:00:08	2014-11-30 03:00:08
-75	0x4b	K	3	5599642	pms	Al di d'ancheuj ël Burj Khalifa a l'é 'l gratacel pì àut dël mond.	ema_rega	2016-11-11 23:24:26	2016-11-11 23:24:26
-76	0x4c	L	62	3512348	pms	La lus a l'é dësmortà.	ema_rega	2014-09-22 17:53:40	2014-09-22 17:53:40
-77	0x4d	M	78	3662315	pms	Mi i veul vogh-ve 'l prima possìbil.	ema_rega	2014-11-28 03:10:49	2014-11-28 03:10:49
-78	0x4e	N	14	5582364	pms	Nòsta lenga mare a l'é 'l giaponèis.	ema_rega	2016-11-05 17:44:26	2016-11-05 17:44:26
+71	0x47	G	14	3543436	pms	Gioann a l'ha vëddù d'uva.	Simon_Uslengh	2014-10-07 02:20:33	2014-10-07 02:20:33
+73	0x49	I	179	5587722	pms	It l'has dla pitura 'doss.	ema_rega	2016-11-07 18:28:51	2016-11-07 18:32:12
+74	0x4a	J	8	3787032	pms	J'òmo a stan sèmper an pé ant ël sènter, e parej a gen-o le fomne!	ema_rega	2015-01-22 11:50:45	2015-01-22 11:50:45
+75	0x4b	K	3	5599643	pms	Al di d'ancheuj ël Burj Khalifa a l'é 'l palass pì àut dël mond.	ema_rega	2016-11-11 23:25:28	2016-11-11 23:25:51
+76	0x4c	L	62	3543520	pms	La mùsica a esprim lòn ch'a peul nen esse dit e dzora che as peul nen resté ciuto.	Simon_Uslengh	2014-10-07 02:47:57	2014-10-07 02:47:57
+77	0x4d	M	78	3647743	pms	Ant ël giardin dla Maria a-i é na bela caban-a 'd bosch.	ema_rega	2014-11-21 02:42:02	2014-11-21 02:42:02
+78	0x4e	N	14	3484348	pms	Na bira, për piasì.	ema_rega	2014-09-09 23:45:14	2014-09-09 23:45:14
 79	0x4f	O	1	3885568	pms	L'Orient Express a partrà dal binari doi a ses ore dla matin.	ema_rega	2015-02-21 23:55:52	2015-02-21 23:55:52
-80	0x50	P	43	3543462	pms	Pensësto ch'i smijo a mé frel?	Simon_Uslengh	2014-10-07 02:24:48	2014-10-07 02:24:48
-81	0x51	Q	6	3503947	pms	Qualsëssia ròba ch'at dise, mi im mariereu con chila.	ema_rega	2014-09-19 01:14:26	2014-09-19 01:14:26
+80	0x50	P	43	3603338	pms	Për piasì, mostremlo an sla cartin-a.	ema_rega	2014-11-03 01:31:07	2014-11-03 01:31:07
+81	0x51	Q	6	3603309	pms	Quajdun a sòrt ëstasèira?	ema_rega	2014-11-03 01:10:31	2014-11-03 01:10:31
 82	0x52	R	1	4603480	pms	A l'ha giugà a carte con Roy.	ema_rega	2015-10-12 22:22:14	2015-10-12 22:22:14
-83	0x53	S	47	3584597	pms	Susan a l'é na brava cusinera.	ema_rega	2014-10-27 01:04:15	2014-10-27 01:04:15
-84	0x54	T	117	5582345	pms	A l'é 'rivà a Tokyo a tre agn.	ema_rega	2016-11-05 17:33:53	2016-11-05 17:33:53
-85	0x55	U	8	3545527	pms	Un canarin a l'é 'n cit osel e la gent dle vòlte a lo ten coma animal doméstich.	ema_rega	2014-10-08 00:55:29	2014-10-08 00:55:29
-86	0x56	V	24	3780286	pms	Voi i l'avìe catà 'l pan.	ema_rega	2015-01-20 00:00:10	2015-01-20 00:00:10
+83	0x53	S	47	3541496	pms	Se doman a pieuv i staroma a cà.	ema_rega	2014-10-06 01:43:23	2014-10-06 01:43:23
+84	0x54	T	117	3781414	pms	Tom a discut mai dël sò travaj con Mary.	ema_rega	2015-01-20 13:33:26	2015-01-20 13:33:40
+85	0x55	U	8	3498475	pms	Ant jë Stat Unì ël salari mìnim a l'é 'd 7,25 dòlar a l'ora.	ema_rega	2014-09-16 00:58:28	2014-09-16 00:58:28
+86	0x56	V	24	5586123	pms	Vàire temp ch'a resta?	ema_rega	2016-11-06 22:02:18	2016-11-06 22:02:18
 87	0x57	W	1	3532062	pms	It l'has-to nen vëdù la BMW ch'a-i é fòra?	AtreiusAries	2014-10-02 17:49:21	2014-10-02 17:49:21
 89	0x59	Y	2	3846990	pms	I l'hai 'n fieul e na fija. Mè fieul a l'é a New York, e mia fija a l'é a Londra.	ema_rega	2015-02-06 22:15:46	2015-02-06 22:15:46
 90	0x5a	Z	1	5586101	pms	Zamenhof, col ch'a l'ha daje 'l prinsipi a la lenga pianificà Esperanto, a l'era un medich ëd j'euj.	ema_rega	2016-11-06 21:50:33	2016-11-06 21:50:33
-97	0x61	a	770	3543536	pms	Chila a dovìa spartì na stansia con soa seur.	Simon_Uslengh	2014-10-07 02:49:54	2014-10-07 02:49:54
-98	0x62	b	179	3545533	pms	A bogia lest.	ema_rega	2014-10-08 00:57:16	2014-10-08 00:57:16
-99	0x63	c	463	5586122	pms	Cost problema-sì a l'é tròp difìcil da afronté.	ema_rega	2016-11-06 22:01:24	2016-11-06 22:01:24
-100	0x64	d	450	3653110	pms	Toa pression dël sangh a l'é motobin àuta.	ema_rega	2014-11-23 19:27:25	2014-11-23 19:27:25
-101	0x65	e	634	5578145	pms	Tom a l'ha dësvijà Mary a 6:30 e chila a l'era nèn contenta 'd sòn.	ema_rega	2016-11-04 16:28:10	2016-11-04 16:28:10
-102	0x66	f	195	3846990	pms	I l'hai 'n fieul e na fija. Mè fieul a l'é a New York, e mia fija a l'é a Londra.	ema_rega	2015-02-06 22:15:46	2015-02-06 22:15:46
-103	0x67	g	228	3670555	pms	Tom a përmëtrà a gnun ëd giuté Mary.	ema_rega	2014-12-03 00:15:30	2014-12-03 00:15:30
-104	0x68	h	399	3603377	pms	Vist ch'a l'é vej, cost còmpit-sì a dev esse difìcil për chiel.	ema_rega	2014-11-03 01:47:49	2022-07-07 13:20:19
-105	0x69	i	665	3667297	pms	Ël fieul a l'é brav.	ema_rega	2014-12-01 00:49:03	2014-12-01 00:49:03
-106	0x6a	j	188	5578286	pms	It veule voghe mia colession ëd francobòj?	ema_rega	2016-11-04 16:58:08	2016-11-04 16:58:08
-107	0x6b	k	9	5582344	pms	A l'é 'rivà a Tokya ch'a l'avìa tre agn.	ema_rega	2016-11-05 17:33:33	2016-11-05 17:33:33
-108	0x6c	l	635	3787048	pms	A-i é n'usagi dla lenga dël còrp.	ema_rega	2015-01-22 11:59:09	2015-01-22 11:59:09
-109	0x6d	m	471	3541602	pms	A son ëmlon.	ema_rega	2014-10-06 02:08:17	2014-10-06 02:08:17
-110	0x6e	n	647	3653125	pms	A l'ha nèn giutà ij pòver.	ema_rega	2014-11-23 19:29:44	2014-11-23 19:29:44
-111	0x6f	o	578	3545498	pms	I l'avrìa dovù detlo pì prèst.	ema_rega	2014-10-08 00:42:29	2014-10-08 00:42:29
-112	0x70	p	402	1856549	pms	I sai gnanca anté ch'as trova la Gërmania an sla mapa! Coma im vërgògno!	matsuteo	2012-09-21 15:42:14	2012-09-21 15:42:14
-113	0x71	q	33	3510628	pms	Për piasì portme ij mè lìber quand ch'at ven-e.	ema_rega	2014-09-22 02:06:41	2014-09-22 02:06:41
-114	0x72	r	586	3528056	pms	S'it veule andé a studié ant l'Amèrica, it l'has ëbzògn d'un vist da student.	AtreiusAries	2014-09-30 16:30:31	2014-09-30 16:30:31
-115	0x73	s	590	3853708	pms	I soma amis, neh?	ema_rega	2015-02-08 23:38:36	2015-02-08 23:38:36
-116	0x74	t	573	3498492	pms	A la fin còsa ch'it l'has catà l'àutër dì?	ema_rega	2014-09-16 01:23:42	2014-09-16 01:23:42
-117	0x75	u	323	3653114	pms	I dev giutete?	ema_rega	2014-11-23 19:27:55	2014-11-23 19:27:55
-118	0x76	v	322	3545502	pms	A l'é pericolos nové an cost lagh-sì.	ema_rega	2014-10-08 00:44:01	2014-10-08 00:44:01
+97	0x61	a	770	3596315	pms	Ti 't bute nèn an pràtica lòn ch'it prédiche.	ema_rega	2014-10-31 02:33:04	2014-10-31 02:33:04
+98	0x62	b	179	5578871	pms	Ambrassé Tom.	ema_rega	2016-11-04 20:44:56	2016-11-04 20:44:56
+99	0x63	c	463	3543492	pms	Sustoma ch'it cante na canson.	Simon_Uslengh	2014-10-07 02:36:31	2014-10-07 02:36:31
+100	0x64	d	450	3663593	pms	Chila a ten soa stansa sèmper polida.	ema_rega	2014-11-28 23:30:47	2014-11-28 23:30:47
+101	0x65	e	634	3653337	pms	Tò métod a l'é divers dal mè.	ema_rega	2014-11-23 20:35:22	2014-11-23 20:35:22
+102	0x66	f	195	3649864	pms	La màchina a l'é stàita fàita an Giapon.	ema_rega	2014-11-22 01:40:24	2014-11-22 01:40:24
+103	0x67	g	228	5582354	pms	Mia lenga mare a l'é 'l giaponèis.	ema_rega	2016-11-05 17:40:53	2016-11-05 17:40:53
+104	0x68	h	399	5578890	pms	I deve capì che chiel a l'é mòrt.	ema_rega	2016-11-04 20:53:05	2016-11-04 20:53:05
+105	0x69	i	665	1647247	pms	Ancheuj i son andàit al mercà a caté doi mlon.	matsuteo	2012-06-26 12:21:46	2012-06-26 12:21:46
+106	0x6a	j	188	5968980	pms	Costa mùsica am fà vnì 'n ment dij temp ch'a tornran giumai.	AtreiusAries	2017-03-22 11:23:12	\N
+107	0x6b	k	9	3653309	pms	A che ora i rivroma a Akita, s'i pijoma 'l treno dle neuv e mesa?	ema_rega	2014-11-23 20:28:58	2014-11-23 20:28:58
+108	0x6c	l	635	3846976	pms	Lòn ch'it dise, an pràtica, a l'é nèn ver!	ema_rega	2015-02-06 22:06:15	2015-02-06 22:07:23
+109	0x6d	m	471	3490149	pms	I l'hai na domanda ch'i dev fete.	ema_rega	2014-09-12 01:45:41	2014-09-12 01:45:41
+110	0x6e	n	647	3498494	pms	A l'é pròpe na bon-a ideja.	ema_rega	2014-09-16 01:26:53	2014-09-16 01:26:53
+111	0x6f	o	578	3665271	pms	A fonsion-a nèn bin përchè le pile a son ëscàriche.	ema_rega	2014-11-30 03:03:41	2014-11-30 03:03:41
+112	0x70	p	402	3476625	pms	At ses dastrà simpàtich.	ema_rega	2014-09-07 04:01:26	2014-09-07 04:01:26
+113	0x71	q	33	3545428	pms	I l'hai vist-te sì da sol, e i l'hai pensà che magara it vorìe parlé con quajdun.	ema_rega	2014-10-08 00:13:48	2014-10-08 00:13:48
+114	0x72	r	586	5586122	pms	Cost problema-sì a l'é tròp difìcil da afronté.	ema_rega	2016-11-06 22:01:24	2016-11-06 22:01:24
+115	0x73	s	590	3516073	pms	A-i é gnente ch'i podoma fé për salvé Tom a 's pont-sì. Tut lòn ch'i podoma fé a l'é preghé.	ema_rega	2014-09-24 03:01:10	2014-09-24 03:01:10
+116	0x74	t	573	3670555	pms	Tom a përmëtrà a gnun ëd giuté Mary.	ema_rega	2014-12-03 00:15:30	2014-12-03 00:15:30
+117	0x75	u	323	5578564	pms	Buta le man su la testa!	ema_rega	2016-11-04 18:10:36	2016-11-04 18:10:36
+118	0x76	v	322	3541481	pms	I vodrìa lese quaj lìber an su Lincoln.	ema_rega	2014-10-06 01:39:13	2014-10-06 01:39:13
 119	0x77	w	3	3846990	pms	I l'hai 'n fieul e na fija. Mè fieul a l'é a New York, e mia fija a l'é a Londra.	ema_rega	2015-02-06 22:15:46	2015-02-06 22:15:46
 120	0x78	x	1	3885568	pms	L'Orient Express a partrà dal binari doi a ses ore dla matin.	ema_rega	2015-02-21 23:55:52	2015-02-21 23:55:52
-121	0x79	y	14	5599368	pms	Susan e Bob a son volà da Londra a Sydney, an Australia.	ema_rega	2016-11-11 22:14:09	2016-11-11 22:14:09
-122	0x7a	z	10	3543520	pms	La mùsica a esprim lòn ch'a peul nen esse dit e dzora che as peul nen resté ciuto.	Simon_Uslengh	2014-10-07 02:47:57	2014-10-07 02:47:57
+121	0x79	y	14	3781414	pms	Tom a discut mai dël sò travaj con Mary.	ema_rega	2015-01-20 13:33:26	2015-01-20 13:33:40
+122	0x7a	z	10	3564765	pms	La tor a l'é àuta tërzentvintun méter.	ema_rega	2014-10-18 02:31:15	2014-10-18 02:31:15
 171	0xab	«	2	5586128	pms	« It capisse col professor-là ? » « Sì, përfetament. »	ema_rega	2016-11-06 22:03:39	2016-11-06 22:03:39
 187	0xbb	»	2	5586128	pms	« It capisse col professor-là ? » « Sì, përfetament. »	ema_rega	2016-11-06 22:03:39	2016-11-06 22:03:39
-201	0xc9	É	3	3543425	pms	Élo nen bel?	Simon_Uslengh	2014-10-07 02:17:07	2014-10-07 02:17:07
-203	0xcb	Ë	25	3601918	pms	Ëv rancontrëroma là.	ema_rega	2014-11-02 18:09:37	2014-11-02 18:09:37
+201	0xc9	É	3	5333582	pms	É, a-i son doe bon-e rason.	matsuteo	2016-08-11 06:44:16	2016-08-11 06:44:16
+203	0xcb	Ë	25	5333575	pms	Ët stase 'mbelessì?	matsuteo	2016-08-11 06:39:38	2016-08-11 06:39:38
 220	0xdc	Ü	1	7918616	pms	Ün, dü, trè, quatr, sinc, sés, sèt, öt, nöu, dés.	\N	2019-05-18 11:35:23	2020-02-17 09:37:16
-224	0xe0	à	216	5968943	pms	Ël fieul a l'é restàss-ne ciuto.	AtreiusAries	2017-03-22 10:58:56	\N
+224	0xe0	à	216	3788473	pms	I l'hai trovà la sità an sla cartin-a.	ema_rega	2015-01-22 23:15:49	2015-01-22 23:15:49
 225	0xe1	á	1	6798681	pms	Buna Giurná Internasiunal dij Fumni!	Balamax	2018-03-26 20:59:03	2018-03-26 20:59:03
-232	0xe8	è	181	5599304	pms	I son content përché i son nèn na fomna.	ema_rega	2016-11-11 21:52:57	2016-11-11 21:52:57
-233	0xe9	é	312	3472218	pms	Ël médich a l'ha tocame 'l pols.	ema_rega	2014-09-05 01:34:14	2014-09-05 01:34:14
-235	0xeb	ë	243	3510487	pms	Scuseme, i l'hai nèn 'vù temp ëd lese bin l'artìcol.	ema_rega	2014-09-22 01:20:21	2014-09-22 01:20:21
-236	0xec	ì	211	3601931	pms	Dì mach a gnun anté ch'it l'has 'vù sossì.	ema_rega	2014-11-02 18:12:19	2014-11-02 18:12:19
-242	0xf2	ò	219	3846987	pms	An col negòssi-là a costa tut dastrà.	ema_rega	2015-02-06 22:13:36	2015-02-06 22:13:36
-243	0xf3	ó	8	5599588	pms	I diró a Tomà ch'it ses pront.	ema_rega	2016-11-11 23:01:03	2016-11-11 23:01:21
+232	0xe8	è	181	3503959	pms	A parla anglèis e fransèis.	ema_rega	2014-09-19 01:18:05	2014-09-19 01:18:05
+233	0xe9	é	312	3481475	pms	Costa a l'é la cà 'nté ch'a stavo quand ch'a j'ero cit.	ema_rega	2014-09-09 02:03:16	2014-09-09 02:03:16
+235	0xeb	ë	243	3543181	pms	Dòp ch'a l'é mort-ie sò pare, chiel a l'ha dovù studié dës për chiel.	ema_rega	2014-10-07 00:26:44	2014-10-07 00:26:44
+236	0xec	ì	211	3787053	pms	Le matemàtiche a son la part dle siense ch'as podrio continué a fé se doman is dësvijàisso e i dëscheurvèisso che l'univers a l'é sparì.	ema_rega	2015-01-22 12:03:07	2015-01-22 12:06:04
+242	0xf2	ò	219	3596319	pms	Cò' 't vrisse bèive? 'N cafè?	ema_rega	2014-10-31 02:36:39	2014-10-31 02:36:39
+243	0xf3	ó	8	3603296	pms	I sai ch'i imparëró tant.	ema_rega	2014-11-03 00:59:54	2014-11-03 00:59:54
 246	0xf6	ö	1	7918616	pms	Ün, dü, trè, quatr, sinc, sés, sèt, öt, nöu, dés.	\N	2019-05-18 11:35:23	2020-02-17 09:37:16
-249	0xf9	ù	65	3543504	pms	Chila a l'ha vorsù che chiel a-j disìa ch'a l'amava.	Simon_Uslengh	2014-10-07 02:40:22	2014-10-07 02:40:22
+249	0xf9	ù	65	5582349	pms	Monsù Suzuki a l'ha studià fransèis prima d'andé an Fransa.	ema_rega	2016-11-05 17:38:30	2016-11-05 17:38:30
 252	0xfc	ü	2	7793511	pms	Adess ch'it ses sì, giütme.	AndresR1994	2019-03-01 17:58:59	2019-03-02 18:28:16
-8239	0x202f	 	2	5586128	pms	« It capisse col professor-là ? » « Sì, përfetament. »	ema_rega	2016-11-06 22:03:39	2016-11-06 22:03:39
+8239	0x202f	 	2	5586129	pms	« Capiss-to col professor-là ? » « Sì, përfetament. »	ema_rega	2016-11-06 22:04:28	2016-11-06 22:04:28

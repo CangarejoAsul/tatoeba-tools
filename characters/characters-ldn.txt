@@ -1,46 +1,46 @@
-32	0x20	 	150	6686397	ldn	Bóo ban ne ledi losheth netho.	shekitten	2018-02-12 18:37:41	2018-02-12 18:37:41
+32	0x20	 	153	8247066	ldn	Nede, shin, boó, bim, shan, bath, um, nib, bud, thab.	Thanuir	2019-10-11 15:01:49	2019-10-11 15:01:53
 33	0x21	!	1	9449895	ldn	Bíilan áya lul letha wa!	shekitten	2020-12-08 13:23:57	2020-12-08 13:23:57
 34	0x22	"	1	8243692	ldn	"Báa eril éthe ne belideth?" "Em. Bíi eril éthe le wa."	shekitten	2019-10-09 19:59:43	2019-10-09 20:01:01
-44	0x2c	,	11	8243174	ldn	Ra, bíi híya ra rul wi.	shekitten	2019-10-09 15:22:40	2019-10-09 15:22:40
-46	0x2e	.	138	8557133	ldn	Yod ra le dehenith wa.	shekitten	2020-02-16 20:18:04	2020-02-16 20:18:04
+44	0x2c	,	11	8263709	ldn	Ra, bíi híya ra rul wa.	shekitten	2019-10-17 20:25:30	2019-10-17 20:25:30
+46	0x2e	.	140	5597757	ldn	Bíi di donidanenal, izh ramúna óoyatha wa.	shekitten	2016-11-11 10:57:36	2016-11-11 10:57:36
 59	0x3b	;	1	7019910	ldn	Melaya luhili letha i netha; hesho ra letha wi.	shekitten	2018-07-25 13:14:18	2018-07-25 13:14:18
-63	0x3f	?	12	8243201	ldn	Báa shane rul?	shekitten	2019-10-09 15:25:34	2019-10-09 15:25:34
+63	0x3f	?	13	5210811	ldn	Báa ril sháad Tom áathamedi?	cueyayotl	2016-06-13 13:48:02	2016-06-13 13:48:02
 65	0x41	A	5	11450764	ldn	A a a be athehé wa.	shekitten	2023-01-10 15:44:14	2023-01-10 15:48:26
-66	0x42	B	92	7456681	ldn	Bíi mewith with wa.	\N	2018-11-13 01:00:39	2019-05-06 00:35:50
-68	0x44	D	3	6818473	ldn	Di le shadonenal wa.	shekitten	2018-04-03 23:42:07	2018-04-03 23:43:08
-69	0x45	E	11	7335661	ldn	Eril delishe Thom wa.	shekitten	2018-10-24 16:46:24	2018-10-24 16:46:24
-76	0x4c	L	9	6993068	ldn	Laya be wi.	shekitten	2018-07-13 16:39:41	2018-07-13 16:39:41
-77	0x4d	M	9	7019910	ldn	Melaya luhili letha i netha; hesho ra letha wi.	shekitten	2018-07-25 13:14:18	2018-07-25 13:14:18
+66	0x42	B	93	8243696	ldn	Bíi éthe ra belid wa. Mudahéthe belid.	shekitten	2019-10-09 20:03:17	2019-10-09 20:03:17
+68	0x44	D	3	8907510	ldn	Áya Doni wa.	shekitten	2020-07-11 02:23:53	2020-09-08 11:42:58
+69	0x45	E	11	7457064	ldn	Bíi habelid le Eshanebuleha wa.	shekitten	2018-11-13 05:11:28	2019-05-25 00:09:39
+76	0x4c	L	11	7051493	ldn	Lith le loláadehil Meri ulehehé wa.	shekitten	2018-08-09 09:02:38	2018-08-09 09:02:38
+77	0x4d	M	9	7085612	ldn	Meháya rul woho wa.	shekitten	2018-08-24 10:37:15	2018-08-24 10:37:15
 78	0x4e	N	7	7136038	ldn	Nosháad weman wi.	shekitten	2018-09-08 20:54:32	2018-09-08 20:54:32
-79	0x4f	O	3	7061931	ldn	Omid mid wa.	shekitten	2018-08-15 06:22:16	2018-08-15 06:22:16
-82	0x52	R	7	8570092	ldn	Rawíi be wi.	shekitten	2020-02-22 17:37:39	2020-02-22 17:37:39
+79	0x4f	O	3	12057145	ldn	Oth losh wa.	shekitten	2023-09-15 16:03:39	2023-09-15 16:03:39
+82	0x52	R	7	8243174	ldn	Ra, bíi híya ra rul wi.	shekitten	2019-10-09 15:22:40	2019-10-09 15:22:40
 83	0x53	S	1	6539865	ldn	Sha ra lezh wa.	shekitten	2017-12-05 12:23:25	2017-12-05 12:23:25
 84	0x54	T	21	7335530	ldn	Bíi thehena Thom wa.	shekitten	2018-10-24 16:17:13	2018-10-24 16:17:13
 87	0x57	W	1	7335649	ldn	Wil sha, Thom.	shekitten	2018-10-24 16:43:10	2018-10-24 16:43:10
 89	0x59	Y	2	6818094	ldn	Yide rul letho wa.	shekitten	2018-04-03 17:40:29	2018-04-03 17:40:29
 90	0x5a	Z	1	7468333	ldn	Zhe wohumeya wothamehal lenetha wonibeya wothamehaleth wáa.	shekitten	2018-11-16 14:12:28	2018-11-16 14:12:28
-97	0x61	a	143	8907511	ldn	Áya thamehal wa.	shekitten	2020-07-11 02:24:25	2020-09-08 11:42:58
-98	0x62	b	54	8594626	ldn	Éther eba Rahel betho wáa.	shekitten	2020-03-05 02:06:38	2020-03-05 02:06:38
-100	0x64	d	75	6686405	ldn	Ban be héeyath ledi wa.	shekitten	2018-02-12 18:42:20	2018-02-12 18:49:09
-101	0x65	e	136	5403246	ldn	Báa náhin e náhin ra?	shekitten	2016-09-05 14:53:06	2016-09-05 14:53:36
-104	0x68	h	132	6686401	ldn	Bóo ban ne ledi áabeth.	shekitten	2018-02-12 18:39:50	2018-02-12 18:39:50
-105	0x69	i	122	6824885	ldn	Bíid thad dóyom le leyóoth wa, Thom.	shekitten	2018-04-07 17:46:26	2018-04-07 17:46:26
-108	0x6c	l	111	6686401	ldn	Bóo ban ne ledi áabeth.	shekitten	2018-02-12 18:39:50	2018-02-12 18:39:50
-109	0x6d	m	57	7136038	ldn	Nosháad weman wi.	shekitten	2018-09-08 20:54:32	2018-09-08 20:54:32
-110	0x6e	n	71	6611185	ldn	Meham wolaya womahina menedebe déelaha wi.	shekitten	2018-01-17 07:40:42	2018-01-17 07:40:42
-111	0x6f	o	78	7456107	ldn	Bíi le omá wa.	shekitten	2018-11-12 20:28:17	2019-10-19 22:08:53
+97	0x61	a	146	7932229	ldn	Bíi methad ra mewíi with shum raden wáa.	shekitten	2019-05-25 00:03:11	2019-05-25 00:03:11
+98	0x62	b	54	6611184	ldn	Meham wolaya womahina menedebe déelaha wa.	shekitten	2018-01-17 07:39:52	2018-01-17 07:39:52
+100	0x64	d	77	7456301	ldn	Bíi le edutháhid wa.	\N	2018-11-12 21:58:03	2019-05-06 00:36:09
+101	0x65	e	137	7456682	ldn	Bíi ab Thom emahineth wa.	\N	2018-11-13 01:05:55	2019-05-06 00:35:48
+104	0x68	h	135	7570702	ldn	Bíi néde Thom lanemideth wa.	shekitten	2018-12-09 19:01:38	2018-12-09 19:01:38
+105	0x69	i	124	8263709	ldn	Ra, bíi híya ra rul wa.	shekitten	2019-10-17 20:25:30	2019-10-17 20:25:30
+108	0x6c	l	114	5210940	ldn	Bíi ril sháad le miwithedi wa.	cueyayotl	2016-06-13 14:36:30	2016-06-13 14:36:30
+109	0x6d	m	61	6824886	ldn	Thad dóyom le leyóoth wa, Thom.	shekitten	2018-04-07 17:46:36	2018-04-07 17:46:36
+110	0x6e	n	71	8243227	ldn	Bíi rahíya i shane rul wi.	shekitten	2019-10-09 15:28:10	2019-10-09 15:28:10
+111	0x6f	o	81	7085612	ldn	Meháya rul woho wa.	shekitten	2018-08-24 10:37:15	2018-08-24 10:37:15
 112	0x70	p	1	7453219	ldn	Bíi di ra le Eshperanthodaneth wa.	\N	2018-11-12 00:49:20	2019-05-06 00:35:59
-114	0x72	r	70	8243201	ldn	Báa shane rul?	shekitten	2019-10-09 15:25:34	2019-10-09 15:25:34
-115	0x73	s	49	7136039	ldn	Nosháad weman wáa.	shekitten	2018-09-08 20:55:43	2018-09-08 20:55:43
-116	0x74	t	88	12057145	ldn	Oth losh wa.	shekitten	2023-09-15 16:03:39	2023-09-15 16:03:39
-117	0x75	u	40	12037123	ldn	Báa le rul?	shekitten	2023-09-04 17:05:29	2023-09-04 17:05:47
-119	0x77	w	129	7456681	ldn	Bíi mewith with wa.	\N	2018-11-13 01:00:39	2019-05-06 00:35:50
-121	0x79	y	35	6993066	ldn	Báa laya be?	shekitten	2018-07-13 16:39:10	2018-07-13 16:39:10
-122	0x7a	z	7	7468330	ldn	Bíi zhe wohumeya wothamehal lenetha wonibeya wothamehaleth wáa.	shekitten	2018-11-16 14:11:41	2018-11-16 14:11:41
+114	0x72	r	71	7338489	ldn	Bíi eril delishe Thom wáa.	shekitten	2018-10-25 09:56:16	2018-10-25 09:56:16
+115	0x73	s	49	5210932	ldn	Bíi ril sháad le bodi wa.	cueyayotl	2016-06-13 14:34:48	2016-06-13 14:34:48
+116	0x74	t	88	7335530	ldn	Bíi thehena Thom wa.	shekitten	2018-10-24 16:17:13	2018-10-24 16:17:13
+117	0x75	u	41	5211851	ldn	Bíi hi luben wa.	cueyayotl	2016-06-13 23:46:50	2016-06-13 23:46:50
+119	0x77	w	131	7456945	ldn	Bíi théesháadedi le wa.	\N	2018-11-13 02:44:16	2019-05-06 00:35:37
+121	0x79	y	35	7058821	ldn	Aril lothel le sháaleya aril wa.	shekitten	2018-08-13 10:59:50	2018-08-13 10:59:50
+122	0x7a	z	8	12006988	ldn	Lezh with wa.	shekitten	2023-08-21 02:57:27	2023-08-21 02:57:27
 193	0xc1	Á	3	8907510	ldn	Áya Doni wa.	shekitten	2020-07-11 02:23:53	2020-09-08 11:42:58
-201	0xc9	É	2	8594626	ldn	Éther eba Rahel betho wáa.	shekitten	2020-03-05 02:06:38	2020-03-05 02:06:38
-225	0xe1	á	62	7742011	ldn	Báa Thom nuha?	shekitten	2019-01-20 00:21:36	2019-01-20 00:21:36
-233	0xe9	é	17	12372732	ldn	Bíi néde lezh ruleth wa.	rul	2024-03-15 13:07:16	2024-03-15 13:07:16
-237	0xed	í	82	9145518	ldn	Bíi ne with wi.	shekitten	2020-10-14 23:57:04	2020-10-14 23:57:04
-243	0xf3	ó	13	6824885	ldn	Bíid thad dóyom le leyóoth wa, Thom.	shekitten	2018-04-07 17:46:26	2018-04-07 17:46:26
+201	0xc9	É	2	8594625	ldn	Éther eba Rahel betho wa.	shekitten	2020-03-05 02:06:34	2020-03-05 02:06:34
+225	0xe1	á	64	12037123	ldn	Báa le rul?	shekitten	2023-09-04 17:05:29	2023-09-04 17:05:47
+233	0xe9	é	17	6611184	ldn	Meham wolaya womahina menedebe déelaha wa.	shekitten	2018-01-17 07:39:52	2018-01-17 07:39:52
+237	0xed	í	82	6539841	ldn	Bíide eril sháad withid rilinehothedi wo.	shekitten	2017-12-05 12:11:49	2017-12-05 12:11:49
+243	0xf3	ó	13	6686397	ldn	Bóo ban ne ledi losheth netho.	shekitten	2018-02-12 18:37:41	2018-02-12 18:37:41
 250	0xfa	ú	1	5597757	ldn	Bíi di donidanenal, izh ramúna óoyatha wa.	shekitten	2016-11-11 10:57:36	2016-11-11 10:57:36

@@ -1,166 +1,166 @@
-32	0x20	 	642736	9758654	ber	Silya d Ɛli yella yessefk ad d-sɣen asegzawal n trundit.	Aghsi_n_Unezruf	2021-02-14 06:46:43	2021-02-14 06:46:43
-33	0x21	!	6465	3654411	ber	Ulac acemma!	Amastan	2014-11-24 12:34:53	2014-11-24 12:34:53
-34	0x22	"	3480	10667467	ber	Memmi-tsen gan-as isem "John."	Amastan	2022-02-10 09:46:33	2022-02-10 09:46:33
-36	0x24	$	12	7682796	ber	Azal n tmudemt tamaynut ad yaweḍ ɣer 12.000 $.	Warwari	2019-01-03 17:53:41	2019-01-03 17:53:41
-37	0x25	%	38	3588848	ber	Tabyirt-a tla 5% n yiɣisem.	Amastan	2014-10-28 18:55:11	2014-10-28 18:55:11
-38	0x26	&	2	11160903	ber	Mary tḥemmel ad d-teqḍu seg H&M.	Amastan	2022-10-06 14:58:49	2022-10-06 14:58:49
-39	0x27	'	304	2976445	ber	Bres f lmeɛna n 'guy' dy umawal‑nnem.	Uyezjen	2014-01-11 08:31:42	2014-01-11 08:32:36
-40	0x28	(	179	8655424	ber	Tettmmektim-d Rebbi mi ara teɛkes fell-awen(t).	Talwit	2020-04-03 20:30:06	2020-04-03 20:30:06
-41	0x29	)	178	8575659	ber	Ulac ass ur d-steqsayen ara 4 neɣ 5 n yinelmaden ama n Tizi, n Bgayet, Tubiret neɣ ula Tbanet (Icawiyen).	Talwit	2020-02-24 23:28:28	2020-02-24 23:29:22
-42	0x2a	*	7	11126393	ber	Gerẓen-iyi yiḍan-nwen. *	Amastan	2022-09-18 20:10:22	2022-09-18 20:10:22
-43	0x2b	+	9	8957854	ber	Tismelt n ucrab d tin akk isehlen : awren + aman + tamituct + tifelfelt tazeggaɣt taqerḥant+ cwiṭ n zzit + tisent.	Talwit	2020-08-04 11:18:01	2020-08-04 11:18:01
-44	0x2c	,	66121	2532227	ber	Aha', d aɛezri.	Uyezjen	2013-06-28 17:52:12	2013-06-28 17:52:12
-45	0x2d	-	417263	10127208	ber	Tqeblemt ayen i awent-d-yecreḍ nnig n nnhaya-nwent.	Talwit	2021-06-24 22:14:06	2021-06-24 22:14:06
-46	0x2e	.	523568	9599034	ber	Sɛiɣ tanarit deg Ǧibuti.	Aghsi_n_Unezruf	2021-01-06 21:26:51	2021-01-06 21:26:51
-47	0x2f	/	31	11392062	ber	Kemm d tameẓrangayt/	Amastan	2022-12-30 10:54:55	2022-12-30 10:54:55
-48	0x30	0	1997	10653298	ber	Deg Ɣuct n 1990, Ɛiraq tenbeẓ Lekwit.	Amastan	2022-02-01 07:16:51	2022-02-01 07:16:51
-49	0x31	1	1085	8029182	ber	Timsujjit tezmer ad ken-tẓer ass n sa Mayu, ɣef tis 10:00.	Amastan	2019-07-06 18:18:01	2019-07-06 18:18:01
-50	0x32	2	1050	8183292	ber	Tom ad yaweḍ ɣer teɣsert ɣef tis 2:30.	Amastan	2019-09-12 20:55:12	2019-09-12 20:55:12
-51	0x33	3	1194	1605149	ber	Ɣileɣ, ma aṭas, ad tesɛu 30 n yiseggasen.	Amastan	2012-06-04 10:50:31	2012-06-04 10:50:55
-52	0x34	4	612	10236565	ber	Tneqqem deg-neɣ seg useggas 1949 ar ass-a.	Talwit	2021-08-11 23:06:40	2021-08-11 23:06:40
-53	0x35	5	477	8036301	ber	Ṣeggmeɣ-d tasnasɣalt-inu s 5000 n yiyenen.	Amastan	2019-07-09 17:55:37	2019-07-09 17:55:37
-54	0x36	6	300	2596840	ber	Ulac aɣilif ma reḍleɣ aslag n tsarut n texxamt 360?	Amastan	2013-07-16 17:06:58	2013-07-16 17:06:58
-55	0x37	7	266	11838915	ber	Deg 1997, Tikust terra-d amni ikusi d imezgi.	Yagurten	2023-06-11 16:27:11	2023-06-11 16:27:11
-56	0x38	8	317	3623877	ber	Aselkim-inu amezwaru yella yesɛa kan 128 n yikiluuktiyen n tkatut.	Amastan	2014-11-11 17:20:14	2014-11-11 17:20:14
-57	0x39	9	441	10118732	ber	Zzayer tḥuza-d tezɣent n waḍḍan n Covid-19.	Amastan	2021-06-20 12:04:47	2021-06-20 12:04:47
-58	0x3a	:	1389	8442253	ber	Srusunt ɣef lqermud azezzu akken ad sbeɛdent-akkin kra n wayen n diri I izemren ad d-yeḍru ɣef at uxxam : ddeɛwessu, yir tiṭ…	Talwit	2020-01-10 23:47:34	2020-01-10 23:47:52
-59	0x3b	;	359	10251962	ber	Ayen uriɣ, yettɣimi-d ; ayen d-nniɣ, ittaffeg.	Talwit	2021-08-19 22:18:30	2021-08-19 22:18:30
-60	0x3c	<	2	8693584	ber	<<Aya amek akka tegiḍ a tom? Ih ɣuri snat wallen,inzaren,immi>>-<<Ah maca mači yakkw daya ibɣiɣ ad ẓreɣ.	Massi	2020-04-19 19:18:14	2020-04-19 19:22:16
+32	0x20	 	642906	3125821	ber	Yeɣleq tawwurt n sdat s leɛqel kan.	Amastan	2014-03-25 20:09:32	2014-03-25 20:09:32
+33	0x21	!	6466	8059424	ber	Ay d ameɛdaz uselmad-nni!	Amastan	2019-07-18 17:09:46	2019-07-18 17:09:46
+34	0x22	"	3480	10252335	ber	"Ad teččeḍ cwiṭ n ukbal?" "Uhu, tanemmirt".	Yagurten	2021-08-20 06:39:24	2021-08-20 06:39:24
+36	0x24	$	12	11771322	ber	Ziri yella dima yettlusu aselsaddal.$	Amastan	2023-05-18 09:11:18	2023-05-18 09:11:18
+37	0x25	%	38	1816987	ber	Nebɣa lemmer ad aɣ-d-tesneqseḍ 5% seg ssuma.	Amastan	2012-09-04 15:12:01	2012-09-04 15:12:01
+38	0x26	&	2	11070673	ber	Ziri isett kan tiḥlawatin n M&M's tizewwaɣin. Tiyaḍ yettḍeyyir-itent.	Yagurten	2022-08-19 19:28:08	2022-08-19 19:28:08
+39	0x27	'	304	2866596	ber	Awen tercast tedwel‑d w'ay‑tkeffi.	Uyezjen	2013-11-21 10:08:29	2013-11-21 10:08:29
+40	0x28	(	179	7644163	ber	Ur ḥṣiɣ ara riɣ-k (kem, ken, kent).	amazigh	2018-12-22 17:50:55	2018-12-22 17:50:55
+41	0x29	)	178	7746994	ber	Ttxil-k a εemmi furar, rḍel-iyi-d yiwen n wass (nnhar). Di taɣaḍt ad d-rreɣ ttar, ad skenfeɣ ixef-is ɣef tmest (nnar), ad εellqeɣ ijeεbuben-is ɣef usɣar.	Talwit	2019-01-23 10:11:22	2019-01-23 10:11:22
+42	0x2a	*	7	11126398	ber	Ɣsen ad ẓren anti-kent. *	Amastan	2022-09-18 20:12:25	2022-09-18 20:12:25
+43	0x2b	+	9	1805883	ber	Tisi tameṭṭut n tayefrnit zik lemmi atuggwi aren ,teg azamul f aren am talɣa n (+) qbel ad tadel g uggway.	madghis	2012-08-29 22:39:05	2012-08-29 22:39:05
+44	0x2c	,	66125	7254396	ber	Amedyaz, yettarra-tt kan i tirga.	Talwit	2018-10-04 21:45:46	2018-10-04 21:45:56
+45	0x2d	-	417339	9851967	ber	D kečč ay d-yekksen tiḍeffa-a?	Aghsi_n_Unezruf	2021-03-19 10:49:47	2021-03-19 10:49:47
+46	0x2e	.	523733	9349273	ber	Tismuɣbent, ma nnant-iyi-d ur ssinen ara Ihendiwen ad smuɣebnen, skiddibent.	Talwit	2020-11-21 17:59:47	2020-11-21 18:00:59
+47	0x2f	/	31	1738828	ber	Ad yagug / yebεed Ṛebbi fell-ak imcumen !	Djef_Messaoudi	2012-07-30 16:35:10	2012-07-30 16:35:10
+48	0x30	0	1998	9457305	ber	Nnig n 50 n yiseggasen d nekk xeddmeɣ ɣef tmaziɣt.	Talwit	2020-12-09 23:07:43	2020-12-09 23:07:43
+49	0x31	1	1087	8485084	ber	Tteffɣeɣ-d seg umahil ɣef tizi n tis 12:00 n yiḍ.	Amastan	2020-01-23 20:57:38	2020-01-23 20:57:38
+50	0x32	2	1052	8783303	ber	Ur k-terri ara tmara ad teqqimed da arma d tis 2:30.	Amastan	2020-05-23 09:11:33	2020-05-23 09:11:33
+51	0x33	3	1194	1639995	ber	Tadist n Mary tesɛa 36 n ledwaṛ.	Amastan	2012-06-22 15:34:04	2012-06-22 15:34:04
+52	0x34	4	612	9899854	ber	Nesɛa 40 n wakriwen deg Azerbiǧan.	Aghsi_n_Unezruf	2021-03-27 23:01:36	2021-03-27 23:01:36
+53	0x35	5	477	9063088	ber	Awlay n umdeɣ yezmer ad yaweḍ ɣer 5,5 n yiḍarren deg tattayt.	Amastan	2020-09-23 12:31:45	2020-09-23 12:31:45
+54	0x36	6	300	2521701	ber	Tagnit tettezzi-d ɣef Tafukt deg 365 n wussan.	Amastan	2013-06-24 15:56:12	2013-06-24 15:56:12
+55	0x37	7	266	11407067	ber	Tewwḍemt 17 n yiseggasen?	Amastan	2023-01-03 07:20:56	2023-01-03 07:20:56
+56	0x38	8	318	8337358	ber	D Bell i d-yesnulfan asawal deg 1876.	Yagurten	2019-11-21 17:03:10	2019-11-21 17:03:10
+57	0x39	9	442	8074745	ber	Asmi ay yewweḍ Tom ɣer Boston, yella yesɛa 19 n yiseggasen.	Amastan	2019-07-24 21:10:12	2019-07-24 21:10:12
+58	0x3a	:	1389	8806563	ber	Ttaseɣ-d ɣer uxxam ɣef tis 2:30.	Amastan	2020-05-31 12:17:09	2020-05-31 12:17:09
+59	0x3b	;	359	8983902	ber	Ma yejreḥ, yella lemleḥ; ma yeqqur, yella ucaqur.	Talwit	2020-08-19 09:03:46	2020-08-19 09:08:13
+60	0x3c	<	2	8959508	ber	Abaxix n <beyrut yegla-d s waṭas yemmuten d wid ijerḥen ternuḍ wid iwimi teddrem tmezduɣt.	Talwit	2020-08-05 13:16:45	2020-08-05 13:16:45
 61	0x3d	=	1	8518271	ber	Asegzawal-ik imi i t-yettu terra-t tmara ad t-yernu d aknaw n "tatut" am kra n wawalen yettbeddilen seg temnaḍt ɣer tayeḍ : tiẓurin = aḍil; azɣal = aɣamac atg...	Talwit	2020-02-05 20:12:37	2020-02-05 20:12:59
 62	0x3e	>	1	8693584	ber	<<Aya amek akka tegiḍ a tom? Ih ɣuri snat wallen,inzaren,immi>>-<<Ah maca mači yakkw daya ibɣiɣ ad ẓreɣ.	Massi	2020-04-19 19:18:14	2020-04-19 19:22:16
-63	0x3f	?	123374	8271151	ber	Ɛejben-iyi yirkasen-nnem. Seg wansi ay ten-id-tesɣid?	Amastan	2019-10-20 19:10:07	2019-10-20 19:10:07
-64	0x40	@	3	9836532	ber	Tansa-inu n umayel d abcde@example.com.	Aghsi_n_Unezruf	2021-03-11 07:09:33	2021-03-11 07:09:33
-65	0x41	A	94921	1748739	ber	Wi xsen tanmmirt ad tyeǧ s ufus-s.MZAB dielect.	mahatidouma	2012-08-03 13:24:10	2012-08-03 13:32:33
-66	0x42	B	13854	11771175	ber	Benedito yesri anwa ara t-yessiwḍen ɣer unafag.	Amastan	2023-05-18 08:46:48	2023-05-18 08:46:48
-67	0x43	C	5317	7790305	ber	Timɣarin itelmen walant udem n Caɛban yennecraḥ, mačči akka i nnument ttwalit-t.	Talwit	2019-02-26 22:23:53	2019-02-26 22:24:05
-68	0x44	D	36020	7362589	ber	Deg sin yid-sen llan ẓran dakken mmran.	Amastan	2018-10-30 16:34:01	2018-10-30 16:34:01
-69	0x45	E	1958	10482235	ber	Ečč ma yella telluẓeḍ.	Cookie_cat	2021-11-03 09:53:53	2021-11-03 09:53:53
-70	0x46	F	12480	9879564	ber	Zemrent Fella d Dehbeyya ad d-sɣent axxam n teknart?	Aghsi_n_Unezruf	2021-03-27 00:47:16	2021-03-27 00:47:16
-71	0x47	G	3487	10805192	ber	Giɣ-ak-d asafar-nnek amenyaf.	Amastan	2022-05-05 07:55:24	2022-05-05 07:55:24
-72	0x48	H	5468	1910496	ber	Sanda ay awent-yehwa teddumt deg Huland, ad tafemt tissyar n waḍu.	Amastan	2012-10-10 13:06:10	2012-10-10 13:06:10
-73	0x49	I	27003	7818962	ber	Inuzeɛ-d Tom.	Amastan	2019-03-21 14:38:53	2019-03-21 14:38:53
-74	0x4a	J	3229	11927727	ber	Jonas yuli ɣer tkeṛṛust akken ad yerwel.	Amastan	2023-07-13 09:44:26	2023-07-13 09:44:26
-75	0x4b	K	11164	10337298	ber	"Keṛheɣ-kem!" "Nekk keṛheɣ-kem ugar!"	Amastan	2021-10-03 07:04:32	2021-10-03 07:04:32
-76	0x4c	L	28533	7566711	ber	Lliɣ ẓriɣ dakken Tom yettaggad aydi n Mary.	Amastan	2018-12-09 13:02:52	2018-12-09 13:02:52
-77	0x4d	M	61773	9883087	ber	Maɣef ay srint Faḍma d Yamina askuter?	Aghsi_n_Unezruf	2021-03-27 02:20:51	2021-03-27 02:20:51
-78	0x4e	N	37675	9644241	ber	Tettmahal deg yiwet n tḥanut deg Naypyitaw.	Aghsi_n_Unezruf	2021-01-13 22:24:22	2021-01-13 22:24:22
-79	0x4f	O	352	3585584	ber	Yefṛeḥ Oleg imi ay yesɛa win ay t-iḥemmlen.	Amastan	2014-10-27 15:53:41	2014-10-27 15:53:41
-80	0x50	P	1223	4601885	ber	Ur tenhiṛed ara deg Paris, naɣ?	Amastan	2015-10-12 12:00:40	2015-10-12 12:00:40
-81	0x51	Q	3981	5772959	ber	Qqareɣ deg yicenfiren n medden.	Amastan	2017-01-16 11:44:14	2017-01-16 11:44:14
-82	0x52	R	11977	9372675	ber	Ran asewwi.	Aghsi_n_Unezruf	2020-11-24 23:25:09	2020-11-24 23:25:09
-83	0x53	S	55645	10273603	ber	Seg wasmi ffɣent seg uxxam, ur d-kciment.	Talwit	2021-09-01 20:01:42	2021-09-01 20:01:42
-84	0x54	T	153291	10362596	ber	Teεǧeb-iyi s tidet teftist-a.	Yagurten	2021-10-14 18:30:32	2021-10-14 18:30:32
-85	0x55	U	69282	9347840	ber	Ur lliɣ ara deg ufakan.	Yagurten	2020-11-21 15:44:04	2020-11-21 15:44:10
-86	0x56	V	353	11398865	ber	Asif n Volga d netta ay d aɣezzfan akk deg Tuṛuft.	Amastan	2023-01-01 08:03:57	2023-01-01 08:03:57
-87	0x57	W	13951	9282242	ber	Wwteɣ-tt d ibeddi seg Bgayet almi d Tazmalt.	Talwit	2020-11-11 14:38:38	2020-11-11 14:39:02
-88	0x58	X	3116	9861287	ber	Wnisa d Xira lant adlis ɣef yinfafaden.	Aghsi_n_Unezruf	2021-03-22 22:24:43	2021-03-22 22:24:43
-89	0x59	Y	67363	2535366	ber	Acḥal n yiselwayen ay yettwenɣen deg Yiwunak Yeddukklen?	Amastan	2013-06-30 12:03:37	2013-06-30 12:03:37
-90	0x5a	Z	30120	9909269	ber	Seg wansi ay d-uɣen Ziri d Lidya taqejmurt n Newwal?	Aghsi_n_Unezruf	2021-03-28 02:35:20	2021-03-28 02:35:20
-91	0x5b	[	7	7034029	ber	Akken ad tesɛud takti ɣef yisenfaren-nteɣ n yimir-a, ad k-id-nenced ad terzud ɣef [tansa n Internet].	Amastan	2018-07-31 09:27:20	2018-07-31 09:27:20
-93	0x5d	]	7	7034031	ber	Akken ad tled takti ɣef yisenfaren-nteɣ n yimir-a, ad k-id-nenced ad terzud ɣef [tansa n Internet].	Amastan	2018-07-31 09:27:40	2018-07-31 09:27:40
+63	0x3f	?	123378	9718323	ber	Seg wansi ay d-tuɣed imẓad?	Aghsi_n_Unezruf	2021-02-03 23:59:37	2021-02-03 23:59:37
+64	0x40	@	3	1755011	ber	"Amek ara d-nenṭeq azmul n @ s yiles-a?" "At."	Amastan	2012-08-06 10:21:48	2012-08-06 10:21:48
+65	0x41	A	94938	4069968	ber	Ad txedmed i yiman-nnem.	Amastan	2015-04-13 18:46:29	2015-04-13 18:46:29
+66	0x42	B	13860	9102492	ber	Bɣiɣ ad d-tasem yid-i ɣer Ustṛalya.	Amastan	2020-10-04 11:34:35	2020-10-04 11:34:35
+67	0x43	C	5318	1856063	ber	Ciḥḥet i wasmi ara tilim deg tegnit n lḥeṛs.	Amastan	2012-09-21 12:41:12	2012-09-21 12:41:12
+68	0x44	D	36050	10828678	ber	D acu n usemter ara tefkeḍ i yinselmen imaynuten?	Amastan	2022-05-14 11:07:07	2022-05-14 11:07:07
+69	0x45	E	1959	8716723	ber	Err-as tadimt a Tom.	Amastan	2020-04-25 20:10:28	2020-04-25 20:10:28
+70	0x46	F	12483	1837493	ber	D acu ay d-tekla Frida Kahlo?	Amastan	2012-09-13 21:00:47	2012-09-13 21:00:47
+71	0x47	G	3489	11493847	ber	Guǧǧent ɣer Dzayer.	Amastan	2023-01-29 11:40:58	2023-01-29 11:40:58
+72	0x48	H	5469	10382002	ber	Ha-tent-i ttaɣent-d tilellac s ugeḍḍum aɣezzfan.	Agestur	2021-10-19 23:04:45	2021-10-19 23:04:45
+73	0x49	I	27019	1741642	ber	Ini-as fecleɣ.	Amastan	2012-07-31 12:55:25	2012-07-31 12:55:25
+74	0x4a	J	3233	7579141	ber	Asleɣmay agejday n tcirḍart d Tom Jackson.	Yagurten	2018-12-12 06:26:52	2018-12-12 06:26:52
+75	0x4b	K	11164	9857359	ber	Ken d anaddal igerrzen.	Aghsi_n_Unezruf	2021-03-21 11:51:30	2021-03-21 11:51:30
+76	0x4c	L	28572	9907914	ber	Wezna d Lidya llant ḥwajent asegzawal taεṛabt-taṣumalit?	Aghsi_n_Unezruf	2021-03-28 02:04:00	2021-03-28 02:04:00
+77	0x4d	M	61775	2615651	ber	Maɣef kan ur tetteqqaled ɣer wansi ay d-tusid?	Amastan	2013-07-23 16:24:38	2013-07-23 16:24:38
+78	0x4e	N	37681	10409930	ber	Nṛuḥ ad d-nseɣ asefk n Newwal.	Agestur	2021-10-20 19:35:15	2021-10-20 19:35:15
+79	0x4f	O	366	2450409	ber	Luleɣ deg Osaka deg 1977.	Amastan	2013-05-23 15:55:38	2013-05-23 15:55:38
+80	0x50	P	1223	1840462	ber	Amek ara d-tessuqqleḍ "Pfirsichbaeumchen" ɣer tmaziɣt?	Amastan	2012-09-14 20:32:57	2012-09-14 20:32:57
+81	0x51	Q	3981	9459537	ber	Qadrem-iyi, ad ken-qadreɣ.	Talwit	2020-12-10 14:02:47	2020-12-10 14:14:55
+82	0x52	R	11994	11258769	ber	Rima tebɣa tallalt-nnem.	Agestur	2022-11-20 09:25:18	2022-11-20 09:25:18
+83	0x53	S	55655	8448505	ber	Asawal n Sami ur yulis ara yesserser-d.	Amastan	2020-01-13 18:55:38	2020-01-13 18:55:38
+84	0x54	T	153309	8021988	ber	Tom yeffeɣ ad yesseddu aydi-nnes.	Amastan	2019-07-04 14:07:07	2019-07-04 14:07:07
+85	0x55	U	69284	8383681	ber	Uggadeɣ ad nεeṭṭel ɣef uɣerbaz.	Yagurten	2019-12-14 20:43:57	2019-12-14 20:43:57
+86	0x56	V	353	4604526	ber	D nekkni ad inehṛen Volkswagen-nni.	Amastan	2015-10-13 10:57:08	2015-10-13 10:57:21
+87	0x57	W	13952	9609765	ber	Wezna d Dehbeyya ɣsent ad d-sɣent agestur.	Aghsi_n_Unezruf	2021-01-07 22:01:33	2021-01-07 22:01:33
+88	0x58	X	3116	9855230	ber	Xdem i d-yenna wul-inek, ḥader kan ad tḍurreḍ anarag-inek.	Talwit	2021-03-20 19:37:48	2021-03-20 19:37:48
+89	0x59	Y	67400	2532833	ber	Yella yessidir iɣef-nnes.	Amastan	2013-06-28 22:23:03	2013-06-28 22:23:03
+90	0x5a	Z	30129	10260630	ber	Aṭas n yisenfaren i isebken deg Zzayer.	Yagurten	2021-08-25 07:28:12	2021-08-25 07:28:12
+91	0x5b	[	7	7034031	ber	Akken ad tled takti ɣef yisenfaren-nteɣ n yimir-a, ad k-id-nenced ad terzud ɣef [tansa n Internet].	Amastan	2018-07-31 09:27:40	2018-07-31 09:27:40
+93	0x5d	]	7	7034029	ber	Akken ad tesɛud takti ɣef yisenfaren-nteɣ n yimir-a, ad k-id-nenced ad terzud ɣef [tansa n Internet].	Amastan	2018-07-31 09:27:20	2018-07-31 09:27:20
 94	0x5e	^	1	8421957	ber	Aseggas-im d win twacult-im d ameggaz, d win ara wen-d-yeglun ala s wayen teb^qam ladɣa tazmert, talwit, tumert, teɣzi n tudert d tumert.	Talwit	2020-01-01 20:04:46	2020-01-01 20:04:46
 95	0x5f	_	2	8086468	ber	ameddakkʷel_inu iga bu taqquṛt	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
-97	0x61	a	618349	8473787	ber	Ur yettett ara waya.	Amastan	2020-01-21 17:58:43	2020-01-21 17:58:43
-98	0x62	b	149614	8195890	ber	Tom yebɣa ad yessenz takeṛṛust-nnes.	Amastan	2019-09-19 09:19:46	2019-09-19 09:19:46
-99	0x63	c	99530	7307902	ber	Acḥal telha tmurt-agi!	BakirHamou	2018-10-18 13:47:42	2018-10-18 13:47:42
-100	0x64	d	489594	10419469	ber	Tzemremt ad d-taɣemt isafaren.	Agestur	2021-10-20 23:26:32	2021-10-20 23:26:32
-101	0x65	e	625657	2060628	ber	Bɣiɣ ad azneɣ tabṛat-a ɣer Japun.	Amastan	2012-12-06 10:37:46	2012-12-06 10:37:46
-102	0x66	f	199696	2617931	ber	Maɣef ur as-tettarraḍ i baba-k?	Amastan	2013-07-24 16:04:45	2013-07-24 16:04:45
-103	0x67	g	220590	10255698	ber	Aseggas kan aya seg wasmi i yemmut urgaz-is.	Yagurten	2021-08-22 11:00:08	2021-08-22 11:00:08
-104	0x68	h	56532	11514028	ber	Yanni ha-t i yiman-nnes d tmucct-nnes.	Amastan	2023-02-06 10:13:10	2023-02-06 10:13:10
-105	0x69	i	533830	10228438	ber	Sami ur ak-d-ikeccef ara isem-nnes ummid.	Amastan	2021-08-09 07:54:57	2021-08-09 07:54:57
-106	0x6a	j	53568	10445793	ber	Zwina ur telli ara tesri askenjbir.	Aghsi_n_Unezruf	2021-10-21 10:08:47	2021-10-21 10:08:47
-107	0x6b	k	259161	8948603	ber	Kra yellan ɣef tiṭ-ik.	Talwit	2020-07-29 23:15:36	2020-07-29 23:15:36
-108	0x6c	l	398034	8997415	ber	Neṛwa iɣelluyen.	Talwit	2020-08-26 23:28:41	2020-08-26 23:28:41
-109	0x6d	m	406419	9878018	ber	Baba-s n Silya d Fayza d Aɛumani.	Aghsi_n_Unezruf	2021-03-27 00:07:24	2021-03-27 00:07:24
-110	0x6e	n	515919	10399255	ber	Ha-tent-i ttaɣent-d amastal.	Agestur	2021-10-20 15:16:11	2021-10-20 15:16:11
-111	0x6f	o	61587	9375381	ber	Tom yesɛa usu n Murphy.	Amastan	2020-11-25 12:36:52	2020-11-25 12:36:52
-112	0x70	p	10951	9743356	ber	Teḥwaj asegzawal n tfilippinit.	Aghsi_n_Unezruf	2021-02-10 19:07:08	2021-02-10 19:07:08
-113	0x71	q	85127	10408961	ber	Aql-iyi ssaɣeɣ-d tafeqqust.	Agestur	2021-10-20 19:12:51	2021-10-20 19:12:51
-114	0x72	r	429589	9895046	ber	Ur nelli ara nla arxam.	Aghsi_n_Unezruf	2021-03-27 21:21:27	2021-03-27 21:21:27
-115	0x73	s	433619	10230332	ber	Ssuɣleɣ kra n tefyar seg teqbaylit ɣer tefransist	Talwit	2021-08-09 22:28:22	2021-08-09 22:28:22
-116	0x74	t	493860	9203336	ber	Yir tikta, tezzint-d ɣef yiqerray-nneɣ.	Talwit	2020-10-28 23:22:37	2020-10-28 23:22:37
-117	0x75	u	383072	2242711	ber	Tenfeɛ-iyi aṭas tefrut-a.	Amastan	2013-02-21 22:48:45	2013-02-21 22:48:45
-118	0x76	v	4434	10436941	ber	Ur llin ara srin asegzawal n tbavaṛit.	Aghsi_n_Unezruf	2021-10-21 06:39:01	2021-10-21 06:39:01
-119	0x77	w	274760	2899043	ber	Tom iga tadiwennit akked yiwen n uneɣmas.	Amastan	2013-12-03 13:42:26	2013-12-03 13:42:26
-120	0x78	x	39885	8372324	ber	Tom yečča tikukiyin-nni i as-d-texdem Mary.	Yagurten	2019-12-08 16:52:17	2019-12-08 16:52:17
-121	0x79	y	350005	8749947	ber	Maɣef ur iyi-d-tennimt ara tesɛamt aqraḥ?	Amastan	2020-05-09 18:38:55	2020-05-09 18:38:55
-122	0x7a	z	170764	10419600	ber	Tṛuḥ ad d-taɣ asegzawal n tgant.	Agestur	2021-10-20 23:29:37	2021-10-20 23:29:37
+97	0x61	a	618503	10956541	ber	Iyya ad d-necnu "Amulli Ameggaz" s tmaziɣt.	Amastan	2022-07-02 10:18:24	2022-07-02 10:18:24
+98	0x62	b	149647	9877958	ber	Nabila d Lwiza uɣent-d aẓekkun.	Aghsi_n_Unezruf	2021-03-27 00:05:57	2021-03-27 00:05:57
+99	0x63	c	99548	8810836	ber	Ur tecfi ara ɣef wasmi i tedda d tislit.	Talwit	2020-06-01 22:44:48	2020-06-01 22:44:48
+100	0x64	d	489724	7557068	ber	Jemɛeɣ tansa n Tom deg kra n umkan deg uselkim-inu.	Amastan	2018-12-05 12:29:02	2018-12-05 12:29:02
+101	0x65	e	625821	2614873	ber	D acu ay tḥemmled deg twennaḍt?	Amastan	2013-07-23 11:45:29	2013-07-23 11:45:29
+102	0x66	f	199726	2501162	ber	Cikkeɣ aswir-nwent deg tefṛensist yennerna s waṭas.	Amastan	2013-06-16 11:26:24	2013-06-16 11:26:24
+103	0x67	g	220672	9912118	ber	Dehbeyya d Lwennas llan lan taḥanut n yiɣersiwen deg Porto-Novo.	Aghsi_n_Unezruf	2021-03-28 03:41:34	2021-03-28 03:41:34
+104	0x68	h	56551	8730527	ber	Tenɣa-aɣ s tmucuha-s.	Talwit	2020-05-01 18:24:44	2020-05-01 18:24:44
+105	0x69	i	533983	9691225	ber	Tellid tesrid asegzawal taserbit-tamajaṛit?	Aghsi_n_Unezruf	2021-01-25 18:37:02	2021-01-25 18:37:02
+106	0x6a	j	53606	10425591	ber	Teḥwaj ilemḍaden.	Aghsi_n_Unezruf	2021-10-21 01:56:56	2021-10-21 01:56:56
+107	0x6b	k	259214	8270658	ber	Anda ay d-tnekremt, a timeddukal?	Amastan	2019-10-20 17:29:19	2019-10-20 17:29:19
+108	0x6c	l	398118	8546255	ber	Kraḍ n wayyuren aya seg wasmi ay yeqqim Tom war amahil.	Amastan	2020-02-12 17:51:45	2020-02-12 17:51:45
+109	0x6d	m	406546	8270735	ber	Sanda ay teddam d Tom?	Amastan	2019-10-20 17:37:43	2019-10-20 17:37:43
+110	0x6e	n	516051	10399863	ber	Srin aselsaddal?	Aghsi_n_Unezruf	2021-10-20 15:30:44	2021-10-20 15:30:44
+111	0x6f	o	61633	2691763	ber	Ur tettḍafared ara tanṣiḥt n Bob.	Amastan	2013-08-21 17:05:30	2013-08-21 17:05:30
+112	0x70	p	10954	9746514	ber	Tlid asegzawal tapuṛtugalit-tataliant?	Aghsi_n_Unezruf	2021-02-10 23:25:21	2021-02-10 23:25:21
+113	0x71	q	85135	8830705	ber	Ma yella d kra iwimi zemren, ur d-qqaren ara ala.	Talwit	2020-06-09 18:19:49	2020-06-09 18:19:49
+114	0x72	r	429708	8226210	ber	Tzemreḍ ad tṛuḥeḍ ɣer din s tkeṛṛust?	Yagurten	2019-10-02 19:45:07	2019-10-02 19:45:07
+115	0x73	s	433741	9367327	ber	Tom yesɛa tafrut.	Amastan	2020-11-24 11:56:35	2020-11-24 11:56:35
+116	0x74	t	493957	9892864	ber	Yesɣa-d tagelmust tagfusant?	Aghsi_n_Unezruf	2021-03-27 20:39:32	2021-03-27 20:39:32
+117	0x75	u	383178	2618096	ber	Maɣef ur d-tettaseḍ ad tecceḍ imensi ɣer-neɣ?	Amastan	2013-07-24 16:50:33	2013-07-24 16:50:33
+118	0x76	v	4447	11914500	ber	Flavio yella yettazzal deffir-s yiwen n ubexxuc afɣakal.	Amastan	2023-07-07 13:38:31	2023-07-07 13:38:31
+119	0x77	w	274810	10457888	ber	Ad teddud yid-nteɣ ɣer Tmurt n Yizwawen?	Amastan	2021-10-24 07:52:12	2021-10-24 07:52:12
+120	0x78	x	39890	9112116	ber	Ur ilaq ara ad tɛaljeḍ amcic, ma ulac ad k-yexbec.	Talwit	2020-10-05 22:24:49	2020-10-05 22:24:49
+121	0x79	y	350132	7356614	ber	Tidet d lɛafya yerɣan, ẓẓaẓneɣ-tt tečča-iyi nnekwa.	Talwit	2018-10-28 22:15:30	2018-10-28 22:15:30
+122	0x7a	z	170817	8562444	ber	Yezrew tadamsa deg Lezzayer.	Amastan	2020-02-19 08:42:09	2020-02-19 08:42:09
 160	0xa0	 	1	11933353	ber	Iselsa n Ziri llan d iselsa n telkimt s tidet.	Amastan	2023-07-16 07:06:13	2023-07-16 07:06:13
 167	0xa7	§	1	8205007	ber	Ad nedleg aseklu n Nuwal §	Warwari	2019-09-23 14:30:08	2019-09-23 14:30:16
 168	0xa8	¨	1	7557144	ber	¨Bɣiɣ ad waliɣ amudlif-a.	Warwari	2018-12-05 12:51:48	2018-12-05 12:51:48
-171	0xab	«	190	8691514	ber	Tenṭeq diɣen tenna i baba-s nettat tettru : « Ulac win i ḥemmleɣ am kečč a baba ».	Talwit	2020-04-18 20:55:35	2020-04-18 20:55:52
-176	0xb0	°	10	2799851	ber	Yebb°a ?	yecca	2013-10-20 00:32:44	2013-10-20 00:32:44
-187	0xbb	»	171	8391759	ber	Dɣa yerna kra a-t-a yeffeɣ-d yiwen uqcic d ameẓẓyan seg yiwen uxxam, yenna-as i uɛeṭṭar-nni : « Ur nettaɣ ara ! Ur nettaɣ ara ! »	Talwit	2019-12-19 20:29:10	2019-12-19 20:30:14
-193	0xc1	Á	2	7255818	ber	Álvaro seg Venezuela. Netta d Avenezueli.	Amastan	2018-10-05 12:08:54	2018-10-05 12:08:54
+171	0xab	«	190	8691513	ber	Tenṭeq diɣen tenna i yemma-s nettat tettru : « Ulac tin i ḥemmleɣ am kemm a yemma ».	Talwit	2020-04-18 20:54:40	2020-04-18 20:54:54
+176	0xb0	°	10	7452361	ber	Aman beddun rekkmen ma tazɣelt-nsen tuweḍ ɣer 100°c.	Talwit	2018-11-11 22:23:51	2021-04-19 17:00:32
+187	0xbb	»	171	8759656	ber	Yenna Caligula Amenkad n Rum : « Lufan talsa yiwen uqerruy i tesɛa, ad as t-id-ɣeḍleɣ s yiwet n tyita n llemca, ur tettaf acu ara tger deg uqelmun ».	Talwit	2020-05-13 18:07:45	2020-05-13 18:08:57
+193	0xc1	Á	2	2038796	ber	Ism-iw Álvaro Martínez.	kouriet15	2012-11-26 11:42:51	2012-11-26 11:42:51
 201	0xc9	É	2	1815324	ber	Irland ttinin-as "Éire" s tirlandit.	Amastan	2012-09-03 22:03:57	2012-09-03 22:03:57
 205	0xcd	Í	1	1815318	ber	Island ttinin-as "Ísland" s tislandit.	Amastan	2012-09-03 22:02:38	2012-09-03 22:02:38
 214	0xd6	Ö	1	1814808	ber	Tutrict isem-nnes "Österreich" s talmanit.	Amastan	2012-09-03 17:17:09	2012-09-03 17:17:09
 223	0xdf	ß	1	7527656	ber	Anasiw aswis ur yesɛi ara ß.	LinaTamazight	2018-11-25 22:23:42	2018-12-03 17:40:35
-224	0xe0	à	5	7789129	ber	Cet argent-là a augmenté	Iccu	2019-02-25 21:34:48	2019-02-25 21:34:48
-225	0xe1	á	11	1815267	ber	Tagduda Tatcikit ttinin-as "Česká republika" s ttcikit.	Amastan	2012-09-03 21:50:23	2012-09-03 21:50:23
-226	0xe2	â	3	1815461	ber	Ṛumanya ttinin-as "România" s tṛumanit.	Amastan	2012-09-03 22:36:43	2012-09-03 22:36:43
-227	0xe3	ã	5	1782405	ber	João yella yerfa.	Amastan	2012-08-17 23:51:15	2012-08-17 23:51:15
-228	0xe4	ä	3	7080309	ber	Surt, sa räven om rönnbären.	oyd11	2018-08-22 16:47:44	2018-08-22 16:48:04
-231	0xe7	ç	200	9620704	ber	Ur telli ara tesri asegzawal n teprovençalit.	Aghsi_n_Unezruf	2021-01-09 02:13:10	2021-01-09 02:13:10
-232	0xe8	è	14	8688025	ber	Tutlayt n Molière d tunsibt deg Zzayer s tuffra.	Talwit	2020-04-17 09:35:35	2020-04-17 09:35:35
-233	0xe9	é	37	7067044	ber	Paris tlul-d, akken neẓra, deg tegzirt-nni taqburt n "la Cité" ay yellan tesɛa talɣa n dduḥ.	Amastan	2018-08-17 21:07:12	2018-08-17 21:07:12
-234	0xea	ê	5	8928382	ber	Suffêɣ-d tura ammud-a, tuɣaleḍ ɣer wiyiḍ.	Talwit	2020-07-20 22:41:14	2020-07-20 22:41:14
-235	0xeb	ë	9	1815372	ber	Luxembourg ttinin-as "Lëtzebuerg" s tluksemburgit.	Amastan	2012-09-03 22:15:58	2012-09-03 22:15:58
+224	0xe0	à	5	7338670	ber	Azreg, da y-is ZZaDn imendi, timZin....le moulin à main.	coc	2018-10-25 10:17:57	2018-10-25 10:17:57
+225	0xe1	á	11	1751021	ber	Tomás d gma.	Amastan	2012-08-04 15:11:10	2012-08-04 15:13:40
+226	0xe2	â	3	1815421	ber	Timura n Wadda ttinin-asent "Nederlân" s tefrizit.	Amastan	2012-09-03 22:28:23	2012-09-03 22:28:23
+227	0xe3	ã	5	1657671	ber	Qqiment-aɣ-d kraḍ n tsaɛtin akken ad naweḍ ɣer São Paulo.	Amastan	2012-07-01 14:25:41	2012-07-01 14:25:41
+228	0xe4	ä	3	11586982	ber	Agelmim ameqqran akk n Finland d Saimen, sakkin ad t-id-yeḍfer ugelmim n Päijänne.	Amastan	2023-03-10 12:00:08	2023-03-10 12:00:08
+231	0xe7	ç	200	9911457	ber	Nuɣ-d asegzawal tafṛansit-taprovençalit.	Aghsi_n_Unezruf	2021-03-28 03:26:39	2021-03-28 03:26:39
+232	0xe8	è	14	7854387	ber	Taɣuri n yidlisen d yiɣmisen s tutlayt tafransist tezga ɣur-sen, ɣef waya i tt-slliken deg tmeslayt n Molière.	Talwit	2019-04-15 23:31:27	2019-04-15 23:31:36
+233	0xe9	é	37	8802390	ber	Ala, Arezki Metref d aneɣmas. Akken i xedmen deg uɣmis Algérie-Actualité netta d Tahar Djaout.	Talwit	2020-05-29 21:56:51	2020-05-29 21:56:51
+234	0xea	ê	5	7284104	ber	Teɣsed ad teddud ad tečcêd imensi?	Amastan	2018-10-12 20:51:29	2018-10-12 20:51:29
+235	0xeb	ë	9	1830212	ber	Marie-France ed Joël d imeddukal yelhan.	Amastan	2012-09-10 13:03:41	2012-09-10 13:03:41
 236	0xec	ì	1	1815522	ber	Tagelda Yeddukklen ttinin-as "Rìoghachd Aonaichte" s tgaelit n Tikust.	Amastan	2012-09-03 23:33:25	2012-09-03 23:33:50
-237	0xed	í	50	3585699	ber	María ur tessin isem-nnes wala uḍḍun-nnes n usawal.	Amastan	2014-10-27 16:29:40	2014-10-27 16:29:40
-238	0xee	î	16	2551643	ber	Azekka ad dduɣ ɣer Nîmes.	Amastan	2013-07-01 11:03:23	2013-07-01 11:03:23
+237	0xed	í	50	3583776	ber	María tesɣa-d taqendurt tamaynut i tmeɣra-nni.	Amastan	2014-10-26 18:58:04	2014-10-26 18:58:04
+238	0xee	î	16	2551654	ber	Azekka ad yeddu ɣer Nîmes.	Amastan	2013-07-01 11:05:02	2013-07-01 11:05:02
 239	0xef	ï	2	8323314	ber	Amirouche Aït Hamouda yella yesɛa tabɣest d tameqrant.	LinaTamazight	2019-11-14 15:03:46	2019-11-14 15:03:46
-241	0xf1	ñ	3	10104704	ber	"Muña zaldrizoti" anamek-nnes "tayemmat n yiwsaḍen" s tvalirit.	LinaTamazight	2021-06-13 22:22:08	2021-06-13 22:22:08
+241	0xf1	ñ	3	7675752	ber	Tarat n El Niño mazal ad tkemmel.	Yagurten	2018-12-30 13:37:09	2018-12-30 13:37:09
 242	0xf2	ò	1	10080808	ber	Snulfaɣ-d tutlayt tamaynut isem-nnes Tiengòne.	LinaTamazight	2021-06-02 18:57:21	2021-06-02 18:57:21
 243	0xf3	ó	2	3478788	ber	Luis María Mirón yesmenyaf ad yeddu s tmacint wala s usafag.	Amastan	2014-09-07 20:54:08	2014-09-07 20:54:08
-244	0xf4	ô	90	9879844	ber	Nabila d Ɛica ḥemmlent Côte d’Ivoire s tidet.	Aghsi_n_Unezruf	2021-03-27 00:54:08	2021-03-27 00:54:08
-246	0xf6	ö	4	3585614	ber	La selleɣ i tezlit taneggarut n Björk.	Amastan	2014-10-27 16:06:14	2014-10-27 16:06:14
-249	0xf9	ù	6	10048511	ber	Yuklal tajùmilt tameqqrant.	Talwit	2021-05-19 14:25:01	2021-05-19 14:25:01
-250	0xfa	ú	3	3054464	ber	Argaz-a d Raúl.	Amastan	2014-02-18 20:05:11	2014-02-18 20:05:11
-252	0xfc	ü	9	2089390	ber	Blümchen tcennu s talmanit.	Amastan	2012-12-18 19:10:51	2012-12-18 19:10:51
-257	0x101	ā	3	10104681	ber	"Avy jorrāelan" anamek-nnes "Ḥemmleɣ-k" s tvalirit.	LinaTamazight	2021-06-13 22:16:53	2021-06-13 22:16:53
+244	0xf4	ô	90	9658697	ber	Dehbeyya teqqel-d ɣer Côte d’Ivoire.	Aghsi_n_Unezruf	2021-01-14 22:50:54	2021-01-14 22:50:54
+246	0xf6	ö	4	7080309	ber	Surt, sa räven om rönnbären.	oyd11	2018-08-22 16:47:44	2018-08-22 16:48:04
+249	0xf9	ù	6	2862077	ber	Qed n wayen ad tecced n tberkukt n Kùchē, qed n wayen ad texsed ujar.	Uyezjen	2013-11-19 14:36:37	2013-11-19 14:36:37
+250	0xfa	ú	3	6050510	ber	A kandúr a napon süttette magát.	maaster	2017-05-01 17:08:59	\N
+252	0xfc	ü	9	2089393	ber	Yella wasmi ay teslid s yiwet n tcennayt d talmanit isem-nnes Blümchen?	Amastan	2012-12-18 19:11:25	2012-12-18 19:11:25
+257	0x101	ā	3	1815520	ber	Limaṛat Taɛṛabit Yeddukklen ttinin-asent "Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah" s taɛṛabt.	Amastan	2012-09-03 23:32:16	2012-09-03 23:32:16
 263	0x107	ć	1	1630774	ber	Podczas Pierwszego Kontaktu ludzkość nie wiedziała, czego spodziewać się po obcej rasie.	jaboja	2012-06-17 03:36:08	2012-06-17 03:36:08
-268	0x10c	Č	745	7192457	ber	Ččar ul-ik d tayri tebḍuḍ-tt ɣef medden.	Talwit	2018-09-20 14:06:16	2018-09-20 14:06:24
-269	0x10d	č	19368	10145518	ber	Teččurem ulawen-nken d tayri almi i d-ttenfalen.	Talwit	2021-07-02 22:21:20	2021-07-02 22:21:20
+268	0x10c	Č	745	8930261	ber	Ččan-aɣ lehmum.	Talwit	2020-07-21 19:45:12	2020-07-21 19:45:12
+269	0x10d	č	19368	2531011	ber	Yif‑ač ami tellid tessestned‑t s maneci ɣ ad ttwaǧǧ.	Uyezjen	2013-06-28 10:03:27	2013-06-28 10:03:27
 273	0x111	đ	1	7653861	ber	Udu tinid imenđiđan	Ayeddid	2018-12-25 08:28:36	2018-12-25 08:28:36
-275	0x113	ē	3	2862077	ber	Qed n wayen ad tecced n tberkukt n Kùchē, qed n wayen ad texsed ujar.	Uyezjen	2013-11-19 14:36:37	2013-11-19 14:36:37
+275	0x113	ē	3	7490934	ber	Yeṭṭēs ɣef udekkan.	MessDjaaf	2018-11-21 14:56:16	2018-11-21 14:56:16
 281	0x119	ę	1	1630774	ber	Podczas Pierwszego Kontaktu ludzkość nie wiedziała, czego spodziewać się po obcej rasie.	jaboja	2012-06-17 03:36:08	2012-06-17 03:36:08
-287	0x11f	ğ	27	8442058	ber	Neḥtağa aman tawada-a.	mellalamellal	2020-01-10 22:30:30	2020-01-10 22:30:30
+287	0x11f	ğ	27	4976260	ber	Ad nemyizwağ di yunyu.	Juba	2016-03-14 16:37:18	2016-03-14 16:37:18
 295	0x127	ħ	1	11694664	ber	Ziri kien beżgħan ħafna.	Amastan	2023-04-19 15:17:07	2023-04-19 15:17:07
-299	0x12b	ī	2	1815477	ber	Singapur ttinin-as "Xīnjiāpō" s tcinwat.	Amastan	2012-09-03 22:40:27	2012-09-03 22:40:27
-305	0x131	ı	3	5918754	ber	Ben aya baktım.	duran	2017-03-04 18:08:16	\N
+299	0x12b	ī	2	10104783	ber	"Tubī daor" anamek-nnes "maci ass-a" s tvalirit.	LinaTamazight	2021-06-13 23:03:01	2021-06-13 23:03:01
+305	0x131	ı	3	5903573	ber	Tom bir takma ad kullandı.	duran	2017-02-27 05:19:58	\N
 322	0x142	ł	1	1630774	ber	Podczas Pierwszego Kontaktu ludzkość nie wiedziała, czego spodziewać się po obcej rasie.	jaboja	2012-06-17 03:36:08	2012-06-17 03:36:08
 324	0x144	ń	1	1735847	ber	Ania tezdeɣ deg Gdańsk.	Amastan	2012-07-29 14:56:40	2012-07-29 14:56:40
 333	0x14d	ō	1	1815477	ber	Singapur ttinin-as "Xīnjiāpō" s tcinwat.	Amastan	2012-09-03 22:40:27	2012-09-03 22:40:27
 335	0x14f	ŏ	1	1815426	ber	Kurya n Ugafa ttinin-as "Chosŏn" s tkurit.	Amastan	2012-09-03 22:30:12	2012-09-03 22:30:12
 347	0x15b	ś	1	1630774	ber	Podczas Pierwszego Kontaktu ludzkość nie wiedziała, czego spodziewać się po obcej rasie.	jaboja	2012-06-17 03:36:08	2012-06-17 03:36:08
-351	0x15f	ş	4	7835644	ber	Ayşe d taɣermant taṭurkit.	LinaTamazight	2019-04-03 17:10:26	2019-04-03 17:10:26
+351	0x15f	ş	4	5856703	ber	Ben yine sarhoşum.	duran	2017-02-12 08:36:25	2017-02-12 08:36:56
 353	0x161	š	4	7558938	ber	Isem-iw Dušana.	Aylanbenbara	2018-12-06 14:54:11	2018-12-06 14:54:11
-355	0x163	ţ	8	9288700	ber	Efk-iyi-d tasaruţ tura.	Mouloud	2020-11-12 22:49:48	2020-11-12 22:49:48
+355	0x163	ţ	8	9288699	ber	Efk-iyi-d tasaruţ.	Mouloud	2020-11-12 22:49:41	2020-11-12 22:49:41
 363	0x16b	ū	1	1815466	ber	Tagelda Tasaɛudit ttinin-as "Al-Mamlakah Al-‘Arabiyyah as-Sa‘ūdiyyah" s taɛṛabt.	Amastan	2012-09-03 22:37:29	2012-09-03 23:09:42
 380	0x17c	ż	1	11694664	ber	Ziri kien beżgħan ħafna.	Amastan	2023-04-19 15:17:07	2023-04-19 15:17:07
-400	0x190	Ɛ	8617	9878474	ber	Ɛli d Silya llan ḥwajen asegzawal talmanit-tamajaṛit?	Aghsi_n_Unezruf	2021-03-27 00:18:51	2021-03-27 00:18:51
-404	0x194	Ɣ	11668	9862367	ber	Ɣer-k ungal s tmaziɣt?	Aghsi_n_Unezruf	2021-03-23 00:03:12	2021-03-23 00:03:12
-486	0x1e6	Ǧ	877	9456245	ber	Ǧǧan yemma-tsen, ḍefren tameṭṭut n baba-tsen.	Talwit	2020-12-09 19:20:58	2020-12-09 19:20:58
-487	0x1e7	ǧ	14835	7341692	ber	Werǧin ad k-xedɛeɣ.	Amastan	2018-10-25 21:11:38	2018-10-25 21:11:38
-496	0x1f0	ǰ	9	8950841	ber	Nǰeɛɛer arrac s yidammen n yizimer n lɛid.	Talwit	2020-07-31 09:48:49	2020-07-31 09:48:49
-539	0x21b	ț	10	9099722	ber	Kra n wid yessugguten awal, ala tikarkas i d-țtnawalen.	Talwit	2020-10-03 20:03:51	2020-10-03 20:03:51
+400	0x190	Ɛ	8617	9736866	ber	Ɛerḍeɣ ad medleɣ tawwurt.	Yagurten	2021-02-08 17:42:46	2021-02-08 17:42:46
+404	0x194	Ɣ	11668	8074650	ber	Ɣseɣ kan ad ẓreɣ d acu-t uɣawas-nnem.	Amastan	2019-07-24 20:36:26	2019-07-24 20:36:26
+486	0x1e6	Ǧ	877	8272773	ber	"Anda ay tt-teǧǧid?" "Ǧǧiɣ-tt deg uɣerbaz."	Amastan	2019-10-21 10:17:07	2019-10-21 10:17:07
+487	0x1e7	ǧ	14841	11125861	ber	Ddant ɣer wulzuz n tjeǧǧigin.	Amastan	2022-09-18 18:51:31	2022-09-18 18:51:31
+496	0x1f0	ǰ	9	10058953	ber	Ḥemmleɣ ad waliɣ iṭiǰ mi iɣelli.	Talwit	2021-05-23 22:07:46	2021-05-23 22:07:46
+539	0x21b	ț	10	9099720	ber	Kra n tin yessugguten awal, ala tikarkas i d-tețtnawal.	Talwit	2020-10-03 20:03:08	2020-10-03 20:03:08
 601	0x259	ə	2	1814820	ber	Azerbijan ttinin-as "Azərbaycan" s tazirit.	Amastan	2012-09-03 17:20:12	2012-09-03 17:20:12
-603	0x25b	ɛ	61161	9392571	ber	Lufan teɛya deg-i, ad iyi-t-id-tini.	Talwit	2020-11-27 21:53:39	2020-11-27 21:57:05
+603	0x25b	ɛ	61168	8421152	ber	Ur k-yetteffeɣ ara leɛqel.	Amastan	2020-01-01 10:21:16	2020-01-01 10:21:16
 609	0x261	ɡ	1	7777375	ber	Ssnɣ hat tɡʷd.	Mohamedzakaria	2019-02-15 14:41:43	2019-02-15 14:41:43
-611	0x263	ɣ	356201	9093626	ber	Ɣseɣ ad awen-iniɣ yiwet n tɣawsa.	Amastan	2020-10-02 10:06:00	2020-10-02 10:06:00
+611	0x263	ɣ	356247	1942348	ber	Ur ttihiɣ fell-asent.	Amastan	2012-10-21 15:25:15	2012-10-21 15:25:15
 612	0x264	ɤ	1	3678518	ber	Ssed ɤef wawal akken ad d-tmuqleḍ imedyaten deg ugriw n tutlayt Tamaziɤt.	Juba	2014-12-06 21:09:07	2014-12-06 21:09:07
-695	0x2b7	ʷ	1004	2888575	ber	Xzer batta ay‑d‑tiwi ɛid lmilad‑ikʷ.	Uyezjen	2013-11-30 08:27:04	2013-11-30 08:27:04
+695	0x2b7	ʷ	1004	9786280	ber	Akken ad d-tged amerkuc n tazart, tesrid tazart, askʷeṛ d cwiṭ n uqareṣ.	Amastan	2021-02-21 07:09:38	2021-02-21 07:09:38
 803	0x323	̣	1	8149581	ber	Sali ayen akka la tettuqameḏ̣, ssakin ad nwali!	nacira	2019-08-31 12:16:01	2019-08-31 12:17:32
-915	0x393	Γ	468	9269391	ber	Γriɣ-as i Tom 3 n tikkal iḍelli.	Yagurten	2020-11-09 19:49:42	2020-11-09 19:49:42
+915	0x393	Γ	468	7567754	ber	Γer-s akunsir n turin.	Sammer	2018-12-09 15:48:16	2018-12-09 15:48:16
 917	0x395	Ε	1	9407707	ber	Εni Tom yettnadi felli?	musaAzuna	2020-11-29 21:37:54	2020-11-29 21:37:54
-931	0x3a3	Σ	6	8723205	ber	Yiwet n tmeksawt isem-is « Σdada » tufa yiwen n lɛinṣar deg udrar.	Talwit	2020-04-28 14:02:03	2020-04-28 14:02:03
-947	0x3b3	γ	330	8790010	ber	Iγurr-itt zzman amcum.	Talwit	2020-05-25 13:37:27	2020-05-25 13:37:35
-949	0x3b5	ε	12308	7994783	ber	Yella qrib ur yesεi ara ula s wacu ara d-yaɣ aɣrum d uyefki.	Yagurten	2019-06-22 18:39:29	2019-06-22 18:39:29
-968	0x3c8	ψ	4	2130413	ber	Am userdun, nnan -as « mand wa d baba -k ψ » yenna - sen : « xali d yiss ! ».	webmistusik	2013-01-07 21:48:14	2013-01-07 21:48:14
-1058	0x422	Т	2	7610417	ber	Том d Mary sullin u guǧen ɣer ḇoston	amazigh	2018-12-19 21:39:16	2018-12-19 21:39:16
-1084	0x43c	м	2	7610417	ber	Том d Mary sullin u guǧen ɣer ḇoston	amazigh	2018-12-19 21:39:16	2018-12-19 21:39:16
+931	0x3a3	Σ	6	7730458	ber	Imẓeṛbeṭṭa ḍeffṛen abrid n Bellunis ǧǧan win n Σmiṛuc.	BakirHamou	2019-01-17 15:05:07	2019-01-17 15:05:07
+947	0x3b3	γ	330	1756258	ber	Ass-a d amsigna, yerna d asemmiḍ; waqila ad d-yeγli wedfel deg yiḍ-a.	Djef_Messaoudi	2012-08-06 18:58:54	2012-08-06 18:58:54
+949	0x3b5	ε	12308	11538483	ber	Yanni yella yesεa tazmert n uneggez d timgerrezt.	Yagurten	2023-02-15 09:08:22	2023-02-15 09:08:22
+968	0x3c8	ψ	4	2130417	ber	Wi -t- ikersen s ufus, at yefdek s teψmas.	webmistusik	2013-01-07 21:50:23	2013-01-07 21:50:23
+1058	0x422	Т	2	7610418	ber	Том d Mary guǧen ɣer Boston kraḍ n iseggasen aya.	amazigh	2018-12-19 21:40:47	2018-12-19 21:40:47
+1084	0x43c	м	2	7610418	ber	Том d Mary guǧen ɣer Boston kraḍ n iseggasen aya.	amazigh	2018-12-19 21:40:47	2018-12-19 21:40:47
 1086	0x43e	о	2	7610417	ber	Том d Mary sullin u guǧen ɣer ḇoston	amazigh	2018-12-19 21:39:16	2018-12-19 21:39:16
 1111	0x457	ї	1	1815518	ber	Ukṛanya ttinin-as "Ukraїna" s tukṛanit.	Amastan	2012-09-03 23:31:16	2012-09-03 23:31:16
 1296	0x510	Ԑ	1	8790003	ber	Ԑinani mačči d uffir, akka i d tamaziɣt, akka i d Imaziɣen, akkagi ara tili tmurt.	Talwit	2020-05-25 13:35:11	2021-02-18 15:28:35
@@ -174,71 +174,71 @@
 1607	0x647	ه	1	11675735	ber	هل يريد سيّارة؟	Amastan	2023-04-12 07:51:31	2023-04-12 07:51:31
 1610	0x64a	ي	1	11675735	ber	هل يريد سيّارة؟	Amastan	2023-04-12 07:51:31	2023-04-12 07:51:31
 1617	0x651	ّ	1	11675735	ber	هل يريد سيّارة؟	Amastan	2023-04-12 07:51:31	2023-04-12 07:51:31
-7685	0x1e05	ḅ	26	2858534	ber	Johnny yeṛḥel l Sḅanya ɣers day mennaw iyaren zeddiɣ, yili ziɣ wel yennum asiwel n Tesbenyolit zeddiɣ.	Uyezjen	2013-11-18 14:17:33	2013-11-18 14:17:33
+7685	0x1e05	ḅ	26	7559805	ber	Ur teḅɣi ara mi i iruḥ.	Talwit	2018-12-06 21:48:22	2018-12-06 21:48:56
 7687	0x1e07	ḇ	2	7681966	ber	Mațța qqaren s uqḇayliṯ ?	amazighsatlasblideen	2019-01-03 09:17:23	2019-01-03 09:17:23
-7692	0x1e0c	Ḍ	661	9153188	ber	Ḍefreɣ-tent.	Yagurten	2020-10-17 07:07:05	2020-10-17 07:07:05
-7693	0x1e0d	ḍ	108190	8053555	ber	Tamsulta teḍḍef-d Tom.	Amastan	2019-07-16 18:29:17	2019-07-16 18:29:17
+7692	0x1e0c	Ḍ	661	1704861	ber	Ḍḍbayeɛ-nnes n wucci sserfayent, naɣ?	Amastan	2012-07-17 20:47:10	2012-07-17 20:47:10
+7693	0x1e0d	ḍ	108206	7461521	ber	Ad trewlemt seg taddart-agi ɣer temdint ugemmaḍ-akin.	BakirHamou	2018-11-14 10:03:26	2018-11-14 10:03:26
 7694	0x1e0e	Ḏ	1	2561063	ber	Ḏ acu-ten yilsawen ay ssawalen deg Kanada?	Amastan	2013-07-03 20:27:25	2013-07-03 20:27:25
-7695	0x1e0f	ḏ	5	7682090	ber	Maniḏa qa-ṯ ?	amazighsatlasblideen	2019-01-03 09:47:16	2019-01-03 11:02:28
-7716	0x1e24	Ḥ	5189	1762540	ber	Ḥemmleɣ ad kkeɣ imuras-inu deg Lalman.	Amastan	2012-08-08 22:36:23	2012-08-08 22:36:23
-7717	0x1e25	ḥ	81769	9265862	ber	Ur teḥmmilem ara ad teɣrem.	Talwit	2020-11-09 11:19:45	2020-11-09 11:19:45
-7731	0x1e33	ḳ	34	9972153	ber	Berka-ken ḳennu, lqedd-nwen, tebɣam ad yezdi.	Talwit	2021-04-19 23:42:11	2021-04-19 23:42:11
-7733	0x1e35	ḵ	4	7681956	ber	Meḵ aql-aḵ ?	amazighsatlasblideen	2019-01-03 09:16:04	2019-01-03 09:16:04
-7735	0x1e37	ḷ	51	2875122	ber	Tuni d lkarṭa d tameqrant n Laḷman.	Uyezjen	2013-11-24 11:11:56	2013-11-24 11:11:56
+7695	0x1e0f	ḏ	5	7682089	ber	Mani ittawi ubriḏ-a ?	amazighsatlasblideen	2019-01-03 09:46:44	2019-01-03 10:59:38
+7716	0x1e24	Ḥ	5189	9910714	ber	Ḥwajen ureɣ.	Aghsi_n_Unezruf	2021-03-28 03:08:45	2021-03-28 03:08:45
+7717	0x1e25	ḥ	81786	10416362	ber	Teḥwajem asegzawal tanglizit-tafrikant?	Aghsi_n_Unezruf	2021-10-20 22:11:55	2021-10-20 22:11:55
+7731	0x1e33	ḳ	34	9972152	ber	Berka-kent ḳennu, lqedd-nkent, tebɣamt ad yezdi.	Talwit	2021-04-19 23:41:56	2021-04-19 23:41:56
+7733	0x1e35	ḵ	4	7682047	ber	Maḵin țuɣa tlusan ?	amazighsatlasblideen	2019-01-03 09:34:37	2019-01-03 10:59:46
+7735	0x1e37	ḷ	51	2855178	ber	Selleɣ belli cetwim Irḷandiyen d timmiẓt n isekkaren.	Uyezjen	2013-11-17 11:21:48	2013-11-17 11:21:48
 7746	0x1e42	Ṃ	11	8042740	ber	Ṃa tesrimt-iyi, ɣremt-iyi-d kan.	Amastan	2019-07-11 21:43:25	2019-07-11 21:43:25
-7747	0x1e43	ṃ	119	2527691	ber	Aṃṃ‑u bessi ad nɣeɣ akerwa azeɛluk.	Uyezjen	2013-06-26 19:36:12	2013-06-26 19:36:12
-7751	0x1e47	ṇ	21	9533040	ber	Mi ruḥen ad leqḍeṇ azemmur, uwin aɛwin yid-sen.	Talwit	2020-12-24 19:45:25	2020-12-24 19:54:00
-7770	0x1e5a	Ṛ	5170	10271771	ber	Ṛuḥ tura kečč sefhem-asent i tigi.	Talwit	2021-08-31 20:16:27	2021-08-31 20:16:27
-7771	0x1e5b	ṛ	57538	10256171	ber	Yeẓra isem-is deg tebṛat-nni.	Yagurten	2021-08-22 15:27:00	2021-08-22 15:27:00
-7778	0x1e62	Ṣ	439	7665521	ber	Ṣfu.	MessDjaaf	2018-12-26 19:21:29	2018-12-26 19:21:29
-7779	0x1e63	ṣ	12749	12376460	ber	Boldi yenneṣraε deg uɣlad.	Yagurten	2024-03-17 17:14:08	2024-03-17 17:14:08
-7788	0x1e6c	Ṭ	1135	9026945	ber	Ṭṭsent deg tegsarut.	Amastan	2020-09-09 10:15:12	2020-09-09 10:15:12
-7789	0x1e6d	ṭ	42223	7988933	ber	Nekk ur zmireɣ ara ad ṭṭseɣ.	Yagurten	2019-06-19 21:55:44	2019-06-19 21:55:50
-7791	0x1e6f	ṯ	5	7682090	ber	Maniḏa qa-ṯ ?	amazighsatlasblideen	2019-01-03 09:47:16	2019-01-03 11:02:28
-7826	0x1e92	Ẓ	2142	3455468	ber	Ẓriɣ d acu ay tugaded.	Amastan	2014-08-27 02:42:04	2014-08-27 02:42:04
-7827	0x1e93	ẓ	41300	11832077	ber	Gunter ur yessaweḍ ara ad iẓer yemma-s.	Amastan	2023-06-09 11:16:56	2023-06-09 11:16:56
+7747	0x1e43	ṃ	119	2532277	ber	Ad ffɣeɣ aṃṃu bettek.	Uyezjen	2013-06-28 18:28:33	2013-06-28 18:28:33
+7751	0x1e47	ṇ	21	9149044	ber	Ffɣeṇt i ubrid n Rebbi.	Talwit	2020-10-15 22:44:22	2020-10-15 22:44:22
+7770	0x1e5a	Ṛ	5170	10438319	ber	Ṛuḥent ad d-aɣent asegzawal n tqebṭit.	Agestur	2021-10-21 07:10:31	2021-10-21 07:10:31
+7771	0x1e5b	ṛ	57553	11407233	ber	Keṛhent-kent.	Amastan	2023-01-03 07:41:32	2023-01-03 07:41:32
+7778	0x1e62	Ṣ	439	2866356	ber	Ṣeḥḥa wal reẓẓmemt taqqet.	Uyezjen	2013-11-21 09:14:26	2013-11-21 09:14:26
+7779	0x1e63	ṣ	12753	9838764	ber	Amtawa-a ad yuɣal yeṣleḥ ɣef 12:00 n yiḍ.	Aghsi_n_Unezruf	2021-03-12 10:41:19	2021-03-12 10:41:19
+7788	0x1e6c	Ṭ	1135	8291244	ber	Iɣtes Ṭom yat teɣtest ixcnen.	Idder21	2019-10-29 14:05:39	2019-10-29 14:05:39
+7789	0x1e6d	ṭ	42235	8454878	ber	Tom yessefra ad yernu ad iɛeṭṭel, maca mi d-yeṭṭef yiwet n teɣri, yedda.	Amastan	2020-01-15 20:41:45	2020-01-15 20:41:45
+7791	0x1e6f	ṯ	5	7681943	ber	Rẓem ṯabburṯ !	amazighsatlasblideen	2019-01-03 09:11:19	2019-01-03 09:11:19
+7826	0x1e92	Ẓ	2142	1673929	ber	Ẓriɣ tizlatin tijapuniyin weɛṛent aṭas fell-aɣ.	Amastan	2012-07-08 00:05:25	2012-07-08 00:05:25
+7827	0x1e93	ẓ	41309	12252244	ber	Claudio yella yeẓra d acu-t yimesli-nni.	Yagurten	2024-01-05 08:56:34	2024-01-05 08:56:34
 8204	0x200c	‌	1	7643824	ber	Is igujilen uraren s t‌ɛelǧiyin-sen?	amazigh	2018-12-22 12:21:35	2018-12-22 12:21:35
-8209	0x2011	‑	2481	2890742	ber	Uhu d lemsalet n wa ɣad tessestned, ssen ul tellid teẓwid ad tafed astan ɣa s‑yers wul‑č.	Uyezjen	2013-12-01 07:42:53	2013-12-01 07:42:53
-8211	0x2013	–	3	9546136	ber	27 dujember 1957–27 dujember 2020, 63 n yiseggassen segmi nɣan allaɣ n tegrawla n tmurt Zzayer.	Talwit	2020-12-26 22:35:11	2020-12-26 22:35:45
+8209	0x2011	‑	2481	2969446	ber	Ad nejjmeɣ am‑iniɣ ul nufi zeddiɣ tenni ɣa ngaḥer anebras‑nsent.	Uyezjen	2014-01-07 10:14:16	2014-01-07 10:14:16
+8211	0x2013	–	3	7493182	ber	Yessaweḍ uɣerrabu allunan n Rosetta ad yessers tasenqadt-nnes n Philae ɣef usmil n 67P/Churyumov–Gerasimenko.	Amastan	2018-11-22 08:06:18	2018-11-22 08:06:18
 8216	0x2018	‘	2	1815466	ber	Tagelda Tasaɛudit ttinin-as "Al-Mamlakah Al-‘Arabiyyah as-Sa‘ūdiyyah" s taɛṛabt.	Amastan	2012-09-03 22:37:29	2012-09-03 23:09:42
-8217	0x2019	’	90	9877466	ber	Ssneɣ-d aṭas n medden seg Côte d’Ivoire.	Aghsi_n_Unezruf	2021-03-26 23:52:29	2021-03-26 23:52:29
-8220	0x201c	“	159	8369048	ber	Sqaqarent-tt-id teqcicin alma d amnar n tewwurt s yiwen uḥiḥa yeqqaren : “Anzaren n lbaṭaṭa ! Anzaren n lbaṭaṭa !”	Talwit	2019-12-06 20:27:01	2019-12-06 20:27:29
-8221	0x201d	”	135	8902398	ber	Ttɛayaren medden yis-i, abder n yisem-iw s “ḥacakum”.	Talwit	2020-07-09 09:17:20	2020-07-09 09:17:20
-8230	0x2026	…	112	8759973	ber	Ddmeɣ-d ul n talsa tikkelt-nniḍen, rriɣ-as snat n tmiqwa n lkerh, seg wass-nni ur iḥemmel ara kan… Ur ikerreh ara kan… Ikerreh cwiṭ, iḥemmel aṭas.	Talwit	2020-05-13 21:03:41	2020-05-13 21:03:41
+8217	0x2019	’	90	9908800	ber	Zedɣen 4 n yiseggasen deg Côte d’Ivoire.	Aghsi_n_Unezruf	2021-03-28 02:25:05	2021-03-28 02:25:05
+8220	0x201c	“	159	1733504	ber	Mike isemma-as i weydi-nnes “Spike”.	Amastan	2012-07-28 17:05:04	2012-10-06 20:33:00
+8221	0x201d	”	135	8604741	ber	Tinna tesfaq-it : “A nnegr-ik , d nutni.”	Talwit	2020-03-09 22:57:48	2020-03-09 22:57:48
+8230	0x2026	…	112	8816768	ber	Dɣa imiren kan yiwen n uɛeqqa n ubelluḍ yeɣli-d ɣef uqerruy n urgaz-nni. Irfed ifassen-is s igenni netta isellef I yixef-is, yenna : " Ssuref-iyi a Rebbi, d ayen ur ttuɣaleɣ ara ad kecmeɣ deg wayen ur iyi-iɛnan. Cwi kan tasaf-iw mačči d tidellaɛin I d-tettarew…”	Talwit	2020-06-04 22:32:34	2020-06-04 22:49:51
 8239	0x202f	 	4	4914098	ber	Muiriel tura yesεa 20 iseggasen.	Juba	2016-02-15 13:55:44	2016-02-15 13:55:44
 8721	0x2211	∑	1	7646173	ber	∑erḍeɣ ya ad xedmeɣ aya akken i iyi-d-yenna Tom.	Yagurten	2018-12-23 21:11:37	2018-12-23 21:11:37
-11568	0x2d30	ⴰ	155	8871568	ber	ⵢⴰⵀ.	aakouri	2020-06-24 22:38:40	2020-06-24 22:38:40
-11569	0x2d31	ⴱ	24	8871479	ber	ⵉⵛⵡⴰ ⴱⴰⵀⵔⴰ !	aakouri	2020-06-24 22:26:00	2020-06-24 22:26:00
-11571	0x2d33	ⴳ	38	8089121	ber	ⵜⵍⵍⴰ ⵜⵀⵉⵔⵉⵜ ⵏ ⵜⵓⵎ ⴷⴳ ⵓⴱⵔⵉⴷ.	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
-11573	0x2d35	ⴵ	2	4480073	ber	ⵓⵍⴰⵛ ⴰⴽⴽ ⴰⵢⴻⵏ ⴰⵔⴰ ⴽ-ⵢⴻⴵⴵⴻⵏ ⴰⴷ ⵜⵃⴻⵇⵇⵔⴻⴹ ⵉⵎⴰⵏ-ⵉⴽ ⵙⴷⴰⵜ ⵡⵉⵢⴻⴹ.	Juba	2015-08-29 21:27:11	2015-08-29 21:29:27
-11575	0x2d37	ⴷ	73	1746540	ber	ⵜⴰⵡⵊⵊⴰ ⵖⵉⵍⴰ ⴷⵉ ⵓⴱⴰⵔⴰⵣ ⵏⵏⴽ	abrid	2012-08-02 13:28:00	2012-08-02 13:28:00
-11577	0x2d39	ⴹ	22	9289024	ber	ⴰⵣⵓⵍ ⴰⵎⴰⴹⴰⵍ.	hakim1bal	2020-11-13 03:43:41	2021-01-11 20:29:43
-11579	0x2d3b	ⴻ	61	8233863	ber	ⵣⵔⵉⵏ ⴰⵢⵢⵓⵔ ⵏ ⵜⴰⵎⵎⴻⵏⵜ ⴳ ⴷⵣⴰⵢⵔ	aakouri	2019-10-05 08:35:45	2019-10-05 08:35:45
-11580	0x2d3c	ⴼ	39	8233543	ber	ⵜⵉⴼⵙⵙⵉ	aakouri	2019-10-05 07:59:04	2019-10-05 07:59:04
-11581	0x2d3d	ⴽ	50	1746549	ber	ⴰⵏⵣⵡⵉ ⵏ ⵡⴰⵙⵙ ⴰⴷ ⵉⴼⵓⵍⴽⵉ	abrid	2012-08-02 13:30:31	2012-08-02 13:30:31
-11584	0x2d40	ⵀ	14	8233423	ber	ⵢⴰⴰⵀ	aakouri	2019-10-05 07:48:34	2019-10-05 07:48:34
-11587	0x2d43	ⵃ	12	4480073	ber	ⵓⵍⴰⵛ ⴰⴽⴽ ⴰⵢⴻⵏ ⴰⵔⴰ ⴽ-ⵢⴻⴵⴵⴻⵏ ⴰⴷ ⵜⵃⴻⵇⵇⵔⴻⴹ ⵉⵎⴰⵏ-ⵉⴽ ⵙⴷⴰⵜ ⵡⵉⵢⴻⴹ.	Juba	2015-08-29 21:27:11	2015-08-29 21:29:27
-11588	0x2d44	ⵄ	4	4534418	ber	ⴰⵛⵃⴰⵍ ⵜⴻⵙⵄⵉⴹ ⴷ ⵜⵉⴽⴻⵕⵕⵓⵙⵉⵏ?	Juba	2015-09-18 11:52:37	2015-09-18 11:52:37
-11589	0x2d45	ⵅ	9	7323198	ber	ⴷⴻⴳ ⵡⴻⵅⵅⴰⵎ ⴰⵔⴰ ⵜⴻⵞⵞⴻⴹ ⵉⵎⴻⵏⵙⵉ ⴰⵙⵙ-ⴰ ?	AmazighDzBoy	2018-10-21 16:13:05	2018-10-21 16:13:05
-11591	0x2d47	ⵇ	13	8233644	ber	ⵇⵇⴻⵏ- ⵔⴳⴻⵍ	aakouri	2019-10-05 08:09:14	2019-10-05 08:09:14
-11593	0x2d49	ⵉ	121	8233603	ber	ⵖⵉⴷ	aakouri	2019-10-05 08:04:32	2019-10-05 08:04:32
-11594	0x2d4a	ⵊ	5	8089164	ber	ⵜⴻⵜⵜⵡⴰⵊⴷⴰⵔ ⵜⵙⴰⴼⵓⵜ	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
-11597	0x2d4d	ⵍ	74	8233634	ber	ⵍⴷⵉ	aakouri	2019-10-05 08:08:04	2019-10-05 08:08:04
-11598	0x2d4e	ⵎ	75	1746656	ber	ⴰⵟⴰⵙ ⵏ ⵎⴻⴷⴷⴻⵏ ⴰⵢ ⵢⴻⵜⵜⴰⵔⵓⵏ ⵖⴻⴼ ⵜⵓⴷⴻⵔⵜ-ⵏⵙⴻⵏ ⵏ ⵢⴰⵍ ⴰⵙⵙ.	Amastan	2012-08-02 14:09:38	2012-08-02 14:09:58
-11599	0x2d4f	ⵏ	88	7323189	ber	ⴰⵏⵜⴰ ⴰⵢ ⴷ ⵜⴰⵎⴷⵉⵏⵜ ⴰⵢ ⵉⵛⴻⴱⵃⴻⵏ ⴰⴽⴽ ⴷⴻⴳ ⵍⴰⵍⵎⴰⵏ ?	AmazighDzBoy	2018-10-21 16:10:35	2018-10-21 16:10:35
-11603	0x2d53	ⵓ	89	8871488	ber	ⴰⵏⵚⵓⴼ / ⴱⴻⵔⵔⴽ	aakouri	2020-06-24 22:27:19	2020-06-24 22:27:19
-11604	0x2d54	ⵔ	96	8233324	ber	ⴳ ⵜⴰⴳⴳⴰⵔⴰ	aakouri	2019-10-05 07:39:04	2019-10-05 07:39:04
-11605	0x2d55	ⵕ	9	8233520	ber	ⵥⵥⴻⵍ - ⵙⴻⵔⵙ ⴰⴹⴰⵕ ⴼ ⵓⴹⴰⵕ	aakouri	2019-10-05 07:56:56	2019-10-05 07:56:56
-11606	0x2d56	ⵖ	53	8089154	ber	ⴰⵔ ⵜⵜⵉⵔⵉⵖ ⴰⴷ ⵉⵍⵉⵖ ⴷ ⵜⵓⵎ	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
-11609	0x2d59	ⵙ	68	1746549	ber	ⴰⵏⵣⵡⵉ ⵏ ⵡⴰⵙⵙ ⴰⴷ ⵉⴼⵓⵍⴽⵉ	abrid	2012-08-02 13:30:31	2012-08-02 13:30:31
-11610	0x2d5a	ⵚ	4	8233732	ber	ⴰⵔ ⵉⴹⵚⵚⴰ ⴽⵔⴰⵢⴳⴰⵜ ⵢⴰⵏ	aakouri	2019-10-05 08:18:57	2019-10-05 08:18:57
-11611	0x2d5b	ⵛ	22	8233452	ber	ⴽⵛⴻⵎ	aakouri	2019-10-05 07:51:12	2019-10-05 07:51:12
-11612	0x2d5c	ⵜ	92	8233732	ber	ⴰⵔ ⵉⴹⵚⵚⴰ ⴽⵔⴰⵢⴳⴰⵜ ⵢⴰⵏ	aakouri	2019-10-05 08:18:57	2019-10-05 08:18:57
+11568	0x2d30	ⴰ	155	8089154	ber	ⴰⵔ ⵜⵜⵉⵔⵉⵖ ⴰⴷ ⵉⵍⵉⵖ ⴷ ⵜⵓⵎ	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
+11569	0x2d31	ⴱ	24	8233339	ber	ⵉⵛⵡⴰ ⴱⴰⵀⵔⴰ	aakouri	2019-10-05 07:40:49	2019-10-05 07:40:49
+11571	0x2d33	ⴳ	38	8089146	ber	ⵜⴰⴷⵓⵙⵉ ⵜⵓⴽⵍⴰⵍ ⵓⴳⴳⴰⵔ ⴼ ⵡⵓⵔⵖ.	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
+11573	0x2d35	ⴵ	2	4473429	ber	ⵓⵔ ⵉⵢⵉ-ⵜⵜⴰⴵⴵⴰ ⴰⵔⴰ ⵉⵎⴰⵏ-ⵉⵡ	Juba	2015-08-26 08:32:58	2015-08-26 08:32:58
+11575	0x2d37	ⴷ	73	4509359	ber	ⵙⵄⵉⵖ ⵉⵎⴻⵙⵍⴰⵢⴻⵏ ⴰⵔⴰ ⴽ ⴷ ⵉⵏⵉⵖ.	Juba	2015-09-08 12:57:05	2016-03-07 12:54:08
+11577	0x2d39	ⴹ	22	8233697	ber	ⵉⵇⴰⵔⵉⴹⵏ ⴰⵢ ⵙⴰⵡⴰⵍⵏ	aakouri	2019-10-05 08:14:42	2019-10-05 08:14:42
+11579	0x2d3b	ⴻ	61	8871594	ber	ⴰⵣⵓⵍ ⴼⴻⵍⵍⴰⴽ.	aakouri	2020-06-24 22:41:40	2020-06-24 22:41:40
+11580	0x2d3c	ⴼ	39	8233761	ber	ⵙⴼⴻⵍⴳ ⵎⵣⵢⴰⵏ	aakouri	2019-10-05 08:22:01	2019-10-05 08:22:01
+11581	0x2d3d	ⴽ	50	4473411	ber	ⵓⵙⵙⴰⵏ-ⴰⵢⵉ ⵉⵏⴻⴳⴳⵓⵔⴰ, ⵃⵓⵙⵙⴻⵖ ⵉ ⵢⵉⵎⴰⵏ-ⵉⵡ ⵛⵡⵉⵢⴰ ⴽⴰⵏ.	Juba	2015-08-26 08:29:41	2015-08-26 08:29:41
+11584	0x2d40	ⵀ	14	8871479	ber	ⵉⵛⵡⴰ ⴱⴰⵀⵔⴰ !	aakouri	2020-06-24 22:26:00	2020-06-24 22:26:00
+11587	0x2d43	ⵃ	12	7323189	ber	ⴰⵏⵜⴰ ⴰⵢ ⴷ ⵜⴰⵎⴷⵉⵏⵜ ⴰⵢ ⵉⵛⴻⴱⵃⴻⵏ ⴰⴽⴽ ⴷⴻⴳ ⵍⴰⵍⵎⴰⵏ ?	AmazighDzBoy	2018-10-21 16:10:35	2018-10-21 16:10:35
+11588	0x2d44	ⵄ	4	8233238	ber	ⵄⵍⴰⵢⵏ	aakouri	2019-10-05 07:30:10	2019-10-05 07:30:10
+11589	0x2d45	ⵅ	9	8233867	ber	ⴰⵊⵊⴰⵜ ⴰⵖ ⴰⵏ ⵏⵙⵓⴼⴳⵍⵓ ⵅⵜⴰⴷ ⵙ ⴽⵔⴰ ⵏ ⵙⴽⵙⵓ	aakouri	2019-10-05 08:36:35	2019-10-05 08:36:35
+11591	0x2d47	ⵇ	13	8233872	ber	ⵉⵇⵇⴰⵏⴷ ⴰ ⵜⴰⵔⴻⵎⵜ ⵙⴽⵙⵓ ⵢⴰⴷ	aakouri	2019-10-05 08:37:19	2019-10-05 08:37:19
+11593	0x2d49	ⵉ	121	8871542	ber	ⵉⴼⵓⵍⴽⵉ ⴱⴰⵀⵔⴰ !	aakouri	2020-06-24 22:33:35	2020-06-24 22:33:35
+11594	0x2d4a	ⵊ	5	8089156	ber	ⵀⴰⵜ ⴰⵔ ⵜⴰⴽⴽⴰ ⵉ ⵢⵉⵏⵏⴰⵙ ⵢⴰⵜ ⵜⵡⵛⴽⵉⵏⵜ ⵏ ⵢⵉⵊⵊⵉⴷⵏ.	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
+11597	0x2d4d	ⵍ	74	8233275	ber	ⵜⵉⵍⵉⵍⴰ	aakouri	2019-10-05 07:33:48	2019-10-05 07:33:48
+11598	0x2d4e	ⵎ	75	8233875	ber	ⵓⵔ ⵜⴰⵜ ⵉⵍⵎⴰⴳⴳⴰⵔ	aakouri	2019-10-05 08:37:37	2019-10-05 08:37:37
+11599	0x2d4f	ⵏ	88	4473399	ber	ⵜⵉⴷⴻⵜ ⴽⴰⵏ, ⵓⵔ ⵥⵔⵉⵖ ⴰⵔⴰ ⴷⴰⵛⵓ ⴰⵔⴰ ⴷ-ⵉⵏⵉⵖ.	Juba	2015-08-26 08:27:37	2015-08-26 08:27:37
+11603	0x2d53	ⵓ	89	9152665	ber	ⵉⵏⵖⴰⵢⵉ ⵓⵎⴰⵔⴳ ⵏ ⵜⵙⴷⴰⵖⵉⵜ.	hakim1bal	2020-10-16 23:37:20	2020-10-16 23:37:20
+11604	0x2d54	ⵔ	96	9152665	ber	ⵉⵏⵖⴰⵢⵉ ⵓⵎⴰⵔⴳ ⵏ ⵜⵙⴷⴰⵖⵉⵜ.	hakim1bal	2020-10-16 23:37:20	2020-10-16 23:37:20
+11605	0x2d55	ⵕ	9	4473345	ber	ⵉⵍⴰⵇ ⴰⴷ ⵕⵓⵃⴻⵖ ⵖⴻⵔ ⵡⵓⵙⵙⵓ.	Juba	2015-08-26 08:13:57	2015-08-26 08:14:09
+11606	0x2d56	ⵖ	53	7323211	ber	ⵓⵔ ⵜⴻⵖⵖⴰⵔ ⴰⵔⴰ ⴰⵥⴰⵡⴰⵏ.	AmazighDzBoy	2018-10-21 16:15:11	2018-10-21 16:15:11
+11609	0x2d59	ⵙ	68	8871551	ber	ⴰⵍⵍ ⴳⵉⵙ ⴰⴹⴰⴹ !	aakouri	2020-06-24 22:36:14	2020-06-24 22:36:14
+11610	0x2d5a	ⵚ	4	8871488	ber	ⴰⵏⵚⵓⴼ / ⴱⴻⵔⵔⴽ	aakouri	2020-06-24 22:27:19	2020-06-24 22:27:19
+11611	0x2d5b	ⵛ	22	8871479	ber	ⵉⵛⵡⴰ ⴱⴰⵀⵔⴰ !	aakouri	2020-06-24 22:26:00	2020-06-24 22:26:00
+11612	0x2d5c	ⵜ	92	8871516	ber	ⵜⵉⴷⴻⵜ ?	aakouri	2020-06-24 22:31:02	2020-06-24 22:31:02
 11614	0x2d5e	ⵞ	2	1756264	ber	ⵏⴻⴽⴽ ⴷ ⵜⴰⵍⵎⴰⵏⵉⵜ, ⵎⴰⵞⴰ ⴽⴻⵞⵞ ⴷ ⴰⵎⴰⵣⵉⵖ.	Juba	2012-08-06 19:00:37	2015-08-23 11:46:11
-11615	0x2d5f	ⵟ	8	4473346	ber	ⵟⵓⵎ, ⵓⵃⵡⴰǧⴻⵖ-ⵜ ⵜⵓⵔⴰ.	Juba	2015-08-26 08:15:38	2015-08-26 08:26:36
-11617	0x2d61	ⵡ	50	8871479	ber	ⵉⵛⵡⴰ ⴱⴰⵀⵔⴰ !	aakouri	2020-06-24 22:26:00	2020-06-24 22:26:00
-11618	0x2d62	ⵢ	53	8233350	ber	ⵢⵓⴷⴰ	aakouri	2019-10-05 07:41:27	2019-10-05 07:41:27
-11619	0x2d63	ⵣ	23	8233441	ber	ⴰⵣⵣⵍ	aakouri	2019-10-05 07:49:48	2019-10-05 07:49:48
-11621	0x2d65	ⵥ	14	4473417	ber	ⴱⵖⵉⵖ ⴰⵢⴻⵏ ⵥⵉⴷⴻⵏ.	Juba	2015-08-26 08:30:06	2015-08-26 08:30:06
-11631	0x2d6f	ⵯ	4	8233589	ber	ⵎⴰⵏⴰⴳⵯ	aakouri	2019-10-05 08:03:27	2019-10-05 08:03:27
+11615	0x2d5f	ⵟ	8	4473356	ber	ⵉⵣⵎⴻⵔ ⵓⵔ ⵜⴻⵍⵍⵉ ⴰⵔⴰ ⴷ ⵎⴻⵔⵢⴻⵎ. ⵏⴻⵜⵜⴰⵜ ⵜⵓⵔⴰ ⴰⵜⵜⴰⵏ ⴷⵉ ⵙⵙⴱⵉⵟⴻⵔ.	Juba	2015-08-26 08:17:49	2015-08-26 08:17:49
+11617	0x2d61	ⵡ	50	8871552	ber	ⴰⵡⵙ !	aakouri	2020-06-24 22:36:27	2020-06-24 22:36:27
+11618	0x2d62	ⵢ	53	8233761	ber	ⵙⴼⴻⵍⴳ ⵎⵣⵢⴰⵏ	aakouri	2019-10-05 08:22:01	2019-10-05 08:22:01
+11619	0x2d63	ⵣ	23	7323192	ber	ⵜⵓⵎ ⵢⴻⵙⵙⴻⵔⵙ ⵎⴰⵔⵉ ⴷⴻⴳ ⵓⵖⴻⵔⴱⴰⵣ.	AmazighDzBoy	2018-10-21 16:11:38	2018-10-21 16:11:38
+11621	0x2d65	ⵥ	14	4473420	ber	ⴱⵖⵉⵖ ⵜⴰⵖⴰⵡⵙⴰ ⴷ ⵜⴰⵥⵉⴷⴰⵏⵜ.	Juba	2015-08-26 08:30:24	2015-08-26 08:30:24
+11631	0x2d6f	ⵯ	4	8089148	ber	ⵉⵏⵉ ⵉ ⵜⵓⵎ ⵎⴰⵙ ⴷⴷⵉⵖ ⵙ ⵜⵏⴳⵯⵎⵔⵜ.	Tariqidufqqir	0000-00-00 00:00:00	0000-00-00 00:00:00
 61541	0xf065		1	7757426	ber	Tuget n yisekla ttɣimin d ieryanen acku iferrawen-nsen yettawi-ten waḍu.	Talwit	2019-01-30 22:13:13	2019-01-30 22:13:13

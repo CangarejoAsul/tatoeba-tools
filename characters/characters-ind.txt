@@ -1,87 +1,87 @@
-32	0x20	 	22025	3253781	ind	Dia mencintai anak-anaknya.	orion17	2014-05-15 09:30:14	2014-05-15 09:30:14
-33	0x21	!	778	11802852	ind	Jorok!	Pacific	2023-05-29 12:31:25	2023-05-29 12:31:25
-34	0x22	"	201	10078724	ind	Apa itu "wabi-sabi"?	HAGNi	2021-06-01 15:10:03	2021-06-01 15:10:03
+32	0x20	 	22068	11794583	ind	Aku perlu bantuan!	Pacific	2023-05-26 14:34:57	2023-05-26 14:34:57
+33	0x21	!	778	331436	ind	Tutup pintu itu!	umarsaid	2009-02-07 14:02:54	2009-02-07 14:02:54
+34	0x22	"	201	11648835	ind	"Kamu cantik," kata si kakaktua.	Pacific	2023-04-03 05:19:04	2023-04-03 05:19:04
 35	0x23	#	1	11255339	ind	C# mirip dengan Java.	Pacific	2022-11-18 13:56:39	2022-11-18 13:56:39
-36	0x24	$	5	11295380	ind	Sang manajer membatasi pengeluaran sebesar $50.000.	HAGNi	2022-12-05 07:53:40	2022-12-05 07:53:40
-37	0x25	%	4	4164082	ind	Jumlah penduduk Amerika yang berusia lebih dari 65 tahun adalah 12.5% dari total populasi.	Bilmanda	2015-05-09 03:30:33	2016-06-09 22:18:35
+36	0x24	$	5	4582706	ind	Aku membayar $200 untuk pajak.	Bilmanda	2015-10-06 09:38:24	2015-10-06 09:38:24
+37	0x25	%	4	10716381	ind	Bir ini mengandung 5% alkohol.	arozian	2022-03-13 10:16:22	2022-03-13 10:16:22
 38	0x26	&	2	11570415	ind	Video ini disponsori oleh Tom & Mary.	Pacific	2023-03-01 16:23:37	2023-03-01 16:23:37
-39	0x27	'	21	9975414	ind	Kamu akan kembali, 'kan?	HAGNi	2021-04-21 09:39:31	2021-04-21 09:39:41
-40	0x28	(	20	11160205	ind	Apa payahnya menawakkan (menaupkan) bibir atas bawah?.	Tanama	2022-10-06 01:55:16	2022-10-06 01:55:24
-41	0x29	)	20	11672007	ind	Pada bulan Januari 2023, Daftar Larangan Terbang pemerintah AS dibocorkan oleh peretas transgender asal Swiss bernama maia arson crimew (sic).	Pacific	2023-04-10 17:56:40	2023-04-10 18:00:18
+39	0x27	'	21	10062736	ind	Timor Leste dalam bahasa Tetun disebut "Timor Lorosa'e".	HAGNi	2021-05-25 15:04:21	2021-05-25 15:04:21
+40	0x28	(	20	366327	ind	Saya tidak terlalu mengerti apa yang ia(laki-laki) katakan.	exodream	2010-02-19 02:26:55	2010-02-19 02:27:07
+41	0x29	)	20	367218	ind	Saya mengecewakan karena dia (laki-laki) tidak hadir	le_petit_ane_gris	2010-02-23 19:00:07	2010-02-23 19:00:07
 42	0x2a	*	1	6481421	ind	Nges*k dengan gelora malam ini	LeeSooHa	2017-11-24 13:18:49	2017-11-24 13:18:49
-43	0x2b	+	5	8814770	ind	"Kamu bisa bahasa apa saja, Tom?" - "C++, Java, dan sedikit PHP. Kalau kamu, Mary?" - "Bahasa Prancis, Jepang, dan Ibrani."	orion17	2020-06-04 00:01:37	2020-06-04 00:01:37
-44	0x2c	,	1928	1019454	ind	Karena terluka, dia memutuskan untuk kembali ke Amerika.	medduki	2011-08-03 07:27:36	2011-08-03 07:27:36
-45	0x2d	-	1393	11245470	ind	Tom-lah yang membunuh Mary.	Pacific	2022-11-13 12:53:26	2022-11-13 12:53:26
-46	0x2e	.	18015	3483857	ind	Tom dapat mengatakan bahwa Mary cukup ketakutan.	lewis	2014-09-09 21:09:50	2014-09-09 21:09:50
-47	0x2f	/	18	1060239	ind	Semua orang harus menjadi tuan bagi tujuannya/takdirnya.	pryo	2011-08-23 07:18:17	2011-08-23 07:18:17
-48	0x30	0	191	11754972	ind	Percaya atau tidak, Tom sudah berusia 70 tahun.	Pacific	2023-05-11 12:37:23	2023-05-11 12:37:23
-49	0x31	1	185	1034591	ind	Wawancara telah dijadwalkan pada jam 10 pagi besok.	pryo	2011-08-09 15:34:59	2011-08-09 15:34:59
-50	0x32	2	150	12034115	ind	Kalian harus menyelesaikan ini sebelum pukul 2.30.	HAGNi	2023-09-03 11:17:30	2023-09-03 11:17:30
-51	0x33	3	95	3975638	ind	Aku menghabiskan waktu 3 jam untuk mencari Tom.	Bilmanda	2015-03-21 02:36:00	2015-03-21 02:36:00
-52	0x34	4	39	11652630	ind	Amerika Serikat menjatuhkan bom atom di Hiroshima pada tanggal 6 Agustus 1945.	Pacific	2023-04-04 06:49:47	2023-06-04 15:32:07
-53	0x35	5	73	8258081	ind	2539 adalah bilangan prima.	LeeSooHa	2019-10-16 11:17:19	2019-10-16 11:17:19
-54	0x36	6	56	4261688	ind	Banyak dari siswa SMA Amerika yang tidak tahu kalau Perang Saudara terjadi antara tahun 1861 dan 1865.	Bilmanda	2015-06-08 06:44:07	2015-06-08 06:44:07
-55	0x37	7	30	10041371	ind	Pesawat akan lepas landas pada pukul 17.30.	HAGNi	2021-05-16 13:55:30	2021-05-16 13:55:30
-56	0x38	8	53	7061856	ind	Dia berumur 8 tahun.	purichan	2018-08-15 04:51:29	2018-08-15 04:51:29
-57	0x39	9	64	3483825	ind	Sebagian besar pembunuhan yang dilakukan oleh Alexander Pischushkin terjadi di Taman Bitsa di Moskwa antara tahun 1992 sampai dengan 2006	lewis	2014-09-09 21:02:50	2014-09-09 21:02:50
-58	0x3a	:	28	1800436	ind	Tatoeba: Karena bahasa bukanlah sekedar kumpulan kata-kata.	menyo	2012-08-27 13:04:06	2012-08-27 13:04:54
-59	0x3b	;	11	8389312	ind	Ajarkan; Kasih tahu.	rizkisaid	2019-12-18 13:39:43	2019-12-18 13:39:43
+43	0x2b	+	5	10716503	ind	Tentukan himpunan nilai dari konstan k yang memenuhi pertidaksamaan kuadrat x² + kx - 3k > 0 untuk semua nilai ril dari x.	arozian	2022-03-13 11:25:21	2022-03-13 11:25:21
+44	0x2c	,	1931	12322593	ind	Nanti aku telepon jam tiga, ya.	HAGNi	2024-02-17 13:06:36	2024-02-17 13:06:36
+45	0x2d	-	1395	3878479	ind	Mereka menjual buku-buku bekas di toko ini.	Bilmanda	2015-02-19 02:48:29	2015-02-19 02:48:29
+46	0x2e	.	18044	940055	ind	Sistem ekonomi syariah hingga kini belum dipraktekkan di kalangan pesantren.	fuwafuwa	2011-06-15 10:01:26	2011-06-15 10:01:26
+47	0x2f	/	18	1033736	ind	Paul lebih semangat/kuat dibanding Marc.	pryo	2011-08-09 07:22:54	2011-08-09 07:22:54
+48	0x30	0	191	11479334	ind	Bom akan meledak dalam waktu 10 detik.	Pacific	2023-01-23 01:35:10	2023-01-23 01:35:10
+49	0x31	1	185	331385	ind	Rumahku 10 menit berjalan kaki dari stasiun.	umarsaid	2009-02-07 06:46:57	2009-02-07 06:46:57
+50	0x32	2	150	4271979	ind	Desa itu berada 20 mil di sebelah utara kota ini.	Bilmanda	2015-06-14 02:06:07	2015-06-14 02:06:07
+51	0x33	3	95	4266925	ind	Kejadian itu terjadi 3 tahun kemudian, yaitu pada tahun 1965.	Bilmanda	2015-06-11 03:44:07	2015-06-11 03:44:07
+52	0x34	4	39	4287351	ind	Saya belajar bahasa Inggris dari penutur asli selama 4 tahun.	Bilmanda	2015-06-20 04:34:40	2015-06-20 04:34:40
+53	0x35	5	73	366394	ind	Buku tua ini bernilai 50.000 yen.	hayabusa_future	2010-02-19 13:35:46	2010-02-19 13:36:18
+54	0x36	6	56	2767428	ind	Dia mengatakan bahwa dia bangun pada jam 6 setiap hari.	deel	2013-09-30 20:14:12	2013-09-30 20:14:12
+55	0x37	7	30	10670632	ind	Sejak tahun 70-an, NASA mempelajari kehidupan di luar angkasa dengan bantuan satelit.	HAGNi	2022-02-12 14:10:46	2022-02-12 14:10:46
+56	0x38	8	53	11633933	ind	Rutherford Hayes lahir di Ohio pada tahun 1822.	Pacific	2023-03-29 06:20:49	2023-03-29 06:20:49
+57	0x39	9	64	11200661	ind	Teman Tom dinyatakan positif Covid-19.	Pacific	2022-10-23 02:08:19	2022-10-23 02:08:19
+58	0x3a	:	28	4032436	ind	Mereka sangat ketakutan sampai-sampai mereka bersembunyi dibalik satu sama lain, dan berkata: "Selamat pagi, nek; ibu tiri kami menyuruh kami untuk menunggu nenek, dan membantu nenek."	Bilmanda	2015-04-04 07:51:28	2016-05-31 22:53:27
+59	0x3b	;	11	8389309	ind	Berbeda; bukan.	rizkisaid	2019-12-18 13:39:08	2019-12-18 13:39:08
 62	0x3e	>	1	10716503	ind	Tentukan himpunan nilai dari konstan k yang memenuhi pertidaksamaan kuadrat x² + kx - 3k > 0 untuk semua nilai ril dari x.	arozian	2022-03-13 11:25:21	2022-03-13 11:25:21
-63	0x3f	?	3380	3995228	ind	Apakah jam itu bekerja?	Bilmanda	2015-03-27 23:19:58	2015-03-27 23:19:58
-65	0x41	A	5283	3963659	ind	Apakah ini kali pertama kamu ke luar negeri?	orion17	2015-03-16 12:03:01	2015-03-16 12:03:01
-66	0x42	B	1696	4582547	ind	Apakah Anda mengenal tuan Brown?	Bilmanda	2015-10-06 08:57:56	2015-10-06 08:57:56
-67	0x43	C	255	6940212	ind	TEPCO tidak dapat menghentikan aliran air kotor yang terkontaminasi materi radioaktif.	ccxex29	2018-06-11 17:18:27	2018-06-11 17:18:27
-68	0x44	D	2266	4210043	ind	Dia akan sangat senang.	Bilmanda	2015-05-20 23:24:49	2015-05-20 23:24:49
-69	0x45	E	130	1478714	ind	Esperanto, bahasa internasional mudah!	alekso	2012-03-10 20:27:48	2012-03-10 20:27:48
-70	0x46	F	105	5087879	ind	Punya Facebook?	Bilmanda	2016-04-27 08:44:42	2016-04-27 08:44:42
-71	0x47	G	192	1020250	ind	Gadis yang berdiri di sana adalah Mary.	medduki	2011-08-03 14:19:52	2011-08-03 14:19:52
-72	0x48	H	455	4390580	ind	Hampir semua siswa menyukai bahasa Inggris.	Bilmanda	2015-07-20 09:31:42	2015-07-20 09:31:42
-73	0x49	I	1236	4323191	ind	Kau berbicara bahasa Inggris dengan fasih.	Bilmanda	2015-07-01 09:45:28	2015-07-01 09:45:28
-74	0x4a	J	894	12325125	ind	Saya lebih suka bahasa Esperanto daripada bahasa Jerman.	Pacific	2024-02-18 12:20:35	2024-02-18 12:20:35
-75	0x4b	K	2729	4314900	ind	Karena terlalu banyak bekerja, matanya terlihat lelah.	Bilmanda	2015-06-29 04:11:45	2015-06-29 04:11:45
-76	0x4c	L	356	4556802	ind	Lagi.	dbahasa	2015-09-26 13:25:47	2015-09-26 13:25:47
-77	0x4d	M	2111	4149726	ind	Mulut Tom diplester dengan lakban.	Bilmanda	2015-05-05 05:46:08	2015-05-05 05:46:08
-78	0x4e	N	269	4989818	ind	Sayangnya, Nancy benar.	ciscas	2016-03-19 08:51:15	2016-03-19 08:51:15
-79	0x4f	O	213	11295369	ind	Orang-orang jahat ada di penjara.	HAGNi	2022-12-05 07:50:13	2022-12-05 07:50:13
-80	0x50	P	1097	11475152	ind	Dia pergi ke Paris dengan mobil kemarin.	Pacific	2023-01-21 14:31:56	2023-01-21 14:31:56
-81	0x51	Q	5	11406888	ind	Tom memindai kode QR itu dengan ponselnya.	Pacific	2023-01-03 03:43:51	2023-01-03 03:43:51
-82	0x52	R	342	3941884	ind	Ayahku membantuku mengerjakan PRku.	Bilmanda	2015-03-09 09:34:37	2016-06-19 02:59:15
-83	0x53	S	3159	9247961	ind	Saya ingin Tom bertemu orang tua saya.	LeeSooHa	2020-11-06 14:00:02	2020-11-06 14:00:02
-84	0x54	T	4229	11227655	ind	Tom tidak memberitahu saya alasan mengapa dia terlambat.	Pi31415i	2022-11-04 09:11:26	2022-11-04 09:11:26
-85	0x55	U	121	12227415	ind	Untuk informasi lebih lanjut, lihat halaman 16.	Pacific	2023-12-24 03:59:57	2023-12-24 03:59:57
-86	0x56	V	74	3938761	ind	Hari Valentine hampir berakhir, dan aku masih tidak tahu apa yang akan kuberikan padanya.	Bilmanda	2015-03-08 02:03:32	2015-03-08 02:03:32
-87	0x57	W	122	4207984	ind	Waktunya makan malam.	Bilmanda	2015-05-19 22:56:02	2015-05-19 22:56:02
+63	0x3f	?	3394	3880935	ind	Apa yang sedang kau lakukan di sini?	Bilmanda	2015-02-20 10:32:13	2015-04-10 22:25:05
+65	0x41	A	5300	12298365	ind	Aku tidak tahu kenapa aku sangat mencintainya.	HAGNi	2024-02-03 14:13:37	2024-02-03 14:13:37
+66	0x42	B	1698	4026336	ind	Bolehkah saya bertanya satu kali lagi?	Bilmanda	2015-04-02 22:26:45	2015-04-02 22:27:09
+67	0x43	C	255	11086228	ind	Cap, cip, cup, kembang kuncup.	HAGNi	2022-08-29 13:26:15	2022-08-29 13:26:15
+68	0x44	D	2270	4271952	ind	Dia adalah orang yang suka berpesta.	Bilmanda	2015-06-14 01:44:06	2015-06-14 01:44:06
+69	0x45	E	130	8945903	ind	Emang enak?	ngimoel	2020-07-28 17:18:07	2020-07-28 17:18:07
+70	0x46	F	105	10008993	ind	Januari, Februari, Maret, April, Mei, Juni, Juli, Agustus, September, Oktober, November, Desember.	HAGNi	2021-05-05 12:31:43	2021-05-05 12:31:43
+71	0x47	G	192	4568706	ind	Gadis ini membuatku gila.	Bilmanda	2015-09-30 10:11:56	2016-05-13 22:47:47
+72	0x48	H	455	11470379	ind	Tom, kamu punya HP?	Pacific	2023-01-19 14:23:33	2023-01-19 14:23:33
+73	0x49	I	1238	3938925	ind	Itu ada di lantai satu dari bangunan itu.	Bilmanda	2015-03-08 04:05:15	2015-03-08 04:05:15
+74	0x4a	J	895	3327016	ind	Kebanyakan orang Jepang minum air kran.	serpico	2014-06-20 09:28:01	2014-06-20 09:28:01
+75	0x4b	K	2736	812003	ind	Rute bis untuk kota itu diperpanjang hingga 10 Km.	windra	2011-03-26 08:32:17	2011-03-26 08:32:17
+76	0x4c	L	356	11605154	ind	Sistem listrik baru Liberia akan kompatibel dengan sistem 220 volt Eropa.	Pacific	2023-03-19 00:30:08	2023-03-19 00:30:08
+77	0x4d	M	2114	3991840	ind	Tom tidak tahu kapan Mary akan kembali.	Bilmanda	2015-03-27 00:23:54	2015-03-27 00:23:54
+78	0x4e	N	269	10716402	ind	Nampaknya Tom mabuk lagi.	arozian	2022-03-13 10:33:28	2022-03-13 10:33:28
+79	0x4f	O	213	10027546	ind	Olahraga itu baik untuk kesehatanmu.	HAGNi	2021-05-12 14:46:01	2021-05-12 14:46:01
+80	0x50	P	1098	4390667	ind	Pernahkah kau pergi ke luar negeri?	Bilmanda	2015-07-20 09:41:56	2015-07-20 09:41:56
+81	0x51	Q	5	2167997	ind	Menariknya, pemain Quidditch di Hogwarts boleh menggunakan sapu yang mana yang mereka suka atau sponsornya mampu, walaupun sapu lebih mahal sering memberi keuntungan besar (dan mungkin tidak adil) dengan kecepatan dan cara mengerakkan.	morgyn	2013-01-26 13:09:28	2013-01-26 13:09:28
+82	0x52	R	344	812003	ind	Rute bis untuk kota itu diperpanjang hingga 10 Km.	windra	2011-03-26 08:32:17	2011-03-26 08:32:17
+83	0x53	S	3164	2767455	ind	Sesuatu telah terjadi.	deel	2013-09-30 20:27:34	2013-09-30 20:27:34
+84	0x54	T	4235	11053139	ind	Tom dan Mary bermain hoki.	HAGNi	2022-08-10 13:06:02	2022-08-10 13:06:02
+85	0x55	U	121	3885590	ind	Untuk mengisi waktu luang dalam perjalanan panjangnya, Christopher Columbus membuat kalimat dengan jumlah kata yang tak terhingga.	Bilmanda	2015-02-22 00:38:53	2015-02-22 00:38:53
+86	0x56	V	74	4760058	ind	Dia jarang nonton TV.	Bilmanda	2015-12-12 09:23:31	2015-12-12 09:24:26
+87	0x57	W	122	4556866	ind	Waaaa...	dbahasa	2015-09-26 13:31:53	2015-09-26 13:31:53
 88	0x58	X	1	12050629	ind	Sepertinya Xbox 360 saya rusak.	Pacific	2023-09-12 14:08:24	2023-09-12 14:08:24
-89	0x59	Y	176	11969427	ind	Saya tinggal di Yokohama.	Pacific	2023-07-30 16:39:10	2023-07-30 16:39:10
-90	0x5a	Z	55	11884660	ind	Ziri dan Rima bermain selama berjam-jam.	Pacific	2023-06-28 13:31:47	2023-06-28 13:32:16
+89	0x59	Y	176	11834182	ind	Yanni mengemudi selama empat jam.	Pacific	2023-06-10 03:33:20	2023-06-10 03:33:20
+90	0x5a	Z	55	12201730	ind	Ziri membeli rumah ini sekitar empat belas tahun yang lalu.	Pacific	2023-12-09 15:02:37	2023-12-09 15:02:37
 91	0x5b	[	2	1502709	ind	ia orang yang slalu mengikuti trendi masa kini [ia peka terhadap trend terbaru]	holger_reinherzen	2012-03-25 15:54:35	2012-03-25 15:54:35
-93	0x5d	]	2	1502725	ind	Orang harus mengambil pelajaran [menelaah dan mengambil hikmah] dari segala kisah kesulitan dan kerumitan yang menimpa dirinya.	holger_reinherzen	2012-03-25 16:05:24	2012-03-25 16:45:41
-97	0x61	a	22046	11794563	ind	Dia selalu gembira.	HAGNi	2023-05-26 14:14:26	2023-05-26 14:14:30
-98	0x62	b	11685	1065693	ind	Jalan yang jauh tidak ada untuk seorang sahabat dekat.	pryo	2011-08-26 09:34:35	2011-08-26 09:35:27
-99	0x63	c	3135	11062716	ind	Tom lebih suka dicintai daripada ditakuti.	HAGNi	2022-08-15 13:14:05	2022-08-15 13:14:05
-100	0x64	d	13545	4924486	ind	Mungkin dia telah membuat sebuah kesalahan.	ciscas	2016-02-20 14:13:04	2016-02-20 14:13:04
-101	0x65	e	18683	10069329	ind	Tom turun dari sepedanya.	hasnadinar	2021-05-28 13:29:26	2021-05-28 13:29:26
-102	0x66	f	627	11740299	ind	Berbuat salah itu manusiawi, memaafkan itu ilahi.	Pacific	2023-05-05 16:18:37	2023-05-05 16:18:37
-103	0x67	g	13544	1503808	ind	Seperti kata pepatah "Waktu adalah uang".	menyo	2012-03-26 09:36:53	2012-03-26 09:36:53
-104	0x68	h	11674	11934275	ind	Jangan meludah di sini.	Pacific	2023-07-16 12:38:14	2023-07-16 12:38:14
-105	0x69	i	19443	10005511	ind	Aku ingin pergi ke Bali.	HAGNi	2021-05-03 12:29:32	2021-05-03 12:29:32
-106	0x6a	j	4222	4793913	ind	Jutaan pria kehilangan pekerjaan mereka.	amangimam	2015-12-27 03:35:02	2015-12-27 03:35:02
-107	0x6b	k	17582	12324358	ind	Siapa laki-laki yang berenang di sungai itu?	HAGNi	2024-02-18 05:03:41	2024-02-18 05:03:41
-108	0x6c	l	12832	3478376	ind	Tetapi dia sangat lucu!	lewis	2014-09-07 19:22:24	2014-09-07 19:22:24
-109	0x6d	m	16574	11069574	ind	Kamu duluan.	HAGNi	2022-08-19 06:39:41	2022-08-19 06:39:41
-110	0x6e	n	19871	8543546	ind	Karena aku tidak berpendapat bahwa semua orang akan mempercayai wanita mati.	LeeSooHa	2020-02-11 13:27:38	2020-02-11 13:27:38
-111	0x6f	o	8271	4556858	ind	Gol!	dbahasa	2015-09-26 13:30:37	2015-09-26 13:30:37
-112	0x70	p	11371	12059134	ind	Dilarang parkir!	HAGNi	2023-09-17 03:43:30	2023-09-17 03:43:30
-113	0x71	q	6	10675250	ind	Ini adalah kisah sebenarnya dari Fadil Sadiq.	HAGNi	2022-02-15 14:42:22	2022-02-15 14:42:22
-114	0x72	r	15864	7669455	ind	Apa yang kau pikirkan?	Balamax	2018-12-28 17:15:47	2022-04-04 13:36:23
-115	0x73	s	13958	5276585	ind	Apakah Anda sudah pergi ke tempat pemungutan suara?	anod	2016-07-15 18:14:13	2016-07-15 18:14:13
-116	0x74	t	15579	5224404	ind	Mari kita mengobrol sambil minum bir dingin.	Bilmanda	2016-06-19 23:49:28	2016-06-19 23:49:28
-117	0x75	u	17796	331395	ind	Rumahku di pinggiran kota itu.	umarsaid	2009-02-07 06:55:10	2009-02-07 06:55:10
-118	0x76	v	272	4026385	ind	Rem mobilku perlu diservis.	Bilmanda	2015-04-02 22:36:26	2016-06-04 19:54:56
-119	0x77	w	1662	4259453	ind	Aku mengakui bahwa, tanpanya, sepuluh tahun kehidupanku akan menjadi kosong dan tanpa tujuan.	Bilmanda	2015-06-07 01:35:19	2015-06-07 01:35:19
-120	0x78	x	38	11974417	ind	Helium, neon, argon, kripton, xenon, dan radon adalah gas mulia.	Pacific	2023-08-01 15:11:42	2023-08-01 15:11:42
-121	0x79	y	10061	11995487	ind	Matanya berbinar-binar.	Pacific	2023-08-14 02:13:40	2023-08-14 02:13:40
-122	0x7a	z	128	4449988	ind	Piza adalah makanan yang paling aku sukai.	Bilmanda	2015-08-13 09:44:00	2015-08-13 09:44:00
+93	0x5d	]	2	1502709	ind	ia orang yang slalu mengikuti trendi masa kini [ia peka terhadap trend terbaru]	holger_reinherzen	2012-03-25 15:54:35	2012-03-25 15:54:35
+97	0x61	a	22089	5239367	ind	Tom tidak berkelahi dengan siapa pun akhir-akhir ini.	Bilmanda	2016-06-28 02:08:31	2016-06-28 02:08:31
+98	0x62	b	11701	10064198	ind	Tolong berikan saya nanas yang paling besar.	HAGNi	2021-05-26 07:07:49	2021-05-26 07:07:49
+99	0x63	c	3140	8864823	ind	Mereka tidak cemas.	HAGNi	2020-06-22 09:55:41	2020-06-22 09:55:41
+100	0x64	d	13571	11227113	ind	Ada berapa negara di Eropa?	Pi31415i	2022-11-04 06:02:22	2022-11-04 06:02:22
+101	0x65	e	18712	4168115	ind	Aku tidak takut dengan hantu.	Bilmanda	2015-05-09 22:17:03	2015-05-09 22:17:03
+102	0x66	f	627	11282537	ind	Aku siap memaafkannya.	HAGNi	2022-12-01 20:52:31	2022-12-01 20:52:31
+103	0x67	g	13568	3936518	ind	Para perokok meninggal lebih muda.	Bilmanda	2015-03-07 03:02:36	2015-03-07 03:02:36
+104	0x68	h	11694	7850532	ind	Tom bisa menemuimu di bandara jika kamu memberitahukannya waktu kedatanganmu.	dbahasa	2019-04-13 23:41:34	2019-04-13 23:41:34
+105	0x69	i	19478	10790852	ind	Saya benci artikel itu	dodonko	2022-04-27 15:19:23	2022-04-27 15:19:23
+106	0x6a	j	4229	3478542	ind	Aku tidak yakin jika ini benar.	lewis	2014-09-07 20:04:43	2014-09-07 20:04:43
+107	0x6b	k	17616	10930644	ind	Saya tahu Anda sedang menulis sebuah buku.	joses	2022-06-22 13:25:01	2022-06-22 13:25:01
+108	0x6c	l	12853	10716260	ind	Kebanyakan orang Jepang makan nasi setidaknya sehari sekali.	arozian	2022-03-13 08:18:31	2022-03-13 08:18:31
+109	0x6d	m	16608	11631007	ind	Ada kerumunan besar di aula.	Pacific	2023-03-28 05:43:02	2023-03-28 05:43:02
+110	0x6e	n	19905	11472205	ind	Doraemon sering tersenyum.	dbahasa	2023-01-20 12:52:15	2023-01-20 12:52:15
+111	0x6f	o	8283	8389102	ind	Tolong beri tahu saya nanti!	rizkisaid	2019-12-18 11:56:11	2022-11-16 06:49:29
+112	0x70	p	11393	7153032	ind	Apa ada makanan yang tidak kamu suka?	purichan	2018-09-14 04:02:29	2018-09-14 04:02:29
+113	0x71	q	6	11248592	ind	Dia pergi ke Yerusalem dan mengunjungi Masjid Al-Aqsa.	Pacific	2022-11-15 05:49:13	2022-11-15 05:49:13
+114	0x72	r	15892	11527472	ind	Tom sedang tidur.	Pacific	2023-02-11 06:55:28	2023-02-11 06:55:28
+115	0x73	s	13980	11489813	ind	Tom adalah seorang pengusaha.	Pacific	2023-01-27 14:55:59	2023-01-27 14:55:59
+116	0x74	t	15598	4345500	ind	Tentu saja!	Bilmanda	2015-07-07 06:53:59	2015-07-07 06:53:59
+117	0x75	u	17829	788235	ind	Saya sudah jelaskan padanya.	windra	2011-03-11 06:05:07	2011-03-11 06:05:07
+118	0x76	v	272	10054844	ind	Protein, lemak, karbohidrat, vitamin, dan asam nukleat adalah contoh zat organik.	HAGNi	2021-05-22 00:54:17	2021-05-22 00:55:43
+119	0x77	w	1663	6997853	ind	Tom selalu meyakinkan Mary bahwa dia benar-benar mencintainya	reitnorf	2018-07-16 10:10:33	2018-07-16 10:10:33
+120	0x78	x	38	3835477	ind	Dexter memasak Tosilog dalam dapur.	JWeighardt	2015-02-02 19:23:22	2015-02-02 19:23:22
+121	0x79	y	10076	774978	ind	Saya akan memberi hadiah sepeda di hari ulang tahunmu.	windra	2011-03-01 07:50:07	2011-03-01 07:50:07
+122	0x7a	z	128	2762603	ind	Saya hidup di Azerbaijan.	Bilmanda	2013-09-27 15:06:06	2016-04-01 13:40:54
 126	0x7e	~	1	8539324	ind	Imut~	Jepang	2020-02-09 21:42:33	2020-02-09 21:42:33
 160	0xa0	 	1	11863368	ind	Australia adalah tempat yang berbahaya.	Pacific	2023-06-21 15:40:28	2023-06-21 15:40:28
 176	0xb0	°	4	12027482	ind	Air mendidih pada suhu 212°F.	Pacific	2023-09-01 02:52:13	2023-09-01 02:52:13

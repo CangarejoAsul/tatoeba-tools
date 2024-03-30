@@ -1,140 +1,140 @@
-32	0x20	 	14012	11025721	nnb	Omukalhi akalhunga omobwenge ngoko ibawiwe akandibinduka, alhiwe syalhi binduka.	\N	2022-07-26 04:01:31	2022-07-26 04:01:32
-33	0x21	!	900	10945310	nnb	Erikokothya ekihambo ekyavene siluhavwa lovulhimundu!	\N	2022-06-28 06:20:25	2022-06-28 06:20:26
-34	0x22	"	132	11019694	nnb	Lhino omukali oyukakola ngomukanicien "ali cool", alhiwe omusisi wabalume akalunabirikirwamo "gay" nabandu banene.	\N	2022-07-24 04:45:23	2022-07-24 04:45:24
+32	0x20	 	14012	10997726	nnb	Nisondire iwambwira ebyoghukalhengekanaya okwinje.	\N	2022-07-17 04:34:51	2022-07-17 04:34:52
+33	0x21	!	900	10955533	nnb	Hano !	\N	2022-07-02 05:01:04	2022-07-02 05:01:06
+34	0x22	"	132	11012532	nnb	"Ulyakol'omusyakuluwawe yoki oyomabyoloba,/ omukali mughuma, mughala mughuma, oyuthimbirekonesyonzihu,/ nakandi, oyo, hatheobusabuli bwaghe,/omwilabira ekirimi angabere inyabughire ebirobiwe ? "	\N	2022-07-22 02:03:51	2022-07-22 02:03:52
 37	0x25	%	1	10936748	nnb	Thwamaligha erighonerya ebeyange eye 5%. Okwivya eyo yikandivawathicha erilolya akathali kemuliro okovindu vyethu.	\N	2022-06-25 06:06:17	2022-06-25 06:06:18
-39	0x27	'	2173	11009972	nnb	Kishi, kishi, ulolay'emulhir'ukimba kithyakithya !	\N	2022-07-21 04:03:58	2022-07-21 04:03:59
-40	0x28	(	14	11022280	nnb	Sihathabya nekyamalwayo, nanzira (noluyi, noluyi).	\N	2022-07-25 04:06:50	2022-07-25 04:06:51
-41	0x29	)	13	10988728	nnb	Erikebera eyiri ebikasa nikya muhungo, oyuthe lhebaya embere syendisya loliembere; nangok'omundu akakokothaya enzingo yiwe, iwayatho (ngoko bakahuka akalhio, ibalhia).	\N	2022-07-14 04:21:13	2022-07-14 04:21:14
-43	0x2b	+	3	10953383	nnb	Obulhindengo kongasonda eriyowira e C++ ngumerera, ngasungika engwithe nekikanjio.	\N	2022-07-01 04:42:43	2022-07-01 04:42:44
-44	0x2c	,	4081	10947852	nnb	« Unanyasi ? » « Iyehe, sindikwashi. »	\N	2022-06-29 05:53:31	2022-06-29 05:53:32
-45	0x2d	-	85	10935807	nnb	Okomalengekanya waghe, omuhambo we 214 Omo kitalu kikulu kye busondolya ngo mulume wa land omunya Schleswig-Holstein, alinga abughe ati omundu viheka amaviheko omundu akamutwalira oghundi mundu ngambe inyamuha akapapura akakanganganya omwatsioyo.	\N	2022-06-25 05:22:51	2022-06-25 05:22:53
-46	0x2e	.	12485	10927451	nnb	Obukengereghesanya bwiwe bwabya bughuma isibulibwalolwako.	\N	2022-06-21 03:34:52	2022-06-21 03:34:54
-47	0x2f	/	127	11012532	nnb	"Ulyakol'omusyakuluwawe yoki oyomabyoloba,/ omukali mughuma, mughala mughuma, oyuthimbirekonesyonzihu,/ nakandi, oyo, hatheobusabuli bwaghe,/omwilabira ekirimi angabere inyabughire ebirobiwe ? "	\N	2022-07-22 02:03:51	2022-07-22 02:03:52
-48	0x30	0	25	10907694	nnb	Kumbe itwalwa omolutere embere sye 10h, ithukandi bula engurubani eyeriya emyami.	\N	2022-06-13 05:29:00	2022-06-13 05:29:02
-49	0x31	1	36	10935956	nnb	Ekikya kye 214b, erikwamana nobulhengekania bwaghe halhi ebindu ebikabya nga nibihyaka ebilhebirye obusondolhi bwa Land we Schleswig-Holstein, ikabugha ngok'oyukalhangir'enzóghu̧ yomulhinga kumbe inyamuha ekibabe.	\N	2022-06-25 05:30:25	2022-06-25 05:30:26
-50	0x32	2	18	10935915	nnb	Oko mwaka 2006, ekithabu ekikahulawamo Business Week mokikakangaya Bhoutan ngekihugho ekitsemire omo Azia yosi nakandi nikihugho ekyomunani omo kihugho kyosi, erikwamana nomurorotsy'owalyakolawa nekiyiro ekye Leicester oko mwaka 2006 owabirikirawamo « Karite oko butseme ».	\N	2022-06-25 05:28:15	2022-06-25 05:28:16
-51	0x33	3	19	11007367	nnb	Omokyumano nuneamathe! Wamavilhengerivugha, nehihgih Z-14.ihikendikutsimitha alhiwe hathya J-37 vakashitha avandu.	\N	2022-07-20 04:16:33	2022-07-20 04:16:34
-52	0x34	4	13	10953593	nnb	Ebighendererwako bithanu ebyeribyaho : §1 Siwalhengekanya ! §2 Omughul'ukalhengekanaya, isiwabugha ! §3 Omughul'ukabugha, isiwasaka ! §4 Omughul'ukahandika, isiwatheka eyisembo ! §5 Omughul'ukatekeyisembo, nikwa isiwasweka !	\N	2022-07-01 04:54:22	2022-07-01 04:54:23
-53	0x35	5	20	10997055	nnb	Thomas mwabirikirie nabandu abaka kakiraya ekisnege wabi iba aka sanduku ke tomate aka ka ghula e 0,85 euro.	\N	2022-07-17 03:55:53	2022-07-17 03:55:54
-54	0x36	6	12	10912071	nnb	Ikere oko 56 ye Russel Square.	\N	2022-06-15 04:27:20	2022-06-15 04:27:21
-55	0x37	7	9	10920679	nnb	Namasweka, alhiwe namayowa erihangwa erimania olukuratho lwethu olomobiro 27 oko mukera wamáhulule.	\N	2022-06-18 05:33:47	2022-06-18 05:33:49
-56	0x38	8	14	10983783	nnb	« Olukuratho olwamunabwire lukendi bugha kuki ? » — « Biabi lebirye e wanzirendi yabanya Russie oko mwaka we 1812. »	\N	2022-07-12 04:56:24	2022-07-12 04:56:26
-57	0x39	9	18	10953490	nnb	Ebihuma, nitayarisya ebindu ebilebire obuthuku, okwi lusyako ekikaho ekioko 1930.	\N	2022-07-01 04:48:25	2022-07-01 04:48:26
-58	0x3a	:	202	10952930	nnb	Omomuvughe waghe, esyonjakano esyehishimo syahino : do, re, mi, fa, sol, la ne si.	\N	2022-07-01 04:16:47	2022-07-01 04:16:48
-59	0x3b	;	159	10944732	nnb	Hanekindu chighuma echothukakola omughulu thukasomo, kumbe ithwaligha kutse iyihi ; thukingira omwavunyuwani nomundu oyukasaka.	\N	2022-06-28 05:48:08	2022-06-28 05:48:09
+39	0x27	'	2173	10997123	nnb	Kanji kanji, simubughe amabehi oko nyinya wenu, kundi abo mama bana tsibuhire kulenga abana babo, bakana fumbul'ekwenene kiro kighuma.	\N	2022-07-17 03:59:48	2022-07-17 03:59:49
+40	0x28	(	14	10988728	nnb	Erikebera eyiri ebikasa nikya muhungo, oyuthe lhebaya embere syendisya loliembere; nangok'omundu akakokothaya enzingo yiwe, iwayatho (ngoko bakahuka akalhio, ibalhia).	\N	2022-07-14 04:21:13	2022-07-14 04:21:14
+41	0x29	)	13	10983710	nnb	Nyinashi ngoko omokera, simwendishe toka eriongozana) erighanyirana.	\N	2022-07-12 04:52:21	2022-07-12 04:52:22
+43	0x2b	+	3	10924937	nnb	"eriminya riabandu bosi C++ : Eripanga bindu" bia Stephen C. Dewhurst, trad. : Quipu	\N	2022-06-20 04:36:58	2022-06-20 04:36:59
+44	0x2c	,	4081	11018852	nnb	Ekinga kineko hiringo hike hike enyuma, hiohikaleka abana ibasika kuko.	\N	2022-07-24 03:59:06	2022-07-24 03:59:07
+45	0x2d	-	85	11004044	nnb	Embimbano ya Élysée ni luthere lwiwe olukavanika okwighanza makumi awathanu, luyira olwe Faubourg-Saint-Honoré e Paris.	\N	2022-07-19 03:57:14	2022-07-19 03:57:15
+46	0x2e	.	12485	10980649	nnb	Avalwana avakakula vanzire amasata woko visesani.	\N	2022-07-11 04:48:05	2022-07-11 04:48:07
+47	0x2f	/	127	11010106	nnb	"Iyehe, sinanga binduka; ebianzwe biaye,/ mwali waghe, oko buli ndambi, isi twa binduka. /mukandi levia erilusha omokithatha ebiomulwe musondire imwahitia;/omombimbano eyelubaluba mukandilevia mughala wenyu. "	\N	2022-07-21 04:11:29	2022-07-21 04:11:30
+48	0x30	0	25	10939122	nnb	Okovindu vyo vuyonzo vweshonzwiri, ekakerakera ye penye yakokotivawa na vandu ave perse hamavihwa virimo 5000.	\N	2022-06-26 05:54:06	2022-06-26 05:54:07
+49	0x31	1	36	10973029	nnb	Thomas mobamukasire eri liha esyo franca 10000 esya bashungu oko bwithi akola.	\N	2022-07-08 05:16:08	2022-07-08 05:16:10
+50	0x32	2	18	10980326	nnb	Omo kiro kyeribuk'amabuthwa waghu, oko mwak'ono, muka ira miaka 28, Andrew, kobithe bithia ?	\N	2022-07-11 04:29:53	2022-07-11 04:29:54
+51	0x33	3	19	10972965	nnb	Ekyumano, erisu rinene 777-200, eriryalwa e Kuala Lumpur omo byasongyâ oko 0h 41, (Byáléngekánıá̧ 17 h 40 e Paris), ryangahikire e Pékin oko sahikumiribiri na mathondi makumia sathu oko ndambi erye noka (23 h 30 e Paris).	\N	2022-07-08 05:12:29	2022-07-08 05:12:31
+52	0x34	4	13	11010211	nnb	Nibaharabu bobathukangiriraya 1, 2, 3, 4, 5... Hathe habo, twangaber'ithune oko mighanzo eyabanya roma. Mwanamalhengekani'amaligho ayo ?	\N	2022-07-21 04:17:19	2022-07-21 04:17:20
+53	0x35	5	20	11025690	nnb	Wasingya kundu oko kimbuthe kyomwibukyo waghu, Musyakulu Poppins. Okobulhi, moghukakokayemiaka 75 mulhigholo, kobithe bithya?	\N	2022-07-26 03:59:53	2022-07-26 03:59:54
+54	0x36	6	12	10941559	nnb	Okomamilioni asathu awavahimbani avasungu ave pologne embere ashamalwa, muvasavuka oko maghana viri noko maghana viri makumia thano nevighogne evineko. Enyuma sye Pogrome eye Kielce nesyo zoruba esya antisémitisme omo1956 ne 1968/69, moha sighala om kiharo ekie Polognr nge syo millioni siaba yahudi.	\N	2022-06-27 05:00:00	2022-06-27 05:00:02
+55	0x37	7	9	11007367	nnb	Omokyumano nuneamathe! Wamavilhengerivugha, nehihgih Z-14.ihikendikutsimitha alhiwe hathya J-37 vakashitha avandu.	\N	2022-07-20 04:16:33	2022-07-20 04:16:34
+56	0x38	8	14	10980326	nnb	Omo kiro kyeribuk'amabuthwa waghu, oko mwak'ono, muka ira miaka 28, Andrew, kobithe bithia ?	\N	2022-07-11 04:29:53	2022-07-11 04:29:54
+57	0x39	9	18	11022179	nnb	Monaya e Italie engendo ya kabiri riakabiri omo mwaka 1980.	\N	2022-07-25 04:01:16	2022-07-25 04:01:18
+58	0x3a	:	202	10931395	nnb	E Angletere, nikihugho ekyeri swekya. Aliw'ebufaranza thukah'esyonzira syamena awesyonzingano : Wagram, Austerlitz..., eyo bakabahamena wabaliazingawa : Trafalgar Square, Waterloo Place.	\N	2022-06-23 04:41:11	2022-06-23 04:41:12
+59	0x3b	;	159	10924467	nnb	Omughulu omukali akasighala ndambi nyingi inia nikere kienekiro kighuma akandi sya tsuka eri lhengekania; na sihali nomundu nomuyima oyu kandisya ibuka kio athia.	\N	2022-06-20 04:09:35	2022-06-20 04:09:36
 60	0x3c	<	1	10918294	nnb	Nirinomwatsi owerikuminyisha ngoko omukania wethu akandiyakanirivwako omochaghanda chakasathu echerilonderamwemisango eyomukolano wa charleroi, le <date>.	\N	2022-06-17 05:29:26	2022-06-17 05:29:27
 62	0x3e	>	1	10918294	nnb	Nirinomwatsi owerikuminyisha ngoko omukania wethu akandiyakanirivwako omochaghanda chakasathu echerilonderamwemisango eyomukolano wa charleroi, le <date>.	\N	2022-06-17 05:29:26	2022-06-17 05:29:27
-63	0x3f	?	1258	10932350	nnb	Kinatokekan'omundu erihika oko bipapura amakum'irinda owe roporo yaghu eyaherera "omwifunga" nero i waghabirayo abahingi bethu?	\N	2022-06-23 05:33:53	2022-06-23 05:33:54
-65	0x41	A	1702	10978241	nnb	Amabindulikania sialihika ndangaliri.	\N	2022-07-10 05:17:36	2022-07-10 05:17:37
-66	0x42	B	482	10947883	nnb	Basihire abambalaka bano ?	\N	2022-06-29 05:55:15	2022-06-29 05:55:16
-67	0x43	C	228	10988166	nnb	Chisavirwe avandu va allan okwiverererya emisave yosi eyiri okochihugho chino neyighulu eshovwiranda.	\N	2022-07-14 03:49:52	2022-07-14 03:49:53
-68	0x44	D	167	10932387	nnb	Dick mwaka pima eri soha mbanza munye.	\N	2022-06-23 05:36:03	2022-06-23 05:36:04
-69	0x45	E	2322	10914526	nnb	Evindu evikalangirawa omomeso siviowene kalenjo.	\N	2022-06-16 03:55:47	2022-06-16 03:55:48
-70	0x46	F	86	11012932	nnb	Frank Zappa abya mwimbiwe bwamerika.	\N	2022-07-22 02:24:33	2022-07-22 02:24:34
-71	0x47	G	233	11010165	nnb	Mwabugha, nokughulu oku sangere nokuling'endalhe, / lhenga olundi oko luhande lwa Sergeste, nerio kingul'ebiala / oko baghuthe omuhwa abo Cloanthe, nabo Gyas.	\N	2022-07-21 04:14:47	2022-07-21 04:14:48
-72	0x48	H	384	10914506	nnb	Hanevindu evio bionge sibwanga bana hakuhi, nebindi ebio sibianga banika. Ebindu ebi, eriminyerera rianga banirebio, haliwe siyanga rondiabio hangenya.	\N	2022-06-16 03:54:41	2022-06-16 03:54:43
-73	0x49	I	346	10997391	nnb	Ukine ne FBI ?	\N	2022-07-17 04:15:28	2022-07-17 04:15:29
-74	0x4a	J	196	11010076	nnb	Akalangir'ebingolongoko ebye Ilion, / minyerera, minya Junon.	\N	2022-07-21 04:09:48	2022-07-21 04:09:49
-75	0x4b	K	604	10961872	nnb	Wamavughahuthi ekiesperanto kivye muvughe oghomokihugho Kyosi, nerymulumwalheka erisya vugha omo kingeresa navandi vanya esperanto.	\N	2022-07-04 05:18:34	2022-07-04 05:18:36
-76	0x4c	L	263	11000835	nnb	Louis mwalangira emisonia yika togha oko lithema liwe, mwali akambesa moka mughusako ebithande !	\N	2022-07-18 05:12:10	2022-07-18 05:12:11
-77	0x4d	M	2124	11010251	nnb	Muvashigha omokathi akakambi epunda eyomomithi enyingahanyingaha nechirimu.	\N	2022-07-21 04:19:31	2022-07-21 04:19:33
-78	0x4e	N	2393	10939471	nnb	Ngalhinda vambwire evirya lava.	\N	2022-06-26 06:12:51	2022-06-26 06:12:52
-79	0x4f	O	2073	10972152	nnb	Omughulu thulhia mulolako akakima omo ngurubani nekihukiwe oko muthwe haghuma nebikaswika ebyala, ahonaho mubyalangirika ngoko akalwa e Marseilles.	\N	2022-07-08 04:26:35	2022-07-08 04:26:36
-80	0x50	P	187	10935612	nnb	Pradelle nikithatha ekikavanika okovilometre makumwaviri nithanu endatha sye Motte-Chalancon.	\N	2022-06-25 05:12:38	2022-06-25 05:12:39
-81	0x51	Q	11	10967569	nnb	Obuhum bwe bihugho bwe bu Amerika mobukasonda eritsongera Chavez ngoko anawithe oko bithi abe Al-Qaïda oko kithatha kia banya Venezuela. E Venezuela yamabia iyilwe ekihuho kia besilamu, kiangahwereko nabanya america erilwa emiakia eyalaba.	\N	2022-07-06 04:59:08	2022-07-06 04:59:10
-82	0x52	R	125	10997464	nnb	Roque akawatikaya kalenjo erimuwatikya okovwami ne rihuluka okondambi yiwe.	\N	2022-07-17 04:19:39	2022-07-17 04:19:40
-83	0x53	S	1378	10924478	nnb	Sinendishakola evihandiko vyayi omonjacha, mafuhonohonangimirya erisu inayalevya avavuthi vaghe.	\N	2022-06-20 04:10:13	2022-06-20 04:10:14
-84	0x54	T	899	10907581	nnb	Twangana minya ekiowene oko ngonde.	\N	2022-06-13 05:22:25	2022-06-13 05:22:26
-85	0x55	U	562	11015959	nnb	Uka lengekanay’uti unuwene ?	\N	2022-07-23 03:24:08	2022-07-23 03:24:09
-86	0x56	V	193	10959245	nnb	Vavya vakahika oko saha munani ne nusu na marie avya inyakahika ndangalhiri.	\N	2022-07-03 05:21:17	2022-07-03 05:21:19
-87	0x57	W	549	10917584	nnb	Wangiwa erihumba omikolhesya ekisengula.	\N	2022-06-17 04:50:27	2022-06-17 04:50:28
-88	0x58	X	5	11016081	nnb	"Ebisire bye Xanthe moyasihirie ebikandiasya ;/ e Ilion yetu moyasumbwire omo byala byethu. /Ngambe ebieriassa embere ibwikiriria ekashi eyi. /Kumbe abagriki abe Troie bakaghanyira ekisasamira ! "	\N	2022-07-23 03:30:18	2022-07-23 03:30:19
-89	0x59	Y	165	11015700	nnb	Ya teghekanaya ekisenge kyaghu, Louie.	\N	2022-07-23 03:10:13	2022-07-23 03:10:14
-90	0x5a	Z	16	10917687	nnb	Allô, Xiaojing Zhang aneyo ? Mwangana musaba muthi ase oko nyakutu?	\N	2022-06-17 04:56:05	2022-06-17 04:56:06
+63	0x3f	?	1258	10921950	nnb	Busanaki moghuka bugha ebindu ebyo bukiru ngebi ?	\N	2022-06-19 04:20:26	2022-06-19 04:20:27
+65	0x41	A	1702	10907429	nnb	Alinga obubuya bulingobweruka obwe kithwa; wabihikoko ndulya, ngamb'iwiruka.	\N	2022-06-13 05:13:11	2022-06-13 05:13:12
+66	0x42	B	482	10958699	nnb	Unashi omukangirirya Brown ?	\N	2022-07-03 04:49:46	2022-07-03 04:49:48
+67	0x43	C	228	11018846	nnb	Chithokekene ngoko evialavugha nimavehi.	\N	2022-07-24 03:58:46	2022-07-24 03:58:47
+68	0x44	D	167	10925306	nnb	David Beckham nimungeresa.	\N	2022-06-20 04:58:24	2022-06-20 04:58:25
+69	0x45	E	2322	10952738	nnb	Ekibundu kinakingire omobuhia. Wanganalheka ikyahuluka ?	\N	2022-07-01 04:05:36	2022-07-01 04:05:38
+70	0x46	F	86	10952977	nnb	E France embere wingire omo nguruwani yo vuhinganya iwatsuka eriyitheghererya ndeke olubwele ngolune omongunza.	\N	2022-07-01 04:19:26	2022-07-01 04:19:27
+71	0x47	G	233	11004276	nnb	Ghuliriwavya muwathi oyutsivuhire.	\N	2022-07-19 04:09:52	2022-07-19 04:09:53
+72	0x48	H	384	10985900	nnb	Hane ekundu ekyerivindula ekyoghukarondaye ?	\N	2022-07-13 04:06:24	2022-07-13 04:06:25
+73	0x49	I	346	10907487	nnb	Imaya kino nomo kilia kianga hika.	\N	2022-06-13 05:16:46	2022-06-13 05:16:48
+74	0x4a	J	196	10947606	nnb	Jim akendaya lubaluba, ekyo sikyowene.	\N	2022-06-29 05:39:24	2022-06-29 05:39:25
+75	0x4b	K	604	10947682	nnb	Ki lhengerire oko bikalani eriheka esyombundu omobihuho binji.	\N	2022-06-29 05:43:52	2022-06-29 05:43:53
+76	0x4c	L	263	10991292	nnb	Lukas nimutsweka.	\N	2022-07-15 03:53:18	2022-07-15 03:53:20
+77	0x4d	M	2124	10936753	nnb	Mwithe avosi, omunyambyani akasya minyerera aviwe.	\N	2022-06-25 06:06:31	2022-06-25 06:06:32
+78	0x4e	N	2393	10969743	nnb	Nimulwana owe kithuthu ekinaseghere, oyumbithe ekisomeko ekyeranzi eyo mutheghulh'ekirimo emirera nepataro enguhi eyebithi ebyumire. Ambith'esyosokise esithire obuba nebikabisa ebyala ebyomutheghulhe.	\N	2022-07-07 04:41:46	2022-07-07 04:41:47
+79	0x4f	O	2073	10977839	nnb	Okomalangiri wiwe, erihula eri rikalethera embarangania omwavutheke ovomwanadamu. Nekio kika muhira omo hatari nyingi erilhebia 'omubughe oyu musa' inia hwer'oko nzira nguma eyianzire esyo franca.	\N	2022-07-10 04:54:52	2022-07-10 04:54:53
+80	0x50	P	187	10922402	nnb	Omulwana nindi oyukasatha omomwanya wa Petero Pan ?	\N	2022-06-19 04:46:08	2022-06-19 04:46:09
+81	0x51	Q	11	10973064	nnb	Oyukehemera ndeke obughuma bwe bighugho byebuamerika nindi omo "malw'awalhi busana nabasinza" isi Al Qaida ? Ahosi aho obughuma bwe bihugho bukasondi erithema, nabya ibakayi balhira neribugha bathi halhi aba Al-Qaida. Nikubwambu obughuma bwe bihugho bwebuamerika bwangabere buthi butsira aba Al Qaida ?	\N	2022-07-08 05:18:07	2022-07-08 05:18:08
+82	0x52	R	125	11025501	nnb	Alhiwe akahera olhia mundu oyukandisangako ebyaghu birimu ! Embere syabaghala bethu, sosothaya ebikulhebire okwinze, nerio wimayebo. Yakobo abya isyasi ko Rakelhi mwibabio.	\N	2022-07-26 03:49:47	2022-07-26 03:49:48
+83	0x53	S	1378	10988172	nnb	Ovulimundu ghosi alinembangwa eyeriyitheva. Sivulilolo ryosi erikaghanyirawa.	\N	2022-07-14 03:50:12	2022-07-14 03:50:14
+84	0x54	T	899	10970512	nnb	Thukabulhirawa ebipupa alhiwe thunawithe obuthoki bwerithogha.	\N	2022-07-07 05:23:54	2022-07-07 05:23:56
+85	0x55	U	562	10983100	nnb	« Simulungire, namukalhi waghu ? » « Kobine. » « Uweghesa ? Indwe ngabugha nyithi mbino iyehe. »	\N	2022-07-12 04:18:41	2022-07-12 04:18:42
+86	0x56	V	193	10925168	nnb	Ekiro kighuma, Christophe Colomb mwaclangira eki OVNI nakandi mwabwira abalume viwe athi bamupupe omochivuno ekyekimano.	\N	2022-06-20 04:50:14	2022-06-20 04:50:15
+87	0x57	W	549	10958838	nnb	Wakendisya kuwatikya erikuhuhya.	\N	2022-07-03 04:57:46	2022-07-03 04:57:47
+88	0x58	X	5	10917687	nnb	Allô, Xiaojing Zhang aneyo ? Mwangana musaba muthi ase oko nyakutu?	\N	2022-06-17 04:56:05	2022-06-17 04:56:06
+89	0x59	Y	165	11010152	nnb	Yo Toma abiri hir’ekitutu kyekihanda kiwe kyoko mesa yiwe.	\N	2022-07-21 04:14:04	2022-07-21 04:14:05
+90	0x5a	Z	16	10967773	nnb	Mwanasathire oko masatha owe The Legend of Zelda ?	\N	2022-07-06 05:11:04	2022-07-06 05:11:06
 95	0x5f	_	2	10917380	nnb	Erikwamana , ____ Ltd. yikayithekanaya eri hika e Tokyo.	\N	2022-06-17 04:38:53	2022-06-17 04:38:55
-97	0x61	a	13986	10914738	nnb	Mughave akahindi aka mo vihunde makumi aviri vilingirirene.	\N	2022-06-16 04:07:29	2022-06-16 04:07:30
-98	0x62	b	8736	10902466	nnb	Alex abi'akangothondoghwer'ekikulu ne ranji yakyo, mwalhi abia isyalhiatha langirakyo embere.	\N	2022-06-11 09:35:25	2022-06-11 09:35:29
-99	0x63	c	1126	10975170	nnb	Mobaka mubirikira mo Alice, nga songalhi wiwe.	\N	2022-07-09 04:43:05	2022-07-09 04:43:07
-100	0x64	d	6969	10950115	nnb	Uminye eriya hali, kundi, omughulu ukandisyasa oko kasshi, eritondekwa riyaghu rikandisya kala.	\N	2022-06-30 05:02:23	2022-06-30 05:02:24
-101	0x65	e	12960	10938975	nnb	Okomuheryo owakamaranzike kulyo mutsanga.	\N	2022-06-26 05:45:46	2022-06-26 05:45:47
-102	0x66	f	420	10970318	nnb	Wangayifunza kundu imowahamb'akalhasi kenyu.	\N	2022-07-07 05:13:23	2022-07-07 05:13:24
-103	0x67	g	10812	10919819	nnb	Ghubie ighunemusaka aho embere thukubirikire.	\N	2022-06-18 04:16:26	2022-06-18 04:16:28
-104	0x68	h	12323	10907380	nnb	Mumbesa akubah’esyondegheteghe syo kutsibu.	\N	2022-06-13 05:10:24	2022-06-13 05:10:26
-105	0x69	i	13762	10926858	nnb	Ngalhengekanaya ni Sophia Lauren yulhia ngara eryerimbere.	\N	2022-06-21 03:04:01	2022-06-21 03:04:02
-106	0x6a	j	621	10944666	nnb	Luke, njiri baba waghu.	\N	2022-06-28 05:44:28	2022-06-28 05:44:30
-107	0x6b	k	12235	10929660	nnb	Kate Middleton yo wambai mughole wiwe, nayo William Arthur Philip Louis, ekirimu kye Cambridge, comtesse de Strathearn, omutheke we Carrickfergus, maître ès arts.	\N	2022-06-22 05:00:45	2022-06-22 05:00:48
-108	0x6c	l	10501	11004271	nnb	Kilwe kieri swekya.	\N	2022-07-19 04:09:35	2022-07-19 04:09:36
-109	0x6d	m	11536	10906910	nnb	Ebyosi ebyo ukakola nimwanyenda werisagha ekwenene.	\N	2022-06-13 04:43:33	2022-06-13 04:43:34
-110	0x6e	n	13056	10907011	nnb	Ejapani yikanabika omo Azia yemathanga ryuba.	\N	2022-06-13 04:49:31	2022-06-13 04:49:32
-111	0x6f	o	12246	11015651	nnb	Nyinaasi ngoko munemu owa busanaki sithwanga kolakyo.	\N	2022-07-23 03:07:38	2022-07-23 03:07:39
-112	0x70	p	1164	10955772	nnb	Wanaviri sambiromomughongo owepunda ?	\N	2022-07-02 05:14:27	2022-07-02 05:14:29
-113	0x71	q	77	11016044	nnb	Ebika hika omo e historia bika leka omubughe webi minyikalo ebiomo buamerika inia sossa kanji kanji ebiminyikalo ebiobufaranza nebio britannique.	\N	2022-07-23 03:28:47	2022-07-23 03:28:48
-114	0x72	r	10894	11003723	nnb	Echihengemire sichangahengemulwa.	\N	2022-07-19 03:39:23	2022-07-19 03:39:24
-115	0x73	s	9825	10974801	nnb	Wamabitheka enzakanoyawe omokisanduku embere syesahikumi, iyi kandisya hika enjiakya.	\N	2022-07-09 04:22:02	2022-07-09 04:22:03
-116	0x74	t	8970	11007231	nnb	Ngalhengekanaya wanga wathukirie.	\N	2022-07-20 04:08:43	2022-07-20 04:08:45
-117	0x75	u	12270	10949992	nnb	Hane ekibuthe ekye sashi omokathatha kano ?	\N	2022-06-30 04:55:23	2022-06-30 04:55:24
-118	0x76	v	4125	10907559	nnb	Ulhimughalimu ave Israelhi « Yesu kwavughathya ».	\N	2022-06-13 05:21:07	2022-06-13 05:21:09
-119	0x77	w	10182	10985488	nnb	Yo Linda amaya huk'akawa.	\N	2022-07-13 03:42:45	2022-07-13 03:42:47
-120	0x78	x	49	10988240	nnb	L’hydroxyde eye sodium yikakoleshivawa omwikakothia akasavu.	\N	2022-07-14 03:53:57	2022-07-14 03:53:59
-121	0x79	y	11257	10962257	nnb	Simundu muthiamuthia ngoko mulengekanirye.	\N	2022-07-04 05:40:06	2022-07-04 05:40:07
-122	0x7a	z	2496	10959178	nnb	Ngandi zima emyatsi minene omo mashini waghe werihandikamo.	\N	2022-07-03 05:17:22	2022-07-03 05:17:24
-160	0xa0	 	25	11025364	nnb	Unalhengekenie ngo kina tholere ?	\N	2022-07-26 03:42:05	2022-07-26 03:42:06
+97	0x61	a	13986	11015692	nnb	Okwinye, nanganzire erikighusa omolhusi, alhiwe omukulu amambwirathi nyimusuvuliryekio.	\N	2022-07-23 03:09:49	2022-07-23 03:09:51
+98	0x62	b	8736	11010387	nnb	Sinyassi nganibulhengekenia obwene.	\N	2022-07-21 04:27:03	2022-07-21 04:27:04
+99	0x63	c	1126	10949871	nnb	Omwilindirir’eromusuvinja Alice mwashishirevwe n’eribunja lya mulhenge munye. Yabya fuyo nene, nyiri eyanga thulir'amatwi, nyingi kundu nolubula lwangowireyo.	\N	2022-06-30 04:48:26	2022-06-30 04:48:27
+100	0x64	d	6969	10917954	nnb	Omundu angana subirya bweghubweghu okomabulhywayo.	\N	2022-06-17 05:10:28	2022-06-17 05:10:30
+101	0x65	e	12960	11000845	nnb	Navyanamaha weri vaha ekyo mutalalirye.	\N	2022-07-18 05:12:34	2022-07-18 05:12:35
+102	0x66	f	420	10952930	nnb	Omomuvughe waghe, esyonjakano esyehishimo syahino : do, re, mi, fa, sol, la ne si.	\N	2022-07-01 04:16:47	2022-07-01 04:16:48
+103	0x67	g	10812	10933915	nnb	Evipimo muvikavya kavine ekohathe erilwa viro vinji mangaha.	\N	2022-06-24 04:56:21	2022-06-24 04:56:22
+104	0x68	h	12323	10939416	nnb	Kikandivya kyamuhungo erirondya okumano akakandishasonndya emilondo eyirimo evihambwa vyemirenge, evivinulwa evirimwemirenge nerihika oko vithuva evyemirenge.	\N	2022-06-26 06:09:57	2022-06-26 06:09:59
+105	0x69	i	13762	11010342	nnb	"Omughulu yo Ulysse akwa engumbu, /simutagherwe, eritha engabo eyi,/ omokikuthukuthu inianemu lir'ebitsibu biwe ebiomwirima, /akayililirako omo biro biwebikasa, / monasihere omo kyusi kyeribyaho ryaghe riosi. "	\N	2022-07-21 04:24:38	2022-07-21 04:24:39
+106	0x6a	j	621	11022549	nnb	Ehe, kyanja ! Tukandi kolerebiosi oko ndambi nguma !	\N	2022-07-25 04:21:50	2022-07-25 04:21:51
+107	0x6b	k	12235	10933928	nnb	Thukasatha oko mupira omobuli poso.	\N	2022-06-24 04:57:06	2022-06-24 04:57:07
+108	0x6c	l	10501	10970473	nnb	Abo Maratha mubatubirikire oko muyibaghalo wabo.	\N	2022-07-07 05:21:44	2022-07-07 05:21:45
+109	0x6d	m	11536	10955260	nnb	Ngibuka kanzikanzi obwana bwaghe obutsemesirye.	\N	2022-07-02 04:45:20	2022-07-02 04:45:22
+110	0x6e	n	13056	10941963	nnb	Omongunza yaghu mulhiki ?	\N	2022-06-27 05:23:12	2022-06-27 05:23:13
+111	0x6f	o	12246	10947956	nnb	Okonzuko, nyilwe ngalhebia emilondo eye kifranza, alhiw'embere nyibye nobulhengekania, monahamba omwilabira omubindulo.	\N	2022-06-29 05:59:26	2022-06-29 05:59:27
+112	0x70	p	1164	10950145	nnb	Nyiwe nyi kukuberer eri langira ekipia kyethu ekia kaghulughulu kika sindwa kitya.	\N	2022-06-30 05:04:02	2022-06-30 05:04:03
+113	0x71	q	77	11021763	nnb	Lhino erithulq esyongulu okobinimba noko bisasamira ryoriri.	\N	2022-07-25 03:38:09	2022-07-25 03:38:11
+114	0x72	r	10894	10935934	nnb	Navya navirighulhya ekisengula kyaghe.	\N	2022-06-25 05:29:16	2022-06-25 05:29:18
+115	0x73	s	9825	10939496	nnb	Erilaba omomulhengo lughuma, ebironda sibilama luba.	\N	2022-06-26 06:14:03	2022-06-26 06:14:05
+116	0x74	t	8970	10972557	nnb	Abandu basathu babia bakasa ibanemulheta erilwir'e Sicile ibakasir'omo righunga.	\N	2022-07-08 04:49:26	2022-07-08 04:49:27
+117	0x75	u	12270	10980503	nnb	Tom akabuka hano nenyu ?	\N	2022-07-11 04:39:52	2022-07-11 04:39:53
+118	0x76	v	4125	10914040	nnb	Omukana waghu alwewerivindula.	\N	2022-06-16 03:28:36	2022-06-16 03:28:37
+119	0x77	w	10182	10929599	nnb	Enzira eyovakolhesaya yavyayowene.	\N	2022-06-22 04:54:39	2022-06-22 04:54:42
+120	0x78	x	49	10968349	nnb	Eki ? Alex, abia mukali ? Ngabia ngalhengekanaya nganimulwana.	\N	2022-07-06 05:44:10	2022-07-06 05:44:11
+121	0x79	y	11257	10950136	nnb	E comité kiekikumula kiabandu ekio sikianga kola kindu omundu iyuwene aliwe ekiangahinganisaya abandu ngekikumula ekiangana imia emipango.	\N	2022-06-30 05:03:31	2022-06-30 05:03:33
+122	0x7a	z	2496	11025583	nnb	Abalhasi abaharabu nabanya Algerie mobakaghus'amasasi oko balwana abalwe bakayitsatsang'omo ghenda. Mobakith'abandu ighana righuma makumi abiri nomunani abakabyle namubakayira enzighe nenzighe eyaba kabyle mobirema.	\N	2022-07-26 03:54:14	2022-07-26 03:54:15
+160	0xa0	 	25	10947868	nnb	« Niherya endambi yo buyira yawitheko, omwigha oyulhia thumawa. » «Aghambire, nibwambu sindi na mbugha. »	\N	2022-06-29 05:54:27	2022-06-29 05:54:28
 167	0xa7	§	1	10953593	nnb	Ebighendererwako bithanu ebyeribyaho : §1 Siwalhengekanya ! §2 Omughul'ukalhengekanaya, isiwabugha ! §3 Omughul'ukabugha, isiwasaka ! §4 Omughul'ukahandika, isiwatheka eyisembo ! §5 Omughul'ukatekeyisembo, nikwa isiwasweka !	\N	2022-07-01 04:54:22	2022-07-01 04:54:23
-171	0xab	«	207	10978125	nnb	« Nikwa Tom alusaya hayi ershika omo kifranza ? Syalhyathahika nomo kighugho kighuma ekyobakabughamo ekifranza na kandi syawithe abenzi biwe abakabugha ekifranza. » « Ngalhengekanaya akasamalhira ebisesani binene ebye kifranza oko kisengula. »	\N	2022-07-10 05:11:08	2022-07-10 05:11:10
-187	0xbb	»	214	10945205	nnb	“Allo, inga, evisenge vyavo Dumoulin, kuthi!” »	\N	2022-06-28 06:14:59	2022-06-28 06:15:00
-201	0xc9	É	7	10980038	nnb	Michael Jackson asibwe kutsibu e États-Unis.	\N	2022-07-11 04:13:35	2022-07-11 04:13:36
-224	0xe0	à	3	11000209	nnb	« What à Wonderful World » nikighuma kyoko bihande byagh'ebyanzwa.	\N	2022-07-18 03:26:49	2022-07-18 04:40:41
-225	0xe1	á	71	11021859	nnb	Eyenga yewithe birwirinda : twátogere, lingílingi, sítwámínya, byalengekanyâ, byasongyâ, ákalángira.	\N	2022-07-25 03:43:29	2022-07-25 03:43:31
-226	0xe2	â	23	11010259	nnb	Wabya wabi subya esyosanamu omo byala bya Anchize, mwamu hekiriebindu oko bitiho biwe, ama laba omo mulongo wossi, aka sokeroko kitwâ kye Ida.	\N	2022-07-21 04:19:58	2022-07-21 04:20:00
+171	0xab	«	207	10974961	nnb	« Mince, ebateri yaghe yikandinyilheka. » « Wangahirire momulhir'omughul'ulweughotsere. »	\N	2022-07-09 04:31:18	2022-07-09 04:31:20
+187	0xbb	»	214	11025421	nnb	Iniakakola okwibugha akasololo akakahulawamo apartheid, e « le Zoulou blanc » moyaminyibwe okwilabira ehihuka, ehimbo ehika kanganaya eribiahaghuma riabandu oko kighugho.	\N	2022-07-26 03:45:20	2022-07-26 03:45:21
+201	0xc9	É	7	11004044	nnb	Embimbano ya Élysée ni luthere lwiwe olukavanika okwighanza makumi awathanu, luyira olwe Faubourg-Saint-Honoré e Paris.	\N	2022-07-19 03:57:14	2022-07-19 03:57:15
+224	0xe0	à	3	10958352	nnb	Hé là! Mwende naye bolobolo!	\N	2022-07-03 04:29:32	2022-07-03 04:29:33
+225	0xe1	á	71	10980088	nnb	Esyónzwirí syághu sisosire siti kwe ?	\N	2022-07-11 04:16:24	2022-07-11 04:16:25
+226	0xe2	â	23	10907449	nnb	Tatá waghe abya biryumby’eryómotyâ hatyahatya.	\N	2022-06-13 05:14:16	2022-06-13 05:14:18
 227	0xe3	ã	1	10936230	nnb	Carlos akandi ghenda e São Paulo omolinjilinji.	\N	2022-06-25 05:42:27	2022-06-25 05:42:29
 228	0xe4	ä	1	10953543	nnb	Siwangasaka « Pfirsichbäumchen » ? Nicholo !	\N	2022-07-01 04:51:28	2022-07-01 04:51:29
-231	0xe7	ç	3	10994660	nnb	Pierrette aperçut mwalolire oko murafiki wiwe, alicho mwakola ekiminyikalo nga kithiko thiko okwi mu bissa.	\N	2022-07-16 04:35:43	2022-07-16 04:35:44
-232	0xe8	è	27	11010052	nnb	" O buba ! Eki ! Pallas, omughothe nuyira mwaka ghusa ovuthuku voko vanya Grèce ; /valhassi, vasondolhya, avoshi movahwera omomeswiwe : ivusanaki ? Vusananomandu oyuhithene. "	\N	2022-07-21 04:08:27	2022-07-21 04:08:29
-233	0xe9	é	179	10930012	nnb	Ekisayi eki, ni muviri we mwalimu munya néerland.	\N	2022-06-22 05:38:32	2022-06-22 05:38:35
-234	0xea	ê	16	10912201	nnb	Ebithi ebi bikabya ngomugombwê kutse ngomúlyánzúki omughulu wo miwisi.	\N	2022-06-15 04:35:00	2022-06-15 04:35:01
+231	0xe7	ç	3	10914362	nnb	Omughulu wovusukwa vwaghe, inyinaveherwe ovuyingo nyihanike, ngambè indyayatyo, aliwe engumbu yeriçond’imuya akalasi kemighanzo yoyavia iknikakinya eritl’ekitsikino.	\N	2022-06-16 03:46:37	2022-06-16 03:46:38
+232	0xe8	è	27	10939247	nnb	Eyikaghulawamo ADN nikindu kie bikalire kundu bika hulawamo gène omo kifranza.	\N	2022-06-26 06:01:11	2022-06-26 06:01:12
+233	0xe9	é	179	10920417	nnb	Mwangabuyireki okwi satha oko karité?	\N	2022-06-18 05:18:28	2022-06-18 05:18:30
+234	0xea	ê	16	10917923	nnb	Omukwirwa abyakwire akásowésowê akekıḩ́û̧.	\N	2022-06-17 05:08:49	2022-06-17 05:08:50
 235	0xeb	ë	2	11022002	nnb	Walekisya kirirya "Père Noël" ewuwite virimo vingahi ?	\N	2022-07-25 03:51:28	2022-07-25 03:51:29
-237	0xed	í	37	10941711	nnb	« Nangana yihandíka oko byosi, butsir'okwilholho. » ekyo ni kinywa kya yo Oscar Wilde.	\N	2022-06-27 05:08:35	2022-06-27 05:08:36
+237	0xed	í	37	10985712	nnb	Thukandi kola eryasa ryethu omosítwámínya.	\N	2022-07-13 03:55:48	2022-07-13 03:55:49
 238	0xee	î	2	10929660	nnb	Kate Middleton yo wambai mughole wiwe, nayo William Arthur Philip Louis, ekirimu kye Cambridge, comtesse de Strathearn, omutheke we Carrickfergus, maître ès arts.	\N	2022-06-22 05:00:45	2022-06-22 05:00:48
-239	0xef	ï	5	10950402	nnb	Daniel asosire abanya Ouïgour.	\N	2022-06-30 05:18:22	2022-06-30 05:18:24
-243	0xf3	ó	25	10914434	nnb	Ngoko ekíhombógólo kikarondaya, aherinera amayaya,ebithi ebihambire nga; nomupe kwakana tuthakira atya oko syotseme syethu.	\N	2022-06-16 03:50:32	2022-06-16 03:50:34
-244	0xf4	ô	30	10917687	nnb	Allô, Xiaojing Zhang aneyo ? Mwangana musaba muthi ase oko nyakutu?	\N	2022-06-17 04:56:05	2022-06-17 04:56:06
-249	0xf9	ù	2	10950013	nnb	Omoùitsange eno, obulhengekanya obuwene mobuka nyasira. Allhiwe hathia nithika thika ryerikanyasira.	\N	2022-06-30 04:56:36	2022-06-30 04:56:37
-250	0xfa	ú	66	10909121	nnb	Ekíkumúlâ, busananeríhitána kikaghusanga ebindu byokobapolishi.	\N	2022-06-14 04:38:27	2022-06-14 04:38:28
+239	0xef	ï	5	10929773	nnb	Al Qaïda, ni nzira nge Manpower.	\N	2022-06-22 05:12:43	2022-06-22 05:12:46
+243	0xf3	ó	25	10953355	nnb	Ekikulu, sikyekiyiro kikulu ekyoghulhia somerakyo nerisangirak'erip̧olóme, alhiw'ebyowigha omughulu wabyayo.	\N	2022-07-01 04:41:04	2022-07-01 04:41:06
+244	0xf4	ô	30	10988401	nnb	Allô ! Oyukabugha nindi? Sighunyasi? Ninje, Aldo!	\N	2022-07-14 04:02:51	2022-07-14 04:02:52
+249	0xf9	ù	2	11010578	nnb	Avandu vakakolhesayomengashi eryingiraùo nerihuluka.	\N	2022-07-21 04:37:12	2022-07-21 04:37:14
+250	0xfa	ú	66	10933536	nnb	Condillac, haghuma nobuthulhi, mwasumb'amalhengekania ekinywa ekyo mulhimu, kyabya kikakokothia omubughe nebiminyikalo ebyo mundu oyukandi lhetha obulhengekania, akaghulikira omwi thula ebyerighenderako bya Locke ngomu̧laghú̧li molo.	\N	2022-06-24 04:35:08	2022-06-24 04:35:09
 251	0xfb	û	5	10918072	nnb	Mwakambwira ati akandi syaya e Paris oko mwisi we août.	\N	2022-06-17 05:17:06	2022-06-17 05:17:07
 265	0x109	ĉ	1	10947194	nnb	Enyakota yo busiperanto inawite eriruba nga bihonye bibiri n'omúnani :a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:30	2022-06-29 05:15:32
 285	0x11d	ĝ	1	10947194	nnb	Enyakota yo busiperanto inawite eriruba nga bihonye bibiri n'omúnani :a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:30	2022-06-29 05:15:32
-291	0x123	ģ	2	10982846	nnb	Yabya omwiģhologólo y'esítwámínya, inama berererya endaghane namulaghanira.	\N	2022-07-12 04:05:20	2022-07-12 04:05:21
+291	0x123	ģ	2	10931488	nnb	Obusyakulu bukathu hambisaya emikwarari omokirimu kulhenga omobusu; nasibulangira kirimu, kutse kulaba kutsibu, omughul'omundu akalaba syalhiow'eriģhagiŗyâ kuts'ekihondo.	\N	2022-06-23 04:46:21	2022-06-23 04:46:22
 293	0x125	ĥ	1	10947194	nnb	Enyakota yo busiperanto inawite eriruba nga bihonye bibiri n'omúnani :a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:30	2022-06-29 05:15:32
-305	0x131	ı	34	10922466	nnb	Alhinga munga humira esyombıņ́ga siwe.	\N	2022-06-19 04:49:50	2022-06-19 04:49:52
+305	0x131	ı	34	10941896	nnb	Akalıķ́u̧ku̧ kakaghuluka erilwa e San Francisco erihika eNiwiYorko.	\N	2022-06-27 05:19:12	2022-06-27 05:19:14
 309	0x135	ĵ	1	10947194	nnb	Enyakota yo busiperanto inawite eriruba nga bihonye bibiri n'omúnani :a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:30	2022-06-29 05:15:32
-311	0x137	ķ	6	10924928	nnb	Ekírô kighuma, ukandi sy'á̧yiķú̧byá bómó.	\N	2022-06-20 04:36:27	2022-06-20 04:36:28
-316	0x13c	ļ	2	11022603	nnb	Ngalhengekanaya obulhi bwabigha bafranza bakakolesaya kutse mubakakolhesaya ebipulhi ebyekiļalanyú̧ma.	\N	2022-07-25 04:24:51	2022-07-25 04:24:52
-326	0x146	ņ	10	10936214	nnb	Omulhiki akaya ohoembıņ́dwa ikakurirayo.	\N	2022-06-25 05:41:50	2022-06-25 05:41:51
+311	0x137	ķ	6	10941896	nnb	Akalıķ́u̧ku̧ kakaghuluka erilwa e San Francisco erihika eNiwiYorko.	\N	2022-06-27 05:19:12	2022-06-27 05:19:14
+316	0x13c	ļ	2	10920037	nnb	Nyinya waghe syasi erisoma butsira ekiļangıŗ́i.	\N	2022-06-18 04:28:52	2022-06-18 04:28:53
+326	0x146	ņ	10	10909155	nnb	Olu̧hıņ́di lwomú̧sıţ́u̧’oyu nilwobunya mundu.	\N	2022-06-14 04:40:23	2022-06-14 04:40:24
 339	0x153	œ	1	10985972	nnb	Gœthe akabuha handu halebe, omo kithabu kiwe ekie Wilhelm Meister, «ngoko ekithabu kiobulhengekania kina pasweribia ndeke, kutse sikianga biaho». Nero endekerano eyo yamabia iyi kalire neri kwama, ebitabu bingahi bio biangabereho eritsukoko Wilhelm Meister iyuwene.	\N	2022-07-13 04:10:31	2022-07-13 04:10:33
 341	0x155	ŕ	1	10950668	nnb	Isiwabugha tabutabu, mulwana,omukara mwabugh'atya inya sunzire. Nyamuhang'akikuthakira, inyanganakuyiram'omu̧sıŕe; ngubaha eribya iwangabya iwaber'omusire, kundi ulhimubugha kityakitya ngamundu oyutawite bwenge.	\N	2022-06-30 05:32:29	2022-06-30 05:32:31
-343	0x157	ŗ	13	10931488	nnb	Obusyakulu bukathu hambisaya emikwarari omokirimu kulhenga omobusu; nasibulangira kirimu, kutse kulaba kutsibu, omughul'omundu akalaba syalhiow'eriģhagiŗyâ kuts'ekihondo.	\N	2022-06-23 04:46:21	2022-06-23 04:46:22
+343	0x157	ŗ	13	10929260	nnb	Omukanya womulembya werimbere alwemuke, kandi mwaka hitania ábámuıţ́sú̧rıŗ́e.	\N	2022-06-22 04:21:26	2022-06-22 04:21:29
 349	0x15d	ŝ	1	10947194	nnb	Enyakota yo busiperanto inawite eriruba nga bihonye bibiri n'omúnani :a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:30	2022-06-29 05:15:32
-351	0x15f	ş	10	10985996	nnb	Ah, Mulumuna ! Mwangana ly'epusu yaghe, kış́i !	\N	2022-07-13 04:11:50	2022-07-13 04:11:51
-355	0x163	ţ	7	10917539	nnb	Omumbesa mwayikása erıţ́atogongy’émişónia̧.	\N	2022-06-17 04:47:56	2022-06-17 04:47:57
+351	0x15f	ş	10	10920169	nnb	Uthw'eyış́wı ̧̂ momaghabomake make.	\N	2022-06-18 05:04:22	2022-06-18 05:04:23
+355	0x163	ţ	7	10914408	nnb	Erikwamana nomukolano wa Gunnar Samuelsson, Yesu mwathita holerokomusalaba. Alhinga mwaholer'oko muthi kuste okokıḩ́iŗiņgiţi kyomuthi.	\N	2022-06-16 03:49:12	2022-06-16 03:49:14
 365	0x16d	ŭ	1	10947194	nnb	Enyakota yo busiperanto inawite eriruba nga bihonye bibiri n'omúnani :a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	\N	2022-06-29 05:15:30	2022-06-29 05:15:32
-769	0x301	́	31	10920037	nnb	Nyinya waghe syasi erisoma butsira ekiļangıŗ́i.	\N	2022-06-18 04:28:52	2022-06-18 04:28:53
+769	0x301	́	31	10924370	nnb	Omukali mwakima oko kitumbi. Kandi mwaķ́ ebu̧liŗye okolú̧kyô.	\N	2022-06-20 04:02:58	2022-06-20 04:03:00
 770	0x302	̂	1	10920169	nnb	Uthw'eyış́wı ̧̂ momaghabomake make.	\N	2022-06-18 05:04:22	2022-06-18 05:04:23
-807	0x327	̧	70	10970431	nnb	Nyinya wiwe mw'akongot’okó lú̧kyô.	\N	2022-07-07 05:19:20	2022-07-07 05:19:22
+807	0x327	̧	70	10997672	nnb	Ngayib̧́u̧laya̧ nga yo Toma asi ebyo Maria akolire.	\N	2022-07-17 04:31:38	2022-07-17 04:31:39
 7506	0x1d52	ᵒ	1	10980311	nnb	Ibine omokihuhania 240ᵒ C nerikima omo mathondi tanu oko 200ᵒC; lheka omomathondi ikumi. Utheghereraya ndeke omuhuko !	\N	2022-07-11 04:29:03	2022-07-11 04:29:04
 7697	0x1e11	ḑ	1	10914497	nnb	Omukolhi mwakingira inyana hekir'erıţ́sáıḑ́ongo.	\N	2022-06-16 03:54:14	2022-06-16 03:54:15
 7717	0x1e25	ḥ	1	11025730	nnb	Thuh'olukengerwa lo MoḥYa, mwitutamubirirwa, mbino yukathwowa, vusana aneho erihikanalhino omwilavir'evinywa biwe, kera nakera.	\N	2022-07-26 04:02:03	2022-07-26 04:02:05
-7721	0x1e29	ḩ	5	10952851	nnb	Omú̧lıḩ́i ̧ weriwa aloberere ngomunywe wo lumekeke.	\N	2022-07-01 04:12:19	2022-07-01 04:12:21
+7721	0x1e29	ḩ	5	11013227	nnb	Omughulu emıḩ́u̧hiŗe'yekihugho ikanya wo mughulu na malwa akakanya.	\N	2022-07-22 02:40:55	2022-07-22 02:40:57
 7743	0x1e3f	ḿ	2	10964443	nnb	Erış́ıḿ̧ba, erilhira, erisaba nibya muhotherikola. Kolomubiri mulhitho waghu omolhulhengo olo erikingika ryeribyaho rika kubirikira, neryo enyuma syaho, nganze, uteseke nerihola butsirabugha kindu.	\N	2022-07-05 04:42:29	2022-07-05 04:42:31
 7883	0x1ecb	ị	1	11746039	nnb	Ka ọ na-amachaghị banyere ya, ọ ka mma.	Eduzitos	2023-05-07 22:12:22	2023-05-07 22:12:22
 7885	0x1ecd	ọ	1	11746039	nnb	Ka ọ na-amachaghị banyere ya, ọ ka mma.	Eduzitos	2023-05-07 22:12:22	2023-05-07 22:12:22
 8201	0x2009	 	2	10955366	nnb	Akalhikiliki kahyaka ake « Take That », kakamatula !	\N	2022-07-02 04:51:31	2022-07-02 04:51:32
 8211	0x2013	–	2	11003615	nnb	Frantz de Galais, mughala wowombimbano yomwami –oyo qbyq ;zighq kutse mulhasi womomaghetse, isi twasi...-mwayir'e Bourgues akaya sondiay'omumbesa nerimutahya.	\N	2022-07-19 03:33:23	2022-07-19 03:33:24
-8212	0x2014	—	7	10983783	nnb	« Olukuratho olwamunabwire lukendi bugha kuki ? » — « Biabi lebirye e wanzirendi yabanya Russie oko mwaka we 1812. »	\N	2022-07-12 04:56:24	2022-07-12 04:56:26
+8212	0x2014	—	7	10980490	nnb	« Ekitsatsamíro, Ekitsatsamíro okoluhimbi, oyuwene omokihugho kyossi nindi ? » — « Oyo lukengerwa, mughole, uwene nga, uhambire kundu, hali we, yo Blanche-Neige uwene kukulaba. »	\N	2022-07-11 04:39:08	2022-07-11 04:39:10
 8216	0x2018	‘	2	11012561	nnb	Ngalapa emberesyo munyambiani, omundu wahano amavugha athi ‘’ Akangiti kanene’’ imwevosi imwamavihola.	\N	2022-07-22 02:05:36	2022-07-22 02:05:37
-8217	0x2019	’	305	10961685	nnb	Ngok’omututa mwakamala hakuhi nayeng’aviri, aliwe twangana minya ngoko, embegho kutse eritsuku eryokonzuko yo mukera we likumi ne bibiri, vikatuha amaha bw’erisat'oko nwili omo kabembere kabuya.	\N	2022-07-04 05:07:53	2022-07-04 05:07:54
-8220	0x201c	“	17	11010365	nnb	“Calchas akahuna omoviro ikumi, ovughanyiri sivulhiho, mwimire omundu. "	\N	2022-07-21 04:25:51	2022-07-21 04:25:53
-8221	0x201d	”	13	10958709	nnb	Marie mwakaha mughala wiwe ye rina rya “Adam” omevukarya thatha wiwe oyo wavya holhire.	\N	2022-07-03 04:50:21	2022-07-03 04:50:22
-8230	0x2026	…	24	11025945	nnb	Sihakiri omundu oyukaheraya olufungúra lwe ngurubani yiwe omokihugho eky'obulhi mundu eribyaho riwe ryabirihambwa…omundu athithasyaminya ahwalyasigha ebisasamira biwe nero kobine !	\N	2022-07-26 04:14:33	2022-07-26 04:14:34
-8239	0x202f	 	60	10930028	nnb	Aie ! Monga nyiehia eminwe yomo milhango !	\N	2022-06-22 05:40:24	2022-06-22 05:40:26
+8217	0x2019	’	305	10978032	nnb	Mutasya watikya n’owundi.	\N	2022-07-10 05:05:55	2022-07-10 05:05:57
+8220	0x201c	“	17	11015869	nnb	“Scylla, evivawa anavwe, okavirikirirawa halhi omo mavwe aghovuva,/ nomomighende eyikalasa mwevisanda/ mukalasa bikalaka. "	\N	2022-07-23 03:19:19	2022-07-23 03:19:20
+8221	0x201d	”	13	10945205	nnb	“Allo, inga, evisenge vyavo Dumoulin, kuthi!” »	\N	2022-06-28 06:14:59	2022-06-28 06:15:00
+8230	0x2026	…	24	10972262	nnb	Echuma echikalevaya ohomuviri amavera chinamulolya ekasweswe, neripulisha kuthia… akavulavuhumule vuvuya.	\N	2022-07-08 04:32:48	2022-07-08 04:32:50
+8239	0x202f	 	60	10933636	nnb	« Omundu syeminya, anganavughe kwenene. » «Ouais, emiyisa nimike ! »	\N	2022-06-24 04:40:49	2022-06-24 04:40:50
 8477	0x211d	ℝ	1	10994839	nnb	ℝ niyabanya archimédien : oko x, hane ekindu kinene okuilenga e x.	\N	2022-07-16 04:46:09	2022-07-16 04:46:11
 8722	0x2212	−	1	10939073	nnb	Koyo Charrigaud, emwisi syamaseka wiwe, abiakalhengekania :−kikiru kyahi, Victor!	\N	2022-06-26 05:51:20	2022-06-26 05:51:21

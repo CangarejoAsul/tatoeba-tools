@@ -1,59 +1,59 @@
-32	0x20	 	75	7830664	arg	Me fas falta.	\N	2019-03-30 15:58:14	2020-11-12 09:48:55
-33	0x21	!	34	7830684	arg	Deixa-me solenco!	\N	2019-03-30 16:04:54	2020-11-12 09:47:47
-39	0x27	'	14	7830668	arg	Que t'amillores.	\N	2019-03-30 15:59:23	2020-11-12 09:48:52
+32	0x20	 	75	7830632	arg	Por favor, charra mas lento.	\N	2019-03-30 15:47:57	2020-11-12 09:50:04
+33	0x21	!	34	7830674	arg	Grite a la policía!	\N	2019-03-30 16:01:21	2020-11-12 09:48:12
+39	0x27	'	14	4649837	arg	T'án vas?	\N	2015-10-28 05:30:25	2015-11-04 05:57:59
 44	0x2c	,	7	7830632	arg	Por favor, charra mas lento.	\N	2019-03-30 15:47:57	2020-11-12 09:50:04
-45	0x2d	-	10	7830685	arg	Deixa-me solenca!	\N	2019-03-30 16:05:10	2020-11-12 09:47:46
-46	0x2e	.	48	7830655	arg	Per favor.	\N	2019-03-30 15:54:18	2020-11-12 09:50:40
-63	0x3f	?	21	7830639	arg	Charra aragonés?	\N	2019-03-30 15:49:52	2020-11-03 12:36:37
-65	0x41	A	9	4649812	arg	Aón vas?	\N	2015-10-28 05:24:27	2015-11-04 05:58:00
-66	0x42	B	12	7830618	arg	Buena suerte.	\N	2019-03-30 15:43:00	2020-11-12 09:47:00
-67	0x43	C	9	7830645	arg	Cómo se diz XXX en anglés?	\N	2019-03-30 15:51:49	2020-11-12 09:46:11
-68	0x44	D	7	7830685	arg	Deixa-me solenca!	\N	2019-03-30 16:05:10	2020-11-12 09:47:46
-69	0x45	E	6	7830629	arg	Entiendo!	\N	2019-03-30 15:46:04	2020-11-12 09:50:42
+45	0x2d	-	10	7830683	arg	Vaiga-se-ne.	\N	2019-03-30 16:04:43	2020-11-12 09:47:48
+46	0x2e	.	48	7830618	arg	Buena suerte.	\N	2019-03-30 15:43:00	2020-11-12 09:47:00
+63	0x3f	?	21	7830650	arg	Quanto ye?	\N	2019-03-30 15:53:10	2020-11-12 09:47:28
+65	0x41	A	9	7830670	arg	Aduya!	\N	2019-03-30 16:00:16	2020-11-12 09:48:20
+66	0x42	B	12	4648464	arg	Bienveniu a Tatoeba.	\N	2015-10-27 17:03:53	2015-11-04 05:58:10
+67	0x43	C	9	7830593	arg	Cómo se clama?	\N	2019-03-30 15:37:13	2020-11-12 09:49:30
+68	0x44	D	7	7830686	arg	Deixa-me solenca.	\N	2019-03-30 16:05:45	2020-11-12 09:47:44
+69	0x45	E	6	7830598	arg	Encantada.	\N	2019-03-30 15:38:20	2020-11-12 09:51:38
 70	0x46	F	1	7830671	arg	Fuego!	\N	2019-03-30 16:00:27	2020-11-12 09:48:14
 71	0x47	G	6	4648451	arg	Güen diya a totz.	\N	2015-10-27 16:56:36	2015-11-04 05:58:12
-74	0x4a	J	2	7830596	arg	Me digo Jack.	\N	2019-03-30 15:37:32	2020-11-12 09:51:02
+74	0x4a	J	2	7830592	arg	Me clamo Jack.	\N	2019-03-30 15:36:34	2020-11-12 09:49:32
 75	0x4b	K	1	3805787	arg	O Burch Khalifa ye actualment o gratacielos más alto d'o mundo.	Balamax	2015-01-28 17:22:04	2015-01-30 14:10:17
 76	0x4c	L	1	7006845	arg	Lui è stato d'accordo.	Guybrush88	2018-07-20 13:10:10	2018-07-20 13:10:10
-77	0x4d	M	5	7830592	arg	Me clamo Jack.	\N	2019-03-30 15:36:34	2020-11-12 09:49:32
-78	0x4e	N	7	4649920	arg	No soi doctor.	\N	2015-10-28 06:15:19	2015-11-04 05:57:57
+77	0x4d	M	5	7830664	arg	Me fas falta.	\N	2019-03-30 15:58:14	2020-11-12 09:48:55
+78	0x4e	N	7	4649908	arg	No quiero ir a l'escuela.	\N	2015-10-28 06:08:14	2015-11-04 05:57:58
 79	0x4f	O	2	7830589	arg	Ola!	\N	2019-03-30 15:34:05	2020-11-12 09:48:38
-80	0x50	P	10	7830634	arg	Por favor, charre mas lento!	\N	2019-03-30 15:48:16	2020-11-12 09:46:36
-81	0x51	Q	14	7830663	arg	Quieres bailar con yo?	\N	2019-03-30 15:58:06	2020-11-12 09:49:04
+80	0x50	P	10	7830648	arg	Perdona.	\N	2019-03-30 15:52:51	2020-11-12 09:47:27
+81	0x51	Q	14	7830626	arg	Qué aprofeite!	\N	2019-03-30 15:44:43	2020-11-12 09:50:09
 83	0x53	S	6	7830643	arg	Sí, una mica.	\N	2019-03-30 15:51:06	2020-11-12 09:46:16
-84	0x54	T	7	4648456	arg	Me clamo Tom.	\N	2015-10-27 16:59:01	2015-11-04 05:58:11
+84	0x54	T	7	7809596	arg	Toz os ombres naxen libres y iguals en dinidat y en dreitos. Adotatos de razón y de conzenzia, deben apachar-sen unos con atros d'una manera freternal.	\N	2019-03-14 13:50:00	2020-11-12 09:48:32
 85	0x55	U	1	4919881	arg	Un pantasma recorre Europa – o pantasma d'o comunismo.	Balamax	2016-02-18 06:33:31	2016-02-18 06:35:26
-86	0x56	V	4	7830683	arg	Vaiga-se-ne.	\N	2019-03-30 16:04:43	2020-11-12 09:47:48
+86	0x56	V	4	7830682	arg	Vaiga-se-ne!	\N	2019-03-30 16:04:39	2020-11-12 09:47:49
 88	0x58	X	1	7830645	arg	Cómo se diz XXX en anglés?	\N	2019-03-30 15:51:49	2020-11-12 09:46:11
-97	0x61	a	83	7809615	arg	No n'he visto como aquello.	\N	2019-03-14 14:04:01	2020-11-12 09:48:34
-98	0x62	b	11	7809596	arg	Toz os ombres naxen libres y iguals en dinidat y en dreitos. Adotatos de razón y de conzenzia, deben apachar-sen unos con atros d'una manera freternal.	\N	2019-03-14 13:50:00	2020-11-12 09:48:32
-99	0x63	c	39	7809615	arg	No n'he visto como aquello.	\N	2019-03-14 14:04:01	2020-11-12 09:48:34
-100	0x64	d	32	7830604	arg	Buena tardi!	\N	2019-03-30 15:40:01	2020-11-12 09:49:48
-101	0x65	e	72	4919881	arg	Un pantasma recorre Europa – o pantasma d'o comunismo.	Balamax	2016-02-18 06:33:31	2016-02-18 06:35:26
-102	0x66	f	14	7830634	arg	Por favor, charre mas lento!	\N	2019-03-30 15:48:16	2020-11-12 09:46:36
-103	0x67	g	21	7830622	arg	Qué tienga un buen diya.	\N	2019-03-30 15:44:03	2020-11-12 09:51:43
-104	0x68	h	14	7830636	arg	Charra anglés?	\N	2019-03-30 15:49:09	2020-11-12 09:47:24
-105	0x69	i	58	7830604	arg	Buena tardi!	\N	2019-03-30 15:40:01	2020-11-12 09:49:48
+97	0x61	a	83	4649744	arg	Cómo te clamas?	\N	2015-10-28 04:54:12	2015-11-04 05:58:04
+98	0x62	b	11	4648464	arg	Bienveniu a Tatoeba.	\N	2015-10-27 17:03:53	2015-11-04 05:58:10
+99	0x63	c	39	4648487	arg	Puetz charrar anglés?	\N	2015-10-27 17:10:28	2015-11-04 05:58:07
+100	0x64	d	32	7830598	arg	Encantada.	\N	2019-03-30 15:38:20	2020-11-12 09:51:38
+101	0x65	e	72	7830623	arg	Qué tienga un buen diya!	\N	2019-03-30 15:44:08	2020-11-12 09:51:44
+102	0x66	f	14	7830655	arg	Per favor.	\N	2019-03-30 15:54:18	2020-11-12 09:50:40
+103	0x67	g	21	7830623	arg	Qué tienga un buen diya!	\N	2019-03-30 15:44:08	2020-11-12 09:51:44
+104	0x68	h	14	7809615	arg	No n'he visto como aquello.	\N	2019-03-14 14:04:01	2020-11-12 09:48:34
+105	0x69	i	58	7830605	arg	Buena nueit.	\N	2019-03-30 15:40:20	2020-11-12 09:49:43
 107	0x6b	k	2	7830592	arg	Me clamo Jack.	\N	2019-03-30 15:36:34	2020-11-12 09:49:32
-108	0x6c	l	35	7809596	arg	Toz os ombres naxen libres y iguals en dinidat y en dreitos. Adotatos de razón y de conzenzia, deben apachar-sen unos con atros d'una manera freternal.	\N	2019-03-14 13:50:00	2020-11-12 09:48:32
-109	0x6d	m	26	7830684	arg	Deixa-me solenco!	\N	2019-03-30 16:04:54	2020-11-12 09:47:47
-110	0x6e	n	65	7830679	arg	Buenas pasquas!	\N	2019-03-30 16:03:01	2020-11-12 09:48:08
-111	0x6f	o	58	7830638	arg	Charras aragonés?	\N	2019-03-30 15:49:43	2020-11-03 12:36:30
-112	0x70	p	10	7830679	arg	Buenas pasquas!	\N	2019-03-30 16:03:01	2020-11-12 09:48:08
-113	0x71	q	3	7809615	arg	No n'he visto como aquello.	\N	2019-03-14 14:04:01	2020-11-12 09:48:34
-114	0x72	r	36	7830673	arg	Grita a la policía!	\N	2019-03-30 16:01:17	2020-11-12 09:48:50
-115	0x73	s	57	7830590	arg	Qué tal plantas?	\N	2019-03-30 15:35:14	2020-11-12 09:49:34
-116	0x74	t	48	7830650	arg	Quanto ye?	\N	2019-03-30 15:53:10	2020-11-12 09:47:28
-117	0x75	u	46	7830652	arg	Sincusas!	\N	2019-03-30 15:53:57	2020-11-12 09:47:30
-118	0x76	v	14	4649812	arg	Aón vas?	\N	2015-10-28 05:24:27	2015-11-04 05:58:00
-120	0x78	x	6	7830684	arg	Deixa-me solenco!	\N	2019-03-30 16:04:54	2020-11-12 09:47:47
-121	0x79	y	16	7830662	arg	Quiers bailar con yo?	Eduzitos	2019-03-30 15:58:00	2023-05-07 22:48:08
-122	0x7a	z	8	7830610	arg	Adixatz!	\N	2019-03-30 15:41:18	2020-11-12 09:51:06
+108	0x6c	l	35	7830632	arg	Por favor, charra mas lento.	\N	2019-03-30 15:47:57	2020-11-12 09:50:04
+109	0x6d	m	26	7830668	arg	Que t'amillores.	\N	2019-03-30 15:59:23	2020-11-12 09:48:52
+110	0x6e	n	65	7830606	arg	Buena nueit!	\N	2019-03-30 15:40:23	2020-11-12 09:49:40
+111	0x6f	o	58	4649740	arg	T'amo.	\N	2015-10-28 04:52:34	2015-11-04 05:58:05
+112	0x70	p	10	7809596	arg	Toz os ombres naxen libres y iguals en dinidat y en dreitos. Adotatos de razón y de conzenzia, deben apachar-sen unos con atros d'una manera freternal.	\N	2019-03-14 13:50:00	2020-11-12 09:48:32
+113	0x71	q	3	7830679	arg	Buenas pasquas!	\N	2019-03-30 16:03:01	2020-11-12 09:48:08
+114	0x72	r	36	7830624	arg	Qué aprofeite.	\N	2019-03-30 15:44:39	2020-11-12 09:51:40
+115	0x73	s	57	4649827	arg	Án bibes?	\N	2015-10-28 05:28:40	2015-11-04 05:57:59
+116	0x74	t	48	7809615	arg	No n'he visto como aquello.	\N	2019-03-14 14:04:01	2020-11-12 09:48:34
+117	0x75	u	46	7830679	arg	Buenas pasquas!	\N	2019-03-30 16:03:01	2020-11-12 09:48:08
+118	0x76	v	14	7830600	arg	D'an ye vusté?	\N	2019-03-30 15:38:37	2020-11-12 09:51:42
+120	0x78	x	6	7830612	arg	Adixatz.	\N	2019-03-30 15:41:27	2020-11-12 09:47:10
+121	0x79	y	16	7830670	arg	Aduya!	\N	2019-03-30 16:00:16	2020-11-12 09:48:20
+122	0x7a	z	8	4649791	arg	Grazias!	\N	2015-10-28 05:19:10	2015-11-04 05:58:02
 193	0xc1	Á	1	4649827	arg	Án bibes?	\N	2015-10-28 05:28:40	2015-11-04 05:57:59
 225	0xe1	á	2	4649837	arg	T'án vas?	\N	2015-10-28 05:30:25	2015-11-04 05:57:59
 232	0xe8	è	1	7006845	arg	Lui è stato d'accordo.	Guybrush88	2018-07-20 13:10:10	2018-07-20 13:10:10
-233	0xe9	é	16	7830622	arg	Qué tienga un buen diya.	\N	2019-03-30 15:44:03	2020-11-12 09:51:43
-237	0xed	í	4	7830643	arg	Sí, una mica.	\N	2019-03-30 15:51:06	2020-11-12 09:46:16
-243	0xf3	ó	10	4649812	arg	Aón vas?	\N	2015-10-28 05:24:27	2015-11-04 05:58:00
+233	0xe9	é	16	4648487	arg	Puetz charrar anglés?	\N	2015-10-27 17:10:28	2015-11-04 05:58:07
+237	0xed	í	4	7830673	arg	Grita a la policía!	\N	2019-03-30 16:01:17	2020-11-12 09:48:50
+243	0xf3	ó	10	4649744	arg	Cómo te clamas?	\N	2015-10-28 04:54:12	2015-11-04 05:58:04
 252	0xfc	ü	1	4648451	arg	Güen diya a totz.	\N	2015-10-27 16:56:36	2015-11-04 05:58:12
 8211	0x2013	–	1	4919881	arg	Un pantasma recorre Europa – o pantasma d'o comunismo.	Balamax	2016-02-18 06:33:31	2016-02-18 06:35:26

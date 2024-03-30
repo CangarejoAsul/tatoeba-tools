@@ -106,7 +106,7 @@ Colon: succeeded by letter or punctuation	3758366	ita	"http://example.org/" è u
 Comma: succeeded by letter	3863782	ita	L'albero,spezzato dal vento, teme la tempesta.	Guybrush88	2015-02-12 17:09:16	2015-02-12 17:09:16
 Quotation marks: mixed curly and straight	3884400	ita	L'Arabia Saudita si chiama "Al-Mamlakah Al-‘Arabiyyah As-Sa‘ūdiyyah" in arabo.	Guybrush88	2015-02-21 15:41:43	2015-02-21 15:41:43
 Quotation marks: mixed curly and straight	3926369	ita	Che cosa c’è nel bicchiere? — C'è del vino.	rado	2015-03-02 17:29:52	2015-03-02 17:29:52
-Question mark: preceeded by space	3989860	ita	Si pregha di pensare a l'ambiente - avete realmente bisogno di stampare questo messagio ?	vandpatr	2015-03-26 12:16:12	2015-03-26 12:16:23
+Question mark: preceeded by space	3989860	ita	Si pregha di pensare a l'ambiente - avete realmente bisogno di stampare questo messaggio ?	vandpatr	2015-03-26 12:16:12	2024-03-24 06:31:54
 Final punctuation	4183288	ita	Devo dire che mi ha proprio convinto|	Guybrush88	2015-05-13 16:58:33	2015-05-13 16:58:33
 Period: preceeded by space	4296201	ita	Vorrei solo capire, ma a volte è molto difficile .	valealb	2015-06-22 13:31:08	2015-06-22 13:31:08
 Final punctuation	4328600	ita	Archimede disse: "Eureka"	aldolit58	2015-07-02 17:42:41	2015-07-02 17:42:41
@@ -427,3 +427,11 @@ Quotation marks: mixed curly and straight	12316713	ita	L'anima rinasce in ogni n
 Final punctuation	12325713	ita	Non avremo possibilità	Pare	2024-02-18 14:17:29	2024-02-18 14:17:46
 Final punctuation	12340292	ita	Questo è un pesce verde	VPZ	2024-02-26 00:49:14	2024-02-26 00:49:14
 Final punctuation	12363100	ita	Questi gatti mangiano molto pesce	VPZ	2024-03-09 16:10:29	2024-03-09 16:10:29
+Final punctuation	12392525	ita	Era così parsimoniosa; comprava verdure solamente se erano in offerta	asmartsquirrell	2024-03-28 21:37:20	2024-03-28 21:37:20
+Final punctuation	12392528	ita	Tom non capisce la differenza tra un catodo e un anodo	asmartsquirrell	2024-03-28 21:42:05	2024-03-28 21:42:13
+Final punctuation	12392530	ita	La soluzione elettrolitica in una batteria a ioni di litio è progettata per produrre una corrente di cariche elettriche tra il catodo e l'anodo	asmartsquirrell	2024-03-28 21:44:15	2024-03-28 21:44:15
+Final punctuation	12392550	ita	Tutti i presagi e le profezie di disfatta luccicavano e si rivelavano nell'orribile oscurità, e nel mezzo di quella scena terribile un lupo ululava immobile sopra una tomba aperta	asmartsquirrell	2024-03-28 23:06:38	2024-03-28 23:07:08
+Exclamation mark: preceeded by space	12392556	ita	Prendete questo brigante ! Non fatelo scappare !	asmartsquirrell	2024-03-28 23:18:16	2024-03-28 23:18:16
+Final punctuation	12392564	ita	Invece di andare in Australia, andrò in Nuova Zelanda	asmartsquirrell	2024-03-28 23:28:09	2024-03-28 23:28:09
+Final punctuation	12392565	ita	Fa come ti piace	asmartsquirrell	2024-03-28 23:28:36	2024-03-28 23:28:36
+Final punctuation	12392566	ita	Preferirei farlo ora prima che venga il caldo	asmartsquirrell	2024-03-28 23:29:17	2024-03-28 23:29:17
