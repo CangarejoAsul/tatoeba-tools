@@ -1,75 +1,75 @@
-32	0x20	 	2302	4638704	ilo	Agad-adalka iti Ingles?	saluyot	2015-10-24 02:27:18	2015-10-24 02:27:18
-33	0x21	!	58	4661248	ilo	Dimo abalbalayen dayta a tulbek!	saluyot	2015-11-01 08:27:51	2015-11-05 23:16:16
-34	0x22	"	11	7026348	ilo	"Ay-ayatenka!" "Ay-ayatenka met!"	jyarold	2018-07-28 07:17:25	2018-07-28 07:17:25
+32	0x20	 	2302	4667715	ilo	Ikarkarigatan ni Tom.	saluyot	2015-11-01 17:50:01	2015-11-01 17:50:01
+33	0x21	!	58	4722918	ilo	Ay, saan laeng!	saluyot	2015-11-24 14:23:34	2015-11-24 14:23:34
+34	0x22	"	11	4632949	ilo	"Filipinas" ti awag iti Philippines iti Ilokano.	saluyot	2015-10-22 10:38:46	2015-10-22 10:38:46
 36	0x24	$	1	4662418	ilo	$5 ti presio ti libro.	saluyot	2015-11-01 14:38:07	2015-11-01 14:38:07
 37	0x25	%	1	4685417	ilo	Nakaala ni Tom iti 100% a grado iti chemistry.	saluyot	2015-11-08 09:24:50	2015-11-08 09:24:50
 40	0x28	(	1	4683187	ilo	Tsokoy is “hard-headed” (stubborn).	illiong1060	2015-11-07 04:47:36	2015-11-07 04:47:36
 41	0x29	)	1	4683187	ilo	Tsokoy is “hard-headed” (stubborn).	illiong1060	2015-11-07 04:47:36	2015-11-07 04:47:36
-44	0x2c	,	143	4695793	ilo	Immayak, nakitak, pinarmekko.	saluyot	2015-11-12 06:31:24	2015-11-12 06:31:24
-45	0x2d	-	209	4735794	ilo	Mangab-abakka.	saluyot	2015-11-30 06:56:20	2015-11-30 06:56:20
-46	0x2e	.	1939	4692607	ilo	Masapul nga agan-annadtayo.	saluyot	2015-11-11 04:47:19	2015-11-11 04:47:19
+44	0x2c	,	143	6035527	ilo	Napigsa ti angin ita, natumba pay dayta a kayo.	bpinoy	2017-04-25 03:16:19	\N
+45	0x2d	-	209	4661210	ilo	Idi un-unana a panawen, adda maysa a lalaki ken ti baketna. Awan ti balayda. Agnanaedda iti kataltalonan ken matmaturogda iti sirok ti maysa a kayo.	saluyot	2015-11-01 08:10:04	2015-11-01 08:10:04
+46	0x2e	.	1939	4669305	ilo	Masapul nga agawidtan.	saluyot	2015-11-02 07:37:42	2015-11-02 07:37:42
 47	0x2f	/	1	4687838	ilo	Dumanon ka! / Sumrek ka!	jyarold	2015-11-09 05:42:21	2015-11-09 05:42:21
-48	0x30	0	28	4683444	ilo	Mangrugi ti panagrerehistro iti maika-20 ti Oktubre.	saluyot	2015-11-07 06:31:45	2015-11-07 06:31:45
-49	0x31	1	11	4743313	ilo	Naipasngay ni Margit idiay Bordeaux idi 1908.	saluyot	2015-12-04 04:45:37	2015-12-04 04:45:37
-50	0x32	2	19	4650287	ilo	Ti panagkallaysa ti agpada iti katatao ket legal itan iti 20 a pagilian iti sangalubongan, a pakairamanan ti Irlandia sipud idi kalman.	saluyot	2015-10-28 09:17:07	2015-10-28 09:17:07
-51	0x33	3	7	4657686	ilo	Naladaw isuna iti 30 a minutos.	saluyot	2015-10-31 06:29:30	2015-10-31 06:29:30
+48	0x30	0	28	4683407	ilo	Nagsublikami iti Boston idi maika-20 ti Oktubre.	saluyot	2015-11-07 06:25:56	2015-11-07 06:25:56
+49	0x31	1	11	4677619	ilo	Nabangon ti Disneyland idi 1955.	saluyot	2015-11-05 05:22:27	2015-11-05 05:22:27
+50	0x32	2	19	4683405	ilo	Nagsubliak iti Boston idi maika-20 ti Oktubre.	saluyot	2015-11-07 06:25:29	2015-11-07 06:25:29
+51	0x33	3	7	4673014	ilo	Gimmatangak iti kopia nga mp3 ti "Clair de Lune" ni Debussy iti maysa nga online a pagtagilakuan iti musika.	saluyot	2015-11-03 15:54:40	2015-11-03 15:54:40
 52	0x34	4	1	4683409	ilo	Naipatayab ti Sputnik idi Oktubre 4, 1957.	saluyot	2015-11-07 06:26:25	2015-11-07 06:26:25
-53	0x35	5	5	4658208	ilo	Impinta ni Picasso daytoy a ladawan idi 1950.	saluyot	2015-10-31 12:12:25	2015-10-31 12:12:25
+53	0x35	5	5	4662418	ilo	$5 ti presio ti libro.	saluyot	2015-11-01 14:38:07	2015-11-01 14:38:07
 54	0x36	6	1	4632959	ilo	Iti napalabas a tawen iti Filipinas, 6,000 a tattao ti natay gapu kadagiti ginggined ken aluyo.	saluyot	2015-10-22 10:43:14	2015-10-22 10:43:14
-55	0x37	7	3	4662630	ilo	Agbiag ti tao iti agarup a 70 a tawen laeng.	saluyot	2015-11-01 16:27:32	2015-11-01 16:27:32
-56	0x38	8	2	4743313	ilo	Naipasngay ni Margit idiay Bordeaux idi 1908.	saluyot	2015-12-04 04:45:37	2015-12-04 04:45:37
+55	0x37	7	3	4683417	ilo	Nayanakak idi maika-10 ti Oktubre 1972.	saluyot	2015-11-07 06:27:31	2015-11-07 06:27:31
+56	0x38	8	2	4629651	ilo	Rambakantayo ti Nobiembre 28 a kas Aldaw ti Tatoeba gapu ta iti daytoy nga aldaw a nainayon ti Turkish, Esperanto ken Griego.	saluyot	2015-10-21 09:08:03	2015-10-21 09:08:03
 57	0x39	9	5	4658208	ilo	Impinta ni Picasso daytoy a ladawan idi 1950.	saluyot	2015-10-31 12:12:25	2015-10-31 12:12:25
 58	0x3a	:	4	4657660	ilo	Adda tarakenna a dua a pusa: nangisit ti maysa, puraw ti maysa.	saluyot	2015-10-31 06:18:19	2015-10-31 06:18:19
-63	0x3f	?	472	4722000	ilo	Kayatmo kadi ti maipada iti kas ken ni Tom?	saluyot	2015-11-24 03:20:01	2015-11-24 03:20:01
-65	0x41	A	555	4683398	ilo	Addaak iti Boston idi pay Oktubre.	saluyot	2015-11-07 06:23:43	2015-11-07 06:23:43
-66	0x42	B	67	4735654	ilo	Bulosam ni Tom.	saluyot	2015-11-30 03:32:11	2015-11-30 03:32:11
-67	0x43	C	7	4694162	ilo	Mamati isuna iti Santa Claus.	saluyot	2015-11-11 15:57:10	2015-11-11 15:57:10
-68	0x44	D	165	4629923	ilo	Dispensarennak.	saluyot	2015-10-21 10:21:40	2015-10-21 10:21:40
-69	0x45	E	7	4629658	ilo	Manmano dagiti sientista a kas ken ni Einstein.	saluyot	2015-10-21 09:11:21	2015-10-21 09:11:21
-70	0x46	F	23	4661208	ilo	Pimmanaw iti Francia ket napan idiay America.	saluyot	2015-11-01 08:07:48	2015-11-01 08:07:48
-71	0x47	G	26	4672234	ilo	Gubuayen ti bioteknolohia ti maysa a rebolusion iti agrikultura.	saluyot	2015-11-03 07:55:49	2015-11-03 07:55:49
+63	0x3f	?	472	4677048	ilo	Awan pay asawam, saan kadi?	saluyot	2015-11-04 23:02:31	2015-11-04 23:02:31
+65	0x41	A	555	4690689	ilo	Apay koma nga addaak idiay?	saluyot	2015-11-10 12:32:48	2015-11-10 12:32:48
+66	0x42	B	67	4661148	ilo	Bigat gayamen.	saluyot	2015-11-01 07:47:11	2015-11-01 07:47:11
+67	0x43	C	7	4790472	ilo	Pudpudno kadi ni Santa Claus?	saluyot	2015-12-25 15:38:13	2015-12-25 15:38:13
+68	0x44	D	165	4682869	ilo	Dagami ti nagdissuan ti balay ni Tom.	saluyot	2015-11-07 01:44:05	2015-11-07 01:44:05
+69	0x45	E	7	4629651	ilo	Rambakantayo ti Nobiembre 28 a kas Aldaw ti Tatoeba gapu ta iti daytoy nga aldaw a nainayon ti Turkish, Esperanto ken Griego.	saluyot	2015-10-21 09:08:03	2015-10-21 09:08:03
+70	0x46	F	23	4650494	ilo	Patulodannakto iti mensahe iti Facebook.	saluyot	2015-10-28 10:14:41	2015-10-28 10:14:50
+71	0x47	G	26	4658211	ilo	Gimmatangak iti PIcasso.	saluyot	2015-10-31 12:12:59	2015-10-31 12:12:59
 72	0x48	H	8	4803099	ilo	Kayatko ti mapan idiay Hawaii.	saluyot	2016-01-01 12:54:25	2016-01-01 12:54:25
-73	0x49	I	188	4643589	ilo	Innikannaka ti Dios iti maysa a buto ken maysa nga utek, ngem inikkannaka iti dara a makaanay laeng nga agsayasay maminsan iti tunggal daras.	saluyot	2015-10-25 15:05:45	2015-10-25 15:05:50
-74	0x4a	J	14	4658917	ilo	Maysa a nakababain a banag nga idinto nga adda dagiti pagilian nga agsagsagaba iti bisin, idiay Japon ket adu a taraon ti maibelbelleng laeng iti adu a pagtaengan ken panganan.	saluyot	2015-10-31 14:52:05	2015-10-31 14:53:29
-75	0x4b	K	225	4677633	ilo	Karkarkuluen ni Tom no mano ti magastosna a mangileppas iti balay.	saluyot	2015-11-05 05:26:11	2015-11-05 05:26:11
-76	0x4c	L	39	4658955	ilo	Lima ti inyanak ti pusak.	saluyot	2015-10-31 15:02:00	2015-10-31 15:02:00
-77	0x4d	M	360	4706972	ilo	Saan a pagtalkan ni Tom ni Mary a kas iti panagtalek daytoy kenkuana.	saluyot	2015-11-17 15:21:39	2015-11-17 15:21:39
+73	0x49	I	188	4657727	ilo	Ilakok ti balayko.	saluyot	2015-10-31 07:04:46	2015-10-31 07:04:46
+74	0x4a	J	14	4688532	ilo	Jim ti awagda kenkuana.	saluyot	2015-11-09 11:01:03	2015-11-09 11:01:03
+75	0x4b	K	225	4662595	ilo	Kasla maysa a panagdaliasat ti biag.	saluyot	2015-11-01 16:26:03	2015-11-01 16:26:03
+76	0x4c	L	39	4735657	ilo	Lapdam ni Tom.	saluyot	2015-11-30 03:33:10	2015-11-30 03:33:10
+77	0x4d	M	360	4653257	ilo	Maamak isuna nga agmaneho iti kotse.	saluyot	2015-10-29 14:40:00	2015-10-29 22:55:45
 78	0x4e	N	497	4650022	ilo	Nagasatak la unay.	saluyot	2015-10-28 06:57:05	2015-10-28 06:57:05
-79	0x4f	O	43	4683438	ilo	Addaak idiay Boston idi Oktubre.	saluyot	2015-11-07 06:30:50	2015-11-07 06:30:50
-80	0x50	P	153	4683397	ilo	Padpadaanan ni Mary ti panagpasngayna inton Oktubre.	saluyot	2015-11-07 06:23:24	2015-11-07 06:23:24
-82	0x52	R	24	4681128	ilo	Rabii.	jyarold	2015-11-06 12:59:30	2017-01-15 06:41:47
-83	0x53	S	291	4685588	ilo	Saan nga estudiante isuna.	saluyot	2015-11-08 10:54:43	2015-11-08 10:54:43
-84	0x54	T	529	4737417	ilo	Amangan no mapan idiay Boston ni Tom nga agbirok iti trabaho.	saluyot	2015-12-01 02:20:16	2015-12-01 02:20:16
-85	0x55	U	47	4739528	ilo	Umay isunan!	saluyot	2015-12-02 12:47:53	2015-12-02 12:47:53
-86	0x56	V	14	4680527	ilo	Agbuybuya iti TV ti adingko a lalaki.	saluyot	2015-11-06 07:26:29	2015-11-06 07:26:29
-87	0x57	W	8	6035524	ilo	Basaem diay Teen Wolf ken buyaem diay Road to Perdition.	bpinoy	2017-04-25 03:00:21	\N
+79	0x4f	O	43	4683423	ilo	Maisayangkat ti eksibit agingga iti maika-20 ti Oktubre.	saluyot	2015-11-07 06:28:49	2015-11-07 06:28:49
+80	0x50	P	153	4699729	ilo	Addada kadi idiay Paris?	saluyot	2015-11-14 01:29:44	2015-11-14 01:29:44
+82	0x52	R	24	4657360	ilo	Rugiantan.	saluyot	2015-10-31 00:55:26	2015-10-31 00:55:26
+83	0x53	S	291	4688531	ilo	Sinugsoganda isuna a mangaramid iti krimen.	saluyot	2015-11-09 11:00:31	2015-11-09 11:00:31
+84	0x54	T	529	4649971	ilo	Iniddepko ti TV ket sinangok ti ar-aramidek a report tapno leppasekon daytoy.	saluyot	2015-10-28 06:40:43	2015-10-28 06:40:43
+85	0x55	U	47	4680343	ilo	"Saan nga umin-inum iti arak ti tatangko." "Uray siak ket saan met."	saluyot	2015-11-06 05:16:36	2015-11-06 05:16:36
+86	0x56	V	14	4658968	ilo	TV la ti ob-obraen ni Tom.	saluyot	2015-10-31 15:08:04	2015-11-01 08:13:28
+87	0x57	W	8	4654852	ilo	"Mabalin a makikuyogak kenka?" "Wen, siempre!"	saluyot	2015-10-30 00:40:05	2015-10-30 00:40:05
 89	0x59	Y	2	4647273	ilo	Nakitak ni Mr Yamada iti Shinjuku Station itay bigat.	saluyot	2015-10-27 03:18:02	2015-10-27 03:18:02
 90	0x5a	Z	1	4681177	ilo	Ti ilik ket Zamboanga.	jyarold	2015-11-06 13:06:40	2015-11-06 13:06:40
-97	0x61	a	2443	4680401	ilo	Ania ti mariknam no pinanawannaka ti baketmo?	saluyot	2015-11-06 05:33:55	2015-11-06 05:33:55
-98	0x62	b	948	4662410	ilo	Nagsarakkami iti nobiok sadiay.	saluyot	2015-11-01 14:33:07	2015-11-01 14:33:07
-99	0x63	c	35	4651972	ilo	Iti daytoy nga otel, nasken nga ag-check out-ka iti alas nuebe.	saluyot	2015-10-28 23:09:26	2015-10-29 23:00:02
-100	0x64	d	1421	4670046	ilo	Adda mapukpukaw nga ubing.	saluyot	2015-11-02 11:34:04	2015-11-02 11:34:04
-101	0x65	e	1237	4742960	ilo	No adda man mapasamak bayat ti kaawanko, agdawatka kenkuana iti tulong.	saluyot	2015-12-03 22:48:55	2015-12-03 22:48:55
-102	0x66	f	14	4721917	ilo	Agbibiag isuna iti lubong ti fantasia.	saluyot	2015-11-24 01:53:23	2015-11-24 01:53:23
-103	0x67	g	1673	4682864	ilo	Simmurotak a napan nagarem.	saluyot	2015-11-07 01:42:52	2015-11-07 01:42:52
-104	0x68	h	94	4650494	ilo	Patulodannakto iti mensahe iti Facebook.	saluyot	2015-10-28 10:14:41	2015-10-28 10:14:50
-105	0x69	i	2206	4683058	ilo	Kaykayatanna unay ti pusa.	saluyot	2015-11-07 02:50:29	2015-11-07 02:50:29
-106	0x6a	j	3	4629913	ilo	Ti Burj Khalifa ti katayagan a pasdek iti sangalubongan iti agdama.	saluyot	2015-10-21 10:17:36	2015-10-21 10:17:36
-107	0x6b	k	1893	4643605	ilo	Tapno maliklikan iti pannakadunor wenno saan a panagganas, siguraduen a nababasa ti uki sakbay ti panagiyot.	saluyot	2015-10-25 15:09:47	2015-10-25 15:09:54
-108	0x6c	l	1194	4654783	ilo	Naduktalandakami.	saluyot	2015-10-30 00:12:05	2015-10-30 00:12:05
-109	0x6d	m	1643	4669297	ilo	Masapul a mangrugitayon.	saluyot	2015-11-02 07:33:19	2015-11-02 07:33:19
-110	0x6e	n	2177	4649990	ilo	Diak ammo no ania ti aramidek.	saluyot	2015-10-28 06:46:47	2015-10-28 06:46:47
-111	0x6f	o	1774	4690628	ilo	Adda kadi makaammo no apay nga awan ni Tom ditoy?	saluyot	2015-11-10 10:45:20	2015-11-10 10:45:20
-112	0x70	p	1099	4735744	ilo	Asino ti nagpukaw?	saluyot	2015-11-30 06:38:54	2015-11-30 06:38:54
+97	0x61	a	2443	4724434	ilo	Diakton pulos aramiden daytoy.	saluyot	2015-11-25 07:35:42	2015-11-25 07:35:42
+98	0x62	b	948	4741140	ilo	Kaano pay met a nagulbodak?	saluyot	2015-12-03 10:05:22	2015-12-03 10:05:22
+99	0x63	c	35	4791520	ilo	Saaan a baro daytoy a tape recorder.	saluyot	2015-12-26 01:28:12	2015-12-26 01:28:12
+100	0x64	d	1421	4681293	ilo	Tinulongak ni Tom a mangdalus iti kosina.	saluyot	2015-11-06 13:43:22	2015-11-06 13:43:22
+101	0x65	e	1237	4658894	ilo	Panagkunak ket agayat isuna kaniak. Ania ti rumbeng nga aramidek?	saluyot	2015-10-31 14:47:48	2015-10-31 14:47:48
+102	0x66	f	14	4713016	ilo	Dakkel ti familiana a suportaranna.	saluyot	2015-11-20 03:48:45	2015-11-20 03:48:45
+103	0x67	g	1673	4650012	ilo	Agtalek ni Tom kaniak.	saluyot	2015-10-28 06:54:23	2015-10-28 06:54:23
+104	0x68	h	94	4692716	ilo	Malaksid ken ni Mary a nobiana, adda pay sabali a kaayan-ayat ni Tom: ni John a padana a lalaki.	saluyot	2015-11-11 06:10:03	2015-11-11 06:10:03
+105	0x69	i	2206	4678183	ilo	Agpadata iti parikut.	saluyot	2015-11-05 11:22:01	2015-11-05 11:22:01
+106	0x6a	j	3	4680531	ilo	Inulim kadin ti Bantay Fuji?	saluyot	2015-11-06 07:27:27	2015-11-06 07:27:27
+107	0x6b	k	1893	4704668	ilo	Saankonton a pulos a makita pay ni Tom.	saluyot	2015-11-16 16:53:48	2015-11-16 16:53:48
+108	0x6c	l	1194	4650948	ilo	Mabiitkami laeng.	saluyot	2015-10-28 14:13:22	2015-10-29 23:01:41
+109	0x6d	m	1643	4743310	ilo	Kasano met ti tarayna dayta a negosio?	saluyot	2015-12-04 04:43:50	2015-12-04 04:43:50
+110	0x6e	n	2177	4675356	ilo	Asino kadakayo ti doktor ni Tom?	saluyot	2015-11-04 12:39:48	2015-11-04 12:39:48
+111	0x6f	o	1774	4629906	ilo	Mano ti tawenmon?	saluyot	2015-10-21 10:15:59	2015-10-21 10:15:59
+112	0x70	p	1099	4699724	ilo	Napanak idiay Paris.	saluyot	2015-11-14 01:27:59	2015-11-14 01:27:59
 113	0x71	q	1	4667443	ilo	Manon a presidente ti Filipinas ti nagtakem sakbay ni Benigno Simeon Aquino III?	saluyot	2015-11-01 17:01:27	2015-11-01 17:01:27
-114	0x72	r	1079	4692779	ilo	Kaykayatanda nga isagana ti litson a baboy kadagiti pasken nangruna iti fiesta.	saluyot	2015-11-11 06:53:24	2015-11-11 06:53:24
-115	0x73	s	1455	4681286	ilo	Diak ibagbaga iti asino man ti maipanggep iti daytoy.	saluyot	2015-11-06 13:40:44	2015-11-06 13:40:44
-116	0x74	t	1994	4658980	ilo	Napait daytoy a serbesa.	saluyot	2015-10-31 15:12:46	2015-10-31 15:12:46
-117	0x75	u	1302	4683037	ilo	Agbayadka gapu iti daytoy.	saluyot	2015-11-07 02:46:01	2015-11-07 02:46:01
-118	0x76	v	3	6035530	ilo	Uray no tinang-edanen ni Martha ni Ivan, saanna inkankano.	bpinoy	2017-04-25 03:18:37	\N
-119	0x77	w	465	4652253	ilo	Dua a tawenen ti napalabas manipud idi pinanawannak.	saluyot	2015-10-29 02:27:19	2015-10-29 22:58:38
-120	0x78	x	10	4952413	ilo	Damagem ni Alex.	jyarold	2016-03-04 01:27:38	2016-03-04 01:27:38
-121	0x79	y	1202	4704677	ilo	Nakabasaka kadin iti uray ania a daniw nga Intsik?	saluyot	2015-11-16 16:58:15	2015-11-16 16:58:15
+114	0x72	r	1079	4650378	ilo	Saan kasta kalakana ti agpatanor iti anak.	saluyot	2015-10-28 09:49:19	2015-10-28 09:49:19
+115	0x73	s	1455	4629858	ilo	Adda dagiti isla iti baybay.	saluyot	2015-10-21 10:05:20	2015-10-21 10:05:20
+116	0x74	t	1994	4650335	ilo	Napintas a balasang ni Imnas.	saluyot	2015-10-28 09:42:14	2015-10-28 09:42:14
+117	0x75	u	1302	4683356	ilo	Nabayadan met la aminen ni Tom dagiti utangna iti sugal.	saluyot	2015-11-07 06:07:07	2015-11-07 06:07:07
+118	0x76	v	3	4649463	ilo	Inyakarmi ti proyekto iti kabarbaro a server.	saluyot	2015-10-28 00:14:07	2015-10-28 00:14:07
+119	0x77	w	465	4704682	ilo	Nakaipablaaken ni Tom iti libro ti dandaniwna.	saluyot	2015-11-16 17:00:20	2015-11-16 17:00:20
+120	0x78	x	10	4639797	ilo	Nakapanka kadin idiay Mexico?	saluyot	2015-10-24 12:54:10	2015-10-24 12:54:10
+121	0x79	y	1202	4662440	ilo	Mangnamnamaak nga agbalinak a dentista iti masakbayan.	saluyot	2015-11-01 14:45:46	2015-11-01 14:45:46
 122	0x7a	z	3	4634196	ilo	Siak ni Azeri.	saluyot	2015-10-22 17:50:22	2015-10-22 17:50:22
 220	0xdc	Ü	1	10184407	ilo	Üres a kalitka.	Aleksandro40	2021-07-21 15:22:33	2021-07-21 15:22:33
 241	0xf1	ñ	1	4632953	ilo	Iti FIlipinas, manmanon ti makasao iti Español.	saluyot	2015-10-22 10:40:39	2015-10-22 10:40:39

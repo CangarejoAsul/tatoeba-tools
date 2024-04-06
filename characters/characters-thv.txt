@@ -1,60 +1,60 @@
-32	0x20	 	540	7492077	thv	Amis ihal berrin anu.	Aissimahfoud06	2018-11-21 20:54:07	2019-04-12 13:20:45
-33	0x21	!	16	7796347	thv	Slet!	Aissimahfoud06	2019-03-04 18:51:51	2019-04-10 20:21:15
-44	0x2c	,	45	7482579	thv	Ɣur tufat, awi-yas ax.	Aissimahfoud06	2018-11-18 20:49:08	2019-04-12 13:43:31
-45	0x2d	-	258	7450383	thv	Iyen yusa-d s ahal, iyen yusa-d s éhuḍ.	Aissimahfoud06	2018-11-11 11:12:29	2019-04-12 15:11:02
-46	0x2e	.	469	7360004	thv	Anu yuǧiǧ-aneɣ.	Aissimahfoud06	2018-10-29 21:18:15	2019-04-16 19:56:51
-63	0x3f	?	91	7345264	thv	Ma terrid?	Aissimahfoud06	2018-10-26 15:31:48	2019-04-18 21:36:36
-65	0x41	A	113	7348666	thv	Ahel-in wa d-iglan.	Aissimahfoud06	2018-10-27 10:24:29	2019-04-18 21:14:21
-66	0x42	B	6	7450041	thv	Takuba n Biska.	Aissimahfoud06	2018-11-11 10:18:28	2019-04-12 15:13:53
+32	0x20	 	540	7525486	thv	Nniɣ-d tidet.	Aissimahfoud06	2018-11-25 08:57:07	2019-04-12 13:06:49
+33	0x21	!	16	7794285	thv	Yugda!	Aissimahfoud06	2019-03-02 19:34:09	2019-04-10 20:42:44
+44	0x2c	,	45	7357638	thv	Tufat animir teǧǧuǧ, ad ensit haret n eḍes.	Aissimahfoud06	2018-10-29 10:01:23	2019-04-18 20:49:14
+45	0x2d	-	258	7346065	thv	Elwi-d ssin eklan.	Aissimahfoud06	2018-10-26 19:04:27	2019-04-18 21:23:19
+46	0x2e	.	469	7916669	thv	Anubi yenkes.	Aissimahfoud06	2019-05-17 17:10:10	2019-05-17 17:10:10
+63	0x3f	?	91	7359916	thv	Tessaneḍ abaraqa hullan?	Aissimahfoud06	2018-10-29 20:25:10	2019-04-17 20:40:36
+65	0x41	A	113	7531247	thv	Ales wa-reɣ hund ibeggi.	Aissimahfoud06	2018-11-27 17:26:48	2019-04-12 11:24:53
+66	0x42	B	6	7447961	thv	Kellad ikfa-hi Biska amis.	Aissimahfoud06	2018-11-10 20:35:26	2019-04-12 15:16:45
 67	0x43	C	1	7531256	thv	Cwan ax.	Aissimahfoud06	2018-11-27 17:29:25	2019-04-12 11:23:01
-68	0x44	D	12	7349131	thv	Deffir as igla.	Aissimahfoud06	2018-10-27 11:39:04	2019-04-18 21:09:56
-69	0x45	E	54	7482560	thv	Ekfa-has icwa.	Aissimahfoud06	2018-11-18 20:44:48	2019-04-28 10:43:44
+68	0x44	D	12	7531244	thv	D ameḍḍan.	Aissimahfoud06	2018-11-27 17:25:04	2019-04-12 11:25:21
+69	0x45	E	54	7356623	thv	Ergeh sullan sullan.	Aissimahfoud06	2018-10-28 22:22:19	2019-04-17 20:53:21
 70	0x46	F	2	7741530	thv	Fad nessen-it, laẓ war t-nuksaḍ.	Aissimahfoud06	2019-01-19 17:22:02	2019-04-10 20:31:37
 71	0x47	G	3	7362146	thv	Glan s amezzi, mhayen daɣ Agades.	Aissimahfoud06	2018-10-30 13:46:52	2019-04-18 21:24:36
-73	0x49	I	63	7362119	thv	Iklan tirgahen ula iɣetmen.	Aissimahfoud06	2018-10-30 13:38:26	2019-04-16 19:35:04
-75	0x4b	K	24	7416700	thv	Kkiɣ ténéré ɣas-in.	Aissimahfoud06	2018-11-04 16:35:55	2019-04-12 15:46:36
-76	0x4c	L	7	9622318	thv	Trid Lwiski?	Aissimahfoud06	2021-01-09 11:22:14	2021-10-12 08:35:22
-77	0x4d	M	68	7794293	thv	Ma mu ?	Aissimahfoud06	2019-03-02 19:46:38	2019-04-10 20:40:06
-78	0x4e	N	33	7874566	thv	Nayeɣ-tt.	Aissimahfoud06	2019-04-28 11:23:27	2019-04-28 11:23:27
-82	0x52	R	8	7482518	thv	Riɣ-kem hullan.	Aissimahfoud06	2018-11-18 20:24:27	2019-04-28 10:45:20
-83	0x53	S	12	7794179	thv	Snatet tiḍiḍin tawint asaheɣ	Aissimahfoud06	2019-03-02 16:11:05	2019-04-10 20:45:39
-84	0x54	T	93	7482512	thv	Tallilt ta-reɣ a daɣ igla.	Aissimahfoud06	2018-11-18 20:19:39	2019-04-12 13:32:06
-85	0x55	U	44	7468415	thv	Ulli-hin min ahulaɣ, awatay wa-reɣ uyanet-i min ax.	Aissimahfoud06	2018-11-16 14:29:27	2019-04-12 13:49:07
-87	0x57	W	13	7370819	thv	Wa-reɣ kem-illan igraw iḍas.	Aissimahfoud06	2018-11-01 19:25:54	2019-04-15 10:18:02
-89	0x59	Y	50	7372777	thv	Yertay aǧǧil d tiḍaɣin.	Aissimahfoud06	2018-11-02 14:49:40	2019-04-18 20:58:22
+73	0x49	I	63	7412560	thv	Ihilan wi ilkamen.	Aissimahfoud06	2018-11-03 20:53:53	2019-04-15 08:39:39
+75	0x4b	K	24	7415365	thv	Kem éw s tadegget.	Aissimahfoud06	2018-11-04 11:47:23	2019-04-15 08:34:03
+76	0x4c	L	7	8361863	thv	Llant tikamarin miɣ kala?	Aissimahfoud06	2019-12-03 11:23:02	2019-12-03 11:23:02
+77	0x4d	M	68	7874562	thv	Ma full ?	Aissimahfoud06	2019-04-28 11:20:25	2019-04-28 11:20:25
+78	0x4e	N	33	7434991	thv	Nek kal Ɣella.	Aissimahfoud06	2018-11-09 20:26:35	2019-04-12 15:18:50
+82	0x52	R	8	7482526	thv	Riɣ-kem ammas n ul-in.	Aissimahfoud06	2018-11-18 20:27:38	2019-04-12 13:32:39
+83	0x53	S	12	7355944	thv	S tufat ar tadeggat.	Aissimahfoud06	2018-10-28 18:53:00	2019-04-17 20:53:58
+84	0x54	T	93	7528903	thv	Tameṭ teggat imẓad.	Aissimahfoud06	2018-11-26 11:24:19	2019-04-12 11:39:50
+85	0x55	U	44	7346224	thv	Ur ǧiɣ a yeccaḍen.	Aissimahfoud06	2018-10-26 19:49:31	2019-04-18 21:16:46
+87	0x57	W	13	7874563	thv	War idubet.	Aissimahfoud06	2019-04-28 11:21:52	2019-04-28 11:21:52
+89	0x59	Y	50	7560831	thv	Yezzenh amis.	Aissimahfoud06	2018-12-07 14:20:46	2019-04-10 20:33:19
 90	0x5a	Z	2	7452008	thv	Zzanheɣ éred s amis.	Aissimahfoud06	2018-11-11 18:45:23	2019-04-12 15:09:29
-97	0x61	a	531	7360009	thv	Naɣhal ad naweḍ anu animir ur tuḍi tafukt.	Aissimahfoud06	2018-10-29 21:21:14	2019-04-18 20:52:37
-98	0x62	b	81	7487752	thv	Riɣ tabaraḍt ta-reɣ full tahussuy-nnit.	Aissimahfoud06	2018-11-20 13:58:20	2019-04-12 13:23:15
-99	0x63	c	30	7373314	thv	Ekf-i-d lkas n aman ad cwaɣ.	Aissimahfoud06	2018-11-02 19:19:01	2019-04-15 10:06:12
-100	0x64	d	282	7372751	thv	Ẓayder ad nekc.	Aissimahfoud06	2018-11-02 14:41:04	2019-04-18 20:57:33
-101	0x65	e	484	7362184	thv	Ur negriw haret slid aderrih n iher.	Aissimahfoud06	2018-10-30 14:06:08	2019-04-16 19:37:38
-102	0x66	f	94	7354082	thv	Ad afnaɣeɣ innir illa ɣur-i esamex.	Aissimahfoud06	2018-10-28 11:23:58	2019-04-18 20:44:14
-103	0x67	g	103	7461557	thv	Mani édeg yeddal?	Aissimahfoud06	2018-11-14 10:31:11	2019-04-12 13:54:09
-104	0x68	h	181	7482518	thv	Riɣ-kem hullan.	Aissimahfoud06	2018-11-18 20:24:27	2019-04-28 10:45:20
-105	0x69	i	414	7531155	thv	Analmad ifnaɣ tamsirt.	Aissimahfoud06	2018-11-27 16:25:36	2019-04-12 11:25:41
-106	0x6a	j	8	7425769	thv	Ajenna yella miɣ kala?	Aissimahfoud06	2018-11-06 20:57:07	2019-04-12 15:21:53
-107	0x6b	k	210	7368119	thv	Ǧǧamiyaɣ akal wa ur llin izakwan.	Aissimahfoud06	2018-11-01 08:51:10	2019-04-16 19:40:20
-108	0x6c	l	281	7452011	thv	Akal iccaḍ s menna.	Aissimahfoud06	2018-11-11 18:46:00	2019-04-12 15:09:13
-109	0x6d	m	255	7425675	thv	Tameṭ ta-reɣ teccaḍet.	Aissimahfoud06	2018-11-06 19:58:50	2019-04-12 15:45:41
-110	0x6e	n	394	7492082	thv	Teqqim ser ales-nnit.	Aissimahfoud06	2018-11-21 20:57:27	2019-04-12 13:19:08
+97	0x61	a	531	7362087	thv	Ikka iferǧan-nit awindaɣ a full ur d-yusi.	Aissimahfoud06	2018-10-30 13:27:20	2019-04-16 19:43:59
+98	0x62	b	81	7468510	thv	War lliɣ ar iyet n takuba.	Aissimahfoud06	2018-11-16 14:47:28	2019-04-12 13:47:26
+99	0x63	c	30	7346224	thv	Ur ǧiɣ a yeccaḍen.	Aissimahfoud06	2018-10-26 19:49:31	2019-04-18 21:16:46
+100	0x64	d	282	7361913	thv	Llan aman daɣ ak édeg.	Aissimahfoud06	2018-10-30 12:39:42	2019-04-16 19:46:34
+101	0x65	e	484	7560822	thv	Ax keffayen.	Aissimahfoud06	2018-12-07 14:19:12	2019-04-12 11:22:19
+102	0x66	f	94	7425694	thv	Kud kay nayeɣ tufat, éd kay ekfaɣ érad.	Aissimahfoud06	2018-11-06 20:08:25	2019-04-12 15:23:20
+103	0x67	g	103	7450286	thv	Yusa-d s tufat, yegla s tadeggat.	Aissimahfoud06	2018-11-11 10:54:02	2019-04-12 15:11:20
+104	0x68	h	181	7349683	thv	Ur t-nhiɣ ezzar.	Aissimahfoud06	2018-10-27 14:34:45	2019-04-18 21:08:49
+105	0x69	i	414	7452067	thv	Iwet-t s takuba, inɣa-t.	Aissimahfoud06	2018-11-11 19:02:19	2019-04-12 15:09:02
+106	0x6a	j	8	7482552	thv	Ajjer a daɣ yemmut.	Aissimahfoud06	2018-11-18 20:43:11	2019-04-12 13:44:02
+107	0x6b	k	210	9622318	thv	Trid Lwiski?	Aissimahfoud06	2021-01-09 11:22:14	2021-10-12 08:35:22
+108	0x6c	l	281	7362126	thv	Knan iman-nsen daɣ uffur, glan.	Aissimahfoud06	2018-10-30 13:40:50	2019-04-16 19:35:31
+109	0x6d	m	255	7362107	thv	Kud terham glet, nekku ad qqimeɣ.	Aissimahfoud06	2018-10-30 13:34:43	2019-04-18 20:55:26
+110	0x6e	n	394	7450041	thv	Takuba n Biska.	Aissimahfoud06	2018-11-11 10:18:28	2019-04-12 15:13:53
 111	0x6f	o	1	8361866	thv	War iressem fo.	Aissimahfoud06	2019-12-03 11:25:35	2019-12-03 11:25:35
 113	0x71	q	33	7451992	thv	Ur teqqimed s dat, eqqel s ḍeffer.	Aissimahfoud06	2018-11-11 18:37:06	2019-04-12 15:10:15
-114	0x72	r	286	7482552	thv	Ajjer a daɣ yemmut.	Aissimahfoud06	2018-11-18 20:43:11	2019-04-12 13:44:02
-115	0x73	s	287	7363620	thv	Semmus n iysan.	Aissimahfoud06	2018-10-30 19:37:29	2019-04-15 10:15:09
-116	0x74	t	324	7354341	thv	Ur asen-tenet-takreɣ.	Aissimahfoud06	2018-10-28 12:24:19	2019-04-17 21:03:28
-117	0x75	u	265	9622327	thv	Ila tiṭawin ugdanet d esu.	Aissimahfoud06	2021-01-09 11:25:31	2021-01-09 11:25:40
-119	0x77	w	173	7450200	thv	Ales wa s kfiɣ takuba, yemmut.	Aissimahfoud06	2018-11-11 10:40:35	2019-04-28 10:50:29
-120	0x78	x	20	7794165	thv	Tameṭ tessasaw ax i inuba-nit.	Aissimahfoud06	2019-03-02 15:56:11	2019-04-10 20:47:32
-121	0x79	y	176	7345450	thv	Ales yedduben.	Aissimahfoud06	2018-10-26 16:14:25	2019-04-18 21:47:09
-122	0x7a	z	22	7349683	thv	Ur t-nhiɣ ezzar.	Aissimahfoud06	2018-10-27 14:34:45	2019-04-18 21:08:49
-233	0xe9	é	64	7362103	thv	Nhiɣ-t s éhaẓ.	Aissimahfoud06	2018-10-30 13:31:52	2019-04-17 21:07:43
+114	0x72	r	286	7348894	thv	Alxir ɣas.	Aissimahfoud06	2018-10-27 11:06:17	2019-04-18 21:11:36
+115	0x73	s	287	7373314	thv	Ekf-i-d lkas n aman ad cwaɣ.	Aissimahfoud06	2018-11-02 19:19:01	2019-04-15 10:06:12
+116	0x74	t	324	7460576	thv	Mani-d tezzaɣem?	Aissimahfoud06	2018-11-13 20:59:54	2019-04-12 14:12:38
+117	0x75	u	265	7345015	thv	Ma tulid?	Aissimahfoud06	2018-10-26 14:21:57	2019-04-18 21:37:22
+119	0x77	w	173	7469313	thv	Tameṭ térew anubi d tanubit.	Aissimahfoud06	2018-11-16 20:45:15	2019-04-12 12:59:40
+120	0x78	x	20	7345747	thv	Kay tessased ax hak tufat.	Aissimahfoud06	2018-10-26 17:24:21	2019-04-18 21:34:19
+121	0x79	y	176	7354280	thv	Agel ad tinid i anna-k ed d-yas.	Aissimahfoud06	2018-10-28 12:16:59	2019-04-18 20:43:41
+122	0x7a	z	22	7344964	thv	Imuha zaɣen daɣ tiniri.	Aissimahfoud06	2018-10-26 14:09:13	2019-04-18 21:46:47
+233	0xe9	é	64	7469308	thv	Nayaɣ-kay daɣ ténéré.	Aissimahfoud06	2018-11-16 20:42:29	2019-04-12 13:45:09
 404	0x194	Ɣ	4	8361867	thv	Ɣileɣ irigel.	Aissimahfoud06	2019-12-03 11:26:35	2019-12-03 11:26:35
-486	0x1e6	Ǧ	3	7345818	thv	Ǧilwan tella ṭamiḍi n imawan.	Aissimahfoud06	2018-10-26 17:46:33	2019-04-18 21:30:01
-487	0x1e7	ǧ	56	7560835	thv	Yekca taǧella d tayné.	Aissimahfoud06	2018-12-07 14:22:10	2019-04-10 20:30:51
-611	0x263	ɣ	244	7450200	thv	Ales wa s kfiɣ takuba, yemmut.	Aissimahfoud06	2018-11-11 10:40:35	2019-04-28 10:50:29
+486	0x1e6	Ǧ	3	7487761	thv	Ǧir-s d iman-nnit.	Aissimahfoud06	2018-11-20 14:02:25	2019-04-12 13:22:25
+487	0x1e7	ǧ	56	7360022	thv	Aḍnet imnas daɣ éhaẓ, urǧiɣ daɣ iǧeǧ.	Aissimahfoud06	2018-10-29 21:27:42	2019-04-16 19:54:05
+611	0x263	ɣ	244	7349664	thv	Ur gelleɣ fu.	Aissimahfoud06	2018-10-27 14:30:44	2019-04-18 21:09:05
 7692	0x1e0c	Ḍ	1	7891867	thv	Ḍset!	Aissimahfoud06	2019-05-05 21:39:28	2019-05-05 21:39:28
-7693	0x1e0d	ḍ	85	7359934	thv	Ma n eket haḍen full ed nejjer adrar?	Aissimahfoud06	2018-10-29 20:37:55	2019-04-16 20:07:44
+7693	0x1e0d	ḍ	85	7482532	thv	Edag wa insa yeccaḍ.	Aissimahfoud06	2018-11-18 20:32:00	2019-04-12 13:33:15
 7779	0x1e63	ṣ	1	7452169	thv	Tallit ṣeṭṭafet ur d-es tidawen.	Aissimahfoud06	2018-11-11 19:28:54	2019-04-12 15:04:15
-7789	0x1e6d	ṭ	37	7479652	thv	Tameṭ ta-reɣ ur teddubet.	Aissimahfoud06	2018-11-17 21:41:17	2019-04-12 13:25:54
-7826	0x1e92	Ẓ	3	7480692	thv	Ẓeyder a d isiḍen haraten-nit.	Aissimahfoud06	2018-11-18 09:57:19	2019-04-12 13:28:57
-7827	0x1e93	ẓ	26	7360022	thv	Aḍnet imnas daɣ éhaẓ, urǧiɣ daɣ iǧeǧ.	Aissimahfoud06	2018-10-29 21:27:42	2019-04-16 19:54:05
+7789	0x1e6d	ṭ	37	7370822	thv	Tameṭ ta-reɣ tumas ahankaḍ.	Aissimahfoud06	2018-11-01 19:27:37	2019-04-15 10:17:24
+7826	0x1e92	Ẓ	3	7372751	thv	Ẓayder ad nekc.	Aissimahfoud06	2018-11-02 14:41:04	2019-04-18 20:57:33
+7827	0x1e93	ẓ	26	7363646	thv	Yella tẓa n tellemmin.	Aissimahfoud06	2018-10-30 19:39:58	2019-04-16 19:40:03

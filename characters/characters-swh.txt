@@ -1,79 +1,79 @@
-32	0x20	 	4423	10821501	swh	Aligongelea msumari kwenye bodi.	ecorralest101	2022-05-12 05:39:53	2023-02-18 03:53:05
-33	0x21	!	136	10889405	swh	Nyamaza! Amelala.	ecorralest101	2022-06-05 05:12:52	2023-02-21 17:26:28
-34	0x22	"	98	10891519	swh	"Una biashara gani hapa?" Aliuliza kijana.	ecorralest101	2022-06-06 05:11:12	2023-02-21 17:23:58
+32	0x20	 	4423	10811457	swh	Glovu imetoboka kwa kidole cha gumba.	ecorralest101	2022-05-08 05:06:08	2023-02-17 22:31:20
+33	0x21	!	136	10827407	swh	Waungwana, nyanyua kiti cha choo! Mabibi pia hupenda kukaa pakavu.	ecorralest101	2022-05-14 05:45:00	2023-02-19 02:57:20
+34	0x22	"	98	10896356	swh	"Halafu jukumu la kuunga kusaidia familia litanijia, kama kawaida hapo awali" mwanamke huyo alisema.	ecorralest101	2022-06-08 05:27:25	2023-02-21 19:55:34
 36	0x24	$	1	10872278	swh	Tiketi zinapatikana kwa $30 kwa watu wawili au $20 kwa mtu mmoja.	ecorralest101	2022-05-30 04:51:45	2023-02-21 16:55:28
 38	0x26	&	1	10877736	swh	Natumai kuwa onyesho hili la Punch & Judy limekaribia kukamilika.	ecorralest101	2022-06-01 05:07:07	2023-02-21 17:09:22
-39	0x27	'	27	10825013	swh	Alikuja akikimbia huku macho yaking'aa.	ecorralest101	2022-05-13 05:32:29	2023-02-17 22:45:04
+39	0x27	'	27	10868771	swh	Miguu ya popo ina mifupa miepesi. Muundo huu wa mifupa ni mzuri kwa kuruka na kuning'inia juu chini.	ecorralest101	2022-05-29 04:52:53	2023-02-20 03:18:57
 40	0x28	(	1	10804698	swh	Mikutano inapaswa kufanywa alasiri ya Julai 15 (Jumanne), siku nzima Julai 16 (Jumatano), na asubuhi ya Julai 17 (Alhamisi).	ecorralest101	2022-05-05 05:57:47	2023-02-17 22:19:40
 41	0x29	)	2	10850946	swh	Chimba dhahabu, chimba kisima, chimba mifupa ya kuku. :)	ecorralest101	2022-05-23 05:05:20	2023-02-19 14:41:59
 43	0x2b	+	1	10875063	swh	Damu ya O+ ndiyo aina maarufu zaidi.	ecorralest101	2022-05-31 05:43:54	2023-02-21 17:17:29
-44	0x2c	,	1045	10874786	swh	Tangu alipoanguka jikoni, akili yake haijawahi huko.	ecorralest101	2022-05-31 05:28:02	2023-02-21 17:08:10
-45	0x2d	-	32	10850885	swh	Kujifunza lugha mpya ni kama kukutana na mtu kwa mara ya kwanza ambaye kila wakati anadai kuwa umekosea, na mbaya zaidi - ana uwezo wa kuthibitisha.	ecorralest101	2022-05-23 05:01:53	2023-02-19 14:41:40
-46	0x2e	.	3942	9501396	swh	Gari limeharibika.	lovermann	2020-12-19 07:12:03	2020-12-19 07:12:03
-48	0x30	0	38	10848356	swh	Malkia Victoria aliolewa mnamo 1840.	ecorralest101	2022-05-22 04:26:37	2023-02-19 14:39:50
-49	0x31	1	46	10891579	swh	Duka hili wanatoa siku 15, hakuna swali linaloulizwa kuhusu sera ya kurudi bidhaa.	ecorralest101	2022-06-06 05:17:13	2023-02-21 19:12:32
-50	0x32	2	22	8999015	swh	Nina miaka 12.	Nyambura	2020-08-27 16:54:29	2020-08-27 16:54:29
-51	0x33	3	29	10814307	swh	Mwaka 1603, Mfalme James wa kwanza alipoingia madarakani, mpira wa miguu uliruhusiwa tena.	ecorralest101	2022-05-09 05:37:22	2023-02-17 22:36:16
-52	0x34	4	16	10884242	swh	Nambari zilizoshinda katika bahati nasibu ya jana zilikuwa 7, 18, 3, 41, na 6 kwa mpangilio huo.	ecorralest101	2022-06-03 04:33:58	2023-02-21 17:18:49
-53	0x35	5	16	10814231	swh	Je, unaweza kuwahakikishia utoaji kufikia Agosti 15?	ecorralest101	2022-05-09 05:33:00	2023-02-17 22:49:08
-54	0x36	6	11	10850100	swh	Katika miaka 3,400 iliyopita, wanadamu wamekuwa na amani kabisa kwa miaka 268 kati yao, au asilimia 8 tu katika historia.	ecorralest101	2022-05-23 04:17:42	2023-02-19 14:40:30
-55	0x37	7	9	10818792	swh	Kibubujiko hurusha maji moto futi 170 juu.	ecorralest101	2022-05-11 05:06:14	2023-02-18 04:00:29
-56	0x38	8	17	10889101	swh	Nitafanya kazi hadi 8:30 mchana.	ecorralest101	2022-06-05 04:55:37	2023-02-21 17:04:51
-57	0x39	9	12	10868800	swh	Mnamo 1963, Amerika na Umoja wa Kisovieti zilianza mbio ili kuona ni nani anayeweza kuweka mtu kwenye Mwezi kwanza.	ecorralest101	2022-05-29 04:54:30	2023-02-21 16:54:09
-58	0x3a	:	43	10833303	swh	Mtu huyo amepiga chini: mkewe amemwacha, amepoteza kazi, na yeye ni mlevi. Mbaya zaidi ni kwamba ninamjua - alikuwa bwana wangu miaka mitano iliyopita.	ecorralest101	2022-05-16 04:53:11	2023-02-19 03:11:20
-59	0x3b	;	35	10869576	swh	Maliza ghasia; tafuta amani.	ecorralest101	2022-05-29 06:24:55	2023-02-21 16:54:37
-63	0x3f	?	499	879853	swh	"Daudi, unataka twende kanisani?" "Hapana, baba. Sitaki leo. Nitakwenda kesho peke yangu."	ecorralest101	\N	2022-08-05 14:19:27
-65	0x41	A	480	10888856	swh	Aliagiza maharagwe na zilionja ladha nzuri baada ya mazoezi yote ya mwili.	ecorralest101	2022-06-05 04:41:36	2023-02-21 17:04:36
-66	0x42	B	228	10872332	swh	Baada ya kula ice cream, tumbo langu likaanza kuuma.	ecorralest101	2022-05-30 04:54:50	2023-02-21 17:07:00
-67	0x43	C	75	10896502	swh	Muda si mrefu utarudi China, kwahiyo, nitakuwa Sina mtu yeyote wa kushirikiana naye.	ecorralest101	2022-06-08 05:35:43	2023-02-21 19:51:08
-68	0x44	D	90	10831426	swh	Bwana, CD hiyo inapatikana tu kwa agizo maalum.	ecorralest101	2022-05-15 05:45:58	2023-02-19 02:52:08
-69	0x45	E	27	10845186	swh	Elimu ni muhimu.	ecorralest101	2022-05-21 03:49:46	2023-02-19 03:08:31
-70	0x46	F	53	3172959	swh	Farasi hii si mweupe.	ecorralest101	2014-04-13 14:16:09	2022-08-12 17:23:58
-71	0x47	G	39	10896077	swh	Tuliangaliana na Glenn!	ecorralest101	2022-06-08 05:10:56	2023-02-21 19:50:19
-72	0x48	H	341	10853507	swh	"Heri walio maskini rohoni, maana ufalme wa mbinguni ni wao.	ecorralest101	2022-05-24 03:59:49	2023-02-19 14:44:09
-73	0x49	I	157	10813799	swh	Ilikuwa jana asubuhi nilimwona Bwana Carter.	ecorralest101	2022-05-09 05:08:50	2023-02-17 22:34:45
-74	0x4a	J	364	10833853	swh	Japan ilitaka kumaliza tishio lolote la Urusi kwa Korea.	ecorralest101	2022-05-16 05:24:39	2023-02-19 02:55:09
-75	0x4b	K	559	10898449	swh	Kuna sehemu ya bahati iliyohusika.	ecorralest101	2022-06-09 06:53:16	2023-02-21 19:58:45
-76	0x4c	L	126	10850082	swh	Yeye ni mhitimu wa Ivy League.	ecorralest101	2022-05-23 04:16:41	2023-02-19 14:40:27
-77	0x4d	M	695	10807114	swh	Mimi ni mvulana tu anayefanya makosa.	ecorralest101	2022-05-06 04:45:27	2023-02-17 22:45:59
-78	0x4e	N	843	10850668	swh	Nilitembelea Brooklyn nilipokuwa New York.	ecorralest101	2022-05-23 04:49:25	2023-02-19 14:41:24
-79	0x4f	O	23	10855850	swh	Omba kwa Bikira Mtakatifu.	ecorralest101	2022-05-25 05:14:48	2023-02-19 14:45:33
-80	0x50	P	94	10830953	swh	Patty alikuwa mfupi sana kiasi kwamba hakuweza kufikia tawi.	ecorralest101	2022-05-15 05:19:58	2023-02-18 03:59:10
+44	0x2c	,	1045	10880636	swh	We Anne Shirley, umefanya nini kwenye nywele zako? Kwa nini, ni kijani!	ecorralest101	2022-06-02 05:07:37	2023-02-21 16:59:54
+45	0x2d	-	32	10814111	swh	Matangazo hayp ya biashara huleta hisia kali - hasusna muziki. Inakaa kichwani mwako.	ecorralest101	2022-05-09 05:26:26	2023-02-17 22:35:56
+46	0x2e	.	3942	10898295	swh	Mpenzi wangu wa zamani anataka kuharibu uhusiano wangu mpya.	ecorralest101	2022-06-09 06:38:56	2024-01-08 00:22:43
+48	0x30	0	38	10809492	swh	Ninataka ramani ya Texas kwa kiwango cha 1 hadi 250000.	ecorralest101	2022-05-07 05:10:11	2023-02-17 22:53:32
+49	0x31	1	46	10809173	swh	Hitler alitwa madaraka mnamo 1933.	ecorralest101	2022-05-07 04:53:10	2023-02-17 22:46:37
+50	0x32	2	22	10813538	swh	Kanisa hili lilianzia karne ya 12.	ecorralest101	2022-05-09 04:53:59	2023-02-17 22:33:41
+51	0x33	3	29	10872199	swh	Sikutoka hadi baada ya saa 8:30.	ecorralest101	2022-05-30 04:46:49	2023-02-21 16:55:19
+52	0x34	4	16	10833825	swh	Mwaka wa 1764, Bunge la Uingereza liliidhinisha Sheria ya sukari.	ecorralest101	2022-05-16 05:23:05	2023-02-19 02:54:59
+53	0x35	5	16	10809492	swh	Ninataka ramani ya Texas kwa kiwango cha 1 hadi 250000.	ecorralest101	2022-05-07 05:10:11	2023-02-17 22:53:32
+54	0x36	6	11	10814307	swh	Mwaka 1603, Mfalme James wa kwanza alipoingia madarakani, mpira wa miguu uliruhusiwa tena.	ecorralest101	2022-05-09 05:37:22	2023-02-17 22:36:16
+55	0x37	7	9	10820695	swh	Katika kanda ya Kusini, mauzo yalikuwa asilimia 47.	ecorralest101	2022-05-12 04:54:45	2023-02-17 22:42:10
+56	0x38	8	17	10880880	swh	Nimekuwa macho tangu asubuhi 8:30 usiku.	ecorralest101	2022-06-02 05:21:40	2023-02-21 17:20:39
+57	0x39	9	12	10811397	swh	Meli hiyo itaanza safari ya Hong Kong kesho saa 9 mchana.	ecorralest101	2022-05-08 05:02:38	2023-02-17 22:47:19
+58	0x3a	:	43	10845210	swh	Alikuwa na hamu moja tu: kufinyika na kuishi kati ya taa na vivuli.	ecorralest101	2022-05-21 03:51:10	2023-02-19 03:08:35
+59	0x3b	;	35	10886300	swh	Mwanaume wa kwanza kulinganisha mashavu ya mwanamke mchanga na waridi ni wazi alikuwa mshairi; wa kwanza kurudia labda ailikuwa mpumbavu.	ecorralest101	2022-06-04 04:09:16	2023-02-21 19:12:29
+63	0x3f	?	499	10818845	swh	Je, utajari Kama nitafunga dirisha? Nina baridi sana.	ecorralest101	2022-05-11 05:09:24	2023-02-18 03:52:01
+65	0x41	A	480	10825127	swh	Amerika nzima idadi kubwa ya vijana huingia vyuo vikuu kila mwaka.	ecorralest101	2022-05-13 05:38:54	2023-02-18 03:53:59
+66	0x42	B	228	10863597	swh	Bado kuna tofauti nyingi za kitamaduni kati ya Ujerumani wa Mashariki na ya Magharibi.	ecorralest101	2022-05-27 04:58:34	2023-02-20 03:08:08
+67	0x43	C	75	10831426	swh	Bwana, CD hiyo inapatikana tu kwa agizo maalum.	ecorralest101	2022-05-15 05:45:58	2023-02-19 02:52:08
+68	0x44	D	90	10811642	swh	Dereva aliikosea timu kweli wakati alipowapeleka kwenye uwanja usiofaa wa kucheza ulio mji tofauti.	ecorralest101	2022-05-08 05:37:51	2023-02-17 22:51:41
+69	0x45	E	27	10881294	swh	Tunaabudu msalaba wako, Ee Bwana.	ecorralest101	2022-06-02 05:44:12	2023-02-21 17:11:24
+70	0x46	F	53	10868697	swh	Dani alifungwa kwenye gereza la juu huko Florida.	ecorralest101	2022-05-29 04:48:41	2023-02-20 03:18:37
+71	0x47	G	39	3172875	swh	Gari yao si jizuri.	ecorralest101	2014-04-13 13:59:48	2022-08-13 15:45:51
+72	0x48	H	341	10812072	swh	Hii ni nafasi nzuri sana ya kupoteza.	ecorralest101	2022-05-08 06:02:22	2023-02-17 22:55:37
+73	0x49	I	157	10889721	swh	Nadhani ni chombo cha uzi? Je, ina nyuzi? Inapiga kelele? Halafu nadhani ni chombo cha uzi.	ecorralest101	2022-06-05 05:31:24	2023-02-21 17:15:16
+74	0x4a	J	364	10858659	swh	Lazima Carol na Jane waliisahau katika ofisi hiyo.	ecorralest101	2022-05-26 05:29:48	2023-02-19 14:47:31
+75	0x4b	K	559	10811203	swh	Kisha akavaa, akaingiza maandishi yake ya hotuba ndani ya muhtasari wake, akakimbia ngazi.	ecorralest101	2022-05-08 04:51:52	2023-02-17 22:30:57
+76	0x4c	L	126	10826912	swh	Kama Lincoln alivyosema kwa taifa lililogawanyika zaidi kuliko letu, sisi sio maadui bali marafiki.	ecorralest101	2022-05-14 05:18:53	2023-02-19 02:50:52
+77	0x4d	M	695	3175752	swh	Mimi ni nani?	ecorralest101	2014-04-14 14:04:14	2022-08-13 15:41:27
+78	0x4e	N	843	10874652	swh	Nguvu za Kiakili ni muhimu sana kwa mafanikio katika michezo yoyote.	ecorralest101	2022-05-31 05:20:40	2023-02-21 16:56:28
+79	0x4f	O	23	10842305	swh	Opera kwa Kiingereza ni, kwa ukuu, sawa na busara kama mchezo wa besiboli kwa Kiitalia.	ecorralest101	2022-05-20 04:23:15	2023-02-19 14:36:31
+80	0x50	P	94	10881085	swh	Pablo alijifunza kusoma alipokuwa na miaka mitano.	ecorralest101	2022-06-02 05:33:02	2023-02-21 17:00:37
 81	0x51	Q	1	10850894	swh	Je, utawala wa Bush na al-Qaida ni pande mbili za sarafu moja?	ecorralest101	2022-05-23 05:02:20	2023-02-19 14:41:44
-82	0x52	R	81	8998970	swh	Rick , jina langu la utani.	Nyambura	2020-08-27 16:35:46	2020-08-27 16:37:34
-83	0x53	S	361	10848512	swh	Sikutaka kupiga mayowe.	ecorralest101	2022-05-22 04:35:44	2023-02-20 03:06:49
-84	0x54	T	269	10831493	swh	Theluji inaweza kutokea leo jioni.	ecorralest101	2022-05-15 05:49:49	2023-02-19 02:52:34
-85	0x55	U	415	10886570	swh	Usifute ubao.	ecorralest101	2022-06-04 04:39:14	2023-02-21 17:13:30
-86	0x56	V	34	10875480	swh	Vumbi huenda isiwe hatari sana, lakini wakati hata kitu kidogo kinaposonga kwa kasi nyingi kuliko risasi, inaweza kusababisha jeraha.	ecorralest101	2022-05-31 06:07:38	2023-02-21 16:57:35
-87	0x57	W	322	10852937	swh	Waliiba duka la mapambo usiku.	ecorralest101	2022-05-24 03:26:32	2023-02-19 14:42:44
-89	0x59	Y	77	10853627	swh	Yeye ni dereva wa busi.	ecorralest101	2022-05-24 04:07:07	2023-02-19 15:03:50
-90	0x5a	Z	12	10837490	swh	Zikiwa zimesalia dakika tano kucheza kwenye robo ya tatu, mchezo ulisitishwa kwa sababu ya umeme.	ecorralest101	2022-05-18 04:15:29	2023-02-19 14:48:37
-97	0x61	a	4455	10889769	swh	Je, unampenda Francis?	ecorralest101	2022-06-05 05:34:08	2023-02-21 17:15:21
-98	0x62	b	2071	10840275	swh	Hadithi za kubuni huanza na sentensi ifuatayo, "Hapo zamani za kale" na huisha na "...na kama hawakufariki, basi wakohai mpaka sasa.	ecorralest101	2022-05-19 04:39:34	2023-02-19 03:04:22
-99	0x63	c	1025	10837548	swh	Monica hakusoma sana.	ecorralest101	2022-05-18 04:18:47	2023-02-19 14:48:56
-100	0x64	d	2023	10872101	swh	Gogo ndio sehemu kuu ya mti.	ecorralest101	2022-05-30 04:39:45	2023-02-21 17:16:51
-101	0x65	e	3340	10824534	swh	Waliandaa mfumo maalum wa kompyuta na kuisimamisha kwa kiti chake cha magurudumu.	ecorralest101	2022-05-13 05:05:49	2023-02-17 22:43:27
-102	0x66	f	1505	10850470	swh	Kuaga kwa bibi kulikuwa pigo kubwa kwa familia nzima.	ecorralest101	2022-05-23 04:38:10	2023-02-19 14:52:39
-103	0x67	g	1958	10835263	swh	Kasi ya juu iliyofikiwa na gari ilikuwa kilomita 5 kwa saa.	ecorralest101	2022-05-17 05:14:47	2023-02-19 02:59:59
-104	0x68	h	3080	10807240	swh	Sayansi ya matibabu imepiga hatua kubwa.	ecorralest101	2022-05-06 04:52:46	2023-02-17 22:20:26
-105	0x69	i	4347	10848197	swh	Tutaishughulikia.	ecorralest101	2022-05-22 04:17:30	2023-02-19 14:39:34
-106	0x6a	j	1509	10843092	swh	Ikiwa ninabadilisha jina langu ili niepuke maoni ya ubaguzi wa kirangi, kwa nini pia nisibadilishe rangi ya ngozi yangu?	ecorralest101	2022-05-20 05:08:02	2023-02-19 14:37:15
-107	0x6b	k	3802	10850732	swh	Nitakuhakikishia usalama wako.	ecorralest101	2022-05-23 04:53:09	2023-02-19 15:03:06
-108	0x6c	l	3008	10866377	swh	Mto wake ulikuwa na machozi.	ecorralest101	2022-05-28 05:53:25	2023-02-20 03:18:11
-109	0x6d	m	3342	10880402	swh	Supu hii lazima iandaliwe kisawasawa, kwa hatua za kisayansi.	ecorralest101	2022-06-02 04:54:14	2023-02-21 17:10:17
-110	0x6e	n	4060	10813409	swh	Nyoka nyingi katika kisiwa hiki hawadhuru.	ecorralest101	2022-05-09 04:46:36	2023-02-17 22:55:02
-111	0x6f	o	3052	10814000	swh	Jumapili moja asubuhi George aliingia sebuleni na kusema yafuatayo.	ecorralest101	2022-05-09 05:20:12	2023-02-17 22:52:20
-112	0x70	p	1574	10830953	swh	Patty alikuwa mfupi sana kiasi kwamba hakuweza kufikia tawi.	ecorralest101	2022-05-15 05:19:58	2023-02-18 03:59:10
-113	0x71	q	5	10886337	swh	Mfuko huu unagharimu quid sita.	ecorralest101	2022-06-04 04:13:20	2023-02-21 17:03:01
-114	0x72	r	1991	10858797	swh	Je, ni kosa la jinai kuchoma bendera ya Amerika?	ecorralest101	2022-05-26 05:37:54	2023-02-19 14:57:24
-115	0x73	s	2784	10884106	swh	Nilimaliza shule saa sita mchana.	ecorralest101	2022-06-03 04:25:54	2023-02-21 17:18:20
-116	0x74	t	2861	3176059	swh	Millie hali tufaha.	ecorralest101	2014-04-14 16:35:02	2022-08-13 15:34:31
-117	0x75	u	3940	10855781	swh	Asante, Mungu wa kike, mama wa dunia, kwa kuniita tena ulimwenguni.	ecorralest101	2022-05-25 05:10:50	2023-02-20 03:15:13
-118	0x76	v	665	10845071	swh	Anapenda sana vitabu vya Harry Potter.	ecorralest101	2022-05-21 03:43:09	2023-02-19 03:08:05
-119	0x77	w	3108	10898776	swh	Watu wenye asili ya Kianglo-Saxon au ya Kijerumani wanachukuliwa kuwa asilimia mia moja Wamarekani.	ecorralest101	2022-06-09 07:13:46	2022-08-13 17:55:03
-120	0x78	x	12	10868706	swh	Helikopta ilipigwa risasi na jeshi la Mexico.	ecorralest101	2022-05-29 04:49:12	2023-02-20 03:18:39
-121	0x79	y	2539	879777	swh	Hiyo si kweli hata kidogo.	ecorralest101	\N	2022-08-05 04:28:41
-122	0x7a	z	1932	10858369	swh	Hii ndiyo kompyuta niliyokueleza kuhusu.	ecorralest101	2022-05-26 05:12:58	2023-02-19 14:47:11
+82	0x52	R	81	10872778	swh	Robert Smith ndiye mwimbaji wa kikundi kinachoitwa The Cure.	ecorralest101	2022-05-30 05:20:37	2023-02-21 17:19:36
+83	0x53	S	361	10831160	swh	Wajerumani hawana ucheshi? Sioni kuwa ya kuchekesha.	ecorralest101	2022-05-15 05:30:59	2023-02-18 03:59:32
+84	0x54	T	269	10842569	swh	Tulikuwa unatarajia jambo la kufurahisha litafanyika.	ecorralest101	2022-05-20 04:38:05	2023-02-19 03:05:40
+85	0x55	U	415	10868785	swh	Upigaji picha ni aina ya kusafiri katika nyakati mbalimbali.	ecorralest101	2022-05-29 04:53:41	2023-02-21 16:54:04
+86	0x56	V	34	10845827	swh	Kwenye menyu kuu ya DVD hii hakuna kitufe cha 'Play Main Feature'.	ecorralest101	2022-05-21 04:26:46	2023-02-19 15:02:43
+87	0x57	W	322	10866950	swh	Wote waligeuka kuwaangalia.	ecorralest101	2022-05-28 06:22:06	2023-02-20 03:13:00
+89	0x59	Y	77	10825477	swh	Hii si damu. Yote yako nyuma kutoka kwa mpinzani wangu. Hakuna mkwaruzo hata mmoja kwangu.	ecorralest101	2022-05-13 05:58:47	2023-02-18 03:55:24
+90	0x5a	Z	12	10812103	swh	Ziara hii inahusika visiwa vyote vitano.	ecorralest101	2022-05-08 06:04:08	2023-02-17 22:54:51
+97	0x61	a	4455	10818328	swh	Ni bora uepuke majadiliano juu ya dini na siasa.	ecorralest101	2022-05-11 04:39:45	2023-02-17 22:39:30
+98	0x62	b	2071	10880466	swh	Unadhubutuje kunitendea kama mhalifu?	ecorralest101	2022-06-02 04:57:55	2023-02-21 17:10:30
+99	0x63	c	1025	10872948	swh	Je, bado unacheza tenisi.	ecorralest101	2022-05-30 05:30:25	2023-02-21 17:20:10
+100	0x64	d	2023	10840024	swh	Mfumo wa kisheria nchini Amerika ndio bora zaidi duniani.	ecorralest101	2022-05-19 04:25:12	2023-02-19 14:36:01
+101	0x65	e	3340	10896132	swh	Je! Kila mtu aliweza kutoroka kutoka meli inayochomeka?	ecorralest101	2022-06-08 05:14:16	2023-02-21 19:50:25
+102	0x66	f	1505	10868646	swh	Dani aliwaamuru walinda usalama kufunga milango yote ya kutoka ya jengo hilo.	ecorralest101	2022-05-29 04:45:45	2023-02-20 03:18:26
+103	0x67	g	1958	10842388	swh	Ng'ombe ni wakubwa na pembe zao ni ndefu, kondoo ni wadogo na pembe zao ni fupi.	ecorralest101	2022-05-20 04:27:49	2023-02-19 14:36:39
+104	0x68	h	3080	10884000	swh	Polepole lakini kwa kweli Kiingereza kinapoteza umuhimu huko Uropa.	ecorralest101	2022-06-03 04:19:44	2023-02-21 17:01:24
+105	0x69	i	4347	10804767	swh	Teknolojia imeshindwa kupunguza mzozo kati ya mwanadamu na maumbile.	ecorralest101	2022-05-05 06:01:48	2023-02-17 22:45:49
+106	0x6a	j	1509	10875501	swh	Japan inategemea nchi za Uarabuni kwa usambazaji wake wa mafuta.	ecorralest101	2022-05-31 06:08:52	2023-02-21 16:57:39
+107	0x6b	k	3802	10896372	swh	Mwanawe anajifunza kuendesha gari.	ecorralest101	2022-06-08 05:28:17	2023-02-21 19:55:37
+108	0x6c	l	3008	8580249	swh	Niliamka nikazunguka mjini, barabarani na hata vichochoroni, nikimtafuta yule wangu wa moyo.	Txoria	2020-02-27 10:24:50	2020-02-27 10:24:50
+109	0x6d	m	3342	10863928	swh	Kuanzisha biashara yake mwenyewe, aliungana na makampuni kadhaa zenye udhabiti zaidi.	ecorralest101	2022-05-27 05:17:29	2023-02-20 03:16:00
+110	0x6e	n	4060	10869783	swh	Mwezi wa Septemba tarehe 3, nitasafiri kutoka Los Angeles kwenda Seoul pamoja rafiki yangu.	ecorralest101	2022-05-29 06:35:29	2023-02-21 17:16:35
+111	0x6f	o	3052	10811611	swh	Wimbo huo unanikumbusha muigizaji maarufu wa sinema.	ecorralest101	2022-05-08 05:15:01	2023-02-17 22:51:35
+112	0x70	p	1574	10884461	swh	Mwana wa Mfalme, ambaye aliambiwa kwamba biti wa mfalme, ambaye hakuna mtu aliyemjua, amekuja, akakimbia kumpokea.	ecorralest101	2022-06-03 04:46:36	2023-02-21 17:12:50
+113	0x71	q	5	10804644	swh	Hili lilikuwa tukio la tatu laq ufiatuaji risasi katika shule ndani ya miezi sita.	ecorralest101	2022-05-05 05:54:40	2023-02-17 22:27:30
+114	0x72	r	1991	10886886	swh	Jambazi mwenyeji alikuwa akiendesha gari katikati ya jiji, akisimama mara kwa mara kuzungumza na watoto.	ecorralest101	2022-06-04 05:14:06	2023-02-21 17:04:00
+115	0x73	s	2784	10842827	swh	Wakati daktari akifuata jeneza la mgonjwa, kwa kweli ni wakati mwingine sababu inayofuata athari.	ecorralest101	2022-05-20 04:52:54	2023-02-19 15:05:30
+116	0x74	t	2861	10827175	swh	Karibu miti kadhaa ilikuwa imepandwa hivi karibuni.	ecorralest101	2022-05-14 05:33:10	2023-02-18 03:56:30
+117	0x75	u	3940	10852848	swh	Maaskari waliwalazimisha vijana wadogo kujiunga na jeshi.	ecorralest101	2022-05-24 03:21:19	2023-02-19 14:42:20
+118	0x76	v	665	944592	swh	Nilijisikia vibaya.	mayok	2011-06-19 10:52:21	2011-06-19 10:52:21
+119	0x77	w	3108	10827735	swh	Ningependa kukujulisha kwa rafiki yangu Luis.	ecorralest101	2022-05-14 05:59:33	2023-02-18 03:58:14
+120	0x78	x	12	10881138	swh	Orient-Express ni moja ya treni maarufu sana za abiria ulimwenguni.	ecorralest101	2022-06-02 05:35:54	2023-02-21 17:10:51
+121	0x79	y	2539	10884681	swh	Niambie ni nini kinachofaa kufanywa?	ecorralest101	2022-06-03 04:59:17	2023-02-21 17:02:20
+122	0x7a	z	1932	10866343	swh	Mfumo huu wa usalama inaturuhusu kufuata harakati za wafanyikazi popote waendapo.	ecorralest101	2022-05-28 05:51:39	2023-02-20 03:17:57
 8203	0x200b	​	1	10875403	swh	Kati yetu leo ​​mkusanyiko wa nguvu za kibinafsi bila usawa katika historia unakua.	ecorralest101	2022-05-31 06:03:08	2023-02-21 17:09:14
-8212	0x2014	—	2	10845322	swh	"Je, unafikiri Russia na Amerika wanaweza kuwa marafiki?" — "Ndio, kwa hakika! Nina uhakika kamili. Chochote kinachoweza kufanyika, rafiki yetu muhimu zaidi ni Amerika kwa hali yoyote, lakini iwe Amerika ya Kaskazini au Kusini - hiyo inakutegemea."	ecorralest101	2022-05-21 03:57:34	2023-02-19 14:50:19
+8212	0x2014	—	2	10888956	swh	"Sio siri," alilia. "Je, unafikiria kuwa barabara yote - London nzima, kwa jambo hilo —— Ondoka, Austin, hatukutaki hapa. Je, unafikiria kuwa wote hawazungumzi kukuhusu? "	ecorralest101	2022-06-05 04:47:17	2023-02-21 17:14:30
 8221	0x201d	”	1	10893922	swh	"Chukua hizi mbili. Utanilipa lini?" "Jumamosi, natumai, baba yangu atakapokuja sokoni." "Zingatia jambo hili, basi" "Usiwe na wasiwasi.”	ecorralest101	2022-06-07 05:42:38	2023-02-21 19:14:29

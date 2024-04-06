@@ -1,99 +1,99 @@
-32	0x20	 	7089	10248931	lvs	Kvīti nedrīkst pārsvītrot vai labot, un visi dati jāraksta kārtīgā un salasāmā rokrakstā.	GemMonkey	2021-08-18 08:00:36	2021-08-18 08:00:36
-33	0x21	!	311	11420922	lvs	Vai nav vienalga!	GemMonkey	2023-01-05 06:11:03	2023-01-05 06:11:03
-34	0x22	"	41	10244178	lvs	Nesāciet teikumu ar "bet".	GemMonkey	2021-08-15 15:50:14	2021-08-15 15:50:14
-37	0x25	%	5	10566971	lvs	No 2010. līdz 2017. gadam tūristu skaits, kas apmeklēja Islandi, palielinājās par gandrīz 400%.	GemMonkey	2021-12-17 04:55:35	2021-12-17 04:55:35
-39	0x27	'	12	2525205	lvs	Mana iesauka ir ''Itch.''	SilverBirdLV	2013-06-26 04:38:03	2013-06-26 04:38:03
+32	0x20	 	7100	2525279	lvs	Mans TV ir pārstājis darboties.	SilverBirdLV	2013-06-26 05:52:27	2013-06-26 05:52:27
+33	0x21	!	311	2527973	lvs	Kā ar tavām manierēm!	SilverBirdLV	2013-06-26 22:34:41	2023-11-08 18:10:37
+34	0x22	"	41	12096735	lvs	"Pat rūķi sāka ar mazumiņu" ir vācu režisora Vernera Hercoga 1970. gada filma.	GemMonkey	2023-10-05 06:34:14	2023-10-05 06:34:14
+37	0x25	%	5	10564590	lvs	Aptuveni 40% pasaules naftas ieguves jūrā tiek iegūti Indijas okeānā.	GemMonkey	2021-12-15 15:54:11	2021-12-15 15:54:11
+39	0x27	'	12	3368454	lvs	Jack Daniel's ir Tenesī viskijs	roobarb	2014-07-08 18:24:01	2014-07-08 18:24:01
 40	0x28	(	1	11438698	lvs	Veselais saprāts (kas patiesībā ir ļoti neparasts) ir labākais saprāts, ko es zinu: ievērojiet to; tas jums dos vislabāko padomu.	GemMonkey	2023-01-08 03:38:50	2023-01-08 03:38:50
 41	0x29	)	1	11438698	lvs	Veselais saprāts (kas patiesībā ir ļoti neparasts) ir labākais saprāts, ko es zinu: ievērojiet to; tas jums dos vislabāko padomu.	GemMonkey	2023-01-08 03:38:50	2023-01-08 03:38:50
-44	0x2c	,	1713	11517012	lvs	Diemžēl, visu laiku tā ir bijis.	GemMonkey	2023-02-07 09:28:31	2023-02-07 09:30:43
-45	0x2d	-	17	10566988	lvs	1931.-32. gadā Japāna okupēja Mandžūriju un 1937. gadā uzsāka pilna mēroga iebrukumu Ķīnā.	GemMonkey	2021-12-17 05:13:59	2021-12-17 05:14:22
-46	0x2e	.	6074	2928122	lvs	Viņš kaut ko teica.	\N	2013-12-13 15:58:30	2019-04-18 18:52:54
-48	0x30	0	20	11485934	lvs	Koimbras Universitāte tika dibināta 1290. gadā. Tā ir viena no vecākajām nepārtraukti strādājošajām universitātēm pasaulē.	GemMonkey	2023-01-26 08:08:29	2023-01-26 08:08:29
-49	0x31	1	44	10566964	lvs	2017. gada septembrī viesuļvētra Irma iznīcināja 95% no Senmartēnas Francijas puses.	GemMonkey	2021-12-17 04:49:59	2021-12-17 04:49:59
-50	0x32	2	20	11522066	lvs	Siriuss ir viena no 27 zvaigznēm uz Brazīlijas karoga.	GemMonkey	2023-02-09 05:21:27	2023-02-09 05:21:27
-51	0x33	3	15	11735632	lvs	Jūliusam un Etelam Rozenbergiem 1953. gadā tika izpildīts nāvessods par it kā kodolnoslēpumu nodošanu Padomju Savienībai.	GemMonkey	2023-05-04 04:57:27	2023-05-04 04:57:27
+44	0x2c	,	1718	10264854	lvs	Katras darbības raksturs ir atkarīgs no apstākļiem, kādos tā tiek veikta.	GemMonkey	2021-08-27 14:23:19	2021-08-27 14:23:19
+45	0x2d	-	17	1081978	lvs	Zelts - visvērtīgākais no visiem metāliem.	mz	2011-09-04 18:31:48	2011-09-04 18:31:48
+46	0x2e	.	6081	11417861	lvs	Saukt var dažādi, bet būtība no tā nemainās.	GemMonkey	2023-01-04 11:25:57	2023-01-04 11:25:57
+48	0x30	0	20	12096735	lvs	"Pat rūķi sāka ar mazumiņu" ir vācu režisora Vernera Hercoga 1970. gada filma.	GemMonkey	2023-10-05 06:34:14	2023-10-05 06:34:14
+49	0x31	1	44	11485934	lvs	Koimbras Universitāte tika dibināta 1290. gadā. Tā ir viena no vecākajām nepārtraukti strādājošajām universitātēm pasaulē.	GemMonkey	2023-01-26 08:08:29	2023-01-26 08:08:29
+50	0x32	2	20	12096743	lvs	Lai cik traki tas liktos, pundurzvaigznes var būt 20 reizes lielākas par mūsu sauli.	GemMonkey	2023-10-05 06:44:21	2023-10-05 06:44:21
+51	0x33	3	15	10539030	lvs	Skaitlis 54 ir pieņemams kantoniešu valodas runātājiem, kuriem tas nozīmē "nav miris". Ķīnieši dod priekšroku skaitlim 3, "dzīves" vai "dzimšanas" skaitlim. Protams, japāņiem un ķīniešiem ir dažādas kultūras.	GemMonkey	2021-12-01 14:45:27	2021-12-01 14:45:27
 52	0x34	4	15	11911657	lvs	Postoša kartupeļu sērga un bads skāra Īriju 1840. gados.	GemMonkey	2023-07-06 11:57:30	2023-07-06 11:57:30
-53	0x35	5	14	11735625	lvs	Grenlande 1814. gadā kļuva par dāņu un 1953. gadā pilnībā integrējās Dānijas štatā.	GemMonkey	2023-05-04 04:52:10	2023-05-04 04:52:10
-54	0x36	6	9	10566966	lvs	Pēc neatkarības no Apvienotās Karalistes 1966. gadā Basutolande tika pārdēvēta par Lesoto Karalisti.	GemMonkey	2021-12-17 04:52:11	2021-12-17 04:52:11
-55	0x37	7	14	10566964	lvs	2017. gada septembrī viesuļvētra Irma iznīcināja 95% no Senmartēnas Francijas puses.	GemMonkey	2021-12-17 04:49:59	2021-12-17 04:49:59
+53	0x35	5	14	11735632	lvs	Jūliusam un Etelam Rozenbergiem 1953. gadā tika izpildīts nāvessods par it kā kodolnoslēpumu nodošanu Padomju Savienībai.	GemMonkey	2023-05-04 04:57:27	2023-05-04 04:57:27
+54	0x36	6	9	11485923	lvs	Nevardarbības apustulis Mahatma Gandijs tika dzimis 1869. gadā.	GemMonkey	2023-01-26 08:00:35	2023-01-26 08:00:35
+55	0x37	7	14	10564591	lvs	Kā Ceilona tā kļuva neatkarīga 1948. gadā; tās nosaukums tika mainīts uz Šrilanku 1972. gadā.	GemMonkey	2021-12-15 15:54:43	2021-12-15 15:54:43
 56	0x38	8	14	11485919	lvs	Studenti protestēja Parīzē 1968. gadā.	GemMonkey	2023-01-26 07:53:20	2023-01-26 07:53:20
-57	0x39	9	28	11525209	lvs	Milzu bruņurupučus iznīcināja pirāti 18. un 19. gadsimtā.	GemMonkey	2023-02-10 09:13:24	2023-02-10 09:13:24
-58	0x3a	:	14	2107741	lvs	Totoro saka: "Es nerunāju ķīniešu."	Balamax	2012-12-27 18:25:48	2012-12-27 18:25:48
-59	0x3b	;	12	11434312	lvs	Man par godu, es nekad mūžā neesmu tikusies ar tik daudzām patīkamām meitenēm kā šovakar; un ir vairākas no tām, kuras jūs redzat neparasti glītas.	GemMonkey	2023-01-07 06:10:03	2023-01-07 06:10:03
-63	0x3f	?	843	11420935	lvs	Tātad?	GemMonkey	2023-01-05 06:18:16	2023-01-05 06:18:16
-65	0x41	A	226	10593482	lvs	Atnes man flautu.	GemMonkey	2021-12-30 10:58:53	2021-12-30 10:58:53
-66	0x42	B	168	12090181	lvs	Mennads iedvesmoja Baiju.	GemMonkey	2023-10-01 05:12:25	2023-10-01 05:12:25
-67	0x43	C	146	12391497	lvs	Cilvēki strādāja līdz savu iespēju robežai.	GemMonkey	2024-03-28 06:01:26	2024-03-28 06:01:26
-68	0x44	D	167	11445142	lvs	Dziļi dvēselē es ļoti labi zinu, ka tas nav pareizi.	GemMonkey	2023-01-09 07:42:33	2023-01-09 07:42:33
-69	0x45	E	1126	10250368	lvs	Es praktizēju savu servi nedēļām ilgi.	GemMonkey	2021-08-19 05:44:15	2021-08-19 05:44:15
-70	0x46	F	34	492705	lvs	Viņš ir nesen atgriezies no Francijas.	\N	2010-09-01 14:45:39	2019-04-16 14:33:19
-71	0x47	G	64	1825720	lvs	Gaiss ir mitrs.	Balamax	2012-09-08 07:40:47	2012-09-08 07:40:47
-72	0x48	H	25	12124872	lvs	“Bērnībā es vienmēr vēlējos kļūt par varoni,” sacīja Henrijs. “Tad, kad es uzaugu, es biju nulle.”	GemMonkey	2023-10-24 04:41:42	2023-10-24 04:41:42
-73	0x49	I	149	11737319	lvs	I smējos.	lieknins	2023-05-04 22:21:29	2023-05-04 22:21:29
-74	0x4a	J	252	11406913	lvs	Ja tu sāksi tā uzvesties, es aiziešu.	GemMonkey	2023-01-03 04:33:20	2023-01-03 04:33:20
-75	0x4b	K	513	5933197	lvs	Kad būsi grāmatu izlasījis, iedod to man.	astru	2017-03-09 23:49:28	\N
-76	0x4c	L	230	435261	lvs	Sveiks, Tom. Labrīt.	FeuDRenais	2010-07-23 06:12:10	2010-08-22 21:49:32
-77	0x4d	M	908	12100290	lvs	Mums tikai jāpavada savs laiks.	GemMonkey	2023-10-07 11:10:50	2023-10-07 11:10:50
-78	0x4e	N	294	12113736	lvs	Nenotiks ne viens, ne otrs.	GemMonkey	2023-10-18 10:45:18	2023-10-18 10:45:56
-79	0x4f	O	16	12103174	lvs	Oho, tas ir skaisti. Jūra spīd.	GemMonkey	2023-10-09 02:56:48	2023-10-09 02:56:48
-80	0x50	P	345	3366276	lvs	Protams, ka es neesmu redzējis visus marihuānas lietotājus. Taču marihuānas lietošana izraisa īslaicīgu stulbumu. To zin visi.	roobarb	2014-07-07 19:07:31	2014-07-07 19:07:31
-82	0x52	R	57	11540276	lvs	Reizēm Dienvidkarolīnā notiek zemestrīces.	GemMonkey	2023-02-16 04:22:03	2023-02-16 04:22:03
-83	0x53	S	292	11533295	lvs	Sāc dzīvot savu sapni.	GemMonkey	2023-02-13 05:39:44	2023-02-13 05:39:44
-84	0x54	T	1420	12187424	lvs	Tas, kas tev ir, ir parasta saaukstēšanās, nevis gripa.	GemMonkey	2023-11-30 19:25:24	2023-11-30 19:25:24
-85	0x55	U	65	11928546	lvs	Uzzīmējiet lūdzu plānu.	caneel2023	2023-07-13 16:28:04	2023-07-13 16:28:04
-86	0x56	V	1270	10242758	lvs	Vai vēlies kaut kur doties? Toms arī nāk.	GemMonkey	2021-08-15 03:41:56	2021-08-15 03:41:56
+57	0x39	9	28	11474780	lvs	Gnosticisms bija reliģiska kustība, kas vecāka par kristietību. Bija gan kristīgā, gan nekristīgā gnosticisma veidi, tāpat kā sinkrētisms jeb sajaukšanās. Viņi ticēja, ka cilvēki ir ieslodzīti savos ķermeņos un šajā ļaunajā materiālajā pasaulē, ko radīja kosmiska katastrofa, ļauna dievība, kas nebija Kristus. Kristīgie gnostiķi uzskatīja, ka Kristus bija viens no Pleromas, Dievišķās valstības, eoniem jeb dievišķajām būtnēm, kā tas aprakstīts Jāņa apokrifos, kas ir daļa no Nag Hammadi gnostiskās literatūras bibliotēkas. Glābšana notika ar ezotēriskām zināšanām, lai gan galu galā ar sevis izzināšanu. Gnostiķi ticēja labā gara un sliktas matērijas duālismam. Materiālā pasaule bija ļauna vieta, no kuras gnostiķiem bija jābēg. Viņi uzskatīja, ka ne visiem cilvēkiem ir Dievišķā Dzirksts. Eoni nāca no Galīgā Dieva, Monādes Pleromā. Gnosticisma izcelsme mūsdienās nav skaidra, taču tas, iespējams, nāca no Irānas vai tālāk uz austrumiem. Tam bija daudz grieķu ietekmes. Mūsdienās pēc Nag Hammadi bibliotēkas atklāšanas kā ar ādu iesietu papirusa kodi hermētiskā traukā Ēģiptē, 1945. gadā, daži cilvēki cenšas atdzīvināt gnosticismu. "Gnōsis" grieķu valodā nozīmē zināšanas.	GemMonkey	2023-01-21 11:49:39	2023-01-21 11:49:39
+58	0x3a	:	14	12291049	lvs	Varavīksnē ir septiņas krāsas: sarkana, oranža, dzeltena, zaļa, zila, indigo, violeta.	GemMonkey	2024-01-29 14:32:40	2024-01-29 14:32:40
+59	0x3b	;	12	10564591	lvs	Kā Ceilona tā kļuva neatkarīga 1948. gadā; tās nosaukums tika mainīts uz Šrilanku 1972. gadā.	GemMonkey	2021-12-15 15:54:43	2021-12-15 15:54:43
+63	0x3f	?	847	10538237	lvs	Vai tas jebkad ir noticis pirms tam?	GemMonkey	2021-12-01 05:53:19	2021-12-01 05:53:19
+65	0x41	A	226	10238715	lvs	Ar kuru cilvēku runāt vislabāk, lai iesniegtu sūdzību?	GemMonkey	2021-08-13 06:38:13	2021-08-13 06:38:13
+66	0x42	B	168	3089057	lvs	Lūk, mans noslēpums, tas ir ļoti vienkāršs: īsti mēs redzam tikai ar sirdi. Būtiskais nav acīm saredzams.	\N	2014-03-11 22:05:27	2019-04-16 12:09:43
+67	0x43	C	146	2536280	lvs	Cik garš ir tavs brālis?	UK	2013-06-30 20:59:07	2013-06-30 20:59:07
+68	0x44	D	167	10237589	lvs	Dari man zināmu, ja tev kaut kas ir vajadzīgs.	GemMonkey	2021-08-12 14:02:34	2021-08-12 14:02:34
+69	0x45	E	1126	12281770	lvs	Es to nopirku no ielu pārdevēja.	GemMonkey	2024-01-23 04:09:00	2024-01-23 04:09:00
+70	0x46	F	34	11933427	lvs	Frīgani ir cilvēki, kuri izmanto alternatīvas dzīves stratēģijas, kuru pamatā ir ierobežota līdzdalība tradicionālajā ekonomikā un minimāls resursu patēriņš.	GemMonkey	2023-07-16 07:21:01	2023-07-16 07:21:01
+71	0x47	G	64	12096869	lvs	Glābt pasauli bija mans bērnības sapnis.	GemMonkey	2023-10-05 09:23:26	2023-10-05 09:23:26
+72	0x48	H	25	2530046	lvs	Henrijam nav vairāk par sešiem dolāriem.	SilverBirdLV	2013-06-27 20:20:49	2013-06-27 20:20:49
+73	0x49	I	149	10237687	lvs	Ir neiespējami šeit apstāties.	GemMonkey	2021-08-12 15:27:12	2021-08-12 15:27:12
+74	0x4a	J	252	12103174	lvs	Oho, tas ir skaisti. Jūra spīd.	GemMonkey	2023-10-09 02:56:48	2023-10-09 02:56:48
+75	0x4b	K	516	12351619	lvs	Kā tu, parasts mirstīgais, uzdrošinājies kritizēt Tomu?	GemMonkey	2024-03-03 05:40:11	2024-03-03 05:40:11
+76	0x4c	L	230	11974937	lvs	Lai labi ripo!	GemMonkey	2023-08-01 17:23:53	2023-08-01 17:23:53
+77	0x4d	M	910	629689	lvs	Mēs esam gandrīz kā brāļi.	The_Sixth_Sense	2010-11-20 23:16:55	2010-11-20 23:16:55
+78	0x4e	N	294	11531104	lvs	Nē, es nekad nedzeru kafiju ar pienu.	GemMonkey	2023-02-12 11:19:38	2023-02-12 11:19:38
+79	0x4f	O	16	3364252	lvs	Optisko šķiedru kabeļi var caurlaist milzīgu daudzumu informācijas.	roobarb	2014-07-06 20:24:16	2014-07-06 20:25:37
+80	0x50	P	345	12103204	lvs	Pagaidi mazliet, līdz būšu gatavs.	GemMonkey	2023-10-09 03:32:25	2023-10-09 03:32:25
+82	0x52	R	57	11737286	lvs	Rīkojies ātrāk!	lieknins	2023-05-04 22:13:11	2023-05-04 22:13:11
+83	0x53	S	292	2589527	lvs	Sanāksme beigsies rīt.	UK	2013-07-13 14:34:46	2013-07-13 14:34:46
+84	0x54	T	1423	12121756	lvs	Tas ātri mainījās.	GemMonkey	2023-10-22 13:49:01	2023-10-22 13:49:01
+85	0x55	U	66	10254977	lvs	Urīns, kas atšķaidīts ūdenī 1:10, ir lielisks mēslojums.	GemMonkey	2021-08-21 18:45:57	2021-08-21 18:45:57
+86	0x56	V	1271	10538976	lvs	Vai tavā istabā ir silti?	GemMonkey	2021-12-01 14:30:22	2021-12-01 14:30:22
 88	0x58	X	1	10250324	lvs	Xi Jinping ir līdzīgs Vinnijam Pūkam.	GemMonkey	2021-08-19 04:06:44	2021-08-19 04:06:44
-90	0x5a	Z	117	12108597	lvs	Zāle un krūmi bija slapji no rasas.	GemMonkey	2023-10-12 09:04:23	2023-10-12 09:04:23
-97	0x61	a	6554	12093487	lvs	Pauls šķērsoja seklo straumi.	GemMonkey	2023-10-03 09:32:11	2023-10-03 09:32:11
-98	0x62	b	2341	9801753	lvs	Toms teica, ka Marijai nebija autovadītāja apliecības.	SilverBirdLV	2021-02-24 13:21:26	2021-02-24 13:21:26
-99	0x63	c	1505	12086830	lvs	Liec man zināt, vai šis raidieraksts bija noderīgs.	GemMonkey	2023-09-29 09:47:25	2023-09-29 09:47:25
-100	0x64	d	3807	8260428	lvs	Vai tu raudāji?	User77812	2019-10-16 20:52:15	2019-10-16 20:52:15
-101	0x65	e	5393	10253771	lvs	Toms labāk izvēlas novietot mašīnu aiz mājas.	GemMonkey	2021-08-21 06:43:29	2021-08-21 06:43:29
-102	0x66	f	238	12157961	lvs	Žirafes spēriens var nogalināt lauvu.	GemMonkey	2023-11-12 06:21:49	2023-11-12 06:21:49
-103	0x67	g	2272	10238879	lvs	Mācīties franču valodu nav grūti.	GemMonkey	2021-08-13 10:31:33	2021-08-13 10:31:33
-104	0x68	h	78	10256060	lvs	Kāda saimniecības tehnika jums ir jāpērk?	GemMonkey	2021-08-22 13:23:44	2021-08-22 13:23:44
-105	0x69	i	6638	3363812	lvs	Vai tomāts ir auglis vai dārzenis?	roobarb	2014-07-06 15:52:39	2014-07-06 15:52:39
-106	0x6a	j	3344	10238710	lvs	Es tikai gribēju redzēt, kā jums ir klājies.	GemMonkey	2021-08-13 06:28:43	2021-08-13 06:28:43
-107	0x6b	k	4194	11575034	lvs	Runāšana ir nepieciešamība, klausīšanās ir māksla.	GemMonkey	2023-03-04 08:28:14	2023-03-04 08:28:14
-108	0x6c	l	3623	10258466	lvs	Viņš palīdzēja vecajai dāmai piecelties no krēsla.	GemMonkey	2021-08-23 20:03:09	2021-08-23 20:03:09
-109	0x6d	m	4459	10262150	lvs	Viņa ir diezgan uzticama, vai ne?	GemMonkey	2021-08-26 07:01:54	2021-08-26 07:01:54
-110	0x6e	n	4711	6582552	lvs	No kurienes ir nākuši tavi senči?	User77812	2017-12-31 01:19:13	2017-12-31 01:19:13
-111	0x6f	o	3982	11429851	lvs	Gaume ir jākopj.	GemMonkey	2023-01-06 09:50:10	2023-01-06 09:50:10
-112	0x70	p	3327	11501246	lvs	Morāle ir darīt to, kas jums šķiet pareizi, neatkarīgi no tā, ko saka kāds cits. Bet jūsu reliģija sastāv no tā, ka darāt to, ko viņi jums liek darīt, neatkarīgi no tā, vai jums tas šķiet labi vai slikti.	GemMonkey	2023-02-01 10:02:36	2023-02-01 10:02:36
-114	0x72	r	5295	12117075	lvs	Pirms nosūtīšanas šādā veidā, lūdzu, aizlīmējiet kastes ar līmlenti.	GemMonkey	2023-10-20 05:03:11	2023-10-20 05:03:40
-115	0x73	s	6283	11708413	lvs	Vai tu esi kurla?	GemMonkey	2023-04-25 06:12:43	2023-04-25 06:12:43
-116	0x74	t	5410	12170966	lvs	Kļūdas gadās visiem, pat labākajiem no mums.	GemMonkey	2023-11-21 11:57:34	2023-11-21 11:57:34
-117	0x75	u	5042	12163776	lvs	Tu esi pārāk pieticīgs.	GemMonkey	2023-11-16 08:36:37	2023-11-16 08:36:37
-118	0x76	v	3804	12116965	lvs	Toms mūs visus sasmīdināja.	GemMonkey	2023-10-20 01:35:07	2023-10-20 01:35:07
+90	0x5a	Z	117	12211868	lvs	Zupai jābūt karstai.	GemMonkey	2023-12-16 03:50:31	2023-12-16 03:50:31
+97	0x61	a	6564	11420903	lvs	Bezsakars!	GemMonkey	2023-01-05 06:01:36	2023-01-05 06:01:36
+98	0x62	b	2344	12123381	lvs	Mēs sagaidījām labāku.	GemMonkey	2023-10-23 12:43:11	2023-10-23 12:43:11
+99	0x63	c	1507	11471452	lvs	Toms šķiet iedomīgs un pārliecināts par sevi.	GemMonkey	2023-01-20 05:35:23	2023-01-20 05:35:23
+100	0x64	d	3816	2527598	lvs	Tev vajadzētu uzrakstīt grāmatu!	SilverBirdLV	2013-06-26 19:06:01	2013-06-26 19:06:01
+101	0x65	e	5403	12134195	lvs	Žēl, ka jāzaudē tāda iespēja.	GemMonkey	2023-10-29 00:49:00	2023-10-29 00:49:00
+102	0x66	f	238	5490834	lvs	Man patīk fotogrāfēt.	robmen	2016-10-03 21:09:00	2016-10-03 21:09:00
+103	0x67	g	2278	11413451	lvs	Gērnika ir slavena Pablo Pikaso glezna, kas gleznota no 1937. gada maija līdz jūnijam un kuras nosaukums atsaucas uz Gērnikas bombardēšanu, kas notika tā gada 26. aprīlī Spānijas pilsoņu kara laikā.	GemMonkey	2023-01-04 06:30:32	2023-01-04 06:30:32
+104	0x68	h	78	10244155	lvs	Mani ļoti pārsteidza jūsu angļu valodas teikumu tulkojums uz holandiešu valodu.	GemMonkey	2021-08-15 15:41:08	2021-08-15 15:42:11
+105	0x69	i	6649	12157914	lvs	Viņa ir vēl skaistāka, kad viņa smaida.	GemMonkey	2023-11-12 05:08:44	2023-11-12 05:08:44
+106	0x6a	j	3350	10263988	lvs	Jums droši vien vajadzētu pateikt Tomam un Marijai, ka nākamajā reizē viņiem jābūt uzmanīgākiem.	GemMonkey	2021-08-27 07:19:05	2021-08-27 07:19:05
+107	0x6b	k	4200	12369495	lvs	Ja kaut kas sāk traucēt, ir viegli pazaudēt pavedienu.	GemMonkey	2024-03-13 08:05:03	2024-03-13 08:05:03
+108	0x6c	l	3630	12090185	lvs	Mani nokaunināja daudzu cilvēku klātbūtnē.	GemMonkey	2023-10-01 05:15:23	2023-10-01 05:15:23
+109	0x6d	m	4467	12165050	lvs	Viņi mudināja mūs nebaidīties.	GemMonkey	2023-11-17 07:17:34	2023-11-17 07:17:34
+110	0x6e	n	4717	3365874	lvs	Ar visu cieņu, prezidenta kungs, jūs esat smerdelis!	roobarb	2014-07-07 15:21:16	2014-07-07 15:22:05
+111	0x6f	o	3989	12378562	lvs	Daudziem cilvēkiem nepatīk dzirdēt jebkādus paskaidrojumus.	GemMonkey	2024-03-19 05:13:14	2024-03-19 05:13:14
+112	0x70	p	3334	5493686	lvs	Paspiedz man to telefonu.	robmen	2016-10-04 22:23:10	2016-10-04 22:23:10
+114	0x72	r	5306	3448642	lvs	Es esmu ļoti laimīga Gruzijā.	Balamax	2014-08-23 02:02:05	2014-08-23 02:02:05
+115	0x73	s	6292	10493528	lvs	Viņš viņai teica, ka nevēlas, lai viņa to vairs darītu.	GemMonkey	2021-11-08 06:40:19	2021-11-08 06:40:19
+116	0x74	t	5421	10657937	lvs	Kaķis mīļi pieglaudās, mēģinādams pievērst cilvēka uzmanību.	GemMonkey	2022-02-04 05:04:43	2022-02-04 05:04:43
+117	0x75	u	5050	11488530	lvs	Pērtiķi viens otru kopj.	GemMonkey	2023-01-27 06:43:12	2023-01-27 06:43:12
+118	0x76	v	3811	12140631	lvs	Sakausējums var izturēt augstus spiedienus.	GemMonkey	2023-11-01 20:42:57	2023-11-01 20:42:57
 119	0x77	w	1	12179954	lvs	Šveici vācu valodā sauc par “Schweiz”.	GemMonkey	2023-11-26 15:28:59	2023-11-26 15:28:59
-122	0x7a	z	3173	2657535	lvs	Es dzīvošu pilsētā.	\N	2013-08-06 16:12:58	2019-04-16 14:33:28
-160	0xa0	 	7	11911657	lvs	Postoša kartupeļu sērga un bads skāra Īriju 1840. gados.	GemMonkey	2023-07-06 11:57:30	2023-07-06 11:57:30
-256	0x100	Ā	15	12205652	lvs	Āboli no koka aiz Toma mājas ir ļoti garšīgi.	GemMonkey	2023-12-12 03:43:07	2023-12-12 03:43:07
-257	0x101	ā	3930	11533078	lvs	Sapņi runā patiesību.	GemMonkey	2023-02-13 04:19:24	2023-11-16 07:44:12
-268	0x10c	Č	12	12056398	lvs	Čūskas katru gadu nomet ādu.	GemMonkey	2023-09-15 08:37:35	2023-09-15 08:37:35
-269	0x10d	č	74	7355923	lvs	Nulle, viens, divi, trīs, četri, pieci, seši, septiņi, astoņi, deviņi, desmit.	\N	2018-10-28 18:41:00	2020-02-17 09:33:21
-274	0x112	Ē	14	10264063	lvs	Ēģipti arābu valodā sauc par "Misr".	GemMonkey	2021-08-27 07:36:32	2021-08-27 07:36:32
-275	0x113	ē	2765	10257318	lvs	Man to vairs nevajadzēs.	GemMonkey	2021-08-23 07:09:57	2021-08-23 07:09:57
-290	0x122	Ģ	5	12372964	lvs	Ģimene ātri pielāgojās jaunajai videi.	GemMonkey	2024-03-15 16:41:42	2024-03-15 16:41:42
-291	0x123	ģ	144	11485921	lvs	Suecas kanāla pabeigšana 1869. gadā padarīja Ēģipti par svarīgu pasaules transporta mezglu.	GemMonkey	2023-01-26 07:57:32	2023-01-26 07:57:32
-298	0x12a	Ī	7	10238685	lvs	Dublina atrodas Īrijā.	GemMonkey	2021-08-13 04:56:43	2021-08-13 04:56:43
-299	0x12b	ī	2888	10266701	lvs	Viņa pret viņu nekad nebija īpaši laipna.	GemMonkey	2021-08-28 16:12:58	2021-08-28 16:12:58
-310	0x136	Ķ	12	4904633	lvs	Ķēniņa meita ir princese.	Balamax	2016-02-11 19:10:44	2016-02-11 19:13:15
-311	0x137	ķ	299	12187511	lvs	Viņi viens otru ķircināja.	GemMonkey	2023-11-30 21:36:29	2023-11-30 21:36:29
-315	0x13b	Ļ	14	12100080	lvs	Ļaujiet man iedot jums savu tālruņa numuru, ja jums vajadzētu ar mani sazināties.	GemMonkey	2023-10-07 05:41:27	2023-10-07 05:41:27
-316	0x13c	ļ	766	12143459	lvs	Viņš ir ļoti taupīgs.	GemMonkey	2023-11-03 11:37:12	2023-11-03 11:37:12
+122	0x7a	z	3177	12207061	lvs	Toms uzkāpa kaķim uz astes.	GemMonkey	2023-12-13 03:54:08	2023-12-13 03:54:08
+160	0xa0	 	7	10566964	lvs	2017. gada septembrī viesuļvētra Irma iznīcināja 95% no Senmartēnas Francijas puses.	GemMonkey	2021-12-17 04:49:59	2021-12-17 04:49:59
+256	0x100	Ā	15	6806078	lvs	Ātrāk. Lūdzu, palīdzi man.	User77812	2018-03-29 00:37:24	2018-03-29 00:37:24
+257	0x101	ā	3940	5493659	lvs	Sen atpakaļ milži valdīja pār pasauli.	robmen	2016-10-04 22:18:42	2016-10-04 22:18:42
+268	0x10c	Č	12	435268	lvs	Sveiks, Čikāga!	FeuDRenais	2010-07-23 06:28:00	2010-08-15 22:55:07
+269	0x10d	č	74	11540473	lvs	Kalnrači reizēm atrod milzīgas alas, kad viņi urbjas cauri akmens sienai.	GemMonkey	2023-02-16 08:13:42	2023-02-16 08:13:42
+274	0x112	Ē	14	11474229	lvs	Nag Hammadi bibliotēka, kas tika atklāta Ēģiptes tuksnesī 1945. gadā, ir gnostiska un satur daudzas Jēzus slepenās mācības.	GemMonkey	2023-01-21 05:43:24	2023-01-21 05:43:24
+275	0x113	ē	2772	12058307	lvs	Apskatot sarūsējušo instrumentu, pamanīju blāvas sen vairs neesošas markas zīmotnes.	GemMonkey	2023-09-16 11:59:48	2023-09-16 11:59:48
+290	0x122	Ģ	5	12307351	lvs	Ģērbies pieticīgi.	GemMonkey	2024-02-09 05:09:31	2024-02-09 05:09:31
+291	0x123	ģ	144	12109276	lvs	Tumsā mirdz slapjais bruģis, un vējā šūpojas blāva laterna.	GemMonkey	2023-10-12 17:15:41	2023-10-12 17:15:41
+298	0x12a	Ī	7	11933222	lvs	Kamēr Ītana tētis uzskatīja, ka jauno kameru ir diezgan grūti ieslēgt, Ītans zināja, kā to viegli ieslēgt un izslēgt.	GemMonkey	2023-07-16 05:51:43	2023-07-16 05:51:43
+299	0x12b	ī	2894	10494081	lvs	Ziri slidināja savu pirkstu lejup pa Rimas krūtīm un vēderu	Provo	2021-11-08 12:23:16	2021-11-08 12:23:16
+310	0x136	Ķ	12	12122972	lvs	Ķerieties pie lietas cītīgi, bet pie metodes saudzīgi!	GemMonkey	2023-10-23 04:37:07	2023-10-23 04:38:38
+311	0x137	ķ	301	10242947	lvs	Vēlāk es jums nosūtīšu e-pastu ķīniešu valodā.	GemMonkey	2021-08-15 07:19:00	2021-08-15 07:19:00
+315	0x13b	Ļ	14	10738103	lvs	Ļaujiet man to darīt citā veidā.	GemMonkey	2022-03-26 08:47:33	2022-03-26 08:47:33
+316	0x13c	ļ	771	11963242	lvs	No japāņu valodas izriet daži angļu valodas vārdi.	GemMonkey	2023-07-28 05:45:31	2023-07-28 05:45:31
 325	0x145	Ņ	3	2133311	lvs	Mans tēvocis dzīvo Ņujorkā.	Balamax	2013-01-09 16:41:49	2013-01-09 16:41:49
-326	0x146	ņ	1501	12170783	lvs	Toms ir sniegpārsliņa.	GemMonkey	2023-11-21 06:24:18	2023-11-21 06:24:18
+326	0x146	ņ	1503	12157914	lvs	Viņa ir vēl skaistāka, kad viņa smaida.	GemMonkey	2023-11-12 05:08:44	2023-11-12 05:08:44
 333	0x14d	ō	1	11474780	lvs	Gnosticisms bija reliģiska kustība, kas vecāka par kristietību. Bija gan kristīgā, gan nekristīgā gnosticisma veidi, tāpat kā sinkrētisms jeb sajaukšanās. Viņi ticēja, ka cilvēki ir ieslodzīti savos ķermeņos un šajā ļaunajā materiālajā pasaulē, ko radīja kosmiska katastrofa, ļauna dievība, kas nebija Kristus. Kristīgie gnostiķi uzskatīja, ka Kristus bija viens no Pleromas, Dievišķās valstības, eoniem jeb dievišķajām būtnēm, kā tas aprakstīts Jāņa apokrifos, kas ir daļa no Nag Hammadi gnostiskās literatūras bibliotēkas. Glābšana notika ar ezotēriskām zināšanām, lai gan galu galā ar sevis izzināšanu. Gnostiķi ticēja labā gara un sliktas matērijas duālismam. Materiālā pasaule bija ļauna vieta, no kuras gnostiķiem bija jābēg. Viņi uzskatīja, ka ne visiem cilvēkiem ir Dievišķā Dzirksts. Eoni nāca no Galīgā Dieva, Monādes Pleromā. Gnosticisma izcelsme mūsdienās nav skaidra, taču tas, iespējams, nāca no Irānas vai tālāk uz austrumiem. Tam bija daudz grieķu ietekmes. Mūsdienās pēc Nag Hammadi bibliotēkas atklāšanas kā ar ādu iesietu papirusa kodi hermētiskā traukā Ēģiptē, 1945. gadā, daži cilvēki cenšas atdzīvināt gnosticismu. "Gnōsis" grieķu valodā nozīmē zināšanas.	GemMonkey	2023-01-21 11:49:39	2023-01-21 11:49:39
-352	0x160	Š	241	12078934	lvs	Šakāļi ir veikli.	GemMonkey	2023-09-26 06:01:42	2023-09-26 06:01:42
-353	0x161	š	1786	12139841	lvs	Durvis aizvērās ar būkšķi.	GemMonkey	2023-11-01 13:49:31	2023-11-01 13:49:31
+352	0x160	Š	242	11406967	lvs	Šī sieviete sapņo par mani.	GemMonkey	2023-01-03 06:40:06	2023-01-03 06:40:06
+353	0x161	š	1791	9521827	lvs	Mani vecāki ne par ko nešaubījās.	\N	2020-12-22 17:23:12	2021-01-04 05:42:23
 362	0x16a	Ū	4	12184796	lvs	Ūdens pārklāj lielāko daļu Zemes virsmas.	GemMonkey	2023-11-29 11:29:48	2023-11-29 11:29:48
-363	0x16b	ū	1264	5490924	lvs	Bet jūs tur neesat.	robmen	2016-10-03 21:29:30	2016-10-03 21:29:43
-381	0x17d	Ž	13	12157961	lvs	Žirafes spēriens var nogalināt lauvu.	GemMonkey	2023-11-12 06:21:49	2023-11-12 06:21:49
-382	0x17e	ž	347	2528350	lvs	Mazus uzņēmumus bieži pārņem liela kompānija.	UK	2013-06-27 01:21:38	2013-06-27 01:21:47
+363	0x16b	ū	1267	1980149	lvs	Es saprotu jūsu valodu.	Balamax	2012-11-03 21:42:13	2012-11-03 21:42:13
+381	0x17d	Ž	13	12180586	lvs	Žagatas ir pārāk skaļas.	GemMonkey	2023-11-27 04:40:08	2023-11-27 04:40:08
+382	0x17e	ž	347	10238193	lvs	Vari redzēt, cik Alžīrijā banāni labi aug.	GemMonkey	2021-08-12 19:31:18	2021-08-12 19:31:18
 1086	0x43e	о	1	1086629	lvs	Vienīgais, kо tu vari darīt ir - gaidīt.	mz	2011-09-06 21:54:36	2011-09-06 21:57:23
 8203	0x200b	​	4	12142513	lvs	Ne nauda, ​​ne slava viņu nepadarīja laimīgu.	GemMonkey	2023-11-02 21:08:12	2023-11-02 21:08:12
 8211	0x2013	–	2	10237546	lvs	"Tas tā nevar būt!" – "Bet tas tā ir!"	GemMonkey	2021-08-12 13:22:42	2021-08-12 13:25:02
 8212	0x2014	—	1	11446721	lvs	"Frenk, Zoroastrisms ir persiešu reliģija, kas bija pirms Islāma." — Pastāsti man vairāk, Don. "Zoroastrieši izmanto uguni attīrīšanas rituālos. Viņi bieži lūdz uguns klātbūtnē." — Aizraujoši, Don	GemMonkey	2023-01-09 13:37:59	2023-01-09 13:37:59
-8220	0x201c	“	14	12180577	lvs	Horvātiju horvātu valodā sauc par “Hrvatska”.	GemMonkey	2023-11-27 04:20:20	2023-11-27 04:20:20
-8221	0x201d	”	14	12090046	lvs	Meredita paņem mazu, zaļu sūnu pleķīti starp garas, brūnas zāles pudurīšiem, kas aizmiguši no rudens aukstuma. “Paskatieties uz visām šīm mazajām bioloģiskās daudzveidības drusciņām,” viņa teica. “Tas ir kā maza fantāziju pasaule, kas tur notiek.”	GemMonkey	2023-09-30 23:41:29	2023-09-30 23:41:29
+8220	0x201c	“	14	11474021	lvs	Tas ir paradokss, ka “jo vairāk tu steidzies, jo lēnāks tu kļūsti”.	GemMonkey	2023-01-21 05:21:27	2023-11-15 00:11:20
+8221	0x201d	”	14	11505963	lvs	“Zvaigžņu Ceļa” oriģinālās epizodes viņu iedzina transā.	GemMonkey	2023-02-03 06:17:57	2023-02-03 06:17:57

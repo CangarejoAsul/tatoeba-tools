@@ -1,84 +1,84 @@
-32	0x20	 	1646	11183886	bos	Govorim samo malo njemački.	Boshnjanin	2022-10-16 19:53:51	2022-10-16 19:53:51
-33	0x21	!	117	11183510	bos	Odmah počni!	Boshnjanin	2022-10-16 17:47:45	2022-10-16 17:47:45
-34	0x22	"	12	11183291	bos	Hrvatska se zove "Hrvatska" na hrvatskom jeziku.	Boshnjanin	2022-10-16 17:15:53	2022-10-16 17:15:53
-37	0x25	%	2	11183329	bos	Čovjek je 70% voda.	Boshnjanin	2022-10-16 17:19:08	2022-10-16 17:20:17
+32	0x20	 	1646	2503840	bos	Nisam Darth Vader.	onlyslavic	2013-06-17 10:47:21	2013-06-17 10:47:21
+33	0x21	!	117	11183677	bos	Vrijeme je tako lijepo!	Boshnjanin	2022-10-16 17:59:50	2022-10-16 17:59:50
+34	0x22	"	12	11183546	bos	"Voliš li zmije?'" - "Naravno da ne."	Boshnjanin	2022-10-16 17:50:08	2022-10-17 14:08:31
+37	0x25	%	2	11183055	bos	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.	Boshnjanin	2022-10-16 17:00:09	2022-10-16 17:00:09
 39	0x27	'	2	11183546	bos	"Voliš li zmije?'" - "Naravno da ne."	Boshnjanin	2022-10-16 17:50:08	2022-10-17 14:08:31
-44	0x2c	,	147	11185479	bos	Koliko mi je poznato, nema.	Boshnjanin	2022-10-17 13:13:42	2022-10-17 13:13:42
-45	0x2d	-	6	11183279	bos	Ne, ja nisam iz SAD-a.	Boshnjanin	2022-10-16 17:15:14	2022-10-16 17:15:14
-46	0x2e	.	1347	11183753	bos	Tako sam zauzet da ti ne mogu pomoći.	Boshnjanin	2022-10-16 18:05:36	2022-10-16 18:05:36
-47	0x2f	/	4	11182809	bos	Kada ste rođeni? Tisuću/Hiljadu devetsto devedeset šest godine.	Boshnjanin	2022-10-16 16:28:13	2022-10-16 16:28:13
-48	0x30	0	4	11183179	bos	Ona će platiti najviše 50 dolara.	Boshnjanin	2022-10-16 17:09:08	2022-10-16 17:09:08
+44	0x2c	,	147	11183102	bos	Šalicu čaja, molim.	Boshnjanin	2022-10-16 17:03:47	2022-10-16 17:03:47
+45	0x2d	-	6	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
+46	0x2e	.	1347	11182782	bos	Deset stvari bez kojih ne mogu.	Boshnjanin	2022-10-16 16:23:38	2022-10-16 16:23:38
+47	0x2f	/	4	11186190	bos	Imate li ovo malo/veliko/srednje?	Boshnjanin	2022-10-17 17:14:21	2022-10-17 17:14:37
+48	0x30	0	4	11183329	bos	Čovjek je 70% voda.	Boshnjanin	2022-10-16 17:19:08	2022-10-16 17:20:17
 49	0x31	1	3	11183567	bos	U slučaju požara, zovite 119.	Boshnjanin	2022-10-16 17:52:03	2022-10-16 17:52:03
 50	0x32	2	2	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
 51	0x33	3	1	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
 52	0x34	4	2	11183055	bos	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.	Boshnjanin	2022-10-16 17:00:09	2022-10-16 17:00:09
-53	0x35	5	4	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
+53	0x35	5	4	11183179	bos	Ona će platiti najviše 50 dolara.	Boshnjanin	2022-10-16 17:09:08	2022-10-16 17:09:08
 54	0x36	6	1	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
-55	0x37	7	2	11183329	bos	Čovjek je 70% voda.	Boshnjanin	2022-10-16 17:19:08	2022-10-16 17:20:17
+55	0x37	7	2	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
 56	0x38	8	2	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
-57	0x39	9	3	11183567	bos	U slučaju požara, zovite 119.	Boshnjanin	2022-10-16 17:52:03	2022-10-16 17:52:03
-58	0x3a	:	9	11183049	bos	Tatoeba: rečenice, rečenica i još rečenica.	Boshnjanin	2022-10-16 16:59:48	2022-10-16 16:59:48
+57	0x39	9	3	4543722	bos	Moj broj telefona je 9876-5432.	Ricardo14	2015-09-22 03:58:21	2015-09-22 03:58:28
+58	0x3a	:	9	2516329	bos	Kaže se: Psi laju a ljudi putuju.	serbobosnacroat	2013-06-22 15:34:02	2013-06-22 15:34:02
 59	0x3b	;	2	3427495	bos	Imam novu djevojku; zar nisi znala?	\N	2014-08-14 20:10:41	2016-01-28 18:37:58
-63	0x3f	?	273	11185503	bos	Šta preporučuje Mujo svom šefu?	Boshnjanin	2022-10-17 13:19:57	2022-10-17 13:19:57
-65	0x41	A	33	7804404	bos	Da li su sada Tom i Marija u Australiji?	bokalabocca	2019-03-10 14:13:54	2019-03-10 14:13:54
-66	0x42	B	74	11183670	bos	Bob mi piše jednom mjesečno.	Boshnjanin	2022-10-16 17:59:19	2022-10-16 17:59:19
-67	0x43	C	9	3013976	bos	Ovo je Copacabana!	Ricardo14	2014-01-29 01:01:23	2016-01-16 19:55:32
-68	0x44	D	107	11185589	bos	Drago mi je da to čujem da ljudi žele moj povratak.	Boshnjanin	2022-10-17 13:36:26	2022-10-17 13:36:26
-69	0x45	E	16	11185519	bos	Jeste li vi Engleskinja?	Boshnjanin	2022-10-17 13:23:13	2022-10-17 13:23:13
-70	0x46	F	12	11721219	bos	Francuski je Tomov najjači jezik.	Inego	2023-04-29 07:43:52	2023-04-29 07:43:52
-71	0x47	G	49	11980170	bos	Gladan sam.	enebi	2023-08-04 15:29:02	2023-08-04 15:29:02
-72	0x48	H	30	5220994	bos	Hvala svima na dolasku! Vidimo se sljedeći put.	Ricardo14	2016-06-18 03:12:52	2016-06-18 03:13:14
-73	0x49	I	102	11182952	bos	Ispred čije kuće ste parkirali auto?	Boshnjanin	2022-10-16 16:45:51	2022-10-16 16:45:51
-74	0x4a	J	113	11183062	bos	Je li me uopće slušaš?	Boshnjanin	2022-10-16 17:00:47	2022-10-16 17:00:47
-75	0x4b	K	127	11185613	bos	Kako je dobro biti izvan grada u prirodi!	Boshnjanin	2022-10-17 13:39:42	2022-10-17 13:39:42
-76	0x4c	L	24	2503839	bos	Zovem se Laurie.	onlyslavic	2013-06-17 10:46:42	2013-06-17 10:46:42
-77	0x4d	M	172	469079	bos	Moje je, nije njegovo.	FeuDRenais	2010-08-18 15:49:13	2010-08-18 15:49:24
-78	0x4e	N	189	11183077	bos	Nadali smo se da će kiša prestati do ručka.	Boshnjanin	2022-10-16 17:02:18	2022-10-16 17:02:18
-79	0x4f	O	168	4635798	bos	Obukao se kao žena.	\N	2015-10-23 05:28:59	2015-10-23 05:31:03
-80	0x50	P	111	4635651	bos	Da li si ikada bio u Parizu ?	Boshnjanin	2015-10-23 04:40:10	2022-10-16 15:52:37
-82	0x52	R	37	11183182	bos	Rajčice, bilo svježe ili kuhane, su uvijek ukusni dodatak.	Boshnjanin	2022-10-16 17:09:20	2022-10-16 17:09:20
-83	0x53	S	129	10198913	bos	Srećan Božić!	bokalabocca	2021-07-29 15:12:09	2021-07-29 15:12:09
-84	0x54	T	188	4639967	bos	Tom je bio preplašen.	\N	2015-10-24 13:29:04	2015-10-24 13:31:04
-85	0x55	U	59	11183567	bos	U slučaju požara, zovite 119.	Boshnjanin	2022-10-16 17:52:03	2022-10-16 17:52:03
-86	0x56	V	79	11185489	bos	Vratili smo se s odmora.	Boshnjanin	2022-10-17 13:17:24	2022-10-17 13:17:24
+63	0x3f	?	273	475446	bos	Njegovo je, zar ne?	FeuDRenais	2010-08-22 19:17:48	2010-08-22 19:17:48
+65	0x41	A	33	11183239	bos	Prešli su Atlantik.	Boshnjanin	2022-10-16 17:13:11	2022-10-16 17:13:11
+66	0x42	B	74	11183295	bos	Bosna se zove "Bosna" na bosanskom jeziku.	Boshnjanin	2022-10-16 17:16:16	2022-10-16 17:16:16
+67	0x43	C	9	11185243	bos	Cijenim ga.	Boshnjanin	2022-10-17 12:18:10	2022-10-17 12:18:10
+68	0x44	D	107	4635651	bos	Da li si ikada bio u Parizu ?	Boshnjanin	2015-10-23 04:40:10	2022-10-16 15:52:37
+69	0x45	E	16	478206	bos	Ovo je moja žena Edita.	FeuDRenais	2010-08-24 13:19:13	2010-08-24 13:19:13
+70	0x46	F	12	7788364	bos	Fantastično!	bokalabocca	2019-02-25 07:37:11	2019-02-25 07:37:11
+71	0x47	G	49	2503159	bos	Gdje je Laurie?	onlyslavic	2013-06-16 23:44:13	2013-06-16 23:44:13
+72	0x48	H	30	11183188	bos	Hrvatska se nalazi u jugoistočnom dijelu Europe.	Boshnjanin	2022-10-16 17:09:30	2022-10-16 17:09:30
+73	0x49	I	102	7523440	bos	Imam laptop.	Ricardo14	2018-11-24 12:51:07	2018-11-24 12:52:22
+74	0x4a	J	113	11182824	bos	Jede mi se.	Boshnjanin	2022-10-16 16:31:31	2022-10-16 16:31:31
+75	0x4b	K	127	11185622	bos	Kakvo je vrijeme na moru?	Boshnjanin	2022-10-17 13:40:59	2022-10-17 13:40:59
+76	0x4c	L	24	11183446	bos	Ljudi nemaju novca.	Boshnjanin	2022-10-16 17:42:10	2022-10-16 17:42:10
+77	0x4d	M	172	11182679	bos	Ovo je Markovo pivo.	Boshnjanin	2022-10-16 16:09:40	2022-10-16 16:09:40
+78	0x4e	N	189	12117047	bos	Ne mogu da živim u inozemstvu.	enebi	2023-10-20 04:12:11	2023-10-20 04:12:11
+79	0x4f	O	168	7414232	bos	Ona te voli.	Ricardo14	2018-11-04 01:34:47	2018-11-04 01:34:53
+80	0x50	P	111	10198894	bos	Požar!	bokalabocca	2021-07-29 15:08:46	2021-07-29 15:08:46
+82	0x52	R	37	11183690	bos	Riba na suhom.	Boshnjanin	2022-10-16 18:00:48	2022-10-16 18:00:48
+83	0x53	S	129	3040328	bos	Svi smo željni da vide film.	Ricardo14	2014-02-10 09:56:11	2014-02-10 09:56:21
+84	0x54	T	188	11183684	bos	Imaš li ideju ko je mogao ubiti Toma?	Boshnjanin	2022-10-16 18:00:12	2022-10-16 18:00:18
+85	0x55	U	59	11186129	bos	Uzmi koji god hoćeš!	Boshnjanin	2022-10-17 17:01:42	2022-10-17 17:01:42
+86	0x56	V	79	11183373	bos	Vidjećemo ga kasnije.	Boshnjanin	2022-10-16 17:22:14	2022-10-16 17:22:14
 87	0x57	W	1	9988242	bos	Sviđa li ti se Wagner?	\N	2021-04-26 16:32:10	2021-04-26 19:59:54
 88	0x58	X	1	478248	bos	Kako se kaže XXX na holandskom jeziku?	FeuDRenais	2010-08-24 19:50:36	2010-08-24 19:52:44
 89	0x59	Y	1	11158376	bos	Yanni je bio na koncertu.	janTuki	2022-10-04 20:07:03	2022-10-04 20:07:03
-90	0x5a	Z	51	11183722	bos	Zaista nemam vremena.	Boshnjanin	2022-10-16 18:03:04	2022-10-16 18:03:04
-97	0x61	a	1508	10198918	bos	Prestani gunđati.	bokalabocca	2021-07-29 15:14:01	2021-07-29 15:14:01
-98	0x62	b	442	11183562	bos	Ja ću ti pomoći najbolje što mogu.	Boshnjanin	2022-10-16 17:51:39	2022-10-16 17:51:39
-99	0x63	c	215	11183931	bos	Trebaju mu nove cipele.	Boshnjanin	2022-10-16 20:09:25	2022-10-16 20:09:25
-100	0x64	d	817	11186094	bos	Zoran kaže da će me nazvati.	Boshnjanin	2022-10-17 16:56:45	2022-10-17 16:56:45
-101	0x65	e	1469	11183013	bos	Budi smiren.	Boshnjanin	2022-10-16 16:56:59	2022-10-16 16:56:59
-102	0x66	f	44	7785669	bos	Možda Tom zna da priča francuski.	bokalabocca	2019-02-23 00:54:42	2019-02-23 00:54:42
-103	0x67	g	426	9988242	bos	Sviđa li ti se Wagner?	\N	2021-04-26 16:32:10	2021-04-26 19:59:54
-104	0x68	h	118	11186129	bos	Uzmi koji god hoćeš!	Boshnjanin	2022-10-17 17:01:42	2022-10-17 17:01:42
-105	0x69	i	1445	11183606	bos	1950ih se govorilo da Finci spadaju među narode s najnezdravijim navikama hranjenja.	Boshnjanin	2022-10-16 17:54:40	2022-10-16 17:54:40
-106	0x6a	j	1103	11183888	bos	Žao mi je!	Boshnjanin	2022-10-16 19:54:06	2022-10-16 19:54:06
-107	0x6b	k	746	11182785	bos	Možete li mi reći da li je gospođa Kapetanović kod kuće?	Boshnjanin	2022-10-16 16:24:22	2022-10-16 16:24:22
-108	0x6c	l	913	11185501	bos	Odakle Mark šalje svoj faks? Iz njihovog osiječkog hotela.	Boshnjanin	2022-10-17 13:19:39	2022-10-17 13:19:39
-109	0x6d	m	1094	11183215	bos	Imam problem.	Boshnjanin	2022-10-16 17:11:11	2022-10-16 17:11:11
-110	0x6e	n	1091	11186171	bos	Sada ona sjedi pod stablom.	Boshnjanin	2022-10-17 17:10:27	2022-10-17 17:10:27
-111	0x6f	o	1399	11182952	bos	Ispred čije kuće ste parkirali auto?	Boshnjanin	2022-10-16 16:45:51	2022-10-16 16:45:51
-112	0x70	p	587	11185474	bos	Nemam pojma što se dešavalo u njegovoj glavi pa da odbije takav povoljan prijedlog.	Boshnjanin	2022-10-17 13:13:18	2022-10-17 13:13:18
-114	0x72	r	954	11183639	bos	Šta si radila tamo?	Boshnjanin	2022-10-16 17:57:13	2022-10-16 17:57:13
-115	0x73	s	1025	11183031	bos	Ista stvar, samo s glavom prema zemlji.	Boshnjanin	2022-10-16 16:58:15	2022-10-16 16:58:15
-116	0x74	t	969	11186168	bos	Sjela je pod stablo.	Boshnjanin	2022-10-17 17:10:01	2022-10-17 17:10:14
-117	0x75	u	895	12213815	bos	Koji je danas datum?	Adelpa	2023-12-17 09:42:05	2023-12-17 09:42:05
-118	0x76	v	850	11183557	bos	Mogu li mu vjerovati?	Boshnjanin	2022-10-16 17:50:57	2022-10-16 17:50:57
-121	0x79	y	13	11183658	bos	Mary ne koristi sol pri kuhanju.	Boshnjanin	2022-10-16 17:58:40	2022-10-16 17:58:40
-122	0x7a	z	389	11183669	bos	On često jede ribu za večeru.	Boshnjanin	2022-10-16 17:59:16	2022-10-16 17:59:16
-262	0x106	Ć	3	4425377	bos	Ću te osloboditi.	\N	2015-08-02 11:16:11	2015-08-03 15:25:13
-263	0x107	ć	230	2763055	bos	Naoko živi u bijeloj kući.	Boshnjanin	2013-09-27 21:07:11	2022-10-16 15:48:36
-268	0x10c	Č	22	11182847	bos	Čime ste zadovoljni?	Boshnjanin	2022-10-16 16:33:53	2022-10-16 16:33:53
-269	0x10d	č	307	11182896	bos	Neka dođe liječnik što prije.	Boshnjanin	2022-10-16 16:39:23	2022-10-16 16:39:23
+90	0x5a	Z	51	11182638	bos	Zgrada je na trgu.	Boshnjanin	2022-10-16 16:04:27	2022-10-16 16:04:27
+97	0x61	a	1508	478968	bos	"Da li si ti nastavnik?" "Da, jesam."	FeuDRenais	2010-08-25 13:15:26	2010-08-25 13:15:26
+98	0x62	b	442	11183152	bos	Nisi mu trebao pomoći pri poslu.	Boshnjanin	2022-10-16 17:07:42	2022-10-16 17:07:42
+99	0x63	c	215	11183160	bos	Vašu ulaznicu, molim.	Boshnjanin	2022-10-16 17:08:11	2022-10-16 17:08:11
+100	0x64	d	817	11183467	bos	Francuska je u Zapadnoj Europi.	Boshnjanin	2022-10-16 17:44:08	2022-10-16 17:44:08
+101	0x65	e	1469	11158366	bos	Nisam Kinez.	janTuki	2022-10-04 20:03:29	2022-10-04 20:03:29
+102	0x66	f	44	2499866	bos	Gdje su žirafe?	onlyslavic	2013-06-15 17:26:23	2013-06-15 17:26:26
+103	0x67	g	426	12037403	bos	Ne mogu da se sjetim odakle je Tom.	enebi	2023-09-04 20:55:45	2023-09-04 20:55:45
+104	0x68	h	118	11183592	bos	Ja sam mehaničar.	Boshnjanin	2022-10-16 17:53:44	2022-10-16 17:53:44
+105	0x69	i	1445	11182903	bos	Boli me grlo.	Boshnjanin	2022-10-16 16:40:11	2022-10-16 16:40:11
+106	0x6a	j	1103	11183315	bos	"Bošnjanin" je arhaička riječ koja znači "Bosanac".	Boshnjanin	2022-10-16 17:18:13	2022-10-16 17:18:13
+107	0x6b	k	746	11183555	bos	Republikanski kandidat je pobijedio izbore.	Boshnjanin	2022-10-16 17:50:49	2022-10-16 17:50:49
+108	0x6c	l	913	3185793	bos	Vratila se iz bolnice.	Boshnjanin	2014-04-17 14:18:26	2022-10-16 15:50:32
+109	0x6d	m	1094	2503152	bos	Ja sam iz Turske.	onlyslavic	2013-06-16 23:38:01	2013-06-16 23:38:01
+110	0x6e	n	1091	11186110	bos	Ako sutra padne kiša, onda ne idemo u planine.	Boshnjanin	2022-10-17 16:58:19	2022-10-17 16:58:19
+111	0x6f	o	1399	11183120	bos	Nikako.	Boshnjanin	2022-10-16 17:05:25	2022-10-16 17:05:25
+112	0x70	p	587	486671	bos	Kako se zove tvoj prijatelj?	FeuDRenais	2010-08-29 16:11:23	2010-08-29 16:12:08
+114	0x72	r	954	11185275	bos	U našoj tvrtki koristimo Internet.	Boshnjanin	2022-10-17 12:21:10	2022-10-17 12:21:10
+115	0x73	s	1025	11183567	bos	U slučaju požara, zovite 119.	Boshnjanin	2022-10-16 17:52:03	2022-10-16 17:52:03
+116	0x74	t	969	8552588	bos	Sretan rođendan!	User87851	2020-02-14 22:01:59	2020-02-14 22:01:59
+117	0x75	u	895	2342029	bos	Gdje je muškarac?	bihhrvsrb	2013-03-27 15:48:27	2013-03-27 15:48:27
+118	0x76	v	850	11183568	bos	Ispričaj nam priču o duhovima!	Boshnjanin	2022-10-16 17:52:06	2022-10-16 17:52:06
+121	0x79	y	13	11183571	bos	Mary mi se počela sviđati od prvog susreta.	Boshnjanin	2022-10-16 17:52:19	2022-10-16 17:52:19
+122	0x7a	z	389	11182589	bos	Put me zove, moram poći.	Boshnjanin	2022-10-16 15:57:11	2022-10-16 15:57:11
+262	0x106	Ć	3	7804417	bos	Ćinili su se kao da znaju šta žele.	bokalabocca	2019-03-10 14:16:14	2019-03-10 14:16:14
+263	0x107	ć	230	11183088	bos	To je rekao mlađi od braće.	Boshnjanin	2022-10-16 17:02:49	2022-10-16 17:02:49
+268	0x10c	Č	22	11182969	bos	Četrdeset osam sati je prošlo.	Boshnjanin	2022-10-16 16:47:22	2022-10-16 16:47:22
+269	0x10d	č	307	11183568	bos	Ispričaj nam priču o duhovima!	Boshnjanin	2022-10-16 17:52:06	2022-10-16 17:52:06
 272	0x110	Đ	1	540499	bos	Vang Lao Đi nije pivo. Čaj je.	FeuDRenais	2010-09-30 18:29:34	2010-09-30 18:29:34
-273	0x111	đ	77	11186211	bos	Gdje god pođem tebi idem.	Boshnjanin	2022-10-17 17:17:41	2022-10-17 17:17:41
-352	0x160	Š	29	11185608	bos	Šta radiš kada nisi na poslu?	Boshnjanin	2022-10-17 13:39:04	2022-10-17 13:39:04
-353	0x161	š	382	7816865	bos	Učimo da čitamo i pišemo u školi.	bokalabocca	2019-03-19 12:34:50	2019-03-19 12:34:50
-381	0x17d	Ž	46	2734172	bos	Želim jesti malo sira.	\N	2013-09-11 15:25:20	2016-01-17 11:37:34
-382	0x17e	ž	232	478231	bos	Kako se kaže to na italijanskom?	FeuDRenais	2010-08-24 19:41:56	2010-08-24 19:45:29
+273	0x111	đ	77	11183216	bos	Inteligentan je, ali svejedno mi se ne sviđa.	Boshnjanin	2022-10-16 17:11:15	2022-10-16 17:11:15
+352	0x160	Š	29	11183596	bos	Šta je rekao?	Boshnjanin	2022-10-16 17:54:02	2022-10-16 17:54:02
+353	0x161	š	382	11183536	bos	Koliko je ovaj kišobran?	Boshnjanin	2022-10-16 17:49:35	2022-10-16 17:49:35
+381	0x17d	Ž	46	11185569	bos	Živimo u lijepom gradu.	Boshnjanin	2022-10-17 13:32:13	2022-10-17 13:32:13
+382	0x17e	ž	232	11183016	bos	Možete mi reći gdje se nalazi najbliža crkva?	Boshnjanin	2022-10-16 16:57:10	2022-10-16 16:57:10
 8211	0x2013	–	1	11185540	bos	Molim vas, gdje su sapuni i šamponi? – Tamo lijevo.	Boshnjanin	2022-10-17 13:27:38	2022-10-17 13:27:38
 8220	0x201c	“	1	11186165	bos	Ponovi za mnom: „Ne!“	Boshnjanin	2022-10-17 17:09:39	2022-10-17 17:09:39
-8221	0x201d	”	2	2332732	bos	„Ko je u automobilu?” „Marija.”	bihhrvsrb	2013-03-23 15:51:41	2013-03-23 15:51:41
-8222	0x201e	„	3	2332732	bos	„Ko je u automobilu?” „Marija.”	bihhrvsrb	2013-03-23 15:51:41	2013-03-23 15:51:41
+8221	0x201d	”	2	2923149	bos	„Gdje živiš?” „Živim u Tokiju.”	\N	2013-12-11 17:36:01	2016-01-17 11:39:58
+8222	0x201e	„	3	11186165	bos	Ponovi za mnom: „Ne!“	Boshnjanin	2022-10-17 17:09:39	2022-10-17 17:09:39

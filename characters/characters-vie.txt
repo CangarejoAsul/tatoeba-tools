@@ -1,128 +1,128 @@
-32	0x20	 	24768	8962570	vie	Tom ít khi ăn hải sản.	dotheduyet1999	2020-08-07 04:14:01	2020-08-07 04:14:01
-33	0x21	!	722	660528	vie	Nó đá tôi!	autuno	2010-12-11 04:30:28	2010-12-11 04:30:40
-34	0x22	"	289	496296	vie	"Bạn có thể đưa tôi một ít đường không?" "Đây này bạn".	khungla	2010-09-03 15:40:25	2010-09-03 15:40:25
+32	0x20	 	24768	3468097	vie	Công ty của họ đã tạo ra thêm bốn mươi chỗ làm.	tucm	2014-09-03 10:58:36	2014-09-03 10:58:36
+33	0x21	!	722	3371992	vie	"Tôi không tin bạn!" "Tôi thề!"	cuongcua90	2014-07-11 01:54:24	2014-07-11 01:54:24
+34	0x22	"	289	515225	vie	"Bạn đã kết hôn rồi cơ mà!?" "Ồ, chúng tôi chia tay nhau. Lời cam kết bị tan vỡ"	autuno	2010-09-16 09:59:19	2010-09-16 09:59:19
 36	0x24	$	1	10267731	vie	Tôi không nhớ chính xác giá là bao nhiêu, nhưng nó đã hơn 300 $.	Alex_do	2021-08-29 11:39:39	2021-08-29 11:39:39
-37	0x25	%	11	9011204	vie	Lượng khí các-bon đi-ô-xít đã tăng 10%.	dotheduyet1999	2020-09-02 19:31:01	2020-09-02 19:31:41
+37	0x25	%	11	9067918	vie	Tổ chức Y tế Thế giới nói rằng tỷ lệ tử vong từ đại dịch COVID-19 là vào khoảng 3.4%, và những người trên 60 tuổi và những người có vấn đề sức khỏe khác có nguy cơ mắc COVID-19 cao hơn hẳn so với những người trẻ hơn.	dotheduyet1999	2020-09-24 13:34:23	2020-09-24 13:34:23
 39	0x27	'	4	11045605	vie	Do what you like, like what you do, be good at what you like, earn from what you're good at.	jasonlo	2022-08-06 09:57:55	2022-08-06 09:57:55
-40	0x28	(	31	11046673	vie	Tầng bậc nhận thức nội tâm số 3 (Tầng bậc 3) là trạng thái tánh không của nội tâm.	jasonlo	2022-08-07 05:17:50	2022-08-07 05:17:50
-41	0x29	)	31	849458	vie	Mấy cuốn từ điển này đang bán (trên thị trường).	nthkmf	2011-04-22 15:36:33	2011-04-22 15:36:58
-43	0x2b	+	9	9010905	vie	Khai báo biến trong C/C++ vô cùng quan trọng.	Kenbi93	2020-09-02 17:35:57	2020-09-02 17:35:57
-44	0x2c	,	2379	9007613	vie	"Siêu thị này buổi tối có làm không?" "Có, có làm đấy. Vào thứ Bảy thì siêu thị này làm việc từ 8 giờ sáng đến 9 giờ tối."	dotheduyet1999	2020-09-01 08:32:17	2020-09-01 08:32:17
-45	0x2d	-	158	8951806	vie	Mỗi người đã trả 7 nghìn Đô-la.	dotheduyet1999	2020-07-31 19:28:29	2020-07-31 19:28:29
-46	0x2e	.	20467	9086743	vie	Hôm nay tôi không muốn đi ra bãi biển với bạn.	dotheduyet1999	2020-09-30 14:14:38	2020-09-30 14:14:38
+40	0x28	(	31	12066267	vie	khởi động trình theo dõi (dấu chân)	mqd	2023-09-20 12:25:36	2023-09-20 12:25:36
+41	0x29	)	31	837489	vie	Hãy thuê 1 chiếc xe tải nhỏ (có 8 chỗ) theo giờ đi.	nthkmf	2011-04-14 08:38:38	2011-04-14 08:38:38
+43	0x2b	+	9	733141	vie	Nhiệt độ tối thiểu hôm nay lên tới +3 độ C.	autuno	2011-01-30 03:28:13	2011-01-30 03:28:13
+44	0x2c	,	2379	8960963	vie	Mặc dù Takahashi trông giống hệt người châu Á, nhưng tôi nghe nói là chị ấy mang dòng máu lai.	dotheduyet1999	2020-08-06 10:39:02	2020-08-06 10:39:44
+45	0x2d	-	158	9735742	vie	Việc viết bằng chữ La-tinh gây ảnh hưởng xấu tới sức khỏe não bộ của người học tiếng Nhật.	dotheduyet1999	2021-02-08 07:56:03	2021-02-08 07:56:03
+46	0x2e	.	20467	1759677	vie	Bạn tốt hơn nên nói chuyện với anh ta trước.	dreznovk	2012-08-08 05:49:07	2012-08-08 05:49:07
 47	0x2f	/	26	11326325	vie	Tôi tự hào về anh/chị.	mqd	2022-12-13 12:09:42	2022-12-13 12:09:42
-48	0x30	0	298	9736021	vie	Ông ấy sẽ đến trong 30 phút.	dotheduyet1999	2021-02-08 10:23:32	2021-02-08 10:23:32
-49	0x31	1	261	8961587	vie	Thiệt hại lên đến 1 triệu Đô-la.	dotheduyet1999	2020-08-06 17:25:57	2020-08-06 17:25:57
-50	0x32	2	195	8992899	vie	2. Thái củ cải thành những lát dài.	dotheduyet1999	2020-08-24 19:07:14	2020-08-24 19:09:04
-51	0x33	3	153	11046673	vie	Tầng bậc nhận thức nội tâm số 3 (Tầng bậc 3) là trạng thái tánh không của nội tâm.	jasonlo	2022-08-07 05:17:50	2022-08-07 05:17:50
-52	0x34	4	60	10282120	vie	Ca làm việc của Yanni bắt đàu vào 4:00 sáng.	Alex_do	2021-09-06 23:56:32	2021-09-06 23:56:32
-53	0x35	5	104	8796113	vie	Tom nói với con gái Mary của mình rằng "Lấy số tiền này mà mua thứ mình thích nhé" rồi đưa cho cô 5 Euro.	dotheduyet1999	2020-05-27 13:31:34	2020-05-27 13:31:34
-54	0x36	6	72	837116	vie	Chúng ta hãy đi ra biển đi. Tôi được nghỉ làm trong 6 ngày tới.	nthkmf	2011-04-13 18:08:03	2011-04-13 18:08:03
-55	0x37	7	44	4611356	vie	Russia Today là kênh tin tức tiếng Anh phát sóng 24/7.	khoaharp	2015-10-15 12:56:09	2015-10-15 12:56:09
-56	0x38	8	57	477209	vie	Tôi thường thức dậy lúc 08:00.	tucm	2010-08-23 22:18:12	2016-03-08 13:08:28
-57	0x39	9	71	8794993	vie	Tôi 19 tuổi.	dotheduyet1999	2020-05-27 06:16:04	2020-05-27 06:16:04
-58	0x3a	:	84	9734553	vie	Trong lúc những người Kabyle đang chiến đấu với thực dân Pháp vào những năm 40 và 50 của thế kỷ XX, những người Algeria đã nói: "Người Kabyle có vấn đề gì với nước Pháp vậy?" Và rồi sau khi Algeria giành được độc lập, cánh truyền thông giả tạo của Algeria đã làm đảo ngược vị trí của người Kabyle. Qua bàn tay của truyền thông, những người Kabyle đã trở thành "những người lính Zuavơ" và "những anh hùng Ả Rập Algeria - những con người đã giải phóng Algeria". Nhưng những con số và tài liệu lịch sử luôn ở đó để minh chứng cho một sự thật lịch sử duy nhất.	dotheduyet1999	2021-02-07 18:30:38	2021-02-07 18:41:51
-59	0x3b	;	19	571032	vie	Nếu anh ấy hỏi tôi, thì tôi sẽ cho; nếu không thì thôi.	autuno	2010-10-18 05:26:53	2010-10-18 05:27:34
-61	0x3d	=	8	11045625	vie	Cảnh giới cuộc sống thứ 5: Thành công + Sức khỏe + Gia đình hòa hợp = Hạnh phúc	jasonlo	2022-08-06 10:17:35	2022-08-06 10:17:35
-62	0x3e	>	2	6546595	vie	Làm thế nào mà bạn đã khiến Tom mua thứ đó cho bạn>	duythanh	2017-12-08 16:46:05	2017-12-08 16:46:05
-63	0x3f	?	3489	12054938	vie	Họ là người Ý à?	mqd	2023-09-14 11:08:33	2023-09-14 11:08:33
+48	0x30	0	298	1743526	vie	Cô ta ước mình sinh ra sớm hơn 20 năm.	dreznovk	2012-08-01 03:41:50	2012-08-01 03:41:50
+49	0x31	1	261	8977440	vie	Geogre W. Bush được sinh ra ở bang Connecticut vào năm 1946.	dotheduyet1999	2020-08-15 13:16:17	2020-08-15 13:16:17
+50	0x32	2	195	535594	vie	Tôi đã để trống hai chiều ngày 20 và 21 và tôi muốn biết ông Grant có thể tham dự một cuộc họp vào một trong hai ngày đó.	autuno	2010-09-27 05:44:27	2010-09-27 05:44:27
+51	0x33	3	153	5928	vie	Tôi muốn có máy MP3!	khoaharp	\N	2015-10-14 10:50:26
+52	0x34	4	60	9712841	vie	Bà ấy thường xem TV từ 4 giờ cho đến 6 giờ.	dotheduyet1999	2021-02-02 15:18:17	2021-02-02 15:18:17
+53	0x35	5	104	515409	vie	Muộn rồi. Chúng ta hãy chờ đến 5 giờ rưỡi.	autuno	2010-09-16 11:40:12	2010-09-16 11:40:12
+54	0x36	6	72	1564009	vie	Gặp tôi tại hành lang của khách sạn Hoàng Gia vào lúc 6:30 tối.	trieuho	2012-05-06 09:32:50	2012-05-06 09:32:50
+55	0x37	7	44	8951806	vie	Mỗi người đã trả 7 nghìn Đô-la.	dotheduyet1999	2020-07-31 19:28:29	2020-07-31 19:28:29
+56	0x38	8	57	1550430	vie	Bà của tôi vẫn còn rất hoạt bát ở tuổi 85.	trieuho	2012-04-26 12:55:36	2012-04-26 12:55:36
+57	0x39	9	71	8942973	vie	Trong trường hợp khẩn cấp, hãy gọi 119.	dotheduyet1999	2020-07-27 10:45:20	2020-07-27 10:45:20
+58	0x3a	:	84	10220307	vie	Người còn lại hỏi: "Rốt cuộc là tại sao bạn lại làm chuyện đó vậy?"	dotheduyet1999	2021-08-06 13:25:47	2021-08-06 13:25:47
+59	0x3b	;	19	5874	vie	Johnson là người hơi tự kỉ; anh ấy thích tách biệt mình với các học sinh khác trong lớp.	khoaharp	\N	2015-10-14 11:29:47
+61	0x3d	=	8	11045627	vie	Cảnh giới cuộc sống thứ 6: Hạnh phúc + Giúp người hạnh phúc = Giá trị cuộc sống	jasonlo	2022-08-06 10:19:00	2022-08-06 10:19:00
+62	0x3e	>	2	9859385	vie	tôi yêu quê tôi => xanh xannh lũy tre	sunlight2020	2021-03-22 09:15:35	2021-03-22 09:15:35
+63	0x3f	?	3489	5147749	vie	Bạn có thích nấu ăn không?	truongap	2016-05-18 06:00:47	2016-05-18 06:00:47
 64	0x40	@	2	9068765	vie	Địa chỉ email của tôi là hans@karlolo.net.	dotheduyet1999	2020-09-24 17:09:18	2020-09-24 17:09:18
-65	0x41	A	1898	733153	vie	Anh ấy đang nói về việc sang Tây Ban Nha mùa đông này.	autuno	2011-01-30 03:37:00	2011-01-30 03:37:00
-66	0x42	B	2751	8961727	vie	Bạn có nóng không?	dotheduyet1999	2020-08-06 18:15:45	2020-08-06 18:15:45
-67	0x43	C	4217	490613	vie	Cô ấy đã ghi chép tên và địa chỉ theo yêu cầu	khungla	2010-08-31 17:07:27	2010-08-31 17:07:27
-68	0x44	D	241	11534973	vie	Dạ.	OneJanuary	2023-02-13 19:13:12	2023-02-13 19:13:12
-69	0x45	E	156	10235121	vie	Em trai tôi bây giờ đang ở Australia.	dotheduyet1999	2021-08-11 10:34:31	2021-08-11 10:34:31
-70	0x46	F	60	9738010	vie	"Đến từ phương Bắc" là một bộ phim truyền hình dài tập được sản xuất bởi Đài Truyền hình Fuji TV, với bối cảnh là thành phố Furano thuộc tỉnh Hokkaido.	dotheduyet1999	2021-02-09 06:59:54	2021-02-09 07:01:04
-71	0x47	G	305	1591269	vie	Bill Gates là người sáng lập Microsoft.	trieuho	2012-05-25 16:26:52	2012-05-25 16:28:37
-72	0x48	H	1424	9066056	vie	Hãy kể cho tôi một câu chuyện ma.	dotheduyet1999	2020-09-24 07:28:18	2020-09-24 07:28:18
-73	0x49	I	60	8957722	vie	"Này. Im con mẹ mày đi. Mày lắm mồm vãi." Tên giang hồ đó nói.	dotheduyet1999	2020-08-04 07:10:55	2020-08-04 07:10:55
-74	0x4a	J	177	8963373	vie	John đã cho Mary quả táo.	dotheduyet1999	2020-08-07 16:23:10	2020-08-07 16:23:10
-75	0x4b	K	707	8934774	vie	Không ai nghĩ vậy.	dotheduyet1999	2020-07-23 19:26:22	2020-07-23 19:26:22
-76	0x4c	L	593	8948948	vie	Công ty Boeing đã phát triển một loại thủy phi cơ phục vụ cho Lực lượng Phòng vệ Biển Nhật Bản.	dotheduyet1999	2020-07-30 08:19:33	2020-07-30 08:19:45
-77	0x4d	M	1903	1554863	vie	Mày không nói nó bất cứ điều gì phải không?	trieuho	2012-04-29 08:00:04	2012-04-29 08:00:04
-78	0x4e	N	1881	9013941	vie	Nếu bạn mong muốn một cuộc sống yên ả lúc về già, thì bây giờ hãy bắt đầu tiết kiệm đi.	dotheduyet1999	2020-09-04 04:27:31	2020-09-04 04:27:31
-79	0x4f	O	58	10233497	vie	OK tớ hiểu rồi. Tớ sẽ cố gắng đến sớm nhất có thể.	dotheduyet1999	2021-08-10 18:05:26	2021-08-10 18:05:26
-80	0x50	P	421	630602	vie	Nam Phi ở rất xa.	Alta	2010-11-21 15:49:05	2010-11-21 15:49:05
-81	0x51	Q	164	5150852	vie	Quá dễ.	truongap	2016-05-19 09:19:50	2016-05-19 09:19:50
-82	0x52	R	165	568610	vie	Rốt cuộc anh ấy tới khách sạn.	autuno	2010-10-16 12:58:33	2010-10-16 12:58:33
-83	0x53	S	645	5150846	vie	Sự trợ giúp của anh ấy đến thật đúng lúc.	truongap	2016-05-19 09:14:31	2016-05-19 09:14:31
-84	0x54	T	8995	3537961	vie	Tôi đã ăn rồi.	trieuho	2014-10-04 21:34:50	2014-10-04 21:34:50
-85	0x55	U	23	8847724	vie	Qua đó chúng ta có thể học hỏi những bài học và kiến thức về bảo vệ, bảo tồn di sản và phát huy giá trị di sản, tự nhiên, cũng như các loại hình, danh hiệu khác của UNESCO tại Việt Nam.	dotheduyet1999	2020-06-16 01:27:52	2020-06-16 01:27:52
-86	0x56	V	569	11392878	vie	Vào thời điểm tôi đến nhà bạn trai, anh ấy đã đi ngủ.	chaule3	2022-12-30 15:02:28	2022-12-30 15:02:49
-87	0x57	W	42	2217897	vie	Ngài Wang đến từ Trung Quốc	umei423	2013-02-13 09:49:46	2013-02-13 09:49:46
-88	0x58	X	210	12095252	vie	Xin hãy nói chậm hơn!	mqd	2023-10-04 08:07:43	2023-10-04 08:07:43
-89	0x59	Y	94	490707	vie	Anh ấy đã đến New York ngay khi nhận được lá thư.	khungla	2010-08-31 18:27:56	2010-08-31 18:28:04
-90	0x5a	Z	20	9734553	vie	Trong lúc những người Kabyle đang chiến đấu với thực dân Pháp vào những năm 40 và 50 của thế kỷ XX, những người Algeria đã nói: "Người Kabyle có vấn đề gì với nước Pháp vậy?" Và rồi sau khi Algeria giành được độc lập, cánh truyền thông giả tạo của Algeria đã làm đảo ngược vị trí của người Kabyle. Qua bàn tay của truyền thông, những người Kabyle đã trở thành "những người lính Zuavơ" và "những anh hùng Ả Rập Algeria - những con người đã giải phóng Algeria". Nhưng những con số và tài liệu lịch sử luôn ở đó để minh chứng cho một sự thật lịch sử duy nhất.	dotheduyet1999	2021-02-07 18:30:38	2021-02-07 18:41:51
+65	0x41	A	1898	5772437	vie	Anh nên mời họ nếu không họ sẽ tự ái đấy.	yippe	2017-01-16 05:27:21	2017-01-16 05:27:21
+66	0x42	B	2751	8961575	vie	Bạn bị trật khớp chỗ nào vậy?	dotheduyet1999	2020-08-06 17:22:27	2020-08-06 17:22:49
+67	0x43	C	4217	1581639	vie	Cô Hà còn trẻ.	trieuho	2012-05-19 16:02:30	2012-05-19 16:02:30
+68	0x44	D	241	1574548	vie	Cha đi đến Detroit để làm việc mỗi năm.	trieuho	2012-05-15 17:58:32	2012-05-15 17:58:32
+69	0x45	E	156	877011	vie	Em gái tôi đang là áo khoác của tôi.	Alta	\N	\N
+70	0x46	F	60	6275557	vie	Fadil chạy đi lấy đồ hộ mẹ.	moriole	2017-09-01 07:12:33	2017-09-01 07:12:33
+71	0x47	G	305	8938604	vie	Giao thông bị gián đoạn do tuyết lớn.	dotheduyet1999	2020-07-25 10:22:38	2020-07-25 10:22:38
+72	0x48	H	1424	11059830	vie	Hồi còn bé, tôi rất thích trèo cây.	dotheduyet1999	2022-08-14 02:22:36	2022-08-14 02:22:36
+73	0x49	I	60	10310448	vie	In đen trắng rẻ hơn in màu.	dotheduyet1999	2021-09-21 10:19:57	2021-09-21 10:19:57
+74	0x4a	J	177	8956765	vie	John nhìn chằm chằm vào bức tranh.	dotheduyet1999	2020-08-03 18:14:03	2020-08-03 18:14:03
+75	0x4b	K	707	4188377	vie	Đúng thế. Không khí rất ẩm.	autuno	2015-05-15 08:45:58	2015-05-15 08:45:58
+76	0x4c	L	593	772891	vie	Nếu người La Mã phải học tiếng La-tinh trước rồi mới đi chinh phục thế giới thì sẽ không còn kịp nữa.	DeSha	2011-02-27 22:06:27	2011-02-27 22:06:27
+77	0x4d	M	1903	508981	vie	Máy vi tính không sống lâu hơn đồng hồ.	autuno	2010-09-12 06:54:18	2010-09-12 06:55:15
+78	0x4e	N	1881	9734463	vie	Mỗi năm có nhiều người Nhật đi nước ngoài du lịch.	dotheduyet1999	2021-02-07 17:40:11	2021-02-07 17:40:11
+79	0x4f	O	58	497691	vie	Sân bay này tại vịnh Osaka.	khungla	2010-09-04 18:17:07	2010-09-04 18:17:07
+80	0x50	P	421	8890744	vie	Tôi mang quốc tịch Pháp, nhưng quê tôi lại ở Việt Nam.	dotheduyet1999	2020-07-04 10:31:02	2020-07-04 10:31:02
+81	0x51	Q	164	11278020	vie	Cô ấy ở trong Đoàn Nhà hát kịch Quốc gia.	chaule3	2022-11-30 07:06:00	2022-11-30 07:06:00
+82	0x52	R	165	9011191	vie	Anh ấy sẽ ở lại Rô-ma trong bao lâu?	dotheduyet1999	2020-09-02 19:24:43	2020-09-02 19:24:43
+83	0x53	S	645	9000369	vie	Sao Tom lại có thể nói tiếng Pháp giỏi đến thế?	dotheduyet1999	2020-08-28 14:40:26	2020-08-28 14:40:26
+84	0x54	T	8995	12060102	vie	Tom rơi khỏi tấm bạt lò xo.	mqd	2023-09-17 14:06:35	2023-09-17 14:06:35
+85	0x55	U	23	5160027	vie	Tôi nhìn thấy UFO.	truongap	2016-05-23 13:38:06	2016-05-23 13:38:06
+86	0x56	V	569	9415799	vie	Vào thứ Sáu, chúng tôi sẽ tổ chức một buổi họp báo.	dotheduyet1999	2020-12-01 17:07:37	2020-12-01 17:07:37
+87	0x57	W	42	893212	vie	Ông White có vẻ có nhiều bạn.	ngocdaothanh	2011-05-15 11:34:06	2011-05-15 11:34:06
+88	0x58	X	210	9031432	vie	Xin chào. Tôi có thể nói chuyện với Tom Jackson được không?	dotheduyet1999	2020-09-11 15:36:20	2020-09-11 15:36:20
+89	0x59	Y	94	934886	vie	Yêu em nhất trên đời, hỡi người yêu dấu của lòng anh.	nthkmf	2011-06-11 19:45:34	2011-06-11 19:45:34
+90	0x5a	Z	20	3537779	vie	Chuyến xe lửa này sẽ đi đến công viên ZhongShan.	trieuho	2014-10-04 21:05:53	2014-10-04 21:05:53
 91	0x5b	[	1	1541867	vie	Thắng cuộc chơi mà không cần phải tiếp tục giải mã ô chữ [or nhân vật] bí ẩn.	Aomori	2012-04-20 15:09:48	2012-04-20 15:09:48
 93	0x5d	]	1	1541867	vie	Thắng cuộc chơi mà không cần phải tiếp tục giải mã ô chữ [or nhân vật] bí ẩn.	Aomori	2012-04-20 15:09:48	2012-04-20 15:09:48
 95	0x5f	_	1	9735572	vie	Chú ý: Những ký tự không được hỗ trợ sẽ hiển thị bằng dấu "_".	dotheduyet1999	2021-02-08 05:00:12	2021-02-08 05:00:12
-97	0x61	a	14641	11449764	vie	Bạn đang làm tôi sợ đấy.	chaule3	2023-01-10 09:19:50	2023-01-10 09:19:50
-98	0x62	b	8356	507749	vie	Mái nhà của chúng tôi bị gió tốc.	autuno	2010-09-11 10:43:31	2010-09-11 10:43:51
-99	0x63	c	17885	9013915	vie	Ai đang ngủ trên giường của tôi thế?	dotheduyet1999	2020-09-04 03:56:19	2020-09-04 03:56:19
-100	0x64	d	2535	509058	vie	Váy dài là hợp thời trang.	autuno	2010-09-12 09:20:36	2010-09-12 09:20:36
-101	0x65	e	2501	9013921	vie	Hãy xóa file này.	dotheduyet1999	2020-09-04 04:00:06	2020-09-04 04:00:06
-102	0x66	f	68	451795	vie	Nenormalas havi la koron dekstraflanke.	GrizaLeono	2010-08-04 17:38:33	2010-08-04 17:40:51
-103	0x67	g	18596	3304612	vie	Tom giúp đỡ chúng tôi.	trieuho	2014-06-09 10:15:55	2014-06-09 10:15:55
-104	0x68	h	21624	12056518	vie	Một bi kịch khủng khiếp 😢.	mqd	2023-09-15 10:13:16	2023-09-15 10:13:16
-105	0x69	i	21137	3320931	vie	Thực phẩm nhanh hư trong thời tiết nóng.	trieuho	2014-06-17 08:07:10	2014-06-17 08:07:10
-106	0x6a	j	43	5162202	vie	Tôi là người Azerbaijan.	truongap	2016-05-24 12:49:01	2016-05-24 12:49:01
-107	0x6b	k	8188	9010997	vie	Ngày kia bạn có thời gian không?	dotheduyet1999	2020-09-02 18:28:36	2020-09-02 18:28:36
-108	0x6c	l	9289	10257507	vie	Học tiếng Pháp khó lắm.	hothuyhien	2021-08-23 10:06:49	2021-08-23 10:06:49
-109	0x6d	m	13869	8924881	vie	Cô ta đỏ mặt vì xấu hổ.	dotheduyet1999	2020-07-19 08:36:48	2020-07-19 08:36:55
-110	0x6e	n	23248	12110219	vie	Đây là những đứa con của tôi.	mqd	2023-10-13 11:21:32	2023-10-13 11:21:32
-111	0x6f	o	11119	566873	vie	Thể trọng ông ấy tăng gấp đoi trong 10 năm nay.	autuno	2010-10-15 09:51:56	2010-10-15 09:51:56
-112	0x70	p	5206	10273006	vie	Có thể bạn sẽ cần một số trợ giúp.	Alex_do	2021-09-01 12:40:56	2021-09-01 12:40:56
-113	0x71	q	2191	11377151	vie	Chúng tôi đã ngắm máy bay bay qua.	chaule3	2022-12-27 06:58:40	2022-12-27 06:58:40
-114	0x72	r	8286	9000672	vie	Những cái kia là ngọc trai tổng hợp hay là ngọc trai nuôi cấy?	dotheduyet1999	2020-08-28 16:23:33	2020-08-28 16:23:33
-115	0x73	s	6112	10309085	vie	Bạn nên nghỉ một chút sau khi tập thể dục thì sẽ tốt hơn đấy.	dotheduyet1999	2021-09-21 02:27:59	2021-09-21 02:27:59
-116	0x74	t	19650	4785947	vie	Tom trông giống hệt bố anh ta.	tucm	2015-12-23 02:37:17	2015-12-23 02:37:23
-117	0x75	u	11882	9018802	vie	Tôi có một người em trai cùng tuổi với bạn.	dotheduyet1999	2020-09-06 02:15:57	2020-09-06 02:15:57
-118	0x76	v	7168	9734234	vie	Mặc dù trời mưa nhưng cô ấy vẫn đi ra ngoài.	dotheduyet1999	2021-02-07 16:24:22	2021-02-07 16:24:22
-119	0x77	w	98	8847787	vie	Bạn có biết cái trang web nào tên là Tatoeba không?	dotheduyet1999	2020-06-16 03:19:16	2020-06-16 03:19:16
-120	0x78	x	2099	9735744	vie	Tom không nói được với Mary cảm xúc thực sự của anh ấy.	dotheduyet1999	2021-02-08 07:57:49	2021-02-08 07:57:49
-121	0x79	y	11593	8991739	vie	Hầu hết những người đang học ngoại ngữ đều không thể nói chuyện được như người bản xứ.	dotheduyet1999	2020-08-24 04:56:45	2020-08-24 04:56:45
-122	0x7a	z	61	9739092	vie	Anh Suzuki là một nhà khoa học lỗi lạc.	dotheduyet1999	2021-02-09 14:14:12	2021-02-09 14:14:12
+97	0x61	a	14641	8957068	vie	Không lẽ đến bây giờ mà mày vẫn còn sợ sao?	dotheduyet1999	2020-08-03 19:41:08	2020-08-03 19:41:08
+98	0x62	b	8356	756185	vie	Tôi mời mười hai người tới bữa tiệc của tôi, nhưng một người không đến.	Alta	2011-02-15 09:57:05	2011-02-15 09:57:05
+99	0x63	c	17885	8945653	vie	Gập sách lại!	dotheduyet1999	2020-07-28 15:38:41	2020-07-28 15:38:41
+100	0x64	d	2535	9066072	vie	Mennad đã mở quyển sách đó ra.	dotheduyet1999	2020-09-24 07:37:06	2020-09-24 07:37:06
+101	0x65	e	2501	8968031	vie	Mày có mang theo séc du lịch không?	dotheduyet1999	2020-08-10 09:40:31	2020-08-10 09:40:31
+102	0x66	f	68	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
+103	0x67	g	18596	8974496	vie	Cô giáo bảo chúng tôi học thuộc lòng bài thơ.	dotheduyet1999	2020-08-13 18:01:45	2020-08-13 18:01:45
+104	0x68	h	21624	1543736	vie	Tính cạnh tranh của Nhật Bản trong việc sàn xuất máy ảnh là không thể nghi ngờ.	Aomori	2012-04-21 11:56:41	2012-04-21 11:56:41
+105	0x69	i	21137	9163542	vie	Rất nhiều loài cây nở hoa vào mùa xuân.	dotheduyet1999	2020-10-19 14:18:05	2020-10-19 14:18:05
+106	0x6a	j	43	572478	vie	Đã đến lúc abnj phải ngừng xem ti vi.	autuno	2010-10-19 04:08:57	2010-10-19 04:08:57
+107	0x6b	k	8188	6546685	vie	Tom nói rằng anh ấy không nghĩ nó an toàn để bạn làm điều đó.	duythanh	2017-12-08 17:57:37	2017-12-08 17:57:37
+108	0x6c	l	9289	9735866	vie	Tôi cho rằng đó là mục đích của cô ta.	dotheduyet1999	2021-02-08 09:07:59	2021-02-08 09:07:59
+109	0x6d	m	13869	8991763	vie	Bộ quần áo đó bạn mới mặc có một lần mà đã định đem đi vứt sao? Lãng phí như vậy là không được đâu.	dotheduyet1999	2020-08-24 05:47:09	2020-08-24 05:47:09
+110	0x6e	n	23248	3346175	vie	Pin chết.	ngbaanh	2014-06-28 00:38:10	2014-06-28 00:38:10
+111	0x6f	o	11119	9933052	vie	Có một số loài chim không biết bay.	dotheduyet1999	2021-04-02 14:51:51	2021-04-02 14:51:51
+112	0x70	p	5206	11363180	vie	Tôi thích xem phim ở rạp chiếu phim.	chaule3	2022-12-23 09:20:08	2022-12-23 09:20:08
+113	0x71	q	2191	11363895	vie	Tôi thích chơi cầu lông và quần vợt.	chaule3	2022-12-23 14:37:14	2022-12-23 14:37:14
+114	0x72	r	8286	4333212	vie	Tôi đã say rượu	truongdathuong	2015-07-04 04:51:30	2015-07-04 04:51:30
+115	0x73	s	6112	10276502	vie	Cuộc sống không trường tồn.	Alex_do	2021-09-04 00:54:18	2021-09-04 00:54:18
+116	0x74	t	19650	11314605	vie	Quần áo và thời trang không quá quan trọng đối với tôi.	chaule3	2022-12-10 06:51:49	2022-12-10 06:51:49
+117	0x75	u	11882	11408951	vie	Tom đã đá quả bóng.	chaule3	2023-01-03 10:20:13	2023-01-03 10:20:13
+118	0x76	v	7168	1575375	vie	Anh ấy đã thông báo cho tôi về nhũng thay đổi trong kế hoạch.	trieuho	2012-05-16 03:41:51	2012-05-16 03:41:51
+119	0x77	w	98	558884	vie	Ngày mai tôi sẽ đến thăm ông Brown.	autuno	2010-10-11 04:25:13	2010-10-11 04:25:13
+120	0x78	x	2099	9381355	vie	Tôi vô cùng xin lỗi.	dotheduyet1999	2020-11-26 04:57:09	2020-11-26 04:57:09
+121	0x79	y	11593	5150231	vie	Họ uy hiếp và sỉ nhục lẫn nhau.	truongap	2016-05-19 01:51:01	2016-05-19 01:51:01
+122	0x7a	z	61	9023436	vie	Vào năm 2009, Selena Gomez đã trở thành Đại sứ trẻ tuổi nhất của UNICEF tại Mỹ.	dotheduyet1999	2020-09-08 03:22:53	2020-09-08 03:22:53
 160	0xa0	 	1	3351957	vie	Hãy cho các học sinh của bạn đọc những quyển sách khiến các em phải động não nhiều hơn.	autuno	2014-07-01 08:57:56	2014-07-01 08:57:56
 163	0xa3	£	1	10658552	vie	Học phí đại học ở nước Anh vào khoảng 9,000£ một năm.	broombroom	2022-02-04 14:10:04	2022-02-04 14:10:04
 173	0xad	­	1	837196	vie	Tôi rất vui khi đến thăm quý tr­ường.	nthkmf	2011-04-13 18:25:18	2011-04-13 18:35:28
 183	0xb7	·	1	9022480	vie	Tôi đọc nhãn.·	dotheduyet1999	2020-09-07 17:49:39	2020-09-07 17:49:39
-192	0xc0	À	6	9034885	vie	"Cho tớ hỏi ngu một tí được không? Cái chữ này đọc thế nào ấy nhỉ? Cô-rô-na gì đó. Ừ-dư? Nà-bê? Chắc sai rồi nhỉ." "Cô-rô-na-ca" "À! Hóa ra đọc là "ca" à." "Tớ nghĩ là cậu nên xem nhiều ti-vi hơn."	dotheduyet1999	2020-09-13 04:44:02	2020-09-13 04:57:57
-193	0xc1	Á	24	5760718	vie	Ánh mắt cô ấy nói lên rằng cô ấy yêu bạn.	yippe	2017-01-11 09:10:04	2017-01-11 09:10:04
-194	0xc2	Â	32	8963370	vie	Người La Mã cổ đã thành lập thuộc địa trên khắp châu Âu.	dotheduyet1999	2020-08-07 16:22:19	2020-08-07 16:22:19
+192	0xc0	À	6	8996885	vie	"Bạn có sao không?" "A!... À không, không có gì đâu."	dotheduyet1999	2020-08-26 19:00:18	2020-08-26 19:00:34
+193	0xc1	Á	24	1589767	vie	Áo coọc-sê của con đâu?	trieuho	2012-05-24 17:49:28	2012-05-24 17:49:28
+194	0xc2	Â	32	8948186	vie	Thay vì đi châu Âu, tôi đã quyết định sẽ đi châu Mỹ.	dotheduyet1999	2020-07-29 20:32:30	2020-07-29 20:32:30
 201	0xc9	É	1	9002456	vie	Tôi đã đến thăm Pa-ri, nhưng tôi đã không leo lên tháp Ép-phen vì tôi sợ độ cao.	dotheduyet1999	2020-08-29 16:00:04	2020-08-29 16:00:04
-202	0xca	Ê	4	1833248	vie	Ê, làm gì vậy ?	dreznovk	2012-09-11 16:06:04	2012-09-11 16:06:04
-205	0xcd	Í	6	1542947	vie	Sáng sớm tóc tôi rối bù hết. Ít ra thì đưa tôi cái gương cầm tay đi - nó chắc là ở trong ngăn kéo đằng kia.	Aomori	2012-04-20 23:31:14	2012-04-20 23:31:14
-208	0xd0	Ð	2	3286754	vie	Ban đầu Ðức Chúa Trời dựng nên trời đất.	Abcormal	2014-05-30 16:28:09	2014-05-30 16:28:09
-212	0xd4	Ô	262	691700	vie	Ông ta luôn chê bai công việc của người thư ký của mình.	Alta	2010-12-30 11:18:51	2010-12-30 11:18:51
-218	0xda	Ú	73	9015881	vie	Ở Úc có nhiều rắn độc không?	dotheduyet1999	2020-09-05 06:22:36	2020-09-05 06:22:36
-221	0xdd	Ý	43	9205654	vie	Ý kiến của bạn nghe được đấy nhỉ.	dotheduyet1999	2020-10-29 17:12:02	2020-10-29 17:12:02
-224	0xe0	à	11677	3109174	vie	Anh không thể đi nhà hàng với em tối nay.	trieuho	2014-03-20 03:29:59	2014-03-20 03:29:59
-225	0xe1	á	6373	11326809	vie	Máy bay của tôi rời đi lúc 2 giờ chiều.	chaule3	2022-12-13 14:46:43	2022-12-13 14:46:43
-226	0xe2	â	3074	12286369	vie	Tàu đã tới đây rồi.	mqd	2024-01-26 15:59:36	2024-01-26 15:59:36
-227	0xe3	ã	4693	9013955	vie	Chúng tôi đã không để ý đến thời gian.	dotheduyet1999	2020-09-04 04:41:09	2020-09-04 04:41:09
+202	0xca	Ê	4	9040879	vie	Ê.	dotheduyet1999	2020-09-15 16:37:43	2020-09-15 16:37:43
+205	0xcd	Í	6	10713914	vie	Ít nhất tôi có thể ôm bạn được không?	quoctrong018	2022-03-12 03:31:28	2022-03-12 03:31:28
+208	0xd0	Ð	2	4110913	vie	Ðường nào cũng tới La Mã.	AqQoyriq_1	2015-04-25 11:51:06	2015-04-25 11:51:06
+212	0xd4	Ô	262	762107	vie	Ông ấy có thói quen dạo chơi mỗi sáng trước bữa điểm tâm.	autuno	2011-02-20 03:45:07	2011-02-20 03:45:07
+218	0xda	Ú	73	10258869	vie	Tom đến Úc một tháng trước.	hothuyhien	2021-08-24 02:05:22	2021-08-24 02:05:22
+221	0xdd	Ý	43	934820	vie	Ý thức hệ Cộng Sản ở Việt Nam là gì?	nthkmf	2011-06-11 19:45:33	2011-06-11 19:45:33
+224	0xe0	à	11677	2847867	vie	Tôi không hiểu chút nào những gì anh ấy nói.	khoaharp	2013-11-14 06:03:08	2015-10-13 15:49:58
+225	0xe1	á	6373	1509602	vie	Khí thải từ nhà máy làm ô nhiễm không khí.	trieuho	2012-03-30 19:09:56	2012-03-31 16:45:03
+226	0xe2	â	3074	11264950	vie	Bạn có biết tại sao Tom không có mặt ở đây hôm nay không?	chaule3	2022-11-24 02:51:55	2022-11-24 02:51:55
+227	0xe3	ã	4693	8995025	vie	Anh ấy đã và đang làm việc với tư cách là một giáo viên trong 30 năm.	dotheduyet1999	2020-08-25 19:08:34	2020-08-25 19:08:34
 228	0xe4	ä	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
-232	0xe8	è	295	507663	vie	Trong bếp có con mèo	autuno	2010-09-11 09:51:43	2010-09-11 09:51:43
-233	0xe9	é	702	490575	vie	Cà phê này có vị khét.	khungla	2010-08-31 16:57:58	2010-08-31 16:57:58
-234	0xea	ê	3540	10256364	vie	Tom thuê phòng ở quanh đây.	dotheduyet1999	2021-08-22 17:25:04	2021-08-22 17:25:04
-236	0xec	ì	3938	523227	vie	Chúng ta hãy chỉ rõ cái gì đúng và cái gì sai.	autuno	2010-09-21 04:34:10	2010-09-21 04:34:10
-237	0xed	í	1725	11338387	vie	Tôi cần một ít thuốc vì tôi bị nhức đầu.	chaule3	2022-12-16 14:51:49	2022-12-16 14:51:49
-242	0xf2	ò	1171	11352211	vie	Anh ấy giỏi chơi trò chơi điện tử.	chaule3	2022-12-20 07:17:42	2022-12-20 07:17:42
-243	0xf3	ó	8469	9086720	vie	Nếu tôi biết địa chỉ của Tom, thì tôi đã có thể đến thăm anh ấy rồi.	dotheduyet1999	2020-09-30 13:50:31	2020-09-30 13:51:31
-244	0xf4	ô	14330	8833081	vie	Tom đã dùng khăn tắm lau khô tóc.	dotheduyet1999	2020-06-10 17:56:14	2020-06-10 17:56:14
-245	0xf5	õ	106	2141956	vie	Đây là cái bí mật của tớ. Nó đơn giản thôi: người ta chỉ nhìn thấy thật rõ ràng bằng trái tim. Cái cốt yếu thì con mắt không nhìn thấy.	madoromi	2013-01-13 12:59:53	2013-01-13 12:59:53
-248	0xf8	ø	2	12069775	vie	Jørgen đang học tiếng Hy Lạp.	mqd	2023-09-21 17:53:56	2023-09-21 17:53:56
-249	0xf9	ù	942	12055052	vie	Đừng đùa!	mqd	2023-09-14 11:31:43	2023-09-14 11:31:43
-250	0xfa	ú	3264	1581844	vie	Đúng là chúng ta đang bước trên vỏ trứng.	trieuho	2012-05-19 16:45:35	2012-05-19 16:45:35
-253	0xfd	ý	675	8965290	vie	Họ nói là họ chưa bao giờ đồng ý với chuyện đó.	dotheduyet1999	2020-08-08 15:20:31	2020-08-08 15:20:31
-258	0x102	Ă	36	1835255	vie	Ăn nhiều quá mập đấy.	dreznovk	2012-09-12 17:30:46	2012-09-12 17:30:46
-259	0x103	ă	1793	4456390	vie	Tôi cho chó của mình ăn thức ăn khô dành cho chó trong suốt 10 năm qua.	thuha0812	2015-08-17 03:14:55	2015-08-17 03:14:55
+232	0xe8	è	295	10222720	vie	Mùa hè năm ngoái, tôi đã đi Disney Land đấy.	dotheduyet1999	2021-08-07 10:26:30	2021-08-07 10:26:30
+233	0xe9	é	702	9066091	vie	Cuộc họp đó đã kéo dài một tiếng.	dotheduyet1999	2020-09-24 07:47:39	2020-09-24 07:47:39
+234	0xea	ê	3540	8943457	vie	Giáo viên đã thất vọng khi nghe câu trả lời của tôi.	dotheduyet1999	2020-07-27 14:49:13	2020-07-27 14:49:13
+236	0xec	ì	3938	9640734	vie	Tôi hiểu lý do vì sao bạn không thích Tom.	dotheduyet1999	2021-01-13 03:10:06	2021-01-13 03:10:06
+237	0xed	í	1725	9067983	vie	Máy tính của bạn ở đâu?	dotheduyet1999	2020-09-24 13:38:18	2020-09-24 13:38:18
+242	0xf2	ò	1171	3413577	vie	Mary còn chưa thích ứng được với hoàn cảnh mới.	Alta	2014-08-08 11:58:41	2014-08-08 11:58:41
+243	0xf3	ó	8469	8836981	vie	Anh ấy từng hay ăn ngoài mỗi ngày, nhưng bây giờ thì anh ấy không rảnh để làm điều đó.	dotheduyet1999	2020-06-12 07:00:51	2020-06-12 07:00:51
+244	0xf4	ô	14330	11277986	vie	Cô ấy luôn ngủ vào lúc 11 giờ tối.	chaule3	2022-11-30 06:36:01	2022-11-30 06:36:01
+245	0xf5	õ	106	8954444	vie	Rõ ràng là bạn đang sai.	dotheduyet1999	2020-08-02 07:36:11	2020-08-02 07:36:11
+248	0xf8	ø	2	12089088	vie	Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.	mqd	2023-09-30 13:10:06	2023-09-30 13:10:06
+249	0xf9	ù	942	8875217	vie	Vợ tôi sinh con trong lúc chúng tôi nghèo khổ nhất. Trong lúc vợ tôi ngủ, tôi nấu ăn trong vài ngày, và khiến vợ tôi ngạc nhiên bởi sự đa dạng các món ăn cũng như mùi vị của chúng.	dotheduyet1999	2020-06-27 04:55:53	2020-06-27 04:55:53
+250	0xfa	ú	3264	8833026	vie	Tôi đã không thể hoàn thành công việc nếu không có sự giúp đỡ của bạn.	dotheduyet1999	2020-06-10 17:41:48	2020-06-10 17:41:48
+253	0xfd	ý	675	1549456	vie	Cô đã thừa hưởng tài năng âm nhạc cuả mẹ cô, nhưng cô đã không toàn tâm toàn ý dành cho nghệ thuật.	trieuho	2012-04-25 18:56:00	2012-04-25 18:56:00
+258	0x102	Ă	36	1555239	vie	Ăn bát cơm dẻo, nhớ nẻo đường đi.	trieuho	2012-04-29 15:13:44	2012-04-29 15:13:44
+259	0x103	ă	1793	5764284	vie	Tôi nghĩ chúng ta nên bắt đầu ăn mừng.	yippe	2017-01-12 16:15:06	2017-01-12 16:15:06
 263	0x107	ć	1	12089088	vie	Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.	mqd	2023-09-30 13:10:06	2023-09-30 13:10:06
-269	0x10d	č	2	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
+269	0x10d	č	2	12089088	vie	Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.	mqd	2023-09-30 13:10:06	2023-09-30 13:10:06
 271	0x10f	ď	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
-272	0x110	Đ	1510	12054944	vie	Đừng lên xe với người lạ.	mqd	2023-09-14 11:10:17	2023-09-14 11:10:17
-273	0x111	đ	13877	4608352	vie	Những người được sinh ra ở Sao Paulo được gọi là Paulistas.	khoaharp	2015-10-14 14:15:21	2015-10-14 14:15:21
+272	0x110	Đ	1510	9432213	vie	Đây là cuốn sách mà bạn đang tìm kiếm.	dotheduyet1999	2020-12-04 05:39:40	2020-12-04 05:39:40
+273	0x111	đ	13877	5754213	vie	Hoặc là bạn đồng tình, hoặc là bạn phản đối tôi.	yippe	2017-01-09 15:14:31	2017-01-09 15:14:31
 283	0x11b	ě	1	12089088	vie	Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.	mqd	2023-09-30 13:10:06	2023-09-30 13:10:06
-297	0x129	ĩ	901	9066103	vie	Tôi sống trong một ngôi làng yên tĩnh ở vùng Kabylie, Algeria.	dotheduyet1999	2020-09-24 07:52:08	2020-09-24 07:52:32
+297	0x129	ĩ	901	8957174	vie	Bạn phải bình tĩnh lại.	dotheduyet1999	2020-08-03 20:25:48	2020-08-03 20:25:48
 314	0x13a	ĺ	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
 318	0x13e	ľ	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
 322	0x142	ł	1	12089088	vie	Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.	mqd	2023-09-30 13:10:06	2023-09-30 13:10:06
@@ -133,12 +133,12 @@
 341	0x155	ŕ	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
 353	0x161	š	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
 357	0x165	ť	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
-361	0x169	ũ	654	11418817	vie	Ông tôi kể cho chúng tôi nghe về những điều xưa cũ.	chaule3	2023-01-04 14:24:28	2023-01-04 14:24:28
+361	0x169	ũ	654	4789683	vie	Tom cũng đã nói chuyện với tôi tối hôm qua.	tucm	2015-12-25 03:30:58	2015-12-25 03:30:58
 378	0x17a	ź	1	12089088	vie	Bảng chữ cái tiếng Serbia Thượng Lusatian bao gồm 34 chữ cái: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, o, p, r, ø, s, w, t, u, w, y, z, f.	mqd	2023-09-30 13:10:06	2023-09-30 13:10:06
 382	0x17e	ž	1	12089086	vie	Bảng chữ cái tiếng Slovak bao gồm 46 chữ cái: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ , ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	mqd	2023-09-30 13:09:35	2023-09-30 13:09:35
-417	0x1a1	ơ	2361	8795035	vie	Chiếc xe hơi này là mẫu mới nhất.	dotheduyet1999	2020-05-27 06:39:34	2020-05-27 06:39:34
-431	0x1af	Ư	14	5749	vie	Con thỏ trắng và bé hỏi, "Ước bạn là gì?"	evaZ	2008-02-03 21:16:57	2013-09-07 13:27:30
-432	0x1b0	ư	7209	9023408	vie	Bây giờ tôi mở mắt được chưa?	dotheduyet1999	2020-09-08 03:01:27	2020-09-08 03:01:27
+417	0x1a1	ơ	2361	11303147	vie	Sương mù dày đặc khiến khó mà nhìn thấy phía trước.	chaule3	2022-12-07 06:45:41	2022-12-07 06:45:41
+431	0x1af	Ư	14	9068781	vie	Ước gì tôi biết Tom đang nghĩ gì.	dotheduyet1999	2020-09-24 17:14:30	2020-09-24 17:14:30
+432	0x1b0	ư	7209	10233347	vie	Người ta gọi New York là "Quả Táo Lớn".	dotheduyet1999	2021-08-10 17:31:27	2021-08-10 17:31:27
 803	0x323	̣	1	11377680	vie	Chúng tôi đã đề cử ông ấy cho chức vụ̣ Bộ trưởng Nội vụ.	chaule3	2022-12-27 08:41:59	2022-12-27 08:41:59
 1072	0x430	а	1	12089087	vie	Có ba mươi ba chữ cái trong bảng chữ cái tiếng Nga: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, і, о, п, р, с, т , у, ф , х, ц, ч, ш, ч, ъ, ы, ь, э, ю, я.	mqd	2023-09-30 13:09:52	2023-09-30 13:09:52
 1073	0x431	б	1	12089087	vie	Có ba mươi ba chữ cái trong bảng chữ cái tiếng Nga: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, і, о, п, р, с, т , у, ф , х, ц, ч, ш, ч, ъ, ы, ь, э, ю, я.	mqd	2023-09-30 13:09:52	2023-09-30 13:09:52
@@ -172,68 +172,68 @@
 1103	0x44f	я	1	12089087	vie	Có ba mươi ba chữ cái trong bảng chữ cái tiếng Nga: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, і, о, п, р, с, т , у, ф , х, ц, ч, ш, ч, ъ, ы, ь, э, ю, я.	mqd	2023-09-30 13:09:52	2023-09-30 13:09:52
 1105	0x451	ё	1	12089087	vie	Có ba mươi ba chữ cái trong bảng chữ cái tiếng Nga: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, і, о, п, р, с, т , у, ф , х, ц, ч, ш, ч, ъ, ы, ь, э, ю, я.	mqd	2023-09-30 13:09:52	2023-09-30 13:09:52
 1110	0x456	і	1	12089087	vie	Có ba mươi ba chữ cái trong bảng chữ cái tiếng Nga: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, і, о, п, р, с, т , у, ф , х, ц, ч, ш, ч, ъ, ы, ь, э, ю, я.	mqd	2023-09-30 13:09:52	2023-09-30 13:09:52
-7841	0x1ea1	ạ	6444	8902005	vie	Việc làm của anh ấy đang vi phạm pháp luật.	dotheduyet1999	2020-07-09 04:16:13	2020-07-19 08:02:38
-7842	0x1ea2	Ả	11	9734553	vie	Trong lúc những người Kabyle đang chiến đấu với thực dân Pháp vào những năm 40 và 50 của thế kỷ XX, những người Algeria đã nói: "Người Kabyle có vấn đề gì với nước Pháp vậy?" Và rồi sau khi Algeria giành được độc lập, cánh truyền thông giả tạo của Algeria đã làm đảo ngược vị trí của người Kabyle. Qua bàn tay của truyền thông, những người Kabyle đã trở thành "những người lính Zuavơ" và "những anh hùng Ả Rập Algeria - những con người đã giải phóng Algeria". Nhưng những con số và tài liệu lịch sử luôn ở đó để minh chứng cho một sự thật lịch sử duy nhất.	dotheduyet1999	2021-02-07 18:30:38	2021-02-07 18:41:51
-7843	0x1ea3	ả	4115	489437	vie	Miễn sao nó không bị cảm lạnh là được.	khungla	2010-08-31 06:32:20	2010-08-31 06:32:20
-7844	0x1ea4	Ấ	24	8950253	vie	Ấn tượng đầu tiên là một điều quan trọng.	dotheduyet1999	2020-07-30 20:24:36	2020-07-30 20:24:36
-7845	0x1ea5	ấ	6612	626097	vie	Cô ấy có đàn piano không?	Alta	2010-11-18 13:42:39	2010-11-18 13:42:39
-7847	0x1ea7	ầ	2182	5763279	vie	Tôi chưa bao giờ thấy một con cầy Măng-gút, cho nên không biết nó trông thế nào.	yippe	2017-01-12 09:13:39	2017-01-12 09:13:39
+7841	0x1ea1	ạ	6444	8956706	vie	Tom không phải là bạn trai hay gì của tôi đâu.	dotheduyet1999	2020-08-03 17:26:17	2020-08-03 17:26:17
+7842	0x1ea2	Ả	11	9067991	vie	Mennad nói là anh ấy không biết nói tiếng Ả Rập.	dotheduyet1999	2020-09-24 13:39:25	2020-09-24 13:39:25
+7843	0x1ea3	ả	4115	710544	vie	Tôi phải suy nghĩ điều đó trước khi trả lời anh.	Alta	2011-01-14 11:06:07	2011-01-14 11:06:07
+7844	0x1ea4	Ấ	24	6274806	vie	Ấy bị con gì cắn à?	moriole	2017-09-01 04:09:42	2017-09-01 04:09:42
+7845	0x1ea5	ấ	6612	11333227	vie	Cô ấy thường để tóc ngắn.	chaule3	2022-12-15 08:32:52	2022-12-15 08:32:52
+7847	0x1ea7	ầ	2182	8944105	vie	Chắc là anh ấy sẽ đỗ kỳ thi đầu vào.	dotheduyet1999	2020-07-27 20:13:37	2020-07-27 20:13:37
 7848	0x1ea8	Ẩ	1	8854361	vie	Ẩm thực Nhật Bản đã nuôi lớn tôi.	dotheduyet1999	2020-06-18 15:23:47	2020-06-18 15:23:47
-7849	0x1ea9	ẩ	312	12132280	vie	Chúng ta phải tìm thị trường mới cho những sản phẩm này.	phongvu	2023-10-28 02:29:51	2023-10-28 02:29:51
-7851	0x1eab	ẫ	426	12132331	vie	Cô ta là một con khốn tàn nhẫn.	phongvu	2023-10-28 02:48:56	2023-10-28 02:48:56
-7853	0x1ead	ậ	2793	8943436	vie	Tôi dậy lúc 6 rưỡi.	dotheduyet1999	2020-07-27 14:38:05	2020-07-27 14:38:05
-7855	0x1eaf	ắ	1837	8900895	vie	Chúng tôi đặt một cái bẫy để bắt cáo.	dotheduyet1999	2020-07-08 14:48:05	2020-07-08 14:48:05
-7857	0x1eb1	ằ	934	8957078	vie	Tom hạ giọng xuống rồi nói với Mary rằng "Anh yêu em".	dotheduyet1999	2020-08-03 19:47:24	2020-08-03 19:47:24
-7859	0x1eb3	ẳ	267	1547572	vie	Chẳng ai để ý đến sự vắng mặt của nó.	trieuho	2012-04-24 16:49:11	2012-04-24 16:49:20
-7861	0x1eb5	ẵ	45	510187	vie	Tôi sẵn sàng giúp bạn.	autuno	2010-09-13 02:46:31	2010-09-13 02:46:31
-7863	0x1eb7	ặ	1064	9738961	vie	Bạn gặp Tom lần đầu ở đâu?	dotheduyet1999	2021-02-09 13:26:09	2021-02-09 13:26:09
-7865	0x1eb9	ẹ	695	11395192	vie	Ngôi nhà này trông đẹp đấy.	chaule3	2022-12-31 07:59:43	2022-12-31 07:59:43
-7867	0x1ebb	ẻ	550	10235157	vie	Hãy để thứ này ở nơi tránh xa tầm với trẻ em.	dotheduyet1999	2021-08-11 10:46:11	2021-08-11 10:46:11
-7869	0x1ebd	ẽ	1810	11318236	vie	Nếu tôi cố đi giày cao gót, mắt cá chân của tôi sẽ bị đau.	mqd	2022-12-11 12:57:40	2022-12-11 12:57:52
-7870	0x1ebe	Ế	3	8989682	vie	Ếch ngồi đáy giếng.	dotheduyet1999	2020-08-22 18:50:23	2020-08-22 18:50:23
-7871	0x1ebf	ế	5872	1555230	vie	Có kiến thức thì không nghi ngờ, có lòng nhân thì không ưu tư, có dũng cảm thì không sợ hãi.	trieuho	2012-04-29 15:10:45	2012-04-29 15:10:45
-7873	0x1ec1	ề	3139	3710657	vie	Tôi rất xin lỗi vì làm phiền vào lúc này.	trieuho	2014-12-26 07:13:50	2014-12-26 07:13:50
-7875	0x1ec3	ể	3126	9013963	vie	Dầu mỏ đã có một vai trò quan trọng trong sự phát triển của nền văn minh.	dotheduyet1999	2020-09-04 04:51:36	2020-09-04 04:51:36
-7877	0x1ec5	ễ	286	1509602	vie	Khí thải từ nhà máy làm ô nhiễm không khí.	trieuho	2012-03-30 19:09:56	2012-03-31 16:45:03
-7879	0x1ec7	ệ	2831	1250210	vie	Họ lỗ mất tận 1 triệu yên.	lewtds	2011-11-20 09:57:29	2011-11-20 09:57:29
-7881	0x1ec9	ỉ	756	8955306	vie	Một người đàn ông đã mặc một chiếc ảo nỉ màu xanh.	dotheduyet1999	2020-08-02 19:23:14	2020-08-02 19:23:14
-7883	0x1ecb	ị	2008	1543767	vie	Anh ấy bị bắt buộc phải quay về Washington.	Aomori	2012-04-21 12:11:05	2012-04-21 12:11:17
-7885	0x1ecd	ọ	2704	8969875	vie	Bạn không được đọc nhiều.	dotheduyet1999	2020-08-11 04:55:00	2020-08-11 04:55:00
-7887	0x1ecf	ỏ	1165	10282103	vie	Một lời nói dối nhỏ không bao giờ làm đau người khác.	Alex_do	2021-09-06 23:36:45	2021-09-06 23:36:45
-7889	0x1ed1	ố	4236	8967165	vie	Cậu ta muốn cưới con gái tôi.	dotheduyet1999	2020-08-09 19:27:12	2020-08-09 19:27:12
-7890	0x1ed2	Ồ	11	6233016	vie	Ồ xin lỗi, tớ có đánh thức ấy dậy không?	moriole	2017-09-01 03:05:26	2017-09-01 03:05:26
-7891	0x1ed3	ồ	1625	1547557	vie	Tôi không rảnh để ngồi nói chuyện.	trieuho	2012-04-24 16:42:59	2012-04-24 16:42:59
-7892	0x1ed4	Ổ	5	1577518	vie	Ổng là một nhà soạn nhạc nổi tiếng.	trieuho	2012-05-17 12:34:01	2012-05-17 12:34:01
-7893	0x1ed5	ổ	935	1550837	vie	Lauren đến văn phòng nhân sự cuả tổng công ty Sinco thì đã quá năm giờ chiều.	trieuho	2012-04-26 17:29:30	2012-04-26 17:29:30
-7895	0x1ed7	ỗ	617	3333608	vie	Bạn có thể để dành một chỗ ngồi cho tôi không?	trieuho	2014-06-22 11:53:50	2014-06-22 11:53:50
-7897	0x1ed9	ộ	4387	11278016	vie	Cô ấy đã đến ở lại một tuần bầu bạn với mẹ tôi trong khi tôi đi vắng.	chaule3	2022-11-30 07:01:20	2022-11-30 07:01:20
-7899	0x1edb	ớ	3582	9726062	vie	Thứ Bảy tuần trước bạn có bận không?	dotheduyet1999	2021-02-05 11:10:11	2021-02-05 11:10:11
-7900	0x1edc	Ờ	5	5774	vie	Ờ, xin lỗi nghe.	khoaharp	\N	2015-10-14 11:57:00
-7901	0x1edd	ờ	4498	11277797	vie	Tôi thích chiếc quần jeans màu xanh da trời này.	chaule3	2022-11-30 04:04:33	2022-11-30 04:04:33
-7902	0x1ede	Ở	108	9715152	vie	Ở một trang web gọi là kakaku.com, bạn có thể so sánh đối chiếu giá cả của mỗi sản phẩm điện máy được bày bán ở các cửa hàng khác nhau.	dotheduyet1999	2021-02-03 11:56:58	2021-02-03 11:56:58
-7903	0x1edf	ở	2259	674102	vie	Chẳng bao lâu tôi sẽ trở về.	Alta	2010-12-19 10:45:14	2010-12-19 10:45:14
-7905	0x1ee1	ỡ	239	5161452	vie	Tom cần tìm kiếm sự giúp đỡ.	truongap	2016-05-24 02:33:38	2016-05-24 02:33:38
-7907	0x1ee3	ợ	2441	11414390	vie	Tôi đi trượt ván vào cuối tuần.	chaule3	2023-01-04 07:39:19	2023-01-04 07:39:19
-7909	0x1ee5	ụ	791	8938553	vie	Đáng thương thay, người phụ nữ có tuổi đó lại bị trộm túi xách.	dotheduyet1999	2020-07-25 10:00:50	2020-07-25 10:00:50
-7911	0x1ee7	ủ	3050	5711	vie	Tôi không biết ý của bạn là gì.	trieuho	\N	2014-06-13 11:08:57
-7912	0x1ee8	Ứ	3	624245	vie	Ứng xử của họ hết sức tao nhã.	autuno	2010-11-17 04:58:14	2010-11-17 04:58:14
-7913	0x1ee9	ứ	1730	8956964	vie	Sách Job của Kinh Thánh có lý giải lý do vì sao Chúa tha thứ cho những hành động đó của Satan.	dotheduyet1999	2020-08-03 19:05:08	2020-08-03 19:05:42
-7914	0x1eea	Ừ	16	11534331	vie	"Cậu là Ziri hả?" "Ừ." "Vậy thì giúp tui được không?" "Giúp cái gì?"	OneJanuary	2023-02-13 15:25:09	2023-02-13 15:25:09
-7915	0x1eeb	ừ	1562	1699150	vie	Chúng ta nên dừng cuộc tranh cãi vô nghĩa này.	dreznovk	2012-07-16 06:19:50	2012-07-16 06:19:50
-7917	0x1eed	ử	749	5758915	vie	Không thể nào sửa được.	yippe	2017-01-10 14:23:34	2017-01-10 14:23:34
-7919	0x1eef	ữ	1822	11249199	vie	Hầu hết đàn ông, phụ nữ và trẻ em trong làng đều khinh thường, chế giễu, và giận dữ đe dọa người phụ nữ này; nhưng giờ, khi tin cô chết đã được truyền qua lời truyền miệng, trong tiếng khẽ khàng, thương hại đã thay cho tức giận, và nỗi buồn cho đe dọa.	Sokian	2022-11-15 09:04:16	2022-11-15 09:04:16
-7921	0x1ef1	ự	1288	8950302	vie	Đó là một vụ giết người? Hay là một vụ tự sát?	dotheduyet1999	2020-07-30 20:48:54	2020-07-30 20:48:54
-7923	0x1ef3	ỳ	188	11037885	vie	Hoa Kỳ có bao nhiêu tiểu bang?	quoctrong018	2022-08-01 16:51:49	2022-08-01 16:51:49
-7925	0x1ef5	ỵ	4	9034892	vie	Tôi không chịu được sự ghen ghét đố kỵ của cô ta.	dotheduyet1999	2020-09-13 04:52:40	2020-09-13 04:52:40
+7849	0x1ea9	ẩ	312	8995639	vie	Toilet phòng này bẩn.	dotheduyet1999	2020-08-26 02:52:03	2020-08-26 02:52:03
+7851	0x1eab	ẫ	426	538554	vie	Giữa anh và tôi, ý kiến của Tom không hấp dẫn tôi lắm.	autuno	2010-09-29 13:58:30	2010-09-29 13:58:30
+7853	0x1ead	ậ	2793	10290266	vie	Cuộc tranh luận này sẽ không đưa họ đi đến đâu.	Alex_do	2021-09-12 01:34:34	2021-09-12 01:34:34
+7855	0x1eaf	ắ	1837	8974224	vie	Khi nhìn khuôn mặt đang ngủ say của con gái tôi, tôi nghĩ: "Ngày mai mình cũng phải cố gắng lên thôi".	dotheduyet1999	2020-08-13 15:37:35	2020-08-13 15:37:35
+7857	0x1eb1	ằ	934	5677774	vie	Tôi hi vọng rằng có thể xảy ra bây giờ	locbv	2016-12-12 08:07:17	2016-12-12 08:07:17
+7859	0x1eb3	ẳ	267	1571561	vie	Tao chẳng thể tìm nó ở đâu cả.	trieuho	2012-05-14 04:07:48	2012-05-14 04:07:48
+7861	0x1eb5	ẵ	45	3470060	vie	Vâng, rất sẵn lòng.	tucm	2014-09-04 07:44:50	2014-09-04 07:45:01
+7863	0x1eb7	ặ	1064	9035066	vie	Anh ấy đã ngủ sấp mặt xuống.	dotheduyet1999	2020-09-13 08:03:16	2020-09-13 08:03:16
+7865	0x1eb9	ẹ	695	9163553	vie	Họ đang bị mắc kẹt.	dotheduyet1999	2020-10-19 14:23:24	2020-10-19 14:23:24
+7867	0x1ebb	ẻ	550	9028065	vie	Tom dường như không có vẻ lo lắng.	dotheduyet1999	2020-09-09 18:47:25	2020-09-09 18:47:25
+7869	0x1ebd	ẽ	1810	8954608	vie	Anh ấy sẽ không đến hôm nay.	dotheduyet1999	2020-08-02 09:41:47	2020-08-02 09:41:47
+7870	0x1ebe	Ế	3	577170	vie	Ếch ăn mọi côn trùng.	autuno	2010-10-21 05:59:09	2010-10-21 05:59:09
+7871	0x1ebf	ế	5872	639946	vie	Bông hoa chết vì thiếu nước.	autuno	2010-11-29 05:18:34	2010-11-29 05:18:34
+7873	0x1ec1	ề	3139	9143900	vie	Mennad đã nói về sức khỏe răng miệng.	dotheduyet1999	2020-10-14 15:39:54	2020-10-14 15:39:54
+7875	0x1ec3	ể	3126	8833120	vie	Tôi không thể tìm thấy Tim. Cậu ta đi rồi sao?	dotheduyet1999	2020-06-10 18:04:15	2020-06-10 18:04:15
+7877	0x1ec5	ễ	286	6233014	vie	Không phải dễ để có sức khỏe tốt.	moriole	2017-09-01 03:04:57	2017-09-01 03:04:57
+7879	0x1ec7	ệ	2831	5677798	vie	Tôi cố gắng biện luận với anh ấy, nhưng anh ấy không nghe.	locbv	2016-12-12 08:16:08	2016-12-12 08:16:08
+7881	0x1ec9	ỉ	756	11037823	vie	Tôi đã nghỉ hưu.	quoctrong018	2022-08-01 16:32:46	2022-08-01 16:32:46
+7883	0x1ecb	ị	2008	3304665	vie	Anh ta búng tàn thuốc xuống đất rồi làm điệu bộ lắc lắc đầu khó chịu.	trieuho	2014-06-09 10:37:36	2014-06-09 10:37:36
+7885	0x1ecd	ọ	2704	11046052	vie	Thần tài là người mà khi có sự hiện diện của họ giúp chúng ta bội tăng những gì chúng ta mong muốn.	jasonlo	2022-08-06 15:19:52	2022-08-06 15:19:52
+7887	0x1ecf	ỏ	1165	3309375	vie	Tại sao chúng ta không không đi khỏi nơi này?	autuno	2014-06-12 08:09:25	2014-06-12 08:09:25
+7889	0x1ed1	ố	4236	8987405	vie	Nếu bạn không muốn thì bạn không cần phải đến đâu.	dotheduyet1999	2020-08-21 16:38:58	2020-08-21 16:38:58
+7890	0x1ed2	Ồ	11	5149406	vie	Ồ! Đã từ lâu lâu lắm rồi.	truongap	2016-05-18 17:23:45	2016-05-18 17:23:45
+7891	0x1ed3	ồ	1625	10735051	vie	Đã lâu lắm rồi tôi chưa có một kỳ nghỉ đúng nghĩa.	dotheduyet1999	2022-03-24 16:02:52	2022-03-24 16:02:52
+7892	0x1ed4	Ổ	5	11475730	vie	Người ta hỏi tôi, "Nhóc sao không đấy?". Tôi trả lời, "Ổn."	OneJanuary	2023-01-21 17:22:13	2023-01-21 17:22:13
+7893	0x1ed5	ổ	935	1549421	vie	Ông chăm chú nhìn người phó tổng giám đốc đang sải bước đi vào.	trieuho	2012-04-25 18:47:15	2012-04-25 18:47:15
+7895	0x1ed7	ỗ	617	9432225	vie	Xin lỗi cho tôi hỏi, tại sao anh biết tên tôi thế?	dotheduyet1999	2020-12-04 05:41:21	2020-12-04 05:41:21
+7897	0x1ed9	ộ	4387	9774712	vie	Kiến trúc à... Tôi không suy nghĩ đến cái đó cho lắm. Tôi chỉ muốn một phòng ngủ và một phòng làm việc thoải mái thôi.	dotheduyet1999	2021-02-18 10:20:04	2021-02-18 10:20:04
+7899	0x1edb	ớ	3582	6275237	vie	Bọn tớ vẫn đang cố	moriole	2017-09-01 05:43:44	2017-09-01 05:43:44
+7900	0x1edc	Ờ	5	6216675	vie	Ờ.	letuananh	2017-08-30 06:16:16	2017-08-30 06:16:16
+7901	0x1edd	ờ	4498	11260613	vie	David đã xin được việc nhờ vào chú của mình.	chaule3	2022-11-21 10:03:18	2022-11-21 10:03:18
+7902	0x1ede	Ở	108	1542915	vie	Ở đây lâu hơn một chút có được không?	Aomori	2012-04-20 23:21:29	2012-04-20 23:21:29
+7903	0x1edf	ở	2259	11380422	vie	Tôi hứa rằng tôi sẽ có mặt ở đó đúng giờ.	chaule3	2022-12-28 04:12:03	2022-12-28 04:12:03
+7905	0x1ee1	ỡ	239	2639215	vie	Đứa trẻ này miệng lưỡi như người lớn.	dreznovk	2013-08-02 23:29:45	2013-08-02 23:29:50
+7907	0x1ee3	ợ	2441	5161413	vie	Chính xác là cái máy này làm được việc gì?	truongap	2016-05-24 02:00:30	2016-05-24 02:00:30
+7909	0x1ee5	ụ	791	8839358	vie	Ngài có thể cho tôi vài cục pin máy ảnh được không?	dotheduyet1999	2020-06-13 11:26:59	2020-06-13 11:26:59
+7911	0x1ee7	ủ	3050	9012758	vie	Tom không có đủ tiền để mua một chiếc ô tô.	dotheduyet1999	2020-09-03 14:20:10	2020-09-03 14:20:10
+7912	0x1ee8	Ứ	3	1510664	vie	Ứng xử ra sao với ngôn ngữ thời @?	trieuho	2012-03-31 16:40:11	2012-03-31 16:40:11
+7913	0x1ee9	ứ	1730	934816	vie	Ông ấy bị rối loạn ý thức lâu rồi.	nthkmf	2011-06-11 19:45:33	2011-06-11 19:45:33
+7914	0x1eea	Ừ	16	10257861	vie	Ừ, tôi làm nó có chủ đích đấy.	hothuyhien	2021-08-23 13:10:04	2021-08-23 13:10:04
+7915	0x1eeb	ừ	1562	8994070	vie	Hệ tuần hoàn được cấu tạo từ phổi, tim, tĩnh mạch, động mạnh và mao mạch.	dotheduyet1999	2020-08-25 08:35:20	2020-08-25 08:35:20
+7917	0x1eed	ử	749	9035422	vie	Nhấp vào chế độ chỉnh sửa.	dotheduyet1999	2020-09-13 11:11:16	2020-09-13 11:11:16
+7919	0x1eef	ữ	1822	8939618	vie	Thu nhập không thể đáp ứng những mong muốn của anh ta.	dotheduyet1999	2020-07-25 19:35:20	2020-07-25 19:35:20
+7921	0x1ef1	ự	1288	8942113	vie	Tôi sẽ từng bước thực hiện mục tiêu của bản thân.	dotheduyet1999	2020-07-26 18:50:59	2020-07-26 18:50:59
+7923	0x1ef3	ỳ	188	9381360	vie	Ở Nhật Bản, học kỳ mới bắt đầu vào tháng 4.	dotheduyet1999	2020-11-26 04:59:33	2020-11-26 04:59:33
+7925	0x1ef5	ỵ	4	9008631	vie	Nó có tồn tại, nhưng vì nó là điều cấm kỵ và không có ai nói về nó cả, nên việc đặt cho nó một cái tên là không cần thiết.	dotheduyet1999	2020-09-01 18:52:42	2020-09-01 18:58:46
 7926	0x1ef6	Ỷ	1	934770	vie	Ỷ thế làm càn!	nthkmf	2011-06-11 19:45:33	2011-06-11 19:45:33
-7927	0x1ef7	ỷ	61	509147	vie	Vào thế kỷ thứ mười chín nhiều người châu Phi bị bán làm nô lệ sang Hoa Kỳ.	autuno	2010-09-12 10:22:02	2010-09-12 10:22:02
-7929	0x1ef9	ỹ	183	8839421	vie	Anh ta đã đi Mỹ tuần trước.	dotheduyet1999	2020-06-13 11:47:35	2020-06-13 11:47:35
-8203	0x200b	​	7	11326283	vie	Tom có ​​phải đi không?	mqd	2022-12-13 12:03:05	2022-12-13 12:03:05
+7927	0x1ef7	ỷ	61	5160037	vie	Tôi đã huỷ cuộc hẹn với cô ấy.	truongap	2016-05-23 13:40:47	2016-05-23 13:40:47
+7929	0x1ef9	ỹ	183	9010715	vie	Nhiều người đã vây xung quanh người bị thương, nhưng khi bác sỹ đến thì họ đã tránh đường cho bác sỹ đi qua.	dotheduyet1999	2020-09-02 16:44:38	2020-09-02 16:44:49
+8203	0x200b	​	7	3618038	vie	Hội nghị chung, sau khi thảo luận báo cáo của Tổng giám đốc về bản kiến ​​nghị quốc tế ủng hộ Esperanto.	ismael_avila	2014-11-09 22:41:19	2016-04-20 01:50:18
 8211	0x2013	–	3	3709341	vie	Trước kỳ thi cậu căn bản chẳng ôn tập gì, có thi tốt nổi không? – Cũng đúng	trieuho	2014-12-25 10:32:21	2014-12-25 10:32:21
 8212	0x2014	—	1	6552468	vie	Trông ví của Tom như thế nào? — Ví của Tom mỏng và trống rỗng.	AqQoyriq_1	2017-12-13 06:00:39	2017-12-13 06:05:41
-8220	0x201c	“	8	12045015	vie	“Hôm qua cậu có ở nhà không?” “Không.”	mqd	2023-09-09 15:52:01	2023-09-09 15:52:01
-8221	0x201d	”	10	10241613	vie	”Hay là Yumi vẫn còn đang thức nhỉ." "Chắc nó ngủ rồi. Vì bên Nhật đang là 3 giờ sáng mà."	dotheduyet1999	2021-08-14 15:01:30	2021-08-14 15:01:30
+8220	0x201c	“	8	3709230	vie	Lão Vương rất khiêm tốn, ông nói: “Bảo tôi phụ trách thì không phải, hỗ trợ thôi thì còn được”.	trieuho	2014-12-25 10:15:37	2014-12-25 10:15:37
+8221	0x201d	”	10	12026306	vie	“Tôi muốn về nhà.” “Tôi cũng vậy.”	mqd	2023-08-31 10:38:56	2023-08-31 10:38:56
 8322	0x2082	₂	1	3356187	vie	CO₂ liên quan rất nhiều tới cái gọi là hiệu ứng nhà kính.	autuno	2014-07-03 14:07:23	2014-07-03 14:07:23
-8364	0x20ac	€	4	3549795	vie	Thứ này sẽ tốn €30.	trieuho	2014-10-10 10:00:27	2014-10-10 10:00:27
+8364	0x20ac	€	4	3549793	vie	Cái này sẽ tốn €30.	trieuho	2014-10-10 10:00:16	2014-10-10 10:00:16
 128420	0x1f5a4	🖤	1	12056512	vie	Thành thật chia buồn 🖤🖤🖤	mqd	2023-09-15 10:11:59	2023-09-15 10:11:59
 128546	0x1f622	😢	1	12056518	vie	Một bi kịch khủng khiếp 😢.	mqd	2023-09-15 10:13:16	2023-09-15 10:13:16

@@ -1,47 +1,47 @@
-32	0x20	 	130	10063984	bjn	Ini abah ulun.	HAGNi	2021-05-26 05:09:19	2021-05-26 05:09:19
-33	0x21	!	11	10714392	bjn	Kada!	warikdigital	2022-03-12 11:44:26	2022-03-12 11:44:26
-44	0x2c	,	2	5049216	bjn	Asa, dua, talu, ampat, lima, anam, pitu, walu, sanga, sapuluh.	cueyayotl	2016-04-08 01:53:33	2016-04-08 01:53:41
+32	0x20	 	130	10008693	bjn	Inya taguring janak.	HAGNi	2021-05-05 08:20:32	2021-05-05 08:20:36
+33	0x21	!	11	10714411	bjn	Bujur!	warikdigital	2022-03-12 11:53:05	2022-03-12 11:53:05
+44	0x2c	,	2	10717716	bjn	Mama, ulun handak kawin jua.	warikdigital	2022-03-14 10:46:23	2022-03-14 10:46:23
 45	0x2d	-	2	10795425	bjn	Jangan laju-laju bajalan. Aku kada kawa maumpati.	warikdigital	2022-04-30 14:58:17	2022-04-30 14:58:17
-46	0x2e	.	107	10795425	bjn	Jangan laju-laju bajalan. Aku kada kawa maumpati.	warikdigital	2022-04-30 14:58:17	2022-04-30 14:58:17
+46	0x2e	.	107	12096673	bjn	Unda kawa guring di mana aja.	HAGNi	2023-10-05 03:38:15	2023-10-05 03:38:18
 48	0x30	0	1	9996207	bjn	Inya bisi 2.000 buku.	HAGNi	2021-04-29 16:35:18	2021-04-29 16:35:24
 50	0x32	2	1	9996207	bjn	Inya bisi 2.000 buku.	HAGNi	2021-04-29 16:35:18	2021-04-29 16:35:24
 59	0x3b	;	1	11062814	bjn	Borat baasal matan Kazakstan; inya lain urang Amirika.	HAGNi	2022-08-15 14:21:54	2022-08-15 14:21:58
-63	0x3f	?	33	10717776	bjn	Siapa ngaran ikam?	warikdigital	2022-03-14 11:40:09	2022-03-14 11:40:09
-65	0x41	A	23	10717790	bjn	Aku indah ka sakolah.	warikdigital	2022-03-14 11:56:54	2022-03-14 11:56:54
-66	0x42	B	19	10717811	bjn	Bidawang kada beisi gigi.	warikdigital	2022-03-14 12:16:03	2022-03-14 12:16:03
+63	0x3f	?	33	10717805	bjn	Umur ikam berapa?	warikdigital	2022-03-14 12:10:07	2022-03-14 12:10:07
+65	0x41	A	23	10717804	bjn	Aku lain dokter.	warikdigital	2022-03-14 12:08:22	2022-03-14 12:08:22
+66	0x42	B	19	10714389	bjn	Badidiam!	warikdigital	2022-03-12 11:43:12	2022-03-12 11:43:12
 68	0x44	D	1	10714394	bjn	Dingin.	warikdigital	2022-03-12 11:45:15	2022-03-12 11:45:15
-72	0x48	H	3	10714403	bjn	Hiih.	warikdigital	2022-03-12 11:48:52	2022-03-12 11:48:52
-73	0x49	I	37	10008693	bjn	Inya taguring janak.	HAGNi	2021-05-05 08:20:32	2021-05-05 08:20:36
-74	0x4a	J	7	10519123	bjn	Janaki pang kuyuk ganal tu.	HAGNi	2021-11-20 11:40:17	2021-11-20 11:40:17
-75	0x4b	K	11	10670757	bjn	Ulun handak tulak ka Korea.	HAGNi	2022-02-12 14:55:07	2022-02-12 14:55:12
+72	0x48	H	3	10714395	bjn	Hujankah?	warikdigital	2022-03-12 11:45:39	2022-03-12 11:45:39
+73	0x49	I	37	10717701	bjn	Ini bujuran spageti kah?	warikdigital	2022-03-14 10:41:44	2022-03-14 10:41:44
+74	0x4a	J	7	10795425	bjn	Jangan laju-laju bajalan. Aku kada kawa maumpati.	warikdigital	2022-04-30 14:58:17	2022-04-30 14:58:17
+75	0x4b	K	11	11071699	bjn	Kanapa pian handak balajar basa Inggris?	HAGNi	2022-08-20 13:31:05	2022-08-20 13:31:05
 76	0x4c	L	4	10717838	bjn	Lain.	warikdigital	2022-03-14 12:23:52	2022-03-14 12:23:52
-77	0x4d	M	6	10714838	bjn	Tom kawa menggantiakan Mary.	warikdigital	2022-03-12 16:14:51	2022-03-12 16:14:56
-78	0x4e	N	7	10717848	bjn	Nyaringi.	warikdigital	2022-03-14 12:26:00	2022-03-14 12:26:00
-80	0x50	P	4	10717724	bjn	Pian handak ka mana?	warikdigital	2022-03-14 10:51:25	2022-03-14 10:51:25
+77	0x4d	M	6	10714385	bjn	Matikah?	warikdigital	2022-03-12 11:41:44	2022-03-12 11:41:50
+78	0x4e	N	7	10717807	bjn	Ngaranku Jack.	warikdigital	2022-03-14 12:13:02	2022-03-14 12:13:02
+80	0x50	P	4	10714840	bjn	Padahi aku sabarataan.	warikdigital	2022-03-12 16:15:35	2022-03-12 16:15:38
 82	0x52	R	1	10714413	bjn	Rumahku parak lawan taman.	warikdigital	2022-03-12 11:56:24	2022-03-12 11:56:24
-83	0x53	S	5	11242877	bjn	Sami tulak ka Mesir gasan balajar basa Arab.	HAGNi	2022-11-12 00:02:16	2022-11-12 00:02:19
-84	0x54	T	23	12132468	bjn	Tom maumpati kami ka mana-mana.	HAGNi	2023-10-28 05:03:28	2023-10-28 05:03:30
-85	0x55	U	25	11064279	bjn	Unda rancak tulak ka toko buku tu.	HAGNi	2022-08-16 05:11:24	2022-08-16 05:11:34
+83	0x53	S	5	10717840	bjn	Sini.	warikdigital	2022-03-14 12:24:15	2022-03-14 12:24:15
+84	0x54	T	23	12111295	bjn	Ini sabarataan gasan Tom.	HAGNi	2023-10-17 09:04:19	2023-10-17 09:04:23
+85	0x55	U	25	10068847	bjn	Unda balum guring.	HAGNi	2021-05-28 10:11:42	2021-05-28 10:11:42
 86	0x56	V	1	12278051	bjn	Vera kada kawa guring.	HAGNi	2024-01-21 07:09:15	2024-01-21 07:09:19
-97	0x61	a	146	10717817	bjn	Lakasi.	warikdigital	2022-03-14 12:17:35	2022-03-14 12:17:35
-98	0x62	b	46	9996180	bjn	Mary mambariakan hadupan inya tulang.	HAGNi	2021-04-29 16:18:55	2021-04-29 16:18:59
-99	0x63	c	14	10714833	bjn	Jangan kada ingat mangunci lawang.	warikdigital	2022-03-12 16:12:13	2022-03-12 16:12:13
-100	0x64	d	70	10795425	bjn	Jangan laju-laju bajalan. Aku kada kawa maumpati.	warikdigital	2022-04-30 14:58:17	2022-04-30 14:58:17
-101	0x65	e	19	10717804	bjn	Aku lain dokter.	warikdigital	2022-03-14 12:08:22	2022-03-14 12:08:22
-103	0x67	g	72	11243932	bjn	Inya katuju mandangarakan radiu.	HAGNi	2022-11-12 19:42:07	2022-11-12 19:42:07
-104	0x68	h	67	10795426	bjn	Itu kada salah kita.	warikdigital	2022-04-30 14:59:05	2022-04-30 14:59:05
-105	0x69	i	104	11242886	bjn	Buhan inya baapa ay di atas situ?	HAGNi	2022-11-12 00:11:41	2022-11-12 00:11:45
-106	0x6a	j	30	11231881	bjn	Unda balajar.	HAGNi	2022-11-06 10:29:03	2022-11-06 10:29:03
-107	0x6b	k	114	10717811	bjn	Bidawang kada beisi gigi.	warikdigital	2022-03-14 12:16:03	2022-03-14 12:16:03
-108	0x6c	l	63	10041479	bjn	Inya kada salah.	HAGNi	2021-05-16 14:43:16	2021-05-16 14:43:16
-109	0x6d	m	78	10714838	bjn	Tom kawa menggantiakan Mary.	warikdigital	2022-03-12 16:14:51	2022-03-12 16:14:56
-110	0x6e	n	125	10519072	bjn	Buhan inya kada haus.	HAGNi	2021-11-20 11:24:02	2021-11-20 11:24:02
-111	0x6f	o	26	11242893	bjn	Tom kada handak datang.	HAGNi	2022-11-12 00:13:31	2022-11-12 00:13:35
-112	0x70	p	40	10062768	bjn	Ikam kanapa makan saurangan ja?	HAGNi	2021-05-25 15:21:05	2021-05-25 15:21:05
-114	0x72	r	74	10717834	bjn	Aku lapar.	warikdigital	2022-03-14 12:23:08	2022-03-14 12:23:08
-115	0x73	s	49	11084773	bjn	Ikam harus baranti maudut.	HAGNi	2022-08-28 14:21:29	2022-08-28 14:21:32
-116	0x74	t	61	10519123	bjn	Janaki pang kuyuk ganal tu.	HAGNi	2021-11-20 11:40:17	2021-11-20 11:40:17
-117	0x75	u	104	10717700	bjn	Tarusakan menabuk.	warikdigital	2022-03-14 10:41:15	2022-03-14 10:41:15
-119	0x77	w	26	10714833	bjn	Jangan kada ingat mangunci lawang.	warikdigital	2022-03-12 16:12:13	2022-03-12 16:12:13
-121	0x79	y	35	12088679	bjn	Tom mamarluakan sapatu hanyar.	HAGNi	2023-09-30 08:31:16	2023-09-30 08:31:19
+97	0x61	a	146	10717780	bjn	Aku kada tahu.	warikdigital	2022-03-14 11:47:37	2022-03-14 11:47:37
+98	0x62	b	46	10719249	bjn	Kada lawas lagi Tom bakal bulik pang.	HAGNi	2022-03-15 04:37:47	2022-03-15 04:37:54
+99	0x63	c	14	10717733	bjn	Tom handak baisi cucu.	warikdigital	2022-03-14 10:53:00	2022-03-14 10:53:00
+100	0x64	d	70	12278051	bjn	Vera kada kawa guring.	HAGNi	2024-01-21 07:09:15	2024-01-21 07:09:19
+101	0x65	e	19	10717811	bjn	Bidawang kada beisi gigi.	warikdigital	2022-03-14 12:16:03	2022-03-14 12:16:03
+103	0x67	g	72	10716056	bjn	Inya kada mandangar ngarannya dikiyau.	warikdigital	2022-03-13 06:33:00	2022-03-13 06:33:00
+104	0x68	h	67	10690579	bjn	Apa lah nang buhan ikam padahakan inya?	HAGNi	2022-02-25 12:03:25	2022-02-25 12:03:28
+105	0x69	i	104	11240631	bjn	Unda sudah manulis banyak kalimat babasa Prancis.	HAGNi	2022-11-11 00:35:57	2022-11-11 00:36:01
+106	0x6a	j	30	10717722	bjn	Ikam katujulah apel?	warikdigital	2022-03-14 10:49:48	2022-03-14 10:49:48
+107	0x6b	k	114	10717786	bjn	Aku beisi kucing dua ikung.	warikdigital	2022-03-14 11:51:36	2022-03-14 11:51:36
+108	0x6c	l	63	10256296	bjn	Tom kada katuju lawan ulun.	HAGNi	2021-08-22 16:33:53	2021-08-22 16:33:57
+109	0x6d	m	78	10714413	bjn	Rumahku parak lawan taman.	warikdigital	2022-03-12 11:56:24	2022-03-12 11:56:24
+110	0x6e	n	125	12111295	bjn	Ini sabarataan gasan Tom.	HAGNi	2023-10-17 09:04:19	2023-10-17 09:04:23
+111	0x6f	o	26	10714838	bjn	Tom kawa menggantiakan Mary.	warikdigital	2022-03-12 16:14:51	2022-03-12 16:14:56
+112	0x70	p	40	10717813	bjn	Ikam siapa?	warikdigital	2022-03-14 12:16:36	2022-03-14 12:16:36
+114	0x72	r	74	10795427	bjn	Tom baisi mobil sorang.	warikdigital	2022-04-30 15:00:10	2022-04-30 15:00:10
+115	0x73	s	49	10717733	bjn	Tom handak baisi cucu.	warikdigital	2022-03-14 10:53:00	2022-03-14 10:53:00
+116	0x74	t	61	10717728	bjn	Apa nang ikam takutanakan?	warikdigital	2022-03-14 10:52:19	2022-03-14 10:52:19
+117	0x75	u	104	10068847	bjn	Unda balum guring.	HAGNi	2021-05-28 10:11:42	2021-05-28 10:11:42
+119	0x77	w	26	10000833	bjn	Ulun kada kawa tulak.	HAGNi	2021-05-01 15:04:26	2021-05-01 15:04:26
+121	0x79	y	35	10690579	bjn	Apa lah nang buhan ikam padahakan inya?	HAGNi	2022-02-25 12:03:25	2022-02-25 12:03:28
 122	0x7a	z	1	11062814	bjn	Borat baasal matan Kazakstan; inya lain urang Amirika.	HAGNi	2022-08-15 14:21:54	2022-08-15 14:21:58

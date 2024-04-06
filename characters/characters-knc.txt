@@ -1,81 +1,81 @@
-32	0x20	 	3791	10988243	knc	King's English dә Maiye gәnyi. Shi dә kampani ngawana kәlle karewaye, kuru zar nzә ngәwuso Amerikaye.	\N	2022-07-14 03:54:04	2022-07-14 03:54:06
-33	0x21	!	61	10911675	knc	Kai A'a! Kuye waltǝke leti ciduko!! Wuye su bikkeye 'Mai leti ro kǝnshebe' fandǝkin.	\N	2022-06-15 04:04:07	2022-06-15 04:04:09
-34	0x22	"	79	10988068	knc	"Datәgәram magәbe samma son cidayin." "Awi nankaro? Kamu cida cintabe sәdin faldә awi shiga suwandә?" "Yoo, wu wa kәma kamu cida cintabe dio ma wo? Askәrngәna nyiro wa fuwu ro haptәgә dә ro."	\N	2022-07-14 03:44:29	2022-07-14 03:44:30
-36	0x24	$	4	10903112	knc	Fasal doni yim talauwwa mawutәna dәye haraji biliyon $50 lan fulutә bowozәyin.	\N	2022-06-11 10:44:35	2022-06-11 10:44:38
-39	0x27	'	456	10932081	knc	Abi yayi ra'ama dǝ njikin.	\N	2022-06-23 05:18:50	2022-06-23 05:18:52
+32	0x20	 	3791	11021989	knc	Bayan kәla awo wakazәnaben sandiye sadәnadә sheuwa. Wuye kurunyi lan lamar adә ngәlaro turә do.	\N	2022-07-25 03:50:44	2022-07-25 03:50:45
+33	0x21	!	61	10991385	knc	Tai danәm wa zәktә badinәmma diya! Wu maye range awonyi dikkin,nyiro zauro askәrngәna!	\N	2022-07-15 03:58:39	2022-07-15 03:58:40
+34	0x22	"	79	11007075	knc	"Wuye nongǝna nyi dǝ tarihi nǝm karwa'a matabe kuruwu mbeji." "Sandi karwa'a gǝnyi. Kolle bayan dikke.	\N	2022-07-20 04:00:01	2022-07-20 04:00:03
+36	0x24	$	4	10988454	knc	Tiket kamu-a kwa-aye maa $30, au $20 kam fallo gǝnatin maa.	\N	2022-07-14 04:05:51	2022-07-14 04:05:53
+39	0x27	'	456	10904609	knc	Kalimawa 'shawa'-a 'battiya'dә ndi katenzan letunza tilowa.	\N	2022-06-12 04:59:45	2022-06-12 04:59:48
 40	0x28	(	1	10903073	knc	Samnowa loktǝ tǝdin dǝ sandima kausu yim kǝntagǝ Juli-ye kawu 15 (Talau), Dubdonzǝ yim kǝntagǝ Juli ye kawu 16 (Larafa), kuru suwa yim kǝnagǝ Juli kawu 17 (Lamisǝ ).	\N	2022-06-11 10:41:07	2022-06-11 10:41:10
 41	0x29	)	2	10903073	knc	Samnowa loktǝ tǝdin dǝ sandima kausu yim kǝntagǝ Juli-ye kawu 15 (Talau), Dubdonzǝ yim kǝntagǝ Juli ye kawu 16 (Larafa), kuru suwa yim kǝnagǝ Juli kawu 17 (Lamisǝ ).	\N	2022-06-11 10:41:07	2022-06-11 10:41:10
-44	0x2c	,	859	10977345	knc	Loktu tollan , dunya dǝ haiy kǝjilaa ro fa'ako.	\N	2022-07-10 04:27:37	2022-07-10 04:27:38
-45	0x2d	-	453	10904061	knc	Liyita cari ma dǝ ye kam dondi woso fal-falro suruna.	\N	2022-06-12 04:29:00	2022-06-12 04:29:01
-46	0x2e	.	3424	10909887	knc	Diwalla dǝn sǝretkono.	\N	2022-06-14 05:22:20	2022-06-14 05:22:22
-48	0x30	0	34	10904085	knc	Maara samibe dә awowu son kilomita 500 ro sәwoshin.	\N	2022-06-12 04:30:23	2022-06-12 04:30:24
-49	0x31	1	41	10904598	knc	Saa 1860ye lan, Lincolnna kura lardә United Statesbe ro karratә.	\N	2022-06-12 04:59:14	2022-06-12 04:59:15
-50	0x32	2	24	11001003	knc	Tәn sa 2:30 suwaye Wu faata.	\N	2022-07-18 05:20:34	2022-07-18 05:20:36
-51	0x33	3	29	10904599	knc	Saa 1853 lan, Perrybe Japanno ceworo cinna America ro kazaa.	\N	2022-06-12 04:59:17	2022-06-12 04:59:19
-52	0x34	4	14	10909751	knc	Nasha fәtebe dәn, luwaya so dә ci 47 lan ciwono.	\N	2022-06-14 05:14:37	2022-06-14 05:14:38
-53	0x35	5	14	10904599	knc	Saa 1853 lan, Perrybe Japanno ceworo cinna America ro kazaa.	\N	2022-06-12 04:59:17	2022-06-12 04:59:19
-54	0x36	6	11	10903073	knc	Samnowa loktǝ tǝdin dǝ sandima kausu yim kǝntagǝ Juli-ye kawu 15 (Talau), Dubdonzǝ yim kǝntagǝ Juli ye kawu 16 (Larafa), kuru suwa yim kǝnagǝ Juli kawu 17 (Lamisǝ ).	\N	2022-06-11 10:41:07	2022-06-11 10:41:10
-55	0x37	7	9	10909606	knc	Fountaindǝ nji konnuwa datǝ katap 170 ro yirzǝyin.	\N	2022-06-14 05:06:20	2022-06-14 05:06:21
-56	0x38	8	12	10997527	knc	Kәrmu Sәlәmdәye gananzәyaye ci fal suro yakkәye jama Europeye cezәna ndikate saa 1348 -a saa 1350 - be lan.	\N	2022-07-17 04:23:18	2022-07-17 04:23:19
-57	0x39	9	11	10997950	knc	1973 lan kәndau ye taman dә dola yakkә barel wo so; 2008 lan dola 80 barel wo so.	\N	2022-07-17 04:47:21	2022-07-17 04:47:22
-58	0x3a	:	41	11010289	knc	Wu dә zauro cidanyi-a kawu sa 2:30 so-ro.	\N	2022-07-21 04:21:40	2022-07-21 04:21:41
-59	0x3b	;	27	10924781	knc	Am sandiya sharabe ranzәna dә, tәmanza ba illa raktә lan. Sharaso dә ma watәmanzawo maa, sandiye watәma sharabe ro walzayin; kuru am do awo ngәwu tәmazana kuru affinza fattәyin ma ba so dә, sandima sambisoro zauro diwi yo.	\N	2022-06-20 04:27:47	2022-06-20 04:27:49
-63	0x3f	?	344	10964853	knc	Karǝgǝ kǝji-a hangal buna-a fanǝmi wa?	\N	2022-07-05 05:06:11	2022-07-05 05:06:12
-65	0x41	A	634	10980059	knc	Awo dә zau, amma toltә zungubewo so zuwuna.	\N	2022-07-11 04:14:46	2022-07-11 04:14:47
-66	0x42	B	217	10934471	knc	Bǝne woktǝ range lenginba ro waljia do letǝ agogobe dǝye wuga zǝkcin ro waljin.	\N	2022-06-24 05:28:05	2022-06-24 05:28:06
-67	0x43	C	147	11016029	knc	Can Australia lan sanya-nyi mbeji.	\N	2022-07-23 03:28:00	2022-07-23 03:28:01
-68	0x44	D	188	11003945	knc	Duli dǝye kowo habkataro kasudu gowada.	\N	2022-07-19 03:51:45	2022-07-19 03:51:46
-69	0x45	E	36	10968413	knc	Emilydǝ na kuruwu ro rizǝna.	\N	2022-07-06 05:47:52	2022-07-06 05:47:53
-70	0x46	F	190	10904190	knc	Faret dә gangawu askәrra ye fuwuro koza cedo.	\N	2022-06-12 04:36:26	2022-06-12 04:36:28
-71	0x47	G	88	10953332	knc	Germany ma ro lengәna amma loktu fandәke Alexander ro ziyara yakkәnyi.	\N	2022-07-01 04:39:43	2022-07-01 04:39:44
-72	0x48	H	69	10924527	knc	Hotel dǝn kawo gade samoyin mbeji intanet fandobe.	\N	2022-06-20 04:13:08	2022-06-20 04:13:09
-73	0x49	I	57	10903193	knc	Ilmu liyitabe dә fuwutu ajabba laa sәdәna.	\N	2022-06-11 10:52:55	2022-06-11 10:53:00
-74	0x4a	J	153	10994020	knc	Kәnәnga dә zauro karәngә lan rummiya wawa, do cintu lan rummiya awo kasuduye. Jirebero kasudu gonәmmiya ra'amma maa, nyiro mbu ro walzәna raktә do kuttu nәm gonәm, kuru shilan bikketә dә.	\N	2022-07-16 03:59:10	2022-07-16 03:59:11
-75	0x4b	K	712	10911560	knc	Karaiy jili fal saa woson tando dǝ ngǝlagǝnyi.	\N	2022-06-15 03:57:17	2022-06-15 03:57:18
-76	0x4c	L	178	10947242	knc	Shi Lardǝ diyayen.	\N	2022-06-29 05:18:13	2022-06-29 05:18:14
-77	0x4d	M	286	10985509	knc	Mbol kәla zawalyen au suro pakye dә sharaye dabsәna suro kәryewa lardә Amerikabe ngәwu son.	\N	2022-07-13 03:43:59	2022-07-13 03:44:00
-78	0x4e	N	426	10903143	knc	Ngawo sha kamunzәye kolzәnayen, Harold dә zoleye no.	\N	2022-06-11 10:47:55	2022-06-11 10:47:58
-79	0x4f	O	11	10950143	knc	Opera dǝ na am Inglabe lan, shima dunowa wo, futu na am Italiyabe lan baseball zauro tǝraana yedei.	\N	2022-06-30 05:03:55	2022-06-30 05:03:56
-80	0x50	P	35	10903901	knc	Perry shawaritǝ na Drake-ken hawar mataro.	\N	2022-06-12 04:19:42	2022-06-12 04:19:44
-81	0x51	Q	4	10969637	knc	Kǝrmai Bushbe-a al Qaida sammaso telowa?	\N	2022-07-07 04:35:55	2022-07-07 04:35:56
-82	0x52	R	77	10988511	knc	Runzǝ lan data na Moto gǝnatǝye dǝn.	\N	2022-07-14 04:09:04	2022-07-14 04:09:06
-83	0x53	S	628	10904063	knc	Suro jiri cidibeye dәn kәmbawu dә gana.	\N	2022-06-12 04:29:07	2022-06-12 04:29:08
-84	0x54	T	187	10994193	knc	Tǝlam Faransa ye fal gǝnyi liko.	\N	2022-07-16 04:09:16	2022-07-16 04:09:17
-85	0x55	U	53	10924576	knc	United States dә Mexico'a numkam zauro katәn zan mbeji .	\N	2022-06-20 04:15:57	2022-06-20 04:15:58
-86	0x56	V	9	11025150	knc	Maara njibe kǝji fantibe laaye na maarawa njibe dazayin ro yelatǝgǝ Venice lan.	\N	2022-07-26 03:29:59	2022-07-26 03:30:01
-87	0x57	W	360	11021970	knc	"Sir William dә kәlewanzә," sә kowo kam notәnyi laa ye jawawu ceno.	\N	2022-07-25 03:49:40	2022-07-25 03:49:41
+44	0x2c	,	859	10903820	knc	Mowonzә nanzә gonәmin wa, Leo?	\N	2022-06-12 04:15:04	2022-06-12 04:15:06
+45	0x2d	-	453	11016525	knc	Indi adәye-a gone. Sambәro kusuye dәwa rumbumin? Tәmangәna yim sәbdәa awanyi kasugәro ishin. "Kǝlan rone diya." "Wande zәktәmi."	\N	2022-07-23 03:54:01	2022-07-23 03:54:02
+46	0x2e	.	3424	10994437	knc	Wu dә jili am do nәlewanza kungәna matә lan bannazayin dә ro waltә raakәnyi, kuru waya kәlanza bannazayin nәlewanza waltәm fando lan.	\N	2022-07-16 04:23:02	2022-07-16 04:23:03
+48	0x30	0	34	11001003	knc	Tәn sa 2:30 suwaye Wu faata.	\N	2022-07-18 05:20:34	2022-07-18 05:20:36
+49	0x31	1	41	10947988	knc	Karabkande dǝ 3-a 1-a kǝnasar cedo.	\N	2022-06-29 06:01:16	2022-06-29 06:01:17
+50	0x32	2	24	10988454	knc	Tiket kamu-a kwa-aye maa $30, au $20 kam fallo gǝnatin maa.	\N	2022-07-14 04:05:51	2022-07-14 04:05:53
+51	0x33	3	29	11013145	knc	Foto buro salak ye dunyan gotǝna dǝ suro saa 1830 lan gowotǝ.	\N	2022-07-22 02:36:21	2022-07-22 02:36:22
+52	0x34	4	14	10949848	knc	Am 514 njang samiro leza.	\N	2022-06-30 04:47:05	2022-06-30 04:47:06
+53	0x35	5	14	10903112	knc	Fasal doni yim talauwwa mawutәna dәye haraji biliyon $50 lan fulutә bowozәyin.	\N	2022-06-11 10:44:35	2022-06-11 10:44:38
+54	0x36	6	11	10904600	knc	Saa 1603 lan, sa Mai James kәn falmi kәrmai ro isәna dәn bikke dekkel shibe waltә koltәna.	\N	2022-06-12 04:59:21	2022-06-12 04:59:22
+55	0x37	7	9	11004176	knc	Biskewa biska bunebe dәn lambawa aiyin 7,18,3,41,-a 6 sandima kәnasar sadә.	\N	2022-07-19 04:04:31	2022-07-19 04:04:32
+56	0x38	8	12	10964637	knc	Mai Victoria dә saa 1840 lan lorusa cido.	\N	2022-07-05 04:53:48	2022-07-05 04:53:49
+57	0x39	9	11	10969775	knc	Lamba lardәbe lardә Italybe dә shima 39.	\N	2022-07-07 04:43:37	2022-07-07 04:43:39
+58	0x3a	:	41	11022656	knc	Shi doni sa gozәgә gaaiyya, shiye guljin: Bawanyi? Amma shiye jawawu cin: Fangәna. Tadanyi, nyi nduwo do?	\N	2022-07-25 04:27:49	2022-07-25 04:27:50
+59	0x3b	;	27	10944870	knc	Shim dǝn, ruyen; sumowa lan, fanyen; kadiyi tiyiben, lenyen; kǝnza men, yinyen; kuru tǝlam men, tamben.	\N	2022-06-28 05:55:55	2022-06-28 05:55:56
+63	0x3f	?	344	10904606	knc	Monzǝ wuro wuli fal sarrǝminwa?	\N	2022-06-12 04:59:38	2022-06-12 04:59:39
+65	0x41	A	634	11006499	knc	Awo sandǝnyi adǝgayi diwo ro burwonde'a.	\N	2022-07-20 03:27:56	2022-07-20 03:27:57
+66	0x42	B	217	10945084	knc	Bunduwu mashin gan dә arsasә ndawu raksә bakcin?	\N	2022-06-28 06:08:16	2022-06-28 06:08:18
+67	0x43	C	147	10909504	knc	Citǝbǝlinmi so dǝ'a tǝta kәla fitǝna hangal sangobe surodǝn sandi mbeyi nankaro.	\N	2022-06-14 05:00:29	2022-06-14 05:00:30
+68	0x44	D	188	10983666	knc	Dan'a gar nzәliwo kәrawu'a ro zujaga, Florida lan.	\N	2022-07-12 04:49:56	2022-07-12 04:49:57
+69	0x45	E	36	11003681	knc	Poland dǝ Central Europe lan kara.	\N	2022-07-19 03:37:01	2022-07-19 03:37:02
+70	0x46	F	190	10968415	knc	Sawaanyiye wa Freddy lan bozayin.	\N	2022-07-06 05:47:59	2022-07-06 05:48:00
+71	0x47	G	88	10985883	knc	"Nyiro ngutәdәro kәrmu ngalau." "Gәle awi nankaro kuwayaye nyi ronәmma dә?"	\N	2022-07-13 04:05:27	2022-07-13 04:05:28
+72	0x48	H	69	10904322	knc	Hal kutta adәgai dәn affimaye sha sәmoyimba.	\N	2022-06-12 04:43:48	2022-06-12 04:43:49
+73	0x49	I	57	10969994	knc	Ilmu do hangal no'ata ba'adә nya ndarama ro saadimba.	\N	2022-07-07 04:55:51	2022-07-07 04:55:52
+74	0x4a	J	153	10924605	knc	Ada kek shankawabe buwobe mbeji kǝlele saa bǝlinye ro Japan lan.	\N	2022-06-20 04:17:37	2022-06-20 04:17:38
+75	0x4b	K	712	11003774	knc	Kate kate allan buturum dabba kura buya sayinye dә ngәwu ro wakajin wa?	\N	2022-07-19 03:42:14	2022-07-19 03:42:15
+76	0x4c	L	178	11013126	knc	Lardǝ Amerikabe dǝ suro majilis lardǝwa dunyabe Nzǝliwo muzǝna ma yen kara.	\N	2022-07-22 02:35:14	2022-07-22 02:35:15
+77	0x4d	M	286	10904031	knc	Misallo, sai na biskerambe dǝro lezaiyya gǝnyi-a mbu gǝnyi, biske dinabe au Super Bowl dǝga raksa suro njimnza yen sorin.	\N	2022-06-12 04:27:16	2022-06-12 04:27:17
+78	0x4e	N	426	10938862	knc	Ngulondowanәm so lan foduwoko nyi tafa yamin dә ro.	\N	2022-06-26 05:39:17	2022-06-26 05:39:18
+79	0x4f	O	11	11003703	knc	Orient expressdә shi dunyabe mara cedәbe kamgotama kәji fantәye suwa fal.	\N	2022-07-19 03:38:15	2022-07-19 03:38:17
+80	0x50	P	35	10945673	knc	Paul wa lewaro Rome ro kәdo.	\N	2022-06-28 06:38:25	2022-06-28 06:38:26
+81	0x51	Q	4	10983126	knc	Kazәmo amusube dәga zawa amusube dәga, samma so kankara samin fitinma lan tәnandәna dә, cukkuro, daji shiye kamu laa kuruwuye bәlye curo, shima Mairam Kankaraye sha Snow Queen-lan notәna ma.	\N	2022-07-12 04:19:51	2022-07-12 04:19:53
+82	0x52	R	77	10909379	knc	Rashidi cari dǝga lai dǝ farjin rukǝna kuru shago la kǝla kwanaye dǝro gana rukǝna.	\N	2022-06-14 04:53:16	2022-06-14 04:53:18
+83	0x53	S	628	10904477	knc	Amy be Sәbdә bikkaye dәn fili dәn cidazәna.	\N	2022-06-12 04:52:32	2022-06-12 04:52:34
+84	0x54	T	187	10909897	knc	Tawatkǝkǝna shima kam dǝwo adǝ sǝdiya ngalau wo ro.	\N	2022-06-14 05:22:54	2022-06-14 05:22:56
+85	0x55	U	53	10924578	knc	Lardә United Statesbe lan cidawu nzәliwobeye bayan fando nankaro kamma azawatә dә shara'a kasad suyi.	\N	2022-06-20 04:16:04	2022-06-20 04:16:05
+86	0x56	V	9	10961478	knc	DVD adǝye men menunzǝ lan na 'Play main feature'be ba.	\N	2022-07-04 04:56:14	2022-07-04 04:56:15
+87	0x57	W	360	10920436	knc	Wuye sambi so ro kasuwa tәyi cәjin dә shiye zawal fal suro zawalwa do sambia'ye nyiro loktu kәrmuye sәdәna guljinye ro fayin.	\N	2022-06-18 05:19:34	2022-06-18 05:19:35
 88	0x58	X	1	10969921	knc	X dǝ dawu saraitǝ B ye dǝn gǝnyi dalil dǝ shi dǝ saraitǝ A yen kara dǝro.	\N	2022-07-07 04:51:41	2022-07-07 04:51:42
-89	0x59	Y	69	10909367	knc	Yen duwu findi kayyuko awo fantә banazәgәyin adәro.	\N	2022-06-14 04:52:34	2022-06-14 04:52:36
-90	0x5a	Z	50	10988432	knc	Zaumaro Boston-ro waltǝgǝ dǝ karǝgǝnyin mbeji.	\N	2022-07-14 04:04:37	2022-07-14 04:04:38
-91	0x5b	[	3	10909208	knc	Japan sammason ofiswa luwayabe yar indi [200] zauro fasallata ma kǝrmaro nanden mbeji.	\N	2022-06-14 04:43:36	2022-06-14 04:43:37
-93	0x5d	]	3	10988194	knc	Kǝntagǝ Septemberbe kawu yakkǝa [3rd,] Los Angeles lan Seoul ro leyin wa sawanyiya.	\N	2022-07-14 03:51:25	2022-07-14 03:51:26
+89	0x59	Y	69	10931437	knc	Yanyi ye guljin duli Japan ye dǝ moworuwa gǝnyi, amma Sandi dǝ cintu lan kasheru, adǝ nankaro Santa Claus dǝ sandiro ziye suwudinmba dǝ. Salema Spain lan katambuko.	\N	2022-06-23 04:43:28	2022-06-23 04:43:29
+90	0x5a	Z	50	10903862	knc	Zairo au kǝla yakkǝdǝ isǝ fangasǝdǝa farwajio.	\N	2022-06-12 04:17:27	2022-06-12 04:17:28
+91	0x5b	[	3	10988194	knc	Kǝntagǝ Septemberbe kawu yakkǝa [3rd,] Los Angeles lan Seoul ro leyin wa sawanyiya.	\N	2022-07-14 03:51:25	2022-07-14 03:51:26
+93	0x5d	]	3	10909208	knc	Japan sammason ofiswa luwayabe yar indi [200] zauro fasallata ma kǝrmaro nanden mbeji.	\N	2022-06-14 04:43:36	2022-06-14 04:43:37
 95	0x5f	_	1	10911697	knc	"Tawadә ro kam dә adәgai ro_ shawa ro waljiya_ sha natәgә ro shi gәrnәmin." "Ca kasannәmin nge de karako."	\N	2022-06-15 04:05:24	2022-06-15 04:05:25
 96	0x60	`	1	10969937	knc	Wuye nyiro compita nyi mukkobe dәa kukkin awo surobedәa gotaro. "A`a wande zǝktǝmi gonǝm fomtaduro, nyiro memory stick tusha yikkin."	\N	2022-07-07 04:52:38	2022-07-07 04:52:40
-97	0x61	a	3774	11016323	knc	Wu runyi lan ashirnǝm nongo.	\N	2022-07-23 03:42:53	2022-07-23 03:42:54
-98	0x62	b	2352	10938889	knc	Suro fitadǝ lamar cocibe gǝnyi, lamar jamabe.	\N	2022-06-26 05:40:51	2022-06-26 05:40:52
-99	0x63	c	768	10947961	knc	Racket dǝ sulitsǝ muskonyin sukuruwu kallatǝ sa biskegin dǝn.	\N	2022-06-29 05:59:43	2022-06-29 05:59:44
-100	0x64	d	3351	11003922	knc	Kǝnasar dǝ shi gǝnyi dare wo, kǝnasar ba dǝ kǝrmu gǝnyi: karǝgǝ gowom kotǝ ye dǝ shima mǝraduwo.	\N	2022-07-19 03:50:28	2022-07-19 03:50:29
-101	0x65	e	3019	10909875	knc	Shi tada gana de.	\N	2022-06-14 05:21:39	2022-06-14 05:21:40
-102	0x66	f	1111	10914114	knc	Cedi yamәn su fuwuraa njumdә kurayedәwa wuroiye.	\N	2022-06-16 03:32:52	2022-06-16 03:32:53
-103	0x67	g	2192	10903976	knc	Tracybe gogulnzә fatsәgә.	\N	2022-06-12 04:24:00	2022-06-12 04:24:01
-104	0x68	h	1252	10922256	knc	Sharadәye huwom saa uwu cidawa kәrawu'a sәjin lan diobe kamzә.	\N	2022-06-19 04:37:51	2022-06-19 04:37:52
-105	0x69	i	3453	10983022	knc	Rashidiya so, wuye awo laa manangiya raakkәna.	\N	2022-07-12 04:14:53	2022-07-12 04:14:54
-106	0x6a	j	1229	10904465	knc	Kam doni ca bas njiye cejin dәye yintә badiyono.	\N	2022-06-12 04:51:51	2022-06-12 04:51:53
-107	0x6b	k	2883	11003538	knc	Kәnәnganәm samma dola miliyon kada fando lan basarram, datәgәram kalkal dәn, sa lәman nәm samma affima ro nyiro faidajimba ro waljin dә.	\N	2022-07-19 03:29:09	2022-07-19 03:29:10
-108	0x6c	l	2706	11006503	knc	Konnu dǝ yeske njim dǝ kolwoko.	\N	2022-07-20 03:28:11	2022-07-20 03:28:13
-109	0x6d	m	2850	11007182	knc	Sakan fal dǝma gojin.	\N	2022-07-20 04:06:02	2022-07-20 04:06:04
-110	0x6e	n	3652	10904436	knc	Kare kәrsasa dә tiyi tadadәye tәlaladә ro zau gәnazәin.	\N	2022-06-12 04:50:11	2022-06-12 04:50:12
-111	0x6f	o	3239	10904057	knc	Daji zawal dәwo sandәna ma je dә ye zәayin dә tuluwo mbu ro walwono, Ade ye buro salak man fasal cidi dewo farzә kojin ye dәn kara.	\N	2022-06-12 04:28:46	2022-06-12 04:28:47
-112	0x70	p	242	10926948	knc	Lardә Japanye kuwa lardә Russiabe Korearo gozәyin jilibi yaye tamojiya sәraana.	\N	2022-06-21 03:08:22	2022-06-21 03:08:24
-113	0x71	q	8	10926678	knc	Adәye sәkkә, p shima lamardә wo sa q dәma lamar dә wo ro waljiya.	\N	2022-06-21 02:55:32	2022-06-21 02:55:33
-114	0x72	r	3183	10909889	knc	Cord dǝ-a mashindǝ-a kǝllono.	\N	2022-06-14 05:22:27	2022-06-14 05:22:28
-115	0x73	s	2545	10927072	knc	Marilyn Monroede kǝnasarnzǝ dәye shiga karǝgǝ kǝjiro sǝdǝnyi.	\N	2022-06-21 03:14:49	2022-06-21 03:14:50
-116	0x74	t	2369	11004544	knc	Hawardә ruotә tamonge ba edito dә ro zuwukәna.	\N	2022-07-19 04:24:22	2022-07-19 04:24:23
-117	0x75	u	2826	10909381	knc	Wu dǝ kǝladǝn awo gana au abima nongǝnyi	\N	2022-06-14 04:53:23	2022-06-14 04:53:25
-118	0x76	v	26	10903950	knc	Yoo adǝ shima kǝshana Evans dǝ wo.	\N	2022-06-12 04:22:29	2022-06-12 04:22:30
-119	0x77	w	2737	11000158	knc	Karәngә adәmaro, na biskebe dәn, kunnu so dә cetin, kuru biske be nduma suro dәn ba dә jindiwaro koltәyin.	\N	2022-07-18 03:24:09	2022-07-18 04:38:05
-120	0x78	x	10	10910003	knc	Susu Alex ro susu sa awo laa guljiya woson yioye dә ro, sai sa taganasro "susu" guljiya do shiro cin.	\N	2022-06-14 05:28:54	2022-06-14 05:28:55
-121	0x79	y	2840	10909797	knc	Sa tinyi awo adǝga lezǝna dǝn, tarratǝ.	\N	2022-06-14 05:17:11	2022-06-14 05:17:12
-122	0x7a	z	1754	10991565	knc	Duno hangalbe dǝ zauro mǝradǝtǝna kǝnasar nankaro suro bikkewiye lan yaye..	\N	2022-07-15 04:09:02	2022-07-15 04:09:03
-477	0x1dd	ǝ	1752	10909710	knc	Kankara dǝ binǝmlan kuluwu dǝa zaksǝna.	\N	2022-06-14 05:12:16	2022-06-14 05:12:17
-1241	0x4d9	ә	1863	11019268	knc	Waneyi nero kakkadi shada tambonәmye wa mazayin.	\N	2022-07-24 04:21:36	2022-07-24 04:21:37
+97	0x61	a	3774	10994028	knc	Siyasama adǝga kawo jamabe miliyon kada ndalzǝna ro zortǝna.	\N	2022-07-16 03:59:36	2022-07-16 03:59:37
+98	0x62	b	2352	10953377	knc	Wuye nyiro shawari fato tarihibe imperial war museum Londonbe dә zayaratәye ikko.	\N	2022-07-01 04:42:22	2022-07-01 04:42:23
+99	0x63	c	768	10911538	knc	Yanzǝ ye cinna dǝ bakkono.	\N	2022-06-15 03:55:58	2022-06-15 03:56:00
+100	0x64	d	3351	10909926	knc	Shiye konnu so dә cejo wande lantәrki dә basartәnyi nankaro ro.	\N	2022-06-14 05:24:31	2022-06-14 05:24:32
+101	0x65	e	3019	11007186	knc	Awo todǝ dimmiya raamma maa, wa nya kashawar yelnye do.	\N	2022-07-20 04:06:16	2022-07-20 04:06:17
+102	0x66	f	1111	10990944	knc	Jami kәlakәl cidawube dәga kamfoni dәga kontrok bәlinro kasatsa dazaana.	\N	2022-07-15 03:34:13	2022-07-15 03:34:14
+103	0x67	g	2192	10904180	knc	Dreba dәye zauro lamar tim dәye tuskazәna sa sandiya fili biskebe shi gәnyi ro suro bәla gadә fai yen saadәna dәn.	\N	2022-06-12 04:35:52	2022-06-12 04:35:53
+104	0x68	h	1252	11000327	knc	Maara njibe adǝ shawaro tǝnandǝna.	\N	2022-07-18 03:33:19	2022-07-18 04:47:01
+105	0x69	i	3453	10924576	knc	United States dә Mexico'a numkam zauro katәn zan mbeji .	\N	2022-06-20 04:15:57	2022-06-20 04:15:58
+106	0x6a	j	1229	10904297	knc	Kǝrmadǝ, leno kasam yayo. Cida dǝ gǝrejin.	\N	2022-06-12 04:42:29	2022-06-12 04:42:30
+107	0x6b	k	2883	10922562	knc	Kamu dә kurisnzә dәn cizә dano. Daji cinna dәga ciro.	\N	2022-06-19 04:55:24	2022-06-19 04:55:26
+108	0x6c	l	2706	10931569	knc	Aiyaaa, tada adә kәmbu bәneye zuwunyi do letkono.	\N	2022-06-23 04:50:53	2022-06-23 04:50:55
+109	0x6d	m	2850	10929680	knc	Ilmu sayinsye ngәla-a diwi-a notә ba dә ruh bannatә bas.	\N	2022-06-22 05:02:30	2022-06-22 05:02:33
+110	0x6e	n	3652	10938891	knc	Toltә sumye fal kulongyen, luwala ma suwa dano dә cukkuro au kәlanzәn kәnasarrata.	\N	2022-06-26 05:40:58	2022-06-26 05:40:59
+111	0x6f	o	3239	10909351	knc	Dawarinde buroye dǝ falleuro shiwaltǝkǝna.	\N	2022-06-14 04:51:39	2022-06-14 04:51:40
+112	0x70	p	242	10970449	knc	Awo laa batti nәlewa kambiyijin ma yindәmiya, katapwa gotin dә awo yindәmma dәn kara.	\N	2022-07-07 05:20:22	2022-07-07 05:20:23
+113	0x71	q	8	11006788	knc	Ngǝruwu adǝ quid arakkǝ wa sǝta.	\N	2022-07-20 03:44:05	2022-07-20 03:44:06
+114	0x72	r	3183	11025091	knc	Na dǝwo tǝlam Ibero-America be kǝrezǝna dǝ kura yayi, tǝlam Nasarabe Amerika-be dǝ dunya kǝrma ye dǝn shima duno-a wo.	\N	2022-07-26 03:26:41	2022-07-26 03:26:42
+115	0x73	s	2545	10983020	knc	Awo andeya zәksana kurama dә shima nәlewa am dunon rotәna ma dәye.	\N	2022-07-12 04:14:46	2022-07-12 04:14:47
+116	0x74	t	2369	11016281	knc	Nonumma tawadәro maniyye dә kuttu loktu sha taknuma dәn. Am duo shiga saraana dәma sammaso gәyi sawandin.	\N	2022-07-23 03:40:39	2022-07-23 03:40:40
+117	0x75	u	2826	11004224	knc	Loktu kojin, futә saa suwar zәyin dә yedairo futә njiye injin kokorjinne dei ro.	\N	2022-07-19 04:06:58	2022-07-19 04:06:59
+118	0x76	v	26	11022328	knc	Yo, adә Mrs Evans wo!	\N	2022-07-25 04:09:32	2022-07-25 04:09:33
+119	0x77	w	2737	11010289	knc	Wu dә zauro cidanyi-a kawu sa 2:30 so-ro.	\N	2022-07-21 04:21:40	2022-07-21 04:21:41
+120	0x78	x	10	11003703	knc	Orient expressdә shi dunyabe mara cedәbe kamgotama kәji fantәye suwa fal.	\N	2022-07-19 03:38:15	2022-07-19 03:38:17
+121	0x79	y	2840	10911675	knc	Kai A'a! Kuye waltǝke leti ciduko!! Wuye su bikkeye 'Mai leti ro kǝnshebe' fandǝkin.	\N	2022-06-15 04:04:07	2022-06-15 04:04:09
+122	0x7a	z	1754	10911540	knc	Kәska gәmne daji kәri dәga wune lezә gojin.	\N	2022-06-15 03:56:05	2022-06-15 03:56:07
+477	0x1dd	ǝ	1752	10911593	knc	Kǝla fitǝna dǝyen lardǝwa ndidǝye awo laa ro tawaktayin.	\N	2022-06-15 03:59:14	2022-06-15 03:59:15
+1241	0x4d9	ә	1863	10955456	knc	Loktu fal kam laa cilowoye, ngәrәwunyi sapsәgә gozә cowosho.	\N	2022-07-02 04:56:41	2022-07-02 04:56:42
