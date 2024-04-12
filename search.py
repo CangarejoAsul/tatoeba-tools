@@ -12,21 +12,18 @@ def search():
     return
 
   query = ("""
-    SELECT *
-    FROM sentences
-    INNER JOIN words
-    ON sentences.id = words.id AND words.word = ?""")
+      SELECT *
+      FROM `sentences-""" + source[0] + """`
+      INNER JOIN words
+      ON `sentences-""" + source[0] + """`.id = words.id AND words.word = ?""")
   list = [word[0]]
   for i, target in enumerate(targets):
     query += ("""
       INNER JOIN links AS links""" + str(i) + """
-      ON sentences.id = links""" + str(i) + """.source
-      INNER JOIN sentences AS sentences""" + str(i) + """
-      ON links""" + str(i) + """.target = sentences""" + str(i) + """.id AND sentences""" + str(i) + """.language = ?""")
-    list.append(target)
-  query += ("""
-    WHERE sentences.language = ?;""")
-  list.append(source[0])
+      ON `sentences-""" + source[0] + """`.id = links""" + str(i) + """.source
+      INNER JOIN `sentences-""" + target + """` AS sentences""" + str(i) + """
+      ON links""" + str(i) + """.target = sentences""" + str(i) + """.id""")
+  query += (""";""")
 
   cursor.execute(query, tuple(list))
   results = cursor.fetchall()
@@ -46,7 +43,7 @@ connection = connect("data.db")
 cursor = connection.cursor()
 
 try:
-  cursor.execute("CREATE TABLE sentences (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
+  cursor.execute("CREATE TABLE dummy (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
   connection.commit()
 except:
   pass
@@ -57,7 +54,11 @@ else:
   file = open("sentences_detailed.csv", "r", encoding = "utf-8")
   for line in file:
     fields = findall(r"[^\t\n]+", line)
-    cursor.execute("INSERT INTO sentences (id, language, sentence) VALUES (?, ?, ?);", (fields[0], fields[1], fields[2]))
+    try:
+      cursor.execute("CREATE TABLE `sentences-" + fields[1] + "` (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
+    except:
+      pass
+    cursor.execute("INSERT INTO `sentences-" + fields[1] + "` (id, language, sentence) VALUES (?, ?, ?);", (fields[0], fields[1], fields[2]))
     for word in findall(r"\w[\w'-]*\w|\w", fields[2].lower()):
       cursor.execute("INSERT INTO words (id, word) VALUES (?, ?);", (fields[0], word))
   file.close()
