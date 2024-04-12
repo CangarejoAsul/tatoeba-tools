@@ -1,5 +1,6 @@
-from sqlite3 import connect
+from pathlib import Path
 from re import findall
+from sqlite3 import connect
 from tkinter import Button, END, Entry, Label, StringVar, Text, Tk
 
 def search():
@@ -12,7 +13,10 @@ def search():
     return
 
   query = ("""
-      SELECT *
+      SELECT DISTINCT
+        `sentences-""" + source[0] + """`.id,
+        `sentences-""" + source[0] + """`.language,
+        `sentences-""" + source[0] + """`.sentence
       FROM `sentences-""" + source[0] + """`
       INNER JOIN words
       ON `sentences-""" + source[0] + """`.id = words.id AND words.word = ?""")
@@ -39,15 +43,13 @@ def close():
   connection.close()
   window.destroy()
 
-connection = connect("data.db")
-cursor = connection.cursor()
-
-try:
-  cursor.execute("CREATE TABLE dummy (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
-  connection.commit()
-except:
-  pass
+if Path("data.db").isfile():
+  connection = connect("data.db")
+  cursor = connection.cursor()
 else:
+  connection = connect("data.db")
+  cursor = connection.cursor()
+
   cursor.execute("CREATE TABLE words (id integer NOT NULL, word text NOT NULL);")
   connection.commit()
 
@@ -73,6 +75,15 @@ else:
     cursor.execute("INSERT INTO links (source, target) VALUES (?, ?);", (fields[0], fields[1]))
   file.close()
   connection.commit()
+
+  cursor.execute("CREATE TABLE dummy (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
+  connection.commit()
+
+try:
+  cursor.execute("SELECT * FROM dummy;")
+except:
+  print("Please delete data.db.")
+  quit()
 
 window = Tk()
 window.title("Search")
