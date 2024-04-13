@@ -1,4 +1,4 @@
-a	+0	2	+	692861	gioni
+a	+0	2	+	2671993	Scriptor
 abitais	+0	1	+	692861	gioni
 abitesch	+0	1	+	692861	gioni
 agir	+0	1	+	2494515	Anthaus
@@ -9,11 +9,11 @@ artist	+0	1	+	692858	gioni
 artitgels	+0	1	+	2707462	Scriptor
 as	+0	1	+	2700819	Scriptor
 bab	+0	1	+	3073145	hoffmania
-bain	+0	2	+	2700810	Scriptor
+bain	+0	2	+	12328609	Serrot
 Bellas	+0	1	+	692859	gioni
 Betg	+0	1	+	692858	gioni
-betg	+0	3	+	12328609	Serrot
-cha	+0	3	+	2700819	Scriptor
+betg	+0	3	+	3090363	\N
+cha	+0	3	+	2700821	Scriptor
 chantun	+0	1	+	3073145	hoffmania
 chapesch	+0	2	+	10958011	GuiFFI
 chaunta	+0	1	+	2700820	Scriptor
@@ -26,7 +26,7 @@ cor	+0	1	+	3090363	\N
 cugl	+0	1	+	3090363	\N
 cultura	+0	1	+	2671993	Scriptor
 cun	+0	1	+	2494515	Anthaus
-da	+0	7	+	2494515	Anthaus
+da	+0	7	+	12328606	Serrot
 dal	+0	1	+	2707447	Scriptor
 dessan	+0	1	+	2494515	Anthaus
 di	+0	1	+	2700813	Scriptor
@@ -42,8 +42,8 @@ durabla	+0	1	+	2671993	Scriptor
 dus	+0	1	+	3081377	\N
 dvainta	+0	1	+	2700813	Scriptor
 E	+0	1	+	3090363	\N
-e	+0	4	+	2700810	Scriptor
-è	+0	3	+	2671993	Scriptor
+e	+0	4	+	3090363	\N
+è	+0	3	+	10959908	GuiFFI
 ed	+0	2	+	2700819	Scriptor
 eguals	+0	1	+	2494515	Anthaus
 el	+0	1	+	3090363	\N
@@ -70,7 +70,7 @@ Igl	+0	1	+	3090363	\N
 igl	+0	1	+	3090363	\N
 igls	+0	1	+	3090363	\N
 Il	+0	1	+	2707447	Scriptor
-il	+0	3	+	3073145	hoffmania
+il	+0	3	+	2700823	Scriptor
 ils	+0	1	+	2671993	Scriptor
 In	+0	1	+	2700813	Scriptor
 in	+0	2	+	692858	gioni
@@ -79,7 +79,7 @@ intellet	+0	1	+	2494515	Anthaus
 Jau	+0	5	+	692860	gioni
 Jaun	+0	1	+	12328609	Serrot
 La	+0	2	+	2671993	Scriptor
-la	+0	6	+	10958017	GuiFFI
+la	+0	6	+	10959908	GuiFFI
 l'Africa	+0	1	+	2707447	Scriptor
 las	+0	1	+	2671993	Scriptor
 Lavura	+0	1	+	3073145	hoffmania
@@ -87,12 +87,12 @@ lavura	+0	1	+	2700820	Scriptor
 Lia	+0	1	+	2671993	Scriptor
 libers	+0	1	+	2494515	Anthaus
 l'India	+0	1	+	2707447	Scriptor
-lingua	+0	2	+	2707462	Scriptor
+lingua	+0	2	+	2671993	Scriptor
 l'istorgia	+0	1	+	2707462	Scriptor
 l'organisaziun	+0	1	+	2671993	Scriptor
 lungia	+0	1	+	2700824	Scriptor
 lur	+0	1	+	3073145	hoffmania
-ma	+0	2	+	2700821	Scriptor
+ma	+0	2	+	2700823	Scriptor
 maina	+0	1	+	2707447	Scriptor
 maister	+0	1	+	2700813	Scriptor
 Manger	+0	1	+	2700821	Scriptor
@@ -102,7 +102,7 @@ mintgin	+0	1	+	692858	gioni
 misteri	+0	1	+	3090363	\N
 moda	+0	1	+	2671993	Scriptor
 müda	+0	1	+	2700823	Scriptor
-na	+0	3	+	2700823	Scriptor
+na	+0	3	+	10958011	GuiFFI
 Nadal	+0	1	+	692859	gioni
 naschan	+0	1	+	2494515	Anthaus
 n'e	+0	1	+	3090363	\N
@@ -145,7 +145,7 @@ sprovan	+0	1	+	2707462	Scriptor
 sted	+0	1	+	2700820	Scriptor
 sto	+0	1	+	2700824	Scriptor
 stu	+0	1	+	2700819	Scriptor
-sun	+0	4	+	2700819	Scriptor
+sun	+0	4	+	2700816	Scriptor
 tanter	+0	1	+	2494515	Anthaus
 tar	+0	1	+	3073145	hoffmania
 tem	+0	1	+	692860	gioni

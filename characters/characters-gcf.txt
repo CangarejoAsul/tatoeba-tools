@@ -1,68 +1,68 @@
-32	0x20	 	2087	8042160	gcf	Ou enmé mizik.	theachaean	2019-07-11 18:58:19	2019-07-11 18:58:19
-33	0x21	!	215	8254406	gcf	An nou koumansé !	theachaean	2019-10-14 17:25:04	2019-12-06 16:22:34
-39	0x27	'	279	8031428	gcf	Ba'y balan !	theachaean	2019-07-07 14:03:00	2019-07-07 14:03:00
-44	0x2c	,	116	7937760	gcf	Mwen té enmé'w, Tòm.	theachaean	2019-05-26 21:14:30	2019-05-26 21:14:30
-45	0x2d	-	268	7821948	gcf	Lévé pyé a'w, ni timoun ka jwé-la !	theachaean	2019-03-23 16:49:50	2019-03-23 16:50:00
-46	0x2e	.	1675	8042149	gcf	An enmé aviyon.	theachaean	2019-07-11 18:56:14	2019-07-11 18:56:14
+32	0x20	 	2087	7822453	gcf	Mwen osi !	theachaean	2019-03-23 23:43:46	2019-03-23 23:43:46
+33	0x21	!	215	8253612	gcf	Sé èspwé i fè sa !	theachaean	2019-10-14 13:31:17	2019-10-14 13:31:17
+39	0x27	'	279	10933383	gcf	Madanm-lan abésé kò'y bay mawi'y	attachouallah	2022-06-24 03:54:49	2022-06-24 03:54:49
+44	0x2c	,	116	7985005	gcf	Èskizé mwen, ki lè i yé ?	theachaean	2019-06-18 00:30:53	2019-06-18 00:32:37
+45	0x2d	-	268	8031174	gcf	Pa oubliyé mèt ba-la dèyè pòt-la !	theachaean	2019-07-07 13:08:44	2019-07-07 13:08:44
+46	0x2e	.	1675	8332399	gcf	Mi Òktav.	theachaean	2019-11-19 03:32:34	2019-11-19 03:32:57
 48	0x30	0	1	8031412	gcf	404 ni baladè o volan.	theachaean	2019-07-07 13:59:10	2019-07-07 13:59:10
 52	0x34	4	1	8031412	gcf	404 ni baladè o volan.	theachaean	2019-07-07 13:59:10	2019-07-07 13:59:10
 58	0x3a	:	1	7820662	gcf	Fanm kréyòl an mouvman : isidan, toupatou, toulè, yè, jòdi é dèmen.	theachaean	2019-03-22 21:39:31	2019-03-22 21:45:37
-63	0x3f	?	203	7822574	gcf	Ès ou té ké pé ban nou vwè kat-la ?	theachaean	2019-03-24 00:32:22	2019-03-24 00:32:22
-65	0x41	A	455	8042189	gcf	An enmé nonm.	theachaean	2019-07-11 19:08:16	2019-07-11 19:08:16
-66	0x42	B	196	8042063	gcf	Ban'y sé chèz-lasa.	theachaean	2019-07-11 18:34:13	2019-07-11 18:34:13
-67	0x43	C	12	8253779	gcf	Chanté !	theachaean	2019-10-14 14:07:05	2019-10-14 14:07:05
-68	0x44	D	25	8254372	gcf	Dèbout !	theachaean	2019-10-14 17:18:23	2019-10-14 17:18:23
+63	0x3f	?	203	8039221	gcf	Ki chyen ki mòdé'w ?	theachaean	2019-07-10 20:14:50	2019-07-10 20:14:50
+65	0x41	A	455	8254406	gcf	An nou koumansé !	theachaean	2019-10-14 17:25:04	2019-12-06 16:22:34
+66	0x42	B	196	8031213	gcf	Ban manman li !	theachaean	2019-07-07 13:18:36	2019-07-07 13:27:39
+67	0x43	C	12	8051319	gcf	Bonswa Chikago	theachaean	2019-07-15 18:15:04	2019-07-15 18:15:04
+68	0x44	D	25	8255323	gcf	Dakò.	theachaean	2019-10-15 03:33:17	2019-10-15 03:33:17
 69	0x45	E	1	7821641	gcf	Eskizé mwen.	theachaean	2019-03-23 13:26:37	2019-03-23 13:26:37
-70	0x46	F	24	7850986	gcf	Mwen sé moun Fwans.	theachaean	2019-04-14 11:08:31	2019-04-14 11:08:31
-71	0x47	G	17	8258059	gcf	Gounouy ka manjé tibèt.	theachaean	2019-10-16 11:09:41	2019-10-16 11:09:41
-72	0x48	H	6	7822439	gcf	Ho-palè-la kasé, nou pa ka tann ayen.	theachaean	2019-03-23 23:20:01	2019-03-23 23:20:01
-73	0x49	I	237	7850557	gcf	Tinon an mwen sé Irakli.	theachaean	2019-04-14 00:49:22	2019-04-14 00:49:22
-74	0x4a	J	28	8332406	gcf	Mi Jòj.	theachaean	2019-11-19 03:34:34	2019-11-19 03:34:34
-75	0x4b	K	126	8039237	gcf	Kitan nou ka vwè ?	theachaean	2019-07-10 20:16:55	2019-07-10 20:16:55
-76	0x4c	L	60	7851390	gcf	Non an mwen sé Lori.	theachaean	2019-04-14 14:22:54	2019-04-14 14:22:54
-77	0x4d	M	446	8331867	gcf	Mwen pisimé maché.	theachaean	2019-11-18 21:41:23	2019-11-18 21:41:23
-78	0x4e	N	84	8047258	gcf	Nou enmé ponm.	theachaean	2019-07-13 23:08:23	2019-07-13 23:08:23
-79	0x4f	O	125	8331846	gcf	O mwen pé achté ponm ?	theachaean	2019-11-18 21:25:33	2019-11-18 21:25:33
-80	0x50	P	77	8039249	gcf	Pouki i fè sa ?	theachaean	2019-07-10 20:18:08	2019-07-10 20:18:08
+70	0x46	F	24	7910972	gcf	Fò ou ajisté pòt-la !	theachaean	2019-05-15 05:01:47	2019-05-15 05:01:47
+71	0x47	G	17	8332495	gcf	Mi Gladis.	theachaean	2019-11-19 03:58:21	2019-11-19 03:58:21
+72	0x48	H	6	7822436	gcf	Ho-palè-la kasé, nou pa'a tann ayen.	theachaean	2019-03-23 23:18:20	2019-03-23 23:18:20
+73	0x49	I	237	8253898	gcf	I ka chasé lapen.	theachaean	2019-10-14 14:40:40	2019-10-14 14:40:40
+74	0x4a	J	28	8331809	gcf	Jako an mwen mò yè.	theachaean	2019-11-18 20:46:13	2019-11-18 20:46:13
+75	0x4b	K	126	8031169	gcf	Ka manké mwen azòt pou kann an mwen.	theachaean	2019-07-07 13:07:34	2019-07-07 13:07:34
+76	0x4c	L	60	7822577	gcf	Lapli ké tonbé.	theachaean	2019-03-24 00:34:07	2019-03-24 00:34:07
+77	0x4d	M	446	7851776	gcf	Mwen ka palé ba'w.	theachaean	2019-04-14 18:29:24	2019-04-14 18:29:24
+78	0x4e	N	84	7820709	gcf	Nou fè'w viv èvè lokans a dwèt an nou, an kadans a doulè an nou, a lenbé an nou.	theachaean	2019-03-22 22:52:39	2019-03-22 23:06:50
+79	0x4f	O	125	8332712	gcf	Ou ni on gwo né.	theachaean	2019-11-19 08:25:18	2019-11-19 08:25:18
+80	0x50	P	77	7987065	gcf	Pa touché'y !	theachaean	2019-06-18 23:49:10	2019-06-18 23:49:10
 82	0x52	R	1	7820616	gcf	Répons-lasa sé érè.	theachaean	2019-03-22 20:15:33	2019-03-22 20:15:33
-83	0x53	S	90	8333517	gcf	Sé konsa i yé.	theachaean	2019-11-19 15:55:27	2019-11-19 15:55:27
-84	0x54	T	107	7820614	gcf	Tinon a madanm a'y sé Liz.	theachaean	2019-03-22 20:12:16	2019-04-14 00:33:55
-86	0x56	V	18	8255336	gcf	Volé !	theachaean	2019-10-15 03:40:27	2019-10-15 03:40:46
-87	0x57	W	30	8332759	gcf	Wòb la pa pwòp.	theachaean	2019-11-19 08:35:19	2019-11-19 08:35:19
-89	0x59	Y	71	7850548	gcf	Tinon an mwen sé Yatarou.	theachaean	2019-04-14 00:37:02	2019-04-14 00:37:02
-90	0x5a	Z	43	8261879	gcf	Zòt té enmé najé.	theachaean	2019-10-17 10:49:15	2019-10-17 10:49:15
-97	0x61	a	1758	7851005	gcf	Mwen ka rété Dézirad.	theachaean	2019-04-14 11:12:51	2019-04-14 11:12:56
-98	0x62	b	323	8031200	gcf	Fè sa ba manman !	theachaean	2019-07-07 13:16:19	2019-07-07 13:16:19
-99	0x63	c	235	10933416	gcf	Adan sé moun-an ka chanté, mé adan yo ka pléwé	attachouallah	2022-06-24 04:16:28	2022-06-24 04:16:28
-100	0x64	d	351	7937745	gcf	Mwen enmé'w, doudou !	theachaean	2019-05-26 21:07:58	2019-05-26 21:07:58
-101	0x65	e	937	8332414	gcf	Mi Kanten.	theachaean	2019-11-19 03:37:00	2019-11-19 03:37:00
-102	0x66	f	233	7821730	gcf	Ou ja kafé ?	theachaean	2019-03-23 14:47:27	2019-03-23 14:47:27
-103	0x67	g	187	8333448	gcf	An gwan.	theachaean	2019-11-19 15:39:54	2019-11-19 15:39:54
-104	0x68	h	265	7822512	gcf	Mwen ka chèché on chèl.	theachaean	2019-03-24 00:05:16	2019-03-24 00:05:16
-105	0x69	i	1151	8039302	gcf	Kitan yo ké vini ?	theachaean	2019-07-10 20:24:35	2019-07-10 20:24:35
-106	0x6a	j	342	10933430	gcf	Lè i mandé nonm-lan lajan ankò, nonm-lan fè'y afon	attachouallah	2022-06-24 04:20:44	2022-06-24 04:20:44
-107	0x6b	k	829	7821824	gcf	I ka touché lajan anba-fèy.	theachaean	2019-03-23 15:56:07	2019-03-23 15:56:07
-108	0x6c	l	883	8041807	gcf	Ban mwen diksyonnè-la.	theachaean	2019-07-11 17:52:13	2019-07-11 17:52:13
-109	0x6d	m	1049	7820634	gcf	Bagaj an mwen paré.	theachaean	2019-03-22 20:43:45	2019-03-25 21:29:51
-110	0x6e	n	1780	7821513	gcf	Ou ka manjé.	theachaean	2019-03-23 11:46:12	2019-03-23 11:46:12
-111	0x6f	o	1113	7823183	gcf	Bonswè, ka ou fè ?	theachaean	2019-03-24 13:15:10	2019-03-24 13:15:10
-112	0x70	p	624	7822623	gcf	Lwi-la sé sans-la ka pèwmèt on moun tann.	theachaean	2019-03-24 00:59:41	2019-03-24 00:59:41
+83	0x53	S	90	8031354	gcf	Sé twant désanm ki ké ba i katwan.	theachaean	2019-07-07 13:42:49	2019-07-07 13:42:49
+84	0x54	T	107	8332378	gcf	Ki nouvèl a'w Tòm ?	theachaean	2019-11-19 03:27:09	2019-11-19 03:27:09
+86	0x56	V	18	8047293	gcf	Vini !	theachaean	2019-07-13 23:51:29	2019-07-13 23:51:29
+87	0x57	W	30	8031170	gcf	Woté ba-la asi bouwikèt-la !	theachaean	2019-07-07 13:07:57	2019-07-07 13:07:57
+89	0x59	Y	71	8253654	gcf	Yo ka bwè dlo on lo.	theachaean	2019-10-14 13:37:41	2019-10-14 13:37:41
+90	0x5a	Z	43	8254133	gcf	Zò ka limé blan balenn la.	theachaean	2019-10-14 15:44:45	2019-10-14 15:44:45
+97	0x61	a	1758	8007365	gcf	I ni ywitan.	theachaean	2019-06-29 09:54:05	2019-06-29 09:54:05
+98	0x62	b	323	8367926	gcf	Èstéfann vlé mandé'w on biten.	theachaean	2019-12-06 09:56:48	2019-12-10 17:10:34
+99	0x63	c	235	7826228	gcf	An ka chèché on boulanjri.	theachaean	2019-03-26 18:51:43	2019-03-26 18:51:43
+100	0x64	d	351	8079672	gcf	Ou pa té dwèt fè mwen sa.	theachaean	2019-07-27 19:20:15	2019-07-27 19:20:15
+101	0x65	e	937	7820489	gcf	I ké vin dèmen.	theachaean	2019-03-22 17:05:32	2019-07-06 19:33:17
+102	0x66	f	233	7851412	gcf	Mwen ni dé frè.	theachaean	2019-04-14 14:27:31	2019-04-14 14:27:31
+103	0x67	g	187	8261721	gcf	An ké gannyé sa.	theachaean	2019-10-17 10:13:45	2019-10-17 10:13:45
+104	0x68	h	265	8079729	gcf	Mwen pèd on koté soulyé, sèten yo kaché i.	theachaean	2019-07-27 19:46:01	2019-09-07 10:55:53
+105	0x69	i	1151	8039708	gcf	Plita, mwen ké on aviyatè !	theachaean	2019-07-10 22:11:53	2019-07-10 22:11:53
+106	0x6a	j	342	7821525	gcf	An ka manjé.	theachaean	2019-03-23 11:51:59	2019-03-23 11:51:59
+107	0x6b	k	829	8029336	gcf	Yo ni katwèvendis dòla.	theachaean	2019-07-06 19:16:35	2019-07-06 19:16:35
+108	0x6c	l	883	8336560	gcf	Soulyé an mwen pli gwan pasé ta'w.	theachaean	2019-11-21 10:46:35	2019-11-21 10:46:35
+109	0x6d	m	1049	8030744	gcf	Ni onpil lafimé.	theachaean	2019-07-07 12:02:57	2019-07-07 12:02:57
+110	0x6e	n	1780	8039782	gcf	An pa sav ola yo yé.	theachaean	2019-07-10 22:37:16	2019-07-10 22:37:16
+111	0x6f	o	1113	7820366	gcf	Yonn, dé, twa, kat, senk, sis, sèt, ywit, nèf, dis.	theachaean	2019-03-22 15:11:01	2019-06-29 09:52:50
+112	0x70	p	624	7850619	gcf	Yo volé papyé an mwen èvè pòtmonné-la.	theachaean	2019-04-14 02:19:23	2019-04-14 02:20:39
 113	0x71	q	2	8339747	gcf	Je suis moins grand que toi.	theachaean	2019-11-22 22:34:52	2019-11-22 22:37:48
 114	0x72	r	132	7823150	gcf	Tinon an mwen sé Andréa.	theachaean	2019-03-24 13:00:49	2019-04-13 23:19:53
-115	0x73	s	872	7823162	gcf	Non an mwen sé Sali.	theachaean	2019-03-24 13:04:42	2019-03-24 13:04:57
-116	0x74	t	852	8030879	gcf	I ni dizywit lanné.	theachaean	2019-07-07 12:20:34	2019-07-07 12:20:34
-117	0x75	u	653	7850590	gcf	Wi, an nou a'y.	theachaean	2019-04-14 01:17:07	2019-12-06 16:23:53
-118	0x76	v	353	8042176	gcf	Mwen enmé liv.	theachaean	2019-07-11 19:03:42	2019-07-11 19:03:42
-119	0x77	w	1134	7905517	gcf	An bizwen vou.	theachaean	2019-05-12 18:56:43	2019-05-12 18:56:43
-121	0x79	y	540	8042100	gcf	Ba yo sé tonmat-la.	theachaean	2019-07-11 18:41:17	2019-07-11 18:41:17
-122	0x7a	z	264	8333600	gcf	Asipozé mwen pa vlé vini.	theachaean	2019-11-19 16:30:05	2019-11-19 16:30:05
+115	0x73	s	872	7820325	gcf	An ka pèd souf.	theachaean	2019-03-22 15:05:06	2019-03-22 15:18:28
+116	0x74	t	852	8255076	gcf	Mwen té ké vlé mandé'w on sèvis.	theachaean	2019-10-14 22:29:16	2019-10-14 22:29:16
+117	0x75	u	653	8333557	gcf	Fo ou di yo sa.	theachaean	2019-11-19 16:20:41	2019-11-19 16:20:41
+118	0x76	v	353	8041809	gcf	Ban mwen vè-la.	theachaean	2019-07-11 17:53:05	2019-07-11 17:53:05
+119	0x77	w	1134	8041979	gcf	Ban mwen kawo-la.	theachaean	2019-07-11 18:23:07	2019-07-11 18:23:07
+121	0x79	y	540	8030877	gcf	I ni dizywitan.	theachaean	2019-07-07 12:20:24	2019-07-07 12:20:24
+122	0x7a	z	264	8039860	gcf	Tòm sé on zanmi a sé bèt-la.	theachaean	2019-07-10 22:52:22	2019-07-10 22:52:26
 171	0xab	«	2	8030792	gcf	Ka « Tatoeba » vlé di ?	theachaean	2019-07-07 12:08:55	2019-07-07 12:08:55
 187	0xbb	»	2	8030792	gcf	Ka « Tatoeba » vlé di ?	theachaean	2019-07-07 12:08:55	2019-07-07 12:08:55
 200	0xc8	È	63	8332481	gcf	Ki moun i Èstéfann ?	theachaean	2019-11-19 03:54:15	2019-12-10 17:10:08
-201	0xc9	É	6	7823156	gcf	Tinon an mwen sé Émili.	theachaean	2019-03-24 13:03:10	2019-04-13 23:20:14
+201	0xc9	É	6	8332342	gcf	É zòt ?	theachaean	2019-11-19 02:52:07	2019-11-19 02:52:07
 210	0xd2	Ò	1	8332399	gcf	Mi Òktav.	theachaean	2019-11-19 03:32:34	2019-11-19 03:32:57
-224	0xe0	à	3	7987074	gcf	Dàn k'ay koumansé.	theachaean	2019-06-19 00:17:20	2019-06-19 00:17:20
-232	0xe8	è	590	7479407	gcf	Zouk-la sé sèl médikaman nou ni.	theachaean	2018-11-17 20:17:02	2019-03-26 00:25:11
-233	0xe9	é	1408	8332411	gcf	Mi Kévin.	theachaean	2019-11-19 03:36:17	2019-11-19 03:36:17
-242	0xf2	ò	309	8031203	gcf	An ké pòté on ti pwason ba zòt.	theachaean	2019-07-07 13:16:53	2019-07-07 13:16:53
+224	0xe0	à	3	7850554	gcf	Tinon an mwen sé Dàn.	theachaean	2019-04-14 00:46:05	2019-04-14 11:26:17
+232	0xe8	è	590	10933428	gcf	Gwo dlo-a afèkté tout sé jan bò lawivyè-a	attachouallah	2022-06-24 04:20:14	2022-06-24 04:20:14
+233	0xe9	é	1408	7822592	gcf	Lanmè-la ké ni gwo lanm.	theachaean	2019-03-24 00:38:36	2019-03-24 00:38:36
+242	0xf2	ò	309	10933424	gcf	Nonm-lan adwésé jan Sent Lisi an Kwéyòl	attachouallah	2022-06-24 04:19:16	2022-06-24 04:19:16
 8217	0x2019	’	1	8332862	gcf	Ès ou ja pwan pa a’w ?	theachaean	2019-11-19 09:11:40	2019-11-19 09:11:40

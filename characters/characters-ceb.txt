@@ -1,69 +1,69 @@
-32	0x20	 	1667	11346707	ceb	Kasabot ko sa mga lagda.	zmah47jr	2022-12-18 15:38:45	2022-12-18 15:38:45
-33	0x21	!	135	4956820	ceb	Panghinaw sa imong kamot usa ka mokaon!	tarsier	2016-03-06 08:51:46	2016-03-06 08:51:46
-34	0x22	"	12	11344787	ceb	"Pinoy" ang tawag sa mga Pilipino sa ilang kaugalingon.	zmah47jr	2022-12-18 05:53:50	2022-12-18 05:53:50
-39	0x27	'	40	10939384	ceb	Kinsa'y niabot?	necoyangi	2022-06-26 06:08:27	2022-06-26 06:08:27
-44	0x2c	,	130	4699863	ceb	Nakahibalo ko, kana ang sinugdanan sa kataposan.	tarsier	2015-11-14 03:53:00	2015-11-14 03:53:00
-45	0x2d	-	178	4703737	ceb	Giunsa nimo pagkahagbong sa lim-aw? May mitukmod nako.	Josefwintzent	2015-11-16 01:51:26	2015-11-16 01:51:26
-46	0x2e	.	1281	4680855	ceb	Si Joseph ang modagan.	Josefwintzent	2015-11-06 11:38:42	2015-11-06 11:38:42
-48	0x30	0	3	4743238	ceb	Gikan sa tuig 2010 hangtod karong tuiga nagpuyo ko sa Dipolog.	tarsier	2015-12-04 03:32:07	2015-12-04 03:34:57
-49	0x31	1	2	4743238	ceb	Gikan sa tuig 2010 hangtod karong tuiga nagpuyo ko sa Dipolog.	tarsier	2015-12-04 03:32:07	2015-12-04 03:34:57
-50	0x32	2	2	4728019	ceb	Pahiping gibutangbutangan og bala sa .22 sa mga gwardiya sa tugpahanan ang bag ni Tom.	Josefwintzent	2015-11-26 21:27:38	2015-11-26 21:27:38
+32	0x20	 	1667	4625768	ceb	Daghang nagalgal anang matanga sa panghunahuna.	Josefwintzent	2015-10-20 05:48:30	2015-10-20 05:48:38
+33	0x21	!	135	4737605	ceb	Walay sapayan!	tarsier	2015-12-01 06:23:34	2015-12-01 06:23:34
+34	0x22	"	12	10610473	ceb	Sa animistikong konsepto sa pansikismo, ang tanang butang ug ang tanang tawo adunay pipila ka aspeto sa "hunahuna," sa usa ka lebel, bisan kung usahay dili kaayo.	nonong	2022-01-07 03:41:31	2022-01-07 03:45:58
+39	0x27	'	40	8666938	ceb	Akoa ni'ng sala, dili imoha.	Birago	2020-04-09 16:33:18	2020-04-09 16:33:18
+44	0x2c	,	130	4698317	ceb	Ang paon ginganlan og katahom, mangubit jud raba - dili matagna.	Josefwintzent	2015-11-13 11:49:04	2015-11-13 11:53:20
+45	0x2d	-	178	4690085	ceb	Unsa pay but-on nimo?	tarsier	2015-11-10 02:22:12	2015-11-10 12:55:17
+46	0x2e	.	1281	4680575	ceb	Lagas na ko dinhi sa Pilipinas, pero wala pa maayo ang akong Cebuano.	tarsier	2015-11-06 07:41:00	2015-11-06 07:41:00
+48	0x30	0	3	11400456	ceb	Gipahulam nako siya ug 500 dolyares nga walay interes.	zmah47jr	2023-01-01 12:32:46	2023-01-01 12:32:46
+49	0x31	1	2	4701995	ceb	1955 gitukod ang Disneyland.	Josefwintzent	2015-11-15 08:22:59	2015-11-15 08:23:05
+50	0x32	2	2	4743238	ceb	Gikan sa tuig 2010 hangtod karong tuiga nagpuyo ko sa Dipolog.	tarsier	2015-12-04 03:32:07	2015-12-04 03:34:57
 51	0x33	3	1	4629920	ceb	Mialagad og 30 ka tuig si Tom alang sa ikaduhang degri sa pagpatay.	Josefwintzent	2015-10-21 10:18:24	2015-10-21 10:46:36
-53	0x35	5	2	11400456	ceb	Gipahulam nako siya ug 500 dolyares nga walay interes.	zmah47jr	2023-01-01 12:32:46	2023-01-01 12:32:46
+53	0x35	5	2	4701995	ceb	1955 gitukod ang Disneyland.	Josefwintzent	2015-11-15 08:22:59	2015-11-15 08:23:05
 57	0x39	9	1	4701995	ceb	1955 gitukod ang Disneyland.	Josefwintzent	2015-11-15 08:22:59	2015-11-15 08:23:05
 58	0x3a	:	1	11344793	ceb	Duha ang sinultian sa Leyte: "Waray" ug "Cebuano".	zmah47jr	2022-12-18 06:02:53	2022-12-18 06:02:53
-63	0x3f	?	285	11315037	ceb	Duna ba kay ubo?	zmah47jr	2022-12-10 15:42:45	2022-12-10 15:42:45
-65	0x41	A	160	4702143	ceb	Nagkat-on si Alicia magbinisaya.	Josefwintzent	2015-11-15 09:15:57	2015-11-15 09:16:04
-66	0x42	B	83	4668699	ceb	Bayat ang akong pamisti run kay magtrabaho man ko sa uma.	tarsier	2015-11-02 02:31:19	2015-11-02 02:31:19
-67	0x43	C	7	10939539	ceb	Ilado ang California sa mga prutas niini.	necoyangi	2022-06-26 06:33:59	2022-06-26 06:33:59
-68	0x44	D	158	4683040	ceb	Ang Dios maoy makagagahum sa ngatanan.	tarsier	2015-11-07 02:46:21	2015-11-07 02:46:21
-69	0x45	E	5	4702368	ceb	Misulat si Emilia.	Josefwintzent	2015-11-15 10:51:22	2015-11-15 10:51:26
+63	0x3f	?	285	4703776	ceb	Nagtuon ka?	Josefwintzent	2015-11-16 03:45:11	2015-11-16 03:45:11
+65	0x41	A	160	4732067	ceb	Adunay walo ka haligi sa ilang balay.	tarsier	2015-11-28 17:09:50	2015-11-28 17:09:50
+66	0x42	B	83	8584221	ceb	Buluhaton sa nangagamhanan ang mahinungdanong hukom.	Josefwintzent	2020-02-29 03:11:00	2020-02-29 03:11:00
+67	0x43	C	7	11344793	ceb	Duha ang sinultian sa Leyte: "Waray" ug "Cebuano".	zmah47jr	2022-12-18 06:02:53	2022-12-18 06:02:53
+68	0x44	D	158	4683548	ceb	Diin ka namasol sa miaging semana?	tarsier	2015-11-07 07:51:34	2015-11-07 07:51:34
+69	0x45	E	5	4687703	ceb	Bilas ko si Estrellia.	tarsier	2015-11-09 03:26:04	2015-11-09 03:50:41
 70	0x46	F	5	4669895	ceb	Motulo ka tuig nang nagtuon si Tom og French.	Josefwintzent	2015-11-02 10:53:47	2015-11-02 10:53:47
-71	0x47	G	147	4674541	ceb	Gawas sa walay bayad nga pag-ugmad, mahinungdanon pud nga may pag-atiman, pagpakatap, ug pagpaluyo.	Josefwintzent	2015-11-04 05:43:55	2015-11-04 05:43:55
-72	0x48	H	61	4693684	ceb	Hala dili raba motoo.	Josefwintzent	2015-11-11 12:28:32	2015-11-11 12:28:32
-73	0x49	I	64	4715096	ceb	Ituay imong ulo ingon sa patay ka.	tarsier	2015-11-21 00:45:47	2015-11-21 00:45:47
-74	0x4a	J	23	4735634	ceb	Magsaka namo og tubig si James.	tarsier	2015-11-30 03:11:51	2016-04-25 01:33:00
-75	0x4b	K	167	4696036	ceb	Kumusta si Mary?	tarsier	2015-11-12 09:15:14	2015-11-12 09:15:14
-76	0x4c	L	50	4696011	ceb	Lisod ang kinabuhi!	tarsier	2015-11-12 08:44:19	2015-11-12 08:44:19
-77	0x4d	M	276	4699802	ceb	Magampo kita!	tarsier	2015-11-14 02:45:24	2015-11-14 02:45:24
-78	0x4e	N	260	4726929	ceb	Nia siya!	Josefwintzent	2015-11-26 10:26:20	2015-11-26 10:26:20
-79	0x4f	O	7	4700168	ceb	Og masad-an ka, ipapriso ka.	tarsier	2015-11-14 08:54:58	2015-11-14 08:54:58
-80	0x50	P	151	4687645	ceb	Pagluto og kik.	tarsier	2015-11-09 02:23:27	2015-11-09 02:24:00
+71	0x47	G	147	11365274	ceb	Gisusi sa kapulisan ang kaagi sa suspek.	zmah47jr	2022-12-24 04:10:58	2022-12-24 04:10:58
+72	0x48	H	61	4687536	ceb	Hain man dapit ang inyo?	tarsier	2015-11-09 00:45:27	2015-11-09 00:45:27
+73	0x49	I	64	4638798	ceb	Nabusog ko ug ayo sa paniudtong gihikay ni Inday.	ljmarcles	2015-10-24 04:49:54	2015-10-24 12:35:32
+74	0x4a	J	23	4685141	ceb	Ayaw og saba ni Joana ha.	Josefwintzent	2015-11-08 02:03:29	2015-11-08 02:03:37
+75	0x4b	K	167	4626184	ceb	Kugihan si tatay.	tarsier	2015-10-20 08:06:48	2015-10-31 00:41:27
+76	0x4c	L	50	4670036	ceb	Pinaagi sa pagtudlo sa pagka dili madinagmalon nakigbisog si Martin Luther King Jr. alang sa katungod nga sibil sa mga Amerkanong may dugong Afrikanhon.	Josefwintzent	2015-11-02 11:21:06	2015-11-02 11:21:06
+77	0x4d	M	276	4734128	ceb	Maayo kayo, kay hilum ka.	tarsier	2015-11-29 12:19:55	2015-11-29 12:19:55
+78	0x4e	N	260	4687665	ceb	Niadtong tungora.	tarsier	2015-11-09 02:38:23	2015-11-09 02:38:40
+79	0x4f	O	7	4733450	ceb	Nagtimbang si Orlando og mga usa ka gatos og kaupatan ka kilo.	tarsier	2015-11-29 07:39:27	2015-11-29 08:40:33
+80	0x50	P	151	11340867	ceb	Nakaadto na ba ka sa Paris?	zmah47jr	2022-12-17 10:53:51	2022-12-17 10:53:51
 81	0x51	Q	1	7589932	ceb	Quanto devo dar a este mendigo?	Ricardo14	2018-12-17 23:15:07	2018-12-17 23:15:07
-82	0x52	R	23	4739427	ceb	Gibilin ni Rosi ang iyang anak sa iyang inahan sa bukid.	tarsier	2015-12-02 10:35:02	2015-12-02 10:35:02
-83	0x53	S	87	4642713	ceb	Naghikay mi para kang Sam.	Josefwintzent	2015-10-25 10:44:50	2015-10-25 10:44:55
-84	0x54	T	196	4629898	ceb	Gisuginlan ni Tom si Mary bahin sa tulis.	Josefwintzent	2015-10-21 10:14:30	2015-10-21 10:14:35
-85	0x55	U	63	4633444	ceb	Unsay bag-o?	Josefwintzent	2015-10-22 13:49:55	2015-10-22 13:50:00
-86	0x56	V	2	4680843	ceb	Modagan sila si Joseph ug Vincent.	Josefwintzent	2015-11-06 11:35:30	2015-11-06 11:35:30
-87	0x57	W	93	11368544	ceb	Wa koy labot kung unsay kan-on ni Tom.	zmah47jr	2022-12-25 03:41:13	2022-12-25 03:41:13
-89	0x59	Y	9	4709989	ceb	Pila na kaha tanan karon ka YouTube nga akawont sa tibuok kalibotan?	Josefwintzent	2015-11-18 21:17:08	2015-11-18 21:17:08
-90	0x5a	Z	3	4703735	ceb	Unsay imong kaliwat? Kaliwat ko og Zamboanggahanon!	Josefwintzent	2015-11-16 01:47:03	2015-11-16 01:47:03
-97	0x61	a	1678	4738495	ceb	Hugaw ang trabaho ni Bert.	tarsier	2015-12-01 17:34:51	2015-12-01 17:37:09
-98	0x62	b	779	4709989	ceb	Pila na kaha tanan karon ka YouTube nga akawont sa tibuok kalibotan?	Josefwintzent	2015-11-18 21:17:08	2015-11-18 21:17:08
+82	0x52	R	23	4767321	ceb	Uy Rosi, nakalimot ka og butonis sa imong blusa.	tarsier	2015-12-15 03:46:49	2015-12-15 03:47:00
+83	0x53	S	87	4700015	ceb	Sama sa makalisang nga hangin, sama sa kusog nga ulan sa mga naanod sa nagbahang luha, sama sa makalipong nga yuta, sama sa dagkong balud sa mga nagupok natong paglaum. Paminawa kay awitan tika, pampahupay sa imong kaguol. Pamati-a ng kasikas ug kanaas sa dughan mo kay ang kinabuhi magasugod human sa kahadlok.	tarsier	2015-11-14 06:38:53	2016-10-12 16:41:17
+84	0x54	T	196	10606969	ceb	Sa laing pagkasulti, kini human lamang sa daghang mga kapakyasan, ug human sa daghan kaayong mga panahon diin, tungod sa lain-laing mga rason, nga ang negosyo napasagdan, nga ang Ikaupat nga Tawo sa kadugayan nagpatunghag duha ka mga indibidwal nga halos eksakto sa matang, sila orihinal nga gidisenyo. Gihimo kini gikan sa usa ka pertilisadong itlog, sa mga kondisyon sa laboratoryo. Parehas nga kaluha, apan lainlain ang sekso, nahimo silang Adan ug Eva sa bag-o ug mahimayaong matang sa tawo, ang Ikalimang Tawo.	nonong	2022-01-05 01:47:14	2022-01-05 01:47:14
+85	0x55	U	63	4734138	ceb	Usahay mora'g mingaw ko.	tarsier	2015-11-29 12:26:56	2015-11-29 12:26:56
+86	0x56	V	2	4680847	ceb	Sila si Joseph ug Vincent ang modagan.	Josefwintzent	2015-11-06 11:36:29	2015-11-06 11:36:29
+87	0x57	W	93	4650845	ceb	Wala tubaga ni Tom ang pangutana ni Mary.	Josefwintzent	2015-10-28 13:08:42	2015-10-28 13:08:47
+89	0x59	Y	9	4736111	ceb	Yawa ka!	tarsier	2015-11-30 12:20:22	2015-11-30 12:20:22
+90	0x5a	Z	3	11342044	ceb	Naay mao mao nga kaagi si Ziri ana.	zmah47jr	2022-12-17 14:57:09	2022-12-17 14:57:09
+97	0x61	a	1678	4685096	ceb	Papaliton nako si Jose sa mga bulak para sa akong asawa.	tarsier	2015-11-07 23:28:41	2015-11-08 00:40:49
+98	0x62	b	779	4630345	ceb	Toa ang libro sa lamesa.	Josefwintzent	2015-10-21 11:37:05	2015-10-21 11:37:09
 99	0x63	c	37	8663736	ceb	Murag cowboy si Sami.	Birago	2020-04-08 04:52:37	2020-04-08 04:52:37
-100	0x64	d	695	4633224	ceb	Kinahanglang moadto ko sa pansayan.	Josefwintzent	2015-10-22 12:41:30	2015-10-22 12:41:35
-101	0x65	e	330	4701947	ceb	Kon dili ninyo masabtan ang pangutana, pagpatabang sa inyong maestra.	Josefwintzent	2015-11-15 08:02:34	2015-11-15 08:02:38
-102	0x66	f	13	4670036	ceb	Pinaagi sa pagtudlo sa pagka dili madinagmalon nakigbisog si Martin Luther King Jr. alang sa katungod nga sibil sa mga Amerkanong may dugong Afrikanhon.	Josefwintzent	2015-11-02 11:21:06	2015-11-02 11:21:06
-103	0x67	g	1392	5462239	ceb	Unsa may kalihokan sa inyong pista?	tarsier	2016-09-22 10:20:40	2016-09-22 10:20:40
-104	0x68	h	665	4698317	ceb	Ang paon ginganlan og katahom, mangubit jud raba - dili matagna.	Josefwintzent	2015-11-13 11:49:04	2015-11-13 11:53:20
-105	0x69	i	1422	4642745	ceb	Hilom diha oy!	Josefwintzent	2015-10-25 10:51:27	2015-10-25 10:51:32
-106	0x6a	j	23	4705994	ceb	Nahurot jud og kaguba ang balay ni Tom.	Josefwintzent	2015-11-17 06:04:17	2015-11-17 06:04:17
-107	0x6b	k	1149	4692959	ceb	Ihatag kini ni Jose nianang lalaki.	tarsier	2015-11-11 08:32:48	2015-11-11 08:32:48
-108	0x6c	l	998	4683608	ceb	Kanus-a ka mipalit sa imong awto?	tarsier	2015-11-07 08:42:10	2015-11-07 08:42:10
-109	0x6d	m	1018	10939528	ceb	Di ko ganahan mokanta atubangan sa mga tao.	necoyangi	2022-06-26 06:27:34	2022-06-26 06:27:34
-110	0x6e	n	1485	4710259	ceb	Naamang akong inahan sa pagkadungog sa balita.	tarsier	2015-11-19 00:18:00	2015-11-19 00:18:00
-111	0x6f	o	1446	4680459	ceb	Lad-ang ang tubig sa atabay nga duol sa dagat.	tarsier	2015-11-06 06:51:41	2015-11-06 06:51:41
-112	0x70	p	579	4733076	ceb	Ang gahum sa salapi nagtental sa mga tawo.	tarsier	2015-11-29 00:38:27	2015-11-29 00:55:20
-114	0x72	r	541	10939522	ceb	Kanus-a ka nagsugod og tuon og Pinranses?	necoyangi	2022-06-26 06:24:54	2022-06-26 06:24:54
-115	0x73	s	1171	4629813	ceb	Gisikop si Tom pag talimudto.	Josefwintzent	2015-10-21 09:56:54	2015-10-21 09:56:58
-116	0x74	t	1072	4687857	ceb	Yatis ra!	Josefwintzent	2015-11-09 05:53:09	2015-11-09 05:53:09
-117	0x75	u	971	11315098	ceb	Pagpili ug petsa alang sa miting.	zmah47jr	2022-12-10 16:09:59	2022-12-10 16:09:59
-118	0x76	v	12	7589932	ceb	Quanto devo dar a este mendigo?	Ricardo14	2018-12-17 23:15:07	2018-12-17 23:15:07
-119	0x77	w	431	4965938	ceb	Kuyaw ning tubiga kay hogaw.	tarsier	2016-03-10 11:26:02	2016-03-10 11:26:02
-120	0x78	x	4	4633352	ceb	Kuha palihog og taxi.	Josefwintzent	2015-10-22 13:14:09	2015-10-22 13:14:13
-121	0x79	y	898	4798859	ceb	Luto-i ang sabaw sa balay!	tarsier	2015-12-30 01:08:34	2015-12-30 08:27:35
-122	0x7a	z	4	4708845	ceb	Si Azeri ko.	Josefwintzent	2015-11-18 11:32:49	2015-11-18 11:32:49
-228	0xe4	ä	2	4956821	ceb	Wasche deine Hände bevor du isst!	tarsier	2016-03-06 08:52:16	2016-03-06 08:52:16
+100	0x64	d	695	4701924	ceb	Giugdaw ang tibuok dakbayan sa sunog.	Josefwintzent	2015-11-15 07:50:49	2015-11-15 07:50:54
+101	0x65	e	330	4683695	ceb	Sultihi ra gud ako sa tinuod Gretchen!	tarsier	2015-11-07 09:22:40	2015-11-07 22:56:03
+102	0x66	f	13	5280517	ceb	Sa una miadto ang mga tawo sa simbahan aron mokumpisal. Karon magsulat sila sa facebook.	tarsier	2016-07-17 09:39:51	2016-07-17 09:43:16
+103	0x67	g	1392	5187929	ceb	Saging kuno.	tarsier	2016-06-03 09:15:11	2016-06-03 09:18:21
+104	0x68	h	665	4705994	ceb	Nahurot jud og kaguba ang balay ni Tom.	Josefwintzent	2015-11-17 06:04:17	2015-11-17 06:04:17
+105	0x69	i	1422	4780829	ceb	Daghan sa among mga libro sugilambong.	tarsier	2015-12-21 01:07:53	2015-12-21 01:14:32
+106	0x6a	j	23	4702378	ceb	Plamuot jud ni si Mr. Bean.	Josefwintzent	2015-11-15 10:58:23	2015-11-15 10:58:31
+107	0x6b	k	1149	4703718	ceb	Gihilantan karong hapon ang pasyente.	Josefwintzent	2015-11-16 01:28:30	2015-11-16 01:28:30
+108	0x6c	l	998	4680575	ceb	Lagas na ko dinhi sa Pilipinas, pero wala pa maayo ang akong Cebuano.	tarsier	2015-11-06 07:41:00	2015-11-06 07:41:00
+109	0x6d	m	1018	6195493	ceb	I-unsa man nimo ang kwarta?	tarsier	2017-08-11 12:25:23	2017-08-11 12:25:23
+110	0x6e	n	1485	4695842	ceb	Naginom ang bata ug katas.	tarsier	2015-11-12 06:58:10	2015-11-12 08:21:06
+111	0x6f	o	1446	4726923	ceb	Dili kinahanglang magtuon ka.	Josefwintzent	2015-11-26 10:24:09	2015-11-26 10:24:09
+112	0x70	p	579	11314638	ceb	Ga-pictorial mi sa among klase.	zmah47jr	2022-12-10 07:44:26	2022-12-10 07:44:26
+114	0x72	r	541	5125141	ceb	Kusion nako imong lagay ron.	tarsier	2016-05-09 09:46:50	2016-05-09 09:46:50
+115	0x73	s	1171	4708443	ceb	Ayaw siya sukmati.	Josefwintzent	2015-11-18 06:59:04	2015-11-18 06:59:04
+116	0x74	t	1072	11314079	ceb	Anad na siya sa mga batikos.	zmah47jr	2022-12-10 01:55:45	2022-12-10 01:55:45
+117	0x75	u	971	4701996	ceb	Tagurhay dunggan nato.	Josefwintzent	2015-11-15 08:23:50	2015-11-15 08:23:56
+118	0x76	v	12	10939572	ceb	Invasion of privacy na man ni.	necoyangi	2022-06-26 06:46:36	2022-06-26 06:46:36
+119	0x77	w	431	4710255	ceb	Ang amaw maglisod og sabot sa mga tugon	tarsier	2015-11-19 00:05:25	2015-11-19 00:05:25
+120	0x78	x	4	11315193	ceb	Palihug gamita kining exit kung dunay sunog.	zmah47jr	2022-12-10 16:55:02	2022-12-10 16:55:02
+121	0x79	y	898	4737106	ceb	Giganahan ba sa imong uyab ang mga bulak?	Josefwintzent	2015-11-30 22:49:32	2015-11-30 22:49:32
+122	0x7a	z	4	4688187	ceb	Thilo Sarrazin man ang tagsulat sa librong nakapalagot sa mga politiko sa Alemanya.	tarsier	2015-11-09 08:17:35	2015-11-09 08:17:35
+228	0xe4	ä	2	4956828	ceb	Wirst du dich mit Tom vermählen?	tarsier	2016-03-06 08:58:38	2016-03-06 08:58:38
 236	0xec	ì	1	4677249	ceb	Gigalongan ang mga Katoliko sa paggawì sa pils.	tarsier	2015-11-05 01:44:54	2015-11-05 01:44:54
 237	0xed	í	1	4701913	ceb	Nagkita mi sa símbahan.	Josefwintzent	2015-11-15 07:44:31	2015-11-16 06:01:18
 8217	0x2019	’	1	4701618	ceb	Ayaw ko’g siguroa, kay wa ka kahibalo sa akong pagkamadinaoton.	tarsier	2015-11-15 01:05:56	2015-11-15 01:06:08

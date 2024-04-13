@@ -1,69 +1,69 @@
-32	0x20	 	35	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
-33	0x21	!	3	4635392	kaa	Tatoebaǵa xosh keldiń!	janTuki	2015-10-23 00:50:17	2022-12-05 18:35:09
+32	0x20	 	35	4635393	kaa	Tatoebaǵa xosh keldińiz!	janTuki	2015-10-23 00:50:24	2022-12-05 18:34:50
+33	0x21	!	3	4635393	kaa	Tatoebaǵa xosh keldińiz!	janTuki	2015-10-23 00:50:24	2022-12-05 18:34:50
 39	0x27	'	1	9644854	kaa	Bul u'y emes.	TurkishReform	2021-01-13 23:00:12	2021-01-13 23:00:15
 44	0x2c	,	1	12366824	kaa	Ol qız, balaların ol baǵıwın qáleytuǵınlıǵın ayttı	begzat	2024-03-11 18:19:48	2024-03-11 18:19:48
 45	0x2d	-	1	12366806	kaa	Mariya ata-anaların jaman kóredi	begzat	2024-03-11 18:15:14	2024-03-11 18:15:14
-46	0x2e	.	14	9642654	kaa	Oqıtıwshı emespen.	TurkishReform	2021-01-13 18:22:22	2021-01-13 18:22:26
-63	0x3f	?	9	11298028	kaa	Bul sóylemdi kim jazdı?	janTuki	2022-12-05 20:28:32	2022-12-05 20:28:49
+46	0x2e	.	14	12009043	kaa	Men eki júzli emespen.	enebi	2023-08-22 10:10:44	2023-08-22 10:11:03
+63	0x3f	?	9	12366848	kaa	Ne?	begzat	2024-03-11 18:30:47	2024-03-11 18:30:47
 65	0x41	A	2	12366837	kaa	Amerikalıqlardıń kópshiligi immigrantlardan kelip shıqqan	begzat	2024-03-11 18:25:48	2024-03-11 18:25:48
-66	0x42	B	3	9644854	kaa	Bul u'y emes.	TurkishReform	2021-01-13 23:00:12	2021-01-13 23:00:15
+66	0x42	B	3	11298028	kaa	Bul sóylemdi kim jazdı?	janTuki	2022-12-05 20:28:32	2022-12-05 20:28:49
 69	0x45	E	1	8780716	kaa	Esaplawım durıs edi.	\N	2020-05-22 11:55:27	2020-07-01 17:48:33
-75	0x4b	K	2	12366850	kaa	Keshir...	begzat	2024-03-11 18:31:04	2024-03-11 18:31:04
-77	0x4d	M	11	12366789	kaa	Men oqıtıwshı emespen	begzat	2024-03-11 18:09:18	2024-03-11 18:09:18
+75	0x4b	K	2	12366800	kaa	Kim bul gápti jazdı?	begzat	2024-03-11 18:13:22	2024-03-11 18:13:22
+77	0x4d	M	11	12366798	kaa	Men jaqsı emespen	begzat	2024-03-11 18:12:58	2024-03-11 18:12:58
 78	0x4e	N	3	12366848	kaa	Ne?	begzat	2024-03-11 18:30:47	2024-03-11 18:30:47
 79	0x4f	O	4	12366824	kaa	Ol qız, balaların ol baǵıwın qáleytuǵınlıǵın ayttı	begzat	2024-03-11 18:19:48	2024-03-11 18:19:48
-81	0x51	Q	8	12366855	kaa	Qorqınıshlı	begzat	2024-03-11 18:32:47	2024-03-11 18:32:47
+81	0x51	Q	8	8541679	kaa	Qızımdı kórdińiz be?	janTuki	2020-02-10 20:23:46	2022-12-05 18:34:13
 83	0x53	S	3	12366797	kaa	Sorawǵa juwap beriń	begzat	2024-03-11 18:12:12	2024-03-11 18:12:12
-84	0x54	T	5	4635392	kaa	Tatoebaǵa xosh keldiń!	janTuki	2015-10-23 00:50:17	2022-12-05 18:35:09
-97	0x61	a	25	12366800	kaa	Kim bul gápti jazdı?	begzat	2024-03-11 18:13:22	2024-03-11 18:13:22
-98	0x62	b	12	12366847	kaa	Álbette	begzat	2024-03-11 18:30:41	2024-03-11 18:30:41
+84	0x54	T	5	12366856	kaa	Tirima?	begzat	2024-03-11 18:33:45	2024-03-11 18:33:45
+97	0x61	a	25	12366784	kaa	Men vrach emespen	begzat	2024-03-11 18:07:42	2024-03-11 18:07:42
+98	0x62	b	12	12366800	kaa	Kim bul gápti jazdı?	begzat	2024-03-11 18:13:22	2024-03-11 18:13:22
 99	0x63	c	1	12366784	kaa	Men vrach emespen	begzat	2024-03-11 18:07:42	2024-03-11 18:07:42
-100	0x64	d	18	8780716	kaa	Esaplawım durıs edi.	\N	2020-05-22 11:55:27	2020-07-01 17:48:33
-101	0x65	e	35	11310779	kaa	Men kitap oqıǵandı jaqsı kóremen.	janTuki	2022-12-09 04:06:45	2022-12-09 04:08:19
-103	0x67	g	5	12366808	kaa	Tom hám Mariya qılıwı múmkinligin ayttı	begzat	2024-03-11 18:16:03	2024-03-11 18:16:03
-104	0x68	h	13	12366793	kaa	Men qosıqshı emespen	begzat	2024-03-11 18:10:21	2024-03-11 18:10:21
-105	0x69	i	20	4635392	kaa	Tatoebaǵa xosh keldiń!	janTuki	2015-10-23 00:50:17	2022-12-05 18:35:09
-106	0x6a	j	16	12366779	kaa	Ahwalım jaqsı emes.	begzat	2024-03-11 18:07:02	2024-03-11 18:07:02
-107	0x6b	k	16	8541679	kaa	Qızımdı kórdińiz be?	janTuki	2020-02-10 20:23:46	2022-12-05 18:34:13
-108	0x6c	l	19	12366779	kaa	Ahwalım jaqsı emes.	begzat	2024-03-11 18:07:02	2024-03-11 18:07:02
-109	0x6d	m	27	9642654	kaa	Oqıtıwshı emespen.	TurkishReform	2021-01-13 18:22:22	2021-01-13 18:22:26
-110	0x6e	n	23	12366787	kaa	Nan jańa emes.	begzat	2024-03-11 18:08:18	2024-03-11 18:08:18
-111	0x6f	o	13	12366808	kaa	Tom hám Mariya qılıwı múmkinligin ayttı	begzat	2024-03-11 18:16:03	2024-03-11 18:16:03
-112	0x70	p	17	8780716	kaa	Esaplawım durıs edi.	\N	2020-05-22 11:55:27	2020-07-01 17:48:33
-113	0x71	q	15	12366837	kaa	Amerikalıqlardıń kópshiligi immigrantlardan kelip shıqqan	begzat	2024-03-11 18:25:48	2024-03-11 18:25:48
-114	0x72	r	21	12075592	kaa	Ol kózlerin jumdı.	enebi	2023-09-24 12:04:30	2023-09-24 12:04:36
-115	0x73	s	23	12366829	kaa	Tom hám Mariya jumıstı basqalardan kóre jaqsıraq orınlaymız dep oylaydı	begzat	2024-03-11 18:22:33	2024-03-11 18:22:33
-116	0x74	t	18	12366845	kaa	Qattıraq	begzat	2024-03-11 18:30:22	2024-03-11 18:30:22
-117	0x75	u	13	12366833	kaa	Bul men tanıytuǵın kimgedur júz berdi	begzat	2024-03-11 18:24:12	2024-03-11 18:24:12
+100	0x64	d	18	12366833	kaa	Bul men tanıytuǵın kimgedur júz berdi	begzat	2024-03-11 18:24:12	2024-03-11 18:24:12
+101	0x65	e	35	12366846	kaa	Ástenrek	begzat	2024-03-11 18:30:34	2024-03-11 18:30:34
+103	0x67	g	5	12366800	kaa	Kim bul gápti jazdı?	begzat	2024-03-11 18:13:22	2024-03-11 18:13:22
+104	0x68	h	13	12366850	kaa	Keshir...	begzat	2024-03-11 18:31:04	2024-03-11 18:31:04
+105	0x69	i	20	11310779	kaa	Men kitap oqıǵandı jaqsı kóremen.	janTuki	2022-12-09 04:06:45	2022-12-09 04:08:19
+106	0x6a	j	16	12366800	kaa	Kim bul gápti jazdı?	begzat	2024-03-11 18:13:22	2024-03-11 18:13:22
+107	0x6b	k	16	11298028	kaa	Bul sóylemdi kim jazdı?	janTuki	2022-12-05 20:28:32	2022-12-05 20:28:49
+108	0x6c	l	19	11298028	kaa	Bul sóylemdi kim jazdı?	janTuki	2022-12-05 20:28:32	2022-12-05 20:28:49
+109	0x6d	m	27	12366833	kaa	Bul men tanıytuǵın kimgedur júz berdi	begzat	2024-03-11 18:24:12	2024-03-11 18:24:12
+110	0x6e	n	23	12075592	kaa	Ol kózlerin jumdı.	enebi	2023-09-24 12:04:30	2023-09-24 12:04:36
+111	0x6f	o	13	4635392	kaa	Tatoebaǵa xosh keldiń!	janTuki	2015-10-23 00:50:17	2022-12-05 18:35:09
+112	0x70	p	17	12366793	kaa	Men qosıqshı emespen	begzat	2024-03-11 18:10:21	2024-03-11 18:10:21
+113	0x71	q	15	12366798	kaa	Men jaqsı emespen	begzat	2024-03-11 18:12:58	2024-03-11 18:12:58
+114	0x72	r	21	12366824	kaa	Ol qız, balaların ol baǵıwın qáleytuǵınlıǵın ayttı	begzat	2024-03-11 18:19:48	2024-03-11 18:19:48
+115	0x73	s	23	12366793	kaa	Men qosıqshı emespen	begzat	2024-03-11 18:10:21	2024-03-11 18:10:21
+116	0x74	t	18	4635393	kaa	Tatoebaǵa xosh keldińiz!	janTuki	2015-10-23 00:50:24	2022-12-05 18:34:50
+117	0x75	u	13	12366829	kaa	Tom hám Mariya jumıstı basqalardan kóre jaqsıraq orınlaymız dep oylaydı	begzat	2024-03-11 18:22:33	2024-03-11 18:22:33
 118	0x76	v	1	12366784	kaa	Men vrach emespen	begzat	2024-03-11 18:07:42	2024-03-11 18:07:42
-119	0x77	w	9	11906757	kaa	Sorawǵa juwap ber.	enebi	2023-07-05 01:36:10	2023-07-05 01:36:10
+119	0x77	w	9	12366789	kaa	Men oqıtıwshı emespen	begzat	2024-03-11 18:09:18	2024-03-11 18:09:18
 120	0x78	x	2	4635392	kaa	Tatoebaǵa xosh keldiń!	janTuki	2015-10-23 00:50:17	2022-12-05 18:35:09
-121	0x79	y	10	12366833	kaa	Bul men tanıytuǵın kimgedur júz berdi	begzat	2024-03-11 18:24:12	2024-03-11 18:24:12
-122	0x7a	z	11	12075592	kaa	Ol kózlerin jumdı.	enebi	2023-09-24 12:04:30	2023-09-24 12:04:36
+121	0x79	y	10	12366843	kaa	Qutlıqlayman!	begzat	2024-03-11 18:29:38	2024-03-11 18:29:38
+122	0x7a	z	11	4635393	kaa	Tatoebaǵa xosh keldińiz!	janTuki	2015-10-23 00:50:24	2022-12-05 18:34:50
 193	0xc1	Á	3	12366847	kaa	Álbette	begzat	2024-03-11 18:30:41	2024-03-11 18:30:41
 225	0xe1	á	5	12366844	kaa	Qáte	begzat	2024-03-11 18:30:10	2024-03-11 18:30:10
-243	0xf3	ó	9	11310779	kaa	Men kitap oqıǵandı jaqsı kóremen.	janTuki	2022-12-09 04:06:45	2022-12-09 04:08:19
-250	0xfa	ú	3	12366833	kaa	Bul men tanıytuǵın kimgedur júz berdi	begzat	2024-03-11 18:24:12	2024-03-11 18:24:12
-305	0x131	ı	24	12366837	kaa	Amerikalıqlardıń kópshiligi immigrantlardan kelip shıqqan	begzat	2024-03-11 18:25:48	2024-03-11 18:25:48
-324	0x144	ń	10	12366837	kaa	Amerikalıqlardıń kópshiligi immigrantlardan kelip shıqqan	begzat	2024-03-11 18:25:48	2024-03-11 18:25:48
-501	0x1f5	ǵ	8	12366833	kaa	Bul men tanıytuǵın kimgedur júz berdi	begzat	2024-03-11 18:24:12	2024-03-11 18:24:12
+243	0xf3	ó	9	12366791	kaa	Qızımdı kórmedińizbe?	begzat	2024-03-11 18:09:53	2024-03-11 18:09:53
+250	0xfa	ú	3	12366808	kaa	Tom hám Mariya qılıwı múmkinligin ayttı	begzat	2024-03-11 18:16:03	2024-03-11 18:16:03
+305	0x131	ı	24	12366824	kaa	Ol qız, balaların ol baǵıwın qáleytuǵınlıǵın ayttı	begzat	2024-03-11 18:19:48	2024-03-11 18:19:48
+324	0x144	ń	10	8541679	kaa	Qızımdı kórdińiz be?	janTuki	2020-02-10 20:23:46	2022-12-05 18:34:13
+501	0x1f5	ǵ	8	12366831	kaa	Ol eń jaman muǵallim edi	begzat	2024-03-11 18:23:28	2024-03-11 18:23:28
 1045	0x415	Е	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
 1052	0x41c	М	1	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
 1054	0x41e	О	1	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
 1072	0x430	а	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
 1076	0x434	д	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
-1077	0x435	е	3	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
+1077	0x435	е	3	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
 1080	0x438	и	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
 1083	0x43b	л	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
-1084	0x43c	м	3	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
-1085	0x43d	н	2	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
+1084	0x43c	м	3	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
+1085	0x43d	н	2	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
 1086	0x43e	о	1	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
-1087	0x43f	п	3	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
+1087	0x43f	п	3	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
 1088	0x440	р	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
-1089	0x441	с	3	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
+1089	0x441	с	3	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
 1090	0x442	т	1	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
 1091	0x443	у	1	9641664	kaa	Есаплаўым дурыс еди.	TurkishReform	2021-01-13 13:02:06	2021-01-13 13:02:09
-1096	0x448	ш	2	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
+1096	0x448	ш	2	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
 1099	0x44b	ы	3	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17
 1118	0x45e	ў	3	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
-1179	0x49b	қ	2	9642655	kaa	Оқытыўшы емеспен.	TurkishReform	2021-01-13 18:22:33	2021-01-13 18:22:36
+1179	0x49b	қ	2	9641374	kaa	Мен оқыўшы емеспен.	TurkishReform	2021-01-13 09:46:58	2021-01-13 09:47:17

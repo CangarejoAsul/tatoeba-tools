@@ -3031,3 +3031,7 @@ Straight quotation marks: not used	12358310	deu	Ziri drückte auf den "Senden"-K
 Exclamation mark: preceeded by space	12372460	deu	Hör auf, mich anzusehen !	Bernie75	2024-03-15 10:00:54	2024-03-15 10:00:54
 Exclamation mark: preceeded by space	12372461	deu	Hör auf, mich anzustarren !	Bernie75	2024-03-15 10:01:24	2024-03-15 10:01:24
 Final punctuation	12391184	deu	Test	Test7272	2024-03-27 20:02:43	2024-03-27 20:02:43
+Guillemets: opening mark succeeded by space	12406694	deu	Das französische Wort « soleil » bedeutet „Sonne“.	Waldelfe	2024-04-08 16:08:17	2024-04-08 16:08:17
+Guillemets: closing mark preceeded by space	12406694	deu	Das französische Wort « soleil » bedeutet „Sonne“.	Waldelfe	2024-04-08 16:08:17	2024-04-08 16:08:17
+Guillemets: unclosed opening mark	12406694	deu	Das französische Wort « soleil » bedeutet „Sonne“.	Waldelfe	2024-04-08 16:08:17	2024-04-08 16:08:17
+Guillemets: unopened closing mark	12406694	deu	Das französische Wort « soleil » bedeutet „Sonne“.	Waldelfe	2024-04-08 16:08:17	2024-04-08 16:08:17

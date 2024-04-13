@@ -1,102 +1,102 @@
-32	0x20	 	1810	10832954	lij	Son chì tutti i lunesdì.	JeanM	2022-05-16 01:53:20	2022-05-16 01:53:20
-33	0x21	!	139	8355352	lij	Scialla!	JeanM	2019-11-30 00:37:37	2019-11-30 00:37:37
-34	0x22	"	3	10929158	lij	À parti da-o dio gròsso, e teu die en ciammæ "dio gròsso", "dio longâ", "dio de mezo", "dio de l'anello" e "dio marmellin".	JeanM	2022-06-22 03:08:14	2022-06-22 03:08:14
-39	0x27	'	774	10926936	lij	"Che bestia t'æ visto a-o zöo?" "Un pòrco sarvægo."	JeanM	2022-06-21 03:07:46	2022-06-21 03:07:46
-40	0x28	(	3	10830539	lij	O Stanisław Lem o l’é nasciuo do 1921 à Lviv, in Polònia (ancheu Ucraiña).	Ginna	2022-05-15 04:24:52	2022-05-15 04:24:52
-41	0x29	)	3	10830943	lij	O segno di Binelli (o terso do zodiaco) o l’é o segno de persoñe nasciue da-i 21 de mazzo a-i 21 de zugno.	Ginna	2022-05-15 05:19:29	2022-05-15 05:19:29
-44	0x2c	,	95	10893393	lij	Mi son pin, graçie.	JeanM	2022-06-07 03:39:00	2022-06-07 03:39:00
-45	0x2d	-	143	10919238	lij	O l'à viægiou co-a barca.	JeanM	2022-06-17 18:47:31	2022-06-17 18:47:31
-46	0x2e	.	1496	8805459	lij	Tom o l'à domandou à Mary de dond'a vëgne.	JeanM	2020-05-31 01:10:42	2020-05-31 01:11:13
+32	0x20	 	1810	8760392	lij	No pòsso soffrî l'æña.	JeanM	2020-05-14 03:25:48	2020-05-14 03:25:48
+33	0x21	!	139	10926188	lij	Aggiutto! Poliscia! Aggiutto!	JeanM	2022-06-20 19:38:27	2022-06-20 19:38:27
+34	0x22	"	3	10926936	lij	"Che bestia t'æ visto a-o zöo?" "Un pòrco sarvægo."	JeanM	2022-06-21 03:07:46	2022-06-21 03:07:46
+39	0x27	'	774	8762431	lij	O l'à dito ch'o l'ea pronto a parlâ.	JeanM	2020-05-15 03:22:24	2020-05-15 03:22:24
+40	0x28	(	3	10927682	lij	Setteña partia (12/04/2021). Unn'atra avertua spagnòlla. Sesta patta. Nepomniachtchi (gianco) 3 - Carlsen (neigro) 4.	JeanM	2022-06-21 03:59:54	2022-06-21 04:00:13
+41	0x29	)	3	10830539	lij	O Stanisław Lem o l’é nasciuo do 1921 à Lviv, in Polònia (ancheu Ucraiña).	Ginna	2022-05-15 04:24:52	2022-05-15 04:24:52
+44	0x2c	,	95	8328006	lij	Se no ghe n'é de vento, e veie no se peuan insciâ.	JeanM	2019-11-17 06:37:38	2019-11-17 06:37:38
+45	0x2d	-	143	8288253	lij	Tom o l'é a-o cian de d'ato.	JeanM	2019-10-27 17:20:55	2019-10-27 17:20:55
+46	0x2e	.	1496	10926167	lij	Graçie, Dottô.	JeanM	2022-06-20 19:31:35	2022-06-20 19:31:35
 47	0x2f	/	1	10927682	lij	Setteña partia (12/04/2021). Unn'atra avertua spagnòlla. Sesta patta. Nepomniachtchi (gianco) 3 - Carlsen (neigro) 4.	JeanM	2022-06-21 03:59:54	2022-06-21 04:00:13
-48	0x30	0	41	10832987	lij	A Polònia a l’é intrâ inta NATO do 1999 e inte l’UE do 2004.	JeanM	2022-05-16 02:14:32	2022-05-16 02:14:32
-49	0x31	1	82	10830541	lij	A BBC a l’é stæta inandiâ do 1922.	Ginna	2022-05-15 04:27:49	2022-05-15 04:27:49
-50	0x32	2	56	10830580	lij	O Tom o l’é mòrto do 2013.	Ginna	2022-05-15 04:59:53	2022-05-15 04:59:53
-51	0x33	3	19	10830578	lij	Bon 2013.	Ginna	2022-05-15 04:59:32	2022-05-15 04:59:32
-52	0x34	4	19	10831067	lij	Son nasciuo a-i 4 de zugno do 1974.	Ginna	2022-05-15 05:26:12	2022-05-15 05:26:12
-53	0x35	5	11	8724661	lij	Ancheu l'é i 5 de marso.	JeanM	2020-04-29 02:21:45	2020-04-29 02:21:45
-54	0x36	6	11	10832968	lij	Vëi l’ea mätesdì a-i 26 de zenâ do 2010.	JeanM	2022-05-16 01:57:26	2022-05-16 01:57:26
-55	0x37	7	8	10831067	lij	Son nasciuo a-i 4 de zugno do 1974.	Ginna	2022-05-15 05:26:12	2022-05-15 05:26:12
-56	0x38	8	21	10832989	lij	A seu figgia Chelsea a l’é nasciua do 1980.	JeanM	2022-05-16 02:16:13	2022-05-16 02:16:13
-57	0x39	9	61	10832994	lij	Do 1498, o navegatô e esploratô Vasco da Gama o l’à trovou unna rotta pe l’India.	JeanM	2022-05-16 02:21:05	2022-05-16 02:21:05
+48	0x30	0	41	10830615	lij	Ti deuvi ancon un lettô de cassette? Do 2020?	Ginna	2022-05-15 05:01:52	2022-05-15 05:01:52
+49	0x31	1	82	10830566	lij	L’ea de l’anno 1989.	Ginna	2022-05-15 04:55:42	2022-05-15 04:55:42
+50	0x32	2	56	10832977	lij	Ancheu l’é zeuggia a-i 5 de settembre do 2013.	JeanM	2022-05-16 02:03:49	2022-06-23 05:19:41
+51	0x33	3	19	10830998	lij	A-i 30 de mazzo conosciemo i resultati de eleçioin.	Ginna	2022-05-15 05:22:32	2022-05-15 05:22:32
+52	0x34	4	19	10927682	lij	Setteña partia (12/04/2021). Unn'atra avertua spagnòlla. Sesta patta. Nepomniachtchi (gianco) 3 - Carlsen (neigro) 4.	JeanM	2022-06-21 03:59:54	2022-06-21 04:00:13
+53	0x35	5	11	8724669	lij	Dëna o l'é i 25 de dexembre.	JeanM	2020-04-29 02:26:49	2020-04-29 02:26:49
+54	0x36	6	11	10831185	lij	A l’é nasciua do 1946, a-i 19 d’agosto, in Califòrnia.	Ginna	2022-05-15 05:32:21	2022-05-15 05:32:21
+55	0x37	7	8	10832966	lij	Ancheu l’é mätesdì a-i 17 de dexembre.	JeanM	2022-05-16 01:56:38	2022-05-16 01:56:38
+56	0x38	8	21	10830558	lij	A produçion de sta machina a l’é stæta inandiâ do 1980.	Ginna	2022-05-15 04:52:05	2022-05-15 04:52:05
+57	0x39	9	61	10830556	lij	A teoria do Big Bang a l’é stæta propòsta do 1927 e espansa do 1929.	Ginna	2022-05-15 04:51:22	2022-05-15 07:18:31
 58	0x3a	:	3	10929159	lij	A man a l'à çinque die: o dio gròsso, o dio longâ, o dio de mezo, o dio de l'anello e o dio marmellin.	JeanM	2022-06-22 03:08:52	2022-06-22 03:08:52
-59	0x3b	;	3	7832817	lij	No me stâ à domandâ à mi; son un gatto.	JeanM	2019-04-01 11:59:01	2019-10-27 17:52:17
-63	0x3f	?	252	10929001	lij	Donde son e mæ braghe?	JeanM	2022-06-22 00:19:51	2022-06-22 00:19:51
-65	0x41	A	338	10937045	lij	A l'à quarant'anni pöcassæ.	JeanM	2022-06-25 07:42:22	2022-06-25 07:42:22
-66	0x42	B	51	10893473	lij	Benvegnuo in Ciña!	JeanM	2022-06-07 04:02:10	2022-06-07 04:02:10
-67	0x43	C	117	10830548	lij	O Coolidge o l’à guägno l’eleçion do 1924 de lengê.	Ginna	2022-05-15 04:37:06	2022-05-15 04:37:06
-68	0x44	D	80	10926273	lij	Damme un abbrasso.	JeanM	2022-06-20 20:04:11	2022-06-20 20:04:11
-69	0x45	E	102	10927253	lij	Emmo parlou da costion.	JeanM	2022-06-21 03:24:13	2022-06-21 03:24:13
-70	0x46	F	19	10927708	lij	Fasciæ e euve à dozzeñe.	JeanM	2022-06-21 04:27:12	2022-06-21 04:27:12
-71	0x47	G	63	10936966	lij	Gh'é de l'ægua cada inta pugnatta?	JeanM	2022-06-25 07:17:40	2022-06-25 07:17:40
+59	0x3b	;	3	10926250	lij	Sto chì o no l'é bleu; o l'é moelo.	JeanM	2022-06-20 19:53:50	2022-06-20 19:53:50
+63	0x3f	?	252	10919245	lij	Donde en e pòste?	JeanM	2022-06-17 18:50:53	2022-06-17 18:50:53
+65	0x41	A	338	10926186	lij	A poliscia a l'é vegnua.	JeanM	2022-06-20 19:38:15	2022-06-20 19:38:15
+66	0x42	B	51	8724610	lij	A l'addeuvia o Botox.	JeanM	2020-04-29 01:35:35	2020-04-29 01:35:35
+67	0x43	C	117	8774946	lij	No emmo vixitou a Còrsega.	JeanM	2020-05-20 02:58:27	2020-05-20 02:58:27
+68	0x44	D	80	10832994	lij	Do 1498, o navegatô e esploratô Vasco da Gama o l’à trovou unna rotta pe l’India.	JeanM	2022-05-16 02:21:05	2022-05-16 02:21:05
+69	0x45	E	102	10926292	lij	En apreuvo à construe unna neuva ciassa.	JeanM	2022-06-20 20:11:38	2022-06-20 20:11:38
+70	0x46	F	19	7808750	lij	A l'é unna ch'a va apreuvo a-o pensceo de Freud.	JeanM	2019-03-13 22:49:43	2019-10-27 17:18:53
+71	0x47	G	63	10927670	lij	Guæra comensâ, inferno descadenou.	JeanM	2022-06-21 03:55:52	2022-06-21 03:55:52
 72	0x48	H	1	10830551	lij	O Herberto Hoover o l’à guägno l’eleçion do 1928.	Ginna	2022-05-15 04:42:51	2022-05-15 04:42:51
-73	0x49	I	49	10935546	lij	I cornaggin contëgnan di antioscidanti.	JeanM	2022-06-25 04:47:24	2022-06-25 04:47:24
+73	0x49	I	49	10937102	lij	In sciâ fin a primmaveia a l'é arrivâ.	JeanM	2022-06-25 07:56:31	2022-06-25 07:56:31
 74	0x4a	J	1	10668853	lij	Conoscio i Jackson.	JeanM	2022-02-11 10:11:29	2022-02-11 10:11:35
 75	0x4b	K	6	7812116	lij	Te conseggio davei de vixitâ Kyoto.	JeanM	2019-03-15 19:32:06	2019-10-27 17:07:31
-76	0x4c	L	102	10830693	lij	L’é za zenâ.	Ginna	2022-05-15 05:06:08	2022-05-15 05:06:08
-77	0x4d	M	111	10937224	lij	Mescio o scheuggio.	JeanM	2022-06-25 08:29:28	2022-06-25 08:29:28
-78	0x4e	N	91	12110940	lij	No accatto ninte.	JeanM	2023-10-13 17:18:43	2023-10-13 17:18:43
-79	0x4f	O	223	10926175	lij	O l'é un mego.	JeanM	2022-06-20 19:32:56	2022-06-20 19:32:56
-80	0x50	P	62	10926198	lij	Pe-o sòlito pòrto di fädin.	JeanM	2022-06-20 19:41:27	2022-06-20 19:41:27
-81	0x51	Q	36	10929011	lij	Quella machina a l'é grixa?	JeanM	2022-06-22 00:23:20	2022-06-22 00:23:20
-82	0x52	R	11	8775031	lij	Retia a neive.	JeanM	2020-05-20 03:49:57	2020-05-20 03:49:57
-83	0x53	S	244	10926335	lij	Stannighe derê.	JeanM	2022-06-20 20:34:29	2022-06-20 20:34:29
-84	0x54	T	218	10919580	lij	Ti l'æ ammassâ.	JeanM	2022-06-17 21:41:31	2022-06-17 21:41:31
-85	0x55	U	20	7809018	lij	Un tempo chi gh'ea unna prexon.	JeanM	2019-03-14 01:56:55	2019-10-27 17:16:35
+76	0x4c	L	102	8355355	lij	Lezi!	JeanM	2019-11-30 00:39:01	2019-11-30 00:39:01
+77	0x4d	M	111	8926599	lij	Marie a scriveiva.	JeanM	2020-07-20 00:35:51	2020-07-20 00:35:51
+78	0x4e	N	91	10928978	lij	Nuo.	JeanM	2022-06-22 00:10:53	2022-06-22 00:10:53
+79	0x4f	O	223	8767252	lij	O te piaxe l'amê cristallizzou?	JeanM	2020-05-17 00:01:34	2020-05-17 00:01:34
+80	0x50	P	62	10936942	lij	Pugnatta, no boggî!	JeanM	2022-06-25 07:12:36	2022-06-25 07:12:36
+81	0x51	Q	36	12175410	lij	Quante pevionetto ghe veu inta pasta?	JeanM	2023-11-24 05:47:19	2023-11-24 05:47:19
+82	0x52	R	11	8328003	lij	Sta lezze a l'é esteisa à tutte e provinçe e e çittæ do Regno.	JeanM	2019-11-17 06:32:46	2022-06-23 05:28:36
+83	0x53	S	244	10935540	lij	Comm'a l'é a Scòçia de stæ?	JeanM	2022-06-25 04:44:23	2022-06-25 04:44:23
+84	0x54	T	218	10893426	lij	T'ê pròpio unna bella scignoriña!	JeanM	2022-06-07 03:48:17	2022-06-07 03:48:20
+85	0x55	U	20	10919612	lij	Unna cadeña de montagne a l'avvarda a vallâ da-i venti do nòrd.	JeanM	2022-06-17 21:55:05	2022-06-17 21:55:05
 86	0x56	V	72	10832994	lij	Do 1498, o navegatô e esploratô Vasco da Gama o l’à trovou unna rotta pe l’India.	JeanM	2022-05-16 02:21:05	2022-05-16 02:21:05
 88	0x58	X	1	10893352	lij	Xoiò in sciâ luña.	JeanM	2022-06-07 03:24:48	2022-06-07 03:24:48
-89	0x59	Y	7	10830676	lij	Yahoo Answers o serrià pe delongo a-i 4 de mazzo do 2021.	Ginna	2022-05-15 05:05:18	2022-05-15 05:05:18
-90	0x5a	Z	4	10832979	lij	Zughemmo à ballon tutti i sabbi.	JeanM	2022-05-16 02:09:40	2022-05-16 02:09:40
-97	0x61	a	1544	10919229	lij	A l'à viægiou in gio pe-o Giappon.	JeanM	2022-06-17 18:44:43	2022-06-17 18:44:43
-98	0x62	b	268	10928942	lij	An piantou di erboi de mei.	JeanM	2022-06-21 23:56:02	2022-06-21 23:56:02
-99	0x63	c	863	10929038	lij	A l'à unna biçicletta.	JeanM	2022-06-22 00:33:12	2022-06-22 00:33:12
-100	0x64	d	829	10830572	lij	Son nasciua do 1979.	Ginna	2022-05-15 04:57:27	2022-05-15 04:57:27
-101	0x65	e	1488	10926823	lij	Ëi moute?	JeanM	2022-06-21 03:02:17	2022-06-21 03:02:17
-102	0x66	f	239	10830555	lij	A Grande Deprescion a l’é comensâ do 1929 e a l’é finia di anni 1930.	Ginna	2022-05-15 04:48:00	2022-05-15 04:48:00
-103	0x67	g	754	7843348	lij	L'é megio dî «pöveo mi» che «pövei niatri».	JeanM	2019-04-09 16:11:56	2023-11-24 06:03:15
-104	0x68	h	367	11634108	lij	A gh'à domandou ch'o â ciammesse ciù tardi, ma o se l'à ascordou.	fcquessi	2023-03-29 06:48:24	2023-03-29 06:48:24
-105	0x69	i	1466	10831125	lij	Pe sòlito l’é cado de luggio.	Ginna	2022-05-15 05:29:11	2022-05-15 05:29:11
+89	0x59	Y	7	10830568	lij	Son nasciuo do 1988 à York.	Ginna	2022-05-15 04:56:05	2022-05-15 04:56:05
+90	0x5a	Z	4	10832976	lij	Zeuggia passâ ò venduo a cà mæ.	JeanM	2022-05-16 02:03:31	2022-05-16 02:03:31
+97	0x61	a	1544	10893393	lij	Mi son pin, graçie.	JeanM	2022-06-07 03:39:00	2022-06-07 03:39:00
+98	0x62	b	268	8334632	lij	Perché ti gh'æ a bocca averta?	JeanM	2019-11-20 08:14:47	2019-11-20 08:14:47
+99	0x63	c	863	10919593	lij	Perché semmo coscì divixi?	JeanM	2022-06-17 21:45:10	2022-06-17 21:45:10
+100	0x64	d	829	10928961	lij	Studio.	JeanM	2022-06-22 00:04:46	2022-06-22 00:05:49
+101	0x65	e	1488	10926840	lij	Tutti i çigni en gianchi.	JeanM	2022-06-21 03:03:03	2022-06-21 03:03:03
+102	0x66	f	239	11634093	lij	A no l'aiva de fræ.	fcquessi	2023-03-29 06:45:59	2023-03-29 06:45:59
+103	0x67	g	754	10929133	lij	Ò de boñe oege.	JeanM	2022-06-22 02:50:21	2022-06-22 02:50:21
+104	0x68	h	367	10928946	lij	Sto erbo chì o l'é sacro.	JeanM	2022-06-21 23:57:50	2022-06-21 23:57:50
+105	0x69	i	1466	10926214	lij	Ciamma un infermê.	JeanM	2022-06-20 19:44:32	2022-06-20 19:44:32
 106	0x6a	j	1	10893360	lij	E pediñe do mahjong en davei belle.	JeanM	2022-06-07 03:29:30	2022-06-07 03:29:30
-107	0x6b	k	8	8858429	lij	Mæ poæ o leze un libbro in sciâ Germanka.	JeanM	2020-06-19 21:50:29	2020-06-19 21:50:29
-108	0x6c	l	932	8762452	lij	Bratislava a l'é a capitale da Slovacchia.	JeanM	2020-05-15 03:45:41	2020-05-15 03:45:41
-109	0x6d	m	806	10919184	lij	Mæ messiavo o l'é mouto.	JeanM	2022-06-17 18:15:02	2022-06-17 18:15:02
-110	0x6e	n	1323	10929169	lij	Carne ò pescio?	JeanM	2022-06-22 03:13:31	2022-06-22 03:13:31
-111	0x6f	o	1463	8336068	lij	O mæ nataliçio o cazze de domenega.	JeanM	2019-11-21 07:20:40	2019-11-21 07:20:40
-112	0x70	p	579	10926254	lij	A ciù parte di italien a se piggia e seu vacanse annuale d'agosto.	JeanM	2022-06-20 19:57:38	2022-06-20 19:57:38
-113	0x71	q	80	8783137	lij	Gh'é tante euve in quella scatoa.	JeanM	2020-05-23 08:17:07	2020-05-23 08:17:07
-114	0x72	r	950	10926166	lij	Bongiorno, sciâ mega!	JeanM	2022-06-20 19:31:22	2022-06-20 19:31:22
-115	0x73	s	1070	10830575	lij	Son nasciuo a-i 18 de marso do 1994.	Ginna	2022-05-15 04:58:11	2022-05-15 04:58:11
-116	0x74	t	1076	10929031	lij	A mæ biçicletta a l'é scentâ.	JeanM	2022-06-22 00:31:26	2022-06-22 00:31:26
-117	0x75	u	1004	8532659	lij	O l'à scoverto l'umiditæ into posso.	JeanM	2020-02-08 01:37:05	2020-02-08 01:37:05
-118	0x76	v	543	10668879	lij	Tom o l'à tiou træ vòtte.	JeanM	2022-02-11 10:30:32	2022-02-11 10:30:32
-119	0x77	w	3	10830676	lij	Yahoo Answers o serrià pe delongo a-i 4 de mazzo do 2021.	Ginna	2022-05-15 05:05:18	2022-05-15 05:05:18
-120	0x78	x	187	8328121	lij	Quæxi trei.	JeanM	2019-11-17 08:18:41	2019-11-17 08:18:41
-121	0x79	y	19	10928923	lij	Staggo à Tokyo.	JeanM	2022-06-21 23:50:51	2022-06-21 23:50:51
-122	0x7a	z	147	10893407	lij	T'ô lì, assazza.	JeanM	2022-06-07 03:43:19	2022-06-07 03:43:19
-171	0xab	«	13	7843348	lij	L'é megio dî «pöveo mi» che «pövei niatri».	JeanM	2019-04-09 16:11:56	2023-11-24 06:03:15
-187	0xbb	»	13	7843348	lij	L'é megio dî «pöveo mi» che «pövei niatri».	JeanM	2019-04-09 16:11:56	2023-11-24 06:03:15
-192	0xc0	À	14	8760384	lij	À Tom no ghe gusta o læte.	JeanM	2020-05-14 02:50:12	2020-05-14 02:50:12
-194	0xc2	Â	3	10926667	lij	Â tegniò con mi.	JeanM	2022-06-21 02:54:55	2022-06-21 02:54:55
-199	0xc7	Ç	7	10893324	lij	Çerni unna persoña.	JeanM	2022-06-07 03:11:11	2022-06-07 03:11:11
+107	0x6b	k	8	10830569	lij	Son nasciua do 1988 à York.	Ginna	2022-05-15 04:56:11	2022-05-15 04:56:11
+108	0x6c	l	932	10929023	lij	Tom o l'à fæto ste föto a stæ passâ.	JeanM	2022-06-22 00:28:29	2022-06-22 00:28:29
+109	0x6d	m	806	10919204	lij	O teu meistro o m'à ciammou.	JeanM	2022-06-17 18:35:58	2022-06-17 18:35:58
+110	0x6e	n	1323	8853361	lij	O savô de çioule o no me gusta.	JeanM	2020-06-18 02:25:57	2020-06-18 02:25:57
+111	0x6f	o	1463	8786260	lij	M'é ciù cao deuviâ l'euio d'oiva che o butiro.	JeanM	2020-05-24 08:56:02	2020-05-24 08:56:02
+112	0x70	p	579	8762493	lij	O l'é passou dottô do 1993.	JeanM	2020-05-15 04:24:11	2020-05-15 04:24:11
+113	0x71	q	80	10668854	lij	A persoña a-a quæ parlavimo o l'é o nòstro professô.	JeanM	2022-02-11 10:13:26	2022-02-11 10:13:26
+114	0x72	r	950	8764189	lij	Ti doviësci mette ste frase in sce Tatoeba.	JeanM	2020-05-15 21:51:39	2020-05-15 21:51:39
+115	0x73	s	1070	12110931	lij	Lê a l’é scuggiâ.	JeanM	2023-10-13 17:16:47	2023-10-13 17:16:47
+116	0x74	t	1076	10935547	lij	E poelette contëgnan di antioscidanti.	JeanM	2022-06-25 04:47:29	2022-06-25 04:47:29
+117	0x75	u	1004	10893313	lij	En apreuvo à lansâ unna neuva cadeña de produçion.	JeanM	2022-06-07 03:00:13	2022-06-07 03:00:13
+118	0x76	v	543	8328184	lij	Ò visto a mæ moggê ch'anava verso o barcon.	JeanM	2019-11-17 09:01:41	2019-11-17 09:01:41
+119	0x77	w	3	10830724	lij	I 12 de frevâ en a giornâ de Darwin.	Ginna	2022-05-15 05:07:44	2022-05-15 05:07:44
+120	0x78	x	187	8724643	lij	Lê a parla dexe lengue.	JeanM	2020-04-29 02:03:24	2020-04-29 02:03:24
+121	0x79	y	19	10926272	lij	A Emily a m'à abbrassâ.	JeanM	2022-06-20 20:03:35	2022-06-20 20:03:35
+122	0x7a	z	147	10927711	lij	Ò accattou doe dozzeñe de lapi.	JeanM	2022-06-21 04:28:09	2022-06-21 04:28:09
+171	0xab	«	13	10096109	lij	«Che no sparæ!», o l’à dito o poliçiòtto.	JeanM	2021-06-10 08:23:16	2021-06-10 08:23:16
+187	0xbb	»	13	7811249	lij	«Ah!» a l'é unn'interieçion.	JeanM	2019-03-15 13:30:19	2023-11-23 00:05:40
+192	0xc0	À	14	8329818	lij	À cöse ti pensi?	JeanM	2019-11-17 21:40:14	2019-11-17 21:40:14
+194	0xc2	Â	3	8760124	lij	Â veddiei.	JeanM	2020-05-13 22:10:30	2020-05-13 22:10:37
+199	0xc7	Ç	7	10893450	lij	Emmo vixitou Çipri.	JeanM	2022-06-07 03:55:37	2022-06-07 03:55:37
 203	0xcb	Ë	4	10926821	lij	Ëi maròtte?	JeanM	2022-06-21 03:02:13	2022-06-21 03:02:13
 206	0xce	Î	1	11253975	lij	Î ò visti che l'é dötrei menuti.	JeanM	2022-11-17 20:04:41	2022-11-17 20:04:41
-210	0xd2	Ò	48	8760422	lij	Ò unna maccia in sciâ maggia.	JeanM	2020-05-14 03:46:18	2020-05-14 03:46:18
-212	0xd4	Ô	9	10832955	lij	Ô fasso de lunesdì.	JeanM	2022-05-16 01:53:36	2022-05-16 01:53:36
-224	0xe0	à	331	8766857	lij	No parlemmo franseise à casa.	JeanM	2020-05-16 21:45:33	2020-05-16 21:45:33
-226	0xe2	â	300	10832976	lij	Zeuggia passâ ò venduo a cà mæ.	JeanM	2022-05-16 02:03:31	2022-05-16 02:03:31
-228	0xe4	ä	47	10931400	lij	Ghe gusta i fädin.	JeanM	2022-06-23 04:41:25	2022-06-23 17:23:59
-230	0xe6	æ	441	10919545	lij	I mæ denti son gianchi.	JeanM	2022-06-17 21:15:18	2022-06-17 21:15:18
-231	0xe7	ç	162	10919156	lij	E ægue de chintaña de spesso contaminan l'oçeano.	JeanM	2022-06-17 18:00:57	2022-06-17 18:00:57
-232	0xe8	è	2	8288299	lij	L'è delongo megio avei di amixi da tutte e parte.	JeanM	2019-10-27 17:56:06	2019-10-27 17:56:06
-233	0xe9	é	458	8760421	lij	Cös'a l'é quella maccia?	JeanM	2020-05-14 03:45:57	2020-05-14 03:45:57
-234	0xea	ê	102	10926205	lij	Ciamma i pompê.	JeanM	2022-06-20 19:43:01	2022-06-20 19:43:01
-235	0xeb	ë	58	10935526	lij	Vëgni, senti questo.	JeanM	2022-06-25 04:32:52	2022-06-25 04:32:52
-236	0xec	ì	118	10096134	lij	Ti ô peu mangiâ sto chì?	JeanM	2021-06-10 08:43:47	2021-06-10 08:43:47
-238	0xee	î	76	8786241	lij	Lê a l'é l'unica ch'a no l'à vosciuo vegnî.	JeanM	2020-05-24 08:39:55	2020-05-24 08:39:55
+210	0xd2	Ò	48	8762501	lij	Ò inandiou un scandaggio apòsta.	JeanM	2020-05-15 04:29:26	2020-05-15 04:29:26
+212	0xd4	Ô	9	10926670	lij	Ô tegniò con mi.	JeanM	2022-06-21 02:55:04	2022-06-21 02:55:04
+224	0xe0	à	331	10830568	lij	Son nasciuo do 1988 à York.	Ginna	2022-05-15 04:56:05	2022-05-15 04:56:05
+226	0xe2	â	300	10929016	lij	A stæ passâ a l'é stæta tremenda.	JeanM	2022-06-22 00:26:12	2022-06-22 00:26:12
+228	0xe4	ä	47	10668883	lij	E lengue minoritäie en quelle ligæ à unna çerta äia geografica; ste lengue en avvardæ.	JeanM	2022-02-11 10:32:04	2022-02-11 10:32:04
+230	0xe6	æ	441	8328196	lij	Serræ o barcon.	JeanM	2019-11-17 09:08:30	2019-11-17 09:08:30
+231	0xe7	ç	162	8802733	lij	Açendi o gazzo.	JeanM	2020-05-30 03:37:06	2020-05-30 03:37:06
+232	0xe8	è	2	7831018	lij	Se son trovæ inte unna forèsta.	JeanM	2019-03-30 20:16:39	2019-10-27 18:12:47
+233	0xe9	é	458	10668876	lij	Comm'a l'é che t'æ cattou de scioî?	JeanM	2022-02-11 10:29:48	2022-02-11 10:29:48
+234	0xea	ê	102	8532657	lij	O crövo o dixe a-o merlo: «Comme t’ê neigro!».	JeanM	2020-02-08 01:33:09	2020-02-08 01:33:09
+235	0xeb	ë	58	8724670	lij	Vëgno de luggio.	JeanM	2020-04-29 02:29:59	2022-06-24 03:41:55
+236	0xec	ì	118	10832956	lij	Cöse ti fæ lunesdì?	JeanM	2022-05-16 01:53:43	2022-05-16 01:53:43
+238	0xee	î	76	7813394	lij	Sciusciâ e sciorbî no se peu.	JeanM	2019-03-16 16:50:54	2019-03-16 16:50:58
 239	0xef	ï	1	10832972	lij	Ancheu l’é mäcordì a-i dïxeutto de ottobre.	JeanM	2022-05-16 02:00:54	2022-05-16 02:00:54
-241	0xf1	ñ	214	10929121	lij	O gh'à dæto unna stilettâ in sciâ scheña.	JeanM	2022-06-22 02:45:17	2022-06-22 02:45:17
-242	0xf2	ò	273	10926744	lij	Ean maròtti.	JeanM	2022-06-21 02:58:27	2022-06-21 02:58:27
-244	0xf4	ô	89	10830615	lij	Ti deuvi ancon un lettô de cassette? Do 2020?	Ginna	2022-05-15 05:01:52	2022-05-15 05:01:52
-246	0xf6	ö	128	10927024	lij	Un öxello o peu xoâ.	JeanM	2022-06-21 03:12:16	2022-06-21 03:12:16
-249	0xf9	ù	33	8334635	lij	Ea l'òmmo o ciù contento da Tæra.	JeanM	2019-11-20 08:17:35	2019-11-20 08:22:02
+241	0xf1	ñ	214	10893332	lij	Chi a l'é quella persoña?	JeanM	2022-06-07 03:13:19	2022-06-07 03:13:19
+242	0xf2	ò	273	10927679	lij	Aniò à stâ à Pariggi do 2021.	JeanM	2022-06-21 03:58:30	2022-06-21 03:58:30
+244	0xf4	ô	89	10926245	lij	Sta sciô a l'é de cô moelo.	JeanM	2022-06-20 19:52:38	2022-06-20 19:52:38
+246	0xf6	ö	128	10919562	lij	A l'à da pösâse.	JeanM	2022-06-17 21:33:58	2022-06-17 21:33:58
+249	0xf9	ù	33	10830884	lij	A-i 13 de mazzo do 1888 a scciavitù a l’é stæta abolia de mainea ofiçiâ in Braxî.	Ginna	2022-05-15 05:16:10	2022-05-15 05:16:10
 322	0x142	ł	1	10830539	lij	O Stanisław Lem o l’é nasciuo do 1921 à Lviv, in Polònia (ancheu Ucraiña).	Ginna	2022-05-15 04:24:52	2022-05-15 04:24:52
-8217	0x2019	’	136	10832977	lij	Ancheu l’é zeuggia a-i 5 de settembre do 2013.	JeanM	2022-05-16 02:03:49	2022-06-23 05:19:41
+8217	0x2019	’	136	10830718	lij	Frevâ o l’à solo che 28 giorni.	Ginna	2022-05-15 05:07:26	2022-05-15 05:07:26

@@ -3,6 +3,7 @@
 առաջ	+0	1	+	12076107	vxern
 Աս	+0	1	+	12387117	LatinSmallLettrAlpha
 ատեն	+0	1	+	12076104	vxern
+ատիկա	+1	1	+	12410523	Proxima5
 արտայայտութիւններ	+0	1	+	12076100	vxern
 բաց	+0	1	+	12387126	LatinSmallLettrAlpha
 բաւական	+0	1	+	12076104	vxern
@@ -11,7 +12,7 @@
 դիւրին	+0	1	+	12076109	vxern
 Դուռը	+0	1	+	12387126	LatinSmallLettrAlpha
 Երկար	+0	1	+	12076107	vxern
-եւ	+0	4	+	12076107	vxern
+եւ	+0	4	+	12076104	vxern
 է	+0	1	+	12387117	LatinSmallLettrAlpha
 Թշնամիներ	+0	1	+	12387140	LatinSmallLettrAlpha
 ժամանակ	+0	1	+	12076107	vxern
@@ -23,8 +24,11 @@
 խօսիլ	+0	1	+	12076107	vxern
 խօսիմ	+0	1	+	12076109	vxern
 խօսիր	+0	1	+	12387114	LatinSmallLettrAlpha
-կը	+0	4	+	12076104	vxern
+կը	+0	4	+	12076100	vxern
+կրկնել	+1	1	+	12410523	Proxima5
+կրնա	+1	1	+	12410523	Proxima5
 կրնամ	+0	2	+	12076104	vxern
+Հաճիս	+1	1	+	12410523	Proxima5
 Հայերէն	+0	1	+	12387114	LatinSmallLettrAlpha
 հասկնամ	+0	4	+	12076104	vxern
 հիմնական	+0	1	+	12076100	vxern
@@ -38,9 +42,10 @@
 չեմ	+0	1	+	12387114	LatinSmallLettrAlpha
 չունիմ	+0	1	+	12387140	LatinSmallLettrAlpha
 ջանքի	+0	1	+	12076107	vxern
+ս	+1	1	+	12410523	Proxima5
 սկսիմ	+0	1	+	12076100	vxern
 սորվիլ	+0	1	+	12076100	vxern
-սորվիմ	+0	2	+	12076107	vxern
+սորվիմ	+0	2	+	12076104	vxern
 Վերջերս	+0	1	+	12076100	vxern
 վստահ	+0	1	+	12076107	vxern
 Տարի	+0	1	+	12387135	LatinSmallLettrAlpha
