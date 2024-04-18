@@ -5,13 +5,9 @@ from tkinter import Button, END, Entry, Label, StringVar, Text, Tk
 
 def search():
   sourcewords = findall(r"\w[\w',:.-]*\w|\w", sourcewordsentry.get().lower())
-  sourcelanguage = findall(r"\w+", sourcelanguageentry.get().lower())
+  sourcelanguages = findall(r"\w+", sourcelanguagesentry.get().lower())
   targetwords = findall(r"\w[\w',:.-]*\w|\w", targetwordsentry.get().lower())
   targetlanguages = findall(r"\w+", targetlanguagesentry.get().lower())
-  if len(sourcelanguage) != 1:
-    resultstext.delete("1.0", END)
-    resultstext.insert(END, "Please choose exactly one source language.")
-    return
 
   arguments = []
   query = ("""
@@ -38,8 +34,11 @@ def search():
         ON sentences""" + str(i) + """.id = targetwords""" + str(i) + """x""" + str(j) + """.id AND targetwords""" + str(i) + """x""" + str(j) + """.word = ?""")
       arguments.append(targetword)
   query += ("""
-        WHERE sentences.language = ?;""")
-  arguments.append(sourcelanguage[0])
+        WHERE FALSE""")
+  for sourcelanguage in sourcelanguages:
+    query += (""" OR sentences.language = ?""")
+    arguments.append(sourcelanguage)
+  query += (""";""")
 
   cursor.execute(query, tuple(arguments))
   results = cursor.fetchall()
@@ -107,10 +106,10 @@ sourcewordslabel = Label(window, text = "Source words:")
 sourcewordslabel.pack()
 sourcewordsentry = Entry(window, textvariable = StringVar(window, value = "cat"))
 sourcewordsentry.pack()
-sourcelanguagelabel = Label(window, text = "Source language:")
-sourcelanguagelabel.pack()
-sourcelanguageentry = Entry(window, textvariable = StringVar(window, value = "eng"))
-sourcelanguageentry.pack()
+sourcelanguageslabel = Label(window, text = "Source languages:")
+sourcelanguageslabel.pack()
+sourcelanguagesentry = Entry(window, textvariable = StringVar(window, value = "eng"))
+sourcelanguagesentry.pack()
 targetwordslabel = Label(window, text = "Target words:")
 targetwordslabel.pack()
 targetwordsentry = Entry(window)
