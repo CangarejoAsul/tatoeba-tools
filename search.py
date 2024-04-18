@@ -33,12 +33,14 @@ def search():
         INNER JOIN words AS targetwords""" + str(i) + """x""" + str(j) + """
         ON sentences""" + str(i) + """.id = targetwords""" + str(i) + """x""" + str(j) + """.id AND targetwords""" + str(i) + """x""" + str(j) + """.word = ?""")
       arguments.append(targetword)
-  query += ("""
+  if sourcelanguages:
+    query += ("""
         WHERE FALSE""")
-  for sourcelanguage in sourcelanguages:
-    query += (""" OR sentences.language = ?""")
-    arguments.append(sourcelanguage)
+    for sourcelanguage in sourcelanguages:
+      query += (""" OR sentences.language = ?""")
+      arguments.append(sourcelanguage)
   query += (""";""")
+  print(query)
 
   cursor.execute(query, tuple(arguments))
   results = cursor.fetchall()
@@ -90,11 +92,11 @@ else:
   file.close()
   connection.commit()
 
-  cursor.execute("CREATE TABLE version240414 (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
+  cursor.execute("CREATE TABLE version240418 (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
   connection.commit()
 
 try:
-  cursor.execute("SELECT * FROM version240414;")
+  cursor.execute("SELECT * FROM version240418;")
 except:
   print("Please delete outdated data file.")
   quit()
