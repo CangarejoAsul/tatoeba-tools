@@ -33,6 +33,17 @@ def search():
         INNER JOIN words AS targetwords""" + str(i) + """x""" + str(j) + """
         ON sentences""" + str(i) + """.id = targetwords""" + str(i) + """x""" + str(j) + """.id AND targetwords""" + str(i) + """x""" + str(j) + """.word = ?""")
       arguments.append(targetword)
+  if not targetlanguages and targetwords:
+    query += ("""
+        INNER JOIN links AS wordlinks
+        ON sentences.id = wordlinks.source
+        INNER JOIN sentences AS wordsentences
+        ON wordlinks.target = wordsentences.id""")
+    for i, targetword in enumerate(targetwords):
+      query += ("""
+        INNER JOIN words AS targetwords""" + str(i) + """
+        ON wordsentences.id = targetwords""" + str(i) + """.id AND targetwords""" + str(i) + """.word = ?""")
+      arguments.append(targetword)
   if sourcelanguages:
     query += ("""
         WHERE FALSE""")
@@ -40,7 +51,6 @@ def search():
       query += (""" OR sentences.language = ?""")
       arguments.append(sourcelanguage)
   query += (""";""")
-  print(query)
 
   cursor.execute(query, tuple(arguments))
   results = cursor.fetchall()
