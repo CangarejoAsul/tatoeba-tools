@@ -10,8 +10,8 @@ from re import findall, I, search, sub
 from regex import findall as find
 from unicodedata import normalize
 
-minimum = 50
-minimumasian = 20
+minimum = 0
+minimumasian = 0
 
 def cleanupforhashing(text):
   text = normalize("NFKC", text)
