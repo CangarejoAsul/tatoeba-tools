@@ -6,8 +6,8 @@ from tkinter import Button, END, Entry, Label, StringVar, Text, Tk
 def search():
   sourcewords = findall(r"\w[\w',:.-]*\w|\w", sourcewordsentry.get().lower())
   sourcelanguages = findall(r"\w+", sourcelanguagesentry.get().lower())
-  minlength = int(findall(r"\d+", minlengthentry.get().lower())[0])
-  maxlength = int(findall(r"\d+", maxlengthentry.get().lower())[0])
+  minlength = int(minlengthentry.get())
+  maxlength = int(maxlengthentry.get())
   targetwords = findall(r"\w[\w',:.-]*\w|\w", targetwordsentry.get().lower())
   targetlanguages = findall(r"\w+", targetlanguagesentry.get().lower())
 
