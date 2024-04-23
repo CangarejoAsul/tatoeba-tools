@@ -6,6 +6,8 @@ from tkinter import Button, END, Entry, Label, StringVar, Text, Tk
 def search():
   sourcewords = findall(r"\w[\w',:.-]*\w|\w", sourcewordsentry.get().lower())
   sourcelanguages = findall(r"\w+", sourcelanguagesentry.get().lower())
+  minlength = int(findall(r"\d+", minlengthentry.get().lower())[0])
+  maxlength = int(findall(r"\d+", maxlengthentry.get().lower())[0])
   targetwords = findall(r"\w[\w',:.-]*\w|\w", targetwordsentry.get().lower())
   targetlanguages = findall(r"\w+", targetlanguagesentry.get().lower())
 
@@ -44,13 +46,19 @@ def search():
         INNER JOIN words AS targetwords""" + str(i) + """
         ON wordsentences.id = targetwords""" + str(i) + """.id AND targetwords""" + str(i) + """.word = ?""")
       arguments.append(targetword)
+  query += ("""
+        WHERE length(sentences.sentence) >= ? AND length(sentences.sentence) < ?""")
+  arguments.extend((minlength, maxlength))
   if sourcelanguages:
-    query += ("""
-        WHERE FALSE""")
+    query += (""" AND (FALSE""")
     for sourcelanguage in sourcelanguages:
       query += (""" OR sentences.language = ?""")
       arguments.append(sourcelanguage)
+    query += (""")""")
+  query += ("""
+        ORDER BY sentences.id DESC""")
   query += (""";""")
+  print(query)
 
   cursor.execute(query, tuple(arguments))
   results = cursor.fetchall()
@@ -102,15 +110,6 @@ else:
   file.close()
   connection.commit()
 
-  cursor.execute("CREATE TABLE version240418 (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
-  connection.commit()
-
-try:
-  cursor.execute("SELECT * FROM version240418;")
-except:
-  print("Please delete outdated data file.")
-  quit()
-
 window = Tk()
 window.title("Experimental Search")
 window.protocol("WM_DELETE_WINDOW", close)
@@ -122,6 +121,14 @@ sourcelanguageslabel = Label(window, text = "Source languages:")
 sourcelanguageslabel.pack()
 sourcelanguagesentry = Entry(window, textvariable = StringVar(window, value = "eng"))
 sourcelanguagesentry.pack()
+minlengthlabel = Label(window, text = "Min length:")
+minlengthlabel.pack()
+minlengthentry = Entry(window, textvariable = StringVar(window, value = "0"))
+minlengthentry.pack()
+maxlengthlabel = Label(window, text = "Max length:")
+maxlengthlabel.pack()
+maxlengthentry = Entry(window, textvariable = StringVar(window, value = "10000"))
+maxlengthentry.pack()
 targetwordslabel = Label(window, text = "Target words:")
 targetwordslabel.pack()
 targetwordsentry = Entry(window)
