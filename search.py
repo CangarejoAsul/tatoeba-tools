@@ -50,11 +50,8 @@ def search():
         WHERE length(sentences.sentence) >= ? AND length(sentences.sentence) < ?""")
   arguments.extend((minlength, maxlength))
   if sourcelanguages:
-    query += (""" AND (FALSE""")
-    for sourcelanguage in sourcelanguages:
-      query += (""" OR sentences.language = ?""")
-      arguments.append(sourcelanguage)
-    query += (""")""")
+    query += (" AND (" + " OR ".join(["sentences.language = ?"] * len(sourcelanguages)) + ")")
+    arguments.extend(sourcelanguages)
   query += ("""
         ORDER BY sentences.id DESC""")
   query += (""";""")
