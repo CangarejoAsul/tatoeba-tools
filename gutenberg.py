@@ -103,6 +103,7 @@ def findsentences():
 
   frequency = {}
   untranslated = set()
+  terms = []
   file = open("frequency.txt", "r", encoding = "utf-8")
   for line in file:
     fields = findall(r"[^\t\n]+", line)
@@ -110,6 +111,7 @@ def findsentences():
       frequency[fields[0]] = int(fields[2])
       if len(untranslated) < 1000 and fields[0] not in translated:
         untranslated.add(fields[0])
+        terms.append(fields[0])
   file.close()
 
   i = 0
@@ -143,7 +145,7 @@ def findsentences():
     text.close()
 
   file = open("sentences.txt", "w", encoding = "utf-8")
-  for word in untranslated:
+  for word in terms:
     shuffle(sentences[word])
     sentences[word].sort(key = lambda tuple: tuple[2], reverse = True)
     for sentence in sentences[word][: 20]:
@@ -152,10 +154,12 @@ def findsentences():
 
 def findsentences2():
   dictionary = set()
+  fragments = set()
   file = open("eng.txt", "r", encoding = "utf-8")
   for line in file:
     fields = findall(r"[^\t\n]+", line)
     dictionary.add(fields[0].lower())
+    fragments.update(findall(r"\w+", fields[0].lower()))
   file.close()
 
   translated = set()
@@ -177,8 +181,67 @@ def findsentences2():
   i = 0
   frequency = {}
   sentences = {}
-  for word in untranslated:
-    sentences[word] = list(range(20))
+  for file in scandir("gutenberg"):
+    text = open(file.path, "r", encoding = "utf-8")
+    try:
+      string = sub(r"\s+", " ", text.read())
+    except:
+      text.close()
+      continue
+    if len(sub(r"[^a-z]", "", string, flags = I)) / len(string) >= .5:
+      for sentence in findall(r""".+?(?<!\bDr)(?<!\bMr)(?<!\bMrs)(?<!\bMs)(?<!\bSt)[.?!]+""", string, flags = I):
+        if len(sentence) >= 100 and len(sentence) < 200 and all(fragment in fragments for fragment in findall(r"\w+", sentence.lower())):
+          for word in getwords(sentence.lower()):
+            if word in untranslated:
+              if word not in frequency:
+                frequency[word] = 0
+              frequency[word] += 1
+              if word not in sentences:
+                sentences[word] = [("", "", "") for _ in range(20)]
+              for i in range(20):
+                if randint(1, frequency[word]) == 1:
+                  sentences[word][i] = (word, file.name, sentence)
+    text.close()
+
+  file = open("sentences2.txt", "w", encoding = "utf-8")
+  words = list(sentences.keys())
+  shuffle(words)
+  for word in words:
+    if word in sentences:
+      shuffle(sentences[word])
+      for sentence in sentences[word]:
+        print(*sentence, sep = "\t", file = file)
+  file.close()
+
+def findsentences3():
+  dictionary = set()
+  fragments = set()
+  file = open("eng.txt", "r", encoding = "utf-8")
+  for line in file:
+    fields = findall(r"[^\t\n]+", line)
+    dictionary.add(fields[0].lower())
+    fragments.update(findall(r"\w+", fields[0].lower()))
+  file.close()
+
+  translated = set()
+  file = open("translations-eng-por.txt", "r", encoding = "utf-8")
+  for line in file:
+    fields = findall(r"[^\t\n]+", line)
+    if fields[2] != "0":
+      translated.add(fields[0])
+  file.close()
+
+  untranslated = set()
+  file = open("frequency.txt", "r", encoding = "utf-8")
+  for line in file:
+    fields = findall(r"[^\t\n]+", line)
+    if isvalidword(fields[0]) and fields[0] in dictionary and fields[0] not in translated and int(fields[2]) >= 100:
+      untranslated.add(fields[0])
+  file.close()
+
+  i = 0
+  frequency = {}
+  sentences = {}
   for file in scandir("gutenberg"):
     text = open(file.path, "r", encoding = "utf-8")
     try:
@@ -194,20 +257,18 @@ def findsentences2():
               if word not in frequency:
                 frequency[word] = 0
               frequency[word] += 1
-              for i in range(20):
-                if randint(1, frequency[word]) == 1:
-                  sentences[word][i] = (word, file.name, sentence)
+              if randint(1, frequency[word]) == 1:
+                sentences[word] = (word, file.name, sentence)
     text.close()
 
-  file = open("sentences2.txt", "w", encoding = "utf-8")
-  words = list(sentences.keys())
+  file = open("sentences3.txt", "w", encoding = "utf-8")
+  words = list(sentences)
   shuffle(words)
   for word in words:
-    shuffle(sentences[word])
-    for sentence in sentences[word]:
-      print(*sentence, sep = "\t", file = file)
+    print(*sentences[word], sep = "\t", file = file)
   file.close()
 
 countwords()
 findsentences()
-findsentences2()
+# findsentences2()
+# findsentences3()

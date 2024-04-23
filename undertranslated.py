@@ -1,4 +1,4 @@
-from random import shuffle
+from random import randint, shuffle
 from re import findall, sub
 
 source = "eng"
@@ -37,35 +37,31 @@ def getwords(text):
 
 read = open("translations-" + source + "-" + target + ".txt", "r", encoding = "utf-8")
 translations = {}
-data = {}
 for line in read:
   fields = findall(r"[^\t\n]+", line)
   translations[fields[0]] = int(fields[2])
-  if fields[0] not in data:
-    data[fields[0]] = [int(fields[1]), int(fields[2]), fields[3], fields[4], fields[5]]
-  else:
-    data[fields[0]][0] += int(fields[1])
-    data[fields[0]][1] += int(fields[2])
 read.close()
 
-read = open("text.txt", "r", encoding = "utf-8")
+file = open("text.txt", "r", encoding = "utf-8")
+text = sub(r"\s+", " ", file.read())
+file.close()
+
 words = set()
-for line in read:
-  for word in getwords(line.lower()):
+frequency = {}
+sample = {}
+for sentence in findall(r".+?(?<!\bMr)[.?!]\W* (?=\W*[A-Z])", text):
+  for word in getwords(sentence.lower()):
     if word not in translations or translations[word] < threshold:
       words.add(word)
-read.close()
+      if word not in frequency:
+        frequency[word] = 0
+      frequency[word] += 1
+      if randint(1, frequency[word]) == 1:
+        sample[word] = sentence
 words = list(words)
-# words.sort()
-# words.sort(key = cleanupforsorting)
 shuffle(words)
 
 write = open("words.txt", "w", encoding = "utf-8")
 for word in words:
-  print(word, file = write)
-write.close()
-
-write = open("translations-" + source + "-" + target + "-clean.txt", "w", encoding = "utf-8")
-for word in data:
-  print(word, str(data[word][0]), str(data[word][1]), data[word][2], data[word][3], data[word][4], file = write)
+  print(word, frequency[word], sample[word], sep = "\t", file = write)
 write.close()
