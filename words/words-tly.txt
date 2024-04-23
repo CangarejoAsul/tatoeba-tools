@@ -1,7 +1,7 @@
 ah	+0	1	+	5362519	vo_gne
 Akış	+0	1	+	5362488	vo_gne
 Ali	+0	1	+	5362499	vo_gne
-anq	+0	2	+	5362509	vo_gne
+anq	+0	2	+	5362504	vo_gne
 Asb	+0	1	+	5998613	vo_gne
 Aşbül	+0	1	+	5362516	vo_gne
 Avəvü	+0	1	+	5362454	vo_gne
@@ -10,7 +10,7 @@ azmiş	+0	1	+	5362482	vo_gne
 ağıl	+0	1	+	5362463	vo_gne
 Bark	+0	1	+	5336137	vo_gne
 bavindem	+0	1	+	5336139	vo_gne
-be	+0	2	+	5336135	vo_gne
+be	+0	2	+	5336137	vo_gne
 bebəşe	+0	1	+	5362494	vo_gne
 bedə	+0	1	+	5336139	vo_gne
 bim	+0	1	+	5741571	vo_gne
@@ -19,14 +19,14 @@ bıbān	+0	1	+	5741561	vo_gne
 Bıbaxşən	+0	1	+	5741575	vo_gne
 Bıhand	+0	1	+	5415722	vo_gne
 Bışi	+0	1	+	5415726	vo_gne
-Bə	+0	3	+	5362463	vo_gne
-bə	+0	5	+	5741578	vo_gne
-bəhs	+0	2	+	5362435	vo_gne
+Bə	+0	3	+	5362383	vo_gne
+bə	+0	5	+	5362378	vo_gne
+bəhs	+0	2	+	5362443	vo_gne
 Bəke	+0	1	+	5415728	vo_gne
 çande	+0	1	+	5741577	vo_gne
 çi	+0	1	+	5362519	vo_gne
 Çiç	+0	1	+	5344182	vo_gne
-çiçe	+0	2	+	5379941	vo_gne
+çiçe	+0	2	+	5741565	vo_gne
 Çoke	+0	1	+	5741573	vo_gne
 çoke	+0	1	+	5362419	vo_gne
 Çokoyon	+0	1	+	5741556	vo_gne
@@ -50,8 +50,8 @@ heste	+0	1	+	5362519	vo_gne
 hordəş	+0	1	+	5344182	vo_gne
 Həşi	+0	1	+	5362494	vo_gne
 Həvo	+0	1	+	5336135	vo_gne
-i	+0	2	+	5336139	vo_gne
-Imruj	+0	7	+	5741600	vo_gne
+i	+0	2	+	5362443	vo_gne
+Imruj	+0	7	+	5741594	vo_gne
 İşānbəye	+0	1	+	5741594	vo_gne
 Iştı	+0	1	+	5379941	vo_gne
 Jinə	+0	1	+	5362509	vo_gne
@@ -85,7 +85,7 @@ müəlliməye	+0	1	+	5415718	vo_gne
 mı	+0	2	+	5362435	vo_gne
 Mınış	+0	1	+	5362475	vo_gne
 mədə	+0	1	+	5362463	vo_gne
-məktəb	+0	2	+	5415687	vo_gne
+məktəb	+0	2	+	5362378	vo_gne
 məktəbış	+0	1	+	5362499	vo_gne
 məkə	+0	1	+	5362435	vo_gne
 Məmnun	+0	1	+	5741571	vo_gne
@@ -126,7 +126,7 @@ sə	+0	1	+	5362499	vo_gne
 Şəkləkəş	+0	1	+	5342276	vo_gne
 Sənırəsəym	+0	1	+	5741581	vo_gne
 Şəv	+0	1	+	5741578	vo_gne
-Tolışi	+0	2	+	5375658	vo_gne
+Tolışi	+0	2	+	5741558	vo_gne
 Tıni	+0	1	+	5362310	vo_gne
 təxminən	+0	1	+	5336139	vo_gne
 ve	+0	1	+	5336126	vo_gne
@@ -141,7 +141,7 @@ zındəyon	+0	1	+	5741558	vo_gne
 zıvoni	+0	1	+	5375658	vo_gne
 Zəhmət	+0	1	+	5741563	vo_gne
 ğonəğ	+0	1	+	5362386	vo_gne
-ıştı	+0	2	+	5362471	vo_gne
+ıştı	+0	2	+	5362519	vo_gne
 Ə	+0	1	+	5362419	vo_gne
 Əv	+0	3	+	5362482	vo_gne
 əy	+0	1	+	5362437	vo_gne

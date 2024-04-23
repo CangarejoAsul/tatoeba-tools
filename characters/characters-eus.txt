@@ -1,84 +1,84 @@
-32	0x20	 	6108	6788134	eus	Tom telebista piztuta uzten du egun osoan.	Mourouh	2018-03-22 08:09:57	2018-03-22 08:09:57
-33	0x21	!	306	6020927	eus	Zelako ile luzea duzun!	JUNE_EUSKARA	2017-04-18 12:40:11	\N
-34	0x22	"	54	670968	eus	Tatoeba honi "Saioa itxi" botoia falta zaio.	gorkaazk	2010-12-17 11:21:46	2010-12-17 11:21:46
-37	0x25	%	7	3382633	eus	Alderdi Sozialistak botoen %18a besterik ez zuen lortu.	eneko	2014-07-16 00:26:31	2014-07-16 00:26:31
-39	0x27	'	3	5203831	eus	Zenbat 'home run' lortu du Tomek?	Mikel47	2016-06-10 10:12:52	2016-06-10 10:12:52
+32	0x20	 	6108	6126916	eus	Tomek Mary hori ez zuela egin behar zekien.	Mireen10	2017-06-03 11:10:58	\N
+33	0x21	!	306	2036734	eus	Zoriontsu Amaren eguna!	Balamax	2012-11-25 07:04:00	2012-11-25 07:04:00
+34	0x22	"	54	938640	eus	Pelek Neymarri txantxetan: "Salatuko zaitut orrazkera kopiatzeagatik".	josebleimer1995	2011-06-14 10:45:22	2011-06-14 10:45:33
+37	0x25	%	7	5164333	eus	Lehenengo aldiz, duela 6 urte baino gehiago, langabezi tasa %6aren azpitik dago.	oihaneleioa	2016-05-25 08:44:34	2016-05-25 08:44:34
+39	0x27	'	3	5164933	eus	Dislexia daukagun guztiok ez genuen txikitan 'd' eta 'b' nahasten.	gorkaazk	2016-05-25 17:13:11	2016-05-25 17:13:11
 40	0x28	(	10	884926	eus	Lurraldeka, EAEn 15 urtetik gorako elebidunak %30,1 dira (1991n baino 6 puntu gehiago -%24,1-), Iparraldean %22,5 (1991n baino 11 puntu gutxiago -%33,1-) eta Nafarroan %11,1 (1991n baino 1,6 puntu gehiago -%9,5-).	gorkaazk	\N	\N
-41	0x29	)	10	532276	eus	Abarrik badago zurrinean (ganbaran), pertza gar-gar su gainean.	gorkaazk	2010-09-25 11:22:13	2010-09-25 11:22:13
+41	0x29	)	10	3450366	eus	(Aldarrikapenaren 13. atala - 1.). Pertsona orok du joan eta etorri aske ibiltzeko eskubidea eta Estatu baten lurraldean bizilekua aukeratzekoa.	gorkaazk	2014-08-23 18:33:39	2014-08-23 18:34:09
 43	0x2b	+	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
-44	0x2c	,	674	863369	eus	Sentitzen dut min egin izana, barkaidazu.	Leynaf	2011-04-28 13:29:47	2011-04-28 13:29:47
-45	0x2d	-	232	3450366	eus	(Aldarrikapenaren 13. atala - 1.). Pertsona orok du joan eta etorri aske ibiltzeko eskubidea eta Estatu baten lurraldean bizilekua aukeratzekoa.	gorkaazk	2014-08-23 18:33:39	2014-08-23 18:34:09
-46	0x2e	.	4610	8939137	eus	Tom ez du hori egingo.	GoiKira	2020-07-25 15:15:58	2020-07-25 15:15:58
+44	0x2c	,	674	5180013	eus	Atea ixti dut, ziur naiz.	Oier25	2016-05-31 17:20:49	2016-06-06 19:08:48
+45	0x2d	-	232	6768332	eus	Ez dakit zer egingo dudan Tom-ekin	maialen45D	2018-03-13 14:52:22	2018-03-13 14:52:22
+46	0x2e	.	4610	6058124	eus	Kontatu iezaiozu dakizuna.	victor45d	2017-05-05 10:21:21	\N
 47	0x2f	/	1	941924	eus	Munduko herrialderik zabalena Errusia da. 21, Gustazen zaizu neska/mutil hori?	melissa83	2011-06-17 13:05:49	2011-06-17 13:05:49
-48	0x30	0	42	3388056	eus	"Zer ordu da?" "3:20ak dira."	eneko	2014-07-20 00:04:51	2014-07-20 00:04:51
-49	0x31	1	53	3375821	eus	Kyoton jaio nintzen 1980an.	eneko	2014-07-13 00:38:05	2014-07-13 00:38:05
-50	0x32	2	26	941924	eus	Munduko herrialderik zabalena Errusia da. 21, Gustazen zaizu neska/mutil hori?	melissa83	2011-06-17 13:05:49	2011-06-17 13:05:49
-51	0x33	3	30	6831741	eus	Egon ginen ikasten gaurko azterketarako 2:30k arte.	LeireM15	2018-04-12 06:50:30	2018-04-12 06:50:30
-52	0x34	4	9	917071	eus	Amerikako leheh kolonizatzailea Colombus izan zen, 1492an ailegatu zen.	rachid	2011-05-31 09:49:26	2011-05-31 09:49:26
-53	0x35	5	18	884926	eus	Lurraldeka, EAEn 15 urtetik gorako elebidunak %30,1 dira (1991n baino 6 puntu gehiago -%24,1-), Iparraldean %22,5 (1991n baino 11 puntu gutxiago -%33,1-) eta Nafarroan %11,1 (1991n baino 1,6 puntu gehiago -%9,5-).	gorkaazk	\N	\N
-54	0x36	6	14	862346	eus	Partida berdinketan amaitu zen 6-6 emaitzarekin.	garikolc	2011-04-27 20:50:34	2011-04-27 20:50:34
-55	0x37	7	11	3375829	eus	Osakan jaio nintzen 1977. urtean.	eneko	2014-07-13 00:40:59	2014-07-13 00:40:59
-56	0x38	8	16	3375821	eus	Kyoton jaio nintzen 1980an.	eneko	2014-07-13 00:38:05	2014-07-13 00:38:05
-57	0x39	9	32	6879285	eus	Nire aita esan zidan II. mundu gerra 1945. urtean bukatu zela.	Claudia63d	2018-05-07 08:45:05	2018-05-07 08:45:05
-58	0x3a	:	26	896476	eus	casilla: dende guztiak ikusi da busquestena	josebleimer1995	2011-05-17 11:33:36	2011-05-17 11:33:36
-59	0x3b	;	14	5129939	eus	Ezin dut entzun zer diozun; zarata gehiegi hemen.	gorkaazk	2016-05-11 08:47:38	2016-05-11 08:48:00
+48	0x30	0	42	922252	eus	19 urte azpikoen selekzionak 3-0 iraban zion Errumaniari	josebleimer1995	2011-06-03 10:49:50	2011-06-03 10:49:50
+49	0x31	1	53	667586	eus	2010 urteko urrianren 13 an Briñasera joan ginen.	Nina_1A	2010-12-15 10:43:43	2010-12-15 10:43:43
+50	0x32	2	26	5187556	eus	Etxe bat erosi nuen 2013an.	olaialeioa	2016-06-03 06:32:20	2016-06-03 06:32:20
+51	0x33	3	30	6894654	eus	Duela 3 urte, sari internazional bat eman zizueten.	Ane	2018-05-16 20:45:35	2018-05-16 20:45:35
+52	0x34	4	9	884925	eus	2006ko datuen arabera, Euskal Herriko 15 urtetik gorako biztanleen %25,7 elebiduna da (1991n baino 3,4 puntu gehiago -%22,3-), %15,4 elebidun hartzailea eta %58,9 erdaldun elebakarra.	gorkaazk	\N	\N
+53	0x35	5	18	1332927	eus	Arratsaldeko 5etan iritsiko naiz horra.	txoriburu	2012-01-01 16:11:41	2012-01-01 16:11:41
+54	0x36	6	14	5178985	eus	16 urte beteko ditut hurrengo hilean.	Raquelremen	2016-05-31 13:23:00	2016-05-31 13:23:00
+55	0x37	7	11	3375828	eus	Osakan jaio nintzen 1977an.	eneko	2014-07-13 00:40:53	2014-07-13 00:40:53
+56	0x38	8	16	3372795	eus	Armeniak 1918ko maiatzaren 26an aldarrikatu zuen bere independentzia.	eneko	2014-07-11 12:03:01	2014-07-11 12:03:01
+57	0x39	9	32	1332948	eus	1974-ko ekainaren 4an jaio nintzen.	txoriburu	2012-01-01 16:20:00	2012-01-01 16:20:00
+58	0x3a	:	26	922283	eus	Torres: " ez zitzaidan burutik pasata zerrendatik kampo geratzea."	josebleimer1995	2011-06-03 11:13:36	2011-06-03 11:13:36
+59	0x3b	;	14	5132921	eus	Albisterik ez; berri ona.	gorkaazk	2016-05-12 08:34:02	2016-05-12 08:34:02
 60	0x3c	<	1	5188607	eus	<<Nola zaude?>> <<Ondo nago, eskerrik asko.>>	AsierTru	2016-06-03 13:56:10	2016-06-03 13:56:10
 61	0x3d	=	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
 62	0x3e	>	1	5188607	eus	<<Nola zaude?>> <<Ondo nago, eskerrik asko.>>	AsierTru	2016-06-03 13:56:10	2016-06-03 13:56:10
-63	0x3f	?	1063	6667611	eus	Zein da zure iritzia Estatu Batuei buruz?	Another_Trans_Boy	2018-02-01 15:39:59	2018-02-01 15:39:59
-65	0x41	A	431	4838194	eus	Adeitasunez	basaundi	2016-01-17 03:14:52	2016-01-17 03:14:52
-66	0x42	B	690	5164338	eus	Bizitza on bat nahi dut nire familiarentzako.	oihaneleioa	2016-05-25 08:45:59	2016-05-25 08:45:59
-67	0x43	C	27	6892636	eus	PC kultura, ona ala txarra da	BegoArana	2018-05-15 13:47:00	2018-05-15 13:47:00
-68	0x44	D	118	967798	eus	Denori ametsa gauza lezakela sinesteko gogoa heltzen zaio.	pilpuye	2011-06-30 15:31:44	2011-07-05 12:09:49
-69	0x45	E	995	3372861	eus	Elurra ari du.	eneko	2014-07-11 12:27:28	2014-07-11 12:27:28
-70	0x46	F	62	6933750	eus	Paris Frantzian dago.	Leire45D	2018-06-07 16:19:40	2018-06-07 16:19:40
-71	0x47	G	399	861176	eus	Gehiegi edan nuela uste dut.	Leynaf	2011-04-27 14:03:18	2011-04-27 14:03:18
-72	0x48	H	544	6892952	eus	Hitzeman zion erantzungo ziola, baina ez zuen inoiz egin.	naiaj	2018-05-15 18:53:28	2018-05-15 18:53:28
-73	0x49	I	267	6020913	eus	Igogailua dugu gure etxe berrian.	JUNE_EUSKARA	2017-04-18 12:35:15	\N
-74	0x4a	J	157	4838243	eus	Jaiki!	basaundi	2016-01-17 03:42:43	2016-01-17 03:42:43
-75	0x4b	K	211	5180154	eus	Kontzerturako sarrerak hementxe daude salgai.	Oier25	2016-05-31 17:46:32	2016-05-31 17:46:32
-76	0x4c	L	306	6610060	eus	Lotan berriz geratu nintzen.	Aletxu45D	2018-01-16 14:46:06	2018-04-10 13:40:44
-77	0x4d	M	336	874245	eus	Mutila etxera bueltatu da.	melissa83	\N	\N
-78	0x4e	N	578	3375792	eus	Nire gurasoekin bizi naiz.	eneko	2014-07-12 23:57:03	2014-07-12 23:57:03
-79	0x4f	O	197	862437	eus	Oso potolo nago!	garikolc	2011-04-27 21:26:02	2011-04-27 21:26:02
-80	0x50	P	155	5179001	eus	Paisai hau zoragarria da.	Raquelremen	2016-05-31 13:25:58	2016-05-31 13:25:58
-81	0x51	Q	2	667872	eus	Ekuadorreko hiribura Quito da, mendialdeko Pichincha probintzian.	melissa83	2010-12-15 13:50:14	2010-12-15 13:50:14
-82	0x52	R	29	884880	eus	Real Madrideko jokalari beriak Cristiano Ronaldorekin aldalekua partekatzeko smetsa bete du	jose_bleimer	\N	\N
-83	0x53	S	219	6072423	eus	Laylak ez du Sami-rekin egon nahi.	2013ik65	2017-05-12 10:39:53	\N
-84	0x54	T	697	6885640	eus	Tom ezagutzen du Mariri,ezta?	Sebas42A	2018-05-10 21:00:57	2018-07-08 03:43:30
-85	0x55	U	123	6892645	eus	Egon da sufrimendu nahiko, hilketak eta destrukzioa. Utzi orain.	BegoArana	2018-05-15 13:55:10	2018-05-15 13:55:10
-86	0x56	V	11	3379851	eus	Vesuvio eta Etna dira Italiako bi sumendirik ezagunenak.	eneko	2014-07-14 12:35:59	2014-07-14 12:35:59
-87	0x57	W	9	6636543	eus	Windows-en bezterik ez dabil.	Another_Trans_Boy	2018-01-29 15:38:16	2018-01-29 15:44:39
-88	0x58	X	5	6000784	eus	Xake-piezak dira peoia, zaldia, alfila, dorrea, dama eta erregea.	Mikel45D	2017-04-07 10:11:40	\N
-89	0x59	Y	7	5200536	eus	YouTuben iragarki asko daude.	olaialeioa	2016-06-08 08:48:14	2016-06-08 08:48:14
-90	0x5a	Z	593	6839629	eus	Zutaz fidatzen naiz guztiz.	Lorea63D	2018-04-16 08:57:19	2018-04-16 08:57:19
+63	0x3f	?	1063	726385	eus	Zenbat pertsonak daude Europan?	melissa83	2011-01-25 10:26:53	2011-01-25 10:26:53
+65	0x41	A	431	6937982	eus	Aldaketa asko egin dituzte.	Camilaportugalete	2018-06-10 14:50:10	2018-06-10 14:50:10
+66	0x42	B	690	6894666	eus	Beste gauza batzuk baino gehiago gustatzen zait.	Ane	2018-05-16 20:51:10	2018-05-16 20:51:10
+67	0x43	C	27	884880	eus	Real Madrideko jokalari beriak Cristiano Ronaldorekin aldalekua partekatzeko smetsa bete du	jose_bleimer	\N	\N
+68	0x44	D	118	932520	eus	Doktorea da?	gorkaazk	2011-06-10 13:41:15	2011-06-10 13:41:15
+69	0x45	E	995	858659	eus	Ez dakit. Bapatean gertatu zen dena.	aidepotro4	2011-04-26 20:27:43	2011-04-26 20:27:43
+70	0x46	F	62	496488	eus	Fatan botatzen zaitut.	garazinm	2010-09-03 17:06:39	2010-09-03 17:06:39
+71	0x47	G	399	6634062	eus	Gaur inspirazioa falta zait.	Another_Trans_Boy	2018-01-27 16:30:02	2018-01-27 16:30:02
+72	0x48	H	544	6018782	eus	Harritzen nau berak horrelako gauza bat egitea.	JUNE_EUSKARA	2017-04-17 10:57:36	\N
+73	0x49	I	267	5369290	eus	Ilargian, nire pisua 15 kg soilik litzateke.	basaundi	2016-08-25 07:42:08	2016-08-25 07:42:08
+74	0x4a	J	157	932532	eus	Jendearen gustukoa da oso atsegina delako.	gorkaazk	2011-06-10 13:42:57	2011-06-10 13:42:57
+75	0x4b	K	211	666118	eus	Kaixo. Zer moduz?	ediomara	2010-12-14 10:04:47	2011-01-01 19:21:15
+76	0x4c	L	306	6790295	eus	Liburu honek hogeita hamar dolar kostatu izan du.	teeeresarus	2018-03-23 07:48:54	2018-03-23 07:48:54
+77	0x4d	M	336	6626696	eus	Tomek ez luke Mary bakarrik utzi beharko.	Gorane	2018-01-23 14:25:44	2018-02-20 14:46:03
+78	0x4e	N	578	6058113	eus	Nik etxea ikusi nuen.	Amaia45d	2017-05-05 10:18:00	\N
+79	0x4f	O	197	6788149	eus	Oraindik nahi duzu te pixka bat?	iraidedorado	2018-03-22 08:16:22	2018-03-22 11:56:41
+80	0x50	P	155	3450366	eus	(Aldarrikapenaren 13. atala - 1.). Pertsona orok du joan eta etorri aske ibiltzeko eskubidea eta Estatu baten lurraldean bizilekua aukeratzekoa.	gorkaazk	2014-08-23 18:33:39	2014-08-23 18:34:09
+81	0x51	Q	2	11758746	eus	Gora Quebec Askatuta!	Fenrir	2023-05-12 22:41:03	2023-05-12 22:41:03
+82	0x52	R	29	932229	eus	Real Madridet Neymar fitxatu nahi du eta Santosen urtebete utzi.	josebleimer1995	2011-06-10 11:04:08	2011-06-10 11:04:22
+83	0x53	S	219	6768839	eus	Samik hori ulertu ahal du.	teeeresarus	2018-03-13 19:07:43	2018-03-13 19:07:43
+84	0x54	T	697	6631228	eus	Tom arropa erabiltzen ari da	Maria64D	2018-01-26 08:07:09	2018-01-26 08:07:09
+85	0x55	U	123	6827124	eus	Uste dut hogeita hamar dolar prezio altuegia dela hau ordaintzeko.	Danel_Leon	2018-04-09 08:54:08	2018-04-23 08:43:54
+86	0x56	V	11	667616	eus	Errusia da munduko estaturik handiena eta Vatikano da munduko estaturik txikiena.	Carlos_Haro_1A	2010-12-15 11:06:18	2010-12-15 11:06:18
+87	0x57	W	9	3800338	eus	Zer da "Wei Ji Bai Ke"?	basaundi	2015-01-26 14:03:57	2015-01-26 14:03:57
+88	0x58	X	5	8937837	eus	Xake-mate!	basaundi	2020-07-25 00:58:31	2020-07-25 00:58:31
+89	0x59	Y	7	1361431	eus	Yarda bat hiru oin dira.	txoriburu	2012-01-14 21:48:56	2012-01-14 21:48:56
+90	0x5a	Z	593	6682663	eus	Zure txakurra hipoalergenikoa da?	Anne_53D_	2018-02-10 20:46:36	2018-02-10 20:46:36
 95	0x5f	_	1	6782226	eus	Noiz aurkitu zuen Tomek Mary John_ekin ikusten ari zela?	Danel_Leon	2018-03-19 09:57:05	2018-03-19 09:57:05
-97	0x61	a	6110	863356	eus	Arrasti on, zelan?	Leynaf	2011-04-28 13:18:14	2011-04-28 13:18:14
-98	0x62	b	2671	4085930	eus	Nire autoa zuhaitz hau baino zaharragoa da.	eneko	2015-04-18 13:14:28	2015-04-18 13:14:28
-99	0x63	c	49	6876577	eus	Apaiz katolikoek ''cellibato''a praktikatzen dute	saraheviaeuskara	2018-05-05 15:09:09	2018-05-05 15:09:09
-100	0x64	d	4465	3800270	eus	Bere dirua poltsan sartzen du.	basaundi	2015-01-26 13:41:49	2015-01-26 13:41:49
-101	0x65	e	5700	6731761	eus	Tom, zu laguntzeko kapaza dela uste dut.	Alvaroerice6	2018-03-03 12:00:55	2018-03-03 12:00:55
-102	0x66	f	248	3382533	eus	Luis Bonfa musikari bikaina da.	eneko	2014-07-15 22:16:23	2014-07-15 22:16:23
-103	0x67	g	3215	6879313	eus	Zer gertatuko den ezin duzu inoiz jakin.	ekeno	2018-05-07 08:54:35	2018-05-07 08:54:35
-104	0x68	h	2199	6839661	eus	Zu beher zaitut, Tom.	Anderokariz	2018-04-16 09:05:57	2018-04-16 09:05:57
-105	0x69	i	5537	1361428	eus	Dolar batek 110 yen balio ditu.	txoriburu	2012-01-14 21:46:44	2012-01-14 21:46:44
-106	0x6a	j	574	6088936	eus	Maryk bere katuarekin jolasten ari da.	Amaia45d	2017-05-19 10:17:44	\N
-107	0x6b	k	4096	3069127	eus	Ez ziren lanpeturik.	gorkaazk	2014-02-28 17:53:29	2014-02-28 17:53:29
-108	0x6c	l	2857	5657145	eus	Mathias eta biok Helenerekin unibertsitaten gara.	Marilenium	2016-12-04 12:30:06	2016-12-04 12:31:51
-109	0x6d	m	1804	3372718	eus	Litioa, sodioa, potasioa, rubidioa, zesioa eta frantzioa metal alkalinoak dira.	eneko	2014-07-11 11:52:04	2014-07-11 11:52:04
-110	0x6e	n	5194	5187672	eus	Filma ematen ari dira orain zure hurbileko antzokian.	AsierTru	2016-06-03 07:06:36	2016-06-03 07:06:36
-111	0x6f	o	4552	6771625	eus	Mary hil genuela konfesatu genuen.	teeeresarus	2018-03-14 18:29:45	2018-03-14 18:29:45
-112	0x70	p	929	6768863	eus	Alpetara joango gara eskiatzera.	teeeresarus	2018-03-13 19:17:50	2018-03-13 19:17:50
-113	0x71	q	5	932190	eus	Piquék Mouri: "Isilik hobe".	josebleimer1995	2011-06-10 10:49:48	2011-06-10 10:49:48
-114	0x72	r	5090	6138286	eus	Tomek eta Marik hori egiten ari dira oraintxe bertan.	2013ik65	2017-06-09 10:37:18	\N
-115	0x73	s	2793	5185321	eus	Ez nuen pentsatu hori egin ahal izango genuela.	olaialeioa	2016-06-02 07:04:33	2016-06-02 07:04:33
-116	0x74	t	5113	5180091	eus	Ez gaude ezer egiten.	Oier25	2016-05-31 17:34:06	2016-06-06 19:06:58
-117	0x75	u	4898	6595059	eus	Ordu bi eta erdietan ikusiko zaitut.	naroa_euskara	2018-01-08 10:03:03	2018-01-08 10:03:03
-118	0x76	v	21	5188716	eus	Tom violinista moduan ospetsua egin zen.	AsierTru	2016-06-03 14:43:19	2016-06-03 14:43:19
-119	0x77	w	12	11372184	eus	Ludwig dut izena.	Txoria	2022-12-25 17:15:48	2022-12-25 17:15:48
-120	0x78	x	623	670853	eus	Txoriari arroza gustatzen zaio	aye1995	2010-12-17 10:49:05	2010-12-17 10:49:05
-121	0x79	y	228	6891571	eus	Nire arreba Lyme gaixotasuna dauka.	Quibia	2018-05-14 18:15:07	2018-05-14 18:15:07
-122	0x7a	z	4712	5183459	eus	Euskaraz subjektu iragankorrak ergatibo atzizkia behar du.	gorkaazk	2016-06-01 15:58:20	2016-06-01 15:59:58
+97	0x61	a	6110	3800298	eus	Zure liburua atsegin dut.	basaundi	2015-01-26 13:50:52	2015-01-26 13:50:52
+98	0x62	b	2671	5369262	eus	Ez al da hobe Tomi galdetzea?	basaundi	2016-08-25 07:21:42	2016-08-25 07:21:42
+99	0x63	c	49	6873596	eus	Paco hirien paisaiak marrazten ditu.	nay	2018-05-04 06:55:54	2018-05-04 07:15:51
+100	0x64	d	4465	1332389	eus	Alhambra Nazar sultanaren agindupean eraikitzen hasi zen eta hamalaugarren menderarte iraun zuten lanek.	txoriburu	2011-12-31 14:25:24	2011-12-31 14:25:24
+101	0x65	e	5700	412875	eus	Edozein izanda ere igual dio.	jmli	2010-06-26 19:48:45	2010-06-28 20:39:11
+102	0x66	f	248	917020	eus	Parisera frantsesa ikastera Joan zen .	Natanael	2011-05-31 09:19:43	2011-05-31 09:19:43
+103	0x67	g	3215	6635042	eus	Sentitzen dut, ez dugu txekerik onartzen.	Another_Trans_Boy	2018-01-28 13:33:58	2018-01-28 13:33:58
+104	0x68	h	2199	930969	eus	Ez ahaztu argia itzaltzea.	aye1995	2011-06-09 13:53:20	2011-06-09 13:53:20
+105	0x69	i	5537	861189	eus	Egiten dudan guztia gaizki dago!	Leynaf	2011-04-27 14:07:58	2011-04-27 14:07:58
+106	0x6a	j	574	880252	eus	Ez dut eskolara joan nahi.	Sorgintxue	\N	\N
+107	0x6b	k	4096	861583	eus	Bere semeak beldurrez dar-dar egiten zuen.	Sorgintxue	2011-04-27 16:06:08	2011-04-27 16:06:08
+108	0x6c	l	2857	6782228	eus	Sabor ontzi berdeak iglu forma dauka.	juadelasheras	2018-03-19 09:57:35	2018-04-23 08:43:05
+109	0x6d	m	1804	6788081	eus	Ez zaitu beldurtzen,Tom?	Andros4	2018-03-22 07:53:23	2018-03-22 07:53:23
+110	0x6e	n	5194	6700713	eus	euskara irakasten duzu?	maialen45D	2018-02-20 14:33:03	2018-02-20 14:33:03
+111	0x6f	o	4552	949925	eus	Sarrera debekatua 18 urtetik beherakoentzat.	Txopi	2011-06-22 15:52:31	2011-06-22 15:52:31
+112	0x70	p	929	863467	eus	Lanpetuta dago.	Leynaf	2011-04-28 14:21:27	2011-04-28 14:21:27
+113	0x71	q	5	896476	eus	casilla: dende guztiak ikusi da busquestena	josebleimer1995	2011-05-17 11:33:36	2011-05-17 11:33:36
+114	0x72	r	5090	6636558	eus	Gaur egungo nire neskalaguna gimnasioan ezagutu nuen.	Another_Trans_Boy	2018-01-29 15:48:13	2018-01-29 15:48:13
+115	0x73	s	2793	6845207	eus	Uste dut arazo bat dudala.	rauls99	2018-04-19 06:51:05	2018-04-19 06:51:05
+116	0x74	t	5113	6790320	eus	Norbaitek atea ireki ahal du, mesedez?	teeeresarus	2018-03-23 07:56:03	2018-03-23 07:56:03
+117	0x75	u	4898	3457546	eus	Adiskide onekin, orduak labur.	Troubadour	2014-08-28 17:28:05	2014-08-28 17:28:05
+118	0x76	v	21	6700732	eus	Harvard gustatzen zait.	Gorane	2018-02-20 14:41:17	2018-02-20 14:41:17
+119	0x77	w	12	667992	eus	Vatikano da munduko estaturik aberatsena eta Zimbabwe da munduko estaturik txiroena.	melissa83	2010-12-15 13:59:14	2010-12-15 13:59:14
+120	0x78	x	623	937634	eus	Zelan zaude? ondo edo txarto?	melissa83	2011-06-13 13:54:38	2011-06-13 13:54:38
+121	0x79	y	228	5149204	eus	Tom eta Mary oso lagun onak dira.	gabrielmoc_04	2016-05-18 16:04:57	2016-05-18 16:04:57
+122	0x7a	z	4712	6884679	eus	Irtenbide bat pentsatu dezakezu.	iraidedorado	2018-05-10 07:01:18	2018-05-11 09:47:41
 178	0xb2	²	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
 179	0xb3	³	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43
 191	0xbf	¿	2	5187573	eus	¿Benetan diru zerbait egin nahi duzula?	AsierTru	2016-06-03 06:39:32	2016-06-03 06:39:32
@@ -89,8 +89,8 @@
 231	0xe7	ç	1	646319	eus	Ecen baldin cembeit trabaillatu nahi ezpada, ian-ere ezteçan.	aandrusiak	2010-12-03 20:40:53	2010-12-03 20:40:53
 233	0xe9	é	5	932169	eus	Aguero: " Nire etorkizuna Copa América bukatzen denean ebatziko da".	josebleimer1995	2011-06-10 10:45:40	2011-06-10 10:45:40
 237	0xed	í	1	3384760	eus	En la carnicería tienen carne.	emigonza	2014-07-17 05:59:38	2014-07-17 05:59:38
-241	0xf1	ñ	3	6879153	eus	Lasaña maite dut.	MaitaneZ	2018-05-07 07:52:09	2018-05-07 07:52:09
-252	0xfc	ü	2	3516923	eus	Yüz ama batma.	maydoo	2014-09-24 15:12:43	2014-09-24 15:12:43
+241	0xf1	ñ	3	667586	eus	2010 urteko urrianren 13 an Briñasera joan ginen.	Nina_1A	2010-12-15 10:43:43	2010-12-15 10:43:43
+252	0xfc	ü	2	938651	eus	Casilla: "Agüerorentzat ez litzateke erraza Real Madridekin sinatzea".	josebleimer1995	2011-06-14 10:50:25	2011-06-14 10:50:25
 353	0x161	š	1	11372177	eus	Dušana dut izena.	Txoria	2022-12-25 17:15:10	2022-12-25 17:15:10
 8322	0x2082	₂	1	7886473	eus	CO₂ horrek lotura handia du negutegi efektuarekin.	gorkaazk	2019-05-03 22:29:26	2019-05-03 22:29:26
 8722	0x2212	−	1	3375897	eus	Ebatzi x³ + 2x² − x − 2 = 0 ekuazio kubikoa.	eneko	2014-07-13 01:43:43	2014-07-13 01:43:43

@@ -1,57 +1,57 @@
-32	0x20	 	444	8722388	bzt	Parla'gw Fasterig?	shekitten	2020-04-28 03:00:35	2020-04-28 03:00:35
-33	0x21	!	17	11702418	bzt	Yn dragun affar!	shekitten	2023-04-23 04:11:06	2023-04-23 04:11:06
+32	0x20	 	444	9056254	bzt	Gwstr ddewindad obrara rhen ci.	shekitten	2020-09-21 10:03:04	2020-09-21 10:03:04
+33	0x21	!	17	9831020	bzt	Helo!	shekitten	2021-03-07 23:04:38	2021-03-07 23:04:38
 34	0x22	"	1	11240557	bzt	"Ke dem?" "Nonc."	shekitten	2022-11-10 22:57:45	2022-11-10 22:57:45
-39	0x27	'	32	9933294	bzt	Yst es rhen d'yn pib.	shekitten	2021-04-02 18:02:53	2021-04-02 18:02:53
-44	0x2c	,	19	11702440	bzt	Gwa ben, bwmer.	shekitten	2023-04-23 05:07:36	2023-04-23 05:07:36
-45	0x2d	-	67	8826623	bzt	Pod-eo sidder cunheg?	shekitten	2020-06-08 03:20:33	2020-09-08 11:42:14
-46	0x2e	.	384	11478066	bzt	Llo phaes thud sunt ffithig.	shekitten	2023-01-22 13:31:27	2023-01-22 13:31:27
-63	0x3f	?	51	8421861	bzt	Es-ty fath?	shekitten	2020-01-01 18:24:56	2020-06-27 22:52:37
-65	0x41	A	11	9023328	bzt	Af-ty Ddew?	shekitten	2020-09-08 00:19:27	2023-11-10 12:48:49
-66	0x42	B	9	8826511	bzt	Bon noeth.	shekitten	2020-06-08 00:33:54	2020-09-08 11:42:13
-67	0x43	C	17	8576746	bzt	Coenosce'gw lla barol gi?	shekitten	2020-02-25 14:06:54	2020-02-25 14:06:54
-68	0x44	D	16	11520061	bzt	Eo sab ty ngwidd rhen di Domos.	shekitten	2023-02-08 15:15:14	2023-02-08 15:15:14
-69	0x45	E	104	8788738	bzt	Eo su ddigas.	shekitten	2020-05-25 04:41:22	2020-05-25 04:41:22
-70	0x46	F	10	11552180	bzt	Eo wol ddunar-llw a Fair.	shekitten	2023-02-20 19:23:26	2023-02-20 19:23:26
-71	0x47	G	22	9690330	bzt	Greid mulltisaf a phab.	shekitten	2021-01-25 12:02:18	2021-01-25 12:03:45
+39	0x27	'	32	8576746	bzt	Coenosce'gw lla barol gi?	shekitten	2020-02-25 14:06:54	2020-02-25 14:06:54
+44	0x2c	,	19	8579788	bzt	Llo linghedig thud sunt phar, mai Saesonig es ply phar ca llo h-alltr.	shekitten	2020-02-27 01:54:16	2020-02-27 01:54:16
+45	0x2d	-	67	11580277	bzt	Llo h-ugell wolant.	shekitten	2023-03-06 22:35:06	2023-03-06 22:35:06
+46	0x2e	.	384	9112173	bzt	Ill Dôn dunaf e-dd ill Dôn a tolled.	shekitten	2020-10-05 22:33:21	2020-10-05 22:33:21
+63	0x3f	?	51	8252497	bzt	Yst-sa ddorfin?	shekitten	2019-10-13 21:39:04	2019-10-13 21:41:12
+65	0x41	A	11	9023330	bzt	Afa'gw Ddew?	shekitten	2020-09-08 00:20:12	2020-09-08 00:20:12
+66	0x42	B	9	9690313	bzt	Bon noeth, Tomos.	shekitten	2021-01-25 11:57:34	2021-01-25 11:57:34
+67	0x43	C	17	11648568	bzt	Ceos Tomos.	shekitten	2023-04-03 01:23:32	2023-04-03 01:23:32
+68	0x44	D	16	11636931	bzt	Diwertheth nw.	shekitten	2023-03-30 00:06:19	2023-03-30 00:06:19
+69	0x45	E	104	9806368	bzt	Eo yst compran yn ros.	shekitten	2021-02-26 00:39:37	2021-02-26 00:39:37
+70	0x46	F	10	8594616	bzt	Lla briwad di Fair es yn feddig.	shekitten	2020-03-05 01:39:50	2020-03-05 01:39:50
+71	0x47	G	22	11846759	bzt	Gheis negyn llw sab.	shekitten	2023-06-15 11:24:53	2023-06-15 11:24:53
 72	0x48	H	3	8760273	bzt	Helo, co es'gw?	shekitten	2020-05-13 23:06:07	2020-05-13 23:06:07
-73	0x49	I	36	11501717	bzt	Ierusalem es lla giwdad saeth di llo h-yddew.	shekitten	2023-02-01 12:58:00	2023-02-01 12:58:00
+73	0x49	I	36	12034384	bzt	Ill arfur cadd.	shekitten	2023-09-03 13:40:26	2023-09-03 13:40:26
 74	0x4a	J	3	12043249	bzt	John Lennon er-ys yn comiwnist?	shekitten	2023-09-08 09:06:18	2023-09-08 09:06:18
-75	0x4b	K	17	9117543	bzt	Ke gws es yn gath?	shekitten	2020-10-07 15:54:43	2020-10-07 15:54:43
-76	0x4c	L	47	11483271	bzt	Llifrath llo fengib!	shekitten	2023-01-24 23:32:43	2023-01-24 23:32:43
-77	0x4d	M	20	8346448	bzt	Mew nôn es Omid.	shekitten	2019-11-26 03:12:03	2019-11-26 03:12:03
-78	0x4e	N	31	8762272	bzt	Nu affrênefan Saesonig.	shekitten	2020-05-14 23:56:00	2020-10-05 10:46:40
+75	0x4b	K	17	11554589	bzt	Ke gws yscrife'gw?	shekitten	2023-02-21 20:41:56	2023-02-21 20:41:56
+76	0x4c	L	47	9041111	bzt	Lleith yn llifr alltr.	shekitten	2020-09-15 18:30:24	2020-09-15 18:30:24
+77	0x4d	M	20	12037310	bzt	Mew gath es nir.	shekitten	2023-09-04 19:42:18	2023-09-04 19:44:14
+78	0x4e	N	31	8421872	bzt	Nu sun fath.	shekitten	2020-01-01 18:30:41	2020-10-05 10:49:22
 79	0x4f	O	1	8346448	bzt	Mew nôn es Omid.	shekitten	2019-11-26 03:12:03	2019-11-26 03:12:03
-80	0x50	P	12	11857310	bzt	Pab cos es politig.	shekitten	2023-06-19 14:55:05	2023-06-19 14:55:05
-82	0x52	R	2	11600783	bzt	Mew blant abit i Rhufein.	shekitten	2023-03-16 17:49:26	2023-03-16 17:49:26
-83	0x53	S	39	8833822	bzt	Eo fefeir Saesonig.	shekitten	2020-06-11 04:22:29	2020-09-08 11:42:18
-84	0x54	T	58	8722395	bzt	Tomos cach.	shekitten	2020-04-28 03:15:14	2020-04-28 03:15:14
-89	0x59	Y	43	11702418	bzt	Yn dragun affar!	shekitten	2023-04-23 04:11:06	2023-04-23 04:11:06
-97	0x61	a	306	8360897	bzt	Ys mhassarent rhen!	shekitten	2019-12-02 18:48:11	2019-12-02 18:49:37
+80	0x50	P	12	8722388	bzt	Parla'gw Fasterig?	shekitten	2020-04-28 03:00:35	2020-04-28 03:00:35
+82	0x52	R	2	8594606	bzt	Estuir es lla briwad di Ragel.	shekitten	2020-03-05 01:16:20	2020-03-05 01:16:20
+83	0x53	S	39	12125911	bzt	Sa es mew gosin.	shekitten	2023-10-24 15:19:23	2023-10-24 15:19:23
+84	0x54	T	58	8745997	bzt	Tomos yst canhan.	shekitten	2020-05-07 22:31:06	2020-05-07 22:31:06
+89	0x59	Y	43	8360897	bzt	Ys mhassarent rhen!	shekitten	2019-12-02 18:48:11	2019-12-02 18:49:37
+97	0x61	a	306	12037310	bzt	Mew gath es nir.	shekitten	2023-09-04 19:42:18	2023-09-04 19:44:14
 98	0x62	b	74	8576746	bzt	Coenosce'gw lla barol gi?	shekitten	2020-02-25 14:06:54	2020-02-25 14:06:54
-99	0x63	c	110	10214327	bzt	Ill can di Domos es ci.	shekitten	2021-08-04 13:58:00	2021-08-04 13:58:00
-100	0x64	d	208	11713445	bzt	Nw sun rhen di llo h-inifig.	shekitten	2023-04-26 02:55:13	2023-04-26 02:55:13
-101	0x65	e	382	12035358	bzt	Sa es saesonig.	shekitten	2023-09-03 23:29:10	2023-09-03 23:29:19
-102	0x66	f	193	8722382	bzt	Nu sun fasterig.	shekitten	2020-04-28 02:57:31	2020-10-05 10:49:30
-103	0x67	g	188	11490178	bzt	Mi mhlag rhen di lla aruin.	shekitten	2023-01-27 17:25:51	2023-01-27 17:25:51
-104	0x68	h	201	11467214	bzt	Sa wiwant i mheg.	shekitten	2023-01-17 22:28:44	2023-01-17 22:28:44
-105	0x69	i	296	8646631	bzt	Eo fens, di onc eo su.	shekitten	2020-03-30 15:06:44	2020-03-30 15:06:44
+99	0x63	c	110	11595909	bzt	Si, eo abit ci.	shekitten	2023-03-14 19:50:33	2023-03-14 19:50:33
+100	0x64	d	208	12150304	bzt	Ô-g es ill padr di Domos Jackson.	shekitten	2023-11-07 12:53:49	2023-11-07 12:54:21
+101	0x65	e	382	9022654	bzt	Lla lyn es rhen d'yn ystuil.	shekitten	2020-09-07 19:52:18	2020-09-07 19:52:18
+102	0x66	f	193	8449537	bzt	Sa fif solfent ag.	shekitten	2020-01-14 01:46:17	2020-01-14 01:49:55
+103	0x67	g	188	11479275	bzt	Tomos digiddef phlanner yn arfur.	shekitten	2023-01-22 22:53:30	2023-01-22 22:53:30
+104	0x68	h	201	10018058	bzt	Sa es yn inelleith.	shekitten	2021-05-09 14:16:47	2021-05-09 14:16:47
+105	0x69	i	296	11702422	bzt	Eo mhod rhen ffager athentiwn a llo chos phab ci subr yn weg.	shekitten	2023-04-23 04:43:07	2023-04-23 04:43:07
 107	0x6b	k	4	10508903	bzt	Eo wol whisky.	shekitten	2021-11-15 00:08:30	2021-11-15 00:08:30
-108	0x6c	l	237	11563517	bzt	Sa es yn lesbian.	shekitten	2023-02-26 05:47:13	2023-02-26 05:47:13
-109	0x6d	m	156	11519998	bzt	Tomos ti ngwidd rhen.	shekitten	2023-02-08 15:03:13	2023-02-08 15:03:13
-110	0x6e	n	328	9112173	bzt	Ill Dôn dunaf e-dd ill Dôn a tolled.	shekitten	2020-10-05 22:33:21	2020-10-05 22:33:21
-111	0x6f	o	261	8254361	bzt	Sa wolent perthir.	shekitten	2019-10-14 17:16:00	2020-05-01 01:08:46
-112	0x70	p	69	8761559	bzt	Ill puf ci es rhys.	shekitten	2020-05-14 17:31:13	2020-05-14 17:31:13
-114	0x72	r	267	9844722	bzt	Ke gws es lla liferthad?	shekitten	2021-03-15 18:40:02	2021-03-15 18:40:02
-115	0x73	s	320	11479283	bzt	Lla ag es-sa funn?	shekitten	2023-01-22 23:04:17	2023-01-22 23:04:17
-116	0x74	t	212	11702433	bzt	Ty es ply ffeirth ca nw.	shekitten	2023-04-23 05:02:07	2023-04-23 05:02:07
-117	0x75	u	171	12047269	bzt	Eo af llo h-ugell.	shekitten	2023-09-10 20:46:14	2023-09-10 20:46:14
-119	0x77	w	173	11484763	bzt	Yst es sew gas.	shekitten	2023-01-25 13:59:39	2023-01-25 13:59:39
+108	0x6c	l	237	12057009	bzt	Ill arient es mar.	shekitten	2023-09-15 15:06:43	2023-09-15 15:06:43
+109	0x6d	m	156	11520061	bzt	Eo sab ty ngwidd rhen di Domos.	shekitten	2023-02-08 15:15:14	2023-02-08 15:15:14
+110	0x6e	n	328	8596623	bzt	Lle blegent llo h-orang'.	shekitten	2020-03-05 23:48:25	2020-03-05 23:50:02
+111	0x6f	o	261	8563164	bzt	Eo dy wol asculltar.	shekitten	2020-02-19 13:12:11	2020-02-19 13:14:13
+112	0x70	p	69	11790216	bzt	Eo sempr ai ystad math.	shekitten	2023-05-24 18:17:20	2023-05-24 18:17:58
+114	0x72	r	267	8595511	bzt	Eo goninewef barolar.	shekitten	2020-03-05 16:01:23	2020-03-05 16:01:23
+115	0x73	s	320	10502191	bzt	Sa es yn ddew.	shekitten	2021-11-12 03:55:45	2021-11-12 03:55:45
+116	0x74	t	212	8254361	bzt	Sa wolent perthir.	shekitten	2019-10-14 17:16:00	2020-05-01 01:08:46
+117	0x75	u	171	8564092	bzt	Nu fif ag.	shekitten	2020-02-19 20:19:34	2020-02-19 20:19:34
+119	0x77	w	173	11702440	bzt	Gwa ben, bwmer.	shekitten	2023-04-23 05:07:36	2023-04-23 05:07:36
 120	0x78	x	1	11541466	bzt	Karl Marx er-ys yn comiwnist?	shekitten	2023-02-16 14:27:51	2023-02-16 14:27:51
-121	0x79	y	155	9806368	bzt	Eo yst compran yn ros.	shekitten	2021-02-26 00:39:37	2021-02-26 00:39:37
+121	0x79	y	155	8833821	bzt	Nu fefeiran lla fyseg.	shekitten	2020-06-11 04:21:22	2020-10-05 10:48:09
 194	0xc2	Â	1	8502943	bzt	Â-g es yn ben.	shekitten	2020-02-01 01:37:11	2020-02-01 01:37:11
-212	0xd4	Ô	6	11847172	bzt	Ô mi aydaf rhen.	shekitten	2023-06-15 13:22:48	2023-06-15 13:22:48
+212	0xd4	Ô	6	8363091	bzt	Ô-g es yn gran problem.	shekitten	2019-12-03 23:58:58	2019-12-03 23:58:58
 226	0xe2	â	4	8922809	bzt	Nu sun di llo châr.	shekitten	2020-07-18 11:07:19	2020-09-08 11:43:11
-234	0xea	ê	8	8814945	bzt	Eo grêdd gwstr pharol.	shekitten	2020-06-04 04:42:05	2020-09-08 11:42:03
+234	0xea	ê	8	8762272	bzt	Nu affrênefan Saesonig.	shekitten	2020-05-14 23:56:00	2020-10-05 10:46:40
 238	0xee	î	1	8808669	bzt	Llo wid nîr chalent.	shekitten	2020-06-01 00:44:27	2020-09-08 11:41:56
 244	0xf4	ô	9	8449531	bzt	Mew nôn es Tomos.	shekitten	2020-01-14 01:38:09	2020-01-14 01:38:09
 375	0x177	ŷ	1	9574008	bzt	Es-ty yn berson ŷsal?	shekitten	2021-01-01 18:34:53	2021-01-01 18:34:53
@@ -63,14 +63,14 @@
 22788	0x5904	处	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 22909	0x597d	好	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 23376	0x5b50	子	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
-23601	0x5c31	就	2	8920037	bzt	是不是就是空上理来的	tianshiking3	2020-07-17 06:04:35	2020-07-17 06:04:35
+23601	0x5c31	就	2	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 24863	0x611f	感	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 25105	0x6211	我	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
-26159	0x662f	是	2	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
+26159	0x662f	是	2	8920037	bzt	是不是就是空上理来的	tianshiking3	2020-07-17 06:04:35	2020-07-17 06:04:35
 26469	0x6765	来	1	8920037	bzt	是不是就是空上理来的	tianshiking3	2020-07-17 06:04:35	2020-07-17 06:04:35
 28155	0x6dfb	添	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 29702	0x7406	理	1	8920037	bzt	是不是就是空上理来的	tianshiking3	2020-07-17 06:04:35	2020-07-17 06:04:35
-30340	0x7684	的	2	8920037	bzt	是不是就是空上理来的	tianshiking3	2020-07-17 06:04:35	2020-07-17 06:04:35
+30340	0x7684	的	2	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 31354	0x7a7a	空	1	8920037	bzt	是不是就是空上理来的	tianshiking3	2020-07-17 06:04:35	2020-07-17 06:04:35
 35273	0x89c9	觉	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43
 36825	0x8fd9	这	1	8920021	bzt	我感觉这就是添加句子的好处吧	tianshiking3	2020-07-17 06:02:43	2020-07-17 06:02:43

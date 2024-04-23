@@ -1,110 +1,110 @@
-32	0x20	 	17212	1906662	nob	Tankegangen er ikke veldig logisk.	al_ex_an_der	2012-10-09 09:35:09	2012-10-09 09:35:09
-33	0x21	!	688	10940682	nob	Sikt. Skyt!	Mayk	2022-06-26 17:43:48	2022-06-26 17:43:48
-34	0x22	"	139	2866503	nob	"Nå skal vi se!" sa den blinde til den døve.	eirik174	2013-11-21 09:51:41	2013-11-21 09:51:41
+32	0x20	 	17212	10940797	nob	"Hvor er Zürich?" "Zürich er i Sveits."	Mayk	2022-06-26 18:24:16	2022-06-26 18:24:16
+33	0x21	!	688	10940270	nob	Fortsett!	Mayk	2022-06-26 16:49:43	2022-06-26 16:49:43
+34	0x22	"	139	3536069	nob	Det fortsatt mangler en setning med ordet "biljakt".	al_ex_an_der	2014-10-04 01:50:05	2014-10-04 01:50:05
 35	0x23	#	1	5145635	nob	Det er ingen setning med #264405.	sotolf	2016-05-17 13:17:22	2016-05-17 13:17:22
 37	0x25	%	2	1845259	nob	Danmarks nest største religiøse gruppe er muslimene, som med 210 000 personer utgjør 3,7 % av befolkningen.	al_ex_an_der	2012-09-16 16:31:24	2014-01-24 00:12:15
-39	0x27	'	8	2925492	nob	"FIsh'n'chips" er den mest kjente engelske matretten.	eirik174	2013-12-12 13:48:13	2013-12-12 13:48:26
+39	0x27	'	8	2824470	nob	På amerikanske bakerier, er "baker's dozen" tretten og ikke tolv.	eirik174	2013-11-02 07:41:39	2014-06-25 23:13:05
 40	0x28	(	4	815904	nob	I Ming-dynastiet (tidlig 15. århundre) var den Forbudte Byen i sentrum av Beijing.	heranje	2011-03-29 01:07:04	2011-03-29 01:07:04
-41	0x29	)	4	394832	nob	Funksjonene sinus og cosinus antar verdier mellom -1 og 1 (inkludert -1 og 1).	contour	2010-05-27 08:35:24	2010-05-27 08:35:24
+41	0x29	)	4	815904	nob	I Ming-dynastiet (tidlig 15. århundre) var den Forbudte Byen i sentrum av Beijing.	heranje	2011-03-29 01:07:04	2011-03-29 01:07:04
 43	0x2b	+	3	5153970	nob	Blodtypen til tom er O+	sotolf	2016-05-20 13:31:01	2016-05-20 13:31:01
-44	0x2c	,	1436	2866598	nob	Alle ser på andre, ingen på seg selv.	eirik174	2013-11-21 10:09:26	2013-11-21 10:09:26
-45	0x2d	-	127	10941268	nob	Hei, John. - Jeg er ikke John.	Mayk	2022-06-27 02:25:17	2022-06-27 02:25:17
-46	0x2e	.	14515	2106753	nob	Esperanto er en enorm utvidelse av horisonten min.	al_ex_an_der	2012-12-27 13:17:50	2012-12-27 13:17:50
+44	0x2c	,	1436	5145800	nob	Ah, jeg kom på at du sa at du ikke hadde sett paraplyen. Har du funnet den?	sotolf	2016-05-17 14:34:48	2016-05-17 14:34:48
+45	0x2d	-	127	1752348	nob	Hvis læreren skal planlegge en ferie eller noe annet som krever at man ser på priser og regner ut hva det vil koste, da er det elevenes kunnskaper han benytter seg av. Noen ganger ønsker kona seg nytt fruktfat, eller kanskje er det mannen som ønsker seg brevkniv, mange har sønner som trenger et godnatt-eventyr på senga eller døtre med dukker som trenger klær av siste mote; alt dette får læreren elevene til å lage for ham.	al_ex_an_der	2012-08-05 00:46:49	2012-08-05 00:47:01
+46	0x2e	.	14515	11802593	nob	Den siste gangen jeg så deg var vi fanger i et fangehull.	vebjsand	2023-05-29 11:32:43	2023-05-29 11:32:43
 47	0x2f	/	1	1869907	nob	Oversett noen ordtak til esperanto om spising og/eller fedme.	al_ex_an_der	2012-09-27 05:44:13	2014-01-30 17:49:58
-48	0x30	0	104	3214329	nob	Det er bare 10 minutters gange herfra.	danieljtah	2014-04-29 15:17:44	2014-04-29 15:17:44
-49	0x31	1	82	11931362	nob	Forvarm ovnen til 130 grader.	vikvaering	2023-07-15 06:30:40	2023-07-15 06:30:40
-50	0x32	2	69	8989831	nob	Ørreten var på omtrent 2 kilo.	janni	2020-08-22 20:08:34	2020-08-22 20:08:34
-51	0x33	3	56	10943799	nob	Jeg leste over 300 bøker i fjor.	Mayk	2022-06-27 16:29:33	2022-06-27 16:29:33
-52	0x34	4	15	5145635	nob	Det er ingen setning med #264405.	sotolf	2016-05-17 13:17:22	2016-05-17 13:17:22
-53	0x35	5	33	3494194	nob	Europeerne fikk seg et overtak over alle andre sivilisasjoner for 500 år siden.	neron	2014-09-14 00:19:44	2014-09-14 00:19:44
-54	0x36	6	21	11806451	nob	Flaggene har en avstand på 20 fot (6 meter) mellom hverandre, akkurat bredt nok til å la våre største snøploger kjøre gjennom uten å kjøre dem ned.	vebjsand	2023-05-30 10:45:24	2023-05-30 10:45:24
+48	0x30	0	104	6364611	nob	Registreringsfristen er satt til 20. oktober.	RudeGuyGames	2017-10-04 17:34:51	2017-10-04 17:34:51
+49	0x31	1	82	4473750	nob	Hun flyttet til Paris i 1966.	beeccy	2015-08-26 11:12:33	2015-08-26 11:12:33
+50	0x32	2	69	11802678	nob	Den 22. April er det 50-årsdagen til Earth Day, når selve spørsmålet om planeten kan overleve kom frem for første gang fra tankene til de såkalte eksentrikere og blomsterbarn av 1960-tallet og inn i nasjonal bevissthet.	vebjsand	2023-05-29 12:02:48	2023-05-29 12:02:48
+51	0x33	3	56	3488292	nob	Maria har lest ut hele driftshåndboken på 321 sider i et strekk.	neron	2014-09-11 19:10:01	2014-09-11 19:10:01
+52	0x34	4	15	4763200	nob	Tallet 4 er sett på som et uheldig tall i Japan.	garborg	2015-12-13 13:40:36	2015-12-13 13:40:41
+53	0x35	5	33	8611317	nob	Se på kartet på side 25.	vikvaering	2020-03-13 20:23:01	2020-03-13 20:23:01
+54	0x36	6	21	1866885	nob	26. September er den Europeiske Språkdagen. Europarådet ønsker å skjerpe oppmerksomheten mot den flerspråklige arven til Europa, å fremme utviklingen av flerspråklighet i samfunnet og å oppmuntre innbyggerne til å lære språk. Tatoeba - en læringsressurs som er lett å bruke, og på samme tid et felleskap som er fullt av liv - fremmer studier og respekt for språk på en ganske praktisk måte.	al_ex_an_der	2012-09-26 10:55:08	2014-01-30 22:35:11
 55	0x37	7	21	2962115	nob	De erklærte uavhengighet i 1847.	eirik174	2014-01-03 14:02:50	2014-01-03 14:02:50
-56	0x38	8	22	12259555	nob	Albert Einstein ble født i Ulm i 1879.	augine	2024-01-09 01:45:07	2024-01-09 01:45:07
-57	0x39	9	24	613728	nob	Han reiste til London i 1970.	gurobu	2010-11-11 18:37:02	2010-11-11 18:37:02
-58	0x3a	:	43	10940794	nob	Hva foretrekker du: musikk eller engelsk?	Mayk	2022-06-26 18:23:13	2022-06-26 18:23:13
-59	0x3b	;	39	2978169	nob	Jeg hater aldri folk; jeg lar dem hate seg selv.	eirik174	2014-01-12 04:48:56	2014-01-12 04:48:56
-63	0x3f	?	2443	2824546	nob	Hvor vil du sitte?	eirik174	2013-11-02 08:24:02	2013-11-02 08:24:02
-65	0x41	A	412	5145185	nob	Alle elsker vinnere.	sotolf	2016-05-17 12:09:15	2016-05-17 12:09:15
-66	0x42	B	443	2686964	nob	Både voksne og barn sliter med å sette ord på det vi ser i naturen.	al_ex_an_der	2013-08-19 11:01:04	2013-08-19 11:01:04
-67	0x43	C	52	536638	nob	Kristoffer Colombus var en anerkjent taktiker, og senket en gang en hel flåte med pirater ved å frastjele dem alt av frukt og grønnsaker så de fikk skjørbuk.	contour	2010-09-28 01:22:53	2010-09-28 01:22:53
-68	0x44	D	2971	342258	nob	Denne gitaren er så dyr at jeg ikke kan kjøpe den.	gurobu	2009-12-24 17:04:13	2009-12-24 17:04:13
-69	0x45	E	598	2935418	nob	Er du virkelig så opptatt?	eirik174	2013-12-16 02:35:35	2013-12-16 02:35:35
-70	0x46	F	487	3502039	nob	For noen rare folk blir vitenskap av et språk holdt hemmelig.	neron	2014-09-18 02:27:47	2014-09-18 02:27:47
-71	0x47	G	249	12259675	nob	Gi meg boken.	augine	2024-01-09 03:31:16	2024-01-09 03:31:16
-72	0x48	H	3486	10942866	nob	Hun vil ha en hund.	Mayk	2022-06-27 12:13:16	2022-06-27 12:13:16
-73	0x49	I	570	2949939	nob	Hva hvis du mistet livet i Irak?	eirik174	2013-12-31 01:44:43	2013-12-31 01:44:43
-74	0x4a	J	3747	1681111	nob	Jeg venter barn på nyåret!	Combine988	2012-07-10 23:29:25	2012-07-10 23:29:25
-75	0x4b	K	563	6388960	nob	Kan du hjelpe meg med å rydde i filene mine før du går?	RudeGuyGames	2017-10-19 10:15:56	2017-10-19 10:15:56
-76	0x4c	L	368	2930374	nob	La grisen være møkkete, bare flesket er rent.	eirik174	2013-12-14 14:57:44	2013-12-14 14:57:44
-77	0x4d	M	849	2659946	nob	Maria føler seg ikke attraktiv nok.	al_ex_an_der	2013-08-07 22:37:08	2013-08-07 22:37:08
-78	0x4e	N	425	2935597	nob	Noe rart foregår.	eirik174	2013-12-16 03:28:51	2013-12-16 03:28:51
-79	0x4f	O	151	4643809	nob	Om sommeren liker jeg å svømme naken i dammen.	MatthewChriswood	2015-10-25 16:49:12	2015-10-25 16:49:12
-80	0x50	P	275	3297812	nob	På sett og vis har du rett.	neron	2014-06-05 10:20:39	2014-06-05 10:20:39
-82	0x52	R	148	8444305	nob	Marina er fra Russland og Clarissa er fra Sverige.	Ricardo14	2020-01-11 20:03:43	2020-01-11 20:03:43
-83	0x53	S	849	4754203	nob	Smertene kom tilbake neste dag.	garborg	2015-12-09 14:23:42	2015-12-09 14:23:42
-84	0x54	T	2142	2864113	nob	Tom tok tjue armhevninger.	eirik174	2013-11-20 06:02:34	2013-11-20 06:02:34
-85	0x55	U	127	8138686	nob	Ulver jakter i flokk.	vikvaering	2019-08-28 14:37:49	2019-08-28 14:37:49
-86	0x56	V	925	10940674	nob	Vær snill.	Mayk	2022-06-26 17:42:59	2022-06-26 17:42:59
-87	0x57	W	10	386681	nob	Hun ble tatt opp ved Universitetet i Waseda.	contour	2010-05-07 05:04:35	2010-05-07 05:04:35
+56	0x38	8	22	948482	nob	Jeg har trodd på Kylie Minogue siden 12. juni 1998.	Thanuir	2011-06-21 19:03:09	2019-01-30 10:22:27
+57	0x39	9	24	367288	nob	Picasso fortsatte å male bilder til han ble 91 år gammel.	contour	2010-02-24 00:22:55	2010-02-24 00:22:55
+58	0x3a	:	43	815959	nob	Tenk på hva vi gjør med barna våre. Vi sier ikke til dem: "Noen mennesker tror at jorden er rund, og noen tror den er flat; når du blir voksen kan du, vis du vil, undersøke faktaene og gjøre opp din egen konklusjon." I stedet for dette sier vi: "Jorden er rund." Innen barna våre blir gamle nok til å undersøke faktaene har propagandaen vår lukket deres sinn...	heranje	2011-03-29 01:21:00	2011-03-29 01:21:00
+59	0x3b	;	39	11806480	nob	Karbondioksid er en tung gass; den holder seg nede nær jordoverflaten. Derfor kan den ikke ha en drivhuseffekt.	vebjsand	2023-05-30 10:49:04	2023-05-30 10:49:04
+63	0x3f	?	2443	502245	nob	Er dette din paraply?	testdog	2010-09-07 00:47:51	2010-09-07 00:47:51
+65	0x41	A	412	2978156	nob	Hold kjeft, Albert, teorien din suger.	eirik174	2014-01-12 04:25:53	2014-01-12 04:25:53
+66	0x42	B	443	2932257	nob	Broren min dro til Italia.	eirik174	2013-12-15 06:40:45	2013-12-15 06:40:45
+67	0x43	C	52	5154345	nob	Chat med vennene dine.	sotolf	2016-05-20 15:04:03	2016-05-20 15:04:03
+68	0x44	D	2971	3499664	nob	Det var en god erfaring.	al_ex_an_der	2014-09-16 19:21:08	2014-09-16 19:21:08
+69	0x45	E	598	7251098	nob	Er dette alt vi trenger?	Sifaks	2018-10-03 20:16:25	2018-10-03 20:16:25
+70	0x46	F	487	2660777	nob	Foreldene vil drepe meg hvis de finner ut at jeg har blitt gravid.	al_ex_an_der	2013-08-08 09:45:20	2013-08-08 09:45:20
+71	0x47	G	249	2059571	nob	Gråter du?	Combine988	2012-12-05 21:53:15	2012-12-05 21:53:15
+72	0x48	H	3486	510021	nob	Han sov i timen.	contour	2010-09-12 23:52:58	2010-09-12 23:52:58
+73	0x49	I	570	3395097	nob	I går stod jeg opp før alle andre.	danieljtah	2014-07-24 18:43:25	2014-07-24 18:43:25
+74	0x4a	J	3747	2935294	nob	Jeg liker ikke å gjette.	eirik174	2013-12-16 02:05:04	2013-12-16 02:05:04
+75	0x4b	K	563	8425641	nob	Som en måte å fordrive tida på sine lange reiser, lagde Kristoffer Columbus en gang ei setning med et uendelig antall ord.	Thanuir	2020-01-03 14:25:06	2020-01-03 14:25:06
+76	0x4c	L	368	1795250	nob	Lenge leve kaos!	al_ex_an_der	2012-08-24 22:13:45	2012-08-24 22:13:45
+77	0x4d	M	849	11923724	nob	Mangler vi noen i dag?	vikvaering	2023-07-11 16:22:19	2023-07-11 16:22:19
+78	0x4e	N	425	5152960	nob	Når er sist gang han var her?	Yomawaru	2016-05-20 05:21:59	2016-05-20 05:21:59
+79	0x4f	O	151	2949997	nob	Ingen er så irsk som Barack Obama!	eirik174	2013-12-31 03:03:40	2013-12-31 03:03:40
+80	0x50	P	275	2943616	nob	Problemet her er ikke meg.	eirik174	2013-12-27 10:03:09	2013-12-27 10:03:09
+82	0x52	R	148	10943548	nob	Reglene var ganske strenge.	Mayk	2022-06-27 15:31:32	2022-06-27 15:31:32
+83	0x53	S	849	10946973	nob	Sami hadde astma.	Mayk	2022-06-29 00:17:57	2022-06-29 00:17:57
+84	0x54	T	2142	10944229	nob	Tom er en sta mann.	Mayk	2022-06-27 18:25:22	2022-06-27 18:25:22
+85	0x55	U	127	2420715	nob	Israels angrep på Syria har overrasket USA.	al_ex_an_der	2013-05-06 09:12:56	2013-05-06 09:12:56
+86	0x56	V	925	358584	nob	Vennligst kom når det passer deg.	pergpau	2010-02-07 18:47:35	2010-02-07 18:47:35
+87	0x57	W	10	11806906	nob	Isaac Newton var begravd i Westminster Abbey.	vebjsand	2023-05-30 11:43:15	2023-05-30 11:43:15
 88	0x58	X	1	2943583	nob	Hvordan sier du XXX på nederlandsk?	eirik174	2013-12-27 09:37:51	2013-12-27 09:37:51
-89	0x59	Y	59	10957819	nob	Bor Yanni på badet?	Mayk	2022-07-02 18:04:11	2022-07-02 18:04:11
-90	0x5a	Z	30	11802644	nob	Ziri dro.	vebjsand	2023-05-29 11:50:05	2023-05-29 11:50:05
+89	0x59	Y	59	1752432	nob	Du har rett i at tida for å smekke elevene over fingrene og dra dem etter ørene er forbi, men tro ikke at fysisk straff er borte fra skolene i dag. Man har nemlig lagt avstraffelse til faste tidspunkt i løpet av uka, og vi kjenner det som gym. Lærere liker å kalle det gymnastikk for at det skal låte bra, men egentlig betyr gym Grov Ydmykelse av Mindreårige.	al_ex_an_der	2012-08-05 01:56:01	2012-08-05 01:56:01
+90	0x5a	Z	30	10941072	nob	Ziri har venner som elsker ham.	Mayk	2022-06-26 21:00:06	2022-06-26 21:00:06
 95	0x5f	_	1	10940641	nob	Hei, Source_VOA!	Mayk	2022-06-26 17:38:56	2022-06-26 17:38:56
-97	0x61	a	13146	10958101	nob	Sami betalte prisen.	Mayk	2022-07-02 21:14:51	2022-07-02 21:14:51
-98	0x62	b	4781	3362355	nob	Før denne avgjørelse ligger i bunnen vil ingen legge to pinner i kors for å løse dette.	neron	2014-07-06 03:31:20	2014-07-06 03:45:10
-99	0x63	c	135	3499528	nob	Jeg trenger brillene mine for å se. Det er ikke for å se chic ut.	al_ex_an_der	2014-09-16 18:13:05	2014-09-16 18:58:59
-100	0x64	d	10909	413074	nob	Vann består av oksygen og hydrogen.	sremvik	2010-06-27 06:07:56	2010-06-27 06:07:56
-101	0x65	e	16998	815757	nob	Du bør ikke prate med munnen full ved bordet.	heranje	2011-03-29 00:25:44	2011-03-29 00:25:44
-102	0x66	f	5720	3351056	nob	Oversetterens oppgave består i å finne den effekt i sitt språk som vekker et ekko av originaler; ekkoet på oversetterens språk må også gi en gjenlyd av verket, gjenlyd av det fremmede språk.	neron	2014-06-30 16:10:27	2014-06-30 16:10:27
-103	0x67	g	11603	386581	nob	Jeg er en helt.	contour	2010-05-07 03:34:56	2010-05-07 03:41:45
-104	0x68	h	6272	1681790	nob	Forstår du hva jeg sier?	Combine988	2012-07-11 12:11:05	2012-07-11 12:11:05
-105	0x69	i	13040	2686702	nob	Først i løpet av sine tredje sommer får den vesle bartrær sin første krans av greiner.	al_ex_an_der	2013-08-19 07:32:53	2013-08-19 07:32:53
-106	0x6a	j	4254	9447719	nob	La oss ikke gjøre noe dumt.	Voider	2020-12-08 02:13:34	2020-12-08 02:13:34
-107	0x6b	k	10518	2519548	nob	Seks pluss fire er ti.	al_ex_an_der	2013-06-23 13:31:44	2013-06-23 13:31:44
-108	0x6c	l	11645	1842448	nob	Mary innså at hennes enestående intellektuelle evner hindret henne å gå fram på veien til lykke.	al_ex_an_der	2012-09-15 12:58:31	2012-09-15 12:58:31
-109	0x6d	m	9731	2144989	nob	Jeg kan ikke tro at jeg glemte det.	al_ex_an_der	2013-01-15 03:33:57	2013-01-15 03:33:57
-110	0x6e	n	13699	5145328	nob	Jeg vil gifte meg med henne en dag.	sotolf	2016-05-17 12:36:33	2016-05-17 12:36:33
-111	0x6f	o	10996	2887476	nob	Denne sjokoladen har en smak mellom søtt og bittert.	al_ex_an_der	2013-11-29 19:25:59	2013-11-29 19:25:59
-112	0x70	p	5231	3493917	nob	Er det ett ting historien har lært oss, så er det at vi ofte spår feil om fremtiden.	neron	2014-09-13 22:13:18	2014-09-13 22:13:18
+97	0x61	a	13146	2816172	nob	Himmelen var full av stjerner.	eirik174	2013-10-30 10:43:43	2013-10-30 10:43:43
+98	0x62	b	4781	5145164	nob	Fordelen med freelancing er at du kan dele inn tiden din fritt. Bakgelen er det at du faktisk må arbide døgnet rundt.	sotolf	2016-05-17 12:04:56	2016-05-17 12:04:56
+99	0x63	c	135	1971499	nob	Dachshund er en hund fra Tyskland med veldig lang kropp og korte bein.	Combine988	2012-10-31 20:08:05	2012-10-31 20:08:05
+100	0x64	d	10909	2935331	nob	Jeg matet ikke hunden.	eirik174	2013-12-16 02:12:11	2013-12-16 02:12:11
+101	0x65	e	16998	387221	nob	Det er tvilsomt om en kan stole på disse dataene.	contour	2010-05-08 15:56:10	2010-05-08 15:56:31
+102	0x66	f	5720	5153968	nob	Toms fransk har blitt bedre.	sotolf	2016-05-20 13:30:10	2016-05-20 13:30:10
+103	0x67	g	11603	2826520	nob	Jeg vil ikke leve resten av livet sammen med en kvinne som jeg kan respektere, men ikke elske.	al_ex_an_der	2013-11-03 01:42:50	2013-11-03 11:02:25
+104	0x68	h	6272	5159987	nob	Jeg har fått nok av spørsmålene dine.	sotolf	2016-05-23 13:27:19	2016-05-23 13:27:19
+105	0x69	i	13040	2866918	nob	Du eier ikke retningssans.	eirik174	2013-11-21 13:27:49	2013-11-27 04:43:48
+106	0x6a	j	4254	2935256	nob	Jeg lærer japansk for å spille mahjong i Japan.	eirik174	2013-12-16 01:33:28	2013-12-16 01:33:28
+107	0x6b	k	10518	2932277	nob	Det er ingenting mer du kan gjøre for meg.	eirik174	2013-12-15 06:46:15	2013-12-15 06:46:23
+108	0x6c	l	11645	4784762	nob	Ikke bland Østerrike og Australia.	garborg	2015-12-22 14:43:25	2015-12-22 14:43:25
+109	0x6d	m	9731	2935205	nob	Du bør spise mer grønnsaker.	eirik174	2013-12-16 01:19:28	2013-12-16 01:19:28
+110	0x6e	n	13699	3371943	nob	La det ikke være den minste tvil om at denne vil koste oss dyrt. Men det er en pris vi må betale.	neron	2014-07-10 23:37:58	2014-07-10 23:37:58
+111	0x6f	o	10996	10946513	nob	Broren hans er ikke her i dag.	Mayk	2022-06-28 16:02:28	2022-06-28 16:02:28
+112	0x70	p	5231	2738070	nob	Maria sto på den store takterrassen.	al_ex_an_der	2013-09-13 16:06:15	2013-09-13 16:06:15
 113	0x71	q	1	2458001	nob	Jeg vil gjerne snakke med deg om Thomas Aquinas.	al_ex_an_der	2013-05-26 22:51:58	2013-05-26 22:51:58
-114	0x72	r	15512	2948524	nob	Hun ser veldig redd ut.	eirik174	2013-12-30 04:35:35	2013-12-30 04:35:35
-115	0x73	s	11775	2436599	nob	Jeg ønsker å lære sannheten om sønnens død.	al_ex_an_der	2013-05-17 08:21:18	2013-05-17 08:21:18
-116	0x74	t	13720	1986409	nob	Jeg liker nordmenn, fordi hver nordmann er en stor naturelsker, og det er jeg også.	al_ex_an_der	2012-11-06 13:16:23	2014-09-07 17:02:59
-117	0x75	u	7022	2924448	nob	Er du klar for Halloween?	eirik174	2013-12-12 03:31:53	2013-12-12 03:31:53
-118	0x76	v	8388	10954095	nob	Det var ingenting å bekymre seg for.	Mayk	2022-07-01 10:28:45	2022-07-01 10:28:45
-119	0x77	w	27	3493003	nob	Jawbreaker er et rundt flersjikts sukkertøy slik som det er en perle.	neron	2014-09-13 13:12:06	2014-09-13 13:17:46
-120	0x78	x	34	1685636	nob	Vi drog til Mexico med fly.	Combine988	2012-07-12 15:39:19	2012-07-12 15:39:19
-121	0x79	y	3058	10943371	nob	Hun er gammel og syk.	Mayk	2022-06-27 14:42:18	2022-06-27 14:42:18
-122	0x7a	z	27	4452434	nob	Jeg elsker pizza med ost.	solsikkeris	2015-08-14 15:18:26	2015-08-14 15:18:26
-160	0xa0	 	3	3429559	nob	Når du trenger trøst, bare si det.	al_ex_an_der	2014-08-15 16:35:41	2014-08-15 16:35:41
-171	0xab	«	27	11927270	nob	«Hva var det du sa at han hette?» «Det var enten John eller Jack, eller noe i den duren.»	vikvaering	2023-07-13 05:58:20	2023-07-13 05:58:20
+114	0x72	r	15512	2442698	nob	Dette er forkjært.	al_ex_an_der	2013-05-20 00:09:50	2014-09-09 23:06:04
+115	0x73	s	11775	3550288	nob	Nå vil jeg hverken høre "hvis" eller "men".	al_ex_an_der	2014-10-10 13:43:19	2014-10-10 13:43:19
+116	0x74	t	13720	394377	nob	Hvilket yrke har du?	contour	2010-05-26 16:24:31	2010-05-26 16:24:31
+117	0x75	u	7022	2260944	nob	Jeg syns folk har en tendens til å fokusere på feil ting.	al_ex_an_der	2013-02-25 23:41:46	2013-02-25 23:41:46
+118	0x76	v	8388	10944213	nob	Ikke vær sta.	Mayk	2022-06-27 18:22:59	2022-06-27 18:22:59
+119	0x77	w	27	413099	nob	Hun besøkte Kanazawa for to år siden.	sremvik	2010-06-27 06:17:18	2010-06-27 06:17:18
+120	0x78	x	34	1680748	nob	Hovedstaden i Mexico er den største byen i Latin-Amerika.	Combine988	2012-07-10 21:07:53	2012-07-10 21:07:53
+121	0x79	y	3058	11923896	nob	Han bor i skyene.	vikvaering	2023-07-11 19:00:50	2023-07-11 19:00:50
+122	0x7a	z	27	7245294	nob	De rullet couscousen i Mazigh bryllupsfesten.	Sifaks	2018-10-02 06:41:52	2018-10-02 06:58:39
+160	0xa0	 	3	2908008	nob	En avskyelig morder har selv blitt myrdet på en avskyelig måte.	al_ex_an_der	2013-12-06 16:00:56	2013-12-06 16:00:56
+171	0xab	«	27	534674	nob	«Greit, hvis det er lett trening.» «OK, så skal vi tillate ballespark og utstikking av øyne?»	contour	2010-09-26 19:19:39	2010-09-26 19:19:39
 176	0xb0	°	1	11931361	nob	Forvarm ovnen til 200 °C.	vikvaering	2023-07-15 06:30:31	2023-07-15 06:30:31
-187	0xbb	»	27	1680198	nob	«Hvor bor du?» «Jeg bor i Tokyo.»	Combine988	2012-07-10 17:01:12	2012-07-10 17:01:12
-197	0xc5	Å	48	2931800	nob	Å spise er en av livets store gleder.	eirik174	2013-12-15 00:45:05	2013-12-15 00:45:05
-198	0xc6	Æ	8	12259504	nob	Ærlig talt…	augine	2024-01-09 00:56:57	2024-01-09 00:56:57
-201	0xc9	É	7	3542946	nob	Én av ti lider av søvnmangel.	al_ex_an_der	2014-10-06 21:37:58	2014-10-06 21:37:58
-216	0xd8	Ø	32	5153969	nob	Øynene til Tom er lukket.	sotolf	2016-05-20 13:30:30	2016-05-20 13:30:30
+187	0xbb	»	27	8139935	nob	«Polynesia» er et gresk ord som betyr «mange øyer».	vikvaering	2019-08-29 00:01:59	2019-08-29 00:01:59
+197	0xc5	Å	48	2828609	nob	Å nei! Jeg glemte lommeboken min!	eirik174	2013-11-03 23:22:40	2013-11-03 23:22:40
+198	0xc6	Æ	8	10940324	nob	Æsj.	Mayk	2022-06-26 16:57:12	2022-06-26 16:57:12
+201	0xc9	É	7	2874259	nob	Én ny studie avslører at alt vi tidligere trodde vi visste er feil.	al_ex_an_der	2013-11-23 23:35:56	2014-01-04 09:16:28
+216	0xd8	Ø	32	4784762	nob	Ikke bland Østerrike og Australia.	garborg	2015-12-22 14:43:25	2015-12-22 14:43:25
 225	0xe1	á	1	5153205	nob	Jeg liker maten som Cáit lager best.	Yomawaru	2016-05-20 07:26:09	2016-05-20 07:26:09
-229	0xe5	å	6198	6195220	nob	Det går ikke an å bruke denne boka.	rayshih715	2017-08-11 07:55:17	2017-08-11 07:55:17
-230	0xe6	æ	1181	2995249	nob	Du må passe på så du ikke ender opp i en økonomisk knipe som kan være svært plagsom.	al_ex_an_der	2014-01-19 14:02:24	2014-01-19 14:02:24
+229	0xe5	å	6198	386908	nob	Jeg går og handler i morgen.	contour	2010-05-07 20:08:36	2010-05-07 20:08:36
+230	0xe6	æ	1181	2925504	nob	Laura kan ha vært syk.	eirik174	2013-12-12 13:52:36	2013-12-12 13:52:36
 231	0xe7	ç	1	1974116	nob	Jeg vil leve på øya Curaçao.	Combine988	2012-11-01 20:58:42	2012-11-01 20:58:42
 232	0xe8	è	3	3521816	nob	Framtiden ser mørk ut for Edmond Dantès etter han har blitt utsatt for et komplott, han ble dømt for forræderi og satt i fengsel på livstid.	neron	2014-09-27 01:42:52	2014-09-27 13:26:08
-233	0xe9	é	59	3518350	nob	Hvorfor skjedde alt på én gang?	al_ex_an_der	2014-09-25 02:27:16	2014-09-25 02:27:16
-237	0xed	í	2	10941298	nob	Pablo og María var her.	Mayk	2022-06-27 02:37:19	2022-06-27 02:37:19
-242	0xf2	ò	6	1686561	nob	Dette gjelder ditt tilfelle òg.	Combine988	2012-07-12 20:38:51	2012-07-12 20:38:51
-244	0xf4	ô	5	2925831	nob	Røyking er ikke tillatt her. Fôr kreften din utenfor!	eirik174	2013-12-12 15:13:51	2013-12-12 15:16:10
+233	0xe9	é	59	11150057	nob	Nordlige alléen er det meste forurensede og forsøplede stedet i hele distriktet.	RavenGuardian	2022-09-30 09:36:47	2022-09-30 09:36:47
+237	0xed	í	2	5153206	nob	Hun liker ikke maten som Bríd lager.	Yomawaru	2016-05-20 07:26:19	2016-05-20 07:26:19
+242	0xf2	ò	6	1688363	nob	Jeg òg.	Combine988	2012-07-13 10:27:51	2012-07-13 10:27:51
+244	0xf4	ô	5	11805578	nob	Hva fôrer du kattene dine med?	vebjsand	2023-05-30 09:06:34	2023-05-30 09:06:34
 246	0xf6	ö	2	3488585	nob	En to meter lang levende krokodille ble funnet i et drivhus i en hage i Sveriges tredje største by - Malmö.	neron	2014-09-11 20:01:37	2014-09-12 07:02:47
-248	0xf8	ø	4062	390811	nob	Jeg var nødt til å stå opp tidlig.	contour	2010-05-19 11:38:08	2010-05-19 11:38:08
-252	0xfc	ü	5	2674362	nob	Zürich, som er Sveits' største by, er et vakkert og sjarmerende reisemål.	al_ex_an_der	2013-08-13 22:02:03	2013-08-13 22:02:03
+248	0xf8	ø	4062	9210937	nob	Jeg må kjøpe noe nytt verktøy.	janni	2020-10-30 21:59:07	2020-10-30 21:59:07
+252	0xfc	ü	5	2673952	nob	Zürich er den største byen i Sveits.	al_ex_an_der	2013-08-13 20:02:22	2013-08-13 20:02:22
 339	0x153	œ	1	2607270	nob	Jeg går på skole fordi jeg ønsker å lœre.	aslakg	2013-07-21 03:08:58	2013-07-21 03:08:58
 353	0x161	š	1	10952199	nob	Jeg heter Dušana.	GabrielPires	2022-06-30 18:14:18	2022-06-30 18:14:18
 537	0x219	ș	1	11806890	nob	Jeg var født i Wallachia i Pitești.	vebjsand	2023-05-30 11:41:50	2023-05-30 11:41:50
 8203	0x200b	​	1	6042364	nob	Alle forteller​ meg at jeg er rar.	Djd_9	2017-04-27 21:19:16	\N
-8211	0x2013	–	21	3486521	nob	Si igjen "fjellbjørkeskog" – det høres fint ut.	al_ex_an_der	2014-09-11 01:30:34	2014-09-11 01:30:34
-8212	0x2014	—	21	2683617	nob	Resultatene av disse undersøkelsene etterlater ingen tvil. Frukt, grønnsaker og krydderurter er sunt — kjempesunt.	al_ex_an_der	2013-08-17 15:43:52	2013-08-17 15:44:13
+8211	0x2013	–	21	2687710	nob	I Norge finnes det mer enn 1500 ville eller forvillede blomsterarter – en rikdom å glede seg over, og en arv å verne om!	al_ex_an_der	2013-08-19 17:38:52	2013-08-19 17:38:52
+8212	0x2014	—	21	2895514	nob	"I denne byen er det flere flotte parker, og langs elva er det også innbydende turstier." — "Så da kunne du ofte gå en tur, ikke sant?"	al_ex_an_der	2013-12-02 06:42:00	2014-01-04 08:09:56
 8220	0x201c	“	1	12258462	nob	Hun sa “Legen min tror jeg ikke bør spise gluten”	EllisWalsh	2024-01-08 08:42:28	2024-01-08 08:42:28
 8221	0x201d	”	3	12258462	nob	Hun sa “Legen min tror jeg ikke bør spise gluten”	EllisWalsh	2024-01-08 08:42:28	2024-01-08 08:42:28
-8230	0x2026	…	2	12259503	nob	For å være ærlig…	augine	2024-01-09 00:56:15	2024-01-09 00:56:15
+8230	0x2026	…	2	12259504	nob	Ærlig talt…	augine	2024-01-09 00:56:57	2024-01-09 00:56:57
 8239	0x202f	 	1	11931361	nob	Forvarm ovnen til 200 °C.	vikvaering	2023-07-15 06:30:31	2023-07-15 06:30:31
 8364	0x20ac	€	1	2926033	nob	Dette vil koste €30.	eirik174	2013-12-12 16:08:26	2013-12-12 16:08:26
 24819	0x60f3	想	1	12072742	nob	梦想	liuxiao	2023-09-23 03:08:23	2023-09-23 03:08:23

@@ -1,4 +1,4 @@
-a	+0	2	+	2671993	Scriptor
+a	+0	2	+	692861	gioni
 abitais	+0	1	+	692861	gioni
 abitesch	+0	1	+	692861	gioni
 agir	+0	1	+	2494515	Anthaus
@@ -12,8 +12,8 @@ bab	+0	1	+	3073145	hoffmania
 bain	+0	2	+	12328609	Serrot
 Bellas	+0	1	+	692859	gioni
 Betg	+0	1	+	692858	gioni
-betg	+0	3	+	3090363	\N
-cha	+0	3	+	2700821	Scriptor
+betg	+0	3	+	12328609	Serrot
+cha	+0	3	+	2700810	Scriptor
 chantun	+0	1	+	3073145	hoffmania
 chapesch	+0	2	+	10958011	GuiFFI
 chaunta	+0	1	+	2700820	Scriptor
@@ -26,7 +26,7 @@ cor	+0	1	+	3090363	\N
 cugl	+0	1	+	3090363	\N
 cultura	+0	1	+	2671993	Scriptor
 cun	+0	1	+	2494515	Anthaus
-da	+0	7	+	12328606	Serrot
+da	+0	7	+	2700820	Scriptor
 dal	+0	1	+	2707447	Scriptor
 dessan	+0	1	+	2494515	Anthaus
 di	+0	1	+	2700813	Scriptor
@@ -42,7 +42,7 @@ durabla	+0	1	+	2671993	Scriptor
 dus	+0	1	+	3081377	\N
 dvainta	+0	1	+	2700813	Scriptor
 E	+0	1	+	3090363	\N
-e	+0	4	+	3090363	\N
+e	+0	4	+	2700810	Scriptor
 è	+0	3	+	10959908	GuiFFI
 ed	+0	2	+	2700819	Scriptor
 eguals	+0	1	+	2494515	Anthaus
@@ -70,16 +70,16 @@ Igl	+0	1	+	3090363	\N
 igl	+0	1	+	3090363	\N
 igls	+0	1	+	3090363	\N
 Il	+0	1	+	2707447	Scriptor
-il	+0	3	+	2700823	Scriptor
+il	+0	3	+	2707447	Scriptor
 ils	+0	1	+	2671993	Scriptor
 In	+0	1	+	2700813	Scriptor
-in	+0	2	+	692858	gioni
+in	+0	2	+	2494515	Anthaus
 ins	+0	1	+	3090363	\N
 intellet	+0	1	+	2494515	Anthaus
-Jau	+0	5	+	692860	gioni
+Jau	+0	5	+	692861	gioni
 Jaun	+0	1	+	12328609	Serrot
-La	+0	2	+	2671993	Scriptor
-la	+0	6	+	10959908	GuiFFI
+La	+0	2	+	2700823	Scriptor
+la	+0	6	+	10958017	GuiFFI
 l'Africa	+0	1	+	2707447	Scriptor
 las	+0	1	+	2671993	Scriptor
 Lavura	+0	1	+	3073145	hoffmania
@@ -102,7 +102,7 @@ mintgin	+0	1	+	692858	gioni
 misteri	+0	1	+	3090363	\N
 moda	+0	1	+	2671993	Scriptor
 müda	+0	1	+	2700823	Scriptor
-na	+0	3	+	10958011	GuiFFI
+na	+0	3	+	2700823	Scriptor
 Nadal	+0	1	+	692859	gioni
 naschan	+0	1	+	2494515	Anthaus
 n'e	+0	1	+	3090363	\N
@@ -127,10 +127,10 @@ Quests	+0	1	+	2707462	Scriptor
 repeter	+0	1	+	10958017	GuiFFI
 rumantsch	+0	1	+	12328609	Serrot
 Rumantscha	+0	1	+	2671993	Scriptor
-rumantscha	+0	2	+	2707462	Scriptor
+rumantscha	+0	2	+	2671993	Scriptor
 Rumantschas	+0	1	+	2671993	Scriptor
 Rumantschs	+0	1	+	2671993	Scriptor
-sa	+0	2	+	692858	gioni
+sa	+0	2	+	2707462	Scriptor
 sadella	+0	1	+	10959908	GuiFFI
 sainza	+0	1	+	2700816	Scriptor
 scu	+0	1	+	2700819	Scriptor
@@ -145,7 +145,7 @@ sprovan	+0	1	+	2707462	Scriptor
 sted	+0	1	+	2700820	Scriptor
 sto	+0	1	+	2700824	Scriptor
 stu	+0	1	+	2700819	Scriptor
-sun	+0	4	+	2700816	Scriptor
+sun	+0	4	+	2494515	Anthaus
 tanter	+0	1	+	2494515	Anthaus
 tar	+0	1	+	3073145	hoffmania
 tem	+0	1	+	692860	gioni
@@ -167,7 +167,7 @@ umur	+0	1	+	2700816	Scriptor
 vain	+0	1	+	2700810	Scriptor
 Vasco	+0	1	+	2707447	Scriptor
 veir	+0	1	+	3090363	\N
-via	+0	2	+	2700824	Scriptor
+via	+0	2	+	2707447	Scriptor
 visibel	+0	1	+	3090363	\N
 vizi	+0	1	+	2700823	Scriptor
 vul	+0	1	+	2671993	Scriptor
