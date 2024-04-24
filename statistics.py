@@ -15,9 +15,6 @@ minimumasian = 0
 
 def cleanupforhashing(text):
   text = normalize("NFKC", text)
-  # text = sub(r"""\s+""", "", text)
-  # text = sub(r"""[\u2010-\u2015\u2212]+""", "-", text)
-  # text = sub(r"""[<>‹›«»'"\u2018-\u201F]+""", "'", text)
   text = cleanupforsorting(text)
   return text
 
@@ -578,11 +575,25 @@ def breaksrulesofstraightquotationmarks(text):
     messages.append("Low quotation mark: not used")
   return messages
 
-def analyzepunctuation():
-  print("Analyzing punctuation...")
+def findproblematic():
+  print("Finding problematic...")
   if not isdir("problematic"):
     makedirs("problematic")
   for language in ("ber", "cat", "ces", "dan", "deu", "eng", "epo", "est", "fin", "fra", "gle", "glg", "hun", "isl", "ita", "kab", "kor", "lat", "lit", "lvs", "nld", "nob", "pol", "por", "ron", "slk", "spa", "swe", "tgl", "tok", "tur", "vie"):
+    misspelled = {}
+    try:
+      file = open("misspelled/misspelled-" + language + ".txt", "r", encoding = "utf-8")
+    except:
+      pass
+    else:
+      print("Loading misspelled words (" + language + ")...")
+      for line in file:
+        fields = findall(r"[^\t\n]+", line)
+        misspelled[fields[0]] = fields[1]
+        misspelled[fields[0]].upper() = fields[1].upper()
+        misspelled[fields[0][: 1].upper() + fields[0][1 :]] = fields[1][: 1].upper() + fields[1][1 :]
+      file.close()
+
     print("Writing sentences (" + language + ")...")
     read = open("temporary/sentences/" + language + ".txt", "r", encoding = "utf-8")
     write = open("problematic/problematic-" + language + ".txt", "w", encoding = "utf-8")
@@ -754,6 +765,10 @@ def analyzepunctuation():
 
       if findall(r"""\u200B""", fields[2], flags = I):
         print("Zero-width space", line, sep = "\t", end = "", file = write)
+
+      for word in getwords(fields[2]):
+        if word in misspelled:
+          print("Misspelling: " + word + " -> " + misspelled[word], line, sep = "\t", end = "", file = write)
     read.close()
     write.close()
 
@@ -805,6 +820,6 @@ counttranslationsuser("eng", "por", "Cangarejo")
 print("")
 selectsentences()
 print("")
-analyzepunctuation()
+findproblematic()
 print("")
 findsimilar()
