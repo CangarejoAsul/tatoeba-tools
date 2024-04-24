@@ -8,6 +8,8 @@ def search():
   sourcelanguages = findall(r"\w+", sourcelanguagesentry.get().lower())
   minlength = int(minlengthentry.get())
   maxlength = int(maxlengthentry.get())
+  includedusers = findall(r"\w+", includedusersentry.get())
+  excludedusers = findall(r"\w+", excludedusersentry.get())
   targetwords = findall(r"\w[\w',:.-]*\w|\w", targetwordsentry.get().lower())
   targetlanguages = findall(r"\w+", targetlanguagesentry.get().lower())
 
@@ -16,7 +18,8 @@ def search():
         SELECT DISTINCT
           sentences.id,
           sentences.language,
-          sentences.sentence
+          sentences.sentence,
+          sentences.user
         FROM sentences""")
   for i, sourceword in enumerate(sourcewords):
     query += ("""
@@ -52,6 +55,12 @@ def search():
   if sourcelanguages:
     query += (" AND (" + " OR ".join(["sentences.language = ?"] * len(sourcelanguages)) + ")")
     arguments.extend(sourcelanguages)
+  if includedusers:
+    query += (" AND (" + " OR ".join(["sentences.user = ?"] * len(includedusers)) + ")")
+    arguments.extend(includedusers)
+  if excludedusers:
+    query += (" AND NOT (" + " OR ".join(["sentences.user = ?"] * len(excludedusers)) + ")")
+    arguments.extend(excludedusers)
   query += ("""
         ORDER BY sentences.id DESC""")
   query += (""";""")
@@ -62,7 +71,7 @@ def search():
   resultstext.delete("1.0", END)
   if results:
     for i, row in enumerate(results):
-      resultstext.insert(END, str(row[0]) + "\t" + row[1] + "\t" + row[2] + "\n")
+      resultstext.insert(END, str(row[0]) + "\t" + row[1] + "\t" + row[2] + "\t" + row[3] + "\n")
   else:
     resultstext.insert(END, "There are no results.\n")
 
@@ -78,8 +87,9 @@ else:
   connection = connect("data")
   cursor = connection.cursor()
 
-  cursor.execute("CREATE TABLE sentences (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL);")
+  cursor.execute("CREATE TABLE sentences (id integer PRIMARY KEY, language text NOT NULL, sentence text NOT NULL, user text NOT NULL);")
   cursor.execute("CREATE INDEX sentences_language ON sentences (language);")
+  cursor.execute("CREATE INDEX sentences_user ON sentences (user);")
   cursor.execute("CREATE TABLE words (id integer NOT NULL, word text NOT NULL);")
   cursor.execute("CREATE INDEX words_id ON words (id);")
   cursor.execute("CREATE INDEX words_word ON words (word);")
@@ -89,7 +99,7 @@ else:
   for line in file:
     fields = findall(r"[^\t\n]+", line)
     language[int(fields[0])] = fields[1]
-    cursor.execute("INSERT INTO sentences (id, language, sentence) VALUES (?, ?, ?);", (fields[0], fields[1], fields[2]))
+    cursor.execute("INSERT INTO sentences (id, language, sentence, user) VALUES (?, ?, ?, ?);", (fields[0], fields[1], fields[2], fields[3]))
     for word in set(findall(r"\w[\w',:.-]*\w|\w", fields[2].lower())):
       cursor.execute("INSERT INTO words (id, word) VALUES (?, ?);", (fields[0], word))
   file.close()
@@ -130,6 +140,14 @@ targetwordslabel = Label(window, text = "Target words:")
 targetwordslabel.pack()
 targetwordsentry = Entry(window)
 targetwordsentry.pack()
+includeduserslabel = Label(window, text = "Belonging to users:")
+includeduserslabel.pack()
+includedusersentry = Entry(window)
+includedusersentry.pack()
+excludeduserslabel = Label(window, text = "Not belonging to users:")
+excludeduserslabel.pack()
+excludedusersentry = Entry(window)
+excludedusersentry.pack()
 targetlanguageslabel = Label(window, text = "Target languages:")
 targetlanguageslabel.pack()
 targetlanguagesentry = Entry(window, textvariable = StringVar(window, value = "deu, ron"))
