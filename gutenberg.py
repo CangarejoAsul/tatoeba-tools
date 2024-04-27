@@ -114,7 +114,6 @@ def findsentences():
         terms.append(fields[0])
   file.close()
 
-  i = 0
   sentences = {}
   for word in untranslated:
     sentences[word] = []
@@ -126,22 +125,15 @@ def findsentences():
       text.close()
       continue
     if len(sub(r"[^a-z]", "", string, flags = I)) / len(string) >= .5:
-      # for sentence in findall(r""".+?[.?!]+""", string, flags = I):
-      for sentence in findall(r""".+?(?<!\bDr)(?<!\bMr)(?<!\bMrs)(?<!\bMs)(?<!\bSt)[.?!]+""", string, flags = I):
-        # if len(sentence) >= 100 and len(sentence) < 200:
+      for sentence in findall(r""".+?(?<!\bDr)(?<!\bMr)(?<!\bMrs)(?<!\bMs)(?<!\bSt)(?<!\b[A-Z])[.?!]+\W* (?=\W*[A-Z0-9])""", string):
         if len(sentence) >= 100:
           for word in getwords(sentence.lower()):
             if word in untranslated:
               sentences[word].append((word, file.name, min(frequency[term] if term in frequency else 0 for term in getwords(sentence.lower()) if term != word), sentence))
-              # sentences[word].append((word, file.name, min(frequency[term] if term in frequency else 0 for term in getwords(sentence.lower())), sentence))
               if len(sentences[word]) >= 500:
                 shuffle(sentences[word])
                 sentences[word].sort(key = lambda tuple: tuple[2], reverse = True)
                 sentences[word] = sentences[word][: 20]
-      # i += 1
-      # if i >= 20 * 1000:
-      #   print("?")
-      #   break
     text.close()
 
   file = open("sentences.txt", "w", encoding = "utf-8")
