@@ -586,12 +586,26 @@ def findproblematic():
     except:
       pass
     else:
-      print("Loading misspelled words (" + language + ")...")
+      print("Loading misspelled (" + language + ")...")
       for line in file:
         fields = findall(r"[^\t\n]+", line)
         misspelled[fields[0]] = fields[1]
-        misspelled[fields[0]].upper() = fields[1].upper()
+        misspelled[fields[0].upper()] = fields[1].upper()
         misspelled[fields[0][: 1].upper() + fields[0][1 :]] = fields[1][: 1].upper() + fields[1][1 :]
+      file.close()
+
+    foreign = {}
+    try:
+      file = open("misspelled/foreign-" + language + ".txt", "r", encoding = "utf-8")
+    except:
+      pass
+    else:
+      print("Loading foreign (" + language + ")...")
+      for line in file:
+        fields = findall(r"[^\t\n]+", line)
+        foreign[fields[0]] = fields[1]
+        foreign[fields[0].upper()] = fields[1].upper()
+        foreign[fields[0][: 1].upper() + fields[0][1 :]] = fields[1][: 1].upper() + fields[1][1 :]
       file.close()
 
     print("Writing sentences (" + language + ")...")
@@ -769,6 +783,10 @@ def findproblematic():
       for word in getwords(fields[2]):
         if word in misspelled:
           print("Misspelling: " + word + " -> " + misspelled[word], line, sep = "\t", end = "", file = write)
+
+      for word in getwords(fields[2]):
+        if word in foreign:
+          print("Foreign: " + word + " = " + foreign[word], line, sep = "\t", end = "", file = write)
     read.close()
     write.close()
 
