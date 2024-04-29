@@ -19,8 +19,8 @@ bıbān	+0	1	+	5741561	vo_gne
 Bıbaxşən	+0	1	+	5741575	vo_gne
 Bıhand	+0	1	+	5415722	vo_gne
 Bışi	+0	1	+	5415726	vo_gne
-Bə	+0	3	+	5362383	vo_gne
-bə	+0	5	+	5362378	vo_gne
+Bə	+0	3	+	5362463	vo_gne
+bə	+0	5	+	5415687	vo_gne
 bəhs	+0	2	+	5362443	vo_gne
 Bəke	+0	1	+	5415728	vo_gne
 çande	+0	1	+	5741577	vo_gne
@@ -33,7 +33,7 @@ Bəke	+0	1	+	5415728	vo_gne
 Çoşānbəye	+0	1	+	5741600	vo_gne
 çı	+0	1	+	5362519	vo_gne
 çımıne	+0	1	+	5344309	vo_gne
-çəmə	+0	2	+	5362383	vo_gne
+çəmə	+0	2	+	5362386	vo_gne
 dard	+0	1	+	5362519	vo_gne
 davaxa	+0	1	+	5336126	vo_gne
 dijəydə	+0	2	+	5362509	vo_gne
@@ -44,14 +44,14 @@ dı	+0	1	+	5362437	vo_gne
 Dışānbəye	+0	1	+	5741596	vo_gne
 dəşə	+0	1	+	5362378	vo_gne
 hamsüəm	+0	1	+	5362471	vo_gne
-handedə	+0	3	+	5998607	vo_gne
+handedə	+0	3	+	5998623	vo_gne
 hardəm	+0	1	+	5344205	vo_gne
 heste	+0	1	+	5362519	vo_gne
 hordəş	+0	1	+	5344182	vo_gne
 Həşi	+0	1	+	5362494	vo_gne
 Həvo	+0	1	+	5336135	vo_gne
-i	+0	2	+	5362443	vo_gne
-Imruj	+0	7	+	5741594	vo_gne
+i	+0	2	+	5336139	vo_gne
+Imruj	+0	7	+	5741607	vo_gne
 İşānbəye	+0	1	+	5741594	vo_gne
 Iştı	+0	1	+	5379941	vo_gne
 Jinə	+0	1	+	5362509	vo_gne
@@ -70,7 +70,7 @@ kitob	+0	1	+	5998623	vo_gne
 Kitobi	+0	1	+	5362443	vo_gne
 koncoy	+0	1	+	5741583	vo_gne
 külük	+0	1	+	5336137	vo_gne
-kə	+0	2	+	5362383	vo_gne
+kə	+0	2	+	5362386	vo_gne
 kərən	+0	1	+	5336139	vo_gne
 kəşedə	+0	1	+	5342276	vo_gne
 kəştəş	+0	1	+	5362519	vo_gne
@@ -82,10 +82,10 @@ mülayim	+0	1	+	5336135	vo_gne
 Muzey	+0	1	+	5741583	vo_gne
 müəllime	+0	1	+	5415716	vo_gne
 müəlliməye	+0	1	+	5415718	vo_gne
-mı	+0	2	+	5362435	vo_gne
+mı	+0	2	+	5362463	vo_gne
 Mınış	+0	1	+	5362475	vo_gne
 mədə	+0	1	+	5362463	vo_gne
-məktəb	+0	2	+	5362378	vo_gne
+məktəb	+0	2	+	5415687	vo_gne
 məktəbış	+0	1	+	5362499	vo_gne
 məkə	+0	1	+	5362435	vo_gne
 Məmnun	+0	1	+	5741571	vo_gne
@@ -99,7 +99,7 @@ nıvıştedə	+0	1	+	5998610	vo_gne
 nıvıştedəm	+0	1	+	5386293	vo_gne
 nərəldamiş	+0	1	+	5336139	vo_gne
 omutedəmon	+0	1	+	5375658	vo_gne
-omə	+0	2	+	5362383	vo_gne
+omə	+0	2	+	5362386	vo_gne
 penco-şest	+0	1	+	5336139	vo_gne
 Penə	+0	1	+	5362504	vo_gne
 peydəş	+0	1	+	5415640	vo_gne
@@ -126,7 +126,7 @@ sə	+0	1	+	5362499	vo_gne
 Şəkləkəş	+0	1	+	5342276	vo_gne
 Sənırəsəym	+0	1	+	5741581	vo_gne
 Şəv	+0	1	+	5741578	vo_gne
-Tolışi	+0	2	+	5741558	vo_gne
+Tolışi	+0	2	+	5375658	vo_gne
 Tıni	+0	1	+	5362310	vo_gne
 təxminən	+0	1	+	5336139	vo_gne
 ve	+0	1	+	5336126	vo_gne
@@ -134,7 +134,7 @@ vindıme	+0	1	+	5362310	vo_gne
 vindənim	+0	1	+	5362437	vo_gne
 vişədə	+0	1	+	5362482	vo_gne
 voa	+0	1	+	5336137	vo_gne
-xeyr	+0	2	+	5741566	vo_gne
+xeyr	+0	2	+	5741578	vo_gne
 xosiyət	+0	1	+	5362419	vo_gne
 Zoə	+0	1	+	5998610	vo_gne
 zındəyon	+0	1	+	5741558	vo_gne
@@ -143,7 +143,7 @@ Zəhmət	+0	1	+	5741563	vo_gne
 ğonəğ	+0	1	+	5362386	vo_gne
 ıştı	+0	2	+	5362519	vo_gne
 Ə	+0	1	+	5362419	vo_gne
-Əv	+0	3	+	5362482	vo_gne
+Əv	+0	3	+	5415718	vo_gne
 əy	+0	1	+	5362437	vo_gne
 Əynəşəve	+0	1	+	5741607	vo_gne
 Əynəye	+0	1	+	5741608	vo_gne
