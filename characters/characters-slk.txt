@@ -1,132 +1,132 @@
-32	0x20	 	17643	10067386	slk	Mária vraví, že jej chýba Austrália.	Dominika7	2021-05-27 17:55:56	2021-05-27 17:55:56
-33	0x21	!	799	5016770	slk	Nebrzdi tak prudko!	tinnatay	2016-03-28 09:08:34	2016-03-28 09:08:34
-34	0x22	"	17	2229011	slk	"Chceš vedieť, ako to urobil?" "Som samé ucho."	inet	2013-02-17 11:24:13	2013-02-17 11:24:13
-39	0x27	'	5	5247075	slk	Od vd'ačnosti mu takmer vyhřkli slzy.	Aleksandro40	2016-07-02 13:18:50	2016-07-03 04:48:24
+32	0x20	 	17648	8958333	slk	Plával som.	Dominika7	2020-08-04 15:59:53	2020-08-04 15:59:53
+33	0x21	!	799	5312557	slk	Ďakujem za darček!	tinnatay	2016-08-01 16:09:31	2016-08-01 16:09:31
+34	0x22	"	17	1044855	slk	Používanie len "Tom" a "Mike" v mnohých vetách je veľmi čudné.	Soninka	2011-08-15 15:18:58	2011-08-15 15:18:58
+39	0x27	'	5	4717151	slk	Bohužial' pršalo.	aldar	2015-11-21 23:47:23	2015-11-21 23:47:23
 40	0x28	(	2	9872628	slk	Pri písaní vety sa zvyčajne začína s veľkým písmenom a končí bodkou (.), výkričníkom (!) alebo otáznikom (?).	Dominika7	2021-03-26 17:52:57	2021-03-26 17:52:57
 41	0x29	)	2	9872628	slk	Pri písaní vety sa zvyčajne začína s veľkým písmenom a končí bodkou (.), výkričníkom (!) alebo otáznikom (?).	Dominika7	2021-03-26 17:52:57	2021-03-26 17:52:57
-44	0x2c	,	3248	10092318	slk	Tom povedal Márii iba to, čo potrebovala vedieť.	Dominika7	2021-06-08 10:15:04	2021-06-08 10:15:04
-45	0x2d	-	14	1865246	slk	Pripravili sme mu párty pri príležitosti osláv jeho 70-tín.	Muxotrafka	2012-09-25 14:23:41	2012-09-25 14:23:41
-46	0x2e	.	14060	5108349	slk	Kamsi sa podeli aj ti dvaja pouliční predavači.	Aleksandro40	2016-05-03 16:27:33	2016-05-03 16:28:04
-48	0x30	0	23	10324930	slk	To nestojí 300 jenov.	Dominika7	2021-09-27 12:55:04	2021-09-27 12:55:04
-49	0x31	1	24	9952122	slk	Narodil som sa v Kjóte v roku 1980.	Dominika7	2021-04-12 12:24:13	2021-04-12 12:24:13
-50	0x32	2	18	10079028	slk	Narodila som sa v roku 1982.	Dominika7	2021-06-01 18:23:29	2021-06-01 18:23:29
-51	0x33	3	10	8979066	slk	Island má územie o rozlohe zhruba 103 000 kilometrov štvorcových.	Dominika7	2020-08-16 11:18:56	2020-08-16 11:18:56
-52	0x34	4	8	8862922	slk	Mikuláš Kopernik sa narodil v Poľsku roku 1473.	Dominika7	2020-06-21 15:16:58	2020-06-21 15:16:58
-53	0x35	5	8	9071272	slk	Moje telefónne číslo je 9876 5432.	Dominika7	2020-09-25 13:16:01	2020-09-25 13:19:13
-54	0x36	6	5	2226125	slk	Škola bola založená v roku 1650.	inet	2013-02-16 11:44:42	2013-02-16 11:44:42
-55	0x37	7	4	8862922	slk	Mikuláš Kopernik sa narodil v Poľsku roku 1473.	Dominika7	2020-06-21 15:16:58	2020-06-21 15:16:58
-56	0x38	8	7	9952122	slk	Narodil som sa v Kjóte v roku 1980.	Dominika7	2021-04-12 12:24:13	2021-04-12 12:24:13
-57	0x39	9	7	10079028	slk	Narodila som sa v roku 1982.	Dominika7	2021-06-01 18:23:29	2021-06-01 18:23:29
-58	0x3a	:	44	9832056	slk	V ruskej abecede je tridsaťtri písmen: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	Dominika7	2021-03-08 16:24:48	2021-03-08 16:24:48
-59	0x3b	;	22	7584503	slk	Je online; čo spravím?	stanyas	2018-12-15 03:50:47	2018-12-15 03:50:47
-63	0x3f	?	3406	8928965	slk	Kedy si jedol?	Dominika7	2020-07-21 07:12:09	2020-07-21 07:12:09
+44	0x2c	,	3248	9813259	slk	Včera si sľúbil, že to pre mňa urobíš.	Dominika7	2021-02-28 16:56:22	2021-02-28 16:56:22
+45	0x2d	-	14	8867443	slk	Krava robí "mú", kohút "kikirikí", prasa "kroch-kroch", kačka "kač-kač" a mačka robí "mňau".	Dominika7	2020-06-23 16:27:43	2020-06-23 16:27:43
+46	0x2e	.	14065	10072965	slk	Chcem, aby prišiel.	Dominika7	2021-05-29 19:31:36	2021-05-29 19:31:36
+48	0x30	0	23	10165115	slk	Tento stolík ma stál 20 000 jenov.	Dominika7	2021-07-12 00:14:59	2021-07-12 00:14:59
+49	0x31	1	24	9264083	slk	Som vysoká 165 centimetrov.	Dominika7	2020-11-08 20:09:57	2020-11-08 20:09:57
+50	0x32	2	18	5364288	slk	Tom sa naučil naspamäť 2000 anglických slov.	tinnatay	2016-08-23 08:37:46	2016-08-23 08:37:46
+51	0x33	3	10	8979061	slk	Na Islande žije okolo 320 tisíc ľudí. Hlavné mesto Islandu je Reykjavík.	Dominika7	2020-08-16 11:16:52	2020-08-16 11:16:52
+52	0x34	4	8	9071272	slk	Moje telefónne číslo je 9876 5432.	Dominika7	2020-09-25 13:16:01	2020-09-25 13:19:13
+53	0x35	5	8	5303053	slk	Dostavte sa na check-in najneskôr 45 minút pred odletom.	tinnatay	2016-07-27 12:39:16	2016-07-27 12:39:16
+54	0x36	6	5	9264083	slk	Som vysoká 165 centimetrov.	Dominika7	2020-11-08 20:09:57	2020-11-08 20:09:57
+55	0x37	7	4	1865246	slk	Pripravili sme mu párty pri príležitosti osláv jeho 70-tín.	Muxotrafka	2012-09-25 14:23:41	2012-09-25 14:23:41
+56	0x38	8	7	9071272	slk	Moje telefónne číslo je 9876 5432.	Dominika7	2020-09-25 13:16:01	2020-09-25 13:19:13
+57	0x39	9	7	12406798	slk	Slovinská speváčka Maja Keucová sa narodila v roku 1992.	Dominika7	2024-04-08 16:52:14	2024-04-08 16:52:14
+58	0x3a	:	44	9832086	slk	Abeceda hornolužickej srbčiny pozostáva z 34 písmen: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:52:56	2021-03-08 16:52:56
+59	0x3b	;	22	10065060	slk	Preto nebuďte ustarostení o zajtrajšok; zajtrajší deň sa postará sám o seba. Každý deň má dosť svojho trápenia.	Dominika7	2021-05-26 15:09:29	2021-05-26 15:09:29
+63	0x3f	?	3406	9843027	slk	A ak sa mýliš?	Dominika7	2021-03-14 17:21:39	2021-03-14 17:21:39
 64	0x40	@	1	9016750	slk	Moja emailová adresa je abcde@example.com.	Dominika7	2020-09-05 14:22:21	2020-09-05 14:22:21
-65	0x41	A	704	8992141	slk	Ako sa volá tvoja mačka?	Dominika7	2020-08-24 13:04:37	2020-08-24 13:04:37
-66	0x42	B	728	9129991	slk	Beháš.	Dominika7	2020-10-10 11:32:55	2020-10-10 11:32:55
-67	0x43	C	488	10041717	slk	Chceli sme si umyť ruky.	Dominika7	2021-05-16 17:59:52	2021-05-16 17:59:52
-68	0x44	D	573	9918459	slk	Dneska ráno mi krvácalo ucho.	Dominika7	2021-03-28 16:12:24	2021-03-28 16:12:24
-69	0x45	E	117	9934833	slk	Ešte stále sú v Bostone.	Dominika7	2021-04-03 15:17:34	2021-04-03 15:17:34
-70	0x46	F	78	9942154	slk	Farby sú živé.	Dominika7	2021-04-07 12:22:09	2021-04-07 12:22:09
-71	0x47	G	46	4724582	slk	Jeho vlasťou je Gruzínsko.	aldar	2015-11-25 09:06:06	2015-11-25 09:06:06
-72	0x48	H	369	10349341	slk	Hanba vám!	Dominika7	2021-10-08 07:16:02	2021-10-08 07:16:02
-73	0x49	I	150	5975777	slk	Idem na pláž.	Balamax	2017-03-25 07:04:00	\N
-74	0x4a	J	887	10082431	slk	Je prekladateľka.	Dominika7	2021-06-03 17:12:26	2021-06-03 17:12:26
-75	0x4b	K	1063	4642134	slk	Kam ideš v pondelok?	Sim	2015-10-25 07:30:01	2015-10-25 07:30:01
-76	0x4c	L	137	9457031	slk	Lepší vrabec v hrsti, ako holub na streche.	Dominika7	2020-12-09 22:17:57	2020-12-09 22:17:57
-77	0x4d	M	2165	9099135	slk	Milovali svoje deti.	Dominika7	2020-10-03 14:54:45	2020-10-03 14:54:45
-78	0x4e	N	2161	10142554	slk	Nerozumel som vám.	Dominika7	2021-07-01 23:00:28	2021-07-01 23:00:28
-79	0x4f	O	600	10147104	slk	Ozaj netuším, čo chce Tom robiť.	Dominika7	2021-07-03 13:59:44	2021-07-03 13:59:44
-80	0x50	P	2015	10056308	slk	Povedal mi, že je bez domova.	Dominika7	2021-05-22 18:33:23	2021-05-22 18:33:23
-81	0x51	Q	3	11830083	slk	Volám sa Quy	\N	2023-06-08 11:51:49	2023-09-09 16:03:37
-82	0x52	R	323	5017020	slk	Realita je najzábavnejšia komédia sveta.	tinnatay	2016-03-28 09:48:39	2016-03-28 09:48:39
-83	0x53	S	1339	10748956	slk	Skús to.	Dominika7	2022-04-01 14:53:35	2022-04-01 14:53:35
-84	0x54	T	3076	8184707	slk	To je naše auto.	felvideki	2019-09-13 16:04:19	2019-09-13 16:04:19
-85	0x55	U	446	9952487	slk	Ukáž mi svoju pravú tvár.	Dominika7	2021-04-12 16:30:31	2021-04-12 16:30:31
-86	0x56	V	1413	10085127	slk	Všetcia prahnú po šťastí.	Dominika7	2021-06-04 20:52:58	2021-06-04 20:52:58
-87	0x57	W	13	1045018	slk	Martyna je rodáčka z Wrocławu.	Soninka	2011-08-15 16:45:13	2011-08-15 16:45:16
+65	0x41	A	704	735090	slk	A čo?	julius	2011-01-31 16:22:35	2011-01-31 16:22:35
+66	0x42	B	728	11734740	slk	„Bol si doma?“ „Nie, nebol.“	Dominika7	2023-05-03 17:58:24	2023-05-03 17:58:24
+67	0x43	C	489	4738879	slk	Chcem hovotiť plynule po francúzsky.	aldar	2015-12-01 22:01:41	2015-12-01 22:01:41
+68	0x44	D	573	8959603	slk	Dnes sú v Poľsku voľby.	Dominika7	2020-08-05 14:05:53	2020-08-05 14:05:53
+69	0x45	E	117	10003802	slk	Ešte som nehlasoval.	Dominika7	2021-05-02 19:01:19	2021-05-02 19:01:19
+70	0x46	F	78	9739263	slk	Frízština, saterlandská frízština a severná frízština sú frízske jazyky.	Dominika7	2021-02-09 15:37:23	2021-02-09 15:37:23
+71	0x47	G	46	1044609	slk	Gréčtina a latinčina sú užitočné jazyky, preto ich študujem.	Soninka	2011-08-15 13:42:42	2011-08-15 13:42:42
+72	0x48	H	369	4719364	slk	Hľadáme ju.	aldar	2015-11-22 21:58:15	2015-11-22 21:58:15
+73	0x49	I	150	12038028	slk	Ideme dnes večer do kina?	Danka	2023-09-05 10:07:50	2023-09-05 10:07:50
+74	0x4a	J	887	9830623	slk	Jete ryby.	Dominika7	2021-03-07 19:56:16	2021-03-07 19:56:16
+75	0x4b	K	1064	9866115	slk	Kam?	Dominika7	2021-03-23 17:23:54	2021-03-23 17:23:54
+76	0x4c	L	137	8874249	slk	Líška je divé zviera.	Dominika7	2020-06-26 15:30:39	2020-06-26 15:30:39
+77	0x4d	M	2165	2428686	slk	Môj malý brat to urobil miesto mňa.	slovak	2013-05-12 12:43:26	2013-05-12 12:43:28
+78	0x4e	N	2161	5138435	slk	Netuším, kde som.	tinnatay	2016-05-14 14:50:06	2016-05-14 14:50:06
+79	0x4f	O	600	9008151	slk	Obidve výslovnosti sú správne.	Dominika7	2020-09-01 15:07:17	2020-09-01 15:07:17
+80	0x50	P	2015	2226088	slk	Pracoval tak veľa, že si zničil zdravie.	inet	2013-02-16 11:34:29	2013-02-16 11:34:29
+81	0x51	Q	3	12045042	slk	Ja som Quy	mqd	2023-09-09 16:03:02	2023-09-09 16:03:02
+82	0x52	R	325	2914181	slk	Rozpad Britského impéria bol pomerne pokojný.	springfield	2013-12-08 19:32:59	2013-12-08 19:32:59
+83	0x53	S	1339	10003792	slk	Sú smädní.	Dominika7	2021-05-02 18:59:13	2021-05-02 18:59:13
+84	0x54	T	3076	10092648	slk	Musíme zistiť, čo Tom a Mária chcú.	Dominika7	2021-06-08 15:02:44	2021-06-08 15:02:44
+85	0x55	U	446	878657	slk	Už je najvyšší čas ísť do postele.	Rukkee	\N	\N
+86	0x56	V	1414	11456654	slk	Veverička mu jedla z ruky.	Dominika7	2023-01-13 16:23:43	2023-01-13 16:23:43
+87	0x57	W	13	1045027	slk	Wienczysława je najkrajšia brunetka na pracovisku.	Soninka	2011-08-15 16:47:02	2011-08-15 16:47:11
 88	0x58	X	1	9042784	slk	Neodpovedajte na otázky označené X.	Dominika7	2020-09-16 14:30:37	2020-09-16 14:30:37
-89	0x59	Y	10	2912350	slk	On pozná New York veľmi dobre.	springfield	2013-12-08 10:38:51	2013-12-08 10:40:19
-90	0x5a	Z	667	10142772	slk	Zahŕňa to aj raňajky?	Dominika7	2021-07-02 01:53:58	2021-07-02 01:53:58
-97	0x61	a	13888	10085117	slk	Všetcia prišli načas.	Dominika7	2021-06-04 20:49:43	2021-06-04 20:49:43
-98	0x62	b	5109	2914736	slk	Preložila báseň.	springfield	2013-12-08 22:02:56	2013-12-08 22:02:56
-99	0x63	c	4459	2888659	slk	Plávam v oceáne.	seveleu_dubrovnik	2013-11-30 09:42:18	2019-04-06 18:33:07
-100	0x64	d	8438	12297208	slk	Si dobrá matka.	Adelpa	2024-02-02 17:11:12	2024-02-02 17:11:12
-101	0x65	e	15228	2428550	slk	Ricardo je moje meno.	slovak	2013-05-12 00:42:13	2013-05-12 00:42:15
-102	0x66	f	414	5007478	slk	Každý idiot s fotoaparátom si myslí, že je fotograf.	tinnatay	2016-03-25 11:12:04	2016-03-25 11:12:04
-103	0x67	g	346	2921790	slk	Ty si originálna.	springfield	2013-12-11 11:30:24	2013-12-11 11:30:24
-104	0x68	h	5479	8956446	slk	Všetci mu zablahoželali.	Dominika7	2020-08-03 14:37:40	2020-08-03 14:37:40
-105	0x69	i	12004	5092990	slk	Aj nudisti používajú eufemizmy, keď hovoria o intímnych častiach.	tinnatay	2016-04-28 17:57:41	2016-04-28 17:57:41
-106	0x6a	j	6674	10472487	slk	Ste ozbrojený?	Dominika7	2021-10-30 20:45:42	2021-10-30 20:45:42
-107	0x6b	k	7971	4924162	slk	Nie je nič dôležitejšie ako zdravie.	aldar	2016-02-20 12:21:50	2016-02-20 12:21:50
-108	0x6c	l	9907	4124820	slk	Ona nemá královnú postavu.	Aleksandro40	2015-04-29 06:31:07	2015-04-29 06:31:07
-109	0x6d	m	11713	12095190	slk	Chcel by som lístok.	Danka	2023-10-04 07:53:23	2023-10-04 07:53:23
-110	0x6e	n	9992	10805569	slk	Ničoho sa nedotýkajte.	Dominika7	2022-05-05 11:09:09	2022-05-05 11:09:09
-111	0x6f	o	14665	9201578	slk	Povedzte Tomovi, že som naňho hrdý.	Dominika7	2020-10-28 14:49:40	2020-10-28 14:49:40
-112	0x70	p	6770	5002510	slk	To, čo hovoríš, neplatí pre tento prípad.	tinnatay	2016-03-23 18:06:34	2016-03-23 18:06:34
-113	0x71	q	2	9949087	slk	Kazachstan sa po kazašsky povie „Qazaqstan“.	Dominika7	2021-04-10 19:12:31	2021-04-10 19:12:31
-114	0x72	r	9901	2915887	slk	Kde je Maryna peňaženka?	springfield	2013-12-09 14:16:20	2013-12-09 14:16:20
-115	0x73	s	11077	9038232	slk	Blbca nemožno učiť múdrosti.	Dominika7	2020-09-14 16:04:55	2020-09-14 16:04:55
-116	0x74	t	10450	9824221	slk	Taktiež Arnošt pochádza z Lužice.	Dominika7	2021-03-05 09:40:15	2021-03-05 09:40:53
-117	0x75	u	6629	2515800	slk	Vitajte vo Wikipédii, slobodnej encyklopédii, ktorú môže upravovať každý.	seveleu_dubrovnik	2013-06-22 12:34:43	2019-04-03 04:45:55
-118	0x76	v	9473	7584463	slk	Spravila som si vlastný výskum.	stanyas	2018-12-15 03:32:24	2018-12-15 03:32:24
-119	0x77	w	26	5052436	slk	Na iránsky jadrový program zaútočili malwarom.	tinnatay	2016-04-09 15:20:59	2016-04-09 15:20:59
+89	0x59	Y	10	1044912	slk	Timuçin je rodák z Yozgatu.	Soninka	2011-08-15 15:44:45	2011-08-15 15:44:45
+90	0x5a	Z	667	8963163	slk	Zobuď sa!	Dominika7	2020-08-07 14:21:19	2020-08-07 14:21:19
+97	0x61	a	13892	6316264	slk	Nechcem ťa viac vidieť.	felvideki	2017-09-19 22:37:27	2017-09-19 22:37:27
+98	0x62	b	5111	10631324	slk	A ak je problém ona?	LenkaHM	2022-01-19 19:30:29	2022-01-19 19:30:29
+99	0x63	c	4461	8962956	slk	Vtáci lietajú.	Dominika7	2020-08-07 10:50:07	2020-08-07 10:50:07
+100	0x64	d	8442	9797534	slk	Zabralo by mi priveľa času vysvetliť vám, prečo to nepôjde.	Dominika7	2021-02-23 13:55:26	2021-02-23 13:55:26
+101	0x65	e	15233	2230585	slk	Vo februári som bol v Sao Paule.	inet	2013-02-18 09:22:26	2013-02-18 09:22:26
+102	0x66	f	414	1044750	slk	V Belgicku, flámsky obyvatelia chcú jedného dňa vyhlásiť nezávislosť.	Soninka	2011-08-15 14:53:17	2011-08-15 14:53:17
+103	0x67	g	346	8978990	slk	V záhrade mám egreše.	Dominika7	2020-08-16 10:11:24	2020-08-16 10:11:24
+104	0x68	h	5481	8947478	slk	Obrátil rozhovor na niečo iné.	Dominika7	2020-07-29 14:19:39	2020-07-29 14:19:39
+105	0x69	i	12005	10133103	slk	Myslím, že by sa vám to páčilo.	Dominika7	2021-06-27 17:23:43	2021-06-27 17:23:43
+106	0x6a	j	6675	10152607	slk	Moje nové šaty sú červené.	Dominika7	2021-07-05 17:36:57	2021-07-05 17:36:57
+107	0x6b	k	7973	2428836	slk	Tom je najkrajší herec na svete.	slovak	2013-05-12 14:43:35	2013-05-12 14:43:35
+108	0x6c	l	9909	10849729	slk	Čo si myslíš, že chcú diváci?	janTuki	2022-05-22 18:30:35	2022-05-22 18:30:35
+109	0x6d	m	11715	9831495	slk	Som rovnako vysoký ako môj otec.	Dominika7	2021-03-08 11:03:50	2021-03-08 11:03:50
+110	0x6e	n	9994	2914740	slk	Chcem napísať knihu.	seveleu_dubrovnik	2013-12-08 22:04:16	2019-04-06 18:33:32
+111	0x6f	o	14668	8956561	slk	Tom sadí strom.	Dominika7	2020-08-03 15:22:11	2020-08-03 15:22:11
+112	0x70	p	6774	9005824	slk	Veľmi sa mi páči tento spevák.	Dominika7	2020-08-31 13:12:43	2020-08-31 13:12:43
+113	0x71	q	2	9832049	slk	Slovenská abeceda pozostáva zo 46 písmen: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 16:19:22	2021-03-08 16:19:22
+114	0x72	r	9903	9434049	slk	Nevedel som, že Tom vie po francúzsky.	Dominika7	2020-12-04 21:30:33	2020-12-04 21:30:33
+115	0x73	s	11079	10142697	slk	Myslím, že budete milo prekvapená.	Dominika7	2021-07-02 00:53:40	2021-07-02 00:53:40
+116	0x74	t	10451	4780424	slk	Ako sa do hory volá, tak sa z hory ozýva.	aldar	2015-12-20 22:33:04	2015-12-20 22:33:04
+117	0x75	u	6631	10349319	slk	Nebudem sa Tomovi ospravedlňovať.	Dominika7	2021-10-08 06:48:22	2021-10-08 06:48:22
+118	0x76	v	9476	8348351	slk	Bývam v meste.	felvideki	2019-11-26 21:17:38	2019-11-26 21:17:38
+119	0x77	w	26	9832049	slk	Slovenská abeceda pozostáva zo 46 písmen: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Dominika7	2021-03-08 16:19:22	2021-03-08 16:19:22
 120	0x78	x	47	9957466	slk	Bola si niekedy v Mexiku?	Dominika7	2021-04-14 19:05:06	2021-04-14 19:05:06
-121	0x79	y	4766	9804491	slk	Hovoríš ukrajinsky?	Dominika7	2021-02-25 14:03:25	2021-02-25 14:03:25
-122	0x7a	z	4639	9978937	slk	Jastrab má jedno krídlo zlomené.	Dominika7	2021-04-22 15:59:26	2021-04-22 15:59:26
-160	0xa0	 	2	2149747	slk	Tom bol môj prvý priateľ.	balkanbalkan	2013-01-17 15:49:10	2013-01-17 15:49:10
-171	0xab	«	3	7840520	slk	K novej slovenskej rozprávke «Johankino tajomstvo» naspievala pieseň s názvom «Na bieleho koňa» speváčka Kristína Peláková.	seveleu_dubrovnik	2019-04-07 20:48:34	2019-04-07 20:48:34
-187	0xbb	»	3	9763164	slk	Žena odpovedala hadovi: „Z ovocia rajských stromov môžeme jesť, ale o ovocí stromu, ktorý je v strede raja, nám Boh povedal: »Nejedzte z neho, ani sa ho nedotýkajte, aby ste nezomreli!«“	Dominika7	2021-02-14 15:22:05	2021-02-14 15:22:05
-193	0xc1	Á	38	9972477	slk	„Ste v poriadku?“ „Áno.“	Dominika7	2021-04-20 07:14:43	2021-04-20 07:14:43
-205	0xcd	Í	2	10604544	slk	Íme, a nevek.	kiseva33	2022-01-03 17:33:38	2022-01-03 17:33:38
+121	0x79	y	4766	10000834	slk	Osvojenie cudzieho jazyka si vyžaduje trpezlivosť.	Dominika7	2021-05-01 15:04:36	2021-05-01 15:04:55
+122	0x7a	z	4639	8975977	slk	Potrebuje peniaze.	Dominika7	2020-08-14 13:37:49	2020-08-14 13:37:49
+160	0xa0	 	2	2149721	slk	Nie je bohatý, ale je šťastný.	balkanbalkan	2013-01-17 15:42:14	2013-01-17 15:42:18
+171	0xab	«	3	9763164	slk	Žena odpovedala hadovi: „Z ovocia rajských stromov môžeme jesť, ale o ovocí stromu, ktorý je v strede raja, nám Boh povedal: »Nejedzte z neho, ani sa ho nedotýkajte, aby ste nezomreli!«“	Dominika7	2021-02-14 15:22:05	2021-02-14 15:22:05
+187	0xbb	»	3	9763034	slk	No had bol ľstivejší ako všetky poľné zvieratá, ktoré urobil Pán, Boh, a vravel žene: „Naozaj povedal Boh: »Nesmiete jesť z nijakého rajského stromu!«?“	Dominika7	2021-02-14 14:55:03	2021-02-14 14:55:03
+193	0xc1	Á	38	9869977	slk	„Pozri, veverička!“ „Čo? Kde?“ „Tam na strome. Vidíš ju?“ „Áno, vidím!“	Dominika7	2021-03-25 16:59:17	2021-03-25 16:59:17
+205	0xcd	Í	2	8979056	slk	Island sa po islandsky povie „Ísland“.	Dominika7	2020-08-16 11:11:16	2020-08-16 11:11:16
 211	0xd3	Ó	2	8862404	slk	Ó, tu je motýľ!	Dominika7	2020-06-21 12:01:04	2020-06-21 12:01:24
-218	0xda	Ú	27	10146369	slk	Úplne som zabudol, že dnes má Tom narodeniny.	Dominika7	2021-07-03 08:46:10	2021-07-03 08:46:10
-225	0xe1	á	6209	8996851	slk	Môj otec je veľmi dobrý rybár.	Dominika7	2020-08-26 18:41:13	2020-08-26 18:41:13
+218	0xda	Ú	27	2915864	slk	Úplne som zabudol spraviť nám niečo na jedenie.	springfield	2013-12-09 14:09:25	2013-12-09 14:09:25
+225	0xe1	á	6212	5312551	slk	Niečoho nemáme dosť.	tinnatay	2016-08-01 16:07:43	2016-08-01 16:07:43
 226	0xe2	â	1	9929773	slk	Holandsko sa vo frízštine povie „Nederlân“.	Dominika7	2021-03-31 18:24:54	2021-03-31 18:24:54
-228	0xe4	ä	289	9942131	slk	Mária tvrdila, že si nič nepamätá.	Dominika7	2021-04-07 12:04:15	2021-04-07 12:04:15
-231	0xe7	ç	3	1044905	slk	Timuçin sa učí po poľsky.	Soninka	2011-08-15 15:41:51	2011-08-15 15:41:51
-233	0xe9	é	1430	9942146	slk	To nie je také jednoduché.	Dominika7	2021-04-07 12:15:41	2021-04-07 12:15:41
+228	0xe4	ä	289	8214889	slk	Bábätko spí.	felvideki	2019-09-27 18:47:00	2019-09-27 18:47:00
+231	0xe7	ç	3	1044912	slk	Timuçin je rodák z Yozgatu.	Soninka	2011-08-15 15:44:45	2011-08-15 15:44:45
+233	0xe9	é	1430	9935691	slk	Učím sa arménsky.	Dominika7	2021-04-03 21:03:09	2021-04-03 21:03:09
 235	0xeb	ë	1	9940899	slk	Luxembursko sa po luxembursky povie „Lëtzebuerg“.	Dominika7	2021-04-06 16:23:51	2021-04-06 16:23:51
-237	0xed	í	4370	9850279	slk	Moja mama spí.	Dominika7	2021-03-18 12:53:50	2021-03-18 12:53:50
+237	0xed	í	4374	9872541	slk	Neviem, ako používať úvodzovky.	Dominika7	2021-03-26 17:15:05	2021-03-26 17:15:05
 241	0xf1	ñ	1	10021503	slk	Španielsko sa po španielsky povie „España“.	Dominika7	2021-05-10 18:23:46	2021-05-10 18:23:46
-243	0xf3	ó	123	7707818	slk	Kde je telefónny zoznam?	felvideki	2019-01-09 18:43:34	2019-01-09 18:43:34
-244	0xf4	ô	1100	1317887	slk	Neptún je ôsma planéta našej slnečnej sústavy.	Mutusen	2011-12-23 21:11:06	2011-12-23 21:11:06
+243	0xf3	ó	123	9939396	slk	Už si niekedy navštívila Kjóto?	Dominika7	2021-04-05 19:24:43	2021-04-05 19:24:43
+244	0xf4	ô	1100	10064361	slk	Som jediná, komu môžete dôverovať.	Dominika7	2021-05-26 10:16:59	2021-05-26 10:16:59
 246	0xf6	ö	1	8185243	slk	Jörg je mladší ako Jürgen.	felvideki	2019-09-13 21:54:31	2019-09-13 21:54:31
 248	0xf8	ø	1	12057431	slk	Jørgen sa učí gréčtinu.	enebi	2023-09-15 19:54:16	2023-09-15 19:54:16
-250	0xfa	ú	2405	9935356	slk	Nemôžem dvihnúť tento kameň.	Dominika7	2021-04-03 18:32:35	2021-04-03 18:32:35
+250	0xfa	ú	2405	9805264	slk	Preto aj Helvéťania vynikajú udatnosťou nad ostatných Galov. Veď skoro každý deň bojujú s Germánmi, keď ich alebo odrážajú od svojho územia, alebo sami vedú vojnu na ich území.	Dominika7	2021-02-25 18:52:15	2021-02-25 18:52:15
 252	0xfc	ü	1	8185243	slk	Jörg je mladší ako Jürgen.	felvideki	2019-09-13 21:54:31	2019-09-13 21:54:31
-253	0xfd	ý	2325	2912660	slk	Rozmýšľam, čo majú oni všetci spoločné.	springfield	2013-12-08 11:27:51	2021-03-24 17:04:03
+253	0xfd	ý	2327	8980729	slk	Chceme nový koberec.	Dominika7	2020-08-17 11:45:43	2020-08-17 11:45:43
 263	0x107	ć	1	9832086	slk	Abeceda hornolužickej srbčiny pozostáva z 34 písmen: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:52:56	2021-03-08 16:52:56
-265	0x109	ĉ	4	5108336	slk	Pri raňajkách matka utrúsila pár laskavých viet, ale inak vraŝtila oboĉie a takmer nebadateľne krútila hlavou.	Aleksandro40	2016-05-03 16:22:06	2016-05-03 19:59:13
-268	0x10c	Č	521	9827302	slk	Čo pre vás môžem urobiť?	felvideki	2021-03-06 16:00:17	2021-03-06 16:00:17
-269	0x10d	č	4165	9813279	slk	Myslím, že som bol dostatočne štedrý.	Dominika7	2021-02-28 16:59:44	2021-02-28 16:59:44
-270	0x10e	Ď	53	1548483	slk	Ďakujem za informáciu.	BoSi	2012-04-25 01:31:57	2020-09-12 18:42:46
-271	0x10f	ď	559	10072284	slk	Ihneď ju treba vziať do nemocnice.	Dominika7	2021-05-29 15:23:35	2021-05-29 15:23:35
+265	0x109	ĉ	4	5110346	slk	Pred pultom už hrĉilo niekolko ludí.	Aleksandro40	2016-05-04 10:44:36	2016-05-04 11:01:41
+268	0x10c	Č	521	10022623	slk	Čo sme jej dlžní?	Dominika7	2021-05-11 06:18:14	2021-05-11 06:18:14
+269	0x10d	č	4166	12406764	slk	Nepáči sa mi pláž.	Dominika7	2024-04-08 16:42:07	2024-04-08 16:42:07
+270	0x10e	Ď	53	5312557	slk	Ďakujem za darček!	tinnatay	2016-08-01 16:09:31	2016-08-01 16:09:31
+271	0x10f	ď	559	8869053	slk	Naozaj sa musíš pýtať, aby si vedel odpoveď?	Dominika7	2020-06-24 10:35:24	2020-06-24 10:36:07
 281	0x119	ę	3	938013	slk	Moja staršia dcéra je Magdalena Zarębówna.	subbeena	2011-06-13 18:13:34	2011-06-13 18:13:34
-283	0x11b	ě	2	9832086	slk	Abeceda hornolužickej srbčiny pozostáva z 34 písmen: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:52:56	2021-03-08 16:52:56
+283	0x11b	ě	2	4267910	slk	Zakryla její zklamání úsměvem.	Tirifto	2015-06-11 15:41:30	2015-06-11 15:42:01
 285	0x11d	ĝ	1	1044643	slk	Abeceda esperanta pozostáva z 28 písmen: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Soninka	2011-08-15 14:02:28	2011-08-15 14:02:28
 293	0x125	ĥ	1	1044643	slk	Abeceda esperanta pozostáva z 28 písmen: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Soninka	2011-08-15 14:02:28	2011-08-15 14:02:28
 305	0x131	ı	1	5555679	slk	Tom'un evi betondan yapılmıştır.	duran	2016-10-27 14:17:33	2016-10-27 14:17:33
 309	0x135	ĵ	1	1044643	slk	Abeceda esperanta pozostáva z 28 písmen: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Soninka	2011-08-15 14:02:28	2011-08-15 14:02:28
-314	0x13a	ĺ	21	9979920	slk	Dĺžka slepého čreva je okolo desať centimetrov.	Dominika7	2021-04-23 09:10:43	2021-04-23 09:10:43
-317	0x13d	Ľ	62	9951930	slk	Ľadové medvede lovia tulene.	Dominika7	2021-04-12 09:40:09	2021-04-12 09:40:09
-318	0x13e	ľ	1765	9749509	slk	Tento dom je veľmi malinký.	Dominika7	2021-02-11 12:25:33	2021-02-11 12:25:33
-321	0x141	Ł	4	1044975	slk	Magdalena študuje na japonskej škole v Łódźi.	Soninka	2011-08-15 16:20:37	2011-08-15 16:20:37
-322	0x142	ł	6	1044880	slk	Poznám dve Wieńczysławy. Jedna je brunetka a pracuje na pracovisku. Druhá je blondýna a je študentkou našej školy.	Soninka	2011-08-15 15:34:18	2011-08-15 15:34:18
-324	0x144	ń	3	1044880	slk	Poznám dve Wieńczysławy. Jedna je brunetka a pracuje na pracovisku. Druhá je blondýna a je študentkou našej školy.	Soninka	2011-08-15 15:34:18	2011-08-15 15:34:18
-328	0x148	ň	657	10269283	slk	Zatkli ho za krádež peňazí.	Dominika7	2021-08-30 08:52:39	2021-08-30 08:52:39
-341	0x155	ŕ	38	6141818	slk	Papagáj je mŕtvy.	miro	2017-06-28 19:02:11	2017-06-28 19:02:11
-345	0x159	ř	3	9832086	slk	Abeceda hornolužickej srbčiny pozostáva z 34 písmen: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:52:56	2021-03-08 16:52:56
-349	0x15d	ŝ	3	5123152	slk	Vŝetko myšlienok sa mu posletalo do jedného klbka.	Aleksandro40	2016-05-08 10:24:59	2016-05-08 10:31:25
+314	0x13a	ĺ	21	8947633	slk	Mám rád vaječné žĺtky.	Dominika7	2020-07-29 16:16:00	2020-07-29 16:16:00
+317	0x13d	Ľ	62	8936006	slk	Mojím snom je učiť sa slovinsky v Ľubľane.	Dominika7	2020-07-24 11:29:58	2020-10-19 07:09:34
+318	0x13e	ľ	1765	10183943	slk	Koľko som spala?	Dominika7	2021-07-21 10:28:12	2021-07-21 10:28:12
+321	0x141	Ł	4	1044875	slk	Łazarzove deti si myslia, že ich mama Felicja je najkrajšia žena na svete.	Soninka	2011-08-15 15:31:50	2011-08-15 15:31:50
+322	0x142	ł	6	1044961	slk	Žijem v Białystoku.	Soninka	2011-08-15 16:15:25	2011-08-15 16:15:25
+324	0x144	ń	3	9832086	slk	Abeceda hornolužickej srbčiny pozostáva z 34 písmen: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:52:56	2021-03-08 16:52:56
+328	0x148	ň	657	9850124	slk	Už som pripravil raňajky.	Dominika7	2021-03-18 11:03:58	2021-03-18 11:03:58
+341	0x155	ŕ	38	9001996	slk	Nakŕmil koňa.	Dominika7	2020-08-29 11:50:48	2020-08-29 11:50:48
+345	0x159	ř	3	5247075	slk	Od vd'ačnosti mu takmer vyhřkli slzy.	Aleksandro40	2016-07-02 13:18:50	2016-07-03 04:48:24
+349	0x15d	ŝ	3	1044643	slk	Abeceda esperanta pozostáva z 28 písmen: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Soninka	2011-08-15 14:02:28	2011-08-15 14:02:28
 351	0x15f	ş	2	5555679	slk	Tom'un evi betondan yapılmıştır.	duran	2016-10-27 14:17:33	2016-10-27 14:17:33
-352	0x160	Š	75	12419688	slk	Som Španielka.	Adelpa	2024-04-18 06:14:13	2024-04-18 06:14:13
-353	0x161	š	4013	4724577	slk	Konečne som našiel riešenie tohto problému.	aldar	2015-11-25 09:03:28	2021-03-27 15:31:29
-356	0x164	Ť	9	10631269	slk	Ťahať!	LenkaHM	2022-01-19 19:12:03	2022-01-19 19:12:03
-357	0x165	ť	3297	654797	slk	Nemožno s ním debatovať.	Aleksandro40	2010-12-07 19:27:43	2010-12-07 19:27:43
+352	0x160	Š	75	9970299	slk	Šťastní sú tí, ktorí majú krátku pamäť.	Dominika7	2021-04-19 09:12:59	2021-04-19 09:12:59
+353	0x161	š	4015	9749533	slk	Neopúšťaj ma!	Dominika7	2021-02-11 12:37:08	2021-02-11 12:37:08
+356	0x164	Ť	9	10045784	slk	Ťažko uveriť, že to urobil Tom.	Dominika7	2021-05-18 12:49:02	2021-05-18 12:49:02
+357	0x165	ť	3297	9005809	slk	Nemôžem otvoriť dvere.	Dominika7	2020-08-31 13:02:03	2020-08-31 13:02:03
 365	0x16d	ŭ	1	1044643	slk	Abeceda esperanta pozostáva z 28 písmen: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Soninka	2011-08-15 14:02:28	2011-08-15 14:02:28
 367	0x16f	ů	1	6141808	slk	Vývoz stoupl o třicet miliard dolarů.	miro	2017-06-28 18:58:32	2017-06-28 18:58:32
 378	0x17a	ź	3	9832086	slk	Abeceda hornolužickej srbčiny pozostáva z 34 písmen: a, b, c, č, ć, d, dź, e, ě, f, g, h, ch, i, j, k, ł, l, m, n, ń, o, ó, p, r, ř, s, š, t, u, w, y, z, ž.	Dominika7	2021-03-08 16:52:56	2021-03-08 16:52:56
-381	0x17d	Ž	101	8935986	slk	Žltá je moja obľúbená farba.	Dominika7	2020-07-24 11:16:12	2020-07-24 11:16:12
-382	0x17e	ž	3586	8947581	slk	Mala na sebe kožuch.	Dominika7	2020-07-29 15:31:19	2020-07-29 15:31:19
+381	0x17d	Ž	101	8956353	slk	Žiadne z detí nesedí.	Dominika7	2020-08-03 14:08:49	2020-08-03 14:08:49
+382	0x17e	ž	3589	9850713	slk	Položil mi dve otázky.	Dominika7	2021-03-18 18:38:44	2021-03-18 18:38:44
 1072	0x430	а	1	9832056	slk	V ruskej abecede je tridsaťtri písmen: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	Dominika7	2021-03-08 16:24:48	2021-03-08 16:24:48
 1073	0x431	б	1	9832056	slk	V ruskej abecede je tridsaťtri písmen: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	Dominika7	2021-03-08 16:24:48	2021-03-08 16:24:48
 1074	0x432	в	1	9832056	slk	V ruskej abecede je tridsaťtri písmen: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	Dominika7	2021-03-08 16:24:48	2021-03-08 16:24:48
@@ -161,12 +161,12 @@
 1103	0x44f	я	1	9832056	slk	V ruskej abecede je tridsaťtri písmen: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	Dominika7	2021-03-08 16:24:48	2021-03-08 16:24:48
 1105	0x451	ё	1	9832056	slk	V ruskej abecede je tridsaťtri písmen: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т, у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я.	Dominika7	2021-03-08 16:24:48	2021-03-08 16:24:48
 7869	0x1ebd	ẽ	1	1044613	slk	"ẽ" je písmeno v abecede jazyka Guarani.	Soninka	2011-08-15 13:44:01	2011-08-15 13:44:01
-8211	0x2013	–	2	8935978	slk	Ktorá farba sa vám páči viacej – modrá alebo červená?	Dominika7	2020-07-24 11:11:44	2020-07-24 11:11:44
+8211	0x2013	–	2	9797576	slk	Veselá myseľ – najlepší liek.	Dominika7	2021-02-23 14:28:26	2021-02-23 14:28:49
 8216	0x2018	‘	1	9027511	slk	Jeden človek raz povedal Budhovi: „Ja chcem byť šťastným!“ Budha povedal: „Najprv odstráň ‚ja‘, to je ego, potom odstráň ‚chcem‘, to je túžba. Vidíš, teraz zostalo iba šťastie!“	Dominika7	2020-09-09 14:19:37	2020-09-09 14:19:37
 8218	0x201a	‚	1	9027511	slk	Jeden človek raz povedal Budhovi: „Ja chcem byť šťastným!“ Budha povedal: „Najprv odstráň ‚ja‘, to je ego, potom odstráň ‚chcem‘, to je túžba. Vidíš, teraz zostalo iba šťastie!“	Dominika7	2020-09-09 14:19:37	2020-09-09 14:19:37
-8220	0x201c	“	134	9854773	slk	„To sú jablká?“ „Nie, to sú paradajky.“	Dominika7	2021-03-20 16:13:34	2021-03-20 16:13:34
+8220	0x201c	“	134	8905376	slk	„Nemôžem rozmýšľať pri tom hluku, “ povedala, hľadiac na písací stroj.	Dominika7	2020-07-10 12:17:04	2020-07-10 12:17:04
 8221	0x201d	”	1	9141743	slk	„Choď, čaká ťa.”	Dominika7	2020-10-13 17:54:04	2020-10-13 17:54:04
-8222	0x201e	„	135	8976147	slk	Prestaň ma volať „Tom“.	Dominika7	2020-08-14 16:36:26	2020-08-14 16:36:26
+8222	0x201e	„	135	9815789	slk	„Ah!“ je citoslovce.	Dominika7	2021-03-01 15:27:56	2021-03-01 15:27:56
 8362	0x20aa	₪	1	1044802	slk	Ak chceš ísť do Izraela, potrebuješ veľa šekelov. Voda stojí len 0,50 ₪.	Soninka	2011-08-15 15:05:27	2011-08-15 15:05:27
 8372	0x20b4	₴	1	1044817	slk	Diétna kola stojí na Ukrajine ₴2.	Soninka	2011-08-15 15:08:22	2011-08-15 15:08:22
 128420	0x1f5a4	🖤	1	12056510	slk	Úprimnú sústrasť 🖤🖤🖤	mqd	2023-09-15 10:11:54	2023-09-15 10:11:54

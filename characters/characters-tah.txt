@@ -1,11 +1,11 @@
-32	0x20	 	23	5248441	tah	Māuruuru roa!	Papadiamantopoulos	2016-07-03 02:13:44	2016-07-03 02:14:02
-33	0x21	!	17	5249494	tah	Manuia!	Papadiamantopoulos	2016-07-03 14:35:06	2016-07-03 14:35:16
-34	0x22	"	2	5248476	tah	"O vai to oe io'a?" "O Tom to'u i'oa."	Papadiamantopoulos	2016-07-03 02:41:18	2016-07-03 02:42:14
-39	0x27	'	17	5248432	tah	Maita'i roa!	Papadiamantopoulos	2016-07-03 02:10:13	2016-07-03 02:10:28
-46	0x2e	.	8	5248474	tah	O Tom to'u i'oa.	Papadiamantopoulos	2016-07-03 02:40:38	2016-07-03 02:40:52
-63	0x3f	?	7	5248476	tah	"O vai to oe io'a?" "O Tom to'u i'oa."	Papadiamantopoulos	2016-07-03 02:41:18	2016-07-03 02:42:14
-65	0x41	A	6	5248482	tah	A tauturu ia'u!	Papadiamantopoulos	2016-07-03 02:51:54	2016-07-03 02:52:07
-69	0x45	E	6	5249502	tah	E hia matahiti tō 'oe?	Papadiamantopoulos	2016-07-03 14:49:13	2016-07-10 14:24:40
+32	0x20	 	23	5248485	tah	Aita papu.	Papadiamantopoulos	2016-07-03 02:56:33	2016-07-03 02:56:42
+33	0x21	!	17	5248483	tah	Ha'apa'o maita'i!	Papadiamantopoulos	2016-07-03 02:53:50	2016-07-03 02:54:06
+34	0x22	"	2	5248466	tah	"Maita'i oe?" "Maita'i vau."	Papadiamantopoulos	2016-07-03 02:36:40	2016-07-03 02:37:30
+39	0x27	'	17	5249511	tah	E piti 'ahuru ma hō'ē matahiti tō 'u.	Papadiamantopoulos	2016-07-03 14:59:54	2016-07-03 15:00:07
+46	0x2e	.	8	5248476	tah	"O vai to oe io'a?" "O Tom to'u i'oa."	Papadiamantopoulos	2016-07-03 02:41:18	2016-07-03 02:42:14
+63	0x3f	?	7	5248466	tah	"Maita'i oe?" "Maita'i vau."	Papadiamantopoulos	2016-07-03 02:36:40	2016-07-03 02:37:30
+65	0x41	A	6	5248485	tah	Aita papu.	Papadiamantopoulos	2016-07-03 02:56:33	2016-07-03 02:56:42
+69	0x45	E	6	5248445	tah	'E!	Papadiamantopoulos	2016-07-03 02:15:25	2016-07-03 02:15:38
 72	0x48	H	3	5249492	tah	Haere tatou!	Papadiamantopoulos	2016-07-03 14:32:18	2016-07-03 14:32:27
 73	0x49	I	1	5248426	tah	'Ia ora na!	Papadiamantopoulos	2016-07-03 02:05:31	2016-07-13 12:10:57
 77	0x4d	M	7	5248434	tah	Māuruuru!	Papadiamantopoulos	2016-07-03 02:11:34	2016-07-03 02:11:47
@@ -13,19 +13,19 @@
 79	0x4f	O	3	5248476	tah	"O vai to oe io'a?" "O Tom to'u i'oa."	Papadiamantopoulos	2016-07-03 02:41:18	2016-07-03 02:42:14
 84	0x54	T	2	5248476	tah	"O vai to oe io'a?" "O Tom to'u i'oa."	Papadiamantopoulos	2016-07-03 02:41:18	2016-07-03 02:42:14
 85	0x55	U	3	4896695	tah	ʻUa ʻamu te tāne i te iʻa.	nonong	2016-02-08 17:11:12	2017-01-15 10:28:16
-97	0x61	a	28	5248441	tah	Māuruuru roa!	Papadiamantopoulos	2016-07-03 02:13:44	2016-07-03 02:14:02
-101	0x65	e	13	5248454	tah	Uua here vau ia oe!	Papadiamantopoulos	2016-07-03 02:25:31	2016-07-03 02:25:41
-104	0x68	h	6	5249509	tah	E hia?	Papadiamantopoulos	2016-07-03 14:55:10	2016-07-03 14:58:38
-105	0x69	i	21	5249494	tah	Manuia!	Papadiamantopoulos	2016-07-03 14:35:06	2016-07-03 14:35:16
-109	0x6d	m	7	8824991	tah	Ua 'amu au i te i'a.	brauchinet	2020-06-07 14:08:49	2020-06-07 14:13:58
+97	0x61	a	28	5248464	tah	Maita'i oe?	Papadiamantopoulos	2016-07-03 02:30:54	2016-07-14 00:15:20
+101	0x65	e	13	5248462	tah	Maeva!	Papadiamantopoulos	2016-07-03 02:29:03	2016-07-03 02:30:09
+104	0x68	h	6	5248480	tah	A parahi!	Papadiamantopoulos	2016-07-03 02:46:33	2016-07-03 02:46:44
+105	0x69	i	21	5248478	tah	Aita pe'a'pe'a.	Papadiamantopoulos	2016-07-03 02:43:00	2016-07-03 02:43:21
+109	0x6d	m	7	5249502	tah	E hia matahiti tō 'oe?	Papadiamantopoulos	2016-07-03 14:49:13	2016-07-10 14:24:40
 110	0x6e	n	4	5248426	tah	'Ia ora na!	Papadiamantopoulos	2016-07-03 02:05:31	2016-07-13 12:10:57
-111	0x6f	o	13	5248441	tah	Māuruuru roa!	Papadiamantopoulos	2016-07-03 02:13:44	2016-07-03 02:14:02
+111	0x6f	o	13	5248466	tah	"Maita'i oe?" "Maita'i vau."	Papadiamantopoulos	2016-07-03 02:36:40	2016-07-03 02:37:30
 112	0x70	p	6	5248485	tah	Aita papu.	Papadiamantopoulos	2016-07-03 02:56:33	2016-07-03 02:56:42
-114	0x72	r	11	5249492	tah	Haere tatou!	Papadiamantopoulos	2016-07-03 14:32:18	2016-07-03 14:32:27
-116	0x74	t	19	5248429	tah	E aha tō 'oe huru?	Papadiamantopoulos	2016-07-03 02:06:50	2016-07-03 02:07:04
-117	0x75	u	15	5248441	tah	Māuruuru roa!	Papadiamantopoulos	2016-07-03 02:13:44	2016-07-03 02:14:02
-118	0x76	v	5	5248454	tah	Uua here vau ia oe!	Papadiamantopoulos	2016-07-03 02:25:31	2016-07-03 02:25:41
-257	0x101	ā	3	5248441	tah	Māuruuru roa!	Papadiamantopoulos	2016-07-03 02:13:44	2016-07-03 02:14:02
+114	0x72	r	11	5248441	tah	Māuruuru roa!	Papadiamantopoulos	2016-07-03 02:13:44	2016-07-03 02:14:02
+116	0x74	t	19	8824991	tah	Ua 'amu au i te i'a.	brauchinet	2020-06-07 14:08:49	2020-06-07 14:13:58
+117	0x75	u	15	5249511	tah	E piti 'ahuru ma hō'ē matahiti tō 'u.	Papadiamantopoulos	2016-07-03 14:59:54	2016-07-03 15:00:07
+118	0x76	v	5	5248470	tah	O vai to oe io'a?	Papadiamantopoulos	2016-07-03 02:38:11	2016-07-03 02:38:27
+257	0x101	ā	3	4896695	tah	ʻUa ʻamu te tāne i te iʻa.	nonong	2016-02-08 17:11:12	2017-01-15 10:28:16
 275	0x113	ē	1	5249511	tah	E piti 'ahuru ma hō'ē matahiti tō 'u.	Papadiamantopoulos	2016-07-03 14:59:54	2016-07-03 15:00:07
 333	0x14d	ō	3	5248429	tah	E aha tō 'oe huru?	Papadiamantopoulos	2016-07-03 02:06:50	2016-07-03 02:07:04
 699	0x2bb	ʻ	1	4896695	tah	ʻUa ʻamu te tāne i te iʻa.	nonong	2016-02-08 17:11:12	2017-01-15 10:28:16

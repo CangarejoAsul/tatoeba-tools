@@ -1,42 +1,42 @@
-32	0x20	 	26	5161406	sun	Aya naon?	\N	2016-05-24 01:50:14	2019-04-16 10:52:03
-33	0x21	!	4	5161383	sun	Ah maenya!	\N	2016-05-24 01:37:33	2019-04-16 10:51:58
+32	0x20	 	26	5161390	sun	Wilujeng wengi!	\N	2016-05-24 01:44:54	2019-04-16 10:55:43
+33	0x21	!	4	5161396	sun	Wilujeng Natal!	\N	2016-05-24 01:47:06	2019-04-16 10:55:47
 44	0x2c	,	2	7838339	sun	Elmu tuntut dunia siar, korsi butut tumila liar.	qsanta	2019-04-06 07:29:49	2019-04-06 07:29:49
 45	0x2d	-	1	7838344	sun	Ulah nepi Tom nempo foto-foto ieu.	qsanta	2019-04-06 07:39:18	2019-04-06 07:39:18
-46	0x2e	.	23	4649469	sun	Hapunten.	\N	2015-10-28 00:15:50	2019-04-16 10:51:51
-63	0x3f	?	4	5161406	sun	Aya naon?	\N	2016-05-24 01:50:14	2019-04-16 10:52:03
-65	0x41	A	5	7838345	sun	Jelema ti Mesir ngomong basa Arab.	qsanta	2019-04-06 07:41:30	2019-04-06 07:41:30
+46	0x2e	.	23	7838364	sun	Ulah dugi ka rasa katresna kerap ngagedur ukur amarah nu balukarna nuntun kana jalan salah.	qsanta	2019-04-06 08:02:22	2019-04-06 08:02:22
+63	0x3f	?	4	5161391	sun	Naon ieu?	\N	2016-05-24 01:45:25	2019-04-16 10:55:44
+65	0x41	A	5	5161383	sun	Ah maenya!	\N	2016-05-24 01:37:33	2019-04-16 10:51:58
 66	0x42	B	1	7838363	sun	Buku induk register peserta didik.	qsanta	2019-04-06 08:01:26	2019-04-06 08:01:39
 69	0x45	E	1	7838339	sun	Elmu tuntut dunia siar, korsi butut tumila liar.	qsanta	2019-04-06 07:29:49	2019-04-06 07:29:49
-72	0x48	H	4	7842536	sun	Harita basa usum halodo panjang calik paduduaan dina samak salambar.	qsanta	2019-04-09 03:43:31	2019-04-09 03:43:31
+72	0x48	H	4	4649469	sun	Hapunten.	\N	2015-10-28 00:15:50	2019-04-16 10:51:51
 73	0x49	I	1	5161404	sun	Ieu buku.	\N	2016-05-24 01:49:38	2019-04-16 10:55:51
-74	0x4a	J	2	7838345	sun	Jelema ti Mesir ngomong basa Arab.	qsanta	2019-04-06 07:41:30	2019-04-06 07:41:30
+74	0x4a	J	2	5161386	sun	Nami abdi Jack.	\N	2016-05-24 01:43:04	2019-04-16 10:51:56
 75	0x4b	K	1	7838361	sun	Kamari sapedah urang dipadog pas urang keur balanja.	qsanta	2019-04-06 08:00:58	2019-04-06 08:00:58
 77	0x4d	M	3	7838348	sun	Manehna nutup panto tukangeunnana.	qsanta	2019-04-06 07:45:16	2019-04-06 07:45:16
 78	0x4e	N	6	5161403	sun	Naon?	\N	2016-05-24 01:49:02	2019-04-16 10:55:50
-83	0x53	S	2	7838360	sun	Sabanda sariksa.	qsanta	2019-04-06 07:59:57	2019-04-06 07:59:57
-84	0x54	T	5	7842539	sun	Nyobaan nubles Tom.	qsanta	2019-04-09 03:49:27	2019-04-09 03:49:27
+83	0x53	S	2	7846063	sun	Sim kuring tos siap eureun.	qsanta	2019-04-11 01:16:34	2019-04-11 01:16:34
+84	0x54	T	5	5161387	sun	Tenang.	\N	2016-05-24 01:43:38	2019-04-16 10:51:57
 85	0x55	U	3	5161401	sun	Ulah sieun.	\N	2016-05-24 01:48:36	2019-04-16 10:55:49
 87	0x57	W	3	7838359	sun	Waspada purba wisesa.	qsanta	2019-04-06 07:59:51	2019-04-06 07:59:51
-97	0x61	a	27	7842539	sun	Nyobaan nubles Tom.	qsanta	2019-04-09 03:49:27	2019-04-09 03:49:27
-98	0x62	b	11	5161404	sun	Ieu buku.	\N	2016-05-24 01:49:38	2019-04-16 10:55:51
-99	0x63	c	4	7842536	sun	Harita basa usum halodo panjang calik paduduaan dina samak salambar.	qsanta	2019-04-09 03:43:31	2019-04-09 03:43:31
-100	0x64	d	11	7838361	sun	Kamari sapedah urang dipadog pas urang keur balanja.	qsanta	2019-04-06 08:00:58	2019-04-06 08:00:58
-101	0x65	e	24	7838364	sun	Ulah dugi ka rasa katresna kerap ngagedur ukur amarah nu balukarna nuntun kana jalan salah.	qsanta	2019-04-06 08:02:22	2019-04-06 08:02:22
+97	0x61	a	27	5161401	sun	Ulah sieun.	\N	2016-05-24 01:48:36	2019-04-16 10:55:49
+98	0x62	b	11	7842539	sun	Nyobaan nubles Tom.	qsanta	2019-04-09 03:49:27	2019-04-09 03:49:27
+99	0x63	c	4	7838369	sun	Anjeun bakal paeh mun cicing di dieu.	qsanta	2019-04-06 08:39:49	2019-04-06 08:39:49
+100	0x64	d	11	7838360	sun	Sabanda sariksa.	qsanta	2019-04-06 07:59:57	2019-04-06 07:59:57
+101	0x65	e	24	5161383	sun	Ah maenya!	\N	2016-05-24 01:37:33	2019-04-16 10:51:58
 102	0x66	f	1	7838344	sun	Ulah nepi Tom nempo foto-foto ieu.	qsanta	2019-04-06 07:39:18	2019-04-06 07:39:18
 103	0x67	g	14	7838361	sun	Kamari sapedah urang dipadog pas urang keur balanja.	qsanta	2019-04-06 08:00:58	2019-04-06 08:00:58
 104	0x68	h	12	5161393	sun	Ayeuna téh hujan.	\N	2016-05-24 01:46:03	2019-04-16 10:55:45
 105	0x69	i	19	7838363	sun	Buku induk register peserta didik.	qsanta	2019-04-06 08:01:26	2019-04-06 08:01:39
-106	0x6a	j	9	5161390	sun	Wilujeng wengi!	\N	2016-05-24 01:44:54	2019-04-16 10:55:43
-107	0x6b	k	13	7838347	sun	Tom geus jiga dulur kuring.	qsanta	2019-04-06 07:42:13	2019-04-06 07:42:13
-108	0x6c	l	15	7838364	sun	Ulah dugi ka rasa katresna kerap ngagedur ukur amarah nu balukarna nuntun kana jalan salah.	qsanta	2019-04-06 08:02:22	2019-04-06 08:02:22
+106	0x6a	j	9	4649477	sun	Hiji, dua, tilu, opat, lima, genep, tujuh, dalapan, salapan, sapuluh.	\N	2015-10-28 00:19:34	2019-04-16 10:51:52
+107	0x6b	k	13	5161404	sun	Ieu buku.	\N	2016-05-24 01:49:38	2019-04-16 10:55:51
+108	0x6c	l	15	7838361	sun	Kamari sapedah urang dipadog pas urang keur balanja.	qsanta	2019-04-06 08:00:58	2019-04-06 08:00:58
 109	0x6d	m	14	7838347	sun	Tom geus jiga dulur kuring.	qsanta	2019-04-06 07:42:13	2019-04-06 07:42:13
-110	0x6e	n	27	4649477	sun	Hiji, dua, tilu, opat, lima, genep, tujuh, dalapan, salapan, sapuluh.	\N	2015-10-28 00:19:34	2019-04-16 10:51:52
+110	0x6e	n	27	7842539	sun	Nyobaan nubles Tom.	qsanta	2019-04-09 03:49:27	2019-04-09 03:49:27
 111	0x6f	o	15	7842536	sun	Harita basa usum halodo panjang calik paduduaan dina samak salambar.	qsanta	2019-04-09 03:43:31	2019-04-09 03:43:31
 112	0x70	p	13	7838359	sun	Waspada purba wisesa.	qsanta	2019-04-06 07:59:51	2019-04-06 07:59:51
 114	0x72	r	11	7838345	sun	Jelema ti Mesir ngomong basa Arab.	qsanta	2019-04-06 07:41:30	2019-04-06 07:41:30
-115	0x73	s	14	7838347	sun	Tom geus jiga dulur kuring.	qsanta	2019-04-06 07:42:13	2019-04-06 07:42:13
-116	0x74	t	13	5161396	sun	Wilujeng Natal!	\N	2016-05-24 01:47:06	2019-04-16 10:55:47
+115	0x73	s	14	7838363	sun	Buku induk register peserta didik.	qsanta	2019-04-06 08:01:26	2019-04-06 08:01:39
+116	0x74	t	13	5161388	sun	Henteu.	\N	2016-05-24 01:44:13	2019-04-16 10:55:42
 117	0x75	u	23	5161396	sun	Wilujeng Natal!	\N	2016-05-24 01:47:06	2019-04-16 10:55:47
-119	0x77	w	2	7838359	sun	Waspada purba wisesa.	qsanta	2019-04-06 07:59:51	2019-04-06 07:59:51
-121	0x79	y	5	7838346	sun	Manehna moal percaya ka urang.	qsanta	2019-04-06 07:41:54	2019-04-06 07:41:54
+119	0x77	w	2	5161390	sun	Wilujeng wengi!	\N	2016-05-24 01:44:54	2019-04-16 10:55:43
+121	0x79	y	5	5161406	sun	Aya naon?	\N	2016-05-24 01:50:14	2019-04-16 10:52:03
 233	0xe9	é	1	5161393	sun	Ayeuna téh hujan.	\N	2016-05-24 01:46:03	2019-04-16 10:55:45

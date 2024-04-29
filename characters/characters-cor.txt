@@ -1,9 +1,9 @@
-32	0x20	 	3907	6075850	cor	Res yw dhymm kavos karr.	Kevre	2017-05-13 19:11:00	\N
-33	0x21	!	121	5977949	cor	Kewgh!	Kevre	2017-03-25 22:01:55	\N
-39	0x27	'	174	1978990	cor	Yma'n ki ow koska y'n karr.	Sisial	2012-11-03 16:57:42	2013-04-21 22:53:30
-44	0x2c	,	95	5979880	cor	Kows lenta, mar pleg.	Kevre	2017-03-26 19:36:13	\N
-45	0x2d	-	151	2997317	cor	Yma dhodho dew garr-tan.	pne	2014-01-20 12:52:21	2014-08-07 16:03:31
-46	0x2e	.	3076	5977528	cor	Gwell yw genev dowr ewonek.	Kevre	2017-03-25 19:51:28	\N
+32	0x20	 	3907	5205351	cor	dy'Meurth yw hedhyw.	Palores	2016-06-10 20:39:11	2016-06-10 20:43:59
+33	0x21	!	121	3972792	cor	Red an lyver ma!	pennsans	2015-03-19 21:13:45	2015-03-19 21:13:45
+39	0x27	'	174	5977162	cor	Usi an ki y'n garth?	Kevre	2017-03-25 18:19:46	\N
+44	0x2c	,	95	3323432	cor	Ov, pries ov.	pne	2014-06-18 12:05:23	2014-06-18 12:05:23
+45	0x2d	-	151	5979852	cor	Ni a wre mos pyskessa war-barth.	Kevre	2017-03-26 19:19:18	\N
+46	0x2e	.	3076	3040180	cor	Da yw an te-ma.	pne	2014-02-10 09:02:16	2014-02-10 09:02:16
 49	0x31	1	1	3280531	cor	Genys veuv yn Tokyo yn 1968.	pne	2014-05-27 14:58:06	2014-05-27 14:58:06
 50	0x32	2	1	3280692	cor	25 bloodh ov.	pne	2014-05-27 15:31:18	2014-05-27 15:31:18
 53	0x35	5	1	3280692	cor	25 bloodh ov.	pne	2014-05-27 15:31:18	2014-05-27 15:31:18
@@ -11,59 +11,59 @@
 56	0x38	8	1	3280531	cor	Genys veuv yn Tokyo yn 1968.	pne	2014-05-27 14:58:06	2014-05-27 14:58:06
 57	0x39	9	1	3280531	cor	Genys veuv yn Tokyo yn 1968.	pne	2014-05-27 14:58:06	2014-05-27 14:58:06
 59	0x3b	;	1	3018491	cor	Ny yll ev dos; klav yw.	pne	2014-01-31 08:30:47	2014-08-07 15:56:42
-63	0x3f	?	755	12369111	cor	A wodhes ta lytherenna henna?	Kevre	2024-03-12 23:16:26	2024-03-12 23:16:26
-65	0x41	A	235	3972979	cor	A wodhes neuvya?	pennsans	2015-03-19 22:02:14	2015-03-19 22:02:14
-66	0x42	B	42	3327135	cor	“Yw dha wreg Brythones?” “Nag yw, nyns yw Brythones, Albanes yw.”	pne	2014-06-20 10:39:21	2014-06-20 10:39:21
-67	0x43	C	5	5977953	cor	Chons da!	Kevre	2017-03-25 22:04:53	\N
-68	0x44	D	263	6112782	cor	Deus genev!	Kevre	2017-05-29 20:12:55	\N
-69	0x45	E	142	3289537	cor	Ev a erviras gwertha y garr-tan.	pne	2014-06-01 09:46:33	2014-06-01 09:46:33
-70	0x46	F	56	8118027	cor	Da yw genev kewsel Frynkek.	SteCymru14	2019-08-20 20:48:00	2019-08-20 20:48:00
-71	0x47	G	111	3299898	cor	Gwren henna.	pne	2014-06-06 10:27:40	2014-06-06 10:27:40
-72	0x48	H	203	6052728	cor	Homm yw gwir.	Kevre	2017-05-02 20:40:52	\N
-73	0x49	I	28	6078246	cor	I a armas rag gweres.	Kevre	2017-05-14 19:22:15	\N
-74	0x4a	J	11	3319843	cor	My a garsa kewsel orth Judy.	pne	2014-06-16 14:47:51	2014-06-16 14:47:51
-75	0x4b	K	183	5976864	cor	Ki os ta.	Kevre	2017-03-25 16:36:01	\N
-76	0x4c	L	33	5978017	cor	Lyver yw henna.	Kevre	2017-03-25 22:27:53	\N
-77	0x4d	M	391	6078048	cor	My a wra neuvya.	Kevre	2017-05-14 17:34:17	\N
-78	0x4e	N	640	7788726	cor	Na borth ahwer.	Kevre	2019-02-25 14:12:54	2019-02-25 14:12:54
-79	0x4f	O	86	3280782	cor	Ottawa yw penncita Canada.	pne	2014-05-27 15:52:08	2014-05-27 15:52:08
-80	0x50	P	297	3280511	cor	Yth esa Pablo ha María omma.	pne	2014-05-27 14:54:23	2014-05-27 14:55:08
-82	0x52	R	440	5977507	cor	Res yw dhyn dowra an vleujen.	Kevre	2017-03-25 19:41:34	\N
-83	0x53	S	95	6059077	cor	Skath yw honna	Kevre	2017-05-05 20:33:45	\N
-84	0x54	T	267	3280752	cor	Tom re verwis.	pne	2014-05-27 15:45:13	2014-05-27 15:45:13
-85	0x55	U	6	3313667	cor	Usi hi tre?	pne	2014-06-13 11:52:01	2014-08-07 15:05:08
-86	0x56	V	4	3280762	cor	A leveris Tom dhe Varia y vos demedhys?	pne	2014-05-27 15:47:29	2014-05-27 15:47:29
+63	0x3f	?	755	5008048	cor	Ha ty?	Kevre	2016-03-25 14:13:17	2016-03-25 14:13:17
+65	0x41	A	235	6052810	cor	An desk ma yw da.	Kevre	2017-05-02 20:58:49	\N
+66	0x42	B	42	3280562	cor	A Bow Frynk yth ov devedhys.	pne	2014-05-27 15:04:24	2014-05-27 15:04:24
+67	0x43	C	5	3280784	cor	Penncita Canada yw Ottawa.	pne	2014-05-27 15:52:39	2014-05-27 15:52:39
+68	0x44	D	263	5978015	cor	Dha gi yw hemma.	Kevre	2017-03-25 22:27:10	\N
+69	0x45	E	142	3345428	cor	Eus mona dhis?	pne	2014-06-27 15:07:04	2014-06-27 15:07:04
+70	0x46	F	56	3319788	cor	Prag y hwre’ta studhya Frynkek?	pne	2014-06-16 14:23:43	2014-08-07 15:04:28
+71	0x47	G	111	5977531	cor	Gwell yw genev redya.	Kevre	2017-03-25 19:51:59	\N
+72	0x48	H	203	6052793	cor	Hager yw an gador ma.	Kevre	2017-05-02 20:54:47	\N
+73	0x49	I	28	2980834	cor	I eth dhe byskessa.	pne	2014-01-13 12:14:23	2014-01-13 12:14:30
+74	0x4a	J	11	3319844	cor	A allav vy kewsel orth Judy?	pne	2014-06-16 14:48:11	2014-06-16 14:48:11
+75	0x4b	K	183	5976812	cor	Kas yw genev keun.	Kevre	2017-03-25 16:29:22	\N
+76	0x4c	L	33	5205348	cor	dy'Lun yw hedhyw.	Palores	2016-06-10 20:38:27	2016-06-10 20:47:44
+77	0x4d	M	391	3298325	cor	Tom a aswon tas Maria.	pne	2014-06-05 13:54:32	2014-06-05 13:54:32
+78	0x4e	N	640	3355934	cor	Nyns ov dha eskar.	pne	2014-07-03 12:26:48	2014-08-07 14:47:13
+79	0x4f	O	86	5977038	cor	Ottomma ki Mary.	Kevre	2017-03-25 17:18:08	\N
+80	0x50	P	297	3303499	cor	Py hanow owgh hwi?	pne	2014-06-08 17:51:28	2014-08-07 15:07:44
+82	0x52	R	440	5977424	cor	Res yw dhywgh mos tre.	Kevre	2017-03-25 19:11:21	\N
+83	0x53	S	95	6075801	cor	Yw res dhymm gorthebi yn Sowsnek?	Kevre	2017-05-13 18:53:55	\N
+84	0x54	T	267	5976618	cor	Nyns yw da gans Tom dybri pysk.	Kevre	2017-03-25 15:26:39	\N
+85	0x55	U	6	5976835	cor	Usi an ki ow neuvya?	Kevre	2017-03-25 16:32:09	\N
+86	0x56	V	4	3319778	cor	Y leverir yma ev yn Breten Veur.	pne	2014-06-16 14:21:28	2014-06-16 14:21:28
 87	0x57	W	7	3298273	cor	Wortiwedh y teu va.	pne	2014-06-05 13:44:03	2014-06-05 13:44:03
-89	0x59	Y	778	6059634	cor	Ygor an darasow na!	Kevre	2017-05-06 10:05:44	\N
-97	0x61	a	3225	5978757	cor	Ny vynn'ta mos ena.	Kevre	2017-03-26 11:30:25	\N
-98	0x62	b	649	3081386	cor	Yma diw gath dhybm.	\N	2014-03-07 15:18:57	2016-01-17 11:53:45
-99	0x63	c	63	3298718	cor	Rych os.	pne	2014-06-05 16:10:06	2014-06-05 16:10:06
-100	0x64	d	2042	3319823	cor	A wre’ta convedhes Frynkek?	pne	2014-06-16 14:38:08	2014-06-16 14:38:08
-101	0x65	e	3211	3323498	cor	My a’m beus diwros koth.	pne	2014-06-18 12:40:23	2014-08-07 14:57:48
-102	0x66	f	214	6075364	cor	Yma tri flogh dhodho.	Kevre	2017-05-13 14:42:57	\N
-103	0x67	g	1931	6052791	cor	Hemm yw margh.	Kevre	2017-05-02 20:53:07	\N
-104	0x68	h	2623	5976690	cor	Nyns yw da genev glanhe.	Kevre	2017-03-25 15:41:30	\N
-105	0x69	i	1571	5978742	cor	Ny vynnav vy leverel dhis.	Kevre	2017-03-26 11:27:42	\N
-106	0x6a	j	80	3972938	cor	Yma dhedhi bleujyow rudh.	pennsans	2015-03-19 21:49:02	2015-03-19 21:49:02
-107	0x6b	k	987	2979629	cor	My a garsa kavos tokyn dhe Boston.	pne	2014-01-12 20:12:38	2014-08-07 15:38:31
-108	0x6c	l	1492	5976465	cor	Yma hi ow kul glaw hedhyw.	Kevre	2017-03-25 14:58:17	\N
-109	0x6d	m	1649	5977546	cor	Kas yw genev Tom.	Kevre	2017-03-25 19:55:52	\N
-110	0x6e	n	2645	8968705	cor	Yn hwir?	Stervarner	2020-08-10 15:15:59	2020-08-10 15:15:59
-111	0x6f	o	2490	5979089	cor	Yth esos ta ow mires orth.	Kevre	2017-03-26 13:28:23	\N
-112	0x70	p	329	5977500	cor	Res yw dhymm prena eskisyow.	Kevre	2017-03-25 19:39:20	\N
-114	0x72	r	2201	3298721	cor	Yma dhedhi mab aral.	pne	2014-06-05 16:10:30	2015-03-19 22:39:56
-115	0x73	s	2615	6078239	cor	Ni a allas assaya arta.	Kevre	2017-05-14 19:16:45	\N
-116	0x74	t	1496	5978770	cor	Res yw dhedha studhya.	Kevre	2017-03-26 11:33:32	\N
-117	0x75	u	671	5977159	cor	Ki Tom a yll neuvya yn ta.	Kevre	2017-03-25 18:18:24	\N
-118	0x76	v	1541	6075179	cor	My a vynnas pymp pinaval.	Kevre	2017-05-13 12:38:52	\N
-119	0x77	w	2877	6077239	cor	Yw res dhymm skrifa lyther?	Kevre	2017-05-14 11:35:24	\N
-121	0x79	y	3100	5977371	cor	Res yw dhyn mos.	Kevre	2017-03-25 19:02:52	\N
+89	0x59	Y	778	6077252	cor	Yw res dhymm gorthebi an govyn?	Kevre	2017-05-14 11:43:23	\N
+97	0x61	a	3225	3297020	cor	Yma tri hi dhymm.	pne	2014-06-04 19:11:47	2014-06-04 19:11:47
+98	0x62	b	649	5976527	cor	Da yw genev oberi.	Kevre	2017-03-25 15:07:50	\N
+99	0x63	c	63	5977538	cor	Drog yw genev citas bras.	Kevre	2017-03-25 19:53:22	\N
+100	0x64	d	2042	3411796	cor	I a yll dos.	pne	2014-08-07 16:02:19	2014-08-07 16:02:19
+101	0x65	e	3211	5977691	cor	Res o dhywgh studhya Sowsnek.	Kevre	2017-03-25 20:41:50	\N
+102	0x66	f	214	5978800	cor	Prag y fynn'ta prena an lyver ma?	Kevre	2017-03-26 11:44:13	\N
+103	0x67	g	1931	6077288	cor	Nyns yw res dhedha godvos.	Kevre	2017-05-14 11:57:48	\N
+104	0x68	h	2623	3034059	cor	Yma dha gi omma.	pne	2014-02-07 11:42:51	2014-02-07 11:42:51
+105	0x69	i	1571	5976873	cor	Da yw genev dha gi.	Kevre	2017-03-25 16:37:19	\N
+106	0x6a	j	80	5977639	cor	Kas yw genev viajya.	Kevre	2017-03-25 20:27:14	\N
+107	0x6b	k	987	8117892	cor	A wodhowgh hwi konvedhes?	SteCymru14	2019-08-20 20:02:16	2019-08-20 20:02:16
+108	0x6c	l	1492	3299886	cor	Na red y’n stevel-ma.	pne	2014-06-06 10:20:56	2014-06-06 10:20:56
+109	0x6d	m	1649	3305959	cor	Nyns usi Tom y’n klavji.	pne	2014-06-10 06:59:22	2014-08-07 15:06:00
+110	0x6e	n	2645	3297087	cor	My a gar Sowsnek ynwedh.	pne	2014-06-04 19:39:02	2014-06-04 19:39:02
+111	0x6f	o	2490	5976929	cor	Yma'n ki ow tybri.	Kevre	2017-03-25 16:44:01	\N
+112	0x70	p	329	3278313	cor	Hi a wor kewsel Spaynek.	pne	2014-05-26 11:22:36	2014-05-26 11:22:36
+114	0x72	r	2201	3973032	cor	Tybyans da yw orth ow brys vy.	pennsans	2015-03-19 22:18:08	2015-03-19 22:18:08
+115	0x73	s	2615	5978863	cor	Ny allav vy gweles yn ta.	Kevre	2017-03-26 11:59:09	\N
+116	0x74	t	1496	5978755	cor	Ny vynnav vy diberth tre.	Kevre	2017-03-26 11:30:08	\N
+117	0x75	u	671	3280863	cor	Laurie yw hi.	pne	2014-05-27 16:13:18	2014-05-27 19:57:34
+118	0x76	v	1541	3012713	cor	Yma dhe’n venyn na dew sagh.	pne	2014-01-28 10:05:31	2014-08-07 15:36:46
+119	0x77	w	2877	5976596	cor	Nyns yw da gans Tom koffi.	Kevre	2017-03-25 15:22:17	\N
+121	0x79	y	3100	5978607	cor	Hi a vynn mos.	Kevre	2017-03-26 10:53:59	\N
 122	0x7a	z	1	3289877	cor	Yn Windhoek yth yw trigys ow herens hag yn Lüderitz yth o’ma trigys vy.	pne	2014-06-01 12:59:56	2014-06-01 12:59:56
 237	0xed	í	1	3280511	cor	Yth esa Pablo ha María omma.	pne	2014-05-27 14:54:23	2014-05-27 14:55:08
 250	0xfa	ú	1	8117893	cor	An dtuigeann tú?	SteCymru14	2019-08-20 20:02:29	2019-08-20 20:02:34
 252	0xfc	ü	1	3289877	cor	Yn Windhoek yth yw trigys ow herens hag yn Lüderitz yth o’ma trigys vy.	pne	2014-06-01 12:59:56	2014-06-01 12:59:56
 8211	0x2013	–	1	3966669	cor	“Tomm, lavar dhymm, mar pleg …” – “Mar pleg!”	pne	2015-03-17 10:27:45	2015-03-17 10:27:45
-8217	0x2019	’	196	3280904	cor	Eus lyvrow y’th chi?	pne	2014-05-27 16:26:28	2014-05-27 16:26:28
-8220	0x201c	“	5	3289184	cor	“A vyn’ta y brena?” “Mynnav.”	pne	2014-06-01 06:11:38	2014-06-01 12:24:13
-8221	0x201d	”	5	3966669	cor	“Tomm, lavar dhymm, mar pleg …” – “Mar pleg!”	pne	2015-03-17 10:27:45	2015-03-17 10:27:45
+8217	0x2019	’	196	3290044	cor	Ogas dhe’n gorsav yth on ni trigys.	pne	2014-06-01 14:33:04	2014-06-01 14:33:44
+8220	0x201c	“	5	3327135	cor	“Yw dha wreg Brythones?” “Nag yw, nyns yw Brythones, Albanes yw.”	pne	2014-06-20 10:39:21	2014-06-20 10:39:21
+8221	0x201d	”	5	3289184	cor	“A vyn’ta y brena?” “Mynnav.”	pne	2014-06-01 06:11:38	2014-06-01 12:24:13
 8230	0x2026	…	1	3966669	cor	“Tomm, lavar dhymm, mar pleg …” – “Mar pleg!”	pne	2015-03-17 10:27:45	2015-03-17 10:27:45

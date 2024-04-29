@@ -1,53 +1,53 @@
-32	0x20	 	46	12022282	gag	Uşak başçasında var uşaklar.	enebi	2023-08-29 03:46:24	2023-08-29 03:46:24
-33	0x21	!	3	12022273	gag	Avşam hayır olsun!	enebi	2023-08-29 03:28:55	2023-08-29 03:28:55
+32	0x20	 	46	12022299	gag	Petri kiyadı neylän yazêr?	enebi	2023-08-29 04:06:14	2023-08-29 04:06:14
+33	0x21	!	3	12022277	gag	Zaman hayır olsun!	enebi	2023-08-29 03:33:22	2023-08-29 03:33:22
 44	0x2c	,	1	10874382	gag	Onnar bana dedilär, ani onnar bişey buldular.	janTuki	2022-05-30 21:59:52	2022-06-11 01:12:51
-46	0x2e	.	28	9642620	gag	Бендӓ вар кеди.	TurkishReform	2021-01-13 18:05:32	2021-01-13 18:05:58
-63	0x3f	?	15	8780743	gag	Sizdä var mı zeedä para?	\N	2020-05-22 12:05:47	2020-07-01 17:48:29
-65	0x41	A	3	10873802	gag	Açan gidecän Germaniyaya?	janTuki	2022-05-30 16:48:09	2022-05-30 16:48:12
-66	0x42	B	13	10299969	gag	Bän çalışêrım zavodda.	\N	2021-09-16 22:12:32	2021-09-23 11:59:45
+46	0x2e	.	28	10873743	gag	Bän yaşêêrım Kişinêuda.	janTuki	2022-05-30 16:16:38	2022-05-30 16:16:38
+63	0x3f	?	15	10873735	gag	Neredä sän yaşêêrsın?	janTuki	2022-05-30 16:07:18	2022-05-30 16:07:18
+65	0x41	A	3	12022272	gag	Avşam hayır olsun.	enebi	2023-08-29 03:28:48	2023-08-29 03:28:48
+66	0x42	B	13	12072657	gag	Bän diilim ikiüzlü.	enebi	2023-09-22 23:18:45	2023-09-22 23:18:52
 69	0x45	E	1	8780725	gag	Esaplamam dooruydu.	\N	2020-05-22 11:58:50	2020-07-01 17:48:32
-71	0x47	G	3	8541787	gag	Gördünüz mü kızımı?	\N	2020-02-10 20:39:53	2020-06-26 09:32:49
+71	0x47	G	3	8541789	gag	Gördün mü kızımı?	\N	2020-02-10 20:39:58	2020-06-26 09:32:44
 72	0x48	H	2	12022278	gag	Hoş geldiniz!	enebi	2023-08-29 03:33:55	2023-08-29 03:33:55
 75	0x4b	K	4	8780759	gag	Küçükkän çok mındarlık yapardım.	\N	2020-05-22 12:13:48	2020-07-01 17:48:26
 77	0x4d	M	1	12022293	gag	Tom verdi Meriyä el feneri.	enebi	2023-08-29 03:59:51	2023-08-29 03:59:51
-78	0x4e	N	7	10873747	gag	Neredä o yaşêêr?	janTuki	2022-05-30 16:18:41	2022-05-30 16:18:44
-79	0x4f	O	2	12022279	gag	Onnar gelerlär şkolaya.	enebi	2023-08-29 03:35:33	2023-08-29 03:35:33
-80	0x50	P	2	12022299	gag	Petri kiyadı neylän yazêr?	enebi	2023-08-29 04:06:14	2023-08-29 04:06:14
-83	0x53	S	4	11906765	gag	Soruşa cuvap ver.	enebi	2023-07-05 01:40:34	2023-07-05 01:40:34
-84	0x54	T	2	8947937	gag	Bän yașêêrım Türkiyedä.	\N	2020-07-29 19:04:24	2020-07-29 19:06:35
+78	0x4e	N	7	10299968	gag	Ne yazêrsınız?	\N	2021-09-16 22:11:24	2021-09-23 11:59:47
+79	0x4f	O	2	10874382	gag	Onnar bana dedilär, ani onnar bişey buldular.	janTuki	2022-05-30 21:59:52	2022-06-11 01:12:51
+80	0x50	P	2	12022285	gag	Petri kiyadı neredä yazêr?	enebi	2023-08-29 03:48:43	2023-08-29 03:48:43
+83	0x53	S	4	3740902	gag	Sendä var üç kedi.	\N	2015-01-02 20:15:40	2019-04-16 10:53:15
+84	0x54	T	2	12022293	gag	Tom verdi Meriyä el feneri.	enebi	2023-08-29 03:59:51	2023-08-29 03:59:51
 85	0x55	U	1	12022282	gag	Uşak başçasında var uşaklar.	enebi	2023-08-29 03:46:24	2023-08-29 03:46:24
 90	0x5a	Z	2	12022277	gag	Zaman hayır olsun!	enebi	2023-08-29 03:33:22	2023-08-29 03:33:22
-97	0x61	a	35	12022277	gag	Zaman hayır olsun!	enebi	2023-08-29 03:33:22	2023-08-29 03:33:22
-98	0x62	b	6	8542140	gag	Bän başlêêrım.	\N	2020-02-11 01:38:02	2020-06-26 09:35:27
-99	0x63	c	5	10873803	gag	Nereyä gidecän?	janTuki	2022-05-30 16:49:16	2022-05-30 16:49:19
-100	0x64	d	33	12022288	gag	Ördeklär var deredä.	enebi	2023-08-29 03:49:21	2023-08-29 03:49:21
-101	0x65	e	31	12022278	gag	Hoş geldiniz!	enebi	2023-08-29 03:33:55	2023-08-29 03:33:55
+97	0x61	a	35	12022276	gag	Zaman hayır olsun.	enebi	2023-08-29 03:33:14	2023-08-29 03:33:14
+98	0x62	b	6	10874382	gag	Onnar bana dedilär, ani onnar bişey buldular.	janTuki	2022-05-30 21:59:52	2022-06-11 01:12:51
+99	0x63	c	5	11906765	gag	Soruşa cuvap ver.	enebi	2023-07-05 01:40:34	2023-07-05 01:40:34
+100	0x64	d	33	10873743	gag	Bän yaşêêrım Kişinêuda.	janTuki	2022-05-30 16:16:38	2022-05-30 16:16:38
+101	0x65	e	31	8780739	gag	Büüncä isteerim olmaa pilot.	\N	2020-05-22 12:02:51	2020-07-01 17:48:30
 102	0x66	f	1	12022293	gag	Tom verdi Meriyä el feneri.	enebi	2023-08-29 03:59:51	2023-08-29 03:59:51
-103	0x67	g	5	12022278	gag	Hoş geldiniz!	enebi	2023-08-29 03:33:55	2023-08-29 03:33:55
-104	0x68	h	4	12022277	gag	Zaman hayır olsun!	enebi	2023-08-29 03:33:22	2023-08-29 03:33:22
-105	0x69	i	22	12022294	gag	Neçin kişnär atlar?	enebi	2023-08-29 04:02:36	2023-08-29 04:02:36
-107	0x6b	k	23	12072657	gag	Bän diilim ikiüzlü.	enebi	2023-09-22 23:18:45	2023-09-22 23:18:52
-108	0x6c	l	24	12022288	gag	Ördeklär var deredä.	enebi	2023-08-29 03:49:21	2023-08-29 03:49:21
-109	0x6d	m	20	8780739	gag	Büüncä isteerim olmaa pilot.	\N	2020-05-22 12:02:51	2020-07-01 17:48:30
-110	0x6e	n	34	10299969	gag	Bän çalışêrım zavodda.	\N	2021-09-16 22:12:32	2021-09-23 11:59:45
-111	0x6f	o	15	8780725	gag	Esaplamam dooruydu.	\N	2020-05-22 11:58:50	2020-07-01 17:48:32
-112	0x70	p	9	10874380	gag	Neredä onun köpää?	janTuki	2022-05-30 21:54:17	2022-05-30 21:54:20
-114	0x72	r	41	10299969	gag	Bän çalışêrım zavodda.	\N	2021-09-16 22:12:32	2021-09-23 11:59:45
-115	0x73	s	10	12022276	gag	Zaman hayır olsun.	enebi	2023-08-29 03:33:14	2023-08-29 03:33:14
-116	0x74	t	7	12022294	gag	Neçin kişnär atlar?	enebi	2023-08-29 04:02:36	2023-08-29 04:02:36
-117	0x75	u	14	10874382	gag	Onnar bana dedilär, ani onnar bişey buldular.	janTuki	2022-05-30 21:59:52	2022-06-11 01:12:51
-118	0x76	v	15	12022273	gag	Avşam hayır olsun!	enebi	2023-08-29 03:28:55	2023-08-29 03:28:55
-121	0x79	y	23	12022276	gag	Zaman hayır olsun.	enebi	2023-08-29 03:33:14	2023-08-29 03:33:14
-122	0x7a	z	11	12022299	gag	Petri kiyadı neylän yazêr?	enebi	2023-08-29 04:06:14	2023-08-29 04:06:14
+103	0x67	g	5	12022281	gag	Başçada var gözäl çiçeklär.	enebi	2023-08-29 03:41:25	2023-08-29 03:41:25
+104	0x68	h	4	12022272	gag	Avşam hayır olsun.	enebi	2023-08-29 03:28:48	2023-08-29 03:28:48
+105	0x69	i	22	12022281	gag	Başçada var gözäl çiçeklär.	enebi	2023-08-29 03:41:25	2023-08-29 03:41:25
+107	0x6b	k	23	10874380	gag	Neredä onun köpää?	janTuki	2022-05-30 21:54:17	2022-05-30 21:54:20
+108	0x6c	l	24	12022294	gag	Neçin kişnär atlar?	enebi	2023-08-29 04:02:36	2023-08-29 04:02:36
+109	0x6d	m	20	8542140	gag	Bän başlêêrım.	\N	2020-02-11 01:38:02	2020-06-26 09:35:27
+110	0x6e	n	34	8947937	gag	Bän yașêêrım Türkiyedä.	\N	2020-07-29 19:04:24	2020-07-29 19:06:35
+111	0x6f	o	15	12022276	gag	Zaman hayır olsun.	enebi	2023-08-29 03:33:14	2023-08-29 03:33:14
+112	0x70	p	9	10901453	gag	Neredä bulunêr en yakın apteka?	janTuki	2022-06-11 01:09:10	2022-06-11 01:09:13
+114	0x72	r	41	10874382	gag	Onnar bana dedilär, ani onnar bişey buldular.	janTuki	2022-05-30 21:59:52	2022-06-11 01:12:51
+115	0x73	s	10	12022282	gag	Uşak başçasında var uşaklar.	enebi	2023-08-29 03:46:24	2023-08-29 03:46:24
+116	0x74	t	7	10901453	gag	Neredä bulunêr en yakın apteka?	janTuki	2022-06-11 01:09:10	2022-06-11 01:09:13
+117	0x75	u	14	12022282	gag	Uşak başçasında var uşaklar.	enebi	2023-08-29 03:46:24	2023-08-29 03:46:24
+118	0x76	v	15	12022288	gag	Ördeklär var deredä.	enebi	2023-08-29 03:49:21	2023-08-29 03:49:21
+121	0x79	y	23	10873747	gag	Neredä o yaşêêr?	janTuki	2022-05-30 16:18:41	2022-05-30 16:18:44
+122	0x7a	z	11	12022281	gag	Başçada var gözäl çiçeklär.	enebi	2023-08-29 03:41:25	2023-08-29 03:41:25
 199	0xc7	Ç	1	12022287	gag	Çiçeklär var başçada.	enebi	2023-08-29 03:49:13	2023-08-29 03:49:13
 214	0xd6	Ö	2	12022283	gag	Ördeklär deredä üzer.	enebi	2023-08-29 03:47:24	2023-08-29 03:47:24
-228	0xe4	ä	32	12022293	gag	Tom verdi Meriyä el feneri.	enebi	2023-08-29 03:59:51	2023-08-29 03:59:51
-231	0xe7	ç	9	8780759	gag	Küçükkän çok mındarlık yapardım.	\N	2020-05-22 12:13:48	2020-07-01 17:48:26
-234	0xea	ê	15	10873782	gag	Kral yaşêêr kaledä.	janTuki	2022-05-30 16:40:44	2022-05-30 16:40:47
-246	0xf6	ö	6	12022270	gag	Köpek evdä yaşêêr.	enebi	2023-08-29 03:27:19	2023-08-29 03:27:39
-252	0xfc	ü	9	12072657	gag	Bän diilim ikiüzlü.	enebi	2023-09-22 23:18:45	2023-09-22 23:18:52
-305	0x131	ı	20	12022277	gag	Zaman hayır olsun!	enebi	2023-08-29 03:33:22	2023-08-29 03:33:22
-351	0x15f	ş	18	10873735	gag	Neredä sän yaşêêrsın?	janTuki	2022-05-30 16:07:18	2022-05-30 16:07:18
+228	0xe4	ä	32	10874380	gag	Neredä onun köpää?	janTuki	2022-05-30 21:54:17	2022-05-30 21:54:20
+231	0xe7	ç	9	10873802	gag	Açan gidecän Germaniyaya?	janTuki	2022-05-30 16:48:09	2022-05-30 16:48:12
+234	0xea	ê	15	10901453	gag	Neredä bulunêr en yakın apteka?	janTuki	2022-06-11 01:09:10	2022-06-11 01:09:13
+246	0xf6	ö	6	9646410	gag	Bendä var dört kedi.	TurkishReform	2021-01-14 00:46:01	2021-01-14 00:46:04
+252	0xfc	ü	9	12022283	gag	Ördeklär deredä üzer.	enebi	2023-08-29 03:47:24	2023-08-29 03:47:24
+305	0x131	ı	20	8947937	gag	Bän yașêêrım Türkiyedä.	\N	2020-07-29 19:04:24	2020-07-29 19:06:35
+351	0x15f	ş	18	10874384	gag	Bän burada yaşêêrım.	janTuki	2022-05-30 22:00:52	2022-05-30 22:00:52
 537	0x219	ș	1	8947937	gag	Bän yașêêrım Türkiyedä.	\N	2020-07-29 19:04:24	2020-07-29 19:06:35
 1041	0x411	Б	1	9642620	gag	Бендӓ вар кеди.	TurkishReform	2021-01-13 18:05:32	2021-01-13 18:05:58
 1072	0x430	а	1	9642620	gag	Бендӓ вар кеди.	TurkishReform	2021-01-13 18:05:32	2021-01-13 18:05:58

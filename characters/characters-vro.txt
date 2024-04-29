@@ -1,42 +1,42 @@
-32	0x20	 	14	3048138	vro	Rõõm nätäq. Kuis lätt?	\N	2014-02-15 16:41:46	2015-10-19 01:44:43
+32	0x20	 	14	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53
 33	0x21	!	1	3048128	vro	Näemiq!	\N	2014-02-15 16:40:09	2015-10-19 01:44:44
-44	0x2c	,	3	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
-46	0x2e	.	9	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
+44	0x2c	,	3	3196280	vro	Sotsioloogia om tiidüs, miä uur ütiskunda.	\N	2014-04-23 20:54:53	2015-10-19 01:44:30
+46	0x2e	.	9	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
 49	0x31	1	1	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
 50	0x32	2	1	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
 55	0x37	7	1	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
-63	0x3f	?	6	3176116	vro	Kon sa elät?	\N	2014-04-14 16:59:10	2015-10-19 01:44:39
+63	0x3f	?	6	3176117	vro	Kas inglüse kiilt kõnõlõt?	\N	2014-04-14 16:59:46	2015-10-19 01:44:38
 66	0x42	B	1	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
-75	0x4b	K	8	3196124	vro	Kon om peldik?	\N	2014-04-23 19:56:51	2015-10-19 01:44:37
-77	0x4d	M	2	3196165	vro	Ma olõ mehhiklanõ.	\N	2014-04-23 20:14:39	2015-10-19 01:44:34
-78	0x4e	N	2	3048128	vro	Näemiq!	\N	2014-02-15 16:40:09	2015-10-19 01:44:44
+75	0x4b	K	8	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
+77	0x4d	M	2	3168618	vro	Miä su nimi om?	\N	2014-04-12 07:40:37	2015-10-19 01:44:40
+78	0x4e	N	2	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
 82	0x52	R	1	3048138	vro	Rõõm nätäq. Kuis lätt?	\N	2014-02-15 16:41:46	2015-10-19 01:44:43
 83	0x53	S	1	3196280	vro	Sotsioloogia om tiidüs, miä uur ütiskunda.	\N	2014-04-23 20:54:53	2015-10-19 01:44:30
 86	0x56	V	1	3196187	vro	Võro kiräviie alossõs om ladina põhitähistü.	\N	2014-04-23 20:26:32	2015-10-19 01:44:33
-97	0x61	a	10	3176116	vro	Kon sa elät?	\N	2014-04-14 16:59:10	2015-10-19 01:44:39
+97	0x61	a	10	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
 98	0x62	b	1	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
 100	0x64	d	5	3196280	vro	Sotsioloogia om tiidüs, miä uur ütiskunda.	\N	2014-04-23 20:54:53	2015-10-19 01:44:30
-101	0x65	e	12	3196213	vro	Kikas om esäne kana.	\N	2014-04-23 20:38:28	2015-10-19 01:44:32
+101	0x65	e	12	3196165	vro	Ma olõ mehhiklanõ.	\N	2014-04-23 20:14:39	2015-10-19 01:44:34
 102	0x66	f	1	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
-103	0x67	g	4	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
+103	0x67	g	4	3176117	vro	Kas inglüse kiilt kõnõlõt?	\N	2014-04-14 16:59:46	2015-10-19 01:44:38
 104	0x68	h	3	3196165	vro	Ma olõ mehhiklanõ.	\N	2014-04-23 20:14:39	2015-10-19 01:44:34
-105	0x69	i	14	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
-106	0x6a	j	2	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
-107	0x6b	k	9	3176117	vro	Kas inglüse kiilt kõnõlõt?	\N	2014-04-14 16:59:46	2015-10-19 01:44:38
-108	0x6c	l	11	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53
-109	0x6d	m	12	3196213	vro	Kikas om esäne kana.	\N	2014-04-23 20:38:28	2015-10-19 01:44:32
-110	0x6e	n	13	3176116	vro	Kon sa elät?	\N	2014-04-14 16:59:10	2015-10-19 01:44:39
-111	0x6f	o	12	3176116	vro	Kon sa elät?	\N	2014-04-14 16:59:10	2015-10-19 01:44:39
-112	0x70	p	4	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
-113	0x71	q	3	3048128	vro	Näemiq!	\N	2014-02-15 16:40:09	2015-10-19 01:44:44
+105	0x69	i	14	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53
+106	0x6a	j	2	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
+107	0x6b	k	9	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
+108	0x6c	l	11	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
+109	0x6d	m	12	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
+110	0x6e	n	13	3176117	vro	Kas inglüse kiilt kõnõlõt?	\N	2014-04-14 16:59:46	2015-10-19 01:44:38
+111	0x6f	o	12	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
+112	0x70	p	4	3196187	vro	Võro kiräviie alossõs om ladina põhitähistü.	\N	2014-04-23 20:26:32	2015-10-19 01:44:33
+113	0x71	q	3	3048138	vro	Rõõm nätäq. Kuis lätt?	\N	2014-02-15 16:41:46	2015-10-19 01:44:43
 114	0x72	r	4	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
-115	0x73	s	10	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
-116	0x74	t	10	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
-117	0x75	u	6	3168618	vro	Miä su nimi om?	\N	2014-04-12 07:40:37	2015-10-19 01:44:40
-118	0x76	v	4	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
-220	0xdc	Ü	2	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53
-228	0xe4	ä	10	3196187	vro	Võro kiräviie alossõs om ladina põhitähistü.	\N	2014-04-23 20:26:32	2015-10-19 01:44:33
+115	0x73	s	10	3196187	vro	Võro kiräviie alossõs om ladina põhitähistü.	\N	2014-04-23 20:26:32	2015-10-19 01:44:33
+116	0x74	t	10	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53
+117	0x75	u	6	3048138	vro	Rõõm nätäq. Kuis lätt?	\N	2014-02-15 16:41:46	2015-10-19 01:44:43
+118	0x76	v	4	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
+220	0xdc	Ü	2	3196267	vro	Üts arssin om 71,12 sentimiitrit.	\N	2014-04-23 20:48:47	2015-10-19 01:44:31
+228	0xe4	ä	10	3176116	vro	Kon sa elät?	\N	2014-04-14 16:59:10	2015-10-19 01:44:39
 245	0xf5	õ	7	3196187	vro	Võro kiräviie alossõs om ladina põhitähistü.	\N	2014-04-23 20:26:32	2015-10-19 01:44:33
-252	0xfc	ü	5	7938314	vro	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.	\N	2019-05-27 09:33:17	2020-02-17 09:41:47
+252	0xfc	ü	5	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53
 299	0x12b	ī	1	4824049	vro	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.	Balamax	2016-01-11 01:19:23	2016-01-11 14:58:45
 347	0x15b	ś	1	7918869	vro	Ütś, katś, kolm, nelli, viiś, kuuś, säidse, katõsa, ütesä, kümme.	\N	2019-05-18 12:58:42	2020-02-17 09:41:53

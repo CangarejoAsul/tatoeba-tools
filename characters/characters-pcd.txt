@@ -1,83 +1,83 @@
-32	0x20	 	1327	8720395	pcd	Alle va arvenir d'Pontoise.	Julien_PDC	2020-04-27 09:53:40	2020-04-27 09:53:40
-33	0x21	!	245	8724811	pcd	Acoutez tous !	Julien_PDC	2020-04-29 07:20:41	2020-04-29 07:20:41
-39	0x27	'	859	8718135	pcd	Quel âche a ch'quien ?	Julien_PDC	2020-04-26 12:11:18	2020-04-26 12:11:18
-44	0x2c	,	126	8725021	pcd	À c't'heure, acoute mi bin !	Julien_PDC	2020-04-29 08:41:18	2020-04-29 08:41:18
-45	0x2d	-	63	8725296	pcd	Thomas a eun' énemie-sœur.	Julien_PDC	2020-04-29 10:54:50	2020-04-29 10:54:50
-46	0x2e	.	951	8646537	pcd	I' o reçu s'n'atout.	Julien_PDC	2020-03-30 14:18:04	2020-04-27 06:57:04
+32	0x20	 	1327	8722598	pcd	Je sut métecin.	Julien_PDC	2020-04-28 08:11:22	2020-04-28 08:11:22
+33	0x21	!	245	2507677	pcd	I mint comme un arracheux d'dints !	Anthaus	2013-06-18 17:55:50	2013-06-18 17:55:54
+39	0x27	'	859	2689581	pcd	Je n'sais point commint vous armercier.	Anthaus	2013-08-20 12:41:08	2013-08-20 12:41:08
+44	0x2c	,	126	8719954	pcd	Bonjour, professeu !	Julien_PDC	2020-04-27 08:17:19	2020-04-27 08:17:19
+45	0x2d	-	63	8725347	pcd	Ch'est là-d'dins ?	Julien_PDC	2020-04-29 11:22:14	2020-04-29 11:22:14
+46	0x2e	.	951	8645978	pcd	J'fais eun' marche.	Julien_PDC	2020-03-30 09:53:42	2020-03-30 09:53:42
 49	0x31	1	1	8644287	pcd	Guett' eul 3 x 7 font 21.	Julien_PDC	2020-03-29 17:07:17	2020-03-29 17:07:17
 50	0x32	2	1	8644287	pcd	Guett' eul 3 x 7 font 21.	Julien_PDC	2020-03-29 17:07:17	2020-03-29 17:07:17
 51	0x33	3	1	8644287	pcd	Guett' eul 3 x 7 font 21.	Julien_PDC	2020-03-29 17:07:17	2020-03-29 17:07:17
 55	0x37	7	1	8644287	pcd	Guett' eul 3 x 7 font 21.	Julien_PDC	2020-03-29 17:07:17	2020-03-29 17:07:17
 58	0x3a	:	1	8725217	pcd	I' fait froéd : os avons alumeu ch'fu.	Julien_PDC	2020-04-29 10:00:03	2020-04-29 10:00:03
 59	0x3b	;	1	2687378	pcd	Ch'n'est point in pourchiau ; ch'est in sinche.	Anthaus	2013-08-19 15:49:43	2013-08-19 15:49:52
-63	0x3f	?	159	8644023	pcd	Quo que té dis ?	Julien_PDC	2020-03-29 15:42:15	2020-03-29 15:42:15
-65	0x41	A	221	8720408	pcd	Arvenez d'main après souper.	Julien_PDC	2020-04-27 09:57:21	2020-04-27 09:57:21
-66	0x42	B	50	8719955	pcd	Bonjour, monsieur !	Julien_PDC	2020-04-27 08:19:51	2020-04-27 08:19:51
-67	0x43	C	94	8722495	pcd	Ch’étoait à n'avoér el' tornis.	Julien_PDC	2020-04-28 06:59:02	2020-04-28 06:59:02
-68	0x44	D	20	8644619	pcd	Dins m'rue y'a toujours la bon'air.	Julien_PDC	2020-03-29 18:32:34	2020-03-29 18:32:34
-69	0x45	E	32	8727342	pcd	Eun' carette arriveu.	Julien_PDC	2020-04-30 10:21:52	2020-04-30 10:21:52
-70	0x46	F	13	8644043	pcd	Ferme tin clapet !	Julien_PDC	2020-03-29 15:53:02	2020-03-29 15:53:02
-71	0x47	G	29	8725343	pcd	Grimpe là-d'dés.	Julien_PDC	2020-04-29 11:21:05	2020-04-29 11:21:05
+63	0x3f	?	159	8725392	pcd	Os êtes sotte ?	Julien_PDC	2020-04-29 11:38:12	2020-04-29 11:38:12
+65	0x41	A	221	8718254	pcd	Ale a à peu près m'n' âche.	Julien_PDC	2020-04-26 12:43:00	2020-04-26 12:43:00
+66	0x42	B	50	8719953	pcd	Bonjour Marie.	Julien_PDC	2020-04-27 08:16:33	2020-04-27 08:16:33
+67	0x43	C	94	8646002	pcd	Ch'est l'pus biau des sept, mais quand'il est tout seul.	Julien_PDC	2020-03-30 10:13:31	2020-03-30 10:13:31
+68	0x44	D	20	8719256	pcd	Merchi à Diu !	Julien_PDC	2020-04-26 18:56:57	2020-04-26 18:56:57
+69	0x45	E	32	8644166	pcd	Eu ch’ti qui va all ducasse i perd es’plache !	Julien_PDC	2020-03-29 16:35:06	2020-03-29 16:35:06
+70	0x46	F	13	8719207	pcd	Fais mi vir cha.	Julien_PDC	2020-04-26 18:40:55	2020-04-26 18:40:55
+71	0x47	G	29	8644267	pcd	Guett' c'ti comm' il est biau.	Julien_PDC	2020-03-29 17:01:48	2020-03-29 17:01:48
 72	0x48	H	1	8727162	pcd	Hein ?	Julien_PDC	2020-04-30 06:16:55	2020-04-30 06:17:01
-73	0x49	I	168	8720376	pcd	I' veute arvenir.	Julien_PDC	2020-04-27 09:46:52	2020-04-27 09:46:52
-74	0x4a	J	240	8722537	pcd	Je sut gueucher.	Julien_PDC	2020-04-28 07:22:02	2020-04-28 07:22:02
+73	0x49	I	168	8725422	pcd	I' est fènèyant.	Julien_PDC	2020-04-29 11:47:43	2020-04-29 11:47:43
+74	0x4a	J	240	8332722	pcd	J'i ai tout préparé.	Julien_PDC	2019-11-19 08:27:21	2019-11-19 08:27:21
 75	0x4b	K	5	8720383	pcd	Os arvenez à Kyoto ?	Julien_PDC	2020-04-27 09:48:56	2020-04-27 09:48:56
-76	0x4c	L	28	8723944	pcd	L'avinture comminche.	Julien_PDC	2020-04-28 18:41:51	2020-04-28 18:41:51
-77	0x4d	M	86	8719893	pcd	Tom i'o acané Marie.	Julien_PDC	2020-04-27 07:03:49	2020-04-27 07:03:49
-78	0x4e	N	42	8724964	pcd	N'm' acoute pon !	Julien_PDC	2020-04-29 08:28:28	2020-04-29 08:28:28
-79	0x4f	O	50	8646535	pcd	Ote cha arrière de t'poche.	Julien_PDC	2020-03-30 14:16:27	2020-03-30 14:16:27
-80	0x50	P	36	8644172	pcd	Il arguett' au Porté si Calais y brûle.	Julien_PDC	2020-03-29 16:37:10	2020-03-29 16:37:10
-81	0x51	Q	81	8332763	pcd	Quoque ch’est qu’te berdoulles ?	Julien_PDC	2019-11-19 08:38:05	2019-11-19 08:38:05
-82	0x52	R	10	8720059	pcd	Bonjour Roger. J' vos bin.	Julien_PDC	2020-04-27 08:55:18	2020-04-27 08:55:18
+76	0x4c	L	28	8644611	pcd	L'odeur al'armonte.	Julien_PDC	2020-03-29 18:29:20	2020-03-29 18:29:20
+77	0x4d	M	86	8719238	pcd	Merchi Sherlock !	Julien_PDC	2020-04-26 18:52:15	2020-04-26 18:52:15
+78	0x4e	N	42	8720895	pcd	N'abindonnez pon.	Julien_PDC	2020-04-27 12:44:29	2020-04-27 12:44:29
+79	0x4f	O	50	8724994	pcd	Os acoutez l' radio ?	Julien_PDC	2020-04-29 08:32:56	2020-04-29 08:32:56
+80	0x50	P	36	8724955	pcd	Pèrsone n'acoute puc'.	Julien_PDC	2020-04-29 08:27:04	2020-04-29 08:27:04
+81	0x51	Q	81	8722469	pcd	Qui acateroait cha ?	Julien_PDC	2020-04-28 06:21:52	2020-04-28 06:21:52
+82	0x52	R	10	8646578	pcd	R'garde eul' carcaillou !	Julien_PDC	2020-03-30 14:36:24	2020-03-30 14:36:24
 83	0x53	S	16	8720232	pcd	Bonjour ? Salut ! Commint tu vos ?	Julien_PDC	2020-04-27 09:26:48	2020-04-27 09:26:48
-84	0x54	T	160	8644313	pcd	T’as qu’à t’armuer t’aura caud !	Julien_PDC	2020-03-29 17:12:44	2020-03-29 17:12:44
-85	0x55	U	5	8717843	pcd	Un quien aboïe.	Julien_PDC	2020-04-26 10:05:49	2020-04-26 10:05:49
-86	0x56	V	17	8720728	pcd	Viens min garchon, assis-te. Assis-te et repose-te.	Julien_PDC	2020-04-27 12:12:32	2020-04-27 12:12:32
+84	0x54	T	160	8725431	pcd	T'es innochinte.	Julien_PDC	2020-04-29 11:49:26	2020-04-29 11:49:26
+85	0x55	U	5	8646432	pcd	Un grin cassiau.	Julien_PDC	2020-03-30 13:47:45	2020-03-30 13:47:45
+86	0x56	V	17	8720371	pcd	Vos tu arvenir ?	Julien_PDC	2020-04-27 09:46:06	2020-04-27 09:46:06
 87	0x57	W	2	8725412	pcd	Wiseux.	Julien_PDC	2020-04-29 11:45:16	2020-04-29 11:45:16
-89	0x59	Y	9	8644217	pcd	Y pleut à l'dalle !	Julien_PDC	2020-03-29 16:51:19	2020-03-29 16:51:19
-97	0x61	a	950	8725346	pcd	Cache te là-d'dins.	Julien_PDC	2020-04-29 11:22:03	2020-04-29 11:22:03
-98	0x62	b	274	8645964	pcd	I f'ra biau d'main, les corlus sont perchay.	Julien_PDC	2020-03-30 09:43:22	2020-03-30 09:43:22
-99	0x63	c	809	8644260	pcd	Guett' le me le c'ti là.	Julien_PDC	2020-03-29 17:00:38	2020-03-29 17:00:38
-100	0x64	d	385	8644568	pcd	Té descindras quand t'aras taïe.	Julien_PDC	2020-03-29 18:20:01	2020-03-29 18:20:01
-101	0x65	e	1251	2491279	pcd	I n'faut pas qu'ches glaines is cantent pus fort que ch'co.	Anthaus	2013-06-11 12:16:57	2013-06-11 12:17:01
-102	0x66	f	188	8722512	pcd	Je sut prof'.	Julien_PDC	2020-04-28 07:10:14	2020-04-28 07:10:14
-103	0x67	g	160	8722596	pcd	Je sut interligint.	Julien_PDC	2020-04-28 08:10:12	2020-04-28 08:10:12
-104	0x68	h	489	8646581	pcd	V'là ch'in qui m'faut.	Julien_PDC	2020-03-30 14:38:27	2020-03-30 14:38:27
-105	0x69	i	962	8717889	pcd	I'acatait du pane.	Julien_PDC	2020-04-26 10:33:13	2020-04-26 10:33:13
-106	0x6a	j	120	8719952	pcd	Bonjour, docteu !	Julien_PDC	2020-04-27 08:16:24	2020-04-27 08:16:24
-107	0x6b	k	10	7918634	pcd	Un, deu, trouo, kat, chink, sis, siet, uit, neuf, dich.	\N	2019-05-18 11:42:00	2020-02-17 09:36:51
-108	0x6c	l	543	8644513	pcd	Eut'petiot y'étot fin belot dimanche dernier.	Julien_PDC	2020-03-29 18:05:18	2020-03-29 18:05:18
-109	0x6d	m	468	8644063	pcd	C'est mi grave !	Julien_PDC	2020-03-29 16:02:03	2020-03-29 16:02:03
-110	0x6e	n	912	8719901	pcd	Arrêtez d' l'acaner !	Julien_PDC	2020-04-27 07:12:05	2020-04-27 07:13:46
-111	0x6f	o	931	8644274	pcd	Eh ben artrousse te, guett' le, ça ira miu.	Julien_PDC	2020-03-29 17:03:37	2020-03-29 17:03:37
-112	0x70	p	411	8644051	pcd	I chuche pas qu’des glachons !	Julien_PDC	2020-03-29 15:56:52	2020-03-29 15:56:52
-113	0x71	q	234	8718228	pcd	I' o quel âche ct' app' ?	Julien_PDC	2020-04-26 12:37:03	2020-04-29 08:37:03
-114	0x72	r	752	8727591	pcd	De ren !	Julien_PDC	2020-04-30 11:41:29	2020-04-30 11:43:08
-115	0x73	s	878	8718387	pcd	Viens vir !	Julien_PDC	2020-04-26 13:37:45	2020-04-26 13:37:45
-116	0x74	t	1092	8717930	pcd	N'acate pon cha.	Julien_PDC	2020-04-26 10:41:13	2020-04-26 10:41:13
-117	0x75	u	955	8644032	pcd	Bin ch’est du bieau !	Julien_PDC	2020-03-29 15:48:53	2020-03-29 15:48:53
-118	0x76	v	290	8723926	pcd	Alle trinsporte toudis l'sainte Bibe avuc alle.	Julien_PDC	2020-04-28 18:39:47	2020-04-28 18:39:47
-119	0x77	w	9	8644256	pcd	Guett' un paeuw.	Julien_PDC	2020-03-29 16:59:50	2020-03-29 16:59:50
-120	0x78	x	60	8720678	pcd	Assis-te où t' veux !	Julien_PDC	2020-04-27 11:52:22	2020-04-27 11:52:22
-121	0x79	y	54	8725002	pcd	Sami doit acouter Layla.	Julien_PDC	2020-04-29 08:35:12	2020-04-29 08:35:12
-122	0x7a	z	109	8720359	pcd	Arvenez pon.	Julien_PDC	2020-04-27 09:43:34	2020-04-27 09:43:34
+89	0x59	Y	9	8719227	pcd	Merchi, Yukina.	Julien_PDC	2020-04-26 18:48:58	2020-04-26 18:48:58
+97	0x61	a	950	2655932	pcd	J'aquiers eune file, mais all' a des tètes conme des morses ed picron.	Anthaus	2013-08-05 12:37:57	2013-08-21 11:19:30
+98	0x62	b	274	8645982	pcd	Croix d'bois, croix d'fer, si j'mins j'vais in infer !	Julien_PDC	2020-03-30 09:56:14	2020-03-30 09:56:14
+99	0x63	c	809	8722469	pcd	Qui acateroait cha ?	Julien_PDC	2020-04-28 06:21:52	2020-04-28 06:21:52
+100	0x64	d	385	8644487	pcd	Tout cha, ch'est des risées.	Julien_PDC	2020-03-29 17:56:05	2020-03-29 17:56:05
+101	0x65	e	1251	8719913	pcd	I n' voloit pon l'arconnaître.	Julien_PDC	2020-04-27 07:19:14	2020-04-27 07:19:14
+102	0x66	f	188	8725451	pcd	Ne fois pon l'innochinte !	Julien_PDC	2020-04-29 11:53:36	2020-04-29 11:53:36
+103	0x67	g	160	2689964	pcd	Ch'est che zique, aveuc eun' gampe ed' bos.	Anthaus	2013-08-20 16:35:47	2013-08-20 16:35:47
+104	0x68	h	489	8725466	pcd	Ne jue pon les innochints !	Julien_PDC	2020-04-29 11:56:39	2020-04-29 11:56:39
+105	0x69	i	962	2702406	pcd	J'caire el' glaire.	Anthaus	2013-08-27 16:38:51	2013-09-11 17:20:01
+106	0x6a	j	120	8644619	pcd	Dins m'rue y'a toujours la bon'air.	Julien_PDC	2020-03-29 18:32:34	2020-03-29 18:32:34
+107	0x6b	k	10	8725102	pcd	Keiko cante.	Julien_PDC	2020-04-29 09:01:28	2020-04-29 09:01:28
+108	0x6c	l	543	8720740	pcd	Alle acata eun' glinne.	Julien_PDC	2020-04-27 12:16:16	2020-04-27 12:16:16
+109	0x6d	m	468	2691113	pcd	Ch'maladie arrife à bidet et s'in va à pied.	Anthaus	2013-08-21 10:53:35	2013-08-21 10:53:35
+110	0x6e	n	912	8720872	pcd	Jean ravisero t' vaque.	Julien_PDC	2020-04-27 12:39:15	2020-04-27 12:39:15
+111	0x6f	o	931	8725392	pcd	Os êtes sotte ?	Julien_PDC	2020-04-29 11:38:12	2020-04-29 11:38:12
+112	0x70	p	411	8644036	pcd	Ecoute un peu ichi !	Julien_PDC	2020-03-29 15:51:37	2020-03-29 15:51:37
+113	0x71	q	234	8646581	pcd	V'là ch'in qui m'faut.	Julien_PDC	2020-03-30 14:38:27	2020-03-30 14:38:27
+114	0x72	r	752	8646526	pcd	In amiclotant sin p'tit garchon.	Julien_PDC	2020-03-30 14:14:06	2020-03-30 14:14:06
+115	0x73	s	878	8722451	pcd	T'es abonminabe.	Julien_PDC	2020-04-28 06:08:32	2020-04-28 06:08:36
+116	0x74	t	1092	8725386	pcd	I' est arièreu.	Julien_PDC	2020-04-29 11:37:20	2020-04-29 11:37:20
+117	0x75	u	955	2514674	pcd	Inlève tin capiau.	Anthaus	2013-06-21 21:41:03	2013-06-21 21:41:08
+118	0x76	v	290	8723947	pcd	I' ainme l'avinture.	Julien_PDC	2020-04-28 18:42:10	2020-04-28 18:42:10
+119	0x77	w	9	8644088	pcd	Va quer eul'wassingue !	Julien_PDC	2020-03-29 16:10:03	2020-03-29 16:10:03
+120	0x78	x	60	2655930	pcd	Avoir d'pu grands yux qu'ed grande panche.	Anthaus	2013-08-05 12:33:48	2013-08-05 12:33:48
+121	0x79	y	54	8646539	pcd	On les veyot sus l'balochoire.	Julien_PDC	2020-03-30 14:20:01	2020-03-30 14:20:01
+122	0x7a	z	109	8720355	pcd	Arvenez immédiatemint !	Julien_PDC	2020-04-27 09:43:07	2020-04-27 09:43:07
 160	0xa0	 	2	8719245	pcd	« Merchi. » « De rin. »	Julien_PDC	2020-04-26 18:53:39	2020-04-26 18:53:39
-171	0xab	«	3	8727597	pcd	« Merci. » « De ren. »	Julien_PDC	2020-04-30 11:42:14	2020-04-30 11:42:14
+171	0xab	«	3	8719245	pcd	« Merchi. » « De rin. »	Julien_PDC	2020-04-26 18:53:39	2020-04-26 18:53:39
 187	0xbb	»	3	8719245	pcd	« Merchi. » « De rin. »	Julien_PDC	2020-04-26 18:53:39	2020-04-26 18:53:39
-192	0xc0	À	8	8722499	pcd	À ch't'heure i' est sorti.	Julien_PDC	2020-04-28 07:02:40	2020-04-28 07:02:40
+192	0xc0	À	8	8725021	pcd	À c't'heure, acoute mi bin !	Julien_PDC	2020-04-29 08:41:18	2020-04-29 08:41:18
 199	0xc7	Ç	2	8725348	pcd	Ça caye, là-d'dins !	Julien_PDC	2020-04-29 11:22:31	2020-04-29 11:22:31
-201	0xc9	É	5	2669694	pcd	Éj t'avos dis d'y aller duchemint don !	Anthaus	2013-08-12 10:57:59	2013-08-12 10:57:59
-224	0xe0	à	99	8644497	pcd	T'as ma' à t'panchette ?	Julien_PDC	2020-03-29 17:58:26	2020-03-29 17:58:26
-226	0xe2	â	92	8718214	pcd	Quel âche a tin taïon ?	Julien_PDC	2020-04-26 12:33:44	2020-04-26 12:33:44
-231	0xe7	ç	6	8644598	pcd	Eun'bistouille, ç'armonte eul' moral.	Julien_PDC	2020-03-29 18:26:13	2020-03-29 18:26:13
-232	0xe8	è	95	8328635	pcd	I n’o poin rbéyè s’boutinette.	Julien_PDC	2019-11-17 11:58:47	2019-11-17 11:58:47
-233	0xe9	é	297	8723902	pcd	Je sut esquintée.	Julien_PDC	2020-04-28 18:33:52	2020-04-28 18:33:52
+201	0xc9	É	5	2514676	pcd	Éch'ti quî voudrot, i pourrot.	Anthaus	2013-06-21 21:41:49	2013-06-21 21:41:53
+224	0xe0	à	99	8718367	pcd	I s'in va à s'moaison.	Julien_PDC	2020-04-26 13:29:07	2020-04-26 13:29:07
+226	0xe2	â	92	8718129	pcd	Quel est t'n' âche ?	Julien_PDC	2020-04-26 12:09:28	2020-04-26 12:09:28
+231	0xe7	ç	6	8644518	pcd	Brait pas fiu, ça va s'arringer.	Julien_PDC	2020-03-29 18:06:46	2020-03-29 18:06:46
+232	0xe8	è	95	8646455	pcd	C'est l'bielle-mère.	Julien_PDC	2020-03-30 13:55:05	2020-03-30 13:55:05
+233	0xe9	é	297	2686871	pcd	Min père i m'a acaté ch'capieau.	Anthaus	2013-08-19 09:46:01	2013-08-19 09:59:27
 234	0xea	ê	42	2689967	pcd	J'a rincontré eun' vielle quête.	Anthaus	2013-08-20 16:40:06	2013-08-20 16:40:06
-235	0xeb	ë	7	2686482	pcd	I vaut miux un p'tit avoëre qu'un grand espoëre.	Anthaus	2013-08-18 23:34:10	2013-08-18 23:34:10
-238	0xee	î	24	8719945	pcd	Je pensois qu'il n'la reconnaîtroit pon.	Julien_PDC	2020-04-27 08:11:04	2020-04-27 08:11:04
-239	0xef	ï	30	8725262	pcd	Min taïon rbéyoait toudis s' feuy'ton.	Julien_PDC	2020-04-29 10:33:35	2020-04-29 10:33:35
-244	0xf4	ô	11	8645985	pcd	Ej venoi d'tomber d'sur un injôleur.	Julien_PDC	2020-03-30 09:57:37	2020-03-30 09:57:37
+235	0xeb	ë	7	8724916	pcd	Téch të et acoute.	Julien_PDC	2020-04-29 07:57:30	2020-04-29 07:57:30
+238	0xee	î	24	8720723	pcd	Assis-te seur ch'cahielle, s'il te plaît.	Julien_PDC	2020-04-27 12:11:23	2020-04-27 12:11:23
+239	0xef	ï	30	8668199	pcd	I' est toudis degaverlaïe.	Julien_PDC	2020-04-10 08:17:55	2020-04-10 08:17:55
+244	0xf4	ô	11	8644208	pcd	Il r'garde min naeuw d'cravate s'il est bin fait plutôt qu'd'arguetter mes souliers si y sont bin cirailles.	Julien_PDC	2020-03-29 16:48:01	2020-03-29 16:48:01
 249	0xf9	ù	9	8720678	pcd	Assis-te où t' veux !	Julien_PDC	2020-04-27 11:52:22	2020-04-27 11:52:22
-251	0xfb	û	9	8644610	pcd	Les égoûts i z'armontent.	Julien_PDC	2020-03-29 18:29:07	2020-03-29 18:29:07
+251	0xfb	û	9	8724989	pcd	Acoute, je sut sérieûse.	Julien_PDC	2020-04-29 08:32:16	2020-04-29 08:32:16
 339	0x153	œ	2	8725297	pcd	Tom a eun' énemie-sœur.	Julien_PDC	2020-04-29 10:55:12	2020-04-29 10:55:12
-8217	0x2019	’	45	8644052	pcd	I fait l’Jacques !	Julien_PDC	2020-03-29 15:57:17	2020-03-29 15:57:17
+8217	0x2019	’	45	8328635	pcd	I n’o poin rbéyè s’boutinette.	Julien_PDC	2019-11-17 11:58:47	2019-11-17 11:58:47

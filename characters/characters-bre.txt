@@ -1,90 +1,90 @@
-32	0x20	 	7634	5846407	bre	Kit da c'houzout!	Iriep	2017-02-10 15:26:52	2017-02-10 15:26:52
-33	0x21	!	1204	11910055	bre	Kae da welet er geriadur 'ta !	Odhran_Gwydhenn	2023-07-05 23:28:36	2023-07-05 23:28:36
-34	0x22	"	35	6023574	bre	Ar c'hazh a ra "mezv".	Iriep	2017-04-19 13:51:46	\N
-39	0x27	'	2914	5845478	bre	Ha Tom 'zo en em gavet?	Iriep	2017-02-10 11:32:58	2017-02-10 11:32:58
+32	0x20	 	7636	5323856	bre	Ar gaoter o sarmon d’ar pod-fer.	Iriep	2016-08-07 09:30:41	2016-08-07 09:32:21
+33	0x21	!	1205	5846258	bre	Klaskit c'hoazh!	Iriep	2017-02-10 15:12:33	2017-02-10 15:12:33
+34	0x22	"	35	6023572	bre	Ar c'hazh a ra "miniaou".	Iriep	2017-04-19 13:51:21	\N
+39	0x27	'	2914	5323806	bre	Eno emañ an dalc'h.	Iriep	2016-08-07 09:19:11	2016-08-07 09:19:11
 40	0x28	(	1	2741796	bre	Hon Tad a zo en neñv, Hoc’h anv bezet santelaet, Ho rouantelezh deuet dimp, Ho polontez bezet graet War an douar evel en Neñv, Roit dimp hiziv hor bara pemdeziek, Pardonit dimp hor pec’hedoù Evel ma pardonomp d’ar re O deus manket ouzhimp. Ha n’hon lezit ket da gouezhañ en temptadur, Met hon diwallit diouzh an droug. Evel-se bezet graet ! (Amen)	dominiko	2013-09-15 20:54:15	2013-09-15 20:55:16
 41	0x29	)	1	2741796	bre	Hon Tad a zo en neñv, Hoc’h anv bezet santelaet, Ho rouantelezh deuet dimp, Ho polontez bezet graet War an douar evel en Neñv, Roit dimp hiziv hor bara pemdeziek, Pardonit dimp hor pec’hedoù Evel ma pardonomp d’ar re O deus manket ouzhimp. Ha n’hon lezit ket da gouezhañ en temptadur, Met hon diwallit diouzh an droug. Evel-se bezet graet ! (Amen)	dominiko	2013-09-15 20:54:15	2013-09-15 20:55:16
-44	0x2c	,	715	5931901	bre	Chom da selaou outañ o komz, mont a ra div vunutenn, nemet e teu da vezañ chiantus buan-tre.	Iriep	2017-03-09 15:38:26	\N
-45	0x2d	-	1406	10652077	bre	Pep-tra 'z a mat!	Iriep	2022-01-31 11:20:34	2022-01-31 11:20:34
-46	0x2e	.	5850	5911866	bre	Kafe a vez evet gant Tom.	Iriep	2017-03-02 17:18:30	\N
+44	0x2c	,	715	5945708	bre	Hey, gellout a ran komz ganit ur segondenn?	Iriep	2017-03-13 08:45:07	\N
+45	0x2d	-	1406	5765721	bre	Mar-plij, dihun ac'hanon warc'hoazh da c'hwec'h eur mintin.	Iriep	2017-01-13 09:25:06	2017-01-13 09:25:06
+46	0x2e	.	5851	11923347	bre	Ar morvleizi a zebr pesked.	Odhran_Gwydhenn	2023-07-11 13:36:41	2023-07-11 13:36:41
 47	0x2f	/	1	5898355	bre	Ma lavar dit da vreur: paour on, ha naon em eus / Da zle a zo profañ hanter da vara / D'az preur.	Iriep	2017-02-24 16:00:07	\N
-48	0x30	0	9	428398	bre	20 vloaz eo Muiriel bremañ.	dominiko	2010-07-18 03:50:21	2010-07-18 03:50:21
-49	0x31	1	8	8818964	bre	E 1794 avat e oa ar Spont Bras oc'h ober e reuz. Degaset e voe ur mell bagad soudarded eus Etampes, e Bro-Normandi, da Landreger, a-benn ober ar riñs eno.	knoxwilliam	2020-06-05 21:54:49	2020-06-05 21:54:49
-50	0x32	2	4	2331281	bre	Daou zero zo er sifr "2010".	kadwallan	2013-03-23 01:09:34	2013-03-23 01:09:34
+48	0x30	0	9	12236663	bre	E Naoned, e 1905 eo ganet Odette.	Odhran_Gwydhenn	2023-12-28 19:51:22	2023-12-28 19:51:22
+49	0x31	1	8	5889414	bre	Ar bara a zo kresket eus 10 yen.	Iriep	2017-02-21 10:10:36	\N
+50	0x32	2	4	11909376	bre	Tom en deus eñvoret 2000 ger saoznek.	Odhran_Gwydhenn	2023-07-05 18:09:59	2023-07-05 18:09:59
 51	0x33	3	1	5895959	bre	"Bara, peoc'h, frankiz" a oa slogan Talbenn ar bobl eus a Frañs e 1936.	Iriep	2017-02-23 16:05:32	\N
 52	0x34	4	2	6023174	bre	Thomas a labour evit un embregerezh bras eus ar C'HAC 40.	Iriep	2017-04-19 10:50:15	\N
-53	0x35	5	2	12236663	bre	E Naoned, e 1905 eo ganet Odette.	Odhran_Gwydhenn	2023-12-28 19:51:22	2023-12-28 19:51:22
+53	0x35	5	2	12236662	bre	Ganet eo Odette e Naoned e 1905.	Odhran_Gwydhenn	2023-12-28 19:50:48	2023-12-28 19:50:48
 54	0x36	6	2	5895959	bre	"Bara, peoc'h, frankiz" a oa slogan Talbenn ar bobl eus a Frañs e 1936.	Iriep	2017-02-23 16:05:32	\N
 55	0x37	7	1	8818964	bre	E 1794 avat e oa ar Spont Bras oc'h ober e reuz. Degaset e voe ur mell bagad soudarded eus Etampes, e Bro-Normandi, da Landreger, a-benn ober ar riñs eno.	knoxwilliam	2020-06-05 21:54:49	2020-06-05 21:54:49
-57	0x39	9	4	12236662	bre	Ganet eo Odette e Naoned e 1905.	Odhran_Gwydhenn	2023-12-28 19:50:48	2023-12-28 19:50:48
-58	0x3a	:	30	2141767	bre	Setu va c'hevrin. Eeun-tre eo : ne weler mat nemet gant ar galon. Ar pep pouesuzañ zo diwelus d'an daoulagad	madoromi	2013-01-13 10:49:28	2013-01-13 10:49:28
+57	0x39	9	4	8818964	bre	E 1794 avat e oa ar Spont Bras oc'h ober e reuz. Degaset e voe ur mell bagad soudarded eus Etampes, e Bro-Normandi, da Landreger, a-benn ober ar riñs eno.	knoxwilliam	2020-06-05 21:54:49	2020-06-05 21:54:49
+58	0x3a	:	30	6073275	bre	Tristañ daou dra zo er bed: koll ar gweled hag ar c'herzhed.	Iriep	2017-05-12 14:23:18	\N
 59	0x3b	;	4	11909629	bre	Kavet am eus ur strinkenn ; sell 'ta !	Odhran_Gwydhenn	2023-07-05 20:09:03	2023-07-05 20:30:01
-63	0x3f	?	955	5898423	bre	Pelec'h emañ ar c'hafe?	Iriep	2017-02-24 16:26:48	\N
-65	0x41	A	859	5400200	bre	Adarre !	MacaGhallag	2016-09-04 16:50:59	2016-09-04 16:50:59
-66	0x42	B	604	5875974	bre	Bara he deus prenet.	Iriep	2017-02-17 10:30:19	2017-02-17 10:30:21
-67	0x43	C	219	5474239	bre	C'hwi ho po, e-lec'h gwele gwial, gwele olifant er bed-all.	Iriep	2016-09-27 07:42:45	2016-09-27 07:42:45
-68	0x44	D	971	5931912	bre	A kaoc'h... Digarez!	Iriep	2017-03-09 15:40:31	\N
-69	0x45	E	502	12269457	bre	Er gêr-benn edomp.	Odhran_Gwydhenn	2024-01-15 23:45:54	2024-01-15 23:45:54
-70	0x46	F	119	2256921	bre	Emañ Tom o c'hoari Frisbee.	kadwallan	2013-02-25 02:43:46	2016-07-04 05:03:36
-71	0x47	G	436	5892784	bre	Gellout a rez kas din un tamm bara?	Iriep	2017-02-22 14:28:49	\N
-72	0x48	H	476	5890029	bre	Ha bara a werzher er boutik-mañ?	Iriep	2017-02-21 15:12:01	\N
-73	0x49	I	69	5400253	bre	Inosañt !	MacaGhallag	2016-09-04 16:57:48	2016-09-04 16:57:48
-74	0x4a	J	39	6334281	bre	Julien Courbet a vutun.	Iriep	2017-09-30 23:11:05	2017-09-30 23:11:05
-75	0x4b	K	650	5846427	bre	Klask a rimp.	Iriep	2017-02-10 15:31:32	2017-02-10 15:31:32
-76	0x4c	L	235	5671089	bre	Leñvañ a rae-hi.	Iriep	2016-12-09 09:33:35	2016-12-09 11:32:52
-77	0x4d	M	674	6023448	bre	Ma c'hazh din-me eo.	Iriep	2017-04-19 13:15:18	\N
-78	0x4e	N	559	5910732	bre	Ni 'zo sot gant ar c'hafe.	Iriep	2017-03-02 11:04:56	\N
-79	0x4f	O	158	5669673	bre	O kagiñ e oan.	Iriep	2016-12-08 17:12:00	2016-12-08 17:12:56
-80	0x50	P	815	5668630	bre	Pignomp 'ta!	Iriep	2016-12-08 10:33:04	2016-12-08 10:33:04
-82	0x52	R	164	10120158	bre	Re ger eo ar wetur-mañ evit ma c'hellfen prenañ anezhi.	Iriep	2021-06-21 08:41:23	2021-06-21 08:41:23
-83	0x53	S	369	5324000	bre	Sko da fri en em revr ha 'to kig d'az koan !	Iriep	2016-08-07 10:44:58	2016-08-07 10:45:04
-84	0x54	T	651	5845476	bre	Hag en em gavet emañ Tom?	Iriep	2017-02-10 11:32:36	2017-02-10 11:32:36
-85	0x55	U	278	5328487	bre	Ur sprec'henn a zebr alies kement hag ur marc'h mat.	Iriep	2016-08-08 23:03:56	2016-08-08 23:04:34
-86	0x56	V	60	5896012	bre	Varsovia a rankis kuitaat ha gounit ma bara en un nebeut lec'hioù-all.	Iriep	2017-02-23 16:25:44	\N
-87	0x57	W	39	6314751	bre	Da gêrig Betleem diredit, kristenien ; Diredit hep dale ; sellit laouen Roue an Elez Ganet gant ar Werc'hez. Diskan Deuit holl, deuit d'e adoriñ. Ha da ginnig dezhañ mil meuleudi. Setu ar bastored o kuitaat o deñved ; gant Elez davetañ int bet galvet. Davetañ ivez Redomp gant levenez. Deomp eta ! Ni welo Mab an Tad eternel ; en em c’hraet eo evidomp den ha bugel. En e vailhuroù e welimp hon Aotrou. Peogwir eo evidomp ganet er baourentez. Holl dezhañ diskouezomp hor c'harantez. D'hor gwellañ mignon. Rankomp reiñ hor c'halon.	Iriep	2017-09-19 06:52:51	2017-09-19 06:54:31
+63	0x3f	?	955	5875948	bre	Ha chom a ra bara?	Iriep	2017-02-17 10:24:12	2017-02-17 10:24:18
+65	0x41	A	861	6072929	bre	An Ankou ne vez tamallet mann ebet dezhañ.	Iriep	2017-05-12 13:15:02	\N
+66	0x42	B	604	8818964	bre	E 1794 avat e oa ar Spont Bras oc'h ober e reuz. Degaset e voe ur mell bagad soudarded eus Etampes, e Bro-Normandi, da Landreger, a-benn ober ar riñs eno.	knoxwilliam	2020-06-05 21:54:49	2020-06-05 21:54:49
+67	0x43	C	219	5862762	bre	Debriñ a ra bara Chan.	Iriep	2017-02-13 14:08:12	2017-02-13 14:08:35
+68	0x44	D	971	5474233	bre	Da grediñ e vleunio biken lilioù war gwrizioù raden.	Iriep	2016-09-27 07:41:02	2016-09-27 07:41:02
+69	0x45	E	502	12272149	bre	Emaon o klask o lakaat da vamiñ dirak kaerderioù hor vro.	Odhran_Gwydhenn	2024-01-17 17:15:45	2024-01-17 17:15:45
+70	0x46	F	119	11908051	bre	Fellout a ra din deskiñ brezhoneg.	Odhran_Gwydhenn	2023-07-05 11:27:30	2023-07-05 11:27:30
+71	0x47	G	436	6073362	bre	Pep Yann a zo boaz ouzh e Gatell.	Iriep	2017-05-12 14:33:37	\N
+72	0x48	H	476	5668497	bre	Ha fellout a ra deoc'h kaout frazennoù?	Iriep	2016-12-08 09:55:30	2016-12-08 09:55:30
+73	0x49	I	69	11843525	bre	Dulenn a zo en Iwerzhon.	Odhran_Gwydhenn	2023-06-13 19:00:02	2023-06-13 19:00:02
+74	0x4a	J	39	5337633	bre	Pe vez glav-puilh sant-Jorj, ne vez ket prun na polos.	Iriep	2016-08-12 19:05:03	2016-08-12 19:06:05
+75	0x4b	K	650	5242434	bre	Kan, me da bed !	Iriep	2016-06-29 17:26:42	2016-06-29 17:27:18
+76	0x4c	L	235	4419025	bre	Leun gant sili eo ma dourruzer	DetErMinNavn	2015-07-30 16:56:30	2015-07-30 16:56:30
+77	0x4d	M	674	5875993	bre	Prenet he deus Mari bara.	Iriep	2017-02-17 10:42:40	2017-02-17 10:42:40
+78	0x4e	N	559	6314773	bre	Ni welo Mab an Tad eternel.	Iriep	2017-09-19 07:00:15	2017-09-19 07:00:15
+79	0x4f	O	158	5323998	bre	Ober geizoù da unan bennak.	Iriep	2016-08-07 10:43:29	2016-08-07 10:43:29
+80	0x50	P	815	10120122	bre	Pouezañ a ran evit ma 'vefec'h war al lec'h.	Iriep	2021-06-21 08:29:47	2021-06-21 08:29:47
+82	0x52	R	164	961232	bre	Ret eo din studiañ japaneg.	dominiko	2011-06-26 19:47:35	2011-06-26 19:47:35
+83	0x53	S	369	5668713	bre	Skornus.	Iriep	2016-12-08 10:46:02	2016-12-08 10:46:02
+84	0x54	T	651	5956168	bre	Tennit ho potoù.	Iriep	2017-03-17 10:42:39	\N
+85	0x55	U	278	5328654	bre	Ur julian eo.	Iriep	2016-08-08 23:44:25	2016-08-08 23:44:25
+86	0x56	V	60	5474159	bre	D'ar broioù all, ho ! da vervel, pell, siwazh ! eus a Vreizh-Izel !	Iriep	2016-09-27 07:20:18	2016-09-27 07:20:18
+87	0x57	W	39	2314253	bre	Warc'hoazh e vo graet al labour ganin.	kadwallan	2013-03-17 22:11:08	2016-07-04 05:01:13
 88	0x58	X	1	1863985	bre	Diazezet eo c’hoari an delenn abaoe an XVIII vet Kantved, a drugarez da Hochbrücker, hag en deus ivez peurgloket he stumm.	estong	2012-09-24 22:06:11	2012-09-24 22:06:11
-89	0x59	Y	110	5360838	bre	- Mont a rez mat ? - Ya ha te ?	Iriep	2016-08-22 06:30:54	2016-08-22 06:30:54
-90	0x5a	Z	10	11911797	bre	Ziri a zo o vervel.	Odhran_Gwydhenn	2023-07-06 12:42:57	2023-07-06 12:42:57
-97	0x61	a	7168	11914329	bre	Tennit ho karnedoù er-maez !	Odhran_Gwydhenn	2023-07-07 12:53:39	2023-07-07 12:53:39
-98	0x62	b	2655	5672544	bre	A-bell 'zo n'em eus ket da welet.	Iriep	2016-12-09 20:19:38	2016-12-09 20:19:38
-99	0x63	c	2439	5242686	bre	En he c'hambr em eus klevet anezhi o kanañ.	Iriep	2016-06-29 19:20:00	2016-06-29 19:20:00
-100	0x64	d	3138	11909729	bre	Tennañ a ra d'he zintin.	Odhran_Gwydhenn	2023-07-05 20:33:11	2023-07-05 20:33:11
-101	0x65	e	6889	7793393	bre	Un fort gel est attendu.	Aiji	2019-03-01 15:50:17	2019-03-01 15:50:17
-102	0x66	f	1018	5895425	bre	Ur foar bara hengounel o deus aozet.	Iriep	2017-02-23 13:03:13	\N
-103	0x67	g	2582	5896015	bre	An dañvad a ro e c'hloan evit ar mestr da gaout bara.	Iriep	2017-02-23 16:26:38	\N
-104	0x68	h	4028	12295090	bre	Oh ma Doue! Tom eo!	Odhran_Gwydhenn	2024-02-01 00:15:12	2024-02-01 00:15:12
-105	0x69	i	4051	6023614	bre	Plijout a ra dit ar c'hizhier?	Iriep	2017-04-19 14:08:49	\N
-106	0x6a	j	497	5956239	bre	Peseurt botoù a blij deoc'h?	Iriep	2017-03-17 11:21:57	\N
-107	0x6b	k	2515	5946069	bre	Va c'hoar a zo koant.	Iriep	2017-03-13 11:56:02	\N
-108	0x6c	l	3228	5876695	bre	Ar riz a blij din muioc'h evit ar bara.	Iriep	2017-02-17 14:32:15	2017-02-17 14:32:15
-109	0x6d	m	3331	5956565	bre	Ar botoù-mañ a zo da biv?	Iriep	2017-03-17 14:21:51	\N
-110	0x6e	n	5245	5671269	bre	Digudenn.	Iriep	2016-12-09 10:41:26	2016-12-09 10:41:26
-111	0x6f	o	5979	1654184	bre	Echu eo ar vakañsoù-hañv.	Leonez	2012-06-29 21:28:45	2012-06-29 21:28:45
-112	0x70	p	1751	5366623	bre	Gant an dud eus al lezenn e vezo pizh skarzhet.	Iriep	2016-08-24 05:35:20	2016-08-24 05:35:20
+89	0x59	Y	110	6023432	bre	Ya ma c'hazh.	Iriep	2017-04-19 13:10:12	\N
+90	0x5a	Z	10	6021051	bre	Dont a ran eus Zambi.	Iriep	2017-04-18 13:18:37	\N
+97	0x61	a	7170	5323245	bre	Treiñ ar vein da sec'hañ.	Iriep	2016-08-06 23:07:05	2016-08-06 23:07:05
+98	0x62	b	2655	5896110	bre	Debriñ a reer bara gwenn betek ma c'houlennfed bara du.	Iriep	2017-02-23 16:43:25	\N
+99	0x63	c	2439	10243567	bre	Ne c'hallan ket sikour ac'hanoc'h.	Odhran_Gwydhenn	2021-08-15 10:47:40	2021-08-15 10:47:50
+100	0x64	d	3139	5956177	bre	Amañ emañ da votoù.	Iriep	2017-03-17 10:47:14	\N
+101	0x65	e	6891	5671242	bre	O soñjal emañ Tom.	Iriep	2016-12-09 10:26:56	2016-12-09 10:26:56
+102	0x66	f	1018	5876715	bre	E bara e vez treuzfurmet ar bleud.	Iriep	2017-02-17 14:34:55	2017-02-17 14:35:04
+103	0x67	g	2582	5945724	bre	Hey, n'eo ket echut ganeomp.	Iriep	2017-03-13 08:50:23	\N
+104	0x68	h	4028	5898173	bre	Hi a gav mat ar c'hafe.	Iriep	2017-02-24 15:00:29	\N
+105	0x69	i	4053	4142064	bre	Ma zud n'int ket fur a-walc'h!	Runan	2015-05-03 07:48:12	2015-05-03 07:48:12
+106	0x6a	j	497	5598058	bre	Stlakañ a rajomp hon daouarn.	MacaGhallag	2016-11-11 12:23:30	2016-11-11 12:23:30
+107	0x6b	k	2515	5318523	bre	Goustadik !	Iriep	2016-08-04 22:49:30	2016-08-04 22:49:30
+108	0x6c	l	3228	6072731	bre	Kalz a dle a van da baeañ.	Iriep	2017-05-12 12:25:48	\N
+109	0x6d	m	3333	5328638	bre	Ur meilh eo.	Iriep	2016-08-08 23:40:51	2016-08-08 23:40:51
+110	0x6e	n	5247	5669067	bre	Bounter-revr.	Iriep	2016-12-08 13:44:43	2016-12-08 13:44:43
+111	0x6f	o	5979	6334038	bre	Lâr din pezh peus c'hoant da gaout.	Iriep	2017-09-30 22:21:52	2017-09-30 22:21:52
+112	0x70	p	1751	6334170	bre	C'hwi eo ho peus butunet?	Iriep	2017-09-30 22:55:11	2017-09-30 22:55:11
 113	0x71	q	1	6072563	bre	Désirer et avoir ne son pas équivalents.	Iriep	2017-05-12 11:47:40	\N
-114	0x72	r	5808	5891701	bre	Debriñ a ra-hi ur frouezh ha bara.	Iriep	2017-02-22 09:46:13	\N
-115	0x73	s	3020	5668777	bre	"Morse!" "Eo."	Iriep	2016-12-08 11:24:28	2016-12-08 11:24:28
-116	0x74	t	5128	5328499	bre	- Daet eo ar mestr d'ar gê...êr, eme ar c'hog. - Mezv ! Mezv ! Mezv ! eme ar c'hazh. - Atav ! Atav ! Atav ! eme ar c'hi. - O ! O! O! Bamdez e veeez ! eme ar c'hazh. - Me 'zo-me kog ar c'hu..uure ! eme ar c'hog. - Me ivez ! Me ivez ! eme ar c'hi. - Peuc'h ! Peuc'h ! eme ar pemoc'h.	Iriep	2016-08-08 23:10:49	2016-08-08 23:10:49
-117	0x75	u	4005	5812294	bre	Bez eürus!	Iriep	2017-01-30 10:24:39	2017-01-30 10:24:39
-118	0x76	v	2563	5923026	bre	Me a gav gwelloc'h an te evit ar c'hafe.	Iriep	2017-03-06 12:00:57	\N
-119	0x77	w	1012	5366621	bre	Hag, evit na faziint ket, gwir d'e servijourien.	Iriep	2016-08-24 05:34:36	2016-08-24 05:34:36
+114	0x72	r	5810	2256801	bre	Ne oar ket kontañ.	kadwallan	2013-02-25 01:42:13	2016-07-04 05:24:14
+115	0x73	s	3022	11843366	bre	Mari a zo ur c'hast.	Odhran_Gwydhenn	2023-06-13 18:25:47	2023-06-13 18:25:47
+116	0x74	t	5130	5328298	bre	Glav 'zo ganti.	Iriep	2016-08-08 22:25:39	2016-08-08 22:25:39
+117	0x75	u	4005	12238028	bre	N'o zoullan ket.	Odhran_Gwydhenn	2023-12-29 12:39:42	2023-12-29 12:39:42
+118	0x76	v	2565	10120137	bre	Re deñval eo evit ma c'hellfen lenn.	Iriep	2021-06-21 08:34:45	2021-06-21 08:34:45
+119	0x77	w	1012	11923275	bre	Krediñ 'ran a-walc'h!	Odhran_Gwydhenn	2023-07-11 12:50:31	2023-07-11 12:50:31
 120	0x78	x	2	5668754	bre	Stal Linux!	Iriep	2016-12-08 11:09:10	2016-12-08 11:09:10
-121	0x79	y	212	2256667	bre	Ur banne kafe a yelo ganit?	kadwallan	2013-02-25 00:18:28	2013-02-25 00:18:39
-122	0x7a	z	3765	5595576	bre	Pellgomz.	MacaGhallag	2016-11-10 15:01:53	2016-11-10 15:01:53
+121	0x79	y	212	5945725	bre	Hey! Scott! Pae ma fakturenn!	Iriep	2017-03-13 08:51:03	\N
+122	0x7a	z	3765	11910043	bre	Studierez out.	Odhran_Gwydhenn	2023-07-05 23:26:07	2023-07-05 23:26:07
 171	0xab	«	1	5474179	bre	D'am bugale petra roin-me pa larint : «Mamm, naon am eus-me !»	Iriep	2016-09-27 07:27:15	2016-09-27 07:27:15
 187	0xbb	»	1	5474179	bre	D'am bugale petra roin-me pa larint : «Mamm, naon am eus-me !»	Iriep	2016-09-27 07:27:15	2016-09-27 07:27:15
 224	0xe0	à	2	5400474	bre	A-benn àrc'hoazh.	MacaGhallag	2016-09-04 17:21:20	2016-09-04 17:21:20
 225	0xe1	á	2	2256764	bre	Euredet he deus Máire an den en deus gounezet ar priz kentañ.	kadwallan	2013-02-25 01:19:22	2016-07-04 05:30:14
-226	0xe2	â	28	6073449	bre	Pa verv ar yod e toull ar vazh e lâr ar merc'hed e vez poazh.	Iriep	2017-05-12 14:49:39	\N
-233	0xe9	é	3	6072563	bre	Désirer et avoir ne son pas équivalents.	Iriep	2017-05-12 11:47:40	\N
-234	0xea	ê	61	12269452	bre	Anavezout a ra ar c'hêrioù-penn pennañ.	Odhran_Gwydhenn	2024-01-15 23:44:39	2024-01-15 23:44:39
+226	0xe2	â	28	12269402	bre	Lâret he deus he doa c'hoant mont war he leve.	Odhran_Gwydhenn	2024-01-15 22:47:35	2024-01-15 22:47:35
+233	0xe9	é	3	5669140	bre	Gouzaénvit!	Iriep	2016-12-08 14:05:35	2016-12-08 14:05:35
+234	0xea	ê	61	5462581	bre	Erru e kêr Landreger, erru e penn hon hent.	Iriep	2016-09-22 13:31:46	2016-09-22 13:31:57
 237	0xed	í	1	2256758	bre	Ne blij ket dezhi ar boued aozet gant Bríd.	kadwallan	2013-02-25 01:16:06	2016-07-04 05:30:55
-241	0xf1	ñ	2225	5862577	bre	Prenañ a raec'h bara.	Iriep	2017-02-13 13:30:42	2017-02-13 13:30:42
-244	0xf4	ô	2	5323853	bre	Ar pofer a lâr d'ar chôdron eo du e revr.	Iriep	2016-08-07 09:29:28	2016-08-07 09:29:28
-249	0xf9	ù	465	6023362	bre	Met e pelec'h an diaoul em eus lakaet ar piloù adkargaus-mañ?	Iriep	2017-04-19 12:51:36	\N
+241	0xf1	ñ	2225	5797939	bre	Deskiñ a rin dit kanañ.	Iriep	2017-01-25 09:31:11	2017-01-25 09:31:11
+244	0xf4	ô	2	12236658	bre	Ur gêr a gornôg Frañs eo Naoned, war lez al Liger.	Odhran_Gwydhenn	2023-12-28 19:47:55	2023-12-28 19:47:55
+249	0xf9	ù	465	5956557	bre	Peseurt botoù a vo lakaet ganit?	Iriep	2017-03-17 14:19:44	\N
 251	0xfb	û	4	5846406	bre	Kerzh da c'hoût!	Iriep	2017-02-10 15:26:44	2017-02-10 15:26:44
-252	0xfc	ü	19	12094028	bre	Enoeüs eo Tom, neketa?	Odhran_Gwydhenn	2023-10-03 14:47:40	2023-10-03 14:47:40
-700	0x2bc	ʼ	8	5362009	bre	Emaout o cʼhortoz.	Iriep	2016-08-22 13:35:28	2016-08-22 13:35:28
+252	0xfc	ü	19	10120135	bre	C'hoarzhin a ran evit ma vefes eürus.	Iriep	2021-06-21 08:33:59	2021-06-21 08:33:59
+700	0x2bc	ʼ	8	5361938	bre	It e peocʼh.	Iriep	2016-08-22 13:25:09	2016-08-22 13:25:09
 8212	0x2014	—	2	11843454	bre	Galliv — pebezh lec'h!	Odhran_Gwydhenn	2023-06-13 18:43:50	2023-06-13 18:43:50
-8217	0x2019	’	151	5361714	bre	N’eus ket a diegezh hep buanegezh.	Iriep	2016-08-22 12:53:28	2016-08-22 12:53:28
-8230	0x2026	…	4	5474136	bre	Hag holl deñzorioù Breizh 'zo dispak er c’hastell gant alc’houez aour ar yezh digor eo an dourell…	Iriep	2016-09-27 07:11:06	2016-09-27 07:11:06
+8217	0x2019	’	151	1075358	bre	Dont a raio sur a-walc’h.	dominiko	2011-08-31 22:40:45	2012-07-01 23:47:20
+8230	0x2026	…	4	5474131	bre	Taolet eo bet er mor, gant tud diskiantet…	Iriep	2016-09-27 07:07:35	2016-09-27 07:08:01

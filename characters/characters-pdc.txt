@@ -1,47 +1,47 @@
-32	0x20	 	56	5845240	pdc	Hoscht du en Maschien?	Theocracy	2017-02-10 10:09:02	2017-02-10 10:09:20
-33	0x21	!	8	3126064	pdc	Sehn dich schpeeder!	Theocracy	2014-03-25 21:23:47	2014-03-30 08:17:46
+32	0x20	 	56	3241735	pdc	Wie schpot iss es?	Theocracy	2014-05-10 01:58:06	2014-05-10 01:58:06
+33	0x21	!	8	5749707	pdc	Guti Nacht!	Theocracy	2017-01-07 21:48:24	2017-01-07 21:48:33
 34	0x22	"	2	3123780	pdc	"Wie bischt du?" "Ich bin gut, danke."	Theocracy	2014-03-25 03:10:07	2014-03-27 20:55:46
 39	0x27	'	1	5738627	pdc	Mach's gut.	Theocracy	2017-01-05 02:19:52	2017-01-05 02:19:52
-44	0x2c	,	8	4637870	pdc	Sei oder net sei, des iss die Fraag.	Theocracy	2015-10-23 19:30:04	2015-10-23 19:30:51
-46	0x2e	.	29	4637870	pdc	Sei oder net sei, des iss die Fraag.	Theocracy	2015-10-23 19:30:04	2015-10-23 19:30:51
-63	0x3f	?	22	5845240	pdc	Hoscht du en Maschien?	Theocracy	2017-02-10 10:09:02	2017-02-10 10:09:20
-65	0x41	A	2	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
-66	0x42	B	7	4764458	pdc	Die Bicher liege auf dem Disch.	Theocracy	2015-12-14 00:14:25	2015-12-14 00:14:33
-68	0x44	D	16	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
-69	0x45	E	5	5745565	pdc	Ich schwetz keen Englisch.	Theocracy	2017-01-07 01:20:19	2017-01-07 01:20:19
-70	0x46	F	7	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
-71	0x47	G	8	5819708	pdc	Der zwitte vun Hanning iss Grundsau Daag.	Theocracy	2017-02-02 04:52:00	2017-02-02 04:54:54
-72	0x48	H	10	5745036	pdc	Welli Sprooch schwetzt dihr am Heemet?	Theocracy	2017-01-06 23:14:13	2017-01-06 23:14:53
-73	0x49	I	8	3196479	pdc	Ich lieb keen Kees.	Theocracy	2014-04-23 22:47:58	2015-10-23 20:07:11
+44	0x2c	,	8	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+46	0x2e	.	29	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+63	0x3f	?	22	3123780	pdc	"Wie bischt du?" "Ich bin gut, danke."	Theocracy	2014-03-25 03:10:07	2014-03-27 20:55:46
+65	0x41	A	2	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
+66	0x42	B	7	3133067	pdc	Des iss mein Bruder.	Theocracy	2014-03-28 02:52:33	2015-01-20 04:47:34
+68	0x44	D	16	3165658	pdc	Des is mein Broodah.	Theocracy	2014-04-11 00:24:40	2015-01-20 04:47:01
+69	0x45	E	5	4948142	pdc	Di Furcht fumm Hah is da Ohfang funn Eisicht.	Theocracy	2016-03-01 21:35:36	2016-03-01 21:35:52
+70	0x46	F	7	5313095	pdc	Ferwas naett?	Theocracy	2016-08-01 21:18:18	2016-08-01 21:18:18
+71	0x47	G	8	5749704	pdc	Guder Daag!	Theocracy	2017-01-07 21:43:50	2017-01-07 21:43:59
+72	0x48	H	10	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
+73	0x49	I	8	5738635	pdc	Ich winsch eich all en glicklich nei Yaahr.	Theocracy	2017-01-05 02:27:53	2017-01-05 02:27:53
 75	0x4b	K	1	3196479	pdc	Ich lieb keen Kees.	Theocracy	2014-04-23 22:47:58	2015-10-23 20:07:11
-77	0x4d	M	9	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-78	0x4e	N	7	3123809	pdc	Was iss dei Naame?	Theocracy	2014-03-25 03:27:29	2014-03-26 03:36:28
-79	0x4f	O	5	5749712	pdc	Yenner, Hanning, Matz, Abrill, Moi, Tschunn, Tschulei, Aaguscht, September, Oktower, Nofember un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-07 22:42:21	2017-07-14 07:25:05
-83	0x53	S	11	4637870	pdc	Sei oder net sei, des iss die Fraag.	Theocracy	2015-10-23 19:30:04	2015-10-23 19:30:51
-84	0x54	T	6	3176983	pdc	Wilkumm bei Tatoeba.	Theocracy	2014-04-14 22:12:31	2014-04-14 22:12:31
-87	0x57	W	17	4869956	pdc	Wie heischt du?	Theocracy	2016-01-29 22:31:14	2016-01-29 22:31:20
-89	0x59	Y	4	5738635	pdc	Ich winsch eich all en glicklich nei Yaahr.	Theocracy	2017-01-05 02:27:53	2017-01-05 02:27:53
-90	0x5a	Z	3	3241740	pdc	Was fer Zeit hemmer?	Theocracy	2014-05-10 02:00:10	2014-05-10 02:00:10
-97	0x61	a	38	5834774	pdc	Der Tom wuhnt auf die anneri Seit vun es Daal.	Theocracy	2017-02-07 01:45:26	2017-02-07 01:45:26
-98	0x62	b	7	3123784	pdc	Guder daag, wie bischt?	Theocracy	2014-03-25 03:13:47	2014-03-27 21:02:44
-99	0x63	c	36	3123812	pdc	"Wu wuhnscht du?" "Ich wuhn in Tokyo."	Theocracy	2014-03-25 03:28:38	2014-03-30 08:18:01
-100	0x64	d	39	3351622	pdc	Er waar een Dichder un een Diplomat.	Theocracy	2014-06-30 23:23:34	2014-06-30 23:23:34
-101	0x65	e	50	3351622	pdc	Er waar een Dichder un een Diplomat.	Theocracy	2014-06-30 23:23:34	2014-06-30 23:23:34
-102	0x66	f	11	3241740	pdc	Was fer Zeit hemmer?	Theocracy	2014-05-10 02:00:10	2014-05-10 02:00:10
-103	0x67	g	20	5738627	pdc	Mach's gut.	Theocracy	2017-01-05 02:19:52	2017-01-05 02:19:52
-104	0x68	h	43	5745035	pdc	Welli Sprooch schwetscht du am Heemet?	Theocracy	2017-01-06 23:12:46	2017-01-06 23:12:52
-105	0x69	i	51	3165659	pdc	Mei Naame iss Hihaschi.	Theocracy	2014-04-11 00:29:12	2014-04-21 23:26:27
-107	0x6b	k	10	3123780	pdc	"Wie bischt du?" "Ich bin gut, danke."	Theocracy	2014-03-25 03:10:07	2014-03-27 20:55:46
-108	0x6c	l	16	3341589	pdc	Folgsht du mir?	Theocracy	2014-06-26 00:41:16	2014-06-26 00:41:16
-109	0x6d	m	25	3341589	pdc	Folgsht du mir?	Theocracy	2014-06-26 00:41:16	2014-06-26 00:41:16
-110	0x6e	n	30	3133067	pdc	Des iss mein Bruder.	Theocracy	2014-03-28 02:52:33	2015-01-20 04:47:34
-111	0x6f	o	20	4629050	pdc	Sei, oddah naett sei, dee is di Fraag.	Theocracy	2015-10-21 04:10:01	2015-10-21 06:09:02
-112	0x70	p	7	3351622	pdc	Er waar een Dichder un een Diplomat.	Theocracy	2014-06-30 23:23:34	2014-06-30 23:23:34
-114	0x72	r	38	3133067	pdc	Des iss mein Bruder.	Theocracy	2014-03-28 02:52:33	2015-01-20 04:47:34
-115	0x73	s	48	4948142	pdc	Di Furcht fumm Hah is da Ohfang funn Eisicht.	Theocracy	2016-03-01 21:35:36	2016-03-01 21:35:52
-116	0x74	t	38	5745565	pdc	Ich schwetz keen Englisch.	Theocracy	2017-01-07 01:20:19	2017-01-07 01:20:19
-117	0x75	u	35	3351622	pdc	Er waar een Dichder un een Diplomat.	Theocracy	2014-06-30 23:23:34	2014-06-30 23:23:34
-118	0x76	v	6	5834774	pdc	Der Tom wuhnt auf die anneri Seit vun es Daal.	Theocracy	2017-02-07 01:45:26	2017-02-07 01:45:26
-119	0x77	w	24	5313095	pdc	Ferwas naett?	Theocracy	2016-08-01 21:18:18	2016-08-01 21:18:18
+77	0x4d	M	9	5745391	pdc	Mundaag, Dinschdaag, Mittwoch, Dunnerschdaag, Freidaag, Samschdaag un Sunndaag sin die siwwe Daage im Woch.	Theocracy	2017-01-06 23:44:49	2017-01-07 19:50:50
+78	0x4e	N	7	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
+79	0x4f	O	5	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
+83	0x53	S	11	3126064	pdc	Sehn dich schpeeder!	Theocracy	2014-03-25 21:23:47	2014-03-30 08:17:46
+84	0x54	T	6	4097609	pdc	Der Tom iss weeg.	Theocracy	2015-04-21 18:12:47	2015-04-22 13:33:05
+87	0x57	W	17	3176983	pdc	Wilkumm bei Tatoeba.	Theocracy	2014-04-14 22:12:31	2014-04-14 22:12:31
+89	0x59	Y	4	5738631	pdc	Ich winsch dir en glicklich nei Yaahr.	Theocracy	2017-01-05 02:23:35	2017-01-05 02:26:26
+90	0x5a	Z	3	3241737	pdc	Was Zeit iss es?	Theocracy	2014-05-10 01:58:32	2014-05-10 01:58:32
+97	0x61	a	38	3279460	pdc	Das waar gut gschriwwe.	Theocracy	2014-05-26 22:41:48	2014-05-26 22:41:48
+98	0x62	b	7	3176983	pdc	Wilkumm bei Tatoeba.	Theocracy	2014-04-14 22:12:31	2014-04-14 22:12:31
+99	0x63	c	36	3250883	pdc	Eens, zwee, drei, vier, fimf, sechs, siwwe, acht, nein, zehe.	Theocracy	2014-05-13 22:46:36	2014-05-13 22:46:36
+100	0x64	d	39	4764458	pdc	Die Bicher liege auf dem Disch.	Theocracy	2015-12-14 00:14:25	2015-12-14 00:14:33
+101	0x65	e	50	3165658	pdc	Des is mein Broodah.	Theocracy	2014-04-11 00:24:40	2015-01-20 04:47:01
+102	0x66	f	11	5749993	pdc	Des do Bett iss fer mir ze weech.	Theocracy	2017-01-08 06:56:28	2017-01-08 06:56:44
+103	0x67	g	20	5738631	pdc	Ich winsch dir en glicklich nei Yaahr.	Theocracy	2017-01-05 02:23:35	2017-01-05 02:26:26
+104	0x68	h	43	3123780	pdc	"Wie bischt du?" "Ich bin gut, danke."	Theocracy	2014-03-25 03:10:07	2014-03-27 20:55:46
+105	0x69	i	51	5745390	pdc	Yenner, Hanning, Matz, Abrill, Moi, Yuni, Yuli, Aaguscht, September, Oktower, November un Diesember sinn die zwelf Munet im Yaahr.	Theocracy	2017-01-06 23:39:03	2017-07-14 07:25:00
+107	0x6b	k	10	3176983	pdc	Wilkumm bei Tatoeba.	Theocracy	2014-04-14 22:12:31	2014-04-14 22:12:31
+108	0x6c	l	16	5745565	pdc	Ich schwetz keen Englisch.	Theocracy	2017-01-07 01:20:19	2017-01-07 01:20:19
+109	0x6d	m	25	3176983	pdc	Wilkumm bei Tatoeba.	Theocracy	2014-04-14 22:12:31	2014-04-14 22:12:31
+110	0x6e	n	30	5845247	pdc	Wieviel Maschiene hoscht du?	Theocracy	2017-02-10 10:15:07	2017-02-10 10:16:46
+111	0x6f	o	20	5738634	pdc	Bischt du froh?	Theocracy	2017-01-05 02:27:01	2017-01-05 02:27:01
+112	0x70	p	7	3241735	pdc	Wie schpot iss es?	Theocracy	2014-05-10 01:58:06	2014-05-10 01:58:06
+114	0x72	r	38	5834774	pdc	Der Tom wuhnt auf die anneri Seit vun es Daal.	Theocracy	2017-02-07 01:45:26	2017-02-07 01:45:26
+115	0x73	s	48	3279460	pdc	Das waar gut gschriwwe.	Theocracy	2014-05-26 22:41:48	2014-05-26 22:41:48
+116	0x74	t	38	4948150	pdc	Die Furcht vum Herr iss der Ohfang vun Eisicht.	Theocracy	2016-03-01 21:42:42	2016-03-01 21:42:47
+117	0x75	u	35	3279460	pdc	Das waar gut gschriwwe.	Theocracy	2014-05-26 22:41:48	2014-05-26 22:41:48
+118	0x76	v	6	3250883	pdc	Eens, zwee, drei, vier, fimf, sechs, siwwe, acht, nein, zehe.	Theocracy	2014-05-13 22:46:36	2014-05-13 22:46:36
+119	0x77	w	24	5834774	pdc	Der Tom wuhnt auf die anneri Seit vun es Daal.	Theocracy	2017-02-07 01:45:26	2017-02-07 01:45:26
 121	0x79	y	3	5749703	pdc	Guder Mariye!	Theocracy	2017-01-07 21:42:45	2017-01-07 21:42:45
 122	0x7a	z	7	5749993	pdc	Des do Bett iss fer mir ze weech.	Theocracy	2017-01-08 06:56:28	2017-01-08 06:56:44

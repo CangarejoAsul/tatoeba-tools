@@ -1,46 +1,46 @@
-32	0x20	 	25	6789599	ibo	Amam na Tomu choro ka mu na ya kpa.	obum	2018-03-22 20:45:00	2018-03-22 20:45:00
-33	0x21	!	5	8853394	ibo	Bịa!	linguascroll	2020-06-18 04:13:41	2020-06-18 04:13:41
-39	0x27	'	4	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
-45	0x2d	-	6	6789602	ibo	I tinyere ihe na-asa efere ka obido.	obum	2018-03-22 20:46:10	2018-03-22 20:46:10
-46	0x2e	.	15	6789601	ibo	Amam na Tomu choro ka mu na ya kwo.	obum	2018-03-22 20:45:17	2018-03-22 20:45:17
-63	0x3f	?	14	6789587	ibo	Tomu na Mari akpara Ihe ahu?	obum	2018-03-22 20:36:35	2018-03-22 20:36:35
-65	0x41	A	8	10473298	ibo	A chọbụrụ m ịchete.	linguascroll	2021-10-31 09:56:12	2021-10-31 09:56:12
-66	0x42	B	3	8853394	ibo	Bịa!	linguascroll	2020-06-18 04:13:41	2020-06-18 04:13:41
+32	0x20	 	25	6789589	ibo	Enwere m ike ibiri gi diksonari a?	obum	2018-03-22 20:38:45	2018-03-22 20:38:45
+33	0x21	!	5	8853390	ibo	Ka emesịa!	linguascroll	2020-06-18 04:12:47	2020-06-18 04:12:47
+39	0x27	'	4	6789585	ibo	I nwere Ike Igwa Tomu ka-obata n'ime?	obum	2018-03-22 20:34:04	2018-03-22 20:34:04
+45	0x2d	-	6	6789584	ibo	Gwagodi Tomu ka-obata n'ime?	obum	2018-03-22 20:33:38	2018-03-22 20:33:38
+46	0x2e	.	15	8853384	ibo	Biko.	linguascroll	2020-06-18 04:11:21	2020-06-18 04:11:21
+63	0x3f	?	14	6789592	ibo	Enwerem ike iju gi ajuju ozo?	obum	2018-03-22 20:40:06	2018-03-22 20:40:06
+65	0x41	A	8	6789598	ibo	Amam na Tomu choro igwa m okwu.	obum	2018-03-22 20:44:35	2018-03-22 20:44:35
+66	0x42	B	3	11497845	ibo	Ị̀ na-asụ Bekee?	janTuki	2023-01-31 03:20:13	2023-01-31 03:20:33
 68	0x44	D	1	8853387	ibo	Daalụ!	linguascroll	2020-06-18 04:12:16	2020-06-18 04:12:16
-69	0x45	E	3	8853389	ibo	Ee.	linguascroll	2020-06-18 04:12:36	2020-06-18 04:12:36
+69	0x45	E	3	6789592	ibo	Enwerem ike iju gi ajuju ozo?	obum	2018-03-22 20:40:06	2018-03-22 20:40:06
 71	0x47	G	2	6789584	ibo	Gwagodi Tomu ka-obata n'ime?	obum	2018-03-22 20:33:38	2018-03-22 20:33:38
-73	0x49	I	8	6789585	ibo	I nwere Ike Igwa Tomu ka-obata n'ime?	obum	2018-03-22 20:34:04	2018-03-22 20:34:04
-75	0x4b	K	4	6464872	ibo	Tom Kedu.	VOB	2017-11-15 03:28:58	2017-11-15 03:28:58
+73	0x49	I	8	6789586	ibo	I na-akwado Iga ebe ahu?	obum	2018-03-22 20:35:03	2018-03-22 20:35:03
+75	0x4b	K	4	8853386	ibo	Kwụsị!	linguascroll	2020-06-18 04:12:07	2020-06-18 04:12:07
 77	0x4d	M	6	6789594	ibo	Mu na ndi be Tomu ahubeghi.	obum	2018-03-22 20:41:32	2018-03-22 20:41:32
-78	0x4e	N	2	8853385	ibo	Ndewo!	linguascroll	2020-06-18 04:11:36	2020-06-18 04:11:36
-79	0x4f	O	2	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
-84	0x54	T	12	6789596	ibo	Amam na Tomu na-aruru Meri Oru.	obum	2018-03-22 20:43:03	2018-03-22 20:43:03
-97	0x61	a	25	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
-98	0x62	b	12	6789585	ibo	I nwere Ike Igwa Tomu ka-obata n'ime?	obum	2018-03-22 20:34:04	2018-03-22 20:34:04
-99	0x63	c	4	6789598	ibo	Amam na Tomu choro igwa m okwu.	obum	2018-03-22 20:44:35	2018-03-22 20:44:35
-100	0x64	d	11	6464872	ibo	Tom Kedu.	VOB	2017-11-15 03:28:58	2017-11-15 03:28:58
-101	0x65	e	25	6789586	ibo	I na-akwado Iga ebe ahu?	obum	2018-03-22 20:35:03	2018-03-22 20:35:03
+78	0x4e	N	2	8853383	ibo	Ndo...	linguascroll	2020-06-18 04:09:47	2020-06-18 04:09:47
+79	0x4f	O	2	6789596	ibo	Amam na Tomu na-aruru Meri Oru.	obum	2018-03-22 20:43:03	2018-03-22 20:43:03
+84	0x54	T	12	6789584	ibo	Gwagodi Tomu ka-obata n'ime?	obum	2018-03-22 20:33:38	2018-03-22 20:33:38
+97	0x61	a	25	6789601	ibo	Amam na Tomu choro ka mu na ya kwo.	obum	2018-03-22 20:45:17	2018-03-22 20:45:17
+98	0x62	b	12	6789586	ibo	I na-akwado Iga ebe ahu?	obum	2018-03-22 20:35:03	2018-03-22 20:35:03
+99	0x63	c	4	6789601	ibo	Amam na Tomu choro ka mu na ya kwo.	obum	2018-03-22 20:45:17	2018-03-22 20:45:17
+100	0x64	d	11	8853385	ibo	Ndewo!	linguascroll	2020-06-18 04:11:36	2020-06-18 04:11:36
+101	0x65	e	25	6789583	ibo	I wepuru ahihia ahu?	obum	2018-03-22 20:32:05	2018-03-22 20:32:05
 102	0x66	f	1	6789602	ibo	I tinyere ihe na-asa efere ka obido.	obum	2018-03-22 20:46:10	2018-03-22 20:46:10
 103	0x67	g	11	6789594	ibo	Mu na ndi be Tomu ahubeghi.	obum	2018-03-22 20:41:32	2018-03-22 20:41:32
-104	0x68	h	16	6789599	ibo	Amam na Tomu choro ka mu na ya kpa.	obum	2018-03-22 20:45:00	2018-03-22 20:45:00
-105	0x69	i	15	6789596	ibo	Amam na Tomu na-aruru Meri Oru.	obum	2018-03-22 20:43:03	2018-03-22 20:43:03
+104	0x68	h	16	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
+105	0x69	i	15	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
 106	0x6a	j	1	6789592	ibo	Enwerem ike iju gi ajuju ozo?	obum	2018-03-22 20:40:06	2018-03-22 20:40:06
-107	0x6b	k	17	6789598	ibo	Amam na Tomu choro igwa m okwu.	obum	2018-03-22 20:44:35	2018-03-22 20:44:35
+107	0x6b	k	17	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
 108	0x6c	l	3	3610765	ibo	Ana m ele anya ya.	\N	2014-11-06 04:59:36	2019-04-16 10:49:39
-109	0x6d	m	20	6789587	ibo	Tomu na Mari akpara Ihe ahu?	obum	2018-03-22 20:36:35	2018-03-22 20:36:35
-110	0x6e	n	21	6789592	ibo	Enwerem ike iju gi ajuju ozo?	obum	2018-03-22 20:40:06	2018-03-22 20:40:06
-111	0x6f	o	21	6789607	ibo	Obu n'imaburo maka ihea?	obum	2018-03-22 20:55:17	2018-03-22 20:55:17
-112	0x70	p	3	6789587	ibo	Tomu na Mari akpara Ihe ahu?	obum	2018-03-22 20:36:35	2018-03-22 20:36:35
-114	0x72	r	16	6789597	ibo	Ikwukwara Ihe meru?	obum	2018-03-22 20:44:03	2018-03-22 20:44:03
-115	0x73	s	5	6789589	ibo	Enwere m ike ibiri gi diksonari a?	obum	2018-03-22 20:38:45	2018-03-22 20:38:45
-116	0x74	t	5	6789585	ibo	I nwere Ike Igwa Tomu ka-obata n'ime?	obum	2018-03-22 20:34:04	2018-03-22 20:34:04
-117	0x75	u	18	6789587	ibo	Tomu na Mari akpara Ihe ahu?	obum	2018-03-22 20:36:35	2018-03-22 20:36:35
-119	0x77	w	14	8853385	ibo	Ndewo!	linguascroll	2020-06-18 04:11:36	2020-06-18 04:11:36
-121	0x79	y	4	3610765	ibo	Ana m ele anya ya.	\N	2014-11-06 04:59:36	2019-04-16 10:49:39
+109	0x6d	m	20	6789594	ibo	Mu na ndi be Tomu ahubeghi.	obum	2018-03-22 20:41:32	2018-03-22 20:41:32
+110	0x6e	n	21	6789605	ibo	Mu na Tomu enwere Ike ikwu maka ihea?	obum	2018-03-22 20:52:18	2018-03-22 20:52:18
+111	0x6f	o	21	6789591	ibo	Ihuru mgbe Tomu bara n'me ugbo ala ahu?	obum	2018-03-22 20:39:32	2018-03-22 20:39:32
+112	0x70	p	3	6789599	ibo	Amam na Tomu choro ka mu na ya kpa.	obum	2018-03-22 20:45:00	2018-03-22 20:45:00
+114	0x72	r	16	6789583	ibo	I wepuru ahihia ahu?	obum	2018-03-22 20:32:05	2018-03-22 20:32:05
+115	0x73	s	5	6789602	ibo	I tinyere ihe na-asa efere ka obido.	obum	2018-03-22 20:46:10	2018-03-22 20:46:10
+116	0x74	t	5	10473298	ibo	A chọbụrụ m ịchete.	linguascroll	2021-10-31 09:56:12	2021-10-31 09:56:12
+117	0x75	u	18	6789599	ibo	Amam na Tomu choro ka mu na ya kpa.	obum	2018-03-22 20:45:00	2018-03-22 20:45:00
+119	0x77	w	14	6789592	ibo	Enwerem ike iju gi ajuju ozo?	obum	2018-03-22 20:40:06	2018-03-22 20:40:06
+121	0x79	y	4	6789601	ibo	Amam na Tomu choro ka mu na ya kwo.	obum	2018-03-22 20:45:17	2018-03-22 20:45:17
 122	0x7a	z	2	5327630	ibo	Mbe enweghị ezé.	Balamax	2016-08-08 16:35:36	2016-08-08 16:36:16
 233	0xe9	é	1	5327630	ibo	Mbe enweghị ezé.	Balamax	2016-08-08 16:35:36	2016-08-08 16:36:16
 768	0x300	̀	1	11497845	ibo	Ị̀ na-asụ Bekee?	janTuki	2023-01-31 03:20:13	2023-01-31 03:20:33
 7882	0x1eca	Ị	1	11497845	ibo	Ị̀ na-asụ Bekee?	janTuki	2023-01-31 03:20:13	2023-01-31 03:20:33
-7883	0x1ecb	ị	7	10473298	ibo	A chọbụrụ m ịchete.	linguascroll	2021-10-31 09:56:12	2021-10-31 09:56:12
+7883	0x1ecb	ị	7	10799965	ibo	Amara ihe nke ukwu na agaghịm eme ihe dị otua	Heppeng	2022-05-02 22:40:02	2022-05-02 22:40:02
 7885	0x1ecd	ọ	1	10473298	ibo	A chọbụrụ m ịchete.	linguascroll	2021-10-31 09:56:12	2021-10-31 09:56:12
 7909	0x1ee5	ụ	5	8853387	ibo	Daalụ!	linguascroll	2020-06-18 04:12:16	2020-06-18 04:12:16

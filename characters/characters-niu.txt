@@ -1,35 +1,35 @@
-32	0x20	 	34	4606125	niu	Fakaue lahi.	Ricardo14	2015-10-13 20:33:35	2015-10-13 20:33:45
-33	0x21	!	8	4606520	niu	Mutolo kia!	hito	2015-10-14 01:46:19	2015-10-14 01:46:37
+32	0x20	 	34	4606520	niu	Mutolo kia!	hito	2015-10-14 01:46:19	2015-10-14 01:46:37
+33	0x21	!	8	4606512	niu	Koe kia!	hito	2015-10-14 01:38:07	2015-10-14 01:38:30
 44	0x2c	,	3	4638670	niu	Ha, ia feleveia ki ai.	hito	2015-10-24 01:02:25	2015-10-24 01:02:25
-46	0x2e	.	17	4638653	niu	Nofo au i Niusilani.	hito	2015-10-24 00:39:35	2015-10-24 00:39:35
+46	0x2e	.	17	4638675	niu	Ko Ianuali e mahina fakamua he tau.	hito	2015-10-24 01:05:51	2015-10-24 01:05:51
 58	0x3a	:	2	11122617	niu	Liga manatu a ia: ‘Ofo lahi au he nakai uiina e Evotia au!	Patpat44	2022-09-17 13:59:32	2022-09-17 13:59:32
-63	0x3f	?	10	4606535	niu	Ko e heigoa a na?	hito	2015-10-14 01:55:07	2015-10-14 01:55:16
+63	0x3f	?	10	4606515	niu	Ko hai e higoa haau?	hito	2015-10-14 01:41:15	2015-10-18 17:17:32
 65	0x41	A	2	4638672	niu	Fano a koe ki fe he Aho Gofua?	hito	2015-10-24 01:03:02	2015-10-24 01:03:02
 69	0x45	E	2	4606523	niu	E!	hito	2015-10-14 01:47:18	2015-10-18 17:17:43
-70	0x46	F	5	4606128	niu	Fakamolemole la.	Ricardo14	2015-10-13 20:34:07	2015-10-13 20:34:22
+70	0x46	F	5	4606530	niu	Fakaalofa lahi atu!	hito	2015-10-14 01:52:33	2015-10-14 01:52:42
 71	0x47	G	1	4638672	niu	Fano a koe ki fe he Aho Gofua?	hito	2015-10-24 01:03:02	2015-10-24 01:03:02
-72	0x48	H	4	4606526	niu	Hau e pasi he hola fiha?	hito	2015-10-14 01:48:12	2015-10-14 01:49:30
-73	0x49	I	2	4638675	niu	Ko Ianuali e mahina fakamua he tau.	hito	2015-10-24 01:05:51	2015-10-24 01:05:51
-75	0x4b	K	11	4606510	niu	Ko fe?	hito	2015-10-14 01:36:31	2015-10-14 01:36:46
+72	0x48	H	4	11122614	niu	He vagahau ke he hana a tau aposetolo, ko lautolu ia ko e kamataaga mai ia lautolu ka tanaki hake e lagi fou ka pule ke he lalolagi fou, ne mavehe a Iesu: “Ko e moli, ke tala atu e au kia mutolu, ko mutolu kua mumui mai kia au, ka nofo e Tama he tagata ke he hana nofoaiki lilifu ke he fakafouaga, ti nonofo ai foki a mutolu ke he tau nofoaiki he hogofulu ma ua.”	Patpat44	2022-09-17 13:59:05	2022-09-17 13:59:05
+73	0x49	I	2	11122614	niu	He vagahau ke he hana a tau aposetolo, ko lautolu ia ko e kamataaga mai ia lautolu ka tanaki hake e lagi fou ka pule ke he lalolagi fou, ne mavehe a Iesu: “Ko e moli, ke tala atu e au kia mutolu, ko mutolu kua mumui mai kia au, ka nofo e Tama he tagata ke he hana nofoaiki lilifu ke he fakafouaga, ti nonofo ai foki a mutolu ke he tau nofoaiki he hogofulu ma ua.”	Patpat44	2022-09-17 13:59:05	2022-09-17 13:59:05
+75	0x4b	K	11	4606512	niu	Koe kia!	hito	2015-10-14 01:38:07	2015-10-14 01:38:30
 76	0x4c	L	1	11122617	niu	Liga manatu a ia: ‘Ofo lahi au he nakai uiina e Evotia au!	Patpat44	2022-09-17 13:59:32	2022-09-17 13:59:32
-77	0x4d	M	6	4638645	niu	Malolo nakai a koe?	hito	2015-10-24 00:35:16	2015-10-24 00:35:16
-78	0x4e	N	6	4638669	niu	Nonofo a mua.	hito	2015-10-24 00:59:41	2015-10-24 00:59:41
+77	0x4d	M	6	4620717	niu	Mua kia.	Ricardo14	2015-10-18 12:45:04	2015-10-18 12:46:38
+78	0x4e	N	6	4638653	niu	Nofo au i Niusilani.	hito	2015-10-24 00:39:35	2015-10-24 00:39:35
 79	0x4f	O	2	4638650	niu	Nofo au i Ositalia.	hito	2015-10-24 00:38:43	2015-10-24 00:38:43
-84	0x54	T	4	11122614	niu	He vagahau ke he hana a tau aposetolo, ko lautolu ia ko e kamataaga mai ia lautolu ka tanaki hake e lagi fou ka pule ke he lalolagi fou, ne mavehe a Iesu: “Ko e moli, ke tala atu e au kia mutolu, ko mutolu kua mumui mai kia au, ka nofo e Tama he tagata ke he hana nofoaiki lilifu ke he fakafouaga, ti nonofo ai foki a mutolu ke he tau nofoaiki he hogofulu ma ua.”	Patpat44	2022-09-17 13:59:05	2022-09-17 13:59:05
-97	0x61	a	33	4620717	niu	Mua kia.	Ricardo14	2015-10-18 12:45:04	2015-10-18 12:46:38
-101	0x65	e	21	4606533	niu	Ko e heigoa a e?	hito	2015-10-14 01:54:30	2015-10-18 17:17:49
-102	0x66	f	18	4606530	niu	Fakaalofa lahi atu!	hito	2015-10-14 01:52:33	2015-10-14 01:52:42
-103	0x67	g	11	4606535	niu	Ko e heigoa a na?	hito	2015-10-14 01:55:07	2015-10-14 01:55:16
-104	0x68	h	15	4606122	niu	Ko Tom e higoa haaku.	Ricardo14	2015-10-13 20:32:23	2015-10-13 20:32:56
-105	0x69	i	29	4606533	niu	Ko e heigoa a e?	hito	2015-10-14 01:54:30	2015-10-18 17:17:49
+84	0x54	T	4	4606516	niu	Nofo au i Toga.	hito	2015-10-14 01:42:21	2015-10-14 01:42:34
+97	0x61	a	33	4606134	niu	Ai maama e au.	Ricardo14	2015-10-13 20:35:36	2015-10-13 20:35:46
+101	0x65	e	21	4606531	niu	Hauʻoli kēia kāne.	hito	2015-10-14 01:53:40	2015-10-14 01:54:00
+102	0x66	f	18	4606519	niu	Ko fe e falevao?	hito	2015-10-14 01:44:10	2015-10-18 17:17:39
+103	0x67	g	11	4638674	niu	Kamata e gahua haau he hola fiha?	hito	2015-10-24 01:04:52	2015-10-24 01:04:52
+104	0x68	h	15	4606506	niu	Ko hai?	hito	2015-10-14 01:33:54	2015-10-14 01:35:52
+105	0x69	i	29	4638672	niu	Fano a koe ki fe he Aho Gofua?	hito	2015-10-24 01:03:02	2015-10-24 01:03:02
 107	0x6b	k	19	4638657	niu	Mua kia!	hito	2015-10-24 00:43:37	2015-10-24 00:43:37
-108	0x6c	l	20	11122617	niu	Liga manatu a ia: ‘Ofo lahi au he nakai uiina e Evotia au!	Patpat44	2022-09-17 13:59:32	2022-09-17 13:59:32
-109	0x6d	m	11	4606122	niu	Ko Tom e higoa haaku.	Ricardo14	2015-10-13 20:32:23	2015-10-13 20:32:56
-110	0x6e	n	13	4606531	niu	Hauʻoli kēia kāne.	hito	2015-10-14 01:53:40	2015-10-14 01:54:00
-111	0x6f	o	29	4606531	niu	Hauʻoli kēia kāne.	hito	2015-10-14 01:53:40	2015-10-14 01:54:00
-112	0x70	p	3	11122614	niu	He vagahau ke he hana a tau aposetolo, ko lautolu ia ko e kamataaga mai ia lautolu ka tanaki hake e lagi fou ka pule ke he lalolagi fou, ne mavehe a Iesu: “Ko e moli, ke tala atu e au kia mutolu, ko mutolu kua mumui mai kia au, ka nofo e Tama he tagata ke he hana nofoaiki lilifu ke he fakafouaga, ti nonofo ai foki a mutolu ke he tau nofoaiki he hogofulu ma ua.”	Patpat44	2022-09-17 13:59:05	2022-09-17 13:59:05
+108	0x6c	l	20	4638667	niu	Nonofo a mutolu kia!	hito	2015-10-24 00:58:56	2015-10-24 00:58:56
+109	0x6d	m	11	11122614	niu	He vagahau ke he hana a tau aposetolo, ko lautolu ia ko e kamataaga mai ia lautolu ka tanaki hake e lagi fou ka pule ke he lalolagi fou, ne mavehe a Iesu: “Ko e moli, ke tala atu e au kia mutolu, ko mutolu kua mumui mai kia au, ka nofo e Tama he tagata ke he hana nofoaiki lilifu ke he fakafouaga, ti nonofo ai foki a mutolu ke he tau nofoaiki he hogofulu ma ua.”	Patpat44	2022-09-17 13:59:05	2022-09-17 13:59:05
+110	0x6e	n	13	4638653	niu	Nofo au i Niusilani.	hito	2015-10-24 00:39:35	2015-10-24 00:39:35
+111	0x6f	o	29	4606530	niu	Fakaalofa lahi atu!	hito	2015-10-14 01:52:33	2015-10-14 01:52:42
+112	0x70	p	3	4606526	niu	Hau e pasi he hola fiha?	hito	2015-10-14 01:48:12	2015-10-14 01:49:30
 115	0x73	s	4	11122614	niu	He vagahau ke he hana a tau aposetolo, ko lautolu ia ko e kamataaga mai ia lautolu ka tanaki hake e lagi fou ka pule ke he lalolagi fou, ne mavehe a Iesu: “Ko e moli, ke tala atu e au kia mutolu, ko mutolu kua mumui mai kia au, ka nofo e Tama he tagata ke he hana nofoaiki lilifu ke he fakafouaga, ti nonofo ai foki a mutolu ke he tau nofoaiki he hogofulu ma ua.”	Patpat44	2022-09-17 13:59:05	2022-09-17 13:59:05
-116	0x74	t	12	11122617	niu	Liga manatu a ia: ‘Ofo lahi au he nakai uiina e Evotia au!	Patpat44	2022-09-17 13:59:32	2022-09-17 13:59:32
+116	0x74	t	12	4638675	niu	Ko Ianuali e mahina fakamua he tau.	hito	2015-10-24 01:05:51	2015-10-24 01:05:51
 117	0x75	u	25	4606134	niu	Ai maama e au.	Ricardo14	2015-10-13 20:35:36	2015-10-13 20:35:46
 118	0x76	v	5	4606519	niu	Ko fe e falevao?	hito	2015-10-14 01:44:10	2015-10-18 17:17:39
 257	0x101	ā	1	4606531	niu	Hauʻoli kēia kāne.	hito	2015-10-14 01:53:40	2015-10-14 01:54:00

@@ -1,84 +1,84 @@
-32	0x20	 	2881	10317466	gle	Réitíonn Dónall cáca seacláide.	koala	2021-09-23 22:22:03	2021-09-23 22:22:03
-33	0x21	!	124	7801368	gle	Chomh iontach!	eo_as	2019-03-08 20:34:52	2019-03-08 20:34:52
-34	0x22	"	9	2714665	gle	"Cén t-am é anois?" "Tá sé a deich a chlog."	\N	2013-09-01 20:40:33	2024-03-26 17:46:54
-39	0x27	'	107	7746142	gle	D'ith an fear an t-arán.	\N	2019-01-22 20:00:25	2019-03-08 16:24:22
-44	0x2c	,	121	4549685	gle	An té nach bhfuil toilteanach chun obair, níl sé tuillte chun ite.	Choctaw_Irish	2015-09-24 03:53:36	2015-09-24 03:53:36
-45	0x2d	-	124	10926452	gle	Tá an fhadhb seo an-deacair.	janTuki	2022-06-20 22:29:37	2022-06-20 22:29:37
-46	0x2e	.	2329	3391520	gle	Ní úsáideann Hamisi bainne.	\N	2014-07-22 21:19:45	2016-01-28 18:59:31
+32	0x20	 	2881	4668711	gle	Tar isteach!	Choctaw_Irish	2015-11-02 03:18:10	2015-11-02 03:18:10
+33	0x21	!	124	5538453	gle	Tá sé anseo!	mollydot	2016-10-21 21:59:34	2024-03-10 23:30:38
+34	0x22	"	9	7908700	gle	"Is oth liom nach bhfuil muid i Kansas a thuilleadh", a duirt Pól.	EoghanM	2019-05-14 09:37:57	2019-05-14 09:40:35
+39	0x27	'	107	7290700	gle	Dh'aimsigh mé é ina luí ar an leaba.	anrialach	2018-10-14 05:03:49	2018-10-14 05:03:49
+44	0x2c	,	121	7908700	gle	"Is oth liom nach bhfuil muid i Kansas a thuilleadh", a duirt Pól.	EoghanM	2019-05-14 09:37:57	2019-05-14 09:40:35
+45	0x2d	-	124	626949	gle	Tá sé ró-bheag.	niq	2010-11-18 21:03:33	2010-11-18 21:03:33
+46	0x2e	.	2329	6319588	gle	Lorg an focal seo san fhoclóir, le do thoil.	BasicDeer	2017-09-22 04:07:48	2017-09-22 04:07:48
 48	0x30	0	3	11099066	gle	Déanaim 100 euro sa lá.	Kroger	2022-09-05 20:58:04	2022-09-05 20:58:04
-49	0x31	1	4	874938	gle	Rugadh Caitríona in 1985.	\N	\N	2016-11-11 18:17:43
-50	0x32	2	5	5168116	gle	Nach raibh fhois agat gur fuar sí bás 2 bhliain ó shin?	kemushi69	2016-05-26 21:40:18	2016-05-26 21:40:18
+49	0x31	1	4	11093951	gle	Inniu an 18 Meitheamh agus an lá breithe Muiriel chomh maith!	Kroger	2022-09-03 07:50:09	2022-09-03 07:50:09
+50	0x32	2	5	7804862	gle	Tá mé 25 d'aois.	eo_as	2019-03-10 18:43:12	2019-03-10 18:43:12
 51	0x33	3	1	11099065	gle	€30 atá air seo.	Kroger	2022-09-05 20:55:46	2022-09-05 20:55:46
-52	0x34	4	2	5152287	gle	4 d'Iúil shona duit!	kemushi69	2016-05-19 22:29:35	2016-05-19 22:29:35
+52	0x34	4	2	3125643	gle	4 d'Iúil shona!	\N	2014-03-25 19:05:49	2024-03-26 17:56:50
 53	0x35	5	2	7804862	gle	Tá mé 25 d'aois.	eo_as	2019-03-10 18:43:12	2019-03-10 18:43:12
 54	0x36	6	1	11102650	gle	Siar i mo sheal ar ardscoil, d'éirigh mé ag a 6 a chlog gach maidin.	Kroger	2022-09-07 17:49:02	2022-09-07 17:49:02
 56	0x38	8	3	4773426	gle	Rugadh mé i 1988.	Choctaw_Irish	2015-12-17 18:39:58	2015-12-17 18:39:58
-57	0x39	9	2	874938	gle	Rugadh Caitríona in 1985.	\N	\N	2016-11-11 18:17:43
+57	0x39	9	2	4773426	gle	Rugadh mé i 1988.	Choctaw_Irish	2015-12-17 18:39:58	2015-12-17 18:39:58
 58	0x3a	:	3	8290338	gle	Ag staidear: Ríomheolaíocht	eo_as	2019-10-28 23:22:40	2019-10-28 23:22:40
 59	0x3b	;	2	11841346	gle	Síneann brón an saol; Giorraíonn sonas é.	Tatoebauser	2023-06-12 18:41:34	2023-06-12 18:41:34
-63	0x3f	?	474	5065520	gle	Cá ndeachaigh an cat agus an madra aréir?	Choctaw_Irish	2016-04-15 15:39:59	2016-04-15 15:39:59
-65	0x41	A	295	3602262	gle	An raibh tú i d'aonar?	\N	2014-11-02 19:40:11	2020-05-15 13:26:25
-66	0x42	B	266	7810128	gle	Bhí sé an-bhocht.	eo_as	2019-03-14 21:33:33	2019-03-14 21:33:33
-67	0x43	C	391	7801437	gle	I ndáiríre? Cad chuige?	eo_as	2019-03-08 21:13:11	2021-08-23 18:55:12
-68	0x44	D	133	10317411	gle	D'éirigh mé as.	koala	2021-09-23 21:42:02	2021-09-23 21:42:02
+63	0x3f	?	474	10317098	gle	An bhfeicfidh mé arís í?	koala	2021-09-23 19:01:19	2021-09-23 19:01:19
+65	0x41	A	295	625716	gle	An bhfuil tuirse ort?	niq	2010-11-17 23:33:48	2010-11-17 23:33:48
+66	0x42	B	266	874828	gle	Buailfidh mé leat amárach.	\N	\N	2019-09-23 12:02:23
+67	0x43	C	391	3092991	gle	Cén fáth an ndeachaigh tú ansin?	\N	2014-03-13 17:36:56	2024-03-26 17:54:54
+68	0x44	D	133	8290309	gle	Díolann mé ríomhairí.	eo_as	2019-10-28 23:13:56	2019-10-28 23:13:56
 69	0x45	E	19	3598680	gle	Cathain a rachaidh Sita go dtí Eluru?	sadiavt	2014-11-01 15:08:50	2021-12-31 05:16:02
-70	0x46	F	98	12198165	gle	Is breá le Marika an Fhionnlainnis, a theanga féin.	horiordain	2023-12-07 01:55:39	2023-12-07 01:55:39
-71	0x47	G	78	9311509	gle	Ghlac Tom leis an chuireadh.	mbm	2020-11-16 17:33:37	2020-11-16 17:33:37
+70	0x46	F	98	7801349	gle	Foc.	eo_as	2019-03-08 20:17:11	2019-03-08 20:17:11
+71	0x47	G	78	4555657	gle	Glaoigh orm sula n-imí tú.	Choctaw_Irish	2015-09-26 02:27:24	2015-09-26 02:27:24
 72	0x48	H	6	10923936	gle	Heileo! Is é Ogava an ceann a bhfuil ag labhairt anseo.	janTuki	2022-06-19 17:35:07	2022-06-19 17:35:07
-73	0x49	I	381	3057176	gle	Is é an leon rí na dufaire.	\N	2014-02-19 18:35:39	2024-03-26 17:54:08
-74	0x4a	J	8	10317072	gle	Chuir John Kerry in éadan an smaoineamh seo.	koala	2021-09-23 18:43:14	2021-09-23 18:43:14
-75	0x4b	K	8	10317072	gle	Chuir John Kerry in éadan an smaoineamh seo.	koala	2021-09-23 18:43:14	2021-09-23 18:43:14
-76	0x4c	L	61	6319592	gle	Ní dada iad fadhbanna iompair ár gcathrach i gcomparáid leis na fadhbanna cathracha móra cosúil ar nós Londan agus Nua-Eabhrac.	BasicDeer	2017-09-22 04:20:54	2017-09-22 04:20:54
-77	0x4d	M	116	6319626	gle	Is bean aisteach í Maria.	BasicDeer	2017-09-22 05:25:50	2017-09-22 05:25:50
-78	0x4e	N	428	557620	gle	Nár bhuaileamar riamh?	kemushi69	2010-10-10 15:13:57	2016-05-20 23:48:10
-79	0x4f	O	19	4668703	gle	Osclóidh mé an doras.	Choctaw_Irish	2015-11-02 02:56:25	2015-11-02 02:56:25
-80	0x50	P	19	875715	gle	Thall i bPáras, labhraítear Fraincis.	\N	\N	2011-08-02 05:24:44
-82	0x52	R	55	2977161	gle	Rachaidh mé go hÉire.	\N	2014-01-11 14:13:16	2024-03-26 17:52:07
-83	0x53	S	149	3598627	gle	Is maith liom an tSín.	\N	2014-11-01 15:00:27	2016-03-18 11:06:04
-84	0x54	T	976	6319290	gle	A Tom, uaitse atá mé ag iarraidh é a chloisteáil.	BasicDeer	2017-09-21 23:14:39	2017-09-21 23:14:39
-85	0x55	U	5	7290681	gle	Uair a bhí mise ag fás suas, chonaic mé an buachaill is láidre sa mbaile. Agus ó chonaic mé an t-aonad san, nídh 'acainn dom dol im choladh.	anrialach	2018-10-14 04:39:40	2018-10-14 04:39:40
-86	0x56	V	3	4256146	gle	Fáilte chuig an Vicipéid.	DetErMinNavn	2015-06-05 15:40:15	2015-06-05 15:40:15
-89	0x59	Y	5	10317500	gle	Is féidir le Yanni ithe níos tapúla ná sin.	koala	2021-09-23 22:49:51	2021-09-23 22:49:51
+73	0x49	I	381	12198162	gle	Ní chuimhníonn Flavio ar ainm úsáideora Isabella.	horiordain	2023-12-07 01:54:30	2023-12-07 01:54:30
+74	0x4a	J	8	7676205	gle	Tá Judy cineálta le gach duine.	\N	2018-12-30 17:35:18	2019-03-08 16:27:59
+75	0x4b	K	8	1502323	gle	Is é Burj Khalifa an t-ilstóras is airde ar domhan.	Balamax	2012-03-25 06:28:55	2012-03-25 06:28:55
+76	0x4c	L	61	3944982	gle	Labhraítear Spáinnis ina lán tíortha.	turklehceleri	2015-03-10 15:20:47	2015-03-10 15:20:47
+77	0x4d	M	116	10317141	gle	Tá tuirse ar Tomás agus Máire.	koala	2021-09-23 19:29:52	2021-09-23 19:29:52
+78	0x4e	N	428	2828470	gle	Não riam!	MarlonX19	2013-11-03 22:41:35	2013-11-03 22:41:35
+79	0x4f	O	19	10923956	gle	An gcreideann tú i UFOanna?	janTuki	2022-06-19 18:10:25	2022-06-19 18:10:25
+80	0x50	P	19	10317713	gle	Is í Iarúsailéim príomhchathair na Palaistíne.	koala	2021-09-24 00:51:42	2021-09-24 00:51:42
+82	0x52	R	55	2714206	gle	Rachaidh mé ansin ar eitleán.	\N	2013-09-01 16:29:34	2024-03-26 17:42:00
+83	0x53	S	149	873131	gle	’Sé a rinne é ná Éamonn.	\N	\N	2011-08-02 05:12:01
+84	0x54	T	976	3785864	gle	Thaitin sé go mór liom.	Barra	2015-01-21 21:10:22	2015-01-21 21:10:22
+85	0x55	U	5	7816199	gle	Uaireanta cluinineann mé m'athair ag canadh san seomra folctha.	eo_as	2019-03-18 19:36:38	2019-03-18 19:36:46
+86	0x56	V	3	11467237	gle	Vótáil mé ar son fanachta.	janTuki	2023-01-17 22:43:40	2023-01-17 22:43:40
+89	0x59	Y	5	3600000	gle	Is cathair mhór í New York.	\N	2014-11-01 23:56:28	2020-05-15 12:49:16
 90	0x5a	Z	2	12042863	gle	Chuaigh Ziri a luí.	enebi	2023-09-07 21:36:25	2023-09-07 21:36:25
-97	0x61	a	2784	7290703	gle	Bhí an dealramh dochtúra ar Tom go deimhin.	anrialach	2018-10-14 05:06:39	2018-10-14 05:06:39
-98	0x62	b	1104	9965182	gle	Chuir Yanni an bolgán solais i gcoimeádán dúnta go daingean.	\N	2021-04-17 15:51:27	2021-04-19 02:08:27
-99	0x63	c	1552	8239937	gle	Stróic Tomás an nóta as a chéile.	SadeceTurkce	2019-10-07 20:03:07	2019-10-07 20:03:07
-100	0x64	d	1377	11492556	gle	Tá Erdogan ciontach as Coirdínigh neamhchiontach a mharú.	janTuki	2023-01-28 23:59:50	2023-01-28 23:59:50
-101	0x65	e	1878	4521524	gle	Is Éireannach í an cailín.	Gaeltacht	2015-09-13 21:45:12	2015-09-13 21:45:12
-102	0x66	f	847	5516941	gle	Faraor nach bhfuil mé in aois na hóige arís.	Cxom	2016-10-14 12:37:01	2016-10-14 12:37:01
-103	0x67	g	1452	11085329	gle	Tá tú i ngrá.	mollydot	2022-08-28 19:11:28	2022-08-28 19:11:28
-104	0x68	h	2330	10808516	gle	Tá ríomhaire glúine agam.	janTuki	2022-05-06 14:59:09	2022-05-06 14:59:09
-105	0x69	i	2506	11089264	gle	Tá sí ag scríobh ailt do nuachtán na scoile.	janTuki	2022-08-31 07:25:52	2022-08-31 07:25:52
-106	0x6a	j	4	1502323	gle	Is é Burj Khalifa an t-ilstóras is airde ar domhan.	Balamax	2012-03-25 06:28:55	2012-03-25 06:28:55
-107	0x6b	k	7	11104533	gle	Jack an t-ainm atá orm.	Kroger	2022-09-09 04:07:05	2022-09-09 04:07:05
-108	0x6c	l	1691	3602432	gle	Níl béan chéile agam.	\N	2014-11-02 20:07:02	2020-05-15 13:29:24
-109	0x6d	m	1875	2345915	gle	An bhfuil do mháthair sa bhaile?	everylanguage	2013-03-29 17:55:42	2013-03-29 17:55:42
-110	0x6e	n	2096	11085329	gle	Tá tú i ngrá.	mollydot	2022-08-28 19:11:28	2022-08-28 19:11:28
-111	0x6f	o	1875	3944677	gle	An dtiocfaidh tú liom go dtí an cheolchoirm?	turklehceleri	2015-03-10 13:37:51	2015-03-10 13:37:51
-112	0x70	p	253	3091021	gle	Ní stopann sé.	\N	2014-03-12 22:01:08	2024-03-26 17:53:46
-114	0x72	r	2018	12198164	gle	Ba mhaith liom taisteal trí Mheiriceá Laidineach.	horiordain	2023-12-07 01:55:15	2023-12-07 01:55:15
-115	0x73	s	1894	2702930	gle	Is bean mé.	\N	2013-08-27 20:10:39	2016-01-17 18:07:28
-116	0x74	t	1798	7075962	gle	Itheann na páistí.	azraelgnosis	2018-08-21 03:32:09	2018-08-21 03:32:09
-117	0x75	u	1056	873536	gle	Sin iad na gasúir ar thug tú an leabhar dóibh.	\N	\N	2011-08-02 05:16:23
-118	0x76	v	11	12198162	gle	Ní chuimhníonn Flavio ar ainm úsáideora Isabella.	horiordain	2023-12-07 01:54:30	2023-12-07 01:54:30
-119	0x77	w	4	3604160	gle	Táim ag tvuíteáil ar Twitter.	\N	2014-11-03 17:55:55	2020-05-15 13:43:55
-121	0x79	y	20	5167986	gle	Tá Tom agus Mary inar gcairde acu le trí bhliain anuas.	kemushi69	2016-05-26 20:31:29	2016-05-26 20:31:29
-122	0x7a	z	5	3945028	gle	Is í Kazan príomhchathair na Tatarstáine.	turklehceleri	2015-03-10 15:24:32	2015-03-10 15:24:32
-160	0xa0	 	19	3467398	gle	Bhí iontas ar Eimíle.	\N	2014-09-02 21:58:36	2016-01-28 19:02:56
+97	0x61	a	2784	3603071	gle	Is Gearmánach mé.	\N	2014-11-02 23:44:43	2020-05-15 13:37:42
+98	0x62	b	1104	944614	gle	Bhraith mé go breá.	mayok	2011-06-19 10:57:17	2011-06-19 10:57:28
+99	0x63	c	1552	7804875	gle	Ni thiocfaidh mé.	eo_as	2019-03-10 18:57:28	2019-03-10 18:57:28
+100	0x64	d	1377	6319308	gle	Cad eile atá tú ag iarraidh mé a rá leat?	BasicDeer	2017-09-21 23:26:54	2017-09-21 23:26:54
+101	0x65	e	1878	3599694	gle	Ní ithim muiceoil.	\N	2014-11-01 21:50:24	2020-05-15 12:48:50
+102	0x66	f	847	10926502	gle	Tá an ráta áitíochta in óstáin beagnach caoga faoin gcéad.	janTuki	2022-06-21 00:41:35	2022-06-21 00:41:35
+103	0x67	g	1452	873115	gle	Is amhlaidh a bhris sé an fhuinneog.	\N	\N	2011-08-02 05:14:47
+104	0x68	h	2330	10317942	gle	Mura bhfuil a fhios agat, cuir ceist.	koala	2021-09-24 04:12:06	2021-09-24 04:12:06
+105	0x69	i	2506	3840928	gle	Tá dhá mhadra aige.	kemushi69	2015-02-04 16:35:15	2016-05-21 00:08:15
+106	0x6a	j	4	949077	gle	Is amhránaí maith Maja Keuc.	\N	2011-06-22 01:10:17	2016-11-19 17:26:20
+107	0x6b	k	7	5168224	gle	Fuair Dick bás nuair a bhí sé deich mbliain d'aois.	kemushi69	2016-05-26 22:28:28	2016-11-11 18:28:18
+108	0x6c	l	1691	875715	gle	Thall i bPáras, labhraítear Fraincis.	\N	\N	2011-08-02 05:24:44
+109	0x6d	m	1875	12197441	gle	Cheannaigh m'athair bó.	horiordain	2023-12-06 16:39:29	2023-12-06 16:39:34
+110	0x6e	n	2096	4771893	gle	Tá an taoiseach ag labhairt liom.	Choctaw_Irish	2015-12-16 21:42:07	2015-12-16 21:42:07
+111	0x6f	o	1875	6091926	gle	Téann sí siar ar a focal.	StrugglingToFrench	2017-05-20 19:45:28	\N
+112	0x70	p	253	3602440	gle	Níl ceapachán agam.	\N	2014-11-02 20:08:09	2020-05-15 13:29:19
+114	0x72	r	2018	4773382	gle	Tá tóin toirtiúil air.	Choctaw_Irish	2015-12-17 18:24:09	2015-12-17 18:24:09
+115	0x73	s	1894	4564518	gle	An féidir leat gluaisteán a thiomáint?	Choctaw_Irish	2015-09-28 13:56:51	2015-09-28 13:56:51
+116	0x74	t	1798	10317823	gle	Ba cheart go mbeadh Tomás in ann snámh trasna na habhann.	koala	2021-09-24 02:32:57	2021-09-24 02:32:57
+117	0x75	u	1056	11100778	gle	Ceapann a lán daoine go bhfuil mé craiceáilte.	Kroger	2022-09-06 18:08:51	2022-09-06 18:08:51
+118	0x76	v	11	3602503	gle	Tá víosa agam.	\N	2014-11-02 20:17:46	2020-05-15 13:30:12
+119	0x77	w	4	3945032	gle	Tá páiste le siondróm Down agam.	turklehceleri	2015-03-10 15:24:45	2015-03-10 15:24:45
+121	0x79	y	20	6319286	gle	Ba mhaith le Tom scaradh le Mary.	BasicDeer	2017-09-21 23:12:05	2017-09-21 23:12:05
+122	0x7a	z	5	2714828	gle	Ithinn pizza.	\N	2013-09-01 21:59:27	2024-03-26 17:47:48
+160	0xa0	 	19	3930991	gle	An bhfuil tú seacht mbliana déag d'aois?	turklehceleri	2015-03-04 15:32:09	2015-03-04 15:32:09
 193	0xc1	Á	9	2974610	gle	Is é Baile Átha Cliath príomhchathair na hÉireann.	\N	2014-01-10 13:46:11	2024-03-26 17:52:09
-201	0xc9	É	26	2951315	gle	Sé Éamonn a rinne é.	_Brighid_	2013-12-31 21:06:14	2013-12-31 21:06:14
+201	0xc9	É	26	7801362	gle	Éist go cúramach	eo_as	2019-03-08 20:31:14	2019-03-08 20:31:14
 205	0xcd	Í	4	4572119	gle	Íosfaidh mé seacláid.	Choctaw_Irish	2015-10-01 21:11:58	2015-10-01 21:11:58
-211	0xd3	Ó	12	9311523	gle	Ólann siad ola olóige.	mbm	2020-11-16 17:35:49	2020-11-16 17:35:49
-218	0xda	Ú	9	3391527	gle	Úsáideann mo chara siúcra.	\N	2014-07-22 21:24:43	2016-01-28 18:59:39
-224	0xe0	à	2	768873	gle	Tha mi ag iarraidh mo chàraid a cheilidh an-ath-sheachdain.	marloncori	2011-02-25 04:16:32	2011-02-25 04:16:32
-225	0xe1	á	1482	7801590	gle	Céard a déarfadh muid chun báis?	eo_as	2019-03-08 22:13:58	2020-05-30 15:44:05
+211	0xd3	Ó	12	7075964	gle	Ólann sé bainne agus ólaimid uisce.	azraelgnosis	2018-08-21 03:32:28	2018-08-21 03:32:28
+218	0xda	Ú	9	9965184	gle	Úsáideann na bolgáin solais seo mearcair chun solas a chruthú.	\N	2021-04-17 15:54:04	2021-04-19 02:08:26
+224	0xe0	à	2	768883	gle	Bha ar bana-chàraid a' siubhal do bhaile bheag an t-seachdain seo chaidh.	marloncori	2011-02-25 04:36:22	2011-02-25 04:37:23
+225	0xe1	á	1482	3944690	gle	An raibh a fhios agat é seo, a Chiaráin?	turklehceleri	2015-03-10 13:42:58	2015-03-10 13:42:58
 227	0xe3	ã	1	2828470	gle	Não riam!	MarlonX19	2013-11-03 22:41:35	2013-11-03 22:41:35
-233	0xe9	é	1262	3677859	gle	Tá mé ag iarraidh an Béarla a fhoghlaim.	\N	2014-12-06 15:38:10	2020-05-15 13:21:57
-237	0xed	í	1205	10317119	gle	Ná seol teachtaireachtaí chugam.	koala	2021-09-23 19:17:36	2021-09-23 19:17:36
-243	0xf3	ó	416	6319295	gle	Nílimid ag iarraidh trioblóide.	BasicDeer	2017-09-21 23:17:57	2017-09-21 23:17:57
-250	0xfa	ú	541	874826	gle	Cá raibh tú aréir?	\N	\N	2011-08-02 05:19:12
+233	0xe9	é	1262	10923954	gle	Ní hé an Béarla an teanga is fusa ar domhan.	janTuki	2022-06-19 18:08:57	2022-06-19 18:08:57
+237	0xed	í	1205	7809350	gle	Tchíonn mé leon.	eo_as	2019-03-14 09:03:33	2019-03-14 09:03:33
+243	0xf3	ó	416	3604022	gle	Tá sí ina cónaí i mBéal Feirste.	\N	2014-11-03 16:41:59	2020-05-15 13:40:34
+250	0xfa	ú	541	2714878	gle	Is cailín álainn thú.	\N	2013-09-01 22:17:21	2024-03-26 17:49:34
 287	0x11f	ğ	1	9464306	gle	Is uachtarán na Tuirce é Erdoğan.	\N	2020-12-11 19:25:35	2021-01-04 05:39:11
-8217	0x2019	’	14	873134	gle	’Séard a rinne siad ná an fhuinneog a bhriseadh.	\N	\N	2011-08-02 05:14:58
+8217	0x2019	’	14	871605	gle	Tá cónaí orm sa teach a thóg m’athair.	kemushi69	\N	2016-05-20 23:48:47
 8220	0x201c	“	1	2712280	gle	“Cén aois atá agat?” - “Tá mé fiche trí mbliana d'aois.”	\N	2013-09-01 11:14:04	2016-01-17 18:07:15
 8221	0x201d	”	1	2712280	gle	“Cén aois atá agat?” - “Tá mé fiche trí mbliana d'aois.”	\N	2013-09-01 11:14:04	2016-01-17 18:07:15
 8364	0x20ac	€	1	11099065	gle	€30 atá air seo.	Kroger	2022-09-05 20:55:46	2022-09-05 20:55:46

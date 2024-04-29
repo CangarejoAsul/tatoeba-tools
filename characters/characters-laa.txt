@@ -1,13 +1,13 @@
-32	0x20	 	10	8873512	laa	Gendi megaga ini nu getaw; ugaid tu Diwata helon gbinyasan megaga.	fedmartinez23	2020-06-26 04:01:59	2020-06-26 04:02:06
+32	0x20	 	10	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
 33	0x21	!	1	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
 34	0x22	"	1	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
-44	0x2c	,	4	8873524	laa	Mbà tuu yaa su Gbatà nu Diwata, sugù mu i gbatu hini meshibaluy phan.	fedmartinez23	2020-06-26 04:16:34	2020-06-26 04:16:43
-46	0x2e	.	9	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
+44	0x2c	,	4	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
+46	0x2e	.	9	8873524	laa	Mbà tuu yaa su Gbatà nu Diwata, sugù mu i gbatu hini meshibaluy phan.	fedmartinez23	2020-06-26 04:16:34	2020-06-26 04:16:43
 58	0x3a	:	1	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
-59	0x3b	;	2	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
+59	0x3b	;	2	8873512	laa	Gendi megaga ini nu getaw; ugaid tu Diwata helon gbinyasan megaga.	fedmartinez23	2020-06-26 04:01:59	2020-06-26 04:02:06
 67	0x43	C	1	8873539	laa	Witay mu inan Coke.	fedmartinez23	2020-06-26 04:37:19	2020-06-26 04:37:26
-68	0x44	D	7	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
-71	0x47	G	4	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
+68	0x44	D	7	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
+71	0x47	G	4	8873524	laa	Mbà tuu yaa su Gbatà nu Diwata, sugù mu i gbatu hini meshibaluy phan.	fedmartinez23	2020-06-26 04:16:34	2020-06-26 04:16:43
 74	0x4a	J	1	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
 76	0x4c	L	1	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
 77	0x4d	M	2	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
@@ -16,26 +16,26 @@
 85	0x55	U	1	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
 87	0x57	W	1	8873539	laa	Witay mu inan Coke.	fedmartinez23	2020-06-26 04:37:19	2020-06-26 04:37:26
 90	0x5a	Z	1	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
-97	0x61	a	10	8873523	laa	Dlelamen hu yaa.	fedmartinez23	2020-06-26 04:11:50	2020-06-26 04:11:57
-98	0x62	b	7	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
-100	0x64	d	7	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
-101	0x65	e	10	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
-103	0x67	g	8	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
-104	0x68	h	9	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
-105	0x69	i	9	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
-107	0x6b	k	2	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
-108	0x6c	l	9	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
-109	0x6d	m	10	8873512	laa	Gendi megaga ini nu getaw; ugaid tu Diwata helon gbinyasan megaga.	fedmartinez23	2020-06-26 04:01:59	2020-06-26 04:02:06
-110	0x6e	n	10	8873500	laa	Salig amu tu Diwata, dahus salig amu rema ryanan.	fedmartinez23	2020-06-26 03:54:07	2020-06-26 03:54:43
-111	0x6f	o	4	8873512	laa	Gendi megaga ini nu getaw; ugaid tu Diwata helon gbinyasan megaga.	fedmartinez23	2020-06-26 04:01:59	2020-06-26 04:02:06
-112	0x70	p	5	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
+97	0x61	a	10	8873500	laa	Salig amu tu Diwata, dahus salig amu rema ryanan.	fedmartinez23	2020-06-26 03:54:07	2020-06-26 03:54:43
+98	0x62	b	7	8873512	laa	Gendi megaga ini nu getaw; ugaid tu Diwata helon gbinyasan megaga.	fedmartinez23	2020-06-26 04:01:59	2020-06-26 04:02:06
+100	0x64	d	7	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
+101	0x65	e	10	8873512	laa	Gendi megaga ini nu getaw; ugaid tu Diwata helon gbinyasan megaga.	fedmartinez23	2020-06-26 04:01:59	2020-06-26 04:02:06
+103	0x67	g	8	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
+104	0x68	h	9	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
+105	0x69	i	9	8873524	laa	Mbà tuu yaa su Gbatà nu Diwata, sugù mu i gbatu hini meshibaluy phan.	fedmartinez23	2020-06-26 04:16:34	2020-06-26 04:16:43
+107	0x6b	k	2	8873539	laa	Witay mu inan Coke.	fedmartinez23	2020-06-26 04:37:19	2020-06-26 04:37:26
+108	0x6c	l	9	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46
+109	0x6d	m	10	8873539	laa	Witay mu inan Coke.	fedmartinez23	2020-06-26 04:37:19	2020-06-26 04:37:26
+110	0x6e	n	10	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
+111	0x6f	o	4	8873539	laa	Witay mu inan Coke.	fedmartinez23	2020-06-26 04:37:19	2020-06-26 04:37:26
+112	0x70	p	5	8873524	laa	Mbà tuu yaa su Gbatà nu Diwata, sugù mu i gbatu hini meshibaluy phan.	fedmartinez23	2020-06-26 04:16:34	2020-06-26 04:16:43
 114	0x72	r	5	8873533	laa	Dyanami Gamà tu dlangit: nydumen hu su ngalan mu pegeraban thandeng.	fedmartinez23	2020-06-26 04:32:26	2020-06-26 04:32:33
-115	0x73	s	8	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
+115	0x73	s	8	8873500	laa	Salig amu tu Diwata, dahus salig amu rema ryanan.	fedmartinez23	2020-06-26 03:54:07	2020-06-26 03:54:43
 116	0x74	t	9	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
-117	0x75	u	10	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
-119	0x77	w	6	8873500	laa	Salig amu tu Diwata, dahus salig amu rema ryanan.	fedmartinez23	2020-06-26 03:54:07	2020-06-26 03:54:43
+117	0x75	u	10	8873508	laa	Lelyagen su dlemon pegutelan nen su helinaw nu nga getaw; twagen ilan nu Diwata nga gbatà en ilan!	fedmartinez23	2020-06-26 03:59:53	2020-06-26 03:59:59
+119	0x77	w	6	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
 121	0x79	y	10	8873539	laa	Witay mu inan Coke.	fedmartinez23	2020-06-26 04:37:19	2020-06-26 04:37:26
-224	0xe0	à	6	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
+224	0xe0	à	6	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
 233	0xe9	é	2	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
-236	0xec	ì	2	8873519	laa	Ugaid mbà menenginengi amu subay meturan amu dahus gendì amu kalyali medwarwà.	fedmartinez23	2020-06-26 04:05:59	2020-06-26 04:06:05
-249	0xf9	ù	3	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
+236	0xec	ì	2	8873528	laa	Pibyan tu heshalig mesabut ta mà run tiwang su dunya pibyan tu thalù nu Diwata, has su gbinyasan métà ta binal genat tu gbinyasan gendì ta métà.	fedmartinez23	2020-06-26 04:25:10	2020-06-26 04:25:16
+249	0xf9	ù	3	8873537	laa	Mandyari si James bu si John, su nga gbatà ni Zebedee, minangay ilan tu ni Jesus tinalù nilan ryanin, "Gmenintulù, dun dlyagan nami peguléhen mu ryanami."	fedmartinez23	2020-06-26 04:36:38	2020-06-26 04:36:46

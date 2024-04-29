@@ -1,48 +1,48 @@
-32	0x20	 	82	4964915	mww	Yog koj muaj tej lus nug, ces cia li nug xwb.	\N	2016-03-10 01:08:30	2016-04-04 01:12:36
-33	0x21	!	6	4964864	mww	Zoo siab txais tos!	\N	2016-03-10 00:47:03	2016-04-04 01:14:07
-44	0x2c	,	4	4964884	mww	Yog koj tshaib plab, ces noj.	\N	2016-03-10 00:55:39	2016-04-04 01:13:32
-46	0x2e	.	62	4964886	mww	Kuv tsis hlub koj.	\N	2016-03-10 00:56:45	2016-04-04 01:13:28
-63	0x3f	?	14	4964853	mww	Puas yog koj kawm lus askiv?	\N	2016-03-10 00:42:22	2016-04-04 01:14:26
-66	0x42	B	2	4964863	mww	Ub ob leeg tuaj tim Boston tuaj.	\N	2016-03-10 00:46:24	2016-04-04 01:14:08
+32	0x20	 	82	4964891	mww	John muaj tsib lub espaum.	\N	2016-03-10 00:59:18	2016-04-04 01:13:17
+33	0x21	!	6	4964849	mww	Ua tsaug!	\N	2016-03-10 00:40:20	2016-04-04 01:14:32
+44	0x2c	,	4	4964914	mww	Yog koj xav mus, ces mus.	\N	2016-03-10 01:08:13	2016-04-04 01:12:37
+46	0x2e	.	62	4964883	mww	Kuv xav tau lub ncuav mog loj tshaj.	\N	2016-03-10 00:55:20	2016-04-04 01:13:33
+63	0x3f	?	14	4964839	mww	Koj nyob qhov twg?	\N	2016-03-10 00:34:46	2016-04-04 01:14:57
+66	0x42	B	2	4964858	mww	Tom tuaj rau tim Boston tuaj.	\N	2016-03-10 00:44:12	2016-04-04 01:14:17
 67	0x43	C	1	4964898	mww	Cia li ua dua!	\N	2016-03-10 01:02:21	2016-04-04 01:13:06
 69	0x45	E	1	4964901	mww	Suav teb yog lub teb chaws loj tshaj nyob rau Es Xias.	\N	2016-03-10 01:03:09	2016-04-04 01:12:58
 70	0x46	F	1	4964861	mww	Peb tuaj tim France tuaj.	\N	2016-03-10 00:45:47	2016-04-04 01:14:09
 74	0x4a	J	1	4964891	mww	John muaj tsib lub espaum.	\N	2016-03-10 00:59:18	2016-04-04 01:13:17
-75	0x4b	K	30	4964859	mww	Kuv tuaj tim Russia tuaj.	\N	2016-03-10 00:44:48	2016-04-04 01:14:16
-78	0x4e	N	11	4964880	mww	Suav teb loj dua Nyibpoom teb.	\N	2016-03-10 00:54:14	2016-04-04 01:13:41
-80	0x50	P	3	4964861	mww	Peb tuaj tim France tuaj.	\N	2016-03-10 00:45:47	2016-04-04 01:14:09
-81	0x51	Q	2	4964889	mww	Qhov no loj.	\N	2016-03-10 00:58:08	2016-04-04 01:13:19
-82	0x52	R	2	4964860	mww	Kuv nyob tim Russia tuaj.	\N	2016-03-10 00:45:16	2016-04-04 01:14:11
+75	0x4b	K	30	4964838	mww	Kuv muaj ob tug miv.	\N	2016-03-10 00:34:25	2016-04-04 01:14:59
+78	0x4e	N	11	4964882	mww	Teb chaws Tuam Tshoj loj dua teb chaws Nyivpooj.	\N	2016-03-10 00:54:48	2016-04-04 01:13:34
+80	0x50	P	3	4964853	mww	Puas yog koj kawm lus askiv?	\N	2016-03-10 00:42:22	2016-04-04 01:14:26
+81	0x51	Q	2	4964912	mww	Qhov no yog tsheb loj tshaj nyob lub ntiaj teb.	\N	2016-03-10 01:07:27	2016-04-04 01:12:44
+82	0x52	R	2	4964859	mww	Kuv tuaj tim Russia tuaj.	\N	2016-03-10 00:44:48	2016-04-04 01:14:16
 83	0x53	S	3	4964901	mww	Suav teb yog lub teb chaws loj tshaj nyob rau Es Xias.	\N	2016-03-10 01:03:09	2016-04-04 01:12:58
-84	0x54	T	22	4964881	mww	Teb chaws Tuam Tshoj loj dua teb chaws Nyiajpoom.	\N	2016-03-10 00:54:36	2016-04-04 01:13:40
-85	0x55	U	8	4964846	mww	Ua tsaug ntau ntau!	\N	2016-03-10 00:38:12	2016-04-04 01:14:38
-87	0x57	W	2	4964868	mww	Wb ob leeg yog txiv neej yawg lawm.	\N	2016-03-10 00:48:55	2016-04-04 01:13:58
+84	0x54	T	22	4964871	mww	Tus txiv neej no yog Neeg Suav.	\N	2016-03-10 00:49:46	2016-04-04 01:13:56
+85	0x55	U	8	4964849	mww	Ua tsaug!	\N	2016-03-10 00:40:20	2016-04-04 01:14:32
+87	0x57	W	2	4964867	mww	Wb ob leeg puav leej yog tib neeg laus.	\N	2016-03-10 00:48:35	2016-04-04 01:14:03
 88	0x58	X	1	4964901	mww	Suav teb yog lub teb chaws loj tshaj nyob rau Es Xias.	\N	2016-03-10 01:03:09	2016-04-04 01:12:58
 89	0x59	Y	4	4964884	mww	Yog koj tshaib plab, ces noj.	\N	2016-03-10 00:55:39	2016-04-04 01:13:32
 90	0x5a	Z	1	4964864	mww	Zoo siab txais tos!	\N	2016-03-10 00:47:03	2016-04-04 01:14:07
-97	0x61	a	70	4964888	mww	Kuv tabtom noj mov.	\N	2016-03-10 00:57:36	2016-04-04 01:13:20
-98	0x62	b	46	4964908	mww	Tom muaj ib lub tsheb zoo zoo nkauj.	\N	2016-03-10 01:05:55	2016-04-04 01:12:47
-99	0x63	c	13	4964901	mww	Suav teb yog lub teb chaws loj tshaj nyob rau Es Xias.	\N	2016-03-10 01:03:09	2016-04-04 01:12:58
-100	0x64	d	15	4964898	mww	Cia li ua dua!	\N	2016-03-10 01:02:21	2016-04-04 01:13:06
-101	0x65	e	41	4964908	mww	Tom muaj ib lub tsheb zoo zoo nkauj.	\N	2016-03-10 01:05:55	2016-04-04 01:12:47
+97	0x61	a	70	4964901	mww	Suav teb yog lub teb chaws loj tshaj nyob rau Es Xias.	\N	2016-03-10 01:03:09	2016-04-04 01:12:58
+98	0x62	b	46	4964891	mww	John muaj tsib lub espaum.	\N	2016-03-10 00:59:18	2016-04-04 01:13:17
+99	0x63	c	13	4964915	mww	Yog koj muaj tej lus nug, ces cia li nug xwb.	\N	2016-03-10 01:08:30	2016-04-04 01:12:36
+100	0x64	d	15	4964899	mww	Txhob ua dua.	\N	2016-03-10 01:02:43	2016-04-04 01:13:04
+101	0x65	e	41	4964884	mww	Yog koj tshaib plab, ces noj.	\N	2016-03-10 00:55:39	2016-04-04 01:13:32
 102	0x66	f	1	4964855	mww	Peb nug xib fwj lus txhua hnub.	\N	2016-03-10 00:43:17	2016-04-04 01:14:21
-103	0x67	g	31	4964915	mww	Yog koj muaj tej lus nug, ces cia li nug xwb.	\N	2016-03-10 01:08:30	2016-04-04 01:12:36
-104	0x68	h	34	4964882	mww	Teb chaws Tuam Tshoj loj dua teb chaws Nyivpooj.	\N	2016-03-10 00:54:48	2016-04-04 01:13:34
-105	0x69	i	47	4964882	mww	Teb chaws Tuam Tshoj loj dua teb chaws Nyivpooj.	\N	2016-03-10 00:54:48	2016-04-04 01:13:34
-106	0x6a	j	62	4964871	mww	Tus txiv neej no yog Neeg Suav.	\N	2016-03-10 00:49:46	2016-04-04 01:13:56
-107	0x6b	k	18	3466856	mww	Ua tsaug ntau ntau rau lub xovtooj uas koj muab rau kuv.	\N	2014-09-02 17:00:28	2016-03-22 02:23:08
-108	0x6c	l	45	4964867	mww	Wb ob leeg puav leej yog tib neeg laus.	\N	2016-03-10 00:48:35	2016-04-04 01:14:03
-109	0x6d	m	45	4964880	mww	Suav teb loj dua Nyibpoom teb.	\N	2016-03-10 00:54:14	2016-04-04 01:13:41
-110	0x6e	n	46	4964875	mww	Tus dev no loj heev.	\N	2016-03-10 00:52:27	2016-04-04 01:13:47
-111	0x6f	o	68	4964836	mww	Koj mus qhov twg?	\N	2016-03-10 00:34:02	2016-04-04 01:15:00
-112	0x70	p	17	4964834	mww	Koj puas txawj hais lus askiv?	\N	2016-03-10 00:33:10	2016-04-04 01:15:03
-113	0x71	q	4	4964836	mww	Koj mus qhov twg?	\N	2016-03-10 00:34:02	2016-04-04 01:15:00
+103	0x67	g	31	4964850	mww	Ua mej tsaug ntau ntau.	\N	2016-03-10 00:41:24	2016-04-04 01:14:31
+104	0x68	h	34	4964834	mww	Koj puas txawj hais lus askiv?	\N	2016-03-10 00:33:10	2016-04-04 01:15:03
+105	0x69	i	47	4964906	mww	Nws lub tsheb tsis muaj log.	\N	2016-03-10 01:05:20	2016-04-04 01:12:54
+106	0x6a	j	62	4964868	mww	Wb ob leeg yog txiv neej yawg lawm.	\N	2016-03-10 00:48:55	2016-04-04 01:13:58
+107	0x6b	k	18	4964886	mww	Kuv tsis hlub koj.	\N	2016-03-10 00:56:45	2016-04-04 01:13:28
+108	0x6c	l	45	4964892	mww	Tom muaj peb lub tsheb.	\N	2016-03-10 00:59:32	2016-04-04 01:13:16
+109	0x6d	m	45	4964853	mww	Puas yog koj kawm lus askiv?	\N	2016-03-10 00:42:22	2016-04-04 01:14:26
+110	0x6e	n	46	4964874	mww	Tus aub no loj heev.	\N	2016-03-10 00:52:17	2016-04-04 01:13:51
+111	0x6f	o	68	4964915	mww	Yog koj muaj tej lus nug, ces cia li nug xwb.	\N	2016-03-10 01:08:30	2016-04-04 01:12:36
+112	0x70	p	17	4964867	mww	Wb ob leeg puav leej yog tib neeg laus.	\N	2016-03-10 00:48:35	2016-04-04 01:14:03
+113	0x71	q	4	4964845	mww	Koj tuaj qhov twg tuaj?	\N	2016-03-10 00:37:42	2016-04-04 01:14:39
 114	0x72	r	9	4964902	mww	Kuv mam rov qab sai sai.	\N	2016-03-10 01:03:36	2016-04-04 01:12:57
-115	0x73	s	61	4964867	mww	Wb ob leeg puav leej yog tib neeg laus.	\N	2016-03-10 00:48:35	2016-04-04 01:14:03
-116	0x74	t	60	3466856	mww	Ua tsaug ntau ntau rau lub xovtooj uas koj muab rau kuv.	\N	2014-09-02 17:00:28	2016-03-22 02:23:08
-117	0x75	u	74	4964852	mww	Kuv xav tau kuv niam.	\N	2016-03-10 00:42:06	2016-04-04 01:14:27
-118	0x76	v	52	4964900	mww	Txhob rov ua dua.	\N	2016-03-10 01:02:52	2016-04-04 01:12:59
-119	0x77	w	31	4964878	mww	Tus dev no loj lawm.	\N	2016-03-10 00:53:14	2016-04-04 01:13:42
-120	0x78	x	22	4964865	mww	Koj xav tau dabtsi?	\N	2016-03-10 00:47:43	2016-04-04 01:14:05
-121	0x79	y	19	3466873	mww	Nws cog lus tias nws yuav tsis tawm mus ib leeg.	\N	2014-09-02 17:03:08	2016-03-22 02:23:05
+115	0x73	s	61	4964873	mww	Koj puas pom tus txiv neej no?	\N	2016-03-10 00:50:26	2016-04-04 01:13:52
+116	0x74	t	60	4964884	mww	Yog koj tshaib plab, ces noj.	\N	2016-03-10 00:55:39	2016-04-04 01:13:32
+117	0x75	u	74	4964836	mww	Koj mus qhov twg?	\N	2016-03-10 00:34:02	2016-04-04 01:15:00
+118	0x76	v	52	4964835	mww	Kuv tsis paub.	\N	2016-03-10 00:33:42	2016-04-04 01:15:02
+119	0x77	w	31	4964868	mww	Wb ob leeg yog txiv neej yawg lawm.	\N	2016-03-10 00:48:55	2016-04-04 01:13:58
+120	0x78	x	22	3466856	mww	Ua tsaug ntau ntau rau lub xovtooj uas koj muab rau kuv.	\N	2014-09-02 17:00:28	2016-03-22 02:23:08
+121	0x79	y	19	4964860	mww	Kuv nyob tim Russia tuaj.	\N	2016-03-10 00:45:16	2016-04-04 01:14:11
 122	0x7a	z	1	4964908	mww	Tom muaj ib lub tsheb zoo zoo nkauj.	\N	2016-03-10 01:05:55	2016-04-04 01:12:47

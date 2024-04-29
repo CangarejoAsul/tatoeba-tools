@@ -1,27 +1,27 @@
-32	0x20	 	5	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
-33	0x21	!	2	5020843	bcl	Dagos tabì sa Tatoeba!	\N	2016-03-29 07:57:56	2019-04-16 10:56:43
-46	0x2e	.	3	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
-65	0x41	A	2	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
+32	0x20	 	5	5978193	bcl	An tubig ay buway.	\N	2017-03-26 04:15:15	0000-00-00 00:00:00
+33	0x21	!	2	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
+46	0x2e	.	3	6449817	bcl	Bikolano ako.	Filipinayzd	2017-11-06 12:43:12	2017-11-06 12:43:12
+65	0x41	A	2	5978193	bcl	An tubig ay buway.	\N	2017-03-26 04:15:15	0000-00-00 00:00:00
 66	0x42	B	1	6449817	bcl	Bikolano ako.	Filipinayzd	2017-11-06 12:43:12	2017-11-06 12:43:12
 68	0x44	D	1	5020843	bcl	Dagos tabì sa Tatoeba!	\N	2016-03-29 07:57:56	2019-04-16 10:56:43
 77	0x4d	M	2	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
 80	0x50	P	1	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
 84	0x54	T	1	5020843	bcl	Dagos tabì sa Tatoeba!	\N	2016-03-29 07:57:56	2019-04-16 10:56:43
-97	0x61	a	5	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
+97	0x61	a	5	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
 98	0x62	b	4	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
 100	0x64	d	1	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
 101	0x65	e	2	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
 103	0x67	g	3	5020843	bcl	Dagos tabì sa Tatoeba!	\N	2016-03-29 07:57:56	2019-04-16 10:56:43
 104	0x68	h	1	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
-105	0x69	i	3	6449817	bcl	Bikolano ako.	Filipinayzd	2017-11-06 12:43:12	2017-11-06 12:43:12
-107	0x6b	k	3	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
+105	0x69	i	3	5978193	bcl	An tubig ay buway.	\N	2017-03-26 04:15:15	0000-00-00 00:00:00
+107	0x6b	k	3	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
 108	0x6c	l	2	6449817	bcl	Bikolano ako.	Filipinayzd	2017-11-06 12:43:12	2017-11-06 12:43:12
 109	0x6d	m	1	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
-110	0x6e	n	3	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
-111	0x6f	o	3	6449817	bcl	Bikolano ako.	Filipinayzd	2017-11-06 12:43:12	2017-11-06 12:43:12
+110	0x6e	n	3	5978193	bcl	An tubig ay buway.	\N	2017-03-26 04:15:15	0000-00-00 00:00:00
+111	0x6f	o	3	5020843	bcl	Dagos tabì sa Tatoeba!	\N	2016-03-29 07:57:56	2019-04-16 10:56:43
 114	0x72	r	1	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
 115	0x73	s	2	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
-116	0x74	t	3	5020843	bcl	Dagos tabì sa Tatoeba!	\N	2016-03-29 07:57:56	2019-04-16 10:56:43
+116	0x74	t	3	6449818	bcl	Maboot ako.	Filipinayzd	2017-11-06 12:43:44	2017-11-06 12:43:44
 117	0x75	u	2	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
 119	0x77	w	2	4964824	bcl	Maugmang Panggarabusang Aldaw nin kababaehan!	\N	2016-03-10 00:21:44	2019-04-16 10:53:57
 121	0x79	y	1	5978193	bcl	An tubig ay buway.	\N	2017-03-26 04:15:15	0000-00-00 00:00:00

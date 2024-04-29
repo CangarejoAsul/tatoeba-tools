@@ -1,27 +1,27 @@
-32	0x20	 	7	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
+32	0x20	 	7	12118921	lug	Siri musawo.	enebi	2023-10-21 03:29:55	2023-10-21 03:29:55
 33	0x21	!	1	12381160	lug	Nsobola okikola!	Hills	2024-03-21 10:00:20	2024-03-21 10:00:20
 39	0x27	'	1	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50
-46	0x2e	.	5	12118921	lug	Siri musawo.	enebi	2023-10-21 03:29:55	2023-10-21 03:29:55
+46	0x2e	.	5	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
 63	0x3f	?	1	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50
 69	0x45	E	1	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50
 78	0x4e	N	1	12381160	lug	Nsobola okikola!	Hills	2024-03-21 10:00:20	2024-03-21 10:00:20
-83	0x53	S	3	12119797	lug	Siri muyimbi.	enebi	2023-10-21 11:49:18	2023-10-21 11:49:23
-84	0x54	T	2	3324381	lug	Teri atukiridde.	\N	2014-06-19 04:40:33	2019-04-16 10:56:44
-97	0x61	a	6	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50
+83	0x53	S	3	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
+84	0x54	T	2	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
+97	0x61	a	6	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
 98	0x62	b	3	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
-100	0x64	d	2	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
-101	0x65	e	3	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
+100	0x64	d	2	3324381	lug	Teri atukiridde.	\N	2014-06-19 04:40:33	2019-04-16 10:56:44
+101	0x65	e	3	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
 102	0x66	f	1	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
-103	0x67	g	3	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
-105	0x69	i	6	12118921	lug	Siri musawo.	enebi	2023-10-21 03:29:55	2023-10-21 03:29:55
-107	0x6b	k	4	12381160	lug	Nsobola okikola!	Hills	2024-03-21 10:00:20	2024-03-21 10:00:20
+103	0x67	g	3	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50
+105	0x69	i	6	3324381	lug	Teri atukiridde.	\N	2014-06-19 04:40:33	2019-04-16 10:56:44
+107	0x6b	k	4	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
 108	0x6c	l	3	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50
-109	0x6d	m	3	12119797	lug	Siri muyimbi.	enebi	2023-10-21 11:49:18	2023-10-21 11:49:23
-110	0x6e	n	3	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
-111	0x6f	o	4	12381160	lug	Nsobola okikola!	Hills	2024-03-21 10:00:20	2024-03-21 10:00:20
+109	0x6d	m	3	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
+110	0x6e	n	3	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
+111	0x6f	o	4	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
 114	0x72	r	5	12118921	lug	Siri musawo.	enebi	2023-10-21 03:29:55	2023-10-21 03:29:55
-115	0x73	s	3	12381160	lug	Nsobola okikola!	Hills	2024-03-21 10:00:20	2024-03-21 10:00:20
-116	0x74	t	2	3324381	lug	Teri atukiridde.	\N	2014-06-19 04:40:33	2019-04-16 10:56:44
-117	0x75	u	5	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
+115	0x73	s	3	12116192	lug	Saagala kugenda ku ssomero.	enebi	2023-10-19 16:56:41	2023-10-19 16:57:02
+116	0x74	t	2	6918396	lug	Tukyabanga ebintu byaffe bingi.	davepier	2018-05-28 14:30:50	2018-05-28 14:30:50
+117	0x75	u	5	12118921	lug	Siri musawo.	enebi	2023-10-21 03:29:55	2023-10-21 03:29:55
 119	0x77	w	2	12118921	lug	Siri musawo.	enebi	2023-10-21 03:29:55	2023-10-21 03:29:55
-121	0x79	y	3	12119797	lug	Siri muyimbi.	enebi	2023-10-21 11:49:18	2023-10-21 11:49:23
+121	0x79	y	3	12116195	lug	Erinnya lyo ggw'ani?	enebi	2023-10-19 16:58:43	2023-10-19 16:58:50

@@ -1,35 +1,35 @@
 32	0x20	 	7	8723406	toi	Ndayibona pencele yako.	fj_nambala	2020-04-28 15:34:54	2020-04-28 15:48:46
-33	0x21	!	6	8758414	toi	Amundigwasye!	fj_nambala	2020-05-13 09:24:45	2020-05-13 09:24:45
+33	0x21	!	6	8723491	toi	Tacisyomwi!	fj_nambala	2020-04-28 16:34:25	2020-04-28 16:36:09
 39	0x27	'	1	8682864	toi	Sena wasika ciindi nzi kung'anda yako?	fj_nambala	2020-04-15 16:01:53	2020-04-17 15:52:39
-46	0x2e	.	6	8682857	toi	Toyelede kucicita eeci mpoona aawa.	fj_nambala	2020-04-15 15:58:03	2020-04-17 15:52:50
-63	0x3f	?	3	8758427	toi	Ncabwini?	fj_nambala	2020-05-13 09:28:01	2020-05-13 09:28:01
+46	0x2e	.	6	8682860	toi	Ni penzi iinjumu kubambulula.	fj_nambala	2020-04-15 16:00:07	2020-04-17 15:52:46
+63	0x3f	?	3	8682854	toi	Sena inga ubuka ciindi nzi?	fj_nambala	2020-04-15 15:55:21	2020-04-17 15:52:57
 65	0x41	A	1	8758414	toi	Amundigwasye!	fj_nambala	2020-05-13 09:24:45	2020-05-13 09:24:45
 67	0x43	C	1	8723490	toi	Chilakankamanisya!	fj_nambala	2020-04-28 16:33:42	2020-04-28 16:34:18
 73	0x49	I	1	8723194	toi	Inzya.	\N	2020-04-28 13:58:11	2020-04-28 13:58:29
 75	0x4b	K	1	8758413	toi	Kondigwasya!	fj_nambala	2020-05-13 09:24:29	2020-05-13 09:24:29
-78	0x4e	N	5	8723406	toi	Ndayibona pencele yako.	fj_nambala	2020-04-28 15:34:54	2020-04-28 15:48:46
-83	0x53	S	2	8682854	toi	Sena inga ubuka ciindi nzi?	fj_nambala	2020-04-15 15:55:21	2020-04-17 15:52:57
-84	0x54	T	2	8723491	toi	Tacisyomwi!	fj_nambala	2020-04-28 16:34:25	2020-04-28 16:36:09
+78	0x4e	N	5	8758409	toi	Ndigwasye!	fj_nambala	2020-05-13 09:23:47	2020-05-13 09:23:47
+83	0x53	S	2	8682864	toi	Sena wasika ciindi nzi kung'anda yako?	fj_nambala	2020-04-15 16:01:53	2020-04-17 15:52:39
+84	0x54	T	2	8682857	toi	Toyelede kucicita eeci mpoona aawa.	fj_nambala	2020-04-15 15:58:03	2020-04-17 15:52:50
 85	0x55	U	1	8682871	toi	Utazibili ikucita zintu oobo.	fj_nambala	2020-04-15 16:03:51	2020-04-17 15:52:33
 87	0x57	W	1	8723492	toi	Watambulwa!	fj_nambala	2020-04-28 16:35:14	2020-04-28 16:35:14
-97	0x61	a	15	8723492	toi	Watambulwa!	fj_nambala	2020-04-28 16:35:14	2020-04-28 16:35:14
-98	0x62	b	6	8682871	toi	Utazibili ikucita zintu oobo.	fj_nambala	2020-04-15 16:03:51	2020-04-17 15:52:33
-99	0x63	c	7	8682864	toi	Sena wasika ciindi nzi kung'anda yako?	fj_nambala	2020-04-15 16:01:53	2020-04-17 15:52:39
-100	0x64	d	8	8682854	toi	Sena inga ubuka ciindi nzi?	fj_nambala	2020-04-15 15:55:21	2020-04-17 15:52:57
-101	0x65	e	8	8682854	toi	Sena inga ubuka ciindi nzi?	fj_nambala	2020-04-15 15:55:21	2020-04-17 15:52:57
-103	0x67	g	5	8758409	toi	Ndigwasye!	fj_nambala	2020-05-13 09:23:47	2020-05-13 09:23:47
+97	0x61	a	15	8758413	toi	Kondigwasya!	fj_nambala	2020-05-13 09:24:29	2020-05-13 09:24:29
+98	0x62	b	6	8682854	toi	Sena inga ubuka ciindi nzi?	fj_nambala	2020-04-15 15:55:21	2020-04-17 15:52:57
+99	0x63	c	7	8723406	toi	Ndayibona pencele yako.	fj_nambala	2020-04-28 15:34:54	2020-04-28 15:48:46
+100	0x64	d	8	8758413	toi	Kondigwasya!	fj_nambala	2020-05-13 09:24:29	2020-05-13 09:24:29
+101	0x65	e	8	8758409	toi	Ndigwasye!	fj_nambala	2020-05-13 09:23:47	2020-05-13 09:23:47
+103	0x67	g	5	8758414	toi	Amundigwasye!	fj_nambala	2020-05-13 09:24:45	2020-05-13 09:24:45
 104	0x68	h	1	8723490	toi	Chilakankamanisya!	fj_nambala	2020-04-28 16:33:42	2020-04-28 16:34:18
-105	0x69	i	13	8682854	toi	Sena inga ubuka ciindi nzi?	fj_nambala	2020-04-15 15:55:21	2020-04-17 15:52:57
+105	0x69	i	13	8723406	toi	Ndayibona pencele yako.	fj_nambala	2020-04-28 15:34:54	2020-04-28 15:48:46
 106	0x6a	j	1	8682860	toi	Ni penzi iinjumu kubambulula.	fj_nambala	2020-04-15 16:00:07	2020-04-17 15:52:46
 107	0x6b	k	8	8723406	toi	Ndayibona pencele yako.	fj_nambala	2020-04-28 15:34:54	2020-04-28 15:48:46
-108	0x6c	l	7	8723479	toi	Ndila enzya ndemukamwini.	fj_nambala	2020-04-28 16:23:32	2020-04-28 16:23:32
-109	0x6d	m	7	8682860	toi	Ni penzi iinjumu kubambulula.	fj_nambala	2020-04-15 16:00:07	2020-04-17 15:52:46
-110	0x6e	n	12	8758427	toi	Ncabwini?	fj_nambala	2020-05-13 09:28:01	2020-05-13 09:28:01
+108	0x6c	l	7	8682860	toi	Ni penzi iinjumu kubambulula.	fj_nambala	2020-04-15 16:00:07	2020-04-17 15:52:46
+109	0x6d	m	7	8723492	toi	Watambulwa!	fj_nambala	2020-04-28 16:35:14	2020-04-28 16:35:14
+110	0x6e	n	12	8723490	toi	Chilakankamanisya!	fj_nambala	2020-04-28 16:33:42	2020-04-28 16:34:18
 111	0x6f	o	6	8682864	toi	Sena wasika ciindi nzi kung'anda yako?	fj_nambala	2020-04-15 16:01:53	2020-04-17 15:52:39
 112	0x70	p	3	8723406	toi	Ndayibona pencele yako.	fj_nambala	2020-04-28 15:34:54	2020-04-28 15:48:46
 115	0x73	s	6	8758414	toi	Amundigwasye!	fj_nambala	2020-05-13 09:24:45	2020-05-13 09:24:45
 116	0x74	t	3	8682857	toi	Toyelede kucicita eeci mpoona aawa.	fj_nambala	2020-04-15 15:58:03	2020-04-17 15:52:50
-117	0x75	u	8	8682871	toi	Utazibili ikucita zintu oobo.	fj_nambala	2020-04-15 16:03:51	2020-04-17 15:52:33
-119	0x77	w	9	8723479	toi	Ndila enzya ndemukamwini.	fj_nambala	2020-04-28 16:23:32	2020-04-28 16:23:32
-121	0x79	y	10	8682864	toi	Sena wasika ciindi nzi kung'anda yako?	fj_nambala	2020-04-15 16:01:53	2020-04-17 15:52:39
-122	0x7a	z	6	8723194	toi	Inzya.	\N	2020-04-28 13:58:11	2020-04-28 13:58:29
+117	0x75	u	8	8682864	toi	Sena wasika ciindi nzi kung'anda yako?	fj_nambala	2020-04-15 16:01:53	2020-04-17 15:52:39
+119	0x77	w	9	8758413	toi	Kondigwasya!	fj_nambala	2020-05-13 09:24:29	2020-05-13 09:24:29
+121	0x79	y	10	8758413	toi	Kondigwasya!	fj_nambala	2020-05-13 09:24:29	2020-05-13 09:24:29
+122	0x7a	z	6	8682860	toi	Ni penzi iinjumu kubambulula.	fj_nambala	2020-04-15 16:00:07	2020-04-17 15:52:46

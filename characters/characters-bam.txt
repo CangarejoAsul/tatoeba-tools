@@ -1,44 +1,44 @@
-32	0x20	 	61	12394142	bam	N ka kan ka taa lokoli la sini.	ClutzMutz	2024-03-30 12:36:53	2024-03-30 12:36:53
-33	0x21	!	8	4880997	bam	Aw bisimila!	\N	2016-02-03 00:44:49	2023-04-01 20:05:54
-39	0x27	'	15	12394308	bam	Teri de ye mɔgɔ ye min b'aw ko bɛɛ dɔn, k'a b'aw kanu.	ClutzMutz	2024-03-30 13:45:26	2024-03-30 13:45:26
-44	0x2c	,	11	12393547	bam	A tɛ kalan kɛ, a bɛ tɛmɛn.	ClutzMutz	2024-03-30 02:09:51	2024-03-30 02:09:51
-46	0x2e	.	45	12394169	bam	Ne tun t'a don k'aw ye kelece de ye.	ClutzMutz	2024-03-30 12:44:12	2024-03-30 12:44:12
-63	0x3f	?	10	12393622	bam	Waaw, aw hakili tɛ n togo la dɛ?	ClutzMutz	2024-03-30 04:03:41	2024-03-30 04:03:41
-65	0x41	A	14	12393069	bam	A ma fosi ye!	ClutzMutz	2024-03-29 13:52:17	2024-03-29 13:52:17
+32	0x20	 	61	12393579	bam	N b'a fɛ ka siranpɛrɛn dun.	ClutzMutz	2024-03-30 03:13:44	2024-03-30 03:13:44
+33	0x21	!	8	4881012	bam	Aw ni cɛ!	\N	2016-02-03 00:59:03	2023-04-01 20:06:18
+39	0x27	'	15	12394169	bam	Ne tun t'a don k'aw ye kelece de ye.	ClutzMutz	2024-03-30 12:44:12	2024-03-30 12:44:12
+44	0x2c	,	11	12393044	bam	Ne tun bɛ taa Farajɛla, nka wari bɛrɛ tun tɛ ne kun.	ClutzMutz	2024-03-29 13:29:31	2024-03-29 13:29:31
+46	0x2e	.	45	12393582	bam	A y'a ka kalandenyasoba soro nin kalo in na.	ClutzMutz	2024-03-30 03:14:46	2024-03-30 03:14:46
+63	0x3f	?	10	12396269	bam	Aw ma nin faamuya de?	ClutzMutz	2024-03-31 21:02:15	2024-03-31 21:02:15
+65	0x41	A	14	4861628	bam	Aw ni baara!	\N	2016-01-27 03:33:36	2023-04-01 20:05:31
 67	0x43	C	1	12393587	bam	Cɛ in ye furu kɛ denmisɛnya la.	ClutzMutz	2024-03-30 03:16:41	2024-03-30 03:16:41
-70	0x46	F	2	12393044	bam	Ne tun bɛ taa Farajɛla, nka wari bɛrɛ tun tɛ ne kun.	ClutzMutz	2024-03-29 13:29:31	2024-03-29 13:29:31
-73	0x49	I	9	4880999	bam	I tɔgɔ bɛ di?	\N	2016-02-03 00:48:05	2023-04-01 20:05:57
+70	0x46	F	2	4881005	bam	Funteni bɛ.	\N	2016-02-03 00:53:13	2023-04-01 20:06:24
+73	0x49	I	9	12396276	bam	I terike ka dimi ka dimi.	ClutzMutz	2024-03-31 21:06:22	2024-03-31 21:06:22
 75	0x4b	K	1	12393043	bam	Kɔnɔ dɔ bɛ an ka so sanfɛ.	\N	2024-03-29 13:27:27	2024-03-29 13:30:18
-77	0x4d	M	4	12396279	bam	Mun na an bɛ ɲɔgɔn sɔsɔ o ko la hali sa?	ClutzMutz	2024-03-31 21:08:20	2024-03-31 21:08:20
-78	0x4e	N	27	12393032	bam	N bɛ furu sɔrɔ.	ClutzMutz	2024-03-29 13:10:55	2024-03-29 13:10:55
+77	0x4d	M	4	12393034	bam	N balemamuso yelemana Maroki salon.	ClutzMutz	2024-03-29 13:13:59	2024-03-29 13:13:59
+78	0x4e	N	27	12393613	bam	N ma se ka sunɔgɔ.	ClutzMutz	2024-03-30 03:59:33	2024-03-30 03:59:33
 79	0x4f	O	1	12393001	bam	Olu bɛ u ka sɛbɛnw mara.	ClutzMutz	2024-03-29 12:48:05	2024-03-29 12:48:05
 83	0x53	S	1	12393624	bam	Sonsan, n ye dɔnkili caman lamɛn.	ClutzMutz	2024-03-30 04:04:43	2024-03-30 04:04:43
 84	0x54	T	1	12394308	bam	Teri de ye mɔgɔ ye min b'aw ko bɛɛ dɔn, k'a b'aw kanu.	ClutzMutz	2024-03-30 13:45:26	2024-03-30 13:45:26
 85	0x55	U	1	12394151	bam	U y'a minɛ sonyalikɛla caman ko la.	ClutzMutz	2024-03-30 12:39:37	2024-03-30 12:39:37
 87	0x57	W	2	12393622	bam	Waaw, aw hakili tɛ n togo la dɛ?	ClutzMutz	2024-03-30 04:03:41	2024-03-30 04:03:41
-97	0x61	a	55	12393113	bam	Ni n sara n ka baara la, n be se ka kuma aw fe.	ClutzMutz	2024-03-29 14:28:58	2024-03-29 14:28:58
-98	0x62	b	39	12393579	bam	N b'a fɛ ka siranpɛrɛn dun.	ClutzMutz	2024-03-30 03:13:44	2024-03-30 03:13:44
-99	0x63	c	8	12394169	bam	Ne tun t'a don k'aw ye kelece de ye.	ClutzMutz	2024-03-30 12:44:12	2024-03-30 12:44:12
-100	0x64	d	23	12393039	bam	N koroke kunsi bilennen don, a nyekise geren don.	ClutzMutz	2024-03-29 13:23:00	2024-03-29 13:23:00
-101	0x65	e	32	12393104	bam	A bɛ san fila bɔ ne ye.	ClutzMutz	2024-03-29 14:22:36	2024-03-29 14:22:36
-102	0x66	f	18	12393588	bam	A b'a yɛrɛ filɛ dugalen kɔnɔ ka kasi.	ClutzMutz	2024-03-30 03:18:23	2024-03-30 03:18:23
-103	0x67	g	18	4880999	bam	I tɔgɔ bɛ di?	\N	2016-02-03 00:48:05	2023-04-01 20:05:57
-104	0x68	h	2	12393622	bam	Waaw, aw hakili tɛ n togo la dɛ?	ClutzMutz	2024-03-30 04:03:41	2024-03-30 04:03:41
-105	0x69	i	46	12393125	bam	Ne tɛ a dilancogo dɔn.	ClutzMutz	2024-03-29 14:40:01	2024-03-29 14:40:01
-106	0x6a	j	8	12393046	bam	Aw nana tuma jumɛn?	ClutzMutz	2024-03-29 13:32:04	2024-03-29 13:32:04
-107	0x6b	k	40	12393034	bam	N balemamuso yelemana Maroki salon.	ClutzMutz	2024-03-29 13:13:59	2024-03-29 13:13:59
-108	0x6c	l	32	12393547	bam	A tɛ kalan kɛ, a bɛ tɛmɛn.	ClutzMutz	2024-03-30 02:09:51	2024-03-30 02:09:51
-109	0x6d	m	29	12393046	bam	Aw nana tuma jumɛn?	ClutzMutz	2024-03-29 13:32:04	2024-03-29 13:32:04
-110	0x6e	n	54	12393037	bam	N te se ka na sisan, n'kono b'a la.	ClutzMutz	2024-03-29 13:16:05	2024-03-29 13:16:05
-111	0x6f	o	31	12393574	bam	N ye n bolonkoni tigɛ kasaara la.	ClutzMutz	2024-03-30 03:10:03	2024-03-30 03:10:03
+97	0x61	a	55	12393047	bam	Aw y'a don bilen ka fisa ni geren ye wa?	ClutzMutz	2024-03-29 13:33:19	2024-03-29 13:33:19
+98	0x62	b	39	12393547	bam	A tɛ kalan kɛ, a bɛ tɛmɛn.	ClutzMutz	2024-03-30 02:09:51	2024-03-30 02:09:51
+99	0x63	c	8	12393608	bam	Mɔgɔw bɛ fɛn nkalon caman fɔ n kan.	ClutzMutz	2024-03-30 03:57:59	2024-03-30 03:57:59
+100	0x64	d	23	12393043	bam	Kɔnɔ dɔ bɛ an ka so sanfɛ.	\N	2024-03-29 13:27:27	2024-03-29 13:30:18
+101	0x65	e	32	12393125	bam	Ne tɛ a dilancogo dɔn.	ClutzMutz	2024-03-29 14:40:01	2024-03-29 14:40:01
+102	0x66	f	18	12393113	bam	Ni n sara n ka baara la, n be se ka kuma aw fe.	ClutzMutz	2024-03-29 14:28:58	2024-03-29 14:28:58
+103	0x67	g	18	12393573	bam	N ka kan ka n den togo min fo, n t'o don.	ClutzMutz	2024-03-30 03:08:11	2024-03-30 03:08:11
+104	0x68	h	2	12396279	bam	Mun na an bɛ ɲɔgɔn sɔsɔ o ko la hali sa?	ClutzMutz	2024-03-31 21:08:20	2024-03-31 21:08:20
+105	0x69	i	46	12393039	bam	N koroke kunsi bilennen don, a nyekise geren don.	ClutzMutz	2024-03-29 13:23:00	2024-03-29 13:23:00
+106	0x6a	j	8	12394878	bam	An ka jamana bɛ sukaro caman dilan.	ClutzMutz	2024-03-30 22:48:05	2024-03-30 22:48:05
+107	0x6b	k	40	12393113	bam	Ni n sara n ka baara la, n be se ka kuma aw fe.	ClutzMutz	2024-03-29 14:28:58	2024-03-29 14:28:58
+108	0x6c	l	32	4880996	bam	I bisimila!	\N	2016-02-03 00:44:35	2023-04-01 20:05:51
+109	0x6d	m	29	12393113	bam	Ni n sara n ka baara la, n be se ka kuma aw fe.	ClutzMutz	2024-03-29 14:28:58	2024-03-29 14:28:58
+110	0x6e	n	54	12393588	bam	A b'a yɛrɛ filɛ dugalen kɔnɔ ka kasi.	ClutzMutz	2024-03-30 03:18:23	2024-03-30 03:18:23
+111	0x6f	o	31	12393039	bam	N koroke kunsi bilennen don, a nyekise geren don.	ClutzMutz	2024-03-29 13:23:00	2024-03-29 13:23:00
 112	0x70	p	1	12393579	bam	N b'a fɛ ka siranpɛrɛn dun.	ClutzMutz	2024-03-30 03:13:44	2024-03-30 03:13:44
-114	0x72	r	26	12393113	bam	Ni n sara n ka baara la, n be se ka kuma aw fe.	ClutzMutz	2024-03-29 14:28:58	2024-03-29 14:28:58
-115	0x73	s	35	12394151	bam	U y'a minɛ sonyalikɛla caman ko la.	ClutzMutz	2024-03-30 12:39:37	2024-03-30 12:39:37
-116	0x74	t	19	12394142	bam	N ka kan ka taa lokoli la sini.	ClutzMutz	2024-03-30 12:36:53	2024-03-30 12:36:53
-117	0x75	u	27	12393032	bam	N bɛ furu sɔrɔ.	ClutzMutz	2024-03-29 13:10:55	2024-03-29 13:10:55
-119	0x77	w	18	12393049	bam	I sunɔgɔra wa?	ClutzMutz	2024-03-29 13:35:39	2024-03-29 13:35:42
-121	0x79	y	21	12393039	bam	N koroke kunsi bilennen don, a nyekise geren don.	ClutzMutz	2024-03-29 13:23:00	2024-03-29 13:23:00
+114	0x72	r	26	12394878	bam	An ka jamana bɛ sukaro caman dilan.	ClutzMutz	2024-03-30 22:48:05	2024-03-30 22:48:05
+115	0x73	s	35	12393113	bam	Ni n sara n ka baara la, n be se ka kuma aw fe.	ClutzMutz	2024-03-29 14:28:58	2024-03-29 14:28:58
+116	0x74	t	19	12396276	bam	I terike ka dimi ka dimi.	ClutzMutz	2024-03-31 21:06:22	2024-03-31 21:06:22
+117	0x75	u	27	12396279	bam	Mun na an bɛ ɲɔgɔn sɔsɔ o ko la hali sa?	ClutzMutz	2024-03-31 21:08:20	2024-03-31 21:08:20
+119	0x77	w	18	12393047	bam	Aw y'a don bilen ka fisa ni geren ye wa?	ClutzMutz	2024-03-29 13:33:19	2024-03-29 13:33:19
+121	0x79	y	21	12394169	bam	Ne tun t'a don k'aw ye kelece de ye.	ClutzMutz	2024-03-30 12:44:12	2024-03-30 12:44:12
 390	0x186	Ɔ	1	3615017	bam	Ɔwɔ.	\N	2014-11-08 15:36:47	2023-04-01 20:05:22
-596	0x254	ɔ	18	12393608	bam	Mɔgɔw bɛ fɛn nkalon caman fɔ n kan.	ClutzMutz	2024-03-30 03:57:59	2024-03-30 03:57:59
-603	0x25b	ɛ	32	4881009	bam	I ni cɛ!	\N	2016-02-03 00:56:36	2023-04-01 20:06:21
-626	0x272	ɲ	2	12393124	bam	N bɛ siran jakumaw ɲɛ.	ClutzMutz	2024-03-29 14:37:47	2024-03-29 14:37:47
+596	0x254	ɔ	18	12396279	bam	Mun na an bɛ ɲɔgɔn sɔsɔ o ko la hali sa?	ClutzMutz	2024-03-31 21:08:20	2024-03-31 21:08:20
+603	0x25b	ɛ	32	12393125	bam	Ne tɛ a dilancogo dɔn.	ClutzMutz	2024-03-29 14:40:01	2024-03-29 14:40:01
+626	0x272	ɲ	2	12396279	bam	Mun na an bɛ ɲɔgɔn sɔsɔ o ko la hali sa?	ClutzMutz	2024-03-31 21:08:20	2024-03-31 21:08:20

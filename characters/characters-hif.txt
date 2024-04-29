@@ -1,47 +1,47 @@
-32	0x20	 	33	3182501	hif	Maaf karnaa.	\N	2014-04-16 16:57:43	2016-08-07 07:50:58
+32	0x20	 	33	3182522	hif	Hamaar naam Wang Jiaming hai.	\N	2014-04-16 17:02:00	2016-08-07 07:52:14
 33	0x21	!	1	3182525	hif	Dhanbaad!	\N	2014-04-16 17:05:01	2016-08-07 07:50:55
-44	0x2c	,	2	3182490	hif	Ek sau, dui sau, tin sau, chaar sau, paanch sau, chhe sau, saat sau, aath sau, nau sau, ek hazaar.	\N	2014-04-16 16:49:28	2016-08-07 07:52:45
-46	0x2e	.	25	3184157	hif	Tokyo bahut badaa shahar hai.	\N	2014-04-17 06:49:39	2016-08-07 07:52:18
-63	0x3f	?	8	3184129	hif	Bar kahaan hai?	\N	2014-04-17 06:26:33	2016-08-07 07:51:05
-65	0x41	A	4	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
-66	0x42	B	3	3184163	hif	Berlin Germany ke capital city hai.	\N	2014-04-17 06:54:03	2016-08-07 07:52:19
+44	0x2c	,	2	3182478	hif	Ek, dui, tin, chaar, paanch, chhe, saat, aath, nau, das.	\N	2014-04-16 16:48:31	2016-08-07 07:52:25
+46	0x2e	.	25	3182478	hif	Ek, dui, tin, chaar, paanch, chhe, saat, aath, nau, das.	\N	2014-04-16 16:48:31	2016-08-07 07:52:25
+63	0x3f	?	8	3184110	hif	Tumaar naam kaa hai?	\N	2014-04-17 06:21:27	2016-08-07 07:50:40
+65	0x41	A	4	3182499	hif	Aap ke naam kaa hai?	\N	2014-04-16 16:55:31	2016-08-07 07:50:41
+66	0x42	B	3	3184129	hif	Bar kahaan hai?	\N	2014-04-17 06:26:33	2016-08-07 07:51:05
 68	0x44	D	2	3182525	hif	Dhanbaad!	\N	2014-04-16 17:05:01	2016-08-07 07:50:55
-69	0x45	E	4	3182478	hif	Ek, dui, tin, chaar, paanch, chhe, saat, aath, nau, das.	\N	2014-04-16 16:48:31	2016-08-07 07:52:25
-71	0x47	G	2	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
-72	0x48	H	14	3182513	hif	Hamaar naam Henry hai.	\N	2014-04-16 17:00:57	2016-08-07 07:52:58
-73	0x49	I	4	3184155	hif	India ke capital city New Delhi hai.	\N	2014-04-17 06:48:27	2016-08-07 07:52:21
-74	0x4a	J	2	3182522	hif	Hamaar naam Wang Jiaming hai.	\N	2014-04-16 17:02:00	2016-08-07 07:52:14
+69	0x45	E	4	3182496	hif	Aap English boltaa?	\N	2014-04-16 16:51:44	2016-08-07 07:50:59
+71	0x47	G	2	3184163	hif	Berlin Germany ke capital city hai.	\N	2014-04-17 06:54:03	2016-08-07 07:52:19
+72	0x48	H	14	3182512	hif	Hamaar naam Ichiro Tanaka hai.	\N	2014-04-16 17:00:51	2016-08-07 07:52:12
+73	0x49	I	4	3184159	hif	Mumbai India ke Maharashtra state ke capital city hai.	\N	2014-04-17 06:51:10	2016-08-07 07:52:24
+74	0x4a	J	2	3182507	hif	Hamaar naam Jack hai.	\N	2014-04-16 17:00:11	2016-08-07 07:51:07
 75	0x4b	K	1	3184114	hif	Kitnaa daam hai?	\N	2014-04-17 06:22:54	2016-08-07 07:51:01
 76	0x4c	L	1	3182521	hif	Hamaar naam Luis hai.	\N	2014-04-16 17:01:52	2016-08-07 07:53:09
 77	0x4d	M	2	3182501	hif	Maaf karnaa.	\N	2014-04-16 16:57:43	2016-08-07 07:50:58
 78	0x4e	N	2	3184156	hif	New York badaa shahar hai.	\N	2014-04-17 06:49:26	2016-08-07 07:52:15
-80	0x50	P	3	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
+80	0x50	P	3	3182498	hif	Pata nahi.	\N	2014-04-16 16:54:09	2016-08-07 07:50:56
 82	0x52	R	2	3182515	hif	Hamaar naam Ricardo hai.	\N	2014-04-16 17:01:18	2016-08-07 07:52:59
-83	0x53	S	3	3182518	hif	Hamaar naam Sasha hai.	\N	2014-04-16 17:01:34	2016-08-07 07:53:04
-84	0x54	T	5	3184110	hif	Tumaar naam kaa hai?	\N	2014-04-17 06:21:27	2016-08-07 07:50:40
-85	0x55	U	2	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
-87	0x57	W	2	3182522	hif	Hamaar naam Wang Jiaming hai.	\N	2014-04-16 17:02:00	2016-08-07 07:52:14
+83	0x53	S	3	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
+84	0x54	T	5	3184157	hif	Tokyo bahut badaa shahar hai.	\N	2014-04-17 06:49:39	2016-08-07 07:52:18
+85	0x55	U	2	3184150	hif	Uu buk kahaan hai?	\N	2014-04-17 06:43:08	2016-08-07 07:52:11
+87	0x57	W	2	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
 89	0x59	Y	2	3182508	hif	Hamaar naam Yamada hai.	\N	2014-04-16 17:00:19	2016-08-07 07:51:08
-97	0x61	a	34	3184159	hif	Mumbai India ke Maharashtra state ke capital city hai.	\N	2014-04-17 06:51:10	2016-08-07 07:52:24
-98	0x62	b	6	3182496	hif	Aap English boltaa?	\N	2014-04-16 16:51:44	2016-08-07 07:50:59
-99	0x63	c	10	3182515	hif	Hamaar naam Ricardo hai.	\N	2014-04-16 17:01:18	2016-08-07 07:52:59
-100	0x64	d	13	3184157	hif	Tokyo bahut badaa shahar hai.	\N	2014-04-17 06:49:39	2016-08-07 07:52:18
-101	0x65	e	13	3184156	hif	New York badaa shahar hai.	\N	2014-04-17 06:49:26	2016-08-07 07:52:15
-102	0x66	f	2	3182501	hif	Maaf karnaa.	\N	2014-04-16 16:57:43	2016-08-07 07:50:58
-103	0x67	g	3	3182522	hif	Hamaar naam Wang Jiaming hai.	\N	2014-04-16 17:02:00	2016-08-07 07:52:14
-104	0x68	h	33	3184114	hif	Kitnaa daam hai?	\N	2014-04-17 06:22:54	2016-08-07 07:51:01
-105	0x69	i	32	3182518	hif	Hamaar naam Sasha hai.	\N	2014-04-16 17:01:34	2016-08-07 07:53:04
+97	0x61	a	34	3184110	hif	Tumaar naam kaa hai?	\N	2014-04-17 06:21:27	2016-08-07 07:50:40
+98	0x62	b	6	3184157	hif	Tokyo bahut badaa shahar hai.	\N	2014-04-17 06:49:39	2016-08-07 07:52:18
+99	0x63	c	10	3184159	hif	Mumbai India ke Maharashtra state ke capital city hai.	\N	2014-04-17 06:51:10	2016-08-07 07:52:24
+100	0x64	d	13	3184153	hif	Rajendra Prasad India ke pahila President rahaa.	\N	2014-04-17 06:47:10	2016-08-07 07:52:20
+101	0x65	e	13	3182510	hif	Hamaar naam Andrea hai.	\N	2014-04-16 17:00:34	2016-08-07 07:52:55
+102	0x66	f	2	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
+103	0x67	g	3	3182496	hif	Aap English boltaa?	\N	2014-04-16 16:51:44	2016-08-07 07:50:59
+104	0x68	h	33	3182510	hif	Hamaar naam Andrea hai.	\N	2014-04-16 17:00:34	2016-08-07 07:52:55
+105	0x69	i	32	3184153	hif	Rajendra Prasad India ke pahila President rahaa.	\N	2014-04-17 06:47:10	2016-08-07 07:52:20
 106	0x6a	j	1	3184153	hif	Rajendra Prasad India ke pahila President rahaa.	\N	2014-04-17 06:47:10	2016-08-07 07:52:20
-107	0x6b	k	19	3184159	hif	Mumbai India ke Maharashtra state ke capital city hai.	\N	2014-04-17 06:51:10	2016-08-07 07:52:24
+107	0x6b	k	19	3184153	hif	Rajendra Prasad India ke pahila President rahaa.	\N	2014-04-17 06:47:10	2016-08-07 07:52:20
 108	0x6c	l	8	3184155	hif	India ke capital city New Delhi hai.	\N	2014-04-17 06:48:27	2016-08-07 07:52:21
-109	0x6d	m	20	3182518	hif	Hamaar naam Sasha hai.	\N	2014-04-16 17:01:34	2016-08-07 07:53:04
-110	0x6e	n	32	3182501	hif	Maaf karnaa.	\N	2014-04-16 16:57:43	2016-08-07 07:50:58
-111	0x6f	o	9	3182515	hif	Hamaar naam Ricardo hai.	\N	2014-04-16 17:01:18	2016-08-07 07:52:59
-112	0x70	p	10	3184165	hif	George Washington United States of America ke pahila President rahaa.	\N	2014-04-17 06:55:35	2016-08-07 07:52:44
-114	0x72	r	26	3182510	hif	Hamaar naam Andrea hai.	\N	2014-04-16 17:00:34	2016-08-07 07:52:55
-115	0x73	s	12	3182509	hif	Hamaar naam Hopkins hai.	\N	2014-04-16 17:00:26	2016-08-07 07:52:54
-116	0x74	t	12	3184153	hif	Rajendra Prasad India ke pahila President rahaa.	\N	2014-04-17 06:47:10	2016-08-07 07:52:20
-117	0x75	u	7	3184157	hif	Tokyo bahut badaa shahar hai.	\N	2014-04-17 06:49:39	2016-08-07 07:52:18
-119	0x77	w	2	3184155	hif	India ke capital city New Delhi hai.	\N	2014-04-17 06:48:27	2016-08-07 07:52:21
-121	0x79	y	7	3184159	hif	Mumbai India ke Maharashtra state ke capital city hai.	\N	2014-04-17 06:51:10	2016-08-07 07:52:24
+109	0x6d	m	20	3184114	hif	Kitnaa daam hai?	\N	2014-04-17 06:22:54	2016-08-07 07:51:01
+110	0x6e	n	32	3184163	hif	Berlin Germany ke capital city hai.	\N	2014-04-17 06:54:03	2016-08-07 07:52:19
+111	0x6f	o	9	3184156	hif	New York badaa shahar hai.	\N	2014-04-17 06:49:26	2016-08-07 07:52:15
+112	0x70	p	10	3182490	hif	Ek sau, dui sau, tin sau, chaar sau, paanch sau, chhe sau, saat sau, aath sau, nau sau, ek hazaar.	\N	2014-04-16 16:49:28	2016-08-07 07:52:45
+114	0x72	r	26	3182516	hif	Hamaar naam Sally hai.	\N	2014-04-16 17:01:24	2016-08-07 07:53:01
+115	0x73	s	12	3182511	hif	Hamaar naam Hashimoto hai.	\N	2014-04-16 17:00:42	2016-08-07 07:52:56
+116	0x74	t	12	3182511	hif	Hamaar naam Hashimoto hai.	\N	2014-04-16 17:00:42	2016-08-07 07:52:56
+117	0x75	u	7	3182490	hif	Ek sau, dui sau, tin sau, chaar sau, paanch sau, chhe sau, saat sau, aath sau, nau sau, ek hazaar.	\N	2014-04-16 16:49:28	2016-08-07 07:52:45
+119	0x77	w	2	3184156	hif	New York badaa shahar hai.	\N	2014-04-17 06:49:26	2016-08-07 07:52:15
+121	0x79	y	7	3182516	hif	Hamaar naam Sally hai.	\N	2014-04-16 17:01:24	2016-08-07 07:53:01
 122	0x7a	z	1	3182490	hif	Ek sau, dui sau, tin sau, chaar sau, paanch sau, chhe sau, saat sau, aath sau, nau sau, ek hazaar.	\N	2014-04-16 16:49:28	2016-08-07 07:52:45

@@ -1,23 +1,23 @@
-32	0x20	 	14	4042335	gil	E kabooa te raiti.	falekseev	2015-04-06 02:25:40	2015-10-18 17:47:46
+32	0x20	 	14	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08
 33	0x21	!	1	4010265	gil	Ko na mauri!	falekseev	2015-04-01 00:22:52	2015-10-18 17:47:36
 44	0x2c	,	1	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08
-46	0x2e	.	10	4042351	gil	E anganai te boki.	falekseev	2015-04-06 02:30:18	2015-10-18 17:47:07
-63	0x3f	?	3	4010273	gil	Ko rabakau n taetae ni Kiribati?	falekseev	2015-04-01 00:28:42	2015-10-18 17:47:26
-65	0x41	A	4	4042366	gil	A roko maiia?	falekseev	2015-04-06 02:49:12	2015-10-18 17:46:50
+46	0x2e	.	10	4042353	gil	E kanakoa te reta nakoiu.	falekseev	2015-04-06 02:31:32	2015-10-18 17:46:57
+63	0x3f	?	3	4042338	gil	Iai am moko?	falekseev	2015-04-06 02:26:32	2015-10-18 17:47:43
+65	0x41	A	4	4010268	gil	Arau Tim.	falekseev	2015-04-01 00:23:35	2015-10-18 17:47:32
 69	0x45	E	4	4042342	gil	E uraura te auti.	falekseev	2015-04-06 02:27:20	2015-10-18 17:47:17
 73	0x49	I	3	4010262	gil	I anganiko te boki.	falekseev	2015-04-01 00:19:59	2015-10-18 17:47:39
-75	0x4b	K	2	4010273	gil	Ko rabakau n taetae ni Kiribati?	falekseev	2015-04-01 00:28:42	2015-10-18 17:47:26
-84	0x54	T	3	4010268	gil	Arau Tim.	falekseev	2015-04-01 00:23:35	2015-10-18 17:47:32
-97	0x61	a	14	4010268	gil	Arau Tim.	falekseev	2015-04-01 00:23:35	2015-10-18 17:47:32
-98	0x62	b	8	4010271	gil	Taiaoka bwa I aki oota.	falekseev	2015-04-01 00:28:05	2015-10-18 17:47:29
-101	0x65	e	8	4042355	gil	A noora te kaibuke.	falekseev	2015-04-06 02:32:55	2015-10-18 17:46:38
-103	0x67	g	3	4042351	gil	E anganai te boki.	falekseev	2015-04-06 02:30:18	2015-10-18 17:47:07
-105	0x69	i	14	4042338	gil	Iai am moko?	falekseev	2015-04-06 02:26:32	2015-10-18 17:47:43
+75	0x4b	K	2	4010265	gil	Ko na mauri!	falekseev	2015-04-01 00:22:52	2015-10-18 17:47:36
+84	0x54	T	3	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08
+97	0x61	a	14	4042342	gil	E uraura te auti.	falekseev	2015-04-06 02:27:20	2015-10-18 17:47:17
+98	0x62	b	8	4010262	gil	I anganiko te boki.	falekseev	2015-04-01 00:19:59	2015-10-18 17:47:39
+101	0x65	e	8	4042342	gil	E uraura te auti.	falekseev	2015-04-06 02:27:20	2015-10-18 17:47:17
+103	0x67	g	3	4042346	gil	Aio rongorongon abau.	falekseev	2015-04-06 02:28:41	2015-10-18 17:47:14
+105	0x69	i	14	4010265	gil	Ko na mauri!	falekseev	2015-04-01 00:22:52	2015-10-18 17:47:36
 107	0x6b	k	9	4010271	gil	Taiaoka bwa I aki oota.	falekseev	2015-04-01 00:28:05	2015-10-18 17:47:29
-109	0x6d	m	5	4042338	gil	Iai am moko?	falekseev	2015-04-06 02:26:32	2015-10-18 17:47:43
-110	0x6e	n	8	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08
-111	0x6f	o	12	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08
-114	0x72	r	10	4042342	gil	E uraura te auti.	falekseev	2015-04-06 02:27:20	2015-10-18 17:47:17
-116	0x74	t	9	4042353	gil	E kanakoa te reta nakoiu.	falekseev	2015-04-06 02:31:32	2015-10-18 17:46:57
-117	0x75	u	8	4042353	gil	E kanakoa te reta nakoiu.	falekseev	2015-04-06 02:31:32	2015-10-18 17:46:57
-119	0x77	w	2	4010271	gil	Taiaoka bwa I aki oota.	falekseev	2015-04-01 00:28:05	2015-10-18 17:47:29
+109	0x6d	m	5	4042366	gil	A roko maiia?	falekseev	2015-04-06 02:49:12	2015-10-18 17:46:50
+110	0x6e	n	8	4042353	gil	E kanakoa te reta nakoiu.	falekseev	2015-04-06 02:31:32	2015-10-18 17:46:57
+111	0x6f	o	12	4010273	gil	Ko rabakau n taetae ni Kiribati?	falekseev	2015-04-01 00:28:42	2015-10-18 17:47:26
+114	0x72	r	10	4010265	gil	Ko na mauri!	falekseev	2015-04-01 00:22:52	2015-10-18 17:47:36
+116	0x74	t	9	4010262	gil	I anganiko te boki.	falekseev	2015-04-01 00:19:59	2015-10-18 17:47:39
+117	0x75	u	8	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08
+119	0x77	w	2	7918839	gil	Teuana, uoua, tenua, aua, nimaua, onoua, itua, wanua, ruaiwa, tebwina.	\N	2019-05-18 12:39:32	2020-04-02 18:32:08

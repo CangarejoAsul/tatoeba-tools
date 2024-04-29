@@ -1,9 +1,9 @@
-32	0x20	 	52	8868143	chn	yaka nanich hoolhool.	chinukman	2020-06-23 21:13:13	2020-06-23 21:13:34
-33	0x21	!	3	8868138	chn	munk-poo!	chinukman	2020-06-23 21:09:05	2020-06-23 21:26:57
-39	0x27	'	2	8948691	chn	Hayoo-mash pilpil Tam yaka tiyaa'wit.	chinukman	2020-07-29 23:37:01	2020-07-29 23:37:01
-44	0x2c	,	6	8948401	chn	Sami yaka wawa Leila pi Falit, tloosh mesaika chako naika hom.	chinukman	2020-07-29 21:27:41	2020-07-29 21:27:49
-45	0x2d	-	23	8950362	chn	weik saya kopit chikchik-chuḵ kol.	chinukman	2020-07-30 21:29:06	2020-07-30 21:29:06
-46	0x2e	.	45	8950368	chn	yaka patlach tiktik kopa yaka.	chinukman	2020-07-30 21:32:22	2020-07-30 21:32:22
+32	0x20	 	52	8948691	chn	Hayoo-mash pilpil Tam yaka tiyaa'wit.	chinukman	2020-07-29 23:37:01	2020-07-29 23:37:01
+33	0x21	!	3	8868150	chn	tloosh kamooks!	chinukman	2020-06-23 21:16:09	2020-06-23 21:16:19
+39	0x27	'	2	8948136	chn	naika kumtuks, nesaika mash-tumtum kopa tl'onas-ikta.	chinukman	2020-07-29 20:15:39	2020-07-29 20:15:39
+44	0x2c	,	6	8948136	chn	naika kumtuks, nesaika mash-tumtum kopa tl'onas-ikta.	chinukman	2020-07-29 20:15:39	2020-07-29 20:15:39
+45	0x2d	-	23	8868139	chn	heilo-soleks okok salt-chuḵ.	chinukman	2020-06-23 21:10:58	2020-06-23 21:12:14
+46	0x2e	.	45	8868192	chn	skookum yaka.	chinukman	2020-06-23 21:37:52	2020-06-23 21:38:00
 63	0x3f	?	2	8950363	chn	naika tumtum kakwa, kata weik nesaika nanich nesaika elip alta?	chinukman	2020-07-30 21:30:25	2020-07-30 21:30:25
 70	0x46	F	1	8948401	chn	Sami yaka wawa Leila pi Falit, tloosh mesaika chako naika hom.	chinukman	2020-07-29 21:27:41	2020-07-29 21:27:49
 72	0x48	H	1	8948691	chn	Hayoo-mash pilpil Tam yaka tiyaa'wit.	chinukman	2020-07-29 23:37:01	2020-07-29 23:37:01
@@ -12,23 +12,23 @@
 77	0x4d	M	1	8948690	chn	heilo man Meli.	chinukman	2020-07-29 23:36:01	2020-07-29 23:36:01
 83	0x53	S	1	8948401	chn	Sami yaka wawa Leila pi Falit, tloosh mesaika chako naika hom.	chinukman	2020-07-29 21:27:41	2020-07-29 21:27:49
 84	0x54	T	6	8948691	chn	Hayoo-mash pilpil Tam yaka tiyaa'wit.	chinukman	2020-07-29 23:37:01	2020-07-29 23:37:01
-97	0x61	a	52	8950367	chn	kanawei kultus.	chinukman	2020-07-30 21:32:00	2020-07-30 21:32:00
-98	0x62	b	3	8948100	chn	alta naika kimta-ats yaka tloosh kumtuks nanich buk	chinukman	2020-07-29 20:11:05	2020-07-29 20:11:05
-99	0x63	c	22	8948112	chn	shilo yaka tiki mukmuk pap-chuḵ.	chinukman	2020-07-29 20:12:18	2020-07-29 20:12:18
+97	0x61	a	52	8948139	chn	yaka mash yaka kapo.	chinukman	2020-07-29 20:15:59	2020-07-29 20:15:59
+98	0x62	b	3	8948534	chn	tanki sun naika hayoo-nanich buk pi naika tlatawa slip kopit kopa weik saya chi-sun.	chinukman	2020-07-29 22:34:01	2020-07-29 22:34:01
+99	0x63	c	22	8868153	chn	gol elip-hayas makook chikamin.	chinukman	2020-06-23 21:18:46	2020-06-23 21:25:43
 100	0x64	d	1	8868209	chn	delet chi-chako naika.	chinukman	2020-06-23 21:42:08	2020-06-23 21:42:14
-101	0x65	e	26	8948537	chn	Tam yaka tiki spos kanawei nanich yaka.	chinukman	2020-07-29 22:36:42	2020-07-29 22:36:42
+101	0x65	e	26	8948534	chn	tanki sun naika hayoo-nanich buk pi naika tlatawa slip kopit kopa weik saya chi-sun.	chinukman	2020-07-29 22:34:01	2020-07-29 22:34:01
 103	0x67	g	1	8868153	chn	gol elip-hayas makook chikamin.	chinukman	2020-06-23 21:18:46	2020-06-23 21:25:43
-104	0x68	h	39	8950371	chn	haaaayak yaka mamook kopit.	chinukman	2020-07-30 21:34:24	2020-07-30 21:34:24
-105	0x69	i	45	8868139	chn	heilo-soleks okok salt-chuḵ.	chinukman	2020-06-23 21:10:58	2020-06-23 21:12:14
-107	0x6b	k	50	8948539	chn	chako pipa kopa maika.	chinukman	2020-07-29 22:37:35	2020-07-29 22:37:35
-108	0x6c	l	34	8868140	chn	naika tiki salt-chuḵ.	chinukman	2020-06-23 21:11:37	2020-06-23 21:12:35
-109	0x6d	m	35	8948535	chn	alta kimta naika tlatawa-slip tintin.	chinukman	2020-07-29 22:34:44	2020-07-29 22:34:44
-110	0x6e	n	35	8948401	chn	Sami yaka wawa Leila pi Falit, tloosh mesaika chako naika hom.	chinukman	2020-07-29 21:27:41	2020-07-29 21:27:49
-111	0x6f	o	43	8868150	chn	tloosh kamooks!	chinukman	2020-06-23 21:16:09	2020-06-23 21:16:19
-112	0x70	p	28	8868224	chn	mama yaka makook-potlach tenas-kamooks kopa nesaika.	chinukman	2020-06-23 21:47:09	2020-06-23 21:47:16
-115	0x73	s	40	8950372	chn	nanich kakwa kultus okok.	chinukman	2020-07-30 21:34:40	2020-07-30 21:34:40
-116	0x74	t	40	8950366	chn	ata iht sunti kopa naika.	chinukman	2020-07-30 21:31:25	2020-07-30 21:31:25
-117	0x75	u	26	8948043	chn	weik naika nanich Tom kimta iht-sun tenas-sun.	chinukman	2020-07-29 19:52:29	2020-07-29 19:52:29
-119	0x77	w	16	8948401	chn	Sami yaka wawa Leila pi Falit, tloosh mesaika chako naika hom.	chinukman	2020-07-29 21:27:41	2020-07-29 21:27:49
-121	0x79	y	28	8948537	chn	Tam yaka tiki spos kanawei nanich yaka.	chinukman	2020-07-29 22:36:42	2020-07-29 22:36:42
-7733	0x1e35	ḵ	5	8868107	chn	chuḵ, masi.	chinukman	2020-06-23 20:51:33	2020-06-23 21:27:05
+104	0x68	h	39	8948401	chn	Sami yaka wawa Leila pi Falit, tloosh mesaika chako naika hom.	chinukman	2020-07-29 21:27:41	2020-07-29 21:27:49
+105	0x69	i	45	8948685	chn	heilo ilipita.	chinukman	2020-07-29 23:32:48	2020-07-29 23:32:48
+107	0x6b	k	50	8950362	chn	weik saya kopit chikchik-chuḵ kol.	chinukman	2020-07-30 21:29:06	2020-07-30 21:29:06
+108	0x6c	l	34	8868199	chn	tolo naika?	chinukman	2020-06-23 21:39:11	2020-06-23 21:39:17
+109	0x6d	m	35	8948043	chn	weik naika nanich Tom kimta iht-sun tenas-sun.	chinukman	2020-07-29 19:52:29	2020-07-29 19:52:29
+110	0x6e	n	35	8950372	chn	nanich kakwa kultus okok.	chinukman	2020-07-30 21:34:40	2020-07-30 21:34:40
+111	0x6f	o	43	8948120	chn	hayas shem naika kopa naika mamook.	chinukman	2020-07-29 20:13:10	2020-07-29 20:13:10
+112	0x70	p	28	8948537	chn	Tam yaka tiki spos kanawei nanich yaka.	chinukman	2020-07-29 22:36:42	2020-07-29 22:36:42
+115	0x73	s	40	8948687	chn	okok taiyi kopa nesaika.	chinukman	2020-07-29 23:33:43	2020-07-29 23:33:43
+116	0x74	t	40	8948541	chn	elip naika nanich Tam, naika tumtum weik Tam yaka man, Tam yaka tenas-tloochman.	chinukman	2020-07-29 22:39:26	2020-07-29 22:39:26
+117	0x75	u	26	8948112	chn	shilo yaka tiki mukmuk pap-chuḵ.	chinukman	2020-07-29 20:12:18	2020-07-29 20:12:18
+119	0x77	w	16	8948043	chn	weik naika nanich Tom kimta iht-sun tenas-sun.	chinukman	2020-07-29 19:52:29	2020-07-29 19:52:29
+121	0x79	y	28	8950370	chn	yakwa Tam yaka kamooks.	chinukman	2020-07-30 21:33:15	2020-07-30 21:33:15
+7733	0x1e35	ḵ	5	8868140	chn	naika tiki salt-chuḵ.	chinukman	2020-06-23 21:11:37	2020-06-23 21:12:35

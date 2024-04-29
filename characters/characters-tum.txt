@@ -1,53 +1,53 @@
-32	0x20	 	94	11900268	tum	Mungakanigulilako vinthu?	Tumbuka_Arch	2023-07-02 19:13:55	2023-07-02 19:13:55
+32	0x20	 	94	11680885	tum	Mtima wambula kugowokela mnyako nguwemi yayi.	Tumbuka_Arch	2023-04-14 10:11:18	2023-04-14 10:11:25
 33	0x21	!	1	11900270	tum	Nitumilanipo vinyake!	Tumbuka_Arch	2023-07-02 19:15:20	2023-07-02 19:15:20
 39	0x27	'	1	11680964	tum	Mnung'una wane ngwambula ulemu.	Tumbuka_Arch	2023-04-14 10:25:36	2023-04-14 10:25:42
-44	0x2c	,	7	11900399	tum	Pala ukulya chomene, uzamututuŵa.	Tumbuka_Arch	2023-07-02 19:59:12	2023-07-02 20:00:24
+44	0x2c	,	7	11900431	tum	Ni viwemi, kwene viŵemi chomene yayi.	Tumbuka_Arch	2023-07-02 20:12:14	2023-07-02 20:12:44
 45	0x2d	-	1	11900432	tum	Tom wana mize-yachanalume panthumbo.	Tumbuka_Arch	2023-07-02 20:13:54	2023-07-02 20:13:54
-46	0x2e	.	78	11612786	tum	Leka kuchita ivi.	Tumbuka_Arch	2023-03-21 17:31:49	2023-03-21 17:33:08
-63	0x3f	?	15	11900138	tum	Munganipako mboholi zakotcha mumalo mwa tchipisi, chonde?	Tumbuka_Arch	2023-07-02 17:46:43	2023-07-02 17:46:43
+46	0x2e	.	78	11680951	tum	Iye ni munthu wa sanje chomene.	Tumbuka_Arch	2023-04-14 10:24:19	2023-04-14 10:24:29
+63	0x3f	?	15	11900272	tum	Kasi mungaona umo matayala ghakhutila?	Tumbuka_Arch	2023-07-02 19:16:58	2023-07-02 19:16:58
 65	0x41	A	2	11680930	tum	Aliska ŵakatipempha kuti tizayamule ma baibolo sabata ikwiza.	Tumbuka_Arch	2023-04-14 10:18:16	2023-04-14 10:18:23
 66	0x42	B	3	11680852	tum	Bala ndakovwila mu thupi lamunthu.	Tumbuka_Arch	2023-04-14 10:06:11	2023-04-14 10:06:46
 67	0x43	C	11	11680943	tum	Baibolo ni mazgu ghakufumila pamulomo wa Chiuta.	Tumbuka_Arch	2023-04-14 10:22:39	2023-04-14 10:22:59
 69	0x45	E	1	11680979	tum	Matenda gha Edesi ngakuchizgika yayi.	Tumbuka_Arch	2023-04-14 10:27:41	2023-04-14 10:27:52
 70	0x46	F	1	11680970	tum	Fesibuku ni malo ghakutumilapo uthenga na kuchezga na ŵazengezgani.	Tumbuka_Arch	2023-04-14 10:26:30	2023-04-14 10:26:42
 71	0x47	G	1	11612768	tum	Galimoto iyi njakutowa.	Tumbuka_Arch	2023-03-21 17:26:39	2023-03-21 17:26:47
-73	0x49	I	4	11612765	tum	Iyo wakakhumbanga yayi kuŵa mama.	Tumbuka_Arch	2023-03-21 17:25:56	2023-04-09 17:07:20
-75	0x4b	K	9	11900272	tum	Kasi mungaona umo matayala ghakhutila?	Tumbuka_Arch	2023-07-02 19:16:58	2023-07-02 19:16:58
-76	0x4c	L	3	11607580	tum	Leka kudandaula chilichose.	Tumbuka_Arch	2023-03-20 06:22:17	2023-03-21 17:25:23
-77	0x4d	M	27	11680854	tum	Msungwana uyu walije ulemu kwa anyina.	Tumbuka_Arch	2023-04-14 10:07:50	2023-04-14 10:08:00
-78	0x4e	N	23	11607574	tum	Navuka chomene.	Tumbuka_Arch	2023-03-20 06:17:12	2023-03-20 06:17:26
+73	0x49	I	4	11680951	tum	Iye ni munthu wa sanje chomene.	Tumbuka_Arch	2023-04-14 10:24:19	2023-04-14 10:24:29
+75	0x4b	K	9	11680944	tum	Zinde zinandi zikulimika ku Karonga.	Tumbuka_Arch	2023-04-14 10:23:22	2023-04-14 10:23:28
+76	0x4c	L	3	11612786	tum	Leka kuchita ivi.	Tumbuka_Arch	2023-03-21 17:31:49	2023-03-21 17:33:08
+77	0x4d	M	27	11681000	tum	Mwahuno mpha Chinkhondi.	Tumbuka_Arch	2023-04-14 10:30:28	2023-04-14 10:30:36
+78	0x4e	N	23	11900270	tum	Nitumilanipo vinyake!	Tumbuka_Arch	2023-07-02 19:15:20	2023-07-02 19:15:20
 79	0x4f	O	1	11900307	tum	Oho, mwaphaska.	Tumbuka_Arch	2023-07-02 19:36:24	2023-07-02 19:36:24
 80	0x50	P	1	11900399	tum	Pala ukulya chomene, uzamututuŵa.	Tumbuka_Arch	2023-07-02 19:59:12	2023-07-02 20:00:24
 82	0x52	R	1	11680985	tum	Boma la Rumphi ndilo likuyowoya ChiTumbuka cheneko.	Tumbuka_Arch	2023-04-14 10:28:31	2023-04-14 10:28:43
 83	0x53	S	2	11680934	tum	Sabata ikwiza kwizenge vula.	Tumbuka_Arch	2023-04-14 10:19:05	2023-04-14 10:19:33
-84	0x54	T	8	12015010	tum	Nkhugwilila ntchito Thomasi chala.	Tumbuka_Arch	2023-08-25 10:01:22	2023-08-25 10:01:22
-85	0x55	U	4	11607582	tum	Umoyo nguwemi.	Tumbuka_Arch	2023-03-20 06:23:26	2023-03-20 06:23:52
+84	0x54	T	8	11680985	tum	Boma la Rumphi ndilo likuyowoya ChiTumbuka cheneko.	Tumbuka_Arch	2023-04-14 10:28:31	2023-04-14 10:28:43
+85	0x55	U	4	11607577	tum	Umoyo ngwakusuzga.	Tumbuka_Arch	2023-03-20 06:19:35	2023-03-21 19:39:23
 86	0x56	V	1	11900383	tum	Vinyama ni vinyithu.	Tumbuka_Arch	2023-07-02 19:53:16	2023-07-02 19:53:16
 89	0x59	Y	1	11900331	tum	Nkhumanya kuti ni vyakulya vyachi Yuda yayi.	Tumbuka_Arch	2023-07-02 19:43:46	2023-07-02 19:43:46
-90	0x5a	Z	3	11680872	tum	Zina lane ndakutembeka, antheula, ningalizunula yayi.	Tumbuka_Arch	2023-04-14 10:10:05	2023-04-14 10:10:50
-97	0x61	a	92	11680942	tum	Ŵapapi ŵithu ŵakatilwela nkhondo kuti tiŵe na ufulu uwu tilinawo.	Tumbuka_Arch	2023-04-14 10:21:58	2023-04-14 10:22:07
-98	0x62	b	28	11607572	tum	Sukulu njiwemi, limbikila chomene.	Tumbuka_Arch	2023-03-20 06:14:49	2023-03-20 06:15:44
-99	0x63	c	37	11680951	tum	Iye ni munthu wa sanje chomene.	Tumbuka_Arch	2023-04-14 10:24:19	2023-04-14 10:24:29
-100	0x64	d	29	11900124	tum	Munganilekelako vikondamoyo vichoko waka?	Tumbuka_Arch	2023-07-02 17:43:14	2023-07-02 17:43:23
-101	0x65	e	64	11680850	tum	Mwanakazi wa ulemu wakukondweska mwanalume wake.	Tumbuka_Arch	2023-04-14 10:05:47	2023-04-14 10:06:39
-102	0x66	f	7	11900392	tum	Ningatemwa kufwa kuluska kuleka.	Tumbuka_Arch	2023-07-02 19:57:10	2023-07-02 19:58:14
-103	0x67	g	38	11900272	tum	Kasi mungaona umo matayala ghakhutila?	Tumbuka_Arch	2023-07-02 19:16:58	2023-07-02 19:16:58
-104	0x68	h	68	11607579	tum	Nkhukutemwa chomene na mtima wane wose.	Tumbuka_Arch	2023-03-20 06:20:30	2023-04-14 10:04:12
-105	0x69	i	85	11900388	tum	Kukuwa vula inandi yayi chaka ichi.	Tumbuka_Arch	2023-07-02 19:55:46	2023-07-02 19:55:46
+90	0x5a	Z	3	11680944	tum	Zinde zinandi zikulimika ku Karonga.	Tumbuka_Arch	2023-04-14 10:23:22	2023-04-14 10:23:28
+97	0x61	a	92	11900266	tum	Chonde uskanipo zina lane pa mndandanda winu wakutumizga mauthenga.	Tumbuka_Arch	2023-07-02 19:12:55	2023-07-02 19:12:55
+98	0x62	b	28	11900358	tum	Kasi ningabwelekako nyondo yinu?	Tumbuka_Arch	2023-07-02 19:48:29	2023-07-02 19:48:29
+99	0x63	c	37	11900352	tum	Kasi mukalekelachi kuzgola?	Tumbuka_Arch	2023-07-02 19:46:48	2023-07-02 19:47:33
+100	0x64	d	29	11680958	tum	Iwo ŵakatolana pa Chinkhondi sabata yamala.	Tumbuka_Arch	2023-04-14 10:25:03	2023-04-14 10:25:08
+101	0x65	e	64	11900349	tum	Nyimbu ni vibenene.	Tumbuka_Arch	2023-07-02 19:46:12	2023-07-02 19:46:12
+102	0x66	f	7	11680942	tum	Ŵapapi ŵithu ŵakatilwela nkhondo kuti tiŵe na ufulu uwu tilinawo.	Tumbuka_Arch	2023-04-14 10:21:58	2023-04-14 10:22:07
+103	0x67	g	38	11680979	tum	Matenda gha Edesi ngakuchizgika yayi.	Tumbuka_Arch	2023-04-14 10:27:41	2023-04-14 10:27:52
+104	0x68	h	68	11900310	tum	Navuka kumunozgela vinthu vinu.	Tumbuka_Arch	2023-07-02 19:38:57	2023-07-02 19:38:57
+105	0x69	i	85	11900302	tum	Maliya wakavwala dilesi lambula vingwe.	Tumbuka_Arch	2023-07-02 19:34:30	2023-07-02 19:34:30
 106	0x6a	j	8	11680951	tum	Iye ni munthu wa sanje chomene.	Tumbuka_Arch	2023-04-14 10:24:19	2023-04-14 10:24:29
-107	0x6b	k	79	11680910	tum	Mwana wambula ulemu wakukhozga soni ŵapapi ŵake.	Tumbuka_Arch	2023-04-14 10:13:36	2023-04-14 10:13:48
-108	0x6c	l	67	11680917	tum	Amama ŵaluta ku chigayo.	Tumbuka_Arch	2023-04-14 10:14:26	2023-04-14 10:14:38
-109	0x6d	m	77	11900272	tum	Kasi mungaona umo matayala ghakhutila?	Tumbuka_Arch	2023-07-02 19:16:58	2023-07-02 19:16:58
-110	0x6e	n	83	11680948	tum	Iye wakanikanila kunibweleka phesulu lake.	Tumbuka_Arch	2023-04-14 10:24:00	2023-04-14 10:24:05
-111	0x6f	o	69	11680943	tum	Baibolo ni mazgu ghakufumila pamulomo wa Chiuta.	Tumbuka_Arch	2023-04-14 10:22:39	2023-04-14 10:22:59
-112	0x70	p	29	11900432	tum	Tom wana mize-yachanalume panthumbo.	Tumbuka_Arch	2023-07-02 20:13:54	2023-07-02 20:13:54
-114	0x72	r	4	11680926	tum	Malaŵi ntcharu icho china nyanja.	Tumbuka_Arch	2023-04-14 10:15:24	2023-04-14 10:15:31
-115	0x73	s	39	11900358	tum	Kasi ningabwelekako nyondo yinu?	Tumbuka_Arch	2023-07-02 19:48:29	2023-07-02 19:48:29
-116	0x74	t	55	11612786	tum	Leka kuchita ivi.	Tumbuka_Arch	2023-03-21 17:31:49	2023-03-21 17:33:08
-117	0x75	u	90	11680850	tum	Mwanakazi wa ulemu wakukondweska mwanalume wake.	Tumbuka_Arch	2023-04-14 10:05:47	2023-04-14 10:06:39
-118	0x76	v	21	11900301	tum	Maliya wakavwala dilesi lambula vingwe pakuluta ku phwando.	Tumbuka_Arch	2023-07-02 19:33:39	2023-07-02 19:34:41
-119	0x77	w	59	11900388	tum	Kukuwa vula inandi yayi chaka ichi.	Tumbuka_Arch	2023-07-02 19:55:46	2023-07-02 19:55:46
-121	0x79	y	53	11680979	tum	Matenda gha Edesi ngakuchizgika yayi.	Tumbuka_Arch	2023-04-14 10:27:41	2023-04-14 10:27:52
-122	0x7a	z	27	11680944	tum	Zinde zinandi zikulimika ku Karonga.	Tumbuka_Arch	2023-04-14 10:23:22	2023-04-14 10:23:28
+107	0x6b	k	79	11900331	tum	Nkhumanya kuti ni vyakulya vyachi Yuda yayi.	Tumbuka_Arch	2023-07-02 19:43:46	2023-07-02 19:43:46
+108	0x6c	l	67	12015009	tum	Nkhuseŵezela Thomasi chala.	Tumbuka_Arch	2023-08-25 10:00:24	2023-08-25 10:00:43
+109	0x6d	m	77	11680944	tum	Zinde zinandi zikulimika ku Karonga.	Tumbuka_Arch	2023-04-14 10:23:22	2023-04-14 10:23:28
+110	0x6e	n	83	11612777	tum	Nichali mdoko dankha.	Tumbuka_Arch	2023-03-21 17:28:32	2023-04-14 10:03:40
+111	0x6f	o	69	11612779	tum	Mwahuno kwaotcha chomene.	Tumbuka_Arch	2023-03-21 17:30:07	2023-03-21 17:30:16
+112	0x70	p	29	11680852	tum	Bala ndakovwila mu thupi lamunthu.	Tumbuka_Arch	2023-04-14 10:06:11	2023-04-14 10:06:46
+114	0x72	r	4	11900426	tum	Nkhamanya kuti ni uryarya.	Tumbuka_Arch	2023-07-02 20:09:17	2023-07-02 20:09:17
+115	0x73	s	39	11900143	tum	Chonde nipasilaniko kapu wa tiyi.	Tumbuka_Arch	2023-07-02 17:48:07	2023-07-02 17:48:07
+116	0x74	t	55	11900387	tum	Chonde thililani maluŵa.	Tumbuka_Arch	2023-07-02 19:55:10	2023-07-02 19:55:10
+117	0x75	u	90	11612782	tum	Munthu waliyose wana ufulu.	Tumbuka_Arch	2023-03-21 17:30:48	2023-04-14 10:02:37
+118	0x76	v	21	11900302	tum	Maliya wakavwala dilesi lambula vingwe.	Tumbuka_Arch	2023-07-02 19:34:30	2023-07-02 19:34:30
+119	0x77	w	59	11900322	tum	Nkhusambilila viyowoyelo viŵili vyachilendo.	Tumbuka_Arch	2023-07-02 19:41:30	2023-07-02 19:41:30
+121	0x79	y	53	11900308	tum	Ntchifukwa uli mwayimiska ŵamwiza ŵekha?	Tumbuka_Arch	2023-07-02 19:37:20	2023-07-02 19:37:20
+122	0x7a	z	27	11607345	tum	Uyu ni mvyala wane uyo wakutemwa kulya vinanazi.	Tumbuka_Arch	2023-03-19 23:20:00	2023-03-19 23:27:43
 372	0x174	Ŵ	1	11680942	tum	Ŵapapi ŵithu ŵakatilwela nkhondo kuti tiŵe na ufulu uwu tilinawo.	Tumbuka_Arch	2023-04-14 10:21:58	2023-04-14 10:22:07
-373	0x175	ŵ	21	11900305	tum	Tom wakaŵa kuchanya.	Tumbuka_Arch	2023-07-02 19:35:50	2023-07-02 19:35:50
+373	0x175	ŵ	21	11680942	tum	Ŵapapi ŵithu ŵakatilwela nkhondo kuti tiŵe na ufulu uwu tilinawo.	Tumbuka_Arch	2023-04-14 10:21:58	2023-04-14 10:22:07

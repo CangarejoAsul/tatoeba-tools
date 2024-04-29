@@ -1,10 +1,10 @@
-32	0x20	 	34	5712108	jam	Hungry have mi!	Kyle	2016-12-27 18:36:13	2016-12-27 18:36:41
-33	0x21	!	6	5711821	jam	Merri Crissmuss!	Kyle	2016-12-27 16:00:17	2016-12-27 16:01:29
-44	0x2c	,	2	5712235	jam	No, mi nuh hab it.	Kyle	2016-12-27 19:03:03	2016-12-27 19:03:24
-46	0x2e	.	15	5712235	jam	No, mi nuh hab it.	Kyle	2016-12-27 19:03:03	2016-12-27 19:03:24
+32	0x20	 	34	10933788	jam	ano ongl di fos leta fi di alfabet bot ikyaa nof nof impuotans wid wuolip a yuus. Ih likl bot ih talawa	attachouallah	2022-06-24 04:49:04	2022-06-24 04:49:04
+33	0x21	!	6	5710337	jam	Mi gaan, Sayoko!	Kyle	2016-12-27 08:43:25	2016-12-27 08:44:39
+44	0x2c	,	2	5710337	jam	Mi gaan, Sayoko!	Kyle	2016-12-27 08:43:25	2016-12-27 08:44:39
+46	0x2e	.	15	5712214	jam	Mi a 19.	Kyle	2016-12-27 18:56:32	2016-12-27 18:56:54
 48	0x30	0	1	5712210	jam	Tom a 30.	Kyle	2016-12-27 18:55:07	2016-12-27 18:55:22
-49	0x31	1	3	5712214	jam	Mi a 19.	Kyle	2016-12-27 18:56:32	2016-12-27 18:56:54
-50	0x32	2	3	5712218	jam	Mi a 12.	Kyle	2016-12-27 18:58:39	2016-12-27 18:58:50
+49	0x31	1	3	5712171	jam	Mi a 18.	Kyle	2016-12-27 18:51:42	2016-12-27 18:52:28
+50	0x32	2	3	5712168	jam	Mi a 24.	Kyle	2016-12-27 18:51:25	2016-12-27 18:52:18
 51	0x33	3	1	5712210	jam	Tom a 30.	Kyle	2016-12-27 18:55:07	2016-12-27 18:55:22
 52	0x34	4	1	5712168	jam	Mi a 24.	Kyle	2016-12-27 18:51:25	2016-12-27 18:52:18
 53	0x35	5	1	5712194	jam	Mi a 25.	Kyle	2016-12-27 18:53:32	2016-12-27 18:54:48
@@ -12,35 +12,35 @@
 57	0x39	9	1	5712214	jam	Mi a 19.	Kyle	2016-12-27 18:56:32	2016-12-27 18:56:54
 63	0x3f	?	7	10933747	jam	a huufa?	attachouallah	2022-06-24 04:46:49	2022-06-24 04:46:49
 67	0x43	C	2	5711821	jam	Merri Crissmuss!	Kyle	2016-12-27 16:00:17	2016-12-27 16:01:29
-71	0x47	G	3	5710321	jam	Gud Mawnin.	Kyle	2016-12-27 08:34:41	2016-12-27 08:36:22
+71	0x47	G	3	5710320	jam	Gud Mawnin!	Kyle	2016-12-27 08:34:18	2016-12-27 08:36:07
 72	0x48	H	2	5711836	jam	How yuh duh?	Kyle	2016-12-27 16:13:40	2016-12-27 18:34:43
 73	0x49	I	1	10933788	jam	ano ongl di fos leta fi di alfabet bot ikyaa nof nof impuotans wid wuolip a yuus. Ih likl bot ih talawa	attachouallah	2022-06-24 04:49:04	2022-06-24 04:49:04
-77	0x4d	M	15	5711821	jam	Merri Crissmuss!	Kyle	2016-12-27 16:00:17	2016-12-27 16:01:29
+77	0x4d	M	15	5710337	jam	Mi gaan, Sayoko!	Kyle	2016-12-27 08:43:25	2016-12-27 08:44:39
 78	0x4e	N	1	5712235	jam	No, mi nuh hab it.	Kyle	2016-12-27 19:03:03	2016-12-27 19:03:24
 83	0x53	S	1	5710337	jam	Mi gaan, Sayoko!	Kyle	2016-12-27 08:43:25	2016-12-27 08:44:39
 84	0x54	T	2	5712210	jam	Tom a 30.	Kyle	2016-12-27 18:55:07	2016-12-27 18:55:22
 87	0x57	W	4	5712086	jam	Wah yuh muma name?	Kyle	2016-12-27 18:29:41	2016-12-27 18:29:59
 89	0x59	Y	1	5712241	jam	Yuh nyam too much.	Kyle	2016-12-27 19:07:16	2016-12-27 19:07:43
-97	0x61	a	29	5711823	jam	Mi deh wish yuh a Merri Crissmuss.	Kyle	2016-12-27 16:00:51	2016-12-27 16:01:17
-98	0x62	b	6	10933706	jam	mi a di boss	attachouallah	2022-06-24 04:44:48	2022-06-24 04:44:48
+97	0x61	a	29	10933716	jam	tumatis a riili fruut	attachouallah	2022-06-24 04:45:18	2022-06-24 04:45:18
+98	0x62	b	6	10933760	jam	yuuz fi mek advoerb azwel	attachouallah	2022-06-24 04:47:30	2022-06-24 04:47:30
 99	0x63	c	1	5712241	jam	Yuh nyam too much.	Kyle	2016-12-27 19:07:16	2016-12-27 19:07:43
-100	0x64	d	13	5710320	jam	Gud Mawnin!	Kyle	2016-12-27 08:34:18	2016-12-27 08:36:07
+100	0x64	d	13	5712253	jam	Tom dehyah?	Kyle	2016-12-27 19:12:17	2016-12-27 19:12:34
 101	0x65	e	13	10933739	jam	a nof a dem dide	attachouallah	2022-06-24 04:46:25	2022-06-24 04:46:25
-102	0x66	f	7	10933747	jam	a huufa?	attachouallah	2022-06-24 04:46:49	2022-06-24 04:46:49
-103	0x67	g	5	5712108	jam	Hungry have mi!	Kyle	2016-12-27 18:36:13	2016-12-27 18:36:41
+102	0x66	f	7	10933716	jam	tumatis a riili fruut	attachouallah	2022-06-24 04:45:18	2022-06-24 04:45:18
+103	0x67	g	5	10933788	jam	ano ongl di fos leta fi di alfabet bot ikyaa nof nof impuotans wid wuolip a yuus. Ih likl bot ih talawa	attachouallah	2022-06-24 04:49:04	2022-06-24 04:49:04
 104	0x68	h	15	5711823	jam	Mi deh wish yuh a Merri Crissmuss.	Kyle	2016-12-27 16:00:51	2016-12-27 16:01:17
-105	0x69	i	27	10933716	jam	tumatis a riili fruut	attachouallah	2022-06-24 04:45:18	2022-06-24 04:45:18
+105	0x69	i	27	5712168	jam	Mi a 24.	Kyle	2016-12-27 18:51:25	2016-12-27 18:52:18
 107	0x6b	k	3	5710337	jam	Mi gaan, Sayoko!	Kyle	2016-12-27 08:43:25	2016-12-27 08:44:39
-108	0x6c	l	7	10933729	jam	briiz a bluo	attachouallah	2022-06-24 04:45:57	2022-06-24 04:45:57
-109	0x6d	m	16	10933739	jam	a nof a dem dide	attachouallah	2022-06-24 04:46:25	2022-06-24 04:46:25
-110	0x6e	n	16	5710336	jam	Mi gaan.	Kyle	2016-12-27 08:42:53	2016-12-27 08:44:50
-111	0x6f	o	13	5712253	jam	Tom dehyah?	Kyle	2016-12-27 19:12:17	2016-12-27 19:12:34
+108	0x6c	l	7	10933723	jam	rien a fall	attachouallah	2022-06-24 04:45:37	2022-06-24 04:45:37
+109	0x6d	m	16	5712108	jam	Hungry have mi!	Kyle	2016-12-27 18:36:13	2016-12-27 18:36:41
+110	0x6e	n	16	5710335	jam	Mi gaan!	Kyle	2016-12-27 08:42:13	2016-12-27 08:45:00
+111	0x6f	o	13	10933739	jam	a nof a dem dide	attachouallah	2022-06-24 04:46:25	2022-06-24 04:46:25
 112	0x70	p	1	10933788	jam	ano ongl di fos leta fi di alfabet bot ikyaa nof nof impuotans wid wuolip a yuus. Ih likl bot ih talawa	attachouallah	2022-06-24 04:49:04	2022-06-24 04:49:04
 114	0x72	r	7	10933723	jam	rien a fall	attachouallah	2022-06-24 04:45:37	2022-06-24 04:45:37
-115	0x73	s	5	5711821	jam	Merri Crissmuss!	Kyle	2016-12-27 16:00:17	2016-12-27 16:01:29
-116	0x74	t	5	5712241	jam	Yuh nyam too much.	Kyle	2016-12-27 19:07:16	2016-12-27 19:07:43
-117	0x75	u	19	5712235	jam	No, mi nuh hab it.	Kyle	2016-12-27 19:03:03	2016-12-27 19:03:24
+115	0x73	s	5	5711823	jam	Mi deh wish yuh a Merri Crissmuss.	Kyle	2016-12-27 16:00:51	2016-12-27 16:01:17
+116	0x74	t	5	5712235	jam	No, mi nuh hab it.	Kyle	2016-12-27 19:03:03	2016-12-27 19:03:24
+117	0x75	u	19	5712234	jam	Mi nuh hab it.	Kyle	2016-12-27 19:02:43	2016-12-27 19:03:33
 118	0x76	v	3	5711829	jam	Mi luv yuh!	Kyle	2016-12-27 16:07:14	2016-12-27 16:09:36
-119	0x77	w	6	10933788	jam	ano ongl di fos leta fi di alfabet bot ikyaa nof nof impuotans wid wuolip a yuus. Ih likl bot ih talawa	attachouallah	2022-06-24 04:49:04	2022-06-24 04:49:04
-121	0x79	y	13	10933760	jam	yuuz fi mek advoerb azwel	attachouallah	2022-06-24 04:47:30	2022-06-24 04:47:30
-122	0x7a	z	2	10933729	jam	briiz a bluo	attachouallah	2022-06-24 04:45:57	2022-06-24 04:45:57
+119	0x77	w	6	5710321	jam	Gud Mawnin.	Kyle	2016-12-27 08:34:41	2016-12-27 08:36:22
+121	0x79	y	13	5711836	jam	How yuh duh?	Kyle	2016-12-27 16:13:40	2016-12-27 18:34:43
+122	0x7a	z	2	10933760	jam	yuuz fi mek advoerb azwel	attachouallah	2022-06-24 04:47:30	2022-06-24 04:47:30

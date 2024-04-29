@@ -1,55 +1,55 @@
-32	0x20	 	78	7550854	pap	Ki ora?	\N	2018-12-02 16:15:18	2018-12-20 09:57:53
-33	0x21	!	13	9862475	pap	Misericordia!	iStudLion	2021-03-23 00:15:48	2021-03-23 00:15:48
-39	0x27	'	5	9862502	pap	Bo kier alg'i bebe?	iStudLion	2021-03-23 00:18:13	2021-03-23 00:18:13
-44	0x2c	,	2	7550873	pap	Zero, unu, dos, tres, kwater, sinku, seis, shete, ocho, nuebe, dies.	\N	2018-12-02 16:25:02	2018-12-20 09:57:25
+32	0x20	 	78	4657352	pap	Por fabor!	Ricardo14	2015-10-31 00:48:52	2015-10-31 00:48:59
+33	0x21	!	13	4657353	pap	Mi ta stima bo!	Ricardo14	2015-10-31 00:51:03	2015-10-31 00:51:11
+39	0x27	'	5	9862545	pap	Cuant'or tin?	iStudLion	2021-03-23 00:22:48	2021-03-23 00:22:48
+44	0x2c	,	2	7550872	pap	Unu, dos, tres, kwater, sinku, seis, shete, ocho, nuebe, dies.	\N	2018-12-02 16:24:56	2018-12-20 09:57:40
 45	0x2d	-	1	5371110	pap	Teritorio di Pais Kòrsou ta konsistí di e islanan Kòrsou i Klein-Curaçao.	paulosilas	2016-08-25 20:25:04	2016-08-25 20:25:04
-46	0x2e	.	48	7550770	pap	Mi ta gusta bo.	\N	2018-12-02 15:43:00	2018-12-20 09:58:17
-63	0x3f	?	28	7550742	pap	Bo ta kasá?	\N	2018-12-02 15:31:58	2018-12-20 09:57:55
-65	0x41	A	3	5414280	pap	Papiamento ta un lenga oficial na Aruba.	paulosilas	2016-09-08 03:22:55	2016-09-08 03:22:55
-66	0x42	B	24	9862455	pap	Bonbini.	iStudLion	2021-03-23 00:13:27	2021-03-23 00:13:27
-67	0x43	C	5	7550844	pap	Con ta bai?	\N	2018-12-02 16:10:46	2018-12-20 09:57:58
-68	0x44	D	3	5371085	pap	Derecho di outodeterminashon di pueblo di Kòrsou ta apsoluto i intransferibel.	paulosilas	2016-08-25 20:14:03	2016-08-25 20:17:13
-69	0x45	E	4	6105848	pap	E kuminda ta dushi.	paulosilas	2017-05-26 23:09:50	\N
+46	0x2e	.	48	9862566	pap	Esey ta bon.	iStudLion	2021-03-23 00:24:17	2021-03-23 00:24:17
+63	0x3f	?	28	9845884	pap	Kiko ta e libertat?	\N	2021-03-16 10:44:36	2021-05-10 07:00:47
+65	0x41	A	3	6105837	pap	Ayo!	paulosilas	2017-05-26 23:06:54	\N
+66	0x42	B	24	9862410	pap	Bonbini!	iStudLion	2021-03-23 00:07:13	2023-04-03 09:26:43
+67	0x43	C	5	9862487	pap	Cuanto?	iStudLion	2021-03-23 00:17:02	2021-03-23 00:17:02
+68	0x44	D	3	4657351	pap	Danki!	Ricardo14	2015-10-31 00:46:12	2015-10-31 00:46:23
+69	0x45	E	4	7550920	pap	E ta posibel.	\N	2018-12-02 16:37:42	2018-12-20 09:58:31
 70	0x46	F	2	7550826	pap	Felis dia di San Valentin.	\N	2018-12-02 16:04:37	2018-12-20 09:56:58
 72	0x48	H	1	9862459	pap	Halo.	iStudLion	2021-03-23 00:13:47	2021-03-23 00:13:47
-75	0x4b	K	15	9862529	pap	Kico ta libertad?	iStudLion	2021-03-23 00:21:08	2021-03-23 00:21:08
+75	0x4b	K	15	7550802	pap	Kiko bo ta bai hasi awe?	\N	2018-12-02 15:53:59	2018-12-20 09:57:59
 76	0x4c	L	1	4657354	pap	Laga nos ban sali!	Ricardo14	2015-10-31 00:52:21	2015-10-31 00:52:27
-77	0x4d	M	21	7550760	pap	Mi ta yama bo mañan.	\N	2018-12-02 15:39:53	2018-12-20 09:57:24
+77	0x4d	M	21	4657353	pap	Mi ta stima bo!	Ricardo14	2015-10-31 00:51:03	2015-10-31 00:51:11
 78	0x4e	N	1	7550852	pap	No.	\N	2018-12-02 16:13:38	2018-12-20 09:56:57
-80	0x50	P	10	9862528	pap	Pocopoco y semper!	iStudLion	2021-03-23 00:20:58	2021-03-23 00:20:58
-83	0x53	S	4	9862495	pap	Stima 'bo.	iStudLion	2021-03-23 00:17:34	2021-03-23 00:17:34
-84	0x54	T	2	9862569	pap	Tur cos bon.	iStudLion	2021-03-23 00:24:29	2021-03-23 00:24:29
-85	0x55	U	2	7550872	pap	Unu, dos, tres, kwater, sinku, seis, shete, ocho, nuebe, dies.	\N	2018-12-02 16:24:56	2018-12-20 09:57:40
+80	0x50	P	10	4657352	pap	Por fabor!	Ricardo14	2015-10-31 00:48:52	2015-10-31 00:48:59
+83	0x53	S	4	7550851	pap	Si.	\N	2018-12-02 16:13:36	2018-12-20 09:57:35
+84	0x54	T	2	5371110	pap	Teritorio di Pais Kòrsou ta konsistí di e islanan Kòrsou i Klein-Curaçao.	paulosilas	2016-08-25 20:25:04	2016-08-25 20:25:04
+85	0x55	U	2	7550860	pap	Unda bo ta biba?	\N	2018-12-02 16:18:04	2018-12-20 09:57:01
 86	0x56	V	2	7550826	pap	Felis dia di San Valentin.	\N	2018-12-02 16:04:37	2018-12-20 09:56:58
 90	0x5a	Z	1	7550873	pap	Zero, unu, dos, tres, kwater, sinku, seis, shete, ocho, nuebe, dies.	\N	2018-12-02 16:25:02	2018-12-20 09:57:25
-97	0x61	a	76	5801452	pap	Mi no ta kere!	rebrafi	2017-01-26 11:23:08	2017-01-26 11:23:08
-98	0x62	b	46	9862566	pap	Esey ta bon.	iStudLion	2021-03-23 00:24:17	2021-03-23 00:24:17
-99	0x63	c	14	9862535	pap	Bo kier casa cu mi?	iStudLion	2021-03-23 00:21:46	2021-03-23 00:21:46
-100	0x64	d	23	7550827	pap	Felis dia di San Valentin!	\N	2018-12-02 16:04:47	2018-12-20 09:57:48
-101	0x65	e	40	7550865	pap	Mi por papia Papiamento.	\N	2018-12-02 16:20:31	2018-12-20 09:57:33
+97	0x61	a	76	7550752	pap	Bo ke kasa ku mi?	\N	2018-12-02 15:36:40	2018-12-20 09:58:18
+98	0x62	b	46	7550754	pap	Mi por haña bo number di telefòn?	\N	2018-12-02 15:37:21	2018-12-20 09:58:00
+99	0x63	c	14	9862528	pap	Pocopoco y semper!	iStudLion	2021-03-23 00:20:58	2021-03-23 00:20:58
+100	0x64	d	23	9862529	pap	Kico ta libertad?	iStudLion	2021-03-23 00:21:08	2021-03-23 00:21:08
+101	0x65	e	40	9862556	pap	Mi stima 'bo tambe.	iStudLion	2021-03-23 00:23:33	2021-03-23 00:23:33
 102	0x66	f	11	7550798	pap	Bo ta lif.	\N	2018-12-02 15:53:08	2018-12-20 09:56:59
-103	0x67	g	9	9697213	pap	Português ta e lenga romaniko.	\N	2021-01-27 13:40:08	2021-01-27 13:42:46
-104	0x68	h	15	7550872	pap	Unu, dos, tres, kwater, sinku, seis, shete, ocho, nuebe, dies.	\N	2018-12-02 16:24:56	2018-12-20 09:57:40
-105	0x69	i	73	7550777	pap	Mi ta stima bo.	\N	2018-12-02 15:45:12	2018-12-20 09:57:37
+103	0x67	g	9	9862504	pap	Bo kier algo di bebe?	iStudLion	2021-03-23 00:18:20	2021-03-23 00:18:20
+104	0x68	h	15	7550726	pap	Bo ta hole dushi.	\N	2018-12-02 15:28:41	2018-12-20 09:57:30
+105	0x69	i	73	7550765	pap	Mi ke un sunchi.	\N	2018-12-02 15:41:10	2018-12-20 09:57:28
 106	0x6a	j	1	5040422	pap	E Burj Khalifa awo ta e mas halto edifisio di e mundo.	Balamax	2016-04-05 00:52:43	2016-04-05 00:52:43
-107	0x6b	k	25	4657350	pap	Kon ta k'e bida?	Ricardo14	2015-10-31 00:43:02	2015-10-31 00:43:24
-108	0x6c	l	21	9862572	pap	Ban sali.	iStudLion	2021-03-23 00:24:42	2021-03-23 00:24:42
-109	0x6d	m	24	7550752	pap	Bo ke kasa ku mi?	\N	2018-12-02 15:36:40	2018-12-20 09:58:18
-110	0x6e	n	50	5414280	pap	Papiamento ta un lenga oficial na Aruba.	paulosilas	2016-09-08 03:22:55	2016-09-08 03:22:55
-111	0x6f	o	77	9862495	pap	Stima 'bo.	iStudLion	2021-03-23 00:17:34	2021-03-23 00:17:34
-112	0x70	p	11	7550865	pap	Mi por papia Papiamento.	\N	2018-12-02 16:20:31	2018-12-20 09:57:33
-114	0x72	r	35	7550872	pap	Unu, dos, tres, kwater, sinku, seis, shete, ocho, nuebe, dies.	\N	2018-12-02 16:24:56	2018-12-20 09:57:40
-115	0x73	s	42	9862475	pap	Misericordia!	iStudLion	2021-03-23 00:15:48	2021-03-23 00:15:48
-116	0x74	t	54	7550726	pap	Bo ta hole dushi.	\N	2018-12-02 15:28:41	2018-12-20 09:57:30
-117	0x75	u	32	7550770	pap	Mi ta gusta bo.	\N	2018-12-02 15:43:00	2018-12-20 09:58:17
+107	0x6b	k	25	7550752	pap	Bo ke kasa ku mi?	\N	2018-12-02 15:36:40	2018-12-20 09:58:18
+108	0x6c	l	21	9862459	pap	Halo.	iStudLion	2021-03-23 00:13:47	2021-03-23 00:13:47
+109	0x6d	m	24	7550754	pap	Mi por haña bo number di telefòn?	\N	2018-12-02 15:37:21	2018-12-20 09:58:00
+110	0x6e	n	50	9862487	pap	Cuanto?	iStudLion	2021-03-23 00:17:02	2021-03-23 00:17:02
+111	0x6f	o	77	7550742	pap	Bo ta kasá?	\N	2018-12-02 15:31:58	2018-12-20 09:57:55
+112	0x70	p	11	5414280	pap	Papiamento ta un lenga oficial na Aruba.	paulosilas	2016-09-08 03:22:55	2016-09-08 03:22:55
+114	0x72	r	35	9862569	pap	Tur cos bon.	iStudLion	2021-03-23 00:24:29	2021-03-23 00:24:29
+115	0x73	s	42	7550726	pap	Bo ta hole dushi.	\N	2018-12-02 15:28:41	2018-12-20 09:57:30
+116	0x74	t	54	7550844	pap	Con ta bai?	\N	2018-12-02 16:10:46	2018-12-20 09:57:58
+117	0x75	u	32	9862487	pap	Cuanto?	iStudLion	2021-03-23 00:17:02	2021-03-23 00:17:02
 118	0x76	v	1	7550845	pap	Por favor.	\N	2018-12-02 16:11:19	2018-12-20 09:56:51
-119	0x77	w	7	7550802	pap	Kiko bo ta bai hasi awe?	\N	2018-12-02 15:53:59	2018-12-20 09:57:59
-121	0x79	y	5	9862566	pap	Esey ta bon.	iStudLion	2021-03-23 00:24:17	2021-03-23 00:24:17
+119	0x77	w	7	7550855	pap	Kwan tor tin?	\N	2018-12-02 16:15:39	2018-12-20 09:57:38
+121	0x79	y	5	7550850	pap	Ayó.	\N	2018-12-02 16:13:07	2018-12-20 09:57:49
 225	0xe1	á	2	4657357	pap	Bo mama ta mashá bunita!	Ricardo14	2015-10-31 00:54:24	2015-10-31 00:54:33
 231	0xe7	ç	1	5371110	pap	Teritorio di Pais Kòrsou ta konsistí di e islanan Kòrsou i Klein-Curaçao.	paulosilas	2016-08-25 20:25:04	2016-08-25 20:25:04
 233	0xe9	é	1	5414260	pap	Kòrsou ta usa un sistema di skirbimentu fonétiko.	paulosilas	2016-09-08 03:06:33	2016-09-08 03:06:33
 234	0xea	ê	1	9697213	pap	Português ta e lenga romaniko.	\N	2021-01-27 13:40:08	2021-01-27 13:42:46
-237	0xed	í	2	4657363	pap	Bon biní!	Ricardo14	2015-10-31 00:56:41	2015-10-31 00:56:50
-241	0xf1	ñ	5	7550739	pap	Kuantu aña bo tin?	\N	2018-12-02 15:30:55	2018-12-20 09:57:56
-242	0xf2	ò	4	5371110	pap	Teritorio di Pais Kòrsou ta konsistí di e islanan Kòrsou i Klein-Curaçao.	paulosilas	2016-08-25 20:25:04	2016-08-25 20:25:04
+237	0xed	í	2	5371110	pap	Teritorio di Pais Kòrsou ta konsistí di e islanan Kòrsou i Klein-Curaçao.	paulosilas	2016-08-25 20:25:04	2016-08-25 20:25:04
+241	0xf1	ñ	5	9862551	pap	Cuanto aña bo tin?	iStudLion	2021-03-23 00:23:10	2021-03-23 00:23:10
+242	0xf2	ò	4	5371085	pap	Derecho di outodeterminashon di pueblo di Kòrsou ta apsoluto i intransferibel.	paulosilas	2016-08-25 20:14:03	2016-08-25 20:17:13
 243	0xf3	ó	1	7550850	pap	Ayó.	\N	2018-12-02 16:13:07	2018-12-20 09:57:49

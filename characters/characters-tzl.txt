@@ -1,86 +1,86 @@
-32	0x20	 	278	8595501	tzl	Veleveu dal informaziun.	shekitten	2020-03-05 15:50:26	2020-03-05 15:50:26
-33	0x21	!	38	5178780	tzl	¡Bun-escasença!	RobinvanderVliet	2016-05-31 12:28:06	2016-05-31 12:28:10
-39	0x27	'	95	8294307	tzl	Iesu isch 'n aneitxançù.	shekitten	2019-10-30 21:52:36	2019-10-30 21:52:36
-44	0x2c	,	5	5184689	tzl	Vetz à'ici, sch'o Voi piaça.	RobinvanderVliet	2016-06-01 21:21:21	2016-06-01 21:21:26
-45	0x2d	-	37	9146326	tzl	¿Sint-éu gravia?	shekitten	2020-10-15 10:44:16	2020-10-15 10:44:16
-46	0x2e	.	257	5200384	tzl	Me piaça dormarh.	cueyayotl	2016-06-08 06:52:08	2016-06-08 06:52:08
-48	0x30	0	2	5198273	tzl	Téu 30 ars.	RobinvanderVliet	2016-06-06 23:03:45	2016-06-06 23:03:45
+32	0x20	 	278	9002189	tzl	Tom non isch 'n interpret.	shekitten	2020-08-29 14:31:57	2021-02-11 14:07:39
+33	0x21	!	38	5195220	tzl	¡Ben nic'ht!	RobinvanderVliet	2016-06-05 15:58:20	2016-06-05 15:58:20
+39	0x27	'	95	8305094	tzl	Allen isch 'n carmenour.	shekitten	2019-11-05 21:47:40	2019-11-05 21:47:40
+44	0x2c	,	5	9696105	tzl	Ben nic'ht, Tatoeba.	shekitten	2021-01-27 01:34:49	2021-01-27 01:34:49
+45	0x2d	-	37	8740943	tzl	Volt-tu üna uranxha?	shekitten	2020-05-06 01:14:38	2020-05-06 01:14:38
+46	0x2e	.	257	5200382	tzl	Me piaça voiatxarh.	cueyayotl	2016-06-08 06:51:17	2016-06-08 06:51:17
+48	0x30	0	2	5198272	tzl	Téu 20 ars.	RobinvanderVliet	2016-06-06 23:03:38	2016-06-06 23:03:38
 49	0x31	1	4	5198269	tzl	Téu 18 ars.	RobinvanderVliet	2016-06-06 23:03:19	2016-06-06 23:03:19
-50	0x32	2	5	6138871	tzl	Téu 25 ars.	RobinvanderVliet	2017-06-09 22:54:26	\N
+50	0x32	2	5	5198272	tzl	Téu 20 ars.	RobinvanderVliet	2016-06-06 23:03:38	2016-06-06 23:03:38
 51	0x33	3	1	5198273	tzl	Téu 30 ars.	RobinvanderVliet	2016-06-06 23:03:45	2016-06-06 23:03:45
 52	0x34	4	2	5198270	tzl	Téu 24 ars.	RobinvanderVliet	2016-06-06 23:03:25	2016-06-06 23:03:25
-53	0x35	5	2	6138871	tzl	Téu 25 ars.	RobinvanderVliet	2017-06-09 22:54:26	\N
+53	0x35	5	2	6138874	tzl	Téu 45 ars.	RobinvanderVliet	2017-06-09 22:54:53	\N
 56	0x38	8	1	5198269	tzl	Téu 18 ars.	RobinvanderVliet	2016-06-06 23:03:19	2016-06-06 23:03:19
 57	0x39	9	1	5198268	tzl	Téu 19 ars.	RobinvanderVliet	2016-06-06 23:03:09	2016-06-06 23:03:09
-63	0x3f	?	47	5184624	tzl	¿Com'estas't?	RobinvanderVliet	2016-06-01 21:08:33	2016-06-01 21:08:36
-65	0x41	A	24	5233560	tzl	Aßentevent.	RobinvanderVliet	2016-06-24 11:33:32	2016-06-24 11:33:32
+63	0x3f	?	47	8740944	tzl	Volt-tu 'n uranxha?	shekitten	2020-05-06 01:14:49	2020-05-06 01:14:49
+65	0x41	A	24	5195310	tzl	¿Aduve vas't?	RobinvanderVliet	2016-06-05 16:04:42	2016-06-05 16:04:42
 66	0x42	B	13	5195568	tzl	Ben.	RobinvanderVliet	2016-06-05 17:40:56	2016-06-05 17:40:56
 67	0x43	C	28	5184782	tzl	C'e la prüma poarta àl drept.	RobinvanderVliet	2016-06-01 22:30:05	2016-06-01 22:30:10
 68	0x44	D	9	9457792	tzl	¿Dovestà Australia?	shekitten	2020-12-10 01:42:43	2020-12-10 01:42:43
-69	0x45	E	29	8901377	tzl	El mundeu isch bel.	shekitten	2020-07-08 17:57:21	2020-09-08 11:42:51
-70	0x46	F	11	8665695	tzl	Feliceu Pascour!	shekitten	2020-04-09 00:12:13	2020-04-09 00:12:13
-71	0x47	G	3	5200698	tzl	Gagnhevent.	cueyayotl	2016-06-08 10:13:38	2016-06-08 10:13:38
-72	0x48	H	5	5200375	tzl	Haßéu travalarh.	cueyayotl	2016-06-08 06:37:41	2016-06-08 06:37:41
-73	0x49	I	10	8582242	tzl	Isch-o feliceu?	shekitten	2020-02-28 04:59:05	2020-02-28 04:59:05
+69	0x45	E	29	5184597	tzl	¿Es tu?	RobinvanderVliet	2016-06-01 20:59:39	2016-06-01 20:59:41
+70	0x46	F	11	5200640	tzl	Fäts-en prontu.	cueyayotl	2016-06-08 09:40:10	2016-06-08 09:40:10
+71	0x47	G	3	5200365	tzl	¡Gratüleschaziuns!	cueyayotl	2016-06-08 06:12:42	2016-06-08 06:12:42
+72	0x48	H	5	5200377	tzl	Haßéu estudiarh.	cueyayotl	2016-06-08 06:39:02	2016-06-08 06:39:02
+73	0x49	I	10	8940194	tzl	¿Isch-tu 'n sorcieir?	shekitten	2020-07-25 23:53:54	2020-09-08 11:43:18
 74	0x4a	J	1	5195305	tzl	¿Ja'iens Díeu?	RobinvanderVliet	2016-06-05 16:02:00	2016-06-05 16:02:00
-76	0x4c	L	16	8300920	tzl	La proprietà isch la lariça.	shekitten	2019-11-03 20:54:43	2019-11-03 20:55:04
-77	0x4d	M	15	5233580	tzl	Menxhent.	RobinvanderVliet	2016-06-24 11:41:32	2016-06-24 11:41:32
-78	0x4e	N	17	9039436	tzl	Noi sint amíci.	shekitten	2020-09-15 00:09:22	2020-09-15 00:09:22
+76	0x4c	L	16	9766887	tzl	L'Idisch non isch el Tütsch.	shekitten	2021-02-15 20:23:51	2021-02-15 20:23:51
+77	0x4d	M	15	5200382	tzl	Me piaça voiatxarh.	cueyayotl	2016-06-08 06:51:17	2016-06-08 06:51:17
+78	0x4e	N	17	9837451	tzl	Non esteva tu c'hupa.	shekitten	2021-03-11 15:13:22	2021-03-11 15:13:22
 79	0x4f	O	9	5179133	tzl	O isch ocsà 'n studint noveu.	RobinvanderVliet	2016-05-31 13:53:23	2016-05-31 13:53:30
-80	0x50	P	15	5195223	tzl	¡Feliceu Pasqeu!	RobinvanderVliet	2016-06-05 15:59:26	2016-06-05 15:59:26
-81	0x51	Q	12	5184589	tzl	¿Qet sint las quantas?	RobinvanderVliet	2016-06-01 20:53:14	2016-06-01 20:53:17
-82	0x52	R	7	8594610	tzl	Áistra isch Rac'hel sè femna.	shekitten	2020-03-05 01:28:06	2020-03-05 01:28:06
-83	0x53	S	21	5198267	tzl	¡Schac'h-mäts!	RobinvanderVliet	2016-06-06 23:02:18	2016-06-06 23:02:18
-84	0x54	T	76	9002189	tzl	Tom non isch 'n interpret.	shekitten	2020-08-29 14:31:57	2021-02-11 14:07:39
-86	0x56	V	23	9737856	tzl	El Vialesch isch 'n glheþ bel.	shekitten	2021-02-09 01:58:28	2021-02-09 01:58:28
+80	0x50	P	15	5200684	tzl	Perf scriitz-me prontu.	cueyayotl	2016-06-08 09:58:56	2016-06-08 09:58:56
+81	0x51	Q	12	5195487	tzl	¿Qet façás't aicì sa schpeit?	RobinvanderVliet	2016-06-05 17:17:46	2016-06-05 17:17:46
+82	0x52	R	7	5200646	tzl	Revenarhéu frü.	cueyayotl	2016-06-08 09:43:59	2016-06-08 09:43:59
+83	0x53	S	21	8582247	tzl	Sint-os feliceux?	shekitten	2020-02-28 05:02:49	2020-02-28 05:02:49
+84	0x54	T	76	9776371	tzl	Noi haßevent Tom.	shekitten	2021-02-18 21:55:10	2021-02-18 21:55:10
+86	0x56	V	23	5176676	tzl	Va voltigeir isch pien d'anguiglhas.	RobinvanderVliet	2016-05-30 17:46:28	2016-05-30 17:46:30
 90	0x5a	Z	1	5200697	tzl	Zira-me.	cueyayotl	2016-06-08 10:12:28	2016-06-08 10:12:28
-97	0x61	a	239	10713356	tzl	Éu non sint moart.	shekitten	2022-03-11 17:18:12	2022-03-11 17:18:12
-98	0x62	b	25	8598694	tzl	Menxha dal pà es büva dal apa.	shekitten	2020-03-06 19:19:24	2020-03-06 19:19:24
-99	0x63	c	187	5198281	tzl	¡Ridischlops!	RobinvanderVliet	2016-06-06 23:08:14	2016-06-06 23:08:14
-100	0x64	d	62	5200391	tzl	¿Exista la fieschada?	cueyayotl	2016-06-08 06:58:47	2016-06-08 06:58:47
-101	0x65	e	235	8777235	tzl	El natür isch bel.	shekitten	2020-05-21 00:37:36	2020-05-21 00:37:36
-102	0x66	f	41	5200646	tzl	Revenarhéu frü.	cueyayotl	2016-06-08 09:43:59	2016-06-08 09:43:59
-103	0x67	g	37	5200687	tzl	Salga.	cueyayotl	2016-06-08 10:08:08	2016-06-08 10:08:08
-104	0x68	h	176	8667160	tzl	Tom isch 'n översteir.	shekitten	2020-04-09 17:49:32	2021-02-11 14:06:42
-105	0x69	i	230	8823111	tzl	Hitler haßeveu els Txüfs.	shekitten	2020-06-07 01:46:30	2020-09-08 11:42:12
+97	0x61	a	239	5200692	tzl	Çoiça.	cueyayotl	2016-06-08 10:10:46	2016-06-08 10:10:46
+98	0x62	b	25	5176747	tzl	Escapçeveu el cäps es els brätslilor es las gambas.	RobinvanderVliet	2016-05-30 18:15:17	2016-05-30 18:15:23
+99	0x63	c	187	5179129	tzl	¿Qi'st aceasta xhuvencula?	RobinvanderVliet	2016-05-31 13:52:18	2016-05-31 13:52:25
+100	0x64	d	62	5198985	tzl	¿Qet paßadra?	cueyayotl	2016-06-07 12:28:46	2016-06-07 12:28:46
+101	0x65	e	235	9837577	tzl	Voi sint liverat.	shekitten	2021-03-11 17:14:58	2021-03-11 17:14:58
+102	0x66	f	41	5200391	tzl	¿Exista la fieschada?	cueyayotl	2016-06-08 06:58:47	2016-06-08 06:58:47
+103	0x67	g	37	8760836	tzl	¿Isch-tu Françal eda Anglesc?	shekitten	2020-05-14 11:01:00	2020-05-19 03:18:16
+104	0x68	h	176	8594637	tzl	Áistra isch María s'uschor.	shekitten	2020-03-05 02:24:14	2020-03-05 02:24:14
+105	0x69	i	230	8557003	tzl	Éu non volt del viind.	shekitten	2020-02-16 19:16:03	2020-02-16 19:16:03
 106	0x6a	j	1	5178973	tzl	Téu à comprarh dels cauçadours ujs.	RobinvanderVliet	2016-05-31 13:20:31	2016-05-31 13:20:39
-108	0x6c	l	146	8728742	tzl	Éu volt comprarh 'n casa.	shekitten	2020-05-01 01:49:32	2020-05-01 01:49:32
-109	0x6d	m	115	9039436	tzl	Noi sint amíci.	shekitten	2020-09-15 00:09:22	2020-09-15 00:09:22
-110	0x6e	n	210	5195220	tzl	¡Ben nic'ht!	RobinvanderVliet	2016-06-05 15:58:20	2016-06-05 15:58:20
-111	0x6f	o	166	5200684	tzl	Perf scriitz-me prontu.	cueyayotl	2016-06-08 09:58:56	2016-06-08 09:58:56
-112	0x70	p	85	9725140	tzl	L'Arap isch 'n glheþ bel.	shekitten	2021-02-05 01:35:53	2021-02-05 01:35:53
+108	0x6c	l	146	5199006	tzl	Salacor o non isch feliceu.	cueyayotl	2016-06-07 12:38:34	2016-06-07 12:38:34
+109	0x6d	m	115	9002189	tzl	Tom non isch 'n interpret.	shekitten	2020-08-29 14:31:57	2021-02-11 14:07:39
+110	0x6e	n	210	8575813	tzl	Acesta fenestra isch caßada.	shekitten	2020-02-25 00:29:57	2020-02-25 00:29:57
+111	0x6f	o	166	5199000	tzl	Salacor c'e sürvacüs.	cueyayotl	2016-06-07 12:36:06	2016-06-07 12:36:06
+112	0x70	p	85	8944924	tzl	Tom haßa utphätseschti.	shekitten	2020-07-28 10:58:13	2021-02-11 14:06:31
 113	0x71	q	9	8579773	tzl	Toct i glheþen sint equais, mas l'Angleasca isch pü equal q'els altreux.	shekitten	2020-02-27 01:32:00	2020-07-18 10:32:13
-114	0x72	r	177	9146328	tzl	¿Sint-éu gravieu?	shekitten	2020-10-15 10:44:43	2020-10-15 10:44:43
-115	0x73	s	232	9359031	tzl	Tom isch 'n imperialistà.	shekitten	2020-11-22 21:02:29	2021-02-11 14:07:16
-116	0x74	t	231	5198275	tzl	C'estev'iensa vholta	RobinvanderVliet	2016-06-06 23:05:41	2016-06-06 23:05:41
-117	0x75	u	176	5233561	tzl	Cumprenchent.	RobinvanderVliet	2016-06-24 11:34:32	2016-06-24 11:34:32
-118	0x76	v	117	5200373	tzl	¡Benvenescu à bhord!	cueyayotl	2016-06-08 06:29:57	2016-06-08 06:29:57
-120	0x78	x	35	8740943	tzl	Volt-tu üna uranxha?	shekitten	2020-05-06 01:14:38	2020-05-06 01:14:38
-121	0x79	y	3	5200589	tzl	Tom undereva perqet Mary non lo viac'hadra.	cueyayotl	2016-06-08 09:22:26	2016-06-08 09:22:26
-122	0x7a	z	29	5195481	tzl	Escusetz-me.	RobinvanderVliet	2016-06-05 17:15:47	2016-06-05 17:15:47
-161	0xa1	¡	32	5200365	tzl	¡Gratüleschaziuns!	cueyayotl	2016-06-08 06:12:42	2016-06-08 06:12:42
-191	0xbf	¿	39	5198966	tzl	¿Qet paßeva?	cueyayotl	2016-06-07 12:20:04	2016-06-07 12:20:04
-193	0xc1	Á	4	8594609	tzl	Áistra isch Rac'hel s'uschor.	shekitten	2020-03-05 01:27:59	2020-03-05 01:27:59
-199	0xc7	Ç	2	5200693	tzl	Çoiçeva.	cueyayotl	2016-06-08 10:10:52	2016-06-08 10:10:52
+114	0x72	r	177	8777235	tzl	El natür isch bel.	shekitten	2020-05-21 00:37:36	2020-05-21 00:37:36
+115	0x73	s	232	8944924	tzl	Tom haßa utphätseschti.	shekitten	2020-07-28 10:58:13	2021-02-11 14:06:31
+116	0x74	t	231	8351821	tzl	Toct i cätsilor sint beis.	shekitten	2019-11-28 09:26:08	2019-11-28 09:26:08
+117	0x75	u	176	9813555	tzl	Luora isch üna criança.	shekitten	2021-02-28 18:19:22	2021-02-28 18:19:22
+118	0x76	v	117	5200641	tzl	Veneveu prontu.	cueyayotl	2016-06-08 09:41:10	2016-06-08 09:41:10
+120	0x78	x	35	8760239	tzl	Donald Trump isch 'n minteir paþoloxhal.	shekitten	2020-05-13 22:56:28	2020-05-13 22:56:28
+121	0x79	y	3	8594110	tzl	Éu sint gay.	shekitten	2020-03-04 20:39:08	2020-03-04 20:39:08
+122	0x7a	z	29	5198998	tzl	Salacor c'e fützil.	cueyayotl	2016-06-07 12:35:25	2016-06-07 12:35:25
+161	0xa1	¡	32	5195317	tzl	¡Ceßetz!	RobinvanderVliet	2016-06-05 16:05:33	2016-06-05 16:05:33
+191	0xbf	¿	39	5184699	tzl	¿Put-tu m'atxutarh?	RobinvanderVliet	2016-06-01 21:24:31	2016-06-01 21:24:37
+193	0xc1	Á	4	8594638	tzl	Áistra isch María sè femna.	shekitten	2020-03-05 02:24:50	2020-03-05 02:24:50
+199	0xc7	Ç	2	5200692	tzl	Çoiça.	cueyayotl	2016-06-08 10:10:46	2016-06-08 10:10:46
 200	0xc8	È	2	8775823	tzl	Èu sint 'n xheniüs trei staval.	shekitten	2020-05-20 13:11:50	2020-05-20 13:11:50
-201	0xc9	É	26	5184613	tzl	Éu säp.	RobinvanderVliet	2016-06-01 21:05:45	2016-06-01 21:05:55
+201	0xc9	É	26	8760264	tzl	Éu non put.	shekitten	2020-05-13 23:01:56	2020-05-13 23:01:56
 220	0xdc	Ü	4	10372844	tzl	Ün altreu mundeu isch pouçival.	shekitten	2021-10-19 13:53:27	2021-10-19 13:53:27
 222	0xde	Þ	1	5200699	tzl	Þüsteva.	cueyayotl	2016-06-08 10:18:17	2016-06-08 10:18:17
-223	0xdf	ß	25	5198276	tzl	S'cheßelt.	RobinvanderVliet	2016-06-06 23:06:01	2016-06-06 23:06:01
-224	0xe0	à	33	9359031	tzl	Tom isch 'n imperialistà.	shekitten	2020-11-22 21:02:29	2021-02-11 14:07:16
+223	0xdf	ß	25	9766072	tzl	Haßéu cac'havaes.	shekitten	2021-02-15 17:23:05	2021-02-15 17:23:05
+224	0xe0	à	33	9359030	tzl	Tom isch ün imperialistà.	shekitten	2020-11-22 21:02:25	2021-02-11 14:07:11
 225	0xe1	á	6	5195487	tzl	¿Qet façás't aicì sa schpeit?	RobinvanderVliet	2016-06-05 17:17:46	2016-06-05 17:17:46
-228	0xe4	ä	15	5184613	tzl	Éu säp.	RobinvanderVliet	2016-06-01 21:05:45	2016-06-01 21:05:55
-231	0xe7	ç	37	9039437	tzl	Noi sint amiças.	shekitten	2020-09-15 00:11:32	2020-09-15 00:11:32
-232	0xe8	è	2	8594638	tzl	Áistra isch María sè femna.	shekitten	2020-03-05 02:24:50	2020-03-05 02:24:50
-233	0xe9	é	55	5198268	tzl	Téu 19 ars.	RobinvanderVliet	2016-06-06 23:03:09	2016-06-06 23:03:09
-236	0xec	ì	4	8760319	tzl	Livera Filastì!	shekitten	2020-05-14 00:35:26	2020-05-14 00:35:26
-237	0xed	í	6	10095466	tzl	Díeu isch gay.	shekitten	2021-06-09 20:53:47	2021-06-09 20:53:47
-243	0xf3	ó	5	5198282	tzl	¡Góspoxhi!	RobinvanderVliet	2016-06-06 23:08:22	2016-06-06 23:08:22
-246	0xf6	ö	7	8667160	tzl	Tom isch 'n översteir.	shekitten	2020-04-09 17:49:32	2021-02-11 14:06:42
+228	0xe4	ä	15	5184614	tzl	Éu non säp.	RobinvanderVliet	2016-06-01 21:06:27	2016-06-01 21:06:32
+231	0xe7	ç	37	9845874	tzl	¿Qet'st el liberançéu?	shekitten	2021-03-16 10:28:36	2021-03-16 10:28:50
+232	0xe8	è	2	8594610	tzl	Áistra isch Rac'hel sè femna.	shekitten	2020-03-05 01:28:06	2020-03-05 01:28:06
+233	0xe9	é	55	5200385	tzl	Améu dormarh.	cueyayotl	2016-06-08 06:52:20	2016-06-08 06:52:20
+236	0xec	ì	4	5195487	tzl	¿Qet façás't aicì sa schpeit?	RobinvanderVliet	2016-06-05 17:17:46	2016-06-05 17:17:46
+237	0xed	í	6	5195305	tzl	¿Ja'iens Díeu?	RobinvanderVliet	2016-06-05 16:02:00	2016-06-05 16:02:00
+243	0xf3	ó	5	9056435	tzl	Tom isch 'n cióvec-lupul.	shekitten	2020-09-21 12:07:27	2020-09-21 12:07:27
+246	0xf6	ö	7	9001714	tzl	Tom non isch 'n översteir.	shekitten	2020-08-29 10:10:43	2021-02-11 14:07:26
 249	0xf9	ù	3	9749990	tzl	Éu non sint 'n cangarù.	shekitten	2021-02-11 14:14:33	2021-02-11 14:14:33
-250	0xfa	ú	3	9832802	tzl	El cäts xhúa cün las cratoiras.	shekitten	2021-03-08 21:55:58	2021-03-08 21:55:58
+250	0xfa	ú	3	9774749	tzl	Éu non sint 'n púschaster.	shekitten	2021-02-18 10:29:32	2021-02-18 10:29:32
 251	0xfb	û	1	8673835	tzl	Büveveu sa mûchet come veleveu.	shekitten	2020-04-12 12:21:03	2020-04-12 12:21:03
-252	0xfc	ü	72	9359030	tzl	Tom isch ün imperialistà.	shekitten	2020-11-22 21:02:25	2021-02-11 14:07:11
-254	0xfe	þ	16	9737856	tzl	El Vialesch isch 'n glheþ bel.	shekitten	2021-02-09 01:58:28	2021-02-09 01:58:28
+252	0xfc	ü	72	8673835	tzl	Büveveu sa mûchet come veleveu.	shekitten	2020-04-12 12:21:03	2020-04-12 12:21:03
+254	0xfe	þ	16	8579773	tzl	Toct i glheþen sint equais, mas l'Angleasca isch pü equal q'els altreux.	shekitten	2020-02-27 01:32:00	2020-07-18 10:32:13
 8216	0x2018	‘	1	5179024	tzl	Éu sint ‘n ensegnhistà.	RobinvanderVliet	2016-05-31 13:31:10	2016-05-31 13:31:18
 8217	0x2019	’	1	5176734	tzl	¿Qi’st là?	RobinvanderVliet	2016-05-30 18:12:21	2016-05-30 18:12:25

@@ -1,46 +1,46 @@
-32	0x20	 	83	1195373	tpi	Pusi i gat tupela ia.	Tlustulimu	2011-10-24 18:54:11	2011-10-24 18:54:15
-33	0x21	!	5	1173316	tpi	Holim! Raskol!	cntrational	2011-10-13 11:05:23	2011-10-13 11:05:47
+32	0x20	 	83	1253457	tpi	Mi no gat pusi.	Tlustulimu	2011-11-21 17:01:04	2011-11-21 17:01:09
+33	0x21	!	5	2332603	tpi	Gutpela Tru!	LanguageExpert	2013-03-23 14:53:45	2013-03-23 14:53:45
 44	0x2c	,	2	1173289	tpi	Yu save long tok Inglis, a?	cntrational	2011-10-13 10:38:30	2011-10-13 10:38:42
-46	0x2e	.	68	1253829	tpi	Pukpuk i kaikai Tom pinis.	Tlustulimu	2011-11-21 20:13:02	2011-11-21 20:13:06
-63	0x3f	?	15	5893425	tpi	Yu olsem wanem?	zorgzikhnit	2017-02-22 18:25:38	\N
+46	0x2e	.	68	1253475	tpi	Mi no gat dok.	Tlustulimu	2011-11-21 17:05:28	2011-11-21 17:05:28
+63	0x3f	?	15	1245930	tpi	Hamas skulboi i stap long skul bilong yu?	Tlustulimu	2011-11-18 12:42:09	2011-11-18 12:42:13
 66	0x42	B	2	4313817	tpi	Nau yet, Burj Khalifa em longpela haus go antap long skai, long graun.	Balamax	2015-06-28 12:13:40	2015-06-28 12:13:40
 68	0x44	D	1	1173320	tpi	Dispela em wanpela imegensi.	cntrational	2011-10-13 11:06:27	2011-10-13 11:06:41
 69	0x45	E	1	1246524	tpi	Em i stap meri bilong Japan.	Tlustulimu	2011-11-18 16:52:44	2011-11-18 16:52:47
-71	0x47	G	6	1173255	tpi	Gude.	cntrational	2011-10-13 10:29:58	2011-10-13 10:30:05
-72	0x48	H	10	5893441	tpi	Nem bilong mi Hashimoto.	zorgzikhnit	2017-02-22 18:36:12	\N
+71	0x47	G	6	2332603	tpi	Gutpela Tru!	LanguageExpert	2013-03-23 14:53:45	2013-03-23 14:53:45
+72	0x48	H	10	1173257	tpi	Hai.	cntrational	2011-10-13 10:30:22	2011-10-13 10:30:27
 73	0x49	I	2	1173291	tpi	Husat i save long tok Inglis?	cntrational	2011-10-13 10:38:49	2011-10-13 10:38:57
-74	0x4a	J	3	5893437	tpi	Nem bilong mi Jack.	zorgzikhnit	2017-02-22 18:34:16	\N
+74	0x4a	J	3	1246524	tpi	Em i stap meri bilong Japan.	Tlustulimu	2011-11-18 16:52:44	2011-11-18 16:52:47
 75	0x4b	K	1	4313817	tpi	Nau yet, Burj Khalifa em longpela haus go antap long skai, long graun.	Balamax	2015-06-28 12:13:40	2015-06-28 12:13:40
 76	0x4c	L	3	1173310	tpi	Larim mi.	cntrational	2011-10-13 11:04:02	2011-10-13 11:04:15
-77	0x4d	M	27	1173260	tpi	Mi stap gut.	cntrational	2011-10-13 10:31:07	2011-10-13 10:31:31
-78	0x4e	N	11	11465339	tpi	Ol manmeri bilong Papua New Guinea ol i save toktok long Tok Pisin	DaleSapalonah	2023-01-17 07:02:22	2023-01-17 07:02:22
-79	0x4f	O	6	1254320	tpi	Ol pukpuk i gat sappela tit.	Tlustulimu	2011-11-21 23:04:52	2011-11-21 23:04:55
-80	0x50	P	13	5893448	tpi	Ples bilong yu we?	zorgzikhnit	2017-02-22 18:37:58	\N
+77	0x4d	M	27	1173322	tpi	Mi no inap painim rot bilong mi.	cntrational	2011-10-13 11:06:54	2011-10-13 11:07:05
+78	0x4e	N	11	11465346	tpi	Nogat planti manmeri i save long toktok long Tok Pisin	DaleSapalonah	2023-01-17 07:03:08	2023-01-17 07:03:08
+79	0x4f	O	6	1848303	tpi	Ol anis i gat ia?	Tlustulimu	2012-09-17 22:10:51	2012-09-17 22:10:51
+80	0x50	P	13	11465346	tpi	Nogat planti manmeri i save long toktok long Tok Pisin	DaleSapalonah	2023-01-17 07:03:08	2023-01-17 07:03:08
 82	0x52	R	1	1173316	tpi	Holim! Raskol!	cntrational	2011-10-13 11:05:23	2011-10-13 11:05:47
-83	0x53	S	2	1173303	tpi	Smolhaus i stap we?	cntrational	2011-10-13 10:41:47	2011-10-13 10:41:58
-84	0x54	T	12	1246010	tpi	Tumora bai mi askim em.	Tlustulimu	2011-11-18 13:24:17	2011-11-18 13:24:21
-87	0x57	W	2	7091789	tpi	Wanem nem bilong yu?	Manukavina	2018-08-26 02:30:39	2018-08-26 02:30:39
-89	0x59	Y	14	7091790	tpi	Yu wokim wanem long hia?	Manukavina	2018-08-26 02:31:25	2018-08-26 02:31:25
-97	0x61	a	80	1254265	tpi	Meri marit bilong mi em i stap dokta.	Tlustulimu	2011-11-21 22:54:28	2011-11-21 22:56:55
-98	0x62	b	36	5893448	tpi	Ples bilong yu we?	zorgzikhnit	2017-02-22 18:37:58	\N
+83	0x53	S	2	1173279	tpi	Skius.	cntrational	2011-10-13 10:36:05	2011-10-13 10:36:22
+84	0x54	T	12	7091740	tpi	Tom i save go long haus blong mama na papa bilong em long olgeta wiken.	Manukavina	2018-08-26 01:28:32	2018-08-26 01:29:10
+87	0x57	W	2	7091798	tpi	Wanem taim bai yu pinis long wok?	Manukavina	2018-08-26 02:38:03	2018-08-26 02:38:03
+89	0x59	Y	14	7091793	tpi	Yu go long we?	Manukavina	2018-08-26 02:32:13	2018-08-26 02:33:27
+97	0x61	a	80	1254351	tpi	Yu papa bilong mi.	Tlustulimu	2011-11-21 23:13:03	2011-11-21 23:13:08
+98	0x62	b	36	1246645	tpi	Tokbek i stret.	Tlustulimu	2011-11-18 17:20:33	2011-11-18 17:20:37
 99	0x63	c	1	5893437	tpi	Nem bilong mi Jack.	zorgzikhnit	2017-02-22 18:34:16	\N
-100	0x64	d	12	2724269	tpi	Mi dringim wara.	\N	2013-09-06 22:53:20	2015-11-20 01:51:57
-101	0x65	e	45	3829931	tpi	Marija Luisa i mama bilong et pikinini.	Tlustulimu	2015-02-01 19:33:17	2015-02-01 19:34:25
-102	0x66	f	2	4313817	tpi	Nau yet, Burj Khalifa em longpela haus go antap long skai, long graun.	Balamax	2015-06-28 12:13:40	2015-06-28 12:13:40
-103	0x67	g	60	1173322	tpi	Mi no inap painim rot bilong mi.	cntrational	2011-10-13 11:06:54	2011-10-13 11:07:05
-104	0x68	h	13	1817952	tpi	Hat bilong mi i hia.	Tlustulimu	2012-09-04 22:08:03	2012-09-04 22:08:03
-105	0x69	i	84	1173322	tpi	Mi no inap painim rot bilong mi.	cntrational	2011-10-13 11:06:54	2011-10-13 11:07:05
-106	0x6a	j	2	3829931	tpi	Marija Luisa i mama bilong et pikinini.	Tlustulimu	2015-02-01 19:33:17	2015-02-01 19:34:25
-107	0x6b	k	45	1245930	tpi	Hamas skulboi i stap long skul bilong yu?	Tlustulimu	2011-11-18 12:42:09	2011-11-18 12:42:13
-108	0x6c	l	62	1254320	tpi	Ol pukpuk i gat sappela tit.	Tlustulimu	2011-11-21 23:04:52	2011-11-21 23:04:55
-109	0x6d	m	54	1246264	tpi	Mi no tokim Tok Japan.	Tlustulimu	2011-11-18 15:29:30	2011-11-18 15:29:30
-110	0x6e	n	74	1173286	tpi	Lukim yu bihain.	cntrational	2011-10-13 10:37:25	2011-10-13 10:37:30
-111	0x6f	o	65	7091798	tpi	Wanem taim bai yu pinis long wok?	Manukavina	2018-08-26 02:38:03	2018-08-26 02:38:03
-112	0x70	p	43	11465339	tpi	Ol manmeri bilong Papua New Guinea ol i save toktok long Tok Pisin	DaleSapalonah	2023-01-17 07:02:22	2023-01-17 07:02:22
+100	0x64	d	12	1254265	tpi	Meri marit bilong mi em i stap dokta.	Tlustulimu	2011-11-21 22:54:28	2011-11-21 22:56:55
+101	0x65	e	45	1173289	tpi	Yu save long tok Inglis, a?	cntrational	2011-10-13 10:38:30	2011-10-13 10:38:42
+102	0x66	f	2	1245890	tpi	Yu wasim ol fut bilong yu.	Tlustulimu	2011-11-18 12:11:09	2011-11-18 12:11:12
+103	0x67	g	60	1173299	tpi	Mi no harim tok bilong yu.	cntrational	2011-10-13 10:40:59	2011-10-13 10:41:16
+104	0x68	h	13	5893441	tpi	Nem bilong mi Hashimoto.	zorgzikhnit	2017-02-22 18:36:12	\N
+105	0x69	i	84	1173303	tpi	Smolhaus i stap we?	cntrational	2011-10-13 10:41:47	2011-10-13 10:41:58
+106	0x6a	j	2	4313817	tpi	Nau yet, Burj Khalifa em longpela haus go antap long skai, long graun.	Balamax	2015-06-28 12:13:40	2015-06-28 12:13:40
+107	0x6b	k	45	1246113	tpi	Buk bilong yu em i stap long tebol.	Tlustulimu	2011-11-18 14:05:54	2011-11-18 14:05:58
+108	0x6c	l	62	1262115	tpi	Ol pikinini bilong mi em i stap long skul.	Tlustulimu	2011-11-25 19:32:37	2011-11-25 19:32:41
+109	0x6d	m	54	7091798	tpi	Wanem taim bai yu pinis long wok?	Manukavina	2018-08-26 02:38:03	2018-08-26 02:38:03
+110	0x6e	n	74	7091789	tpi	Wanem nem bilong yu?	Manukavina	2018-08-26 02:30:39	2018-08-26 02:30:39
+111	0x6f	o	65	7091790	tpi	Yu wokim wanem long hia?	Manukavina	2018-08-26 02:31:25	2018-08-26 02:31:25
+112	0x70	p	43	2718037	tpi	Mi stap kaikai wanpela ananas.	\N	2013-09-03 20:15:01	2015-11-20 01:51:51
 114	0x72	r	22	1256053	tpi	Pukpuk man i kaikai dok meri pinis.	Tlustulimu	2011-11-22 20:20:56	2011-11-22 20:21:11
-115	0x73	s	59	5893425	tpi	Yu olsem wanem?	zorgzikhnit	2017-02-22 18:25:38	\N
-116	0x74	t	59	3829931	tpi	Marija Luisa i mama bilong et pikinini.	Tlustulimu	2015-02-01 19:33:17	2015-02-01 19:34:25
-117	0x75	u	56	1173318	tpi	Mi nidim halivim bilong yu.	cntrational	2011-10-13 11:05:54	2011-10-13 11:06:16
-118	0x76	v	8	1197653	tpi	Mi no save.	Tlustulimu	2011-10-25 20:11:44	2011-10-25 20:11:48
-119	0x77	w	17	1256022	tpi	Yu wok pinis moa olsem mi.	Tlustulimu	2011-11-22 20:14:05	2011-11-22 20:14:08
-121	0x79	y	14	1173267	tpi	Gutpela long bungim yu.	cntrational	2011-10-13 10:33:36	2011-10-13 10:33:47
+115	0x73	s	59	1253829	tpi	Pukpuk i kaikai Tom pinis.	Tlustulimu	2011-11-21 20:13:02	2011-11-21 20:13:06
+116	0x74	t	59	1173289	tpi	Yu save long tok Inglis, a?	cntrational	2011-10-13 10:38:30	2011-10-13 10:38:42
+117	0x75	u	56	1254320	tpi	Ol pukpuk i gat sappela tit.	Tlustulimu	2011-11-21 23:04:52	2011-11-21 23:04:55
+118	0x76	v	8	1173289	tpi	Yu save long tok Inglis, a?	cntrational	2011-10-13 10:38:30	2011-10-13 10:38:42
+119	0x77	w	17	7091793	tpi	Yu go long we?	Manukavina	2018-08-26 02:32:13	2018-08-26 02:33:27
+121	0x79	y	14	1246113	tpi	Buk bilong yu em i stap long tebol.	Tlustulimu	2011-11-18 14:05:54	2011-11-18 14:05:58

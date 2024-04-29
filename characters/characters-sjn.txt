@@ -1,56 +1,56 @@
-32	0x20	 	82	8925271	sjn	Cuio anann a no alwed.	shekitten	2020-07-19 12:28:30	2020-09-08 11:43:11
-33	0x21	!	10	1130105	sjn	Suilannad!	cntrational	2011-09-26 09:59:47	2011-09-26 10:01:06
-39	0x27	'	6	2141882	sjn	Av-'osto, agoreg vae.	Dreamk33	2013-01-13 12:24:06	2013-01-13 12:35:19
-44	0x2c	,	5	1130975	sjn	Minnar in Ernilath rîn, erio Forodrim!	cntrational	2011-09-26 20:49:10	2011-09-26 20:49:24
-45	0x2d	-	14	2141779	sjn	Ú-bedin edhellen.	Dreamk33	2013-01-13 10:57:50	2013-01-13 10:57:50
-46	0x2e	.	69	2141779	sjn	Ú-bedin edhellen.	Dreamk33	2013-01-13 10:57:50	2013-01-13 10:57:50
-63	0x3f	?	13	8925303	sjn	Ma len?	shekitten	2020-07-19 12:47:12	2020-09-08 11:43:11
-65	0x41	A	11	8565394	sjn	Aníron barf.	shekitten	2020-02-20 12:28:23	2020-02-20 12:28:23
-66	0x42	B	2	2141967	sjn	Boe i 'waen.	Dreamk33	2013-01-13 13:04:04	2014-06-22 09:30:56
+32	0x20	 	82	2141872	sjn	Iston i nîf gîn.	Dreamk33	2013-01-13 12:04:32	2013-01-13 12:04:32
+33	0x21	!	10	2632563	sjn	Mae govannen!	Yoman	2013-08-01 00:38:57	2013-08-01 00:38:57
+39	0x27	'	6	2141967	sjn	Boe i 'waen.	Dreamk33	2013-01-13 13:04:04	2014-06-22 09:30:56
+44	0x2c	,	5	2141939	sjn	Ego, mibo orch.	Dreamk33	2013-01-13 12:55:38	2013-01-13 12:55:38
+45	0x2d	-	14	8498432	sjn	Iarwain ú-deitha.	shekitten	2020-01-29 13:13:19	2020-01-29 13:13:19
+46	0x2e	.	69	2141916	sjn	Gellon ned i galar i chent gîn ned i gladhog.	Dreamk33	2013-01-13 12:45:17	2013-01-13 12:45:17
+63	0x3f	?	13	2425891	sjn	Pedil edhellen?	bionicboy	2013-05-09 02:23:02	2013-05-09 02:23:02
+65	0x41	A	11	2141882	sjn	Av-'osto, agoreg vae.	Dreamk33	2013-01-13 12:24:06	2013-01-13 12:35:19
+66	0x42	B	2	3230009	sjn	Min Adar man naesse Menel Aer nali eneth Li arnad tul Li indome naqua Bo Amar sui hanaesse Menel Annomin hi aur mir ilauria bas a dihen min ugerthi siu min dihen tuin man ugerth dan min Aa tegimin uminna usahtie mal lethmin umea	Abcormal	2014-05-04 04:50:27	2014-05-04 04:50:27
 67	0x43	C	3	3230008	sjn	Ae Adar nín i vi Menel no aer i eneth lín tolo i arnad lín caro den i innas lin bo Ceven sui vi Menel Anno ammen sír imbas ilaurui vín ar díheno ammen i úgerth vin sui mín i gohenam di ai gerir úgerth ...... ammen	Abcormal	2014-05-04 04:50:10	2014-05-04 04:50:10
 68	0x44	D	2	2142121	sjn	Dôl gîn lost.	Dreamk33	2013-01-13 14:46:02	2013-01-13 14:47:27
-69	0x45	E	3	2141939	sjn	Ego, mibo orch.	Dreamk33	2013-01-13 12:55:38	2013-01-13 12:55:38
+69	0x45	E	3	1130975	sjn	Minnar in Ernilath rîn, erio Forodrim!	cntrational	2011-09-26 20:49:10	2011-09-26 20:49:24
 70	0x46	F	1	1130975	sjn	Minnar in Ernilath rîn, erio Forodrim!	cntrational	2011-09-26 20:49:10	2011-09-26 20:49:24
-71	0x47	G	13	2425912	sjn	Gi melin!	bionicboy	2013-05-09 02:27:19	2013-05-09 02:27:19
-73	0x49	I	25	8800477	sjn	I raug gwann.	shekitten	2020-05-29 03:41:22	2020-09-08 11:41:50
+71	0x47	G	13	8926475	sjn	Garnas bilu.	shekitten	2020-07-19 23:10:02	2020-09-08 11:43:12
+73	0x49	I	25	2141864	sjn	Iston i nîf lîn.	Dreamk33	2013-01-13 12:01:45	2013-01-13 12:01:45
 76	0x4c	L	5	8940240	sjn	Le ithron?	shekitten	2020-07-26 00:05:09	2020-09-08 11:43:18
-77	0x4d	M	9	2425899	sjn	Man cerig?	bionicboy	2013-05-09 02:24:28	2013-05-09 02:24:28
-78	0x4e	N	4	8344766	sjn	No veren.	shekitten	2019-11-25 00:58:54	2019-11-25 00:58:54
-79	0x4f	O	2	2141776	sjn	Odulen an edraith anlen.	Dreamk33	2013-01-13 10:56:18	2013-01-13 10:56:18
-80	0x50	P	4	2425890	sjn	Pedig edhellen?	bionicboy	2013-05-09 02:22:46	2013-05-09 02:22:46
-83	0x53	S	5	8343794	sjn	Se hû?	shekitten	2019-11-24 14:58:55	2019-11-24 14:58:55
-84	0x54	T	4	2142128	sjn	Tolo anin naur.	Dreamk33	2013-01-13 14:48:18	2013-01-13 14:48:27
+77	0x4d	M	9	2141875	sjn	Mi van me?	Dreamk33	2013-01-13 12:12:36	2013-01-13 12:12:36
+78	0x4e	N	4	2425902	sjn	Noro lim!	bionicboy	2013-05-09 02:25:05	2013-05-09 02:25:05
+79	0x4f	O	2	2141775	sjn	Odulen an edraith angin.	Dreamk33	2013-01-13 10:55:57	2013-01-13 10:55:57
+80	0x50	P	4	8343911	sjn	Pannem.	shekitten	2019-11-24 15:55:17	2019-11-24 15:55:17
+83	0x53	S	5	8343801	sjn	Se brôg?	shekitten	2019-11-24 15:05:09	2019-11-24 15:05:09
+84	0x54	T	4	8918417	sjn	Te gallon.	shekitten	2020-07-16 03:57:35	2020-09-08 11:43:09
 85	0x55	U	1	2425924	sjn	Uhunc ylf ernedui.	bionicboy	2013-05-09 02:33:33	2013-05-09 02:33:33
-97	0x61	a	68	8499569	sjn	Annabonnath medir 'lae.	shekitten	2020-01-30 04:51:23	2020-01-30 04:51:23
-98	0x62	b	11	8499569	sjn	Annabonnath medir 'lae.	shekitten	2020-01-30 04:51:23	2020-01-30 04:51:23
-99	0x63	c	11	2141916	sjn	Gellon ned i galar i chent gîn ned i gladhog.	Dreamk33	2013-01-13 12:45:17	2013-01-13 12:45:17
-100	0x64	d	32	2425924	sjn	Uhunc ylf ernedui.	bionicboy	2013-05-09 02:33:33	2013-05-09 02:33:33
-101	0x65	e	58	10218720	sjn	Ú-chenian.	shekitten	2021-08-05 20:26:18	2021-08-05 20:26:18
-102	0x66	f	8	8565394	sjn	Aníron barf.	shekitten	2020-02-20 12:28:23	2020-02-20 12:28:23
-103	0x67	g	33	8918418	sjn	Im law gallon.	shekitten	2020-07-16 03:59:13	2020-09-08 11:43:09
-104	0x68	h	33	10344581	sjn	I amar lhaew.	shekitten	2021-10-05 14:02:47	2021-10-05 14:02:47
-105	0x69	i	56	2425902	sjn	Noro lim!	bionicboy	2013-05-09 02:25:05	2013-05-09 02:25:05
-108	0x6c	l	43	2142128	sjn	Tolo anin naur.	Dreamk33	2013-01-13 14:48:18	2013-01-13 14:48:27
-109	0x6d	m	35	2425887	sjn	Gi nathlam hí!	bionicboy	2013-05-09 02:22:04	2013-05-09 02:22:04
+97	0x61	a	68	1130972	sjn	Meneg suilaid.	cntrational	2011-09-26 20:48:54	2011-09-26 20:49:19
+98	0x62	b	11	2141779	sjn	Ú-bedin edhellen.	Dreamk33	2013-01-13 10:57:50	2013-01-13 10:57:50
+99	0x63	c	11	10218720	sjn	Ú-chenian.	shekitten	2021-08-05 20:26:18	2021-08-05 20:26:18
+100	0x64	d	32	8504295	sjn	I gordof caran.	shekitten	2020-02-01 17:11:05	2020-02-01 17:11:05
+101	0x65	e	58	8344790	sjn	Iarwain si meren.	shekitten	2019-11-25 01:25:50	2019-11-25 01:25:50
+102	0x66	f	8	2141864	sjn	Iston i nîf lîn.	Dreamk33	2013-01-13 12:01:45	2013-01-13 12:01:45
+103	0x67	g	33	2425890	sjn	Pedig edhellen?	bionicboy	2013-05-09 02:22:46	2013-05-09 02:22:46
+104	0x68	h	33	8361429	sjn	Ú-athradathar!	shekitten	2019-12-03 01:14:42	2019-12-03 01:14:42
+105	0x69	i	56	2142128	sjn	Tolo anin naur.	Dreamk33	2013-01-13 14:48:18	2013-01-13 14:48:27
+108	0x6c	l	43	11507238	sjn	Im lim.	shekitten	2023-02-03 12:56:51	2023-02-03 12:56:51
+109	0x6d	m	35	9049409	sjn	Sami raug.	shekitten	2020-09-18 19:50:50	2020-09-18 19:50:50
 110	0x6e	n	71	8557256	sjn	Ú-agorer nad.	shekitten	2020-02-16 21:29:44	2020-02-16 21:29:44
-111	0x6f	o	42	2141864	sjn	Iston i nîf lîn.	Dreamk33	2013-01-13 12:01:45	2013-01-13 12:01:45
-112	0x70	p	2	8338799	sjn	Gerin i phith vaerwain.	shekitten	2019-11-22 13:02:30	2019-11-22 13:02:30
+111	0x6f	o	42	8562923	sjn	Aníron allen lastad.	shekitten	2020-02-19 12:04:59	2020-02-19 12:04:59
+112	0x70	p	2	8518923	sjn	Alphen ista illaid.	shekitten	2020-02-06 02:09:57	2020-02-06 02:09:57
 113	0x71	q	1	3230009	sjn	Min Adar man naesse Menel Aer nali eneth Li arnad tul Li indome naqua Bo Amar sui hanaesse Menel Annomin hi aur mir ilauria bas a dihen min ugerthi siu min dihen tuin man ugerth dan min Aa tegimin uminna usahtie mal lethmin umea	Abcormal	2014-05-04 04:50:27	2014-05-04 04:50:27
-114	0x72	r	52	9049336	sjn	Iarwain 'aur.	shekitten	2020-09-18 19:18:25	2020-09-18 19:18:25
-115	0x73	s	23	8557116	sjn	Ú-vedin aes.	shekitten	2020-02-16 20:12:25	2020-02-16 20:12:25
-116	0x74	t	33	8338799	sjn	Gerin i phith vaerwain.	shekitten	2019-11-22 13:02:30	2019-11-22 13:02:30
-117	0x75	u	16	2141776	sjn	Odulen an edraith anlen.	Dreamk33	2013-01-13 10:56:18	2013-01-13 10:56:18
-118	0x76	v	14	3230008	sjn	Ae Adar nín i vi Menel no aer i eneth lín tolo i arnad lín caro den i innas lin bo Ceven sui vi Menel Anno ammen sír imbas ilaurui vín ar díheno ammen i úgerth vin sui mín i gohenam di ai gerir úgerth ...... ammen	Abcormal	2014-05-04 04:50:10	2014-05-04 04:50:10
-119	0x77	w	18	9049336	sjn	Iarwain 'aur.	shekitten	2020-09-18 19:18:25	2020-09-18 19:18:25
-121	0x79	y	3	2425924	sjn	Uhunc ylf ernedui.	bionicboy	2013-05-09 02:33:33	2013-05-09 02:33:33
+114	0x72	r	52	9354456	sjn	Iarwain dhîr adh im vess.	shekitten	2020-11-22 11:33:40	2020-11-22 11:33:40
+115	0x73	s	23	2425882	sjn	Êl síla erin lû e-govaned vîn.	bionicboy	2013-05-09 02:20:17	2013-05-09 02:20:17
+116	0x74	t	33	8343884	sjn	Thostach.	shekitten	2019-11-24 15:41:47	2019-11-24 15:41:47
+117	0x75	u	16	9041607	sjn	Tirio barf dadui.	shekitten	2020-09-15 22:13:45	2020-09-15 22:13:45
+118	0x76	v	14	2141878	sjn	Avo garo am man theled?	Dreamk33	2013-01-13 12:15:24	2013-01-13 12:15:24
+119	0x77	w	18	8342225	sjn	Ú-'âr Iarwain gaun.	shekitten	2019-11-23 13:16:39	2019-11-25 00:50:19
+121	0x79	y	3	9041685	sjn	Me vellyn.	shekitten	2020-09-15 22:47:24	2020-09-15 22:47:24
 202	0xca	Ê	1	2425882	sjn	Êl síla erin lû e-govaned vîn.	bionicboy	2013-05-09 02:20:17	2013-05-09 02:20:17
-218	0xda	Ú	7	8557116	sjn	Ú-vedin aes.	shekitten	2020-02-16 20:12:25	2020-02-16 20:12:25
+218	0xda	Ú	7	2141779	sjn	Ú-bedin edhellen.	Dreamk33	2013-01-13 10:57:50	2013-01-13 10:57:50
 225	0xe1	á	1	8560367	sjn	Sámi ennas a lasta.	shekitten	2020-02-18 12:21:30	2020-02-18 12:21:30
 226	0xe2	â	1	8342225	sjn	Ú-'âr Iarwain gaun.	shekitten	2019-11-23 13:16:39	2019-11-25 00:50:19
 234	0xea	ê	1	8503821	sjn	Im hên.	shekitten	2020-02-01 13:01:51	2020-02-01 13:01:51
-237	0xed	í	11	8565486	sjn	Aníron i barf.	shekitten	2020-02-20 13:35:01	2020-02-20 13:35:01
-238	0xee	î	9	1130975	sjn	Minnar in Ernilath rîn, erio Forodrim!	cntrational	2011-09-26 20:49:10	2011-09-26 20:49:24
+237	0xed	í	11	1130977	sjn	Gîl síla na lû govaded.	cntrational	2011-09-26 20:49:51	2011-09-26 20:49:55
+238	0xee	î	9	2142121	sjn	Dôl gîn lost.	Dreamk33	2013-01-13 14:46:02	2013-01-13 14:47:27
 244	0xf4	ô	2	8343801	sjn	Se brôg?	shekitten	2019-11-24 15:05:09	2019-11-24 15:05:09
 250	0xfa	ú	5	9199694	sjn	I gordof ú-garan.	shekitten	2020-10-28 07:36:13	2020-10-28 07:36:13
-251	0xfb	û	3	1130977	sjn	Gîl síla na lû govaded.	cntrational	2011-09-26 20:49:51	2011-09-26 20:49:55
+251	0xfb	û	3	2425882	sjn	Êl síla erin lû e-govaned vîn.	bionicboy	2013-05-09 02:20:17	2013-05-09 02:20:17
 375	0x177	ŷ	1	8508425	sjn	Im mŷg.	shekitten	2020-02-03 03:04:28	2020-02-03 03:04:28

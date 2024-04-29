@@ -1,38 +1,38 @@
-32	0x20	 	17	4701662	ton	Fiefia ke fetaulaki mo kimoua.	\N	2015-11-15 04:44:46	2015-11-15 05:38:38
-33	0x21	!	3	7560381	ton	Mālō ‘aupito!	Ricardo14	2018-12-07 06:38:56	2018-12-07 06:39:03
-39	0x27	'	6	4701671	ton	'Oku 'ikai keu 'ilo'i.	\N	2015-11-15 04:52:29	2019-04-16 10:50:08
+32	0x20	 	17	7918856	ton	Taha, ua, tolu, fa, nima, ono, fitu, valu, hiva, taha noa.	\N	2019-05-18 12:46:40	2020-02-17 09:40:37
+33	0x21	!	3	3296588	ton	Mālō e lelei!	Ricardo14	2014-06-04 16:01:34	2018-12-05 12:38:42
+39	0x27	'	6	4701684	ton	'Oku 'ikai keu mahino.	\N	2015-11-15 05:00:41	2019-04-16 10:50:11
 44	0x2c	,	2	7918856	ton	Taha, ua, tolu, fa, nima, ono, fitu, valu, hiva, taha noa.	\N	2019-05-18 12:46:40	2020-02-17 09:40:37
-46	0x2e	.	14	7918856	ton	Taha, ua, tolu, fa, nima, ono, fitu, valu, hiva, taha noa.	\N	2019-05-18 12:46:40	2020-02-17 09:40:37
+46	0x2e	.	14	4701661	ton	Fiefia ke fetaulaki mo koe.	\N	2015-11-15 04:44:30	2015-11-15 05:38:54
 58	0x3a	:	1	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
-63	0x3f	?	3	7726600	ton	'Oku ke sai'ia 'i niu vai?	marvinibahs	2019-01-15 18:04:03	2019-01-15 18:04:03
+63	0x3f	?	3	3298576	ton	Fēfē hake?	Ricardo14	2014-06-05 15:25:42	2018-12-05 12:39:03
 65	0x41	A	1	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
 69	0x45	E	1	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
-70	0x46	F	5	4701663	ton	Fiefia ke fetaulaki mo kimoutolu.	\N	2015-11-15 04:45:13	2015-11-15 05:38:33
+70	0x46	F	5	4701661	ton	Fiefia ke fetaulaki mo koe.	\N	2015-11-15 04:44:30	2015-11-15 05:38:54
 75	0x4b	K	2	7560379	ton	Kātaki.	Ricardo14	2018-12-07 06:36:46	2018-12-07 06:37:08
-77	0x4d	M	4	7560381	ton	Mālō ‘aupito!	Ricardo14	2018-12-07 06:38:56	2018-12-07 06:39:03
+77	0x4d	M	4	3296588	ton	Mālō e lelei!	Ricardo14	2014-06-04 16:01:34	2018-12-05 12:38:42
 78	0x4e	N	1	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
-79	0x4f	O	9	3615015	ton	ʻOku ou ako.	\N	2014-11-08 15:34:02	2015-11-04 05:42:54
+79	0x4f	O	9	4701676	ton	'Oku ou mahino.	\N	2015-11-15 04:56:57	2019-04-16 10:50:09
 83	0x53	S	1	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
-84	0x54	T	3	7918856	ton	Taha, ua, tolu, fa, nima, ono, fitu, valu, hiva, taha noa.	\N	2019-05-18 12:46:40	2020-02-17 09:40:37
-97	0x61	a	17	4701684	ton	'Oku 'ikai keu mahino.	\N	2015-11-15 05:00:41	2019-04-16 10:50:11
-101	0x65	e	9	7726600	ton	'Oku ke sai'ia 'i niu vai?	marvinibahs	2019-01-15 18:04:03	2019-01-15 18:04:03
-102	0x66	f	5	7918856	ton	Taha, ua, tolu, fa, nima, ono, fitu, valu, hiva, taha noa.	\N	2019-05-18 12:46:40	2020-02-17 09:40:37
+84	0x54	T	3	4701688	ton	Tokanga.	\N	2015-11-15 05:02:56	2019-04-16 10:50:12
+97	0x61	a	17	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
+101	0x65	e	9	4701662	ton	Fiefia ke fetaulaki mo kimoua.	\N	2015-11-15 04:44:46	2015-11-15 05:38:38
+102	0x66	f	5	4701663	ton	Fiefia ke fetaulaki mo kimoutolu.	\N	2015-11-15 04:45:13	2015-11-15 05:38:33
 103	0x67	g	3	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
-104	0x68	h	6	4701676	ton	'Oku ou mahino.	\N	2015-11-15 04:56:57	2019-04-16 10:50:09
-105	0x69	i	15	4701671	ton	'Oku 'ikai keu 'ilo'i.	\N	2015-11-15 04:52:29	2019-04-16 10:50:08
-107	0x6b	k	15	3615011	ton	ʻOku ou kai.	\N	2014-11-08 15:30:22	2015-11-04 05:42:31
+104	0x68	h	6	3298576	ton	Fēfē hake?	Ricardo14	2014-06-05 15:25:42	2018-12-05 12:39:03
+105	0x69	i	15	4701676	ton	'Oku ou mahino.	\N	2015-11-15 04:56:57	2019-04-16 10:50:09
+107	0x6b	k	15	4701688	ton	Tokanga.	\N	2015-11-15 05:02:56	2019-04-16 10:50:12
 108	0x6c	l	11	7560381	ton	Mālō ‘aupito!	Ricardo14	2018-12-07 06:38:56	2018-12-07 06:39:03
-109	0x6d	m	7	4701663	ton	Fiefia ke fetaulaki mo kimoutolu.	\N	2015-11-15 04:45:13	2015-11-15 05:38:33
-110	0x6e	n	7	4701684	ton	'Oku 'ikai keu mahino.	\N	2015-11-15 05:00:41	2019-04-16 10:50:11
-111	0x6f	o	15	4701688	ton	Tokanga.	\N	2015-11-15 05:02:56	2019-04-16 10:50:12
+109	0x6d	m	7	4701684	ton	'Oku 'ikai keu mahino.	\N	2015-11-15 05:00:41	2019-04-16 10:50:11
+110	0x6e	n	7	7918856	ton	Taha, ua, tolu, fa, nima, ono, fitu, valu, hiva, taha noa.	\N	2019-05-18 12:46:40	2020-02-17 09:40:37
+111	0x6f	o	15	3615011	ton	ʻOku ou kai.	\N	2014-11-08 15:30:22	2015-11-04 05:42:31
 112	0x70	p	2	7560381	ton	Mālō ‘aupito!	Ricardo14	2018-12-07 06:38:56	2018-12-07 06:39:03
 115	0x73	s	2	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
-116	0x74	t	7	4701661	ton	Fiefia ke fetaulaki mo koe.	\N	2015-11-15 04:44:30	2015-11-15 05:38:54
+116	0x74	t	7	4701662	ton	Fiefia ke fetaulaki mo kimoua.	\N	2015-11-15 04:44:46	2015-11-15 05:38:38
 117	0x75	u	14	4701661	ton	Fiefia ke fetaulaki mo koe.	\N	2015-11-15 04:44:30	2015-11-15 05:38:54
 118	0x76	v	3	7725001	ton	'Oku 'a e ngaahi mahina 'o e ta'u: Sanuali, Fepueli, Ma'asi, 'Epeleli, Me, Sune, Siulai, 'Aokosi, Sepitema, 'Okatopa, Novema mo Tisema.	marvinibahs	2019-01-15 02:09:40	2019-01-15 02:09:40
 225	0xe1	á	1	7560377	ton	Ko hai ho hingoá?	Ricardo14	2018-12-07 06:35:30	2018-12-07 06:35:35
 257	0x101	ā	4	7560381	ton	Mālō ‘aupito!	Ricardo14	2018-12-07 06:38:56	2018-12-07 06:39:03
 275	0x113	ē	1	3298576	ton	Fēfē hake?	Ricardo14	2014-06-05 15:25:42	2018-12-05 12:39:03
-333	0x14d	ō	3	7560404	ton	Mālō!	Ricardo14	2018-12-07 06:45:41	2018-12-07 06:45:49
+333	0x14d	ō	3	3296588	ton	Mālō e lelei!	Ricardo14	2014-06-04 16:01:34	2018-12-05 12:38:42
 699	0x2bb	ʻ	3	3615015	ton	ʻOku ou ako.	\N	2014-11-08 15:34:02	2015-11-04 05:42:54
 8216	0x2018	‘	1	7560381	ton	Mālō ‘aupito!	Ricardo14	2018-12-07 06:38:56	2018-12-07 06:39:03

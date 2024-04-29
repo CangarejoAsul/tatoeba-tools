@@ -1,37 +1,37 @@
-32	0x20	 	22	7563501	ike	Ippaksaq tuktulialauqtuq.	Atomo	2018-12-08 18:14:03	2018-12-08 18:14:03
+32	0x20	 	22	5990584	ike	Ai! Kinauvit?	LeKid	2017-03-31 19:54:11	\N
 33	0x21	!	11	5990595	ike	Î!	LeKid	2017-03-31 20:01:04	\N
-34	0x22	"	2	5990579	ike	"Qanuipit?" "Qaniungi."	LeKid	2017-03-31 19:50:34	\N
+34	0x22	"	2	5990580	ike	"Qanuipit?" "Qaniungi!"	LeKid	2017-03-31 19:50:52	\N
 44	0x2c	,	5	5990596	ike	Î, mare.	LeKid	2017-03-31 20:01:45	\N
-46	0x2e	.	35	5990587	ike	Uvanga Jack ativa.	LeKid	2017-03-31 19:56:46	\N
-63	0x3f	?	10	7563452	ike	Katimaqatigijunnaqqinnga?	Atomo	2018-12-08 18:05:58	2018-12-08 18:05:58
-65	0x41	A	10	5990566	ike	Ai!	LeKid	2017-03-31 19:37:59	\N
-73	0x49	I	6	7563430	ike	Iglumik niuvialauqtunga.	Atomo	2018-12-08 18:03:06	2018-12-08 18:03:06
+46	0x2e	.	35	5990593	ike	Nakka, naqurmiik.	LeKid	2017-03-31 19:59:41	\N
+63	0x3f	?	10	5990571	ike	Qanuipit?	LeKid	2017-03-31 19:40:12	\N
+65	0x41	A	10	5990584	ike	Ai! Kinauvit?	LeKid	2017-03-31 19:54:11	\N
+73	0x49	I	6	7563427	ike	Inuktitummik ilisailauqsimajunga.	Atomo	2018-12-08 18:02:22	2018-12-08 18:02:22
 74	0x4a	J	1	5990587	ike	Uvanga Jack ativa.	LeKid	2017-03-31 19:56:46	\N
-75	0x4b	K	5	7563452	ike	Katimaqatigijunnaqqinnga?	Atomo	2018-12-08 18:05:58	2018-12-08 18:05:58
+75	0x4b	K	5	7563448	ike	Kappiagiviuk?	Atomo	2018-12-08 18:05:04	2018-12-08 18:05:04
 77	0x4d	M	1	5990573	ike	Qanuipit, Mike?	LeKid	2017-03-31 19:40:40	\N
-78	0x4e	N	7	5990608	ike	Nakka!	LeKid	2017-03-31 20:09:53	\N
+78	0x4e	N	7	5990592	ike	Naqurmiik.	LeKid	2017-03-31 19:59:20	\N
 79	0x4f	O	2	5990597	ike	Ogguarpunga.	LeKid	2017-03-31 20:02:40	\N
 80	0x50	P	1	7563466	ike	Pinasuarusiulauqtumi titirarvigilauqtarma irngiinaaqtautikkut.	Atomo	2018-12-08 18:07:51	2018-12-08 18:07:51
 81	0x51	Q	7	7563492	ike	Qimmiq illup sanianiittuq.	Atomo	2018-12-08 18:12:22	2018-12-08 18:12:22
-84	0x54	T	11	5990603	ike	Tavvauvutit.	LeKid	2017-03-31 20:04:42	\N
-85	0x55	U	5	7563471	ike	Uqsuqtuurmuuqtunga.	Atomo	2018-12-08 18:08:55	2018-12-08 18:08:55
+84	0x54	T	11	5990601	ike	Tavvauvusi!	LeKid	2017-03-31 20:04:23	\N
+85	0x55	U	5	5990587	ike	Uvanga Jack ativa.	LeKid	2017-03-31 19:56:46	\N
 87	0x57	W	1	5990588	ike	Uvanga Wang ativa.	LeKid	2017-03-31 19:56:56	\N
-97	0x61	a	44	5990603	ike	Tavvauvutit.	LeKid	2017-03-31 20:04:42	\N
+97	0x61	a	44	5990592	ike	Naqurmiik.	LeKid	2017-03-31 19:59:20	\N
 99	0x63	c	1	5990587	ike	Uvanga Jack ativa.	LeKid	2017-03-31 19:56:46	\N
-101	0x65	e	2	5990573	ike	Qanuipit, Mike?	LeKid	2017-03-31 19:40:40	\N
-103	0x67	g	25	7563456	ike	Ippassaq uqaalavigilauqtaatit.	Atomo	2018-12-08 18:06:40	2018-12-08 18:06:40
-105	0x69	i	43	7563466	ike	Pinasuarusiulauqtumi titirarvigilauqtarma irngiinaaqtautikkut.	Atomo	2018-12-08 18:07:51	2018-12-08 18:07:51
+101	0x65	e	2	5990596	ike	Î, mare.	LeKid	2017-03-31 20:01:45	\N
+103	0x67	g	25	7861833	ike	Aliasuppunga.	neilgrey	2019-04-20 20:56:13	2019-04-20 20:56:31
+105	0x69	i	43	5990588	ike	Uvanga Wang ativa.	LeKid	2017-03-31 19:56:56	\N
 106	0x6a	j	5	7563446	ike	Iliragijaatigut.	Atomo	2018-12-08 18:04:39	2018-12-08 18:04:39
-107	0x6b	k	18	7563448	ike	Kappiagiviuk?	Atomo	2018-12-08 18:05:04	2018-12-08 18:05:04
+107	0x6b	k	18	7861827	ike	Anaanaga tikittuq.	neilgrey	2019-04-20 20:50:41	2019-04-20 20:57:47
 108	0x6c	l	10	7563446	ike	Iliragijaatigut.	Atomo	2018-12-08 18:04:39	2018-12-08 18:04:39
-109	0x6d	m	16	5990596	ike	Î, mare.	LeKid	2017-03-31 20:01:45	\N
-110	0x6e	n	30	5990587	ike	Uvanga Jack ativa.	LeKid	2017-03-31 19:56:46	\N
-111	0x6f	o	4	5990570	ike	Ai, Tom.	LeKid	2017-03-31 19:38:52	\N
-112	0x70	p	15	7563477	ike	Nunasiutiup qaanganiittutit.	Atomo	2018-12-08 18:10:45	2018-12-08 18:10:45
-113	0x71	q	20	7563483	ike	Niuviriaqtuq.	Atomo	2018-12-08 18:11:43	2018-12-08 18:11:43
+109	0x6d	m	16	7563427	ike	Inuktitummik ilisailauqsimajunga.	Atomo	2018-12-08 18:02:22	2018-12-08 18:02:22
+110	0x6e	n	30	5990593	ike	Nakka, naqurmiik.	LeKid	2017-03-31 19:59:41	\N
+111	0x6f	o	4	5990589	ike	Uvanga Tom ativa.	LeKid	2017-03-31 19:57:54	\N
+112	0x70	p	15	7563456	ike	Ippassaq uqaalavigilauqtaatit.	Atomo	2018-12-08 18:06:40	2018-12-08 18:06:40
+113	0x71	q	20	7563471	ike	Uqsuqtuurmuuqtunga.	Atomo	2018-12-08 18:08:55	2018-12-08 18:08:55
 114	0x72	r	13	7563498	ike	Kimmirumuuliqtugut.	Atomo	2018-12-08 18:13:00	2018-12-08 18:13:00
-115	0x73	s	12	7563492	ike	Qimmiq illup sanianiittuq.	Atomo	2018-12-08 18:12:22	2018-12-08 18:12:22
-116	0x74	t	33	5990583	ike	Kinauvit?	LeKid	2017-03-31 19:53:35	\N
-117	0x75	u	39	7563477	ike	Nunasiutiup qaanganiittutit.	Atomo	2018-12-08 18:10:45	2018-12-08 18:10:45
-118	0x76	v	15	5990589	ike	Uvanga Tom ativa.	LeKid	2017-03-31 19:57:54	\N
+115	0x73	s	12	7563466	ike	Pinasuarusiulauqtumi titirarvigilauqtarma irngiinaaqtautikkut.	Atomo	2018-12-08 18:07:51	2018-12-08 18:07:51
+116	0x74	t	33	7563513	ike	Tikirataaqtugut.	Atomo	2018-12-08 18:14:54	2018-12-08 18:14:54
+117	0x75	u	39	7563448	ike	Kappiagiviuk?	Atomo	2018-12-08 18:05:04	2018-12-08 18:05:04
+118	0x76	v	15	5990587	ike	Uvanga Jack ativa.	LeKid	2017-03-31 19:56:46	\N
 206	0xce	Î	3	5990594	ike	Î.	LeKid	2017-03-31 20:01:00	\N

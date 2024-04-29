@@ -1,49 +1,49 @@
-32	0x20	 	20	8396316	cos	Semu famiti.	zarisi	2019-12-22 08:43:17	2019-12-22 08:43:40
+32	0x20	 	20	8396471	cos	Sò trè mesi chì ùn l'aghju micca vista.	zarisi	2019-12-22 09:51:29	2019-12-22 09:51:29
 33	0x21	!	1	9802980	cos	Grazie!	escudo119	2021-02-24 21:42:35	2021-02-24 21:42:35
-39	0x27	'	4	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
+39	0x27	'	4	9802985	cos	Anch'eiu.	escudo119	2021-02-24 21:43:45	2021-02-24 21:43:45
 44	0x2c	,	2	8396463	cos	Sè no cantàssimu tutt'inseme, sarìa una bella cacufunìa.	zarisi	2019-12-22 09:48:34	2019-12-22 09:48:34
-46	0x2e	.	18	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
-63	0x3f	?	5	8396329	cos	Chì faci?	zarisi	2019-12-22 08:46:16	2019-12-22 08:46:16
+46	0x2e	.	18	9803008	cos	Eiu sò di Russia.	escudo119	2021-02-24 21:50:03	2021-02-24 21:50:03
+63	0x3f	?	5	4919833	cos	Duva hè u pane?	Balamax	2016-02-18 03:48:18	2016-02-18 03:48:18
 65	0x41	A	2	8396466	cos	A ringraziavvi.	zarisi	2019-12-22 09:49:40	2019-12-22 09:49:40
 66	0x42	B	2	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
-67	0x43	C	3	8396329	cos	Chì faci?	zarisi	2019-12-22 08:46:16	2019-12-22 08:46:16
+67	0x43	C	3	8396327	cos	Comu ti chjami?	zarisi	2019-12-22 08:45:21	2019-12-22 08:45:21
 68	0x44	D	1	4919833	cos	Duva hè u pane?	Balamax	2016-02-18 03:48:18	2016-02-18 03:48:18
 69	0x45	E	2	9803008	cos	Eiu sò di Russia.	escudo119	2021-02-24 21:50:03	2021-02-24 21:50:03
 71	0x47	G	1	9802980	cos	Grazie!	escudo119	2021-02-24 21:42:35	2021-02-24 21:42:35
 73	0x49	I	1	8396469	cos	In forma ?	zarisi	2019-12-22 09:50:40	2019-12-22 09:50:40
 75	0x4b	K	1	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
 82	0x52	R	1	9803008	cos	Eiu sò di Russia.	escudo119	2021-02-24 21:50:03	2021-02-24 21:50:03
-83	0x53	S	6	8396311	cos	Sè goffu.	zarisi	2019-12-22 08:42:47	2019-12-22 08:42:47
+83	0x53	S	6	8396471	cos	Sò trè mesi chì ùn l'aghju micca vista.	zarisi	2019-12-22 09:51:29	2019-12-22 09:51:29
 84	0x54	T	1	9802983	cos	Eiu sò Tom.	escudo119	2021-02-24 21:43:30	2021-03-02 13:48:53
 85	0x55	U	1	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
-86	0x56	V	3	9802975	cos	Và bè.	escudo119	2021-02-24 21:42:15	2021-02-24 21:42:15
-97	0x61	a	17	8396467	cos	À bona notte.	zarisi	2019-12-22 09:50:09	2019-12-22 09:50:09
-98	0x62	b	3	8396463	cos	Sè no cantàssimu tutt'inseme, sarìa una bella cacufunìa.	zarisi	2019-12-22 09:48:34	2019-12-22 09:48:34
-99	0x63	c	8	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
-100	0x64	d	4	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
-101	0x65	e	13	8396467	cos	À bona notte.	zarisi	2019-12-22 09:50:09	2019-12-22 09:50:09
-102	0x66	f	6	8396329	cos	Chì faci?	zarisi	2019-12-22 08:46:16	2019-12-22 08:46:16
-103	0x67	g	7	8396311	cos	Sè goffu.	zarisi	2019-12-22 08:42:47	2019-12-22 08:42:47
-104	0x68	h	8	8396302	cos	À un di sti ghjorni.	zarisi	2019-12-22 08:41:14	2019-12-22 08:41:52
-105	0x69	i	16	8396316	cos	Semu famiti.	zarisi	2019-12-22 08:43:17	2019-12-22 08:43:40
-106	0x6a	j	4	8396471	cos	Sò trè mesi chì ùn l'aghju micca vista.	zarisi	2019-12-22 09:51:29	2019-12-22 09:51:29
-108	0x6c	l	5	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
-109	0x6d	m	9	8396463	cos	Sè no cantàssimu tutt'inseme, sarìa una bella cacufunìa.	zarisi	2019-12-22 09:48:34	2019-12-22 09:48:34
-110	0x6e	n	13	8396302	cos	À un di sti ghjorni.	zarisi	2019-12-22 08:41:14	2019-12-22 08:41:52
-111	0x6f	o	10	8396302	cos	À un di sti ghjorni.	zarisi	2019-12-22 08:41:14	2019-12-22 08:41:52
+86	0x56	V	3	8396465	cos	Vi ringraziu.	zarisi	2019-12-22 09:49:30	2019-12-22 09:49:30
+97	0x61	a	17	9803008	cos	Eiu sò di Russia.	escudo119	2021-02-24 21:50:03	2021-02-24 21:50:03
+98	0x62	b	3	9802975	cos	Và bè.	escudo119	2021-02-24 21:42:15	2021-02-24 21:42:15
+99	0x63	c	8	8396463	cos	Sè no cantàssimu tutt'inseme, sarìa una bella cacufunìa.	zarisi	2019-12-22 09:48:34	2019-12-22 09:48:34
+100	0x64	d	4	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
+101	0x65	e	13	4919833	cos	Duva hè u pane?	Balamax	2016-02-18 03:48:18	2016-02-18 03:48:18
+102	0x66	f	6	8396311	cos	Sè goffu.	zarisi	2019-12-22 08:42:47	2019-12-22 08:42:47
+103	0x67	g	7	8396471	cos	Sò trè mesi chì ùn l'aghju micca vista.	zarisi	2019-12-22 09:51:29	2019-12-22 09:51:29
+104	0x68	h	8	9802985	cos	Anch'eiu.	escudo119	2021-02-24 21:43:45	2021-02-24 21:43:45
+105	0x69	i	16	9803008	cos	Eiu sò di Russia.	escudo119	2021-02-24 21:50:03	2021-02-24 21:50:03
+106	0x6a	j	4	8396302	cos	À un di sti ghjorni.	zarisi	2019-12-22 08:41:14	2019-12-22 08:41:52
+108	0x6c	l	5	9802970	cos	Salute.	escudo119	2021-02-24 21:41:55	2021-02-24 21:41:55
+109	0x6d	m	9	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
+110	0x6e	n	13	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
+111	0x6f	o	10	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
 112	0x70	p	2	4919833	cos	Duva hè u pane?	Balamax	2016-02-18 03:48:18	2016-02-18 03:48:18
 113	0x71	q	1	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
-114	0x72	r	10	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
-115	0x73	s	9	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
-116	0x74	t	12	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00
-117	0x75	u	17	4776454	cos	Benvenutu.	Balamax	2015-12-19 04:50:07	2015-12-19 04:50:38
+114	0x72	r	10	8396469	cos	In forma ?	zarisi	2019-12-22 09:50:40	2019-12-22 09:50:40
+115	0x73	s	9	8396463	cos	Sè no cantàssimu tutt'inseme, sarìa una bella cacufunìa.	zarisi	2019-12-22 09:48:34	2019-12-22 09:48:34
+116	0x74	t	12	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
+117	0x75	u	17	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
 118	0x76	v	6	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
-122	0x7a	z	4	8396465	cos	Vi ringraziu.	zarisi	2019-12-22 09:49:30	2019-12-22 09:49:30
-192	0xc0	À	2	8396302	cos	À un di sti ghjorni.	zarisi	2019-12-22 08:41:14	2019-12-22 08:41:52
-224	0xe0	à	3	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
-232	0xe8	è	9	9802975	cos	Và bè.	escudo119	2021-02-24 21:42:15	2021-02-24 21:42:15
+122	0x7a	z	4	9802980	cos	Grazie!	escudo119	2021-02-24 21:42:35	2021-02-24 21:42:35
+192	0xc0	À	2	8396467	cos	À bona notte.	zarisi	2019-12-22 09:50:09	2019-12-22 09:50:09
+224	0xe0	à	3	9802975	cos	Và bè.	escudo119	2021-02-24 21:42:15	2021-02-24 21:42:15
+232	0xe8	è	9	8396463	cos	Sè no cantàssimu tutt'inseme, sarìa una bella cacufunìa.	zarisi	2019-12-22 09:48:34	2019-12-22 09:48:34
 233	0xe9	é	1	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
-236	0xec	ì	4	8396461	cos	Vogliu chè vo sìate in casa à ott'ore è mezu.	zarisi	2019-12-22 09:48:06	2019-12-22 09:48:06
-242	0xf2	ò	3	8396471	cos	Sò trè mesi chì ùn l'aghju micca vista.	zarisi	2019-12-22 09:51:29	2019-12-22 09:51:29
+236	0xec	ì	4	8396329	cos	Chì faci?	zarisi	2019-12-22 08:46:16	2019-12-22 08:46:16
+242	0xf2	ò	3	9802983	cos	Eiu sò Tom.	escudo119	2021-02-24 21:43:30	2021-03-02 13:48:53
 243	0xf3	ó	1	7918594	cos	Unu, dui, trè, quattru, cinque, séi, sétte, óttu, nóve, déce.	\N	2019-05-18 11:30:57	2020-02-17 09:30:30
 249	0xf9	ù	2	4718349	cos	Burj Khalifa hè actualmente u grattacelu u più altu di u mondu.	Balamax	2015-11-22 15:19:55	2015-11-22 15:20:00

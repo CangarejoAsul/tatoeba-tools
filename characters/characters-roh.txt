@@ -1,54 +1,54 @@
-32	0x20	 	26	2700820	roh	Chi chaunta da sted, lavura d'inviern.	Scriptor	2013-08-26 23:01:20	2013-08-26 23:01:20
+32	0x20	 	26	10959908	roh	Nua è la sadella?	GuiFFI	2022-07-03 10:07:12	2022-07-03 10:07:12
 33	0x21	!	1	692859	roh	Bellas festas da Nadal!	gioni	2010-12-31 00:20:34	2010-12-31 00:20:54
 34	0x22	"	1	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
 39	0x27	'	5	2707462	roh	Quests artitgels sa sprovan da preschentar l'istorgia da la lingua rumantscha.	Scriptor	2013-08-29 22:06:47	2013-08-29 22:06:47
-44	0x2c	,	4	2700821	roh	Manger poust tuot que cha tü hest, ma na dir tuot que cha tü sest.	Scriptor	2013-08-26 23:02:17	2013-08-26 23:02:17
-46	0x2e	.	22	10958014	roh	Jau chapesch.	GuiFFI	2022-07-02 20:01:05	2022-07-02 20:01:05
+44	0x2c	,	4	3090363	roh	E chegl e igl mies misteri, el e fitg simpel: angal cugl cor ins pogl veir andretg. Igl essenzial n'e betg visibel pigls igls.	\N	2014-03-12 16:15:52	2019-04-16 10:49:21
+46	0x2e	.	22	2700813	roh	In ün di nu's dvainta maister.	Scriptor	2013-08-26 22:59:00	2013-08-26 22:59:00
 58	0x3a	:	1	3090363	roh	E chegl e igl mies misteri, el e fitg simpel: angal cugl cor ins pogl veir andretg. Igl essenzial n'e betg visibel pigls igls.	\N	2014-03-12 16:15:52	2019-04-16 10:49:21
-63	0x3f	?	4	10959908	roh	Nua è la sadella?	GuiFFI	2022-07-03 10:07:12	2022-07-03 10:07:12
+63	0x3f	?	4	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
 65	0x41	A	1	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
-66	0x42	B	2	692858	roh	Betg mintgin sa esser in artist.	gioni	2010-12-31 00:19:02	2010-12-31 00:19:02
+66	0x42	B	2	692859	roh	Bellas festas da Nadal!	gioni	2010-12-31 00:20:34	2010-12-31 00:20:54
 67	0x43	C	1	2700820	roh	Chi chaunta da sted, lavura d'inviern.	Scriptor	2013-08-26 23:01:20	2013-08-26 23:01:20
 69	0x45	E	3	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
-71	0x47	G	2	2700819	roh	Glieud ed ora as stu piglier scu cha sun.	Scriptor	2013-08-26 23:00:36	2013-08-26 23:00:36
+71	0x47	G	2	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
 72	0x48	H	1	3081377	roh	Hai dus giats.	\N	2014-03-07 15:17:56	2019-04-16 10:49:20
 73	0x49	I	3	2700813	roh	In ün di nu's dvainta maister.	Scriptor	2013-08-26 22:59:00	2013-08-26 22:59:00
-74	0x4a	J	6	12328606	roh	Jau sun da Turitg.	Serrot	2024-02-20 01:55:36	2024-02-20 01:56:50
-76	0x4c	L	3	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
+74	0x4a	J	6	12328609	roh	Jaun nu discur betg bain rumantsch.	Serrot	2024-02-20 01:58:13	2024-02-20 01:58:13
+76	0x4c	L	3	2700823	roh	La vuolp müda il pail, ma na il vizi.	Scriptor	2013-08-26 23:03:05	2013-08-26 23:59:56
 77	0x4d	M	1	2700821	roh	Manger poust tuot que cha tü hest, ma na dir tuot que cha tü sest.	Scriptor	2013-08-26 23:02:17	2013-08-26 23:02:17
-78	0x4e	N	3	10959908	roh	Nua è la sadella?	GuiFFI	2022-07-03 10:07:12	2022-07-03 10:07:12
-80	0x50	P	2	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
-81	0x51	Q	2	692857	roh	Quai è gratuit.	gioni	2010-12-31 00:12:31	2010-12-31 00:12:42
+78	0x4e	N	3	692859	roh	Bellas festas da Nadal!	gioni	2010-12-31 00:20:34	2010-12-31 00:20:54
+80	0x50	P	2	10958017	roh	Pudessas ti repeter la dumonda?	GuiFFI	2022-07-02 20:11:20	2022-07-02 20:11:20
+81	0x51	Q	2	2707462	roh	Quests artitgels sa sprovan da preschentar l'istorgia da la lingua rumantscha.	Scriptor	2013-08-29 22:06:47	2013-08-29 22:06:47
 82	0x52	R	1	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
 83	0x53	S	1	2700810	roh	Spert e bain d'inrer cha vain.	Scriptor	2013-08-26 22:57:37	2013-08-26 22:57:37
 84	0x54	T	3	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
 85	0x55	U	1	2700816	roh	Umauns sainza umur sun erva sainza flur.	Scriptor	2013-08-26 22:59:57	2013-08-26 22:59:57
-86	0x56	V	2	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
-97	0x61	a	26	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
-98	0x62	b	8	12328609	roh	Jaun nu discur betg bain rumantsch.	Serrot	2024-02-20 01:58:13	2024-02-20 01:58:13
-99	0x63	c	14	2494515	roh	Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e dessan agir tanter per in uin spiert da fraternità.	Anthaus	2013-06-13 09:50:42	2013-06-13 09:50:49
-100	0x64	d	18	2707462	roh	Quests artitgels sa sprovan da preschentar l'istorgia da la lingua rumantscha.	Scriptor	2013-08-29 22:06:47	2013-08-29 22:06:47
-101	0x65	e	21	692860	roh	Jau tem animals selvadis.	gioni	2010-12-31 00:24:50	2010-12-31 00:25:06
-102	0x66	f	6	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
-103	0x67	g	14	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
-104	0x68	h	14	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19
-105	0x69	i	22	12328606	roh	Jau sun da Turitg.	Serrot	2024-02-20 01:55:36	2024-02-20 01:56:50
+86	0x56	V	2	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
+97	0x61	a	26	2700823	roh	La vuolp müda il pail, ma na il vizi.	Scriptor	2013-08-26 23:03:05	2013-08-26 23:59:56
+98	0x62	b	8	3090363	roh	E chegl e igl mies misteri, el e fitg simpel: angal cugl cor ins pogl veir andretg. Igl essenzial n'e betg visibel pigls igls.	\N	2014-03-12 16:15:52	2019-04-16 10:49:21
+99	0x63	c	14	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
+100	0x64	d	18	2700823	roh	La vuolp müda il pail, ma na il vizi.	Scriptor	2013-08-26 23:03:05	2013-08-26 23:59:56
+101	0x65	e	21	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
+102	0x66	f	6	3090363	roh	E chegl e igl mies misteri, el e fitg simpel: angal cugl cor ins pogl veir andretg. Igl essenzial n'e betg visibel pigls igls.	\N	2014-03-12 16:15:52	2019-04-16 10:49:21
+103	0x67	g	14	2700824	roh	Ün sto fer la via lungia per spargner temp.	Scriptor	2013-08-26 23:03:40	2013-08-26 23:03:40
+104	0x68	h	14	10958014	roh	Jau chapesch.	GuiFFI	2022-07-02 20:01:05	2022-07-02 20:01:05
+105	0x69	i	22	692858	roh	Betg mintgin sa esser in artist.	gioni	2010-12-31 00:19:02	2010-12-31 00:19:02
 107	0x6b	k	1	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
-108	0x6c	l	15	2700816	roh	Umauns sainza umur sun erva sainza flur.	Scriptor	2013-08-26 22:59:57	2013-08-26 22:59:57
-109	0x6d	m	14	2494515	roh	Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e dessan agir tanter per in uin spiert da fraternità.	Anthaus	2013-06-13 09:50:42	2013-06-13 09:50:49
-110	0x6e	n	20	2700813	roh	In ün di nu's dvainta maister.	Scriptor	2013-08-26 22:59:00	2013-08-26 22:59:00
-111	0x6f	o	11	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
-112	0x70	p	12	2707462	roh	Quests artitgels sa sprovan da preschentar l'istorgia da la lingua rumantscha.	Scriptor	2013-08-29 22:06:47	2013-08-29 22:06:47
+108	0x6c	l	15	10958017	roh	Pudessas ti repeter la dumonda?	GuiFFI	2022-07-02 20:11:20	2022-07-02 20:11:20
+109	0x6d	m	14	2700813	roh	In ün di nu's dvainta maister.	Scriptor	2013-08-26 22:59:00	2013-08-26 22:59:00
+110	0x6e	n	20	2707462	roh	Quests artitgels sa sprovan da preschentar l'istorgia da la lingua rumantscha.	Scriptor	2013-08-29 22:06:47	2013-08-29 22:06:47
+111	0x6f	o	11	3090363	roh	E chegl e igl mies misteri, el e fitg simpel: angal cugl cor ins pogl veir andretg. Igl essenzial n'e betg visibel pigls igls.	\N	2014-03-12 16:15:52	2019-04-16 10:49:21
+112	0x70	p	12	10958017	roh	Pudessas ti repeter la dumonda?	GuiFFI	2022-07-02 20:11:20	2022-07-02 20:11:20
 113	0x71	q	1	2700821	roh	Manger poust tuot que cha tü hest, ma na dir tuot que cha tü sest.	Scriptor	2013-08-26 23:02:17	2013-08-26 23:02:17
-114	0x72	r	18	2700813	roh	In ün di nu's dvainta maister.	Scriptor	2013-08-26 22:59:00	2013-08-26 22:59:00
-115	0x73	s	22	12328606	roh	Jau sun da Turitg.	Serrot	2024-02-20 01:55:36	2024-02-20 01:56:50
-116	0x74	t	22	2700821	roh	Manger poust tuot que cha tü hest, ma na dir tuot que cha tü sest.	Scriptor	2013-08-26 23:02:17	2013-08-26 23:02:17
-117	0x75	u	23	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
-118	0x76	v	12	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
+114	0x72	r	18	2494515	roh	Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e dessan agir tanter per in uin spiert da fraternità.	Anthaus	2013-06-13 09:50:42	2013-06-13 09:50:49
+115	0x73	s	22	2700820	roh	Chi chaunta da sted, lavura d'inviern.	Scriptor	2013-08-26 23:01:20	2013-08-26 23:01:20
+116	0x74	t	22	2707462	roh	Quests artitgels sa sprovan da preschentar l'istorgia da la lingua rumantscha.	Scriptor	2013-08-29 22:06:47	2013-08-29 22:06:47
+117	0x75	u	23	10958014	roh	Jau chapesch.	GuiFFI	2022-07-02 20:01:05	2022-07-02 20:01:05
+118	0x76	v	12	3073145	roh	Lavura lur bab tar il chantun?	hoffmania	2014-03-03 10:17:13	2014-03-03 10:17:13
 121	0x79	y	1	692861	roh	"Nua abitais Vus?" "Jau abitesch a Tokyo."	gioni	2010-12-31 00:27:03	2010-12-31 00:27:29
-122	0x7a	z	5	2700823	roh	La vuolp müda il pail, ma na il vizi.	Scriptor	2013-08-26 23:03:05	2013-08-26 23:59:56
+122	0x7a	z	5	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
 220	0xdc	Ü	1	2700824	roh	Ün sto fer la via lungia per spargner temp.	Scriptor	2013-08-26 23:03:40	2013-08-26 23:03:40
 224	0xe0	à	1	2494515	roh	Tuots umans naschan libers ed eguals in dignità e drets. Els sun dotats cun intellet e conscienza e dessan agir tanter per in uin spiert da fraternità.	Anthaus	2013-06-13 09:50:42	2013-06-13 09:50:49
 232	0xe8	è	3	10959908	roh	Nua è la sadella?	GuiFFI	2022-07-03 10:07:12	2022-07-03 10:07:12
-252	0xfc	ü	3	2700813	roh	In ün di nu's dvainta maister.	Scriptor	2013-08-26 22:59:00	2013-08-26 22:59:00
-8217	0x2019	’	2	2671993	roh	La Lia Rumantscha è l’organisaziun da tetg da tut las Rumantschas e tut ils Rumantschs. Ella vul promover a moda durabla la lingua e cultura rumantscha.	Scriptor	2013-08-12 22:33:43	2013-08-12 23:28:22
+252	0xfc	ü	3	2700823	roh	La vuolp müda il pail, ma na il vizi.	Scriptor	2013-08-26 23:03:05	2013-08-26 23:59:56
+8217	0x2019	’	2	2707447	roh	Il Portugais Vasco da Gama ha scuvert la via maritima che maina dal Portugal enturn il continent da l’Africa en l’India.	Scriptor	2013-08-29 21:54:19	2013-08-29 21:54:19

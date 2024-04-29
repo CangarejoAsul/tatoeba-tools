@@ -1,28 +1,28 @@
-32	0x20	 	15	4826090	tvl	E 'lei mea katoa?	Torres40	2016-01-11 22:47:55	2016-01-11 22:51:21
+32	0x20	 	15	4826150	tvl	E fia?	Torres40	2016-01-11 23:25:13	2016-01-11 23:25:18
 33	0x21	!	1	4826102	tvl	E 'lei mea katoa!	Torres40	2016-01-11 22:52:37	2016-01-11 22:52:45
 39	0x27	'	2	4826102	tvl	E 'lei mea katoa!	Torres40	2016-01-11 22:52:37	2016-01-11 22:52:45
 44	0x2c	,	1	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
-46	0x2e	.	4	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
-63	0x3f	?	10	4826180	tvl	Ko ai tou ingoa?	Torres40	2016-01-11 23:36:26	2016-01-25 07:03:46
-69	0x45	E	4	4826150	tvl	E fia?	Torres40	2016-01-11 23:25:13	2016-01-11 23:25:18
-75	0x4b	K	6	4827213	tvl	Ko Tom tona ingoa.	Ricardo14	2016-01-12 15:48:16	2016-01-12 15:48:21
+46	0x2e	.	4	4827213	tvl	Ko Tom tona ingoa.	Ricardo14	2016-01-12 15:48:16	2016-01-12 15:48:21
+63	0x3f	?	10	4826176	tvl	Se a te mea nei?	Torres40	2016-01-11 23:35:20	2016-01-12 00:49:46
+69	0x45	E	4	4826090	tvl	E 'lei mea katoa?	Torres40	2016-01-11 22:47:55	2016-01-11 22:51:21
+75	0x4b	K	6	4826180	tvl	Ko ai tou ingoa?	Torres40	2016-01-11 23:36:26	2016-01-25 07:03:46
 77	0x4d	M	1	11599151	tvl	Ko Muhammad tona ingoa.	Amastan	2023-03-16 09:40:25	2023-03-16 09:40:30
 83	0x53	S	3	4826166	tvl	Se a?	Torres40	2016-01-11 23:31:12	2016-01-11 23:31:59
-84	0x54	T	3	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
-97	0x61	a	15	4826159	tvl	E o ai te mea nei?	Torres40	2016-01-11 23:29:03	2016-01-11 23:34:36
+84	0x54	T	3	4826110	tvl	Tokofla tino?	Torres40	2016-01-11 22:58:02	2016-01-25 07:03:24
+97	0x61	a	15	4827213	tvl	Ko Tom tona ingoa.	Ricardo14	2016-01-12 15:48:16	2016-01-12 15:48:21
 100	0x64	d	1	11599151	tvl	Ko Muhammad tona ingoa.	Amastan	2023-03-16 09:40:25	2023-03-16 09:40:30
-101	0x65	e	8	4826082	tvl	Koe e fano ki fea?	Torres40	2016-01-11 22:45:00	2016-01-11 22:45:19
-102	0x66	f	5	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
+101	0x65	e	8	4826176	tvl	Se a te mea nei?	Torres40	2016-01-11 23:35:20	2016-01-12 00:49:46
+102	0x66	f	5	4826110	tvl	Tokofla tino?	Torres40	2016-01-11 22:58:02	2016-01-25 07:03:24
 103	0x67	g	4	4827170	tvl	Sei se tamaflne ngali pela.	Ricardo14	2016-01-12 15:21:27	2016-01-12 15:21:33
 104	0x68	h	2	11599151	tvl	Ko Muhammad tona ingoa.	Amastan	2023-03-16 09:40:25	2023-03-16 09:40:30
-105	0x69	i	14	4826102	tvl	E 'lei mea katoa!	Torres40	2016-01-11 22:52:37	2016-01-11 22:52:45
-107	0x6b	k	4	4826102	tvl	E 'lei mea katoa!	Torres40	2016-01-11 22:52:37	2016-01-11 22:52:45
-108	0x6c	l	5	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
-109	0x6d	m	8	4827213	tvl	Ko Tom tona ingoa.	Ricardo14	2016-01-12 15:48:16	2016-01-12 15:48:21
-110	0x6e	n	10	4827170	tvl	Sei se tamaflne ngali pela.	Ricardo14	2016-01-12 15:21:27	2016-01-12 15:21:33
-111	0x6f	o	11	11599151	tvl	Ko Muhammad tona ingoa.	Amastan	2023-03-16 09:40:25	2023-03-16 09:40:30
+105	0x69	i	14	4827170	tvl	Sei se tamaflne ngali pela.	Ricardo14	2016-01-12 15:21:27	2016-01-12 15:21:33
+107	0x6b	k	4	4826082	tvl	Koe e fano ki fea?	Torres40	2016-01-11 22:45:00	2016-01-11 22:45:19
+108	0x6c	l	5	4826102	tvl	E 'lei mea katoa!	Torres40	2016-01-11 22:52:37	2016-01-11 22:52:45
+109	0x6d	m	8	11599151	tvl	Ko Muhammad tona ingoa.	Amastan	2023-03-16 09:40:25	2023-03-16 09:40:30
+110	0x6e	n	10	4826171	tvl	Ko ai na?	Torres40	2016-01-11 23:32:34	2016-01-11 23:32:43
+111	0x6f	o	11	4827213	tvl	Ko Tom tona ingoa.	Ricardo14	2016-01-12 15:48:16	2016-01-12 15:48:21
 112	0x70	p	1	4827170	tvl	Sei se tamaflne ngali pela.	Ricardo14	2016-01-12 15:21:27	2016-01-12 15:21:33
 115	0x73	s	2	4827170	tvl	Sei se tamaflne ngali pela.	Ricardo14	2016-01-12 15:21:27	2016-01-12 15:21:33
-116	0x74	t	10	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
-117	0x75	u	3	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53
+116	0x74	t	10	11599151	tvl	Ko Muhammad tona ingoa.	Amastan	2023-03-16 09:40:25	2023-03-16 09:40:30
+117	0x75	u	3	4826180	tvl	Ko ai tou ingoa?	Torres40	2016-01-11 23:36:26	2016-01-25 07:03:46
 118	0x76	v	1	7918859	tvl	Tahi, lua, tolu, fa, lima, ono, fitu, valu, iva, sefulu.	\N	2019-05-18 12:50:55	2020-04-02 18:31:53

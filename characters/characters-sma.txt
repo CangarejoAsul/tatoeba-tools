@@ -1,38 +1,38 @@
-32	0x20	 	57	5656541	sma	Gusnie datne årroeh?	protondonor	2016-12-04 05:10:51	2016-12-04 05:10:55
-33	0x21	!	3	5656551	sma	Buerie biejjie!	protondonor	2016-12-04 05:21:10	2016-12-04 05:21:12
-46	0x2e	.	37	5668073	sma	Datne dåaktarinie barkeminie.	protondonor	2016-12-08 04:47:46	2016-12-08 04:47:56
-63	0x3f	?	19	8754036	sma	Gie dïhte?	skanne	2020-05-11 14:20:16	2020-05-11 14:20:16
-66	0x42	B	4	5656560	sma	Buerie båateme.	protondonor	2016-12-04 05:35:47	2016-12-04 05:35:56
-68	0x44	D	8	5668074	sma	Dïhte lea baernie.	protondonor	2016-12-08 04:49:03	2016-12-08 04:49:11
+32	0x20	 	57	8754208	sma	Im asth.	skanne	2020-05-11 15:02:24	2020-05-11 15:02:24
+33	0x21	!	3	5656558	sma	Gæjhtoe!	protondonor	2016-12-04 05:32:02	2016-12-04 05:32:08
+46	0x2e	.	37	5656568	sma	Ij lea mov gaahtoe.	protondonor	2016-12-04 05:47:47	2016-12-04 05:47:50
+63	0x3f	?	19	5656552	sma	Gie datne?	protondonor	2016-12-04 05:22:14	2016-12-04 05:22:20
+66	0x42	B	4	5656551	sma	Buerie biejjie!	protondonor	2016-12-04 05:21:10	2016-12-04 05:21:12
+68	0x44	D	8	5656526	sma	Datne löövjem jovkh.	protondonor	2016-12-04 04:53:54	2016-12-12 11:29:02
 69	0x45	E	1	8754184	sma	Edtjebe ålkone mïnnedh daanbien?	skanne	2020-05-11 14:52:31	2020-05-11 14:52:31
 71	0x47	G	9	5656534	sma	Gubpede manne båatam?	protondonor	2016-12-04 05:06:01	2016-12-04 05:06:06
-73	0x49	I	6	5656568	sma	Ij lea mov gaahtoe.	protondonor	2016-12-04 05:47:47	2016-12-04 05:47:50
+73	0x49	I	6	5657983	sma	Im maehtieh.	protondonor	2016-12-04 15:55:32	2016-12-04 15:55:44
 74	0x4a	J	1	5656559	sma	Jaavoe.	protondonor	2016-12-04 05:32:24	2016-12-04 05:32:31
-77	0x4d	M	29	5656556	sma	Mejnie datne barkeminie?	protondonor	2016-12-04 05:28:58	2016-12-04 05:29:19
-79	0x4f	O	2	5656544	sma	Manne Oslovisnie årroem.	protondonor	2016-12-04 05:11:43	2016-12-04 05:11:50
-84	0x54	T	3	5656548	sma	Mov nomme lea Tom.	protondonor	2016-12-04 05:18:05	2016-12-04 05:18:11
-97	0x61	a	53	5656531	sma	Manne byöpmedem.	protondonor	2016-12-04 05:02:35	2016-12-12 11:28:10
-98	0x62	b	21	5656551	sma	Buerie biejjie!	protondonor	2016-12-04 05:21:10	2016-12-04 05:21:12
-100	0x64	d	24	5656534	sma	Gubpede manne båatam?	protondonor	2016-12-04 05:06:01	2016-12-04 05:06:06
-101	0x65	e	57	8754503	sma	Dov naan beetnegh?	skanne	2020-05-11 17:15:53	2020-05-11 17:15:53
-102	0x66	f	2	5656528	sma	Manne kaaffem jovkem.	protondonor	2016-12-04 04:58:02	2016-12-12 11:28:32
-103	0x67	g	14	5657971	sma	David lea gåetesne.	protondonor	2016-12-04 15:53:04	2016-12-04 15:53:07
-104	0x68	h	30	5656532	sma	Maam sïjhth byöpmedidh?	protondonor	2016-12-04 05:03:29	2016-12-04 05:03:34
-105	0x69	i	33	8754044	sma	Mannine hijven.	skanne	2020-05-11 14:22:07	2020-05-11 14:22:07
-106	0x6a	j	24	8754184	sma	Edtjebe ålkone mïnnedh daanbien?	skanne	2020-05-11 14:52:31	2020-05-11 14:52:31
-107	0x6b	k	22	5656565	sma	Mov lea veelkes gaatoe.	protondonor	2016-12-04 05:45:28	2016-12-04 05:45:32
-108	0x6c	l	26	5656563	sma	Mov leah luhkiegolme gaahtoeh.	protondonor	2016-12-04 05:42:37	2016-12-04 05:42:43
-109	0x6d	m	37	5668054	sma	Manne leam njieljieluhkien jaepien båeries.	protondonor	2016-12-08 04:26:39	2016-12-08 04:26:43
-110	0x6e	n	35	5656541	sma	Gusnie datne årroeh?	protondonor	2016-12-04 05:10:51	2016-12-04 05:10:55
-111	0x6f	o	29	5668076	sma	Dïhte noereskuvlesne vaedtsieminie.	protondonor	2016-12-08 04:50:50	2016-12-08 04:50:57
-112	0x70	p	7	5668054	sma	Manne leam njieljieluhkien jaepien båeries.	protondonor	2016-12-08 04:26:39	2016-12-08 04:26:43
-114	0x72	r	21	5668073	sma	Datne dåaktarinie barkeminie.	protondonor	2016-12-08 04:47:46	2016-12-08 04:47:56
-115	0x73	s	18	5656544	sma	Manne Oslovisnie årroem.	protondonor	2016-12-04 05:11:43	2016-12-04 05:11:50
-116	0x74	t	38	5656565	sma	Mov lea veelkes gaatoe.	protondonor	2016-12-04 05:45:28	2016-12-04 05:45:32
-117	0x75	u	16	5656560	sma	Buerie båateme.	protondonor	2016-12-04 05:35:47	2016-12-04 05:35:56
-118	0x76	v	26	5656561	sma	Mov lea gærja.	protondonor	2016-12-04 05:39:03	2016-12-04 05:39:07
-121	0x79	y	3	5656532	sma	Maam sïjhth byöpmedidh?	protondonor	2016-12-04 05:03:29	2016-12-04 05:03:34
-229	0xe5	å	15	5668073	sma	Datne dåaktarinie barkeminie.	protondonor	2016-12-08 04:47:46	2016-12-08 04:47:56
-230	0xe6	æ	4	5656561	sma	Mov lea gærja.	protondonor	2016-12-04 05:39:03	2016-12-04 05:39:07
-239	0xef	ï	8	5656547	sma	Man båeries dov vïelle?	protondonor	2016-12-04 05:15:43	2016-12-04 05:15:48
-246	0xf6	ö	4	5656531	sma	Manne byöpmedem.	protondonor	2016-12-04 05:02:35	2016-12-12 11:28:10
+77	0x4d	M	29	5656539	sma	Manne leam Oslovistie.	protondonor	2016-12-04 05:09:12	2016-12-04 05:09:16
+79	0x4f	O	2	5656539	sma	Manne leam Oslovistie.	protondonor	2016-12-04 05:09:12	2016-12-04 05:09:16
+84	0x54	T	3	5656535	sma	Manne Tråanteste båatam.	protondonor	2016-12-04 05:07:28	2016-12-04 05:07:31
+97	0x61	a	53	8754208	sma	Im asth.	skanne	2020-05-11 15:02:24	2020-05-11 15:02:24
+98	0x62	b	21	5656534	sma	Gubpede manne båatam?	protondonor	2016-12-04 05:06:01	2016-12-04 05:06:06
+100	0x64	d	24	8754060	sma	Guktie datnine?	skanne	2020-05-11 14:25:42	2020-05-11 14:25:42
+101	0x65	e	57	5656527	sma	Mijjieh gaajhkem jovkebe.	protondonor	2016-12-04 04:57:29	2016-12-12 11:28:51
+102	0x66	f	2	8754026	sma	Guktie dov tellefovnenommere?	skanne	2020-05-11 14:19:47	2020-05-11 14:19:47
+103	0x67	g	14	5656562	sma	Mov leah golme gaahtoeh.	protondonor	2016-12-04 05:42:07	2016-12-04 05:42:11
+104	0x68	h	30	8754503	sma	Dov naan beetnegh?	skanne	2020-05-11 17:15:53	2020-05-11 17:15:53
+105	0x69	i	33	8754026	sma	Guktie dov tellefovnenommere?	skanne	2020-05-11 14:19:47	2020-05-11 14:19:47
+106	0x6a	j	24	5656532	sma	Maam sïjhth byöpmedidh?	protondonor	2016-12-04 05:03:29	2016-12-04 05:03:34
+107	0x6b	k	22	5656528	sma	Manne kaaffem jovkem.	protondonor	2016-12-04 04:58:02	2016-12-12 11:28:32
+108	0x6c	l	26	5656539	sma	Manne leam Oslovistie.	protondonor	2016-12-04 05:09:12	2016-12-04 05:09:16
+109	0x6d	m	37	5656531	sma	Manne byöpmedem.	protondonor	2016-12-04 05:02:35	2016-12-12 11:28:10
+110	0x6e	n	35	5656533	sma	Gubpede datne båatah?	protondonor	2016-12-04 05:04:39	2016-12-04 05:04:47
+111	0x6f	o	29	5656565	sma	Mov lea veelkes gaatoe.	protondonor	2016-12-04 05:45:28	2016-12-04 05:45:32
+112	0x70	p	7	5656533	sma	Gubpede datne båatah?	protondonor	2016-12-04 05:04:39	2016-12-04 05:04:47
+114	0x72	r	21	5656547	sma	Man båeries dov vïelle?	protondonor	2016-12-04 05:15:43	2016-12-04 05:15:48
+115	0x73	s	18	8754212	sma	Manne bårrestohtem.	skanne	2020-05-11 15:05:07	2020-05-11 15:05:13
+116	0x74	t	38	5656568	sma	Ij lea mov gaahtoe.	protondonor	2016-12-04 05:47:47	2016-12-04 05:47:50
+117	0x75	u	16	5656563	sma	Mov leah luhkiegolme gaahtoeh.	protondonor	2016-12-04 05:42:37	2016-12-04 05:42:43
+118	0x76	v	26	5656547	sma	Man båeries dov vïelle?	protondonor	2016-12-04 05:15:43	2016-12-04 05:15:48
+121	0x79	y	3	5656531	sma	Manne byöpmedem.	protondonor	2016-12-04 05:02:35	2016-12-12 11:28:10
+229	0xe5	å	15	5656555	sma	Manne leam luhkiegaektsien jaepien båeries.	protondonor	2016-12-04 05:27:27	2016-12-04 05:27:33
+230	0xe6	æ	4	8754148	sma	Maam edtjebe hæhtadidh skuvlen mænngan?	skanne	2020-05-11 14:43:46	2020-05-11 14:43:46
+239	0xef	ï	8	5656567	sma	Ij lea mov bïjle.	protondonor	2016-12-04 05:46:42	2016-12-04 05:46:49
+246	0xf6	ö	4	5656532	sma	Maam sïjhth byöpmedidh?	protondonor	2016-12-04 05:03:29	2016-12-04 05:03:34
