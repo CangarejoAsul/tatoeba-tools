@@ -1,36 +1,36 @@
-427971	cycl	(likesAsFriend Batman Robin-BatmanSidekick)	witbrock	2010-07-17 23:58:32	2010-08-08 11:20:09
-473752	cycl	(#$capitalCity #$France #$Paris)	\N	2010-08-21 10:58:18	2020-04-27 15:39:48
+479485	cycl	(agentTypeSellsProductType ConvenienceStore CandyBar)	kblakes	2010-08-25 16:51:46	2010-08-25 16:51:46
+465573	cycl	(genls Android Robot)	witbrock	2010-08-17 02:01:35	2010-08-17 02:01:35
+479300	cycl	(cost (TheFn (SubcollectionOfWithRelationToTypeFn Chair-PieceOfFurniture primaryConstituent Wood)) Expensive)	kblakes	2010-08-25 15:39:31	2010-08-25 15:39:31
+475411	cycl	(thereExists ?PERSON1 (thereExists ?PERSON2 (and (nameStrings ?PERSON1 "Philip") (nameStrings ?PERSON2 "Tom") (relatives ?PERSON1 ?PERSON2))))	kblakes	2010-08-22 18:50:09	2010-08-22 18:51:00
+479219	cycl	(on-Physical (TheFn Cat) (TheFn Mat))	kblakes	2010-08-25 14:38:49	2010-08-25 14:38:49
+479226	cycl	(thereExists ?M (and (mother (TheFn NewbornAnimal) ?M) (needs-Generic (TheFn NewbornAnimal) ?M)))	kblakes	2010-08-25 14:56:45	2010-08-25 14:56:45
+430053	cycl	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	witbrock	2010-07-18 23:02:32	2010-08-08 11:20:40
+479265	cycl	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	kblakes	2010-08-25 15:21:40	2010-08-25 15:21:40
+427962	cycl	(mostNotableIsa Batman Superhero)	witbrock	2010-07-17 23:56:46	2010-08-08 11:20:18
+465526	cycl	(organizationHead CityCouncilOfAustin LeeLeffingwell)	witbrock	2010-08-17 00:29:32	2010-08-17 00:29:40
+475414	cycl	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	kblakes	2010-08-22 18:58:27	2010-09-14 20:36:24
 477333	cycl	(isa AbrahamLincoln FamousHuman)	kblakes	2010-08-24 04:07:41	2010-08-24 04:07:41
 1531074	cycl	(and (equals ?X MajaKuec-Singer)(isa ?X Singer)(isa ?X SlovenianPerson)(birthDate ?X (YearFn 1992)))	witbrock	2012-04-14 01:38:24	2012-04-14 01:40:16
-475414	cycl	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	kblakes	2010-08-22 18:58:27	2010-09-14 20:36:24
-478558	cycl	(exceptionalAtActivityType (PronounFn ThirdPerson-NLAttr Singular-NLAttr Masculine-NLAttr SubjectPronoun) (InstrumentPlayingFn Cello))	kblakes	2010-08-25 04:34:18	2010-08-25 04:34:18
-437759	cycl	(goals Sauron (forAll ?HOB (implies (isa ?HOB Hobbit) (feelsTowardsObjectToDegree ?HOB Sauron Fear highToVeryHighAmountOf))))	witbrock	2010-07-25 07:18:43	2010-08-08 11:20:45
-465573	cycl	(genls Android Robot)	witbrock	2010-08-17 02:01:35	2010-08-17 02:01:35
-427962	cycl	(mostNotableIsa Batman Superhero)	witbrock	2010-07-17 23:56:46	2010-08-08 11:20:18
-479265	cycl	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	kblakes	2010-08-25 15:21:40	2010-08-25 15:21:40
-479226	cycl	(thereExists ?M (and (mother (TheFn NewbornAnimal) ?M) (needs-Generic (TheFn NewbornAnimal) ?M)))	kblakes	2010-08-25 14:56:45	2010-08-25 14:56:45
-430087	cycl	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	witbrock	2010-07-18 23:51:21	2010-08-08 11:20:32
-477346	cycl	(forAll ?X (implies (and (different PlanetJupiter ?X) (isa ?X PlanetInTheSolarSystem)) (largerThan PlanetJupiter ?X massOfObject)))	kblakes	2010-08-24 04:24:15	2010-08-28 21:48:48
-477335	cycl	(relationAllExists properPhysicalParts IPhone-AppleCellphone Touchscreen-Capacitive)	kblakes	2010-08-24 04:09:37	2010-08-24 04:09:37
-478556	cycl	(and (isa 1 OddNumber) (isa 3 OddNumber) (isa 5 OddNumber))	kblakes	2010-08-25 04:28:44	2010-08-25 04:28:44
+479297	cycl	(isa (TheFn (MaleFn HumanYoungAdult)) Doctor-Medical)	kblakes	2010-08-25 15:35:36	2010-08-25 15:35:36
 477359	cycl	(thereExists ?Y (forAll ?X (loves ?Y ?X)))	kblakes	2010-08-24 04:35:49	2010-08-24 04:35:49
+479959	cycl	(relationAllInstance eatsWillingly Termite Wood)	kblakes	2010-08-25 23:26:11	2010-08-25 23:26:11
+427932	cycl	(numberOfInhabitants CityOfAucklandNZ 1000000)	witbrock	2010-07-17 23:48:50	2010-08-08 11:20:24
+473752	cycl	(#$capitalCity #$France #$Paris)	\N	2010-08-21 10:58:18	2020-04-27 15:39:48
+472105	cycl	(personFoundInLocation BritneySpears ?WHERE)	witbrock	2010-08-20 02:28:28	2010-08-20 02:28:28
+430087	cycl	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	witbrock	2010-07-18 23:51:21	2010-08-08 11:20:32
+437759	cycl	(goals Sauron (forAll ?HOB (implies (isa ?HOB Hobbit) (feelsTowardsObjectToDegree ?HOB Sauron Fear highToVeryHighAmountOf))))	witbrock	2010-07-25 07:18:43	2010-08-08 11:20:45
+479482	cycl	(relationAllInstance sellsProductType ConvenienceStore CandyBar)	kblakes	2010-08-25 16:49:37	2010-08-25 16:49:37
+477351	cycl	(not (thereExists ?X (owns ?X MoonOfEarth)))	kblakes	2010-08-24 04:30:48	2010-08-24 04:30:48
+478556	cycl	(and (isa 1 OddNumber) (isa 3 OddNumber) (isa 5 OddNumber))	kblakes	2010-08-25 04:28:44	2010-08-25 04:28:44
+477335	cycl	(relationAllExists properPhysicalParts IPhone-AppleCellphone Touchscreen-Capacitive)	kblakes	2010-08-24 04:09:37	2010-08-24 04:09:37
+427922	cycl	(behaviorCapable-PerformedBy Madonna Singing-Human)	witbrock	2010-07-17 23:43:41	2010-08-07 21:07:59
+475928	cycl	(evaluate 3 (PlusFn 1 2))	kblakes	2010-08-23 03:05:31	2010-08-23 03:05:53
+513207	cycl	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	\N	2010-09-14 22:34:35	2020-04-27 15:39:58
+478558	cycl	(exceptionalAtActivityType (PronounFn ThirdPerson-NLAttr Singular-NLAttr Masculine-NLAttr SubjectPronoun) (InstrumentPlayingFn Cello))	kblakes	2010-08-25 04:34:18	2010-08-25 04:34:18
+479965	cycl	(oppositeCollections WakingUpFromSleep GoingToSleep)	kblakes	2010-08-25 23:30:35	2010-08-25 23:30:35
+427940	cycl	(isa CityOfAucklandNewZealand (CityInCountryFn NewZealand) )	witbrock	2010-07-17 23:51:00	2010-08-08 11:20:02
+427971	cycl	(likesAsFriend Batman Robin-BatmanSidekick)	witbrock	2010-07-17 23:58:32	2010-08-08 11:20:09
 475436	cycl	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) performedBy)	kblakes	2010-08-22 19:12:44	2010-09-14 20:45:58
 478566	cycl	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	kblakes	2010-08-25 05:16:02	2010-08-25 05:24:17
-479965	cycl	(oppositeCollections WakingUpFromSleep GoingToSleep)	kblakes	2010-08-25 23:30:35	2010-08-25 23:30:35
-477351	cycl	(not (thereExists ?X (owns ?X MoonOfEarth)))	kblakes	2010-08-24 04:30:48	2010-08-24 04:30:48
-513207	cycl	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	\N	2010-09-14 22:34:35	2020-04-27 15:39:58
-472105	cycl	(personFoundInLocation BritneySpears ?WHERE)	witbrock	2010-08-20 02:28:28	2010-08-20 02:28:28
-479219	cycl	(on-Physical (TheFn Cat) (TheFn Mat))	kblakes	2010-08-25 14:38:49	2010-08-25 14:38:49
-430053	cycl	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	witbrock	2010-07-18 23:02:32	2010-08-08 11:20:40
-479300	cycl	(cost (TheFn (SubcollectionOfWithRelationToTypeFn Chair-PieceOfFurniture primaryConstituent Wood)) Expensive)	kblakes	2010-08-25 15:39:31	2010-08-25 15:39:31
-479297	cycl	(isa (TheFn (MaleFn HumanYoungAdult)) Doctor-Medical)	kblakes	2010-08-25 15:35:36	2010-08-25 15:35:36
-479485	cycl	(agentTypeSellsProductType ConvenienceStore CandyBar)	kblakes	2010-08-25 16:51:46	2010-08-25 16:51:46
-475928	cycl	(evaluate 3 (PlusFn 1 2))	kblakes	2010-08-23 03:05:31	2010-08-23 03:05:53
-427922	cycl	(behaviorCapable-PerformedBy Madonna Singing-Human)	witbrock	2010-07-17 23:43:41	2010-08-07 21:07:59
-465526	cycl	(organizationHead CityCouncilOfAustin LeeLeffingwell)	witbrock	2010-08-17 00:29:32	2010-08-17 00:29:40
-427940	cycl	(isa CityOfAucklandNewZealand (CityInCountryFn NewZealand) )	witbrock	2010-07-17 23:51:00	2010-08-08 11:20:02
+477346	cycl	(forAll ?X (implies (and (different PlanetJupiter ?X) (isa ?X PlanetInTheSolarSystem)) (largerThan PlanetJupiter ?X massOfObject)))	kblakes	2010-08-24 04:24:15	2010-08-28 21:48:48
 475435	cycl	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) doneBy)	kblakes	2010-08-22 19:11:53	2010-09-14 20:45:20
-479959	cycl	(relationAllInstance eatsWillingly Termite Wood)	kblakes	2010-08-25 23:26:11	2010-08-25 23:26:11
-479482	cycl	(relationAllInstance sellsProductType ConvenienceStore CandyBar)	kblakes	2010-08-25 16:49:37	2010-08-25 16:49:37
-427932	cycl	(numberOfInhabitants CityOfAucklandNZ 1000000)	witbrock	2010-07-17 23:48:50	2010-08-08 11:20:24
-475411	cycl	(thereExists ?PERSON1 (thereExists ?PERSON2 (and (nameStrings ?PERSON1 "Philip") (nameStrings ?PERSON2 "Tom") (relatives ?PERSON1 ?PERSON2))))	kblakes	2010-08-22 18:50:09	2010-08-22 18:51:00

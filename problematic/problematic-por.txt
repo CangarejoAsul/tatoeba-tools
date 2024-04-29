@@ -6,6 +6,7 @@ Question mark: preceeded by space	502289	por	Onde estão as duchas ?	alexandresa
 Ellipsis: too short	517494	por	Em Esperanto o acento tônico é sempre na penúltima sílaba..	anonym	2010-09-17 16:26:10	2010-09-17 16:26:10
 Parentheses: closing mark succeeded by letter or digit	729138	por	Não estou entendendo nada (d)o que o estrangeiro está dizendo.	lenon_perez	2011-01-27 11:33:39	2011-01-27 11:33:39
 Multiplication sign: possible homoglyph	732348	por	C++0x vai aceitar funções template que têm um número arbitrário de parâmetros.	brauliobezerra	2011-01-29 12:42:01	2011-01-29 12:42:01
+Foreign: Leipzig = Lípsia	826366	por	Leipzig é uma cidade antiga.	brauliobezerra	2011-04-06 01:47:22	2011-04-06 01:47:22
 Capitalization	937303	por	iPhones têm telas sensíveis ao toque do tipo capacitivo.	une_monica	2011-06-13 08:02:25	2011-06-13 08:02:25
 Ellipsis: too short	1007547	por	Ramsés II reinou de 1304 a.C. a 1237 a.C..	alexmarcelo	2011-07-25 23:32:52	2011-07-25 23:32:52
 Multiplication sign: possible homoglyph	1049839	por	Quais são as raízes da equação x² - 6x - 27 = 0?	alexmarcelo	2011-08-17 19:07:42	2011-08-17 19:07:42
@@ -32,6 +33,7 @@ Exclamation mark: preceeded by space	1249653	por	Pare já com essa bagunça !	sa
 Exclamation mark: preceeded by space	1252078	por	Oh ! Maravilhoso.	satsu	2011-11-21 04:24:34	2011-11-21 04:24:34
 Cedilla: followed by e or i	1267604	por	Timuçin voou de Yozgat para Varsóvia pela Ryan Air.	paula_guisard	2011-11-28 14:37:29	2011-11-28 14:37:29
 Colon: succeeded by letter or punctuation	1335990	por	No meu idioma, "," se chama vírgula, ";" se chama ponto e vírgula, ":" se chama dois pontos, "…" se chama reticências e esta frase acaba com um ponto final.	alexmarcelo	2012-01-03 21:31:37	2012-01-03 21:31:37
+Misspelling: excessão -> exceção	1353133	por	Compaixão instiga nos a trabalhar incansavelmente por suavisar o sofrimento de nossos entes próximos, para destronar nos mesmo do centro de nosso mundo e colocar outros lá, e a honrar a santidade intocável de toda a pessoa, tratando todos, sem excessão, com absoluta justiça, igualdade e respeito.	jxajroad	2012-01-11 11:53:45	2012-01-11 11:55:25
 Dieresis: not used	1368288	por	Uma dieta rica em sal pode levar ao aumento da pressão sangüínea.	Flarioca	2012-01-18 03:14:13	2012-01-18 03:14:13
 English quotation marks: unbalanced opening marks	1373680	por	Na língua internacional esperanto os substantivos terminam em “o’; os adjetivos, em “a”.	tulio	2012-01-20 13:41:22	2012-01-20 13:41:22
 Colon: succeeded by letter or punctuation	1373712	por	O sol é uma grande estrela:? - Sim, ele é uma grande estrela.	tulio	2012-01-20 13:41:22	2012-01-20 13:41:22
@@ -41,6 +43,7 @@ Dieresis: not used	1378697	por	No tempo em que apareceu o esperanto, era propaga
 Dieresis: not used	1378699	por	A necessidade de uma língua internacional era tão grande, que algumas pessoas aprenderam o Volapük porque tinha uma gramática fácil.	tulio	2012-01-20 13:46:13	2012-01-20 13:46:13
 Dieresis: not used	1378703	por	Por isso o Volapük, cujo criador não permitia melhoramentos em sua língua, morreu.	tulio	2012-01-20 13:46:13	2012-01-20 13:46:13
 Dieresis: not used	1378705	por	Então, muitas pessoas, tendo abandonado o Volapük, aceitaram o Esperanto.	tulio	2012-01-20 13:46:14	2012-01-20 13:46:14
+Misspelling: absolouta -> absoluta	1379371	por	Cada um desses homens possuía, realmente, um conjunto de sons convencionais, mediante os quais ele com absolouta precisão se compreendia com os seus vizinhos mais próximos.	tulio	2012-01-20 13:46:31	2012-01-20 13:46:31
 Final punctuation	1381268	por	Poderíamos fazer o seguinte:	tulio	2012-01-20 13:48:26	2012-01-20 13:48:26
 Final punctuation	1381272	por	O melhor caminho é o seguinte:	tulio	2012-01-20 13:48:26	2012-01-20 13:48:26
 Final punctuation	1381278	por	Fiz isso do seguinte modo:	tulio	2012-01-20 13:48:26	2012-01-20 13:48:26
@@ -48,6 +51,7 @@ Question mark: preceeded by space	1452953	por	Por que as pessoas adicionam frase
 Straight quotation marks: preceeded and succeeded by space	1558059	por	Ele disse: " Vem conosco!"	Antrobos	2012-05-01 12:02:06	2012-05-01 12:02:06
 Capitalization	1561564	por	protótipo.js - insere informação de atualização na página quando a página é carregada.	Lamarck	2012-05-04 05:29:07	2012-05-04 05:29:07
 Dieresis: not used	1626704	por	Em nome do Presidente Lula, Cláudio Soares Rocha expressou admiração pelos esforços que os esperantistas do mundo inteiro dedicam à difusão cada vez maior do esperanto. Ele escreveu ainda: "Sabemos que, na história da Humanidade, línguas impuseram-se em conseqüência da hegemonia política, como o latim, o francês – em certa medida – e posteriormente o inglês. Ansiamos para que, de fato, algum dia, o esperanto possa ser aceito pela maioria das nações como língua adotada para facilitar a comunicação sem privilégios linguísticos."	al_ex_an_der	2012-06-14 19:55:36	2012-10-04 18:04:14
+Misspelling: conseqüência -> consequência	1626704	por	Em nome do Presidente Lula, Cláudio Soares Rocha expressou admiração pelos esforços que os esperantistas do mundo inteiro dedicam à difusão cada vez maior do esperanto. Ele escreveu ainda: "Sabemos que, na história da Humanidade, línguas impuseram-se em conseqüência da hegemonia política, como o latim, o francês – em certa medida – e posteriormente o inglês. Ansiamos para que, de fato, algum dia, o esperanto possa ser aceito pela maioria das nações como língua adotada para facilitar a comunicação sem privilégios linguísticos."	al_ex_an_der	2012-06-14 19:55:36	2012-10-04 18:04:14
 Final punctuation	1653139	por	Desculpa, não entendi. Talvez possas traduzir para alguma das seguinte línguas:	filipos	2012-06-29 13:44:37	2012-06-29 13:44:37
 Comma: succeeded by letter	1707432	por	Em uma família, pode-se encontrar: um avô e uma avó, um pai e uma mãe, um filho e uma filha,um sobrinho e uma sobrinha (com respeito aos avôs), também um irmão e uma irmã, um tio e uma tia, um sobrinho e uma sobrinha (com respeito aos tios), e um primo e uma prima.	nalamao	2012-07-18 18:29:08	2012-07-18 18:29:08
 Comma: preceeded by space	1786025	por	A maior solidão é do ser que se ausenta, que se defende, que se fecha , que se recusa a participar da vida humana.	Kellib	2012-08-19 15:04:42	2012-08-19 15:04:42
@@ -56,6 +60,7 @@ Question mark: preceeded by space	2008219	por	Quanto tempo é preciso para ir ao
 Quotation marks: homoglyphs	2039554	por	''Ficção'' não é o mesmo que ''mentir''; é uma forma de arte literalmente.	MarlonX19	2012-11-26 20:09:32	2012-11-26 20:09:32
 Quotation marks: homoglyphs	2039558	por	''Ficção'' é algo que não é real; ela vem da imaginação.	MarlonX19	2012-11-26 20:10:22	2012-11-26 20:10:22
 Quotation marks: homoglyphs	2039560	por	O livro é classificado como ''ficção''.	MarlonX19	2012-11-26 20:11:12	2012-11-26 20:11:12
+Misspelling: Ví -> Vi	2045029	por	Ví uma menininha que era doce e amável.	MarlonX19	2012-11-29 02:56:39	2012-11-29 02:56:39
 Quotation marks: homoglyphs	2047496	por	Você está falando com você mesmo e sobre você mesmo. Isso se chama ''projeção''.	MarlonX19	2012-11-30 01:13:06	2012-11-30 01:13:06
 Cedilla: followed by e or i	2056836	por	Balançe sua cabeça se entender.	MarlonX19	2012-12-04 21:01:23	2012-12-04 21:01:23
 Straight quotation marks: odd number	2056851	por	Totoro diz: ''Não posso falar chinês".	MarlonX19	2012-12-04 21:11:38	2012-12-31 05:27:16
@@ -109,9 +114,11 @@ Quotation marks: homoglyphs	2592440	por	Como você diz ''amor'' em francês?	Mar
 Dieresis: not used	2653638	por	O Tom comprou uma câmera na liqüidação.	marcospcruz	2013-08-04 12:18:30	2013-08-04 12:18:30
 Straight quotation marks: odd number	2667752	por	"Se algo a meu respeito não te agrada", disse Tom, "então segue o conselho de Pitágoras: "Escreve na areia os defeitos de teu amigo!" — "Mas assim vou precisar de areia demais", replicou Maria.	carlosalberto	2013-08-11 12:31:12	2013-08-11 12:31:12
 Comma: preceeded by space	2672257	por	Canção do antigo repertório de Irene Bilik "Apaixone-se por mim, Yuri" agora, como nunca , é apropiada.	Sitko	2013-08-13 01:03:22	2013-08-13 01:03:22
+Misspelling: apropiada -> apropriada	2672257	por	Canção do antigo repertório de Irene Bilik "Apaixone-se por mim, Yuri" agora, como nunca , é apropiada.	Sitko	2013-08-13 01:03:22	2013-08-13 01:03:22
 Ellipsis: too short	2674937	por	Um momento de tristeza embotava sua percepção..	carlosalberto	2013-08-14 03:35:19	2013-08-14 03:35:19
 Period: preceeded by space	2679309	por	Tom ficou preocupado porque teve a impressão de que as palavras de Mary fossem uma indireta para ele, mas na verdade ela estava apenas debochando de si mesma .	vitoreiji	2013-08-15 22:24:18	2013-08-15 22:24:18
 Quotation marks: homoglyphs	2682373	por	''Devo fechar a janela?'' ''Sim, por favor.''	MarlonX19	2013-08-17 07:21:12	2013-08-17 07:21:12
+Misspelling: aquelle -> aquele	2688731	por	"Aqui" e "aquelle" são palavras que se vão tornando aceitas na medida em que são usadas em Interlíngua.	carlosalberto	2013-08-20 01:09:55	2018-11-03 14:42:06
 Straight quotation marks: preceeded and succeeded by space	2716211	por	O homem que estava fumando disse: " Ele não veio aqui nunca mais."	Ricardo14	2013-09-02 15:23:20	2013-09-02 15:23:20
 Final punctuation	2719383	por	"Apesar das aparências, você é uma pervertida" - "Pervertida nada. Eu sou é uma puritana." - "Tá bom, finge que eu acredito"	vitoreiji	2013-09-04 15:35:09	2013-09-04 17:29:01
 Straight quotation marks: preceeded and succeeded by space	2720151	por	Na aulas de francês e alemão, nosso professor que veio da Inglaterra disse: " Como vocês podem esperar aprender uma língua estrangeira se vocês não conhecem a gramática da sua própria língua?"	Ricardo14	2013-09-04 18:00:10	2018-11-03 01:53:27
@@ -119,8 +126,10 @@ Comma: preceeded by space	2732312	por	Em alemão, "Mädchen" , na verdade, pede 
 Comma: succeeded by letter	2740137	por	Este não é um passaporte soviético: Veja,ele foi emitido M3C Ucrânia em 1992, significa que este passaporte é ucraniano, ainda que esteja escrito aqui "Passaporte da União Soviética".	Sitko	2013-09-14 19:28:48	2013-09-14 19:28:48
 Straight quotation marks: odd number	2741951	por	"De quem são esses medicamentos? "Da Fahima."	Ricardo14	2013-09-15 23:14:24	2013-09-15 23:14:24
 Final punctuation	2747488	por	Eu ganhei um monte de picadas de insetos na floresta	Ricardo14	2013-09-19 04:55:56	2013-09-19 04:55:56
+Misspelling: Bolshói -> Bolshoi	2751427	por	Quero ir ao Bolshói, mas dizem que é difícil conseguir entradas.	carlosalberto	2013-09-20 20:52:52	2013-09-20 20:52:52
 Final punctuation	2751631	por	Eu sei que você gosta do Tom	Ricardo14	2013-09-20 23:45:55	2013-09-20 23:45:55
 Multiplication sign: possible homoglyph	2775907	por	Resolver a equação cúbica x³ + 2x² − x − 2 = 0.	carlosalberto	2013-10-06 14:20:20	2013-10-06 14:20:20
+Misspelling: mihões -> milhões	2776888	por	O meio-campista Dantas do Alpha FC foi emprestado ao Yang Warriors por 5 mihões de euros.	Ricardo14	2013-10-07 00:39:15	2013-10-07 01:46:59
 Quotation marks: homoglyphs	2814952	por	''Jamais entenderei as mulheres'', disse Tom.	MarlonX19	2013-10-29 18:58:20	2013-10-29 19:00:59
 Quotation marks: homoglyphs	2814953	por	''Eu nunca vou entender as mulheres'', disse Tom.	MarlonX19	2013-10-29 18:59:13	2013-10-29 18:59:13
 Quotation marks: homoglyphs	2817258	por	Em seu livro, ''Na terra das línguas inventadas,'' Arika Okrent fala, favoravelmente, sobre o esperanto.	MarlonX19	2013-10-30 23:09:11	2013-10-30 23:09:11
@@ -136,6 +145,7 @@ Quotation marks: homoglyphs	2898069	por	''Para ser honesto, eu tenho medo de alt
 Parentheses: opening mark preceeded by letter or digit	2945976	por	A função f(x) = 5 é uma função constante.	alexmarcelo	2013-12-28 20:11:44	2013-12-28 20:11:44
 Parentheses: opening mark preceeded by letter or digit	2945977	por	A função f(x) = π² é uma função constante.	alexmarcelo	2013-12-28 20:12:48	2013-12-28 20:12:48
 Final punctuation	2998199	por	És realmente um anjo	jaurelio	2014-01-20 21:49:12	2014-01-20 21:49:12
+Foreign: film = filme	3029666	por	"Pacto de Sangue" é o título de um clássico "film noir" de 1944, no qual um galanteador corretor de seguros (Fred MacMurray) e uma dona de casa (Barbara Stanwyck) planejam o assassinato do marido dela, fazendo-o parecer um acidente, a fim de aumentar o prêmio estipulado na apólice do seguro de vida, que seria pago em dobro em caso de morte acidental.	carlosalberto	2014-02-04 18:10:25	2014-02-04 18:18:35
 Quotation marks: homoglyphs	3057661	por	Eu gosto de sorvete de chocolate, flocos e ''sonho de valsa''.	raissalima	2014-02-20 00:19:02	2014-03-08 20:29:22
 Period: preceeded by space	3069412	por	O fruto proibido é o mais doce .	carlosalberto	2014-03-01 05:55:03	2014-03-01 05:55:03
 Final punctuation	3091218	por	Devo vê-lo amanhã	ruj	2014-03-13 01:35:59	2014-03-13 01:36:12
@@ -167,6 +177,7 @@ Capitalization	3689649	por	quando o vinho esta dentro, o espirito esta fora.	Rre
 Final punctuation	3694653	por	Ele interrompeu-o dizendo não	carlosalberto	2014-12-15 21:05:16	2014-12-15 21:05:16
 Question mark: preceeded by space	3694723	por	Vocês podem falar mais baixo, por favor ? Estou com dor de cabeça por causa da ressaca.	edson1267camaforte	2014-12-15 21:45:50	2014-12-15 21:45:50
 Question mark: preceeded by space	3694785	por	Ele poderia fechar a janela ?	edson1267camaforte	2014-12-15 22:11:00	2014-12-15 22:11:00
+Misspelling: viodeocâmera -> videocâmera	3694806	por	Ele (a) não se deu conta da pequena viodeocâmera no semáforo.	edson1267camaforte	2014-12-15 22:19:39	2014-12-15 22:20:33
 Question mark: preceeded by space	3694809	por	Qual será a tarefa para amanhã ?	edson1267camaforte	2014-12-15 22:21:04	2014-12-15 22:21:04
 Exclamation mark: preceeded by space	3694847	por	Não se deixe intimidar por certas pessoas !	edson1267camaforte	2014-12-15 22:39:08	2014-12-15 22:39:08
 Final punctuation	3694855	por	Eu seria capaz de exterminar la a família	edson1267camaforte	2014-12-15 22:45:06	2014-12-15 22:45:06
@@ -252,6 +263,7 @@ English quotation marks: unclosed opening mark	4779688	por	“Se não trouxer o 
 Straight quotation marks: odd number	4779688	por	“Se não trouxer o dinheiro antes do ocaso, terá sérios problemas comigo", disse o agiota.	anthrax26	2015-12-20 15:42:09	2015-12-20 18:30:29
 Quotation marks: mixed curly and straight	4779688	por	“Se não trouxer o dinheiro antes do ocaso, terá sérios problemas comigo", disse o agiota.	anthrax26	2015-12-20 15:42:09	2015-12-20 18:30:29
 Question mark: preceeded by space	4787012	por	Quando é que nós vamos começar a comer ?	anthrax26	2015-12-23 17:23:34	2015-12-23 17:23:34
+Misspelling: horrivel -> horrível	4800764	por	Ontem eu tive um acidente horrivel na rodovia.	Luciosp	2015-12-30 23:06:00	2015-12-30 23:06:00
 Comma: succeeded by letter	4802089	por	Fale mais alto, querido,por favor!	ianna	2015-12-31 20:11:44	2015-12-31 20:11:44
 Final punctuation	4803192	por	Pode ir com a condição que volte às cinco	pxq233	2016-01-01 14:12:41	2016-01-01 14:12:41
 Comma: succeeded by letter	4803355	por	Depois terminar sua tarefa,viu televisão.	pxq233	2016-01-01 15:04:29	2016-01-01 15:04:29
@@ -293,6 +305,7 @@ Colon: succeeded by letter or punctuation	5080574	por	Nosso website http://www.e
 Final punctuation	5080994	por	Os Balcãs não devem ser confundidos com os Países Bálticos	Ricardo14	2016-04-23 20:41:51	2024-01-26 11:25:37
 Final punctuation	5082126	por	Acho que já está na hora de ir,	markpalmer	2016-04-24 13:39:20	2016-04-24 13:39:20
 Cedilla: followed by e or i	5111365	por	Imagina eu começei a aprender ASL.	AndrePaulo	2016-05-04 17:40:01	2016-05-04 17:40:23
+Misspelling: começei -> comecei	5111365	por	Imagina eu começei a aprender ASL.	AndrePaulo	2016-05-04 17:40:01	2016-05-04 17:40:23
 Final punctuation	5111383	por	Retire-o	AndrePaulo	2016-05-04 17:46:19	2016-05-04 17:46:19
 Final punctuation	5111809	por	Tom quitou as suas dívidas	bill	2016-05-04 20:07:04	2016-05-04 20:07:04
 Greek characters: possible homoglyphs	5119711	por	Εu acho que ele é da Austrália, mas não tenho certeza.	Ricardo14	2016-05-07 02:57:29	2016-05-07 02:57:29
@@ -330,6 +343,7 @@ Left-to-right mark	5406300	por	Preciso achar as chaves da minha casa.‎	avellar
 Left-to-right mark	5406329	por	O livro se acha aberto.‎	avellar	2016-09-06 11:39:19	2016-09-17 11:13:56
 Left-to-right mark	5406340	por	Errei no cálculo.‎	avellar	2016-09-06 11:46:32	2016-09-17 11:16:35
 Exclamation mark: preceeded by space	5408082	por	Que laranja gostosa !, ela é tão docinha.	Pandinha53	2016-09-06 16:40:08	2016-09-06 16:41:55
+Misspelling: bravemente -> bravamente	5408616	por	Eles lutavam bravemente até que um desistiu de lutar.	Pandinha53	2016-09-06 19:01:29	2016-09-06 19:01:29
 Capitalization	5408649	por	traduzam as minhas frases pelo amor de Deus.	Pandinha53	2016-09-06 19:08:38	2016-09-06 19:08:52
 Exclamation mark: preceeded by space	5408669	por	Cala a boca !	Pandinha53	2016-09-06 19:15:06	2016-09-06 19:15:45
 Final punctuation	5409054	por	Você não deve mentir	Noktuo	2016-09-06 20:35:46	2016-09-06 20:35:46
@@ -712,6 +726,7 @@ Quotation marks: mixed curly and straight	7050685	por	Cabisbaixa e em voz débil
 English quotation marks: unopened closing mark	7052506	por	"Do pai Eneias e de Heitor, seu tio, / os exemplos por certo hão de inspirar-lhe / a alma viril e o brio de dardânio.”	carlosalberto	2018-08-09 18:13:03	2018-08-09 18:13:03
 Straight quotation marks: odd number	7052506	por	"Do pai Eneias e de Heitor, seu tio, / os exemplos por certo hão de inspirar-lhe / a alma viril e o brio de dardânio.”	carlosalberto	2018-08-09 18:13:03	2018-08-09 18:13:03
 Quotation marks: mixed curly and straight	7052506	por	"Do pai Eneias e de Heitor, seu tio, / os exemplos por certo hão de inspirar-lhe / a alma viril e o brio de dardânio.”	carlosalberto	2018-08-09 18:13:03	2018-08-09 18:13:03
+Misspelling: álef -> álefe	7061499	por	O nome da primeira letra do alfabeto fenício, "álef", significa "boi".	alexmarcelo	2018-08-14 20:50:24	2018-08-14 20:50:24
 Final punctuation	7062735	por	O Tom está interessado em ajudar a Mary,	Ricardo14	2018-08-15 15:47:55	2018-08-15 15:47:55
 English quotation marks: unclosed opening mark	7063834	por	Vou então consultar o rei-profeta: / “Filho de Troia, intérprete dos deuses, / que sabes transmitir as vontades de Apolo, / que os segredos das trípodes conheces, / que entendes as mensagem dos loureiros / de Clário e podes ler nos astros, no cantar / e no voo das aves os augúrios, / dá-me o teu vaticínio, por favor! / Favoráveis oráculos me indicam / todo o caminho que me cumpre navegar; / persuadiram-me com sua autoridade / todos os deuses a buscar na Itália / terras que me estariam reservadas."	carlosalberto	2018-08-16 12:50:31	2018-08-16 12:53:06
 Straight quotation marks: odd number	7063834	por	Vou então consultar o rei-profeta: / “Filho de Troia, intérprete dos deuses, / que sabes transmitir as vontades de Apolo, / que os segredos das trípodes conheces, / que entendes as mensagem dos loureiros / de Clário e podes ler nos astros, no cantar / e no voo das aves os augúrios, / dá-me o teu vaticínio, por favor! / Favoráveis oráculos me indicam / todo o caminho que me cumpre navegar; / persuadiram-me com sua autoridade / todos os deuses a buscar na Itália / terras que me estariam reservadas."	carlosalberto	2018-08-16 12:50:31	2018-08-16 12:53:06
@@ -727,6 +742,7 @@ Quotation marks: mixed curly and straight	7076712	por	“Sim, ó nascido de uma 
 English quotation marks: unopened closing mark	7077239	por	Ele esfregou, e o gênio apareceu, dizendo: "Qual é a tua vontade?" Aladim respondeu: "O sultão, conforme tu sabes, quebrou a promessa que me fez, e o filho do vizir vai casar com a princesa. Minha ordem é que hoje à noite tragas para cá a noiva e o noivo.” “Mestre, eu obedeço”, disse o gênio.	carlosalberto	2018-08-21 17:13:15	2018-08-21 17:13:15
 Straight quotation marks: odd number	7077239	por	Ele esfregou, e o gênio apareceu, dizendo: "Qual é a tua vontade?" Aladim respondeu: "O sultão, conforme tu sabes, quebrou a promessa que me fez, e o filho do vizir vai casar com a princesa. Minha ordem é que hoje à noite tragas para cá a noiva e o noivo.” “Mestre, eu obedeço”, disse o gênio.	carlosalberto	2018-08-21 17:13:15	2018-08-21 17:13:15
 Quotation marks: mixed curly and straight	7077239	por	Ele esfregou, e o gênio apareceu, dizendo: "Qual é a tua vontade?" Aladim respondeu: "O sultão, conforme tu sabes, quebrou a promessa que me fez, e o filho do vizir vai casar com a princesa. Minha ordem é que hoje à noite tragas para cá a noiva e o noivo.” “Mestre, eu obedeço”, disse o gênio.	carlosalberto	2018-08-21 17:13:15	2018-08-21 17:13:15
+Foreign: niente = nada	7099726	por	"Como se diz "de nada" em italiano"? "Di niente."	Ricardo14	2018-08-28 18:38:15	2018-08-28 18:38:24
 Final punctuation	7103909	por	Tem cuidado ao escrever para ele	iart61	2018-08-29 22:55:21	2018-08-29 22:55:21
 Final punctuation	7103940	por	Tende cuidado ao escrever para ele	iart61	2018-08-29 22:55:22	2018-08-29 22:55:22
 Final punctuation	7103971	por	Tenha cuidado ao escrever para ele	iart61	2018-08-29 22:55:22	2018-08-29 22:55:22
@@ -741,6 +757,7 @@ English quotation marks: unopened closing mark	7182027	por	"Se algum dia eu sulc
 Straight quotation marks: odd number	7182027	por	"Se algum dia eu sulcar águas do Tibre / e arar campos por onde o Tibre corre; / se me for dado ver erguida a fortaleza / que lá estaria reservada à minha raça, / essas cidades, que serão de mesma origem, / essas nações irmãs, uma no Epiro / e outra na Hespéria, ambas de Dárdano provindo / e partilhando históricos eventos, / irão se unir, formando uma só pátria, / duas Troias, assim, transformando-se em uma. / Que de cumpri-lo os nossos pósteros se incumbam!”	carlosalberto	2018-09-19 00:08:09	2023-12-29 01:22:36
 Quotation marks: mixed curly and straight	7182027	por	"Se algum dia eu sulcar águas do Tibre / e arar campos por onde o Tibre corre; / se me for dado ver erguida a fortaleza / que lá estaria reservada à minha raça, / essas cidades, que serão de mesma origem, / essas nações irmãs, uma no Epiro / e outra na Hespéria, ambas de Dárdano provindo / e partilhando históricos eventos, / irão se unir, formando uma só pátria, / duas Troias, assim, transformando-se em uma. / Que de cumpri-lo os nossos pósteros se incumbam!”	carlosalberto	2018-09-19 00:08:09	2023-12-29 01:22:36
 Period: preceeded by space	7222182	por	Agora, sou professor de francês .	MacGyver	2018-09-28 07:37:20	2018-09-28 07:37:20
+Misspelling: descamsar -> descansar	7238734	por	Ela vai descamsar.	iart61	2018-09-30 14:52:27	2018-09-30 14:52:27
 Question mark: preceeded by space	7264945	por	Que terias tu feito no lugar dele? ?	carlosalberto	2018-10-07 23:10:33	2018-10-07 23:10:33
 Brackets: unclosed opening mark	7265081	por	O Tom não queria realmente fazer isso.[	Ricardo14	2018-10-08 00:31:02	2018-10-08 00:31:02
 Final punctuation	7308536	por	O prédio cedeu,	iart61	2018-10-18 16:35:04	2018-10-18 16:35:04
@@ -750,11 +767,13 @@ Ellipsis: too short	7327349	por	Seja qual for a vida que levares, eu te apoiarei
 Straight quotation marks: odd number	7345845	por	''Você está certo; preste atenção, portanto." "Estou prestando, leia."	carlosalberto	2018-10-26 17:57:50	2018-10-28 14:21:25
 Quotation marks: homoglyphs	7345845	por	''Você está certo; preste atenção, portanto." "Estou prestando, leia."	carlosalberto	2018-10-26 17:57:50	2018-10-28 14:21:25
 Final punctuation	7446958	por	Elas recuaram	iart61	2018-11-10 16:50:36	2018-11-10 16:50:36
+Misspelling: trampolin -> trampolim	7478585	por	Por que meu proprietário de sessenta anos comprou um trampolin?	joao7889	2018-11-17 18:05:56	2018-11-19 13:23:17
 Final punctuation	7488939	por	Mandei um e-mail para ela	Ricardo14	2018-11-20 17:08:11	2018-11-20 17:10:31
 Final punctuation	7547892	por	O lume está aceso	iart61	2018-12-01 16:33:23	2018-12-01 16:33:23
 Final punctuation	7553241	por	Espero que a gente receba hora extra por isso	lucasmg123	2018-12-03 16:58:16	2018-12-03 16:58:16
 Comma: preceeded by space	7554819	por	Qual chuva mansa – almo elixir, bálsamo e luz – , / lavas as mágoas ao meu frágil coração. / Teu ser de sonho tão sereno me conduz / à doce paz da mais sublime dimensão.	carlosalberto	2018-12-04 13:41:14	2018-12-04 14:47:05
 Dieresis: not used	7589790	por	Isso não terá nenhuma conseqüência.	Ricardo14	2018-12-17 21:56:14	2018-12-17 21:56:14
+Misspelling: conseqüência -> consequência	7589790	por	Isso não terá nenhuma conseqüência.	Ricardo14	2018-12-17 21:56:14	2018-12-17 21:56:14
 Final punctuation	7741502	por	Quando os atenienses começaram a se queixar de sua triste servidão, (não porque o déspota fosse cruel, mas porque se tratava de pesado fardo ao qual não estavam de forma alguma acostumados), ouviram de Esopo a seguinte historieta:	carlosalberto	2019-01-19 16:26:05	2019-01-19 16:26:05
 Final punctuation	7760229	por	Está doente na cama, meu pai não pode vê-lo	pedrolima	2019-02-02 14:32:26	2019-02-02 14:32:26
 Straight quotation marks: odd number	7760369	por	"E aí"?" "Nada demais, apenas tentando andar por lá."	pedrolima	2019-02-02 15:28:45	2019-02-02 15:28:45
@@ -853,6 +872,7 @@ Final punctuation	8344827	por	Quero ser um policial quando crescer	Amodeus	2019-
 Final punctuation	8344829	por	Eu quero ser um policial quando eu crescer	Amodeus	2019-11-25 03:08:14	2019-11-25 03:08:14
 Ellipsis: too short	8352743	por	Minha irmã mais nova tem um trabalho..	RYutaka	2019-11-28 17:46:15	2019-11-28 17:46:15
 Final punctuation	8364162	por	Washington era o homem mais famoso nos Estados Unidos,	RYutaka	2019-12-04 13:07:33	2019-12-04 13:07:33
+Misspelling: horrivel -> horrível	8366364	por	Eu me sinto horrivel.	JGEN	2019-12-05 19:47:29	2019-12-05 19:47:29
 Final punctuation	8405049	por	Eu só tenho uma hora	JGEN	2019-12-25 23:18:10	2019-12-25 23:18:10
 Final punctuation	8412113	por	Tanto faz, cara	luca22	2019-12-28 20:52:50	2019-12-28 20:52:50
 Final punctuation	8422111	por	Isso é o problema	whykels	2020-01-01 21:35:59	2020-01-01 21:35:59
@@ -920,6 +940,7 @@ Final punctuation	9989299	por	Vemos o Tom de vez em quando,	Ricardo14	2021-04-27
 Parentheses: opening mark preceeded by letter or digit	10005188	por	Sinto muito por você ter sido demitido(a).	arthurhh	2021-05-03 09:42:25	2021-05-03 09:42:25
 Parentheses: opening mark preceeded by letter or digit	10005191	por	Eles(Tom e Mary) disseram quando estariam de volta?	arthurhh	2021-05-03 09:43:10	2021-05-03 09:43:10
 Final punctuation	10007886	por	Eu tenho um sonho,	Ricardo14	2021-05-04 18:01:24	2021-05-04 18:01:24
+Foreign: traditore = traidor	10012649	por	As traduções raramente são fiéis. Como dizem os italianos, "traduttore, traditore".	carlosalberto	2021-05-06 23:23:40	2021-05-06 23:23:40
 English quotation marks: unclosed opening mark	10020669	por	“Só os pássaros têm penas.” “E os anjos? Eu pensava que eles também as tinham."	carlosalberto	2021-05-10 11:36:52	2021-05-10 12:11:15
 Straight quotation marks: odd number	10020669	por	“Só os pássaros têm penas.” “E os anjos? Eu pensava que eles também as tinham."	carlosalberto	2021-05-10 11:36:52	2021-05-10 12:11:15
 Quotation marks: mixed curly and straight	10020669	por	“Só os pássaros têm penas.” “E os anjos? Eu pensava que eles também as tinham."	carlosalberto	2021-05-10 11:36:52	2021-05-10 12:11:15
@@ -945,6 +966,7 @@ Multiplication sign: possible homoglyph	10348426	por	No nono lance da partida, o
 Multiplication sign: possible homoglyph	10355801	por	Go é jogado num tabuleiro com o mesmo número de linhas verticais e horizontais, incluindo as linhas que delimitam o tabuleiro. Os tabuleiros mais utilizados são os de 9x9, 13x13 e 19x19 linhas.	carlosalberto	2021-10-11 02:24:35	2021-10-11 02:24:35
 Multiplication sign: possible homoglyph	10357230	por	Em um tabuleiro de 19x19 linhas, o Go é jogado com 361 pedras (181 pretas e 180 brancas).	carlosalberto	2021-10-11 20:40:37	2021-10-11 20:40:37
 Multiplication sign: possible homoglyph	10358654	por	O tamanho padrão do tabuleiro de Go é 19x19. Outros tamanhos de tabuleiro como 13x13 ou 9x9 também são usados, geralmente por iniciantes ou jogadores que desejam jogos mais curtos.	carlosalberto	2021-10-12 16:50:38	2021-10-12 16:50:38
+Foreign: code = código	10364874	por	Você poderia escanear esse QR code para mim?	Ricardo14	2021-10-15 20:33:43	2021-10-15 20:33:43
 Multiplication sign: possible homoglyph	10372545	por	Acabo de ver a reprodução de uma partida de Go, jogada em um tabuleiro 13 x 13. Foram realizados 129 lances (65 P, 64 B), com 13 capturas por Pretas e 12 por Brancas. Pretas venceram por 20 a 16.	carlosalberto	2021-10-19 09:59:57	2021-10-19 09:59:57
 Period: preceeded by space	10404863	por	O tabuleiro de Go é um dos últimos lugares do planeta que ainda não se encontra sob o domínio das máquinas. .	carlosalberto	2021-10-20 17:35:32	2021-10-20 17:47:04
 Final punctuation	10515810	por	Desejo conhecer o mundo	Ricardo14	2021-11-18 22:50:07	2021-11-18 22:50:07
@@ -967,6 +989,7 @@ Final punctuation	10683464	por	Agora eu me lembro	Shujinko	2022-02-20 19:44:31	2
 Capitalization	10687141	por	"boieis" é uma palavra que alguém está solicitando em Tatoeba.	Shujinko	2022-02-22 22:34:47	2022-02-22 22:34:47
 Final punctuation	10709431	por	Tom é um vendedor de livros	MrJuice	2022-03-08 21:41:19	2022-03-08 21:41:19
 Parentheses: opening mark preceeded by letter or digit	10723355	por	Ele ou ela tem 30 dias para recorrer à proteção prevista pela Secção 37.9(g).	Cangarejo	2022-03-17 20:04:47	2022-03-17 20:04:47
+Foreign: Insane = Louco	10747937	por	Júgalos, como são conhecidos os apoiantes do grupo de rap Insane Clown Posse, reúnem-se em frente ao Memorial de Lincoln em Washington durante uma manifestação, no sábado, a 16 de set. de 2017, para protestar e exigir que o FBI rescinda a sua classificação dos júgalos como sendo um "gangue híbrido vagamente organizado".	Cangarejo	2022-03-31 20:03:32	2023-06-02 09:41:50
 Final punctuation	10761384	por	Viado	Cristopher_Ladines_J	2022-04-10 05:52:30	2022-04-12 21:23:38
 Final punctuation	10765854	por	As girafas agruparam-se e permaneceram juntas	filipa	2022-04-13 12:37:07	2022-04-13 12:37:07
 Final punctuation	10765919	por	Esperava um jogo mais difícil	filipa	2022-04-13 12:44:35	2022-04-13 12:44:35
@@ -1018,6 +1041,7 @@ Final punctuation	11123847	por	Eles/Elas querem um pouco de café	Leas	2022-09-1
 Final punctuation	11123852	por	Você sabe o que isto significa? Acho que é provavelmente francês	Leas	2022-09-17 21:02:04	2022-09-17 21:02:04
 Final punctuation	11125054	por	Ela montou o motor	jvlopes91	2022-09-18 13:43:26	2022-09-18 13:43:26
 Final punctuation	11209131	por	"Comeu?" "Sim, eu comi"	omniglotman	2022-10-26 21:06:38	2022-10-26 21:06:38
+Misspelling: Algeria -> Argélia	11242667	por	Europeus podem investir na Algeria.	zWreXczV7J	2022-11-11 21:38:23	2022-11-11 21:38:23
 Prime: possible homoglyph	11305432	por	Qualquer evento deste tipo é representado relativamente ao sistema de coordenadas K pela abscissa x e pelo instante t e relativamente ao sistema K′ pela abscissa x′ e pelo instante t′.	Cangarejo	2022-12-07 19:13:58	2022-12-08 17:13:17
 Dieresis: not used	11320013	por	Atatürk nasceu em 1881 em Tessalônica.	carlosalberto	2022-12-11 21:24:28	2022-12-11 21:24:28
 Straight quotation marks: odd number	11336756	por	Fundei uma religião na qual se acredita que a salvação requer que se vista de rosa e ande sobre as mãos." - "Devo me tornar um adepto, mas quero me vestir de verde e andar de pé."	ario_sana	2022-12-16 05:03:28	2022-12-16 06:09:52
@@ -1067,6 +1091,7 @@ Final punctuation	12297207	por	Tom está aprendendo a costurar	Suelida	2024-02-0
 Final punctuation	12297303	por	Eu acho que tom vai ficar	Suelida	2024-02-02 18:52:53	2024-02-02 18:52:53
 Final punctuation	12302839	por	"Boa tarde, pessoas do mundo"	MathKay	2024-02-06 16:19:12	2024-02-06 16:19:12
 Final punctuation	12302840	por	"Olá, pessoas do mundo"	MathKay	2024-02-06 16:19:32	2024-02-06 16:19:32
+Foreign: BLADE = LÂMINA	12307884	por	Steve Ogburn, que tinha apenas 15 anos quando começou a desenhar o seu nome no exterior de vagões de comboio em 1972, usando a alcunha BLADE, lembra-se de estar sempre atento à polícia.	Cangarejo	2024-02-09 14:47:12	2024-02-09 14:47:12
 Zero-width space	12321645	por	Você não pode cruzar um oceano apenas olhando para a água. ​	carlosalberto	2024-02-17 01:12:02	2024-02-17 01:12:02
 Zero-width space	12327675	por	Eu valorizo ​​​​muito esse presente.	carlosalberto	2024-02-19 14:57:38	2024-02-19 14:57:38
 Final punctuation	12340704	por	Visitamos a Ucrânia	VPZ	2024-02-26 12:14:54	2024-02-26 12:14:54

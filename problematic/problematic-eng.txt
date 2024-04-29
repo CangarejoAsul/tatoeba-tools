@@ -137,6 +137,7 @@ Zero-width space	2915493	eng	This ticket is made ​​out of paper.	j0rd4nkzf	2
 Capitalization	2917700	eng	">" means greater than.	mervert1	2013-12-10 07:30:47	2013-12-10 07:30:47
 Parentheses: opening mark preceeded by letter or digit	2945986	eng	The function f(x) = π² is a constant function.	\N	2013-12-28 20:26:17	2016-05-19 23:50:49
 Ellipsis: too short	2999340	eng	"Ganon made man in his image, and spoke to his creations: "You are my prisoners." Wait, what the hell is this..?" "It's a book." "I know a book if I see one, Sister Ipo. What book—" "Read the book!" "You goose."	Ooneykcall	2014-01-21 11:24:53	2014-01-21 11:24:53
+Misspelling: Halleluja -> Hallelujah	3009467	eng	The dark Ikran is going to the Halleluja Mountains.	kroko	2014-01-26 18:06:28	2014-01-26 18:06:28
 Exclamation mark: preceeded by space	3033018	eng	What's the fuck ? It's precisely what the fuck is !	sacredceltic	2014-02-06 23:40:51	2014-02-06 23:40:51
 Question mark: preceeded by space	3033018	eng	What's the fuck ? It's precisely what the fuck is !	sacredceltic	2014-02-06 23:40:51	2014-02-06 23:40:51
 Period: preceeded by space	3055061	eng	The good always overcome the evil. . . in stories.	OJR1	2014-02-19 05:41:32	2014-02-19 05:41:32
@@ -474,6 +475,7 @@ Quotation marks: mixed curly and straight	7966801	eng	He said, "You are blessed 
 Final punctuation	7973049	eng	And again he said: Spread thy mantle, wherewith thou art covered, and hold it with both hands. And when she spread it and held it, he measured six measures of barley, and laid it upon her. And she carried it, and went into the city,	carlosalberto	2019-06-11 14:13:44	2019-06-11 14:13:44
 Brackets: opening mark preceeded by letter or digit	7996202	eng	There's a pleasing symmetry here: s[:i] + s[i:] is always equal to s.	nickyeow	2019-06-23 14:57:44	2019-06-23 14:57:44
 Colon: succeeded by letter or punctuation	7996202	eng	There's a pleasing symmetry here: s[:i] + s[i:] is always equal to s.	nickyeow	2019-06-23 14:57:44	2019-06-23 14:57:44
+Misspelling: putrified -> putrefied	8070200	eng	And they hearkened not to him, but some of them left until the morning, and it began to be full of worms, and it putrified, and Moses was angry with them.	carlosalberto	2019-07-22 14:15:53	2019-07-22 14:15:53
 Quotation marks: mixed curly and straight	8071208	eng	At a parents’ evening, parents come together with the homeroom teacher in the school. At a parents’ day, each subject teacher, including the homeroom teacher, remains in a classroom, and the parents attend in one room after the other for a brief one-on-one interview to get information about their children's achievements.	Objectivesea	2019-07-23 00:03:27	2019-07-23 00:03:27
 Quotation marks: mixed curly and straight	8071381	eng	“Advertising was practically invented to sell cereal,” says Heather Arndt Anderson, the author of "Breakfast: A History."	Hybrid	2019-07-23 02:03:03	2019-07-23 02:03:03
 Straight quotation marks: odd number	8071402	eng	The history of American residential architecture has always been kind of like an all-you-can-eat buffet," says architect Susan Piedmont-Palladino, director of Virginia Tech's Washington Alexandria Architecture Center. "We can borrow anybody's style of architecture and I'm not sure that's the attitude in other countries around the world. I also think we're dominated by the single family house in a way that other places aren't."	Hybrid	2019-07-23 02:10:33	2019-07-23 02:10:33
@@ -831,6 +833,7 @@ Quotation marks: mixed curly and straight	10072501	eng	"The most beautiful compl
 Quotation marks: mixed curly and straight	10072863	eng	“The primary mirror is a technological marvel. The lightweight mirrors, coatings, actuators and mechanisms, electronics and thermal blankets when fully deployed form a single precise mirror that is truly remarkable,” said Lee Feinberg, optical telescope element manager for Webb at NASA's Goddard Space Flight Center in Greenbelt, Maryland.	Hybrid	2021-05-29 18:45:41	2021-05-29 18:45:41
 Straight quotation marks: odd number	10097705	eng	I want to buy a 32" TV.	shekitten	2021-06-10 20:22:50	2021-08-18 09:34:55
 Quotation marks: mixed curly and straight	10110367	eng	We've had our differences, but that’s all behind us now.	ulymarrero	2021-06-16 13:26:43	2021-06-21 02:53:21
+Foreign: Escuchar = Listen	10112639	eng	"Escuchar" is a transitive verb in Spanish, unlike its English equivalent "listen to."	espamatics	2021-06-17 16:31:09	2021-06-17 16:45:10
 Capitalization	10125179	eng	ß is such a beautiful letter that I can't bring myself to replace it with ss in such a high number of words.	tsp_2	2021-06-23 20:38:04	2021-06-23 20:52:40
 Comma: succeeded by letter	10140617	eng	Because he was sick,Tom didn't go.	CK	2021-07-01 02:57:36	2021-07-01 02:57:36
 Quotation marks: mixed curly and straight	10152078	eng	In a statement they said, “Today, on what would have been our mother's 60th birthday, we remember her love, strength and character — qualities that made her a force for good around the world, changing countless lives for the better.”	Hybrid	2021-07-05 13:18:34	2021-07-05 13:18:34
@@ -915,6 +918,7 @@ Question mark: preceeded by space	10522312	eng	Who should ever care ?	sacredcelt
 English quotation marks: unbalanced opening marks	10526258	eng	“I don't feel like going to college today." “Then stay home.” “No, I'm not doing that either.” “Why not?”	DJ_Saidez	2021-11-23 15:39:25	2021-11-23 17:03:08
 Straight quotation marks: odd number	10526258	eng	“I don't feel like going to college today." “Then stay home.” “No, I'm not doing that either.” “Why not?”	DJ_Saidez	2021-11-23 15:39:25	2021-11-23 17:03:08
 Quotation marks: mixed curly and straight	10526258	eng	“I don't feel like going to college today." “Then stay home.” “No, I'm not doing that either.” “Why not?”	DJ_Saidez	2021-11-23 15:39:25	2021-11-23 17:03:08
+Foreign: cravate = cravat	10527185	eng	There may problems with homonyms in a language. I was talking to a friend about how I detested the Western business suit with its "tie" that choked the neck. He thought that I was obliquely referring to "Thai," which was not my intention. In my head, I wanted to use the French word "cravate," but he did not know French. Homonyms may be a problem in effective communication.	nonong	2021-11-24 04:52:03	2021-11-24 05:13:17
 Straight quotation marks: odd number	10545630	eng	"What did you just say?" "Nothing." Nah, I heard you say something. What was it?" "I said nothing." "You just said 'fuck.' I heard you." "Oh yeah?" "Yeah!" "Then, in this case, go fuck yourself."	Amastan	2021-12-05 08:59:32	2021-12-05 08:59:32
 Question mark: preceeded by space	10553010	eng	I just saw it go through the loom; it passed in the blink of an eye. What is it ? It's the light.	AmarMecheri	2021-12-09 18:24:58	2021-12-09 18:24:58
 Multiplication sign: possible homoglyph	10554680	eng	Magnus Carlsen retained his title of World Chess Champion. With four wins and seven draws in eleven games, he subdued by 7.5 x 3.5 the challenger Ian Nepomniachtchi, who throughout the competition made some serious mistakes.	carlosalberto	2021-12-10 16:21:21	2021-12-10 16:21:21
@@ -1019,6 +1023,7 @@ Quotation marks: mixed curly and straight	11479628	eng	"Say something in French,
 Ellipsis: too short	11495163	eng	It's very easy to become a cop in the U.S..	shekitten	2023-01-29 21:41:14	2023-01-29 21:41:14
 Quotation marks: mixed curly and straight	11508184	eng	"What color underwear are you wearing?" "I don’t wear any".	Bernie75	2023-02-04 00:09:19	2023-02-04 00:09:19
 Multiplication sign: possible homoglyph	11535424	eng	A chess board has 64 squares of equal size in an 8x8 grid.	megamanenm	2023-02-14 01:25:14	2023-02-14 01:25:14
+Misspelling: doubfounded -> dumbfounded	11577577	eng	Matthew was absolutely doubfounded by what he had just seen.	Amastan	2023-03-05 11:30:21	2023-09-22 09:18:40
 Zero-width space	11581582	eng	The forest was illuminate​d by a lantern.	Yanahma	2023-03-07 16:56:14	2023-03-07 16:56:14
 Ellipsis: too short	11595928	eng	Turn the handle to open the door..	CK	2023-03-14 20:02:38	2023-03-14 20:02:38
 Ellipsis: too short	11603335	eng	It was a mistake to challenge Tom to a fight..	CK	2023-03-17 20:01:07	2023-03-17 20:01:07
@@ -1040,6 +1045,8 @@ English quotation marks: unopened closing mark	11754215	eng	"I'm sorry,” was t
 Straight quotation marks: odd number	11754215	eng	"I'm sorry,” was the first thing out of my mouth.	Nuel	2023-05-11 08:14:59	2023-05-11 08:14:59
 Quotation marks: mixed curly and straight	11754215	eng	"I'm sorry,” was the first thing out of my mouth.	Nuel	2023-05-11 08:14:59	2023-05-11 08:14:59
 Quotation marks: mixed curly and straight	11792431	eng	I'd been drinking and couldn’t drive home.	Nuel	2023-05-25 20:02:56	2023-05-25 20:02:56
+Misspelling: medicaiton -> medication	11792856	eng	Santiago took his medicaiton.	Amastan	2023-05-26 07:10:09	2023-05-26 07:10:09
+Misspelling: watermalon -> watermelon	11801789	eng	Dmitri grabbed the watermalon and threw it to the lake.	Amastan	2023-05-29 08:25:55	2023-05-29 08:25:55
 Final punctuation	11845308	eng	Dear Diary,	maaster	2023-06-14 18:51:22	2023-06-14 18:51:28
 Zero-width space	11866211	eng	What other languages ​​has he sung in?	LdjuherTaqvaylit	2023-06-22 20:43:31	2023-06-22 20:43:31
 Quotation marks: mixed curly and straight	11868396	eng	Leonid couldn't answer Rima’s question with certainty.	Amastan	2023-06-23 13:59:10	2023-06-23 13:59:10
@@ -1078,16 +1085,24 @@ Capitalization	12368898	eng	e is an irrational number.	Miktsoanit	2024-03-12 20:
 Capitalization	12370548	eng	bread.	jan_usawi_sewi_o	2024-03-14 00:47:34	2024-03-14 00:47:34
 Quotation marks: mixed curly and straight	12379127	eng	“What nationality are your mothers?” "Mexican."	VPZ	2024-03-19 15:46:19	2024-03-19 15:46:19
 Zero-width space	12380945	eng	In 1912, Japan gave 3,000 cherry trees to the U.S. capital city of Washington, D.C. The gift was to honor the lasting friendship between the United States and Japan. ​	Source_VOA	2024-03-21 00:00:45	2024-03-21 00:00:45
-Final punctuation	12381060	eng	I got an Austrian passport	InfinitusPrimus	2024-03-21 06:37:37	2024-03-21 06:37:47
-Final punctuation	12386787	eng	He taught me how to swim	VPZ	2024-03-24 21:20:33	2024-03-24 21:20:33
 Quotation marks: mixed curly and straight	12388895	eng	Hence a sound working principle in the elaboration of IALA's system of grammar is that the term “minimum grammar” shall not permit the suppression of any grammatical feature which according to the testimony of the source languages is indispensable in the government of their vocabularies and hence of the vocabulary of the interlingua embodied in the Intelingua-English Dictionary.	yirhrgyd	2024-03-26 09:58:18	2024-03-26 09:58:18
-Capitalization	12403344	eng	smile, and let other guess what is on your mind	krierr	2024-04-06 22:55:25	2024-04-06 22:55:25
-Final punctuation	12403344	eng	smile, and let other guess what is on your mind	krierr	2024-04-06 22:55:25	2024-04-06 22:55:25
-Final punctuation	12403345	eng	I like shrimps	krierr	2024-04-06 22:55:42	2024-04-06 22:55:42
 Final punctuation	12403373	eng	嫌な予感がする	jgrimaldog	2024-04-06 23:19:42	2024-04-06 23:19:42
 Final punctuation	12403375	eng	Hi	jgrimaldog	2024-04-06 23:19:59	2024-04-06 23:19:59
 Final punctuation	12407796	eng	Impulsive people are more prone to procrastination	Shishlak	2024-04-09 11:33:51	2024-04-09 11:33:51
 Final punctuation	12413670	eng	War is cruel and that is why sensible governments do everything they can to prevent it	adamtrousers	2024-04-13 22:21:31	2024-04-13 22:21:31
+Misspelling: Rhanthambore -> Ranthambore	12415106	eng	When you see one of the neighborhood tabbies stalking a squirrel, you can see a miniature tiger stalking deer on the meadows of Rhanthambore.	niroshan	2024-04-14 17:40:51	2024-04-14 17:40:51
+Misspelling: desease -> disease	12415517	eng	That isn't a desease.	CK	2024-04-15 03:08:05	2024-04-15 03:08:05
+Misspelling: appart -> apart	12418916	eng	I really like the people I talked to in the village appart from Yidir's son.	Aghanim	2024-04-17 13:02:07	2024-04-17 13:02:07
 Final punctuation	12419956	eng	Tom said he'd never water skied before	CK	2024-04-18 08:41:26	2024-04-18 08:41:26
 Final punctuation	12421653	eng	Your my buddy	Wilalagapanadolbonow	2024-04-19 14:30:55	2024-04-19 14:30:55
 Final punctuation	12421654	eng	We are best friends	Wilalagapanadolbonow	2024-04-19 14:31:21	2024-04-19 14:31:21
+Final punctuation	12429352	eng	Please give me a day or two	CK	2024-04-25 03:39:43	2024-04-25 03:39:43
+Final punctuation	12429354	eng	Please give us a day or two	CK	2024-04-25 03:40:12	2024-04-25 03:40:12
+Final punctuation	12431945	eng	You look a little sad	Blueblaze	2024-04-26 19:30:48	2024-04-26 19:30:48
+Final punctuation	12431946	eng	This felt pen is red	Blueblaze	2024-04-26 19:31:02	2024-04-26 19:31:02
+Final punctuation	12431948	eng	Perhaps we should simply study it	Blueblaze	2024-04-26 19:31:22	2024-04-26 19:31:22
+Final punctuation	12431950	eng	It sails and it doesn't sink	Blueblaze	2024-04-26 19:31:59	2024-04-26 19:31:59
+Final punctuation	12431952	eng	Jane knows japanese	Blueblaze	2024-04-26 19:32:21	2024-04-26 19:32:21
+Final punctuation	12431960	eng	I'll have to change the washing machine	Blueblaze	2024-04-26 19:34:23	2024-04-26 19:34:23
+Final punctuation	12431981	eng	We think we did a good job	Blueblaze	2024-04-26 19:48:28	2024-04-26 19:48:28
+Final punctuation	12432012	eng	The artist painted a vibrant mural on the ship's hull, making it unique and captivating	Blueblaze	2024-04-26 20:06:06	2024-04-26 20:06:06
